@@ -1,0 +1,110 @@
+{{Chinese
+|collapse=yes
+|title=Daoism/Taoism
+|piccap=<span style="font-size:36pt; line-height:1em">道教</span>
+|picsize=60
+|t=[[wikt:道|道]][[wikt:教|教]]
+|s=[[wikt:道|道]][[wikt:教|教]]
+|p=dào jiào (dao<sup>4</sup> jiao<sup>4</sup>)
+|w=tao<sup>4</sup> chiao<sup>4</sup>
+|y=dou<sup>6</sup> gaau<sup>3</sup>
+|hangul=[[wikt:도|도]][[wikt:교|교]]
+|rr=do gyo
+|mr=to kyo
+|kanji=[[wikt:道|道]] [[wikt:教|教]]
+|hiragana=[[wikt:どう|どう]] [[wikt:きょう|きょう]]
+|revhep=dō kyō
+|vie=đạo giáo
+}}
+{{Taoism}}{{ChineseText}}
+In English, the words '''[[Daoism]]''' and '''[[Taoism]]''' ({{IPAc-en|ˈ|t|aʊ|.|ɪ|z|əm}} or {{IPAc-en|ˈ|d|aʊ|.|ɪ|z|əm}}) are the subject of an ongoing controversy over the preferred [[romanization]] for naming this native [[Chinese philosophy]] and [[Religion in China|Chinese religion]]. The root [[Chinese language|Chinese]] word [[Wikt:道|道]] "way, path" is romanized ''[[tao]]'' in the older [[Wade–Giles]] system and ''[[Tao|dào]]'' in the modern [[Pinyin]] system. The sometimes heated arguments over ''Taoism'' vs. ''Daoism'' involve [[sinology]], [[phoneme]]s, [[loanword]]s, and politics.
+
+[[Phonetic transcription]] (representing each distinct speech sound with a separate symbol) is shown with the [[help:IPA|International Phonetic Alphabet]] enclosed in square brackets [&nbsp;], and [[phonemic]] transcription (representing a small set of speech sounds that a particular language distinguishes) is enclosed within virgules or slashes /&nbsp;/. In [[articulatory phonetics]], "[[Aspiration (phonetics)|aspiration]]" is an articulation that involves an audible release of breath. For example, the /t/ in ''tore'' {{IPA|[tʰɔər]}} is "aspirated", with a noticeable puff of breath, but the /t/ in ''store'' {{IPA|[stɔər]}} is "unaspirated". The diacritic for aspiration is a superscript "h", {{IPA|[ʰ]}} (e.g., {{IPA|tʰ pʰ}}). While the original IPA did not explicitly mark unaspirated consonants, the revised [[Extensions to the IPA]] marks them with a superscript equals sign "=", {{IPA|[⁼]}} (e.g., {{IPA|t⁼, p⁼}}). "[[voice (phonetics)|Voice]]" or "voicing" distinguishes whether a particular sound is either "voiced" (when the [[vocal cords]] vibrate) or "unvoiced" (when they do not). Examples include voiceless {{IPA|[t, s]}} and voiced {{IPA|[d, z]}}.
+
+==Phonology of 道 and its English approximations==
+Disregarding [[Tone (linguistics)|tone]], 道 is pronounced {{IPA|[taʊ]}} in [[Standard Chinese]]. This pronunciation cannot be correctly reproduced by most native English speakers who are unfamiliar with Chinese. The argument between the proponents of ''Dao'' and ''Tao'' hinges not on which of the two is correct, but which of the two spellings read aloud will better approximate the Chinese.
+
+The initial of ''tao''/''dao'' 道 is a [[Tenuis consonant|tenuis]] [[voiceless alveolar plosive]], which is commonly transcribed with the IPA symbol {{IPA|[t]}}, although some sinologists specify {{IPA|[t̥]}}  or {{IPA|[d̥]}} with the voiceless under-ring diacritic. For example, [[Jerry Norman (sinologist)|Jerry Norman]] (1988:139) explains using {{IPA|[d̥]}} for Pinyin ''d'', "The stops and affricates fall into two contrasting series, one unaspirated, the other aspirated. The unaspirated series (''b'', ''d'', ''z'', etc.) is [[lenis]], and often gives the impression of being voiced to the untrained ear. The second series (''p'', ''t'', ''c'', etc.) is strongly aspirated."
+
+Although there are various degrees of "aspiration" heard in spoken English, one can simplify matters here and say that this tenuis voiceless {{IPA|[t]}} sound exists in English—but never as an initial in a stressed syllable. It is found instead in words such as "s'''t'''op" or "pa'''t'''". An initial ''t'' in English, as in "'''t'''ap", is pronounced {{IPA|[tʰ]}}—that is, an [[Aspiration (phonetics)|aspirated]] version of {{IPA|[t]}} or {{IPA|[d̥]}}, its [[Allophone|complementary allophone]]. The natural English pronunciation of the word spelled ''Tao'' is therefore {{IPA|[tʰaʊ]}}. In standard [[Standard_Mandarin#Phonology|Mandarin phonology]], however, {{IPA|[t]}} and {{IPA|[tʰ]}} are not allophonic, but represent two distinct [[phoneme]]s. In fact, {{IPA|[tʰaʊ]}} does not merely sound wrong, it sounds like a different word—[[Wikt:桃|桃]] (Pinyin táo, {{IPA|[tʰaʊ]}}) "peach", or [[Wikt:套|套]] {{IPA|[tʰaʊ]}} "cover" (distinguished by tone).
+
+The alternative English spelling, ''Dao'', results in another mispronunciation, {{IPA|/daʊ/}}. The initial consonant is {{IPA|[d]}}, a [[voiced alveolar plosive]]. However, {{IPA|[d]}} is not a phoneme in Mandarin, which has no voiced plosives, therefore the initial voicing of {{IPA|[daʊ]}} is not significant to the Chinese listener. What ''is'' significant is that, unlike the English {{IPA|[t]}}, {{IPA|[d]}} is ''not'' aspirated in word-initial position. Therefore the English-speaker's {{IPA|/daʊ/}} seems more similar to the desired Chinese {{IPA|[taʊ]}} than the alternative {{IPA|[tʰaʊ]}}. Only the aspiration is significant to the Chinese listener.
+
+The linguist Michael Carr explains:
+<blockquote>The provenance of the pronunciation with {{IPA|[t]}} of ''Taoism'' is a gap in the English phonemic paradigm for the unvoiced unaspirated {{IPA|[t̥]}} in ''dào'' {{IPA|[t̥au]}} 'way'. This Chinese {{IPA|/t̥/}} phoneme is nearer to the pronunciation of English voiced unaspirated {{IPA|/d/}} in ''Dow'' than the voiceless aspirated {{IPA|/t/}} in ''Taos'', but it is neither. The Chinese aspirated vs. non-aspirated phonemic contrast is almost the opposite of the English voiced vs. unvoiced contrast. In certain positions, English non-aspirated consonants can occur as variants of aspirated ones. Stops after initials {{IPA|[s-]}} in English *e.g., ''spy'', ''sty'', ''sky'') are unvoiced unaspirated and close to the {{IPA|/t̥/}} phoneme in {{IPA|[t̥au]}} 'way', but these are not highly voiced, and the English distinction can be analyzed as one of aspiration, with voicing redundant and predictable. (1990:60) </blockquote>
+
+==Romanizations of 道==
+The history of transcribing spoken Chinese is lengthy and inconsistent. Sinologist Paul Kratochvil describes how Westerners predictably misheard Chinese unvoiced consonants, such as the unvoiced unaspirated {{IPA|/t/}} in 道 {{IPA|[taʊ]}}.
+<blockquote> Since the great majority of people who first attempted to transcribe Chinese were not linguists (and even if they were, the principles of modern [[phonemics]] were not discovered for another two centuries), their endeavour was marred by a lack of systematic approach and many contemporary European misconceptions about language. Even more than two hundred years later, during the last century, when Western specialists in Chinese, who had by that time created the discipline known as [[sinology]], designed the early forms of numerous transcriptions used today, the first mistakes of enthusiastic missionaries, envoys and business men were not fully eliminated. In fact their traces can be seen even today. (1968:50–51)</blockquote>
+
+There are numerous rival systems for the [[Romanization of Chinese]] for Standard Chinese pronunciation. Compare these transcriptions of Chinese 道 {{IPA|[t̥aʊ]}}: [[Wade–Giles]] ''tao'' or ''tao''<sup>4</sup> (marking 4th tone), [[Legge romanization]] ''tâo'', [[Latinxua Sin Wenz]] ''dau'', [[Yale romanization of Mandarin|Yale]] ''dàu'', [[Mandarin Phonetic Symbols II]] ''dau'', [[Hanyu Pinyin]] ''dào'', [[Tongyong Pinyin]] ''dào'', [[Gwoyeu Romatzyh]] or National Romanization ''daw'', [[Zhuyin fuhao]] ㄉㄠ, and Cyrillic [[Cyrillization of Chinese from pinyin|Palliday system]] ''дао''.
+
+Romanization systems use one of two arbitrary ways to represent the Chinese phonemic opposition between aspirated and unaspirated consonants. Take for example, Chinese unaspirated  [[Wikt:道|道]] {{IPA|[t̥aʊ]}} "way" and aspirated [[Wikt:桃|桃]] {{IPA|[tʰaʊ]}} "peach". Some systems, like Wade–Giles ''tao'' 道 and ''t'ao'' 桃, introduce a special symbol for aspiration; others, like Pinyin ''dao'' 道 and ''tao'' 桃, use "d" and "t". In English and other languages, "d" and "t" indicate a voiced and unvoiced distinction, which is not phonemic in Chinese.
+
+From a theoretical perspective, both ''tao'' and ''dao'' transliterations if pronounced according to English spelling conventions are equally close to, or far from, the Standard Chinese pronunciation of 道 {{IPA|[taʊ]}}. However in practice, most English speakers think the Chinese pronunciation sounds more like an English initial {{IPA|/d/}} than an English initial {{IPA|/t/}} because the Chinese pronunciation is unaspirated. Therefore, some argue that ''Dao'' is in that sense more "accurate" than ''Tao''. Taylor & Taylor (1995:124) concluded, "By and large, Pinyin represents the Chinese sounds better than the Wade-Giles system, and does so with fewer extra marks."
+
+An inherent problem with the arcane Wade–Giles use of apostrophes to differentiate aspiration is that many English readers do not understand it, which has resulted in the frequent mispronunciation of ''Taoism'' as {{IPA|/ˈtaʊ.ɪzəm/}} instead of {{IPA|/ˈdaʊ.ɪzəm/}}. [[Alan Watts]] (1975:xix) explains using Wade–Giles "in spite of its defects" but writes: "No uninitiated English-speaking person could guess how to pronounce it, and I have even thought, in a jocularly malicious state of mind, that Professors Wade and Giles invented it so as to erect a barrier between profane and illiterate people and true scholars."
+
+==The ''Taoism/Daoism'' loanword==
+In [[loanword]] terminology, English ''Taoism/Daoism'' is a "calque", "loan-rendering", or "hybrid" that blends a borrowed word with a native element, for example, ''[[Wikt:chopstick|chopstick]]'') blends [[Chinese Pidgin English]] ''chop'' (< Cantonese ''kàp'', pinyin ''kuài'' 快 "fast; quick") with English ''stick''. ''Taoism/Daoism'' is one of a few Chinese ''-ism'' borrowings, along with ''[[Confucianism]]'', ''[[Mohism]]'', and ''[[Maoism]]''.
+
+An early European account of Taoism was provided by the [[Jesuit China missions|Jesuits]] [[Matteo Ricci]] and [[Nicolas Trigault]] in their ''[[De Christiana expeditione apud Sinas]]'' (1615). While the transcription of the Chinese words used by Ricci was not very consistent, he systematically used Latin ''p'' and ''t'' for unaspirated Chinese  sounds that Pinyin renders as ''b'' and ''d''.<ref>{{harvnb|Gallagher (trans.)|Trigault|1953|pp=606–616}} ("Chinese Index", which is based largely on [[Pasquale d'Elia]]'s ''Fonti Ricciane'', and Lien-Shen Yang's ''Topics in Chinese History'')</ref> Accordingly, Ricci called the adherents of Laozi, ''Tausu'' ({{lang-zh|道士}}, Pinyin: ''[[Daoshi]]''),<ref>''[http://books.google.com.au/books?id=iLsWAAAAQAAJ De Christiana expeditione apud Sinas suscepta ab Societate Jesu]'', Book One, Chapter 10, p. 125. Quote: "sectarii quidam ''Tausu'' vocant". Chinese gloss in  [[Pasquale M. d' Elia]], Matteo Ricci. ''Fonti ricciane: documenti originali concernenti Matteo Ricci e la storia delle prime relazioni tra l'Europa e la Cina (1579-1615)'', Libreria dello Stato, 1942; can be found by searching for "tausu" at http://books.google.com.au/books?id=zRw8AAAAMAAJ. [[Louis J. Gallagher]] (1953), apparently has a typo (''Taufu'' instead of ''Tausu'') in the ''text'' of his translation of this line (p. 102), and ''Tausi'' in the index (p. 615)</ref> which was rendered as ''Tausa'' in an early English translation published by [[Samuel Purchas]] (1625).<ref>''A discourse of the Kingdome of China, taken out of Ricius  and Trigautius, containing the countrey, people, government, religion, rites, sects, characters, studies, arts, acts ; and a Map of China added, drawne out of one there made with Annotations for the understanding thereof'' (excerpts from ''[[De Christiana expeditione apud Sinas]]'', in English translation) in ''[[Samuel Purchas|Purchas his Pilgrimes]]'', Volume XII, p. 461 (1625).  Quote: "... Lauzu ... left no Bookes of his Opinion, nor seemes to have intended any new Sect, but certaine Sectaries, called Tausa, made him the head of their sect after his death..." Can be found in the [http://www.archive.org/stream/hakluytusposthu14purcgoog/hakluytusposthu14purcgoog_djvu.txt  full text of "Hakluytus posthumus"] on archive.org. The book also [http://books.google.com/books?id=wrBAXK9wOnUC appears on Google Books], but only in snippet view.</ref>
+
+According to the ''[[Oxford English Dictionary]]'' (2nd ed.), the first recorded occurrences of the relevant words were ''Tao'' 1736, ''Tau'' 1747, ''Taouism'' and ''Taouist'' 1838, ''Taoistic'' 1856, ''Tao-ism'' 1858, ''Taoism'' 1903 [clearly wrong, at least antedated by Balfour (1881)], ''Daoism'' 1948, ''Dao'' and ''Daoist'' 1971.
+
+Carr (1990:66) contrasts the English pronunciations of ''gung-ho'' and ''kung-fu'' to differentiate borrowings deriving from spoken and written Chinese. The ''OED'' records the first usage of ''gung-ho'' in 1942 (referring to [[Evans Carlson]]'s Marines) and of ''kung-fu'' in 1966 (referring to [[Bruce Lee]]'s movies). ''[[Gung-ho]]'' (Pinyin ''gōnghé'' 工合 "work together", see Cohen 1989) is pronounced {{IPA|/ˌɡʌŋˈhoʊ/}} because it was taken from spoken rather than written Chinese. The Wade–Giles rendition ''kung-ho'', on the other hand, tends to be pronounced {{IPA|/ˌkʌŋˈhoʊ/}} (the ''OED'' gives "''kung-hou''" {{sic}}). For the same reason, ''[[Kung fu (term)|Kung-fu]]'' (Pinyin ''gōngfú'' 功夫 "ability", meaning "Chinese martial arts") is pronounced {{IPA|/ˌkʌŋˈfuː/}} instead of {{IPA|*/ˌɡɒŋˈfuː/}}.
+<blockquote>Many Anglo-Chinese borrowings besides ''Taoism'' are mispronounced because of romanization. A commonly heard example is the ''Yijing'' {{IPA|[ïdʒiŋ]}} "Book of Changes" which, owing to Wade–Giles "''I Ching''", is usually cacologized as {{IPA|[aɪtʃiŋ]}} taking ''yi'' 'change; easy' in false analogy (ego?) with English ''I''. In most cases, Pinyin romanization more accurately represents Chinese pronunciations than Wade–Giles; English speakers would read the martial art "''Tai Ji Quan''" closer to ''tàijíquán'' {{IPA|[taitʃitʃʰuan]}} 'great ultimate fist' than "''T'ai Chi Ch'üan''." (Carr 1990:67–8)</blockquote>
+
+More generations of English speakers have learned about China through Wade–Giles (proposed in 1859, revised in 1892) than through Pinyin (approved in 1958, adopted in 1979). The English word ''Taoism'' is unquestionably older and more familiar than ''Daoism''. However, Hanyu Pinyin has been gaining ground as the international standard for Chinese romanization. The system is widely used in [[Western study of the Chinese language]] and by international bodies such as the [[United Nations]] and the [[International Organization for Standardization]] (ISO 7098). It is the official system of romanization used by the governments of the [[People's Republic of China]], [[Singapore]] and [[Taiwan]].
+
+While sinologists increasingly prefer the term ''Daoism'', traditionalists continue using the well-known ''Taoism''. Some scholars consciously adopt "''Daoism''" in order to distinguish the Chinese philosophy and religion from what "''Taoism''" embodied in the 19th- and 20th-century Western imaginations. Girardot, Miller and Liu (2001: xxxi) explain, "earlier discussions of the Daoist tradition were often distorted and misleading—especially in terms of the special Western fascination with the 'classical' or 'philosophical' ''Daode jing'' and the denigration and neglect of the later sectarian traditions."
+
+A summarization of the major differences in romanization is found at [http://www.edepot.com/taoroman.html Daoism Romanization].
+
+==Lexicography of ''Taoism''==
+English dictionaries provide some insights into the ''Daoism''–''Taoism'' problem. For over a century, British and American lexicographers glossed the pronunciation of ''Taoism'' as {{IPA|/ˈtaʊ.ɪzəm/}}, but more recently they changed it to {{IPA|/ˈdaʊ.ɪzəm/}}, and added ''Daoism'' entries.
+
+Carr analyzes how English dictionaries gloss ''Taoism'''s pronunciation, comparing 12 published in Great Britain (1933–1989) and 11 published in the United States (1948–1987).
+<blockquote>Pronunciations are given in various dictionary respelling systems, rather than IPA, but for purposes of discussion, they are divisible into four types: {{IPA|[daʊɪzəm]}}, {{IPA|[daʊɪzəm, taʊɪzəm]}}, {{IPA|[taʊɪzəm, daʊɪzəm]}}, and {{IPA|[taʊɪzəm]}}. The first is strictly "correct", the second and third are partially so, depending upon descriptive/prescriptive policies, and the last is inaccurate. Since many, if not most, English speakers pronounce ''Taoism'' as {{IPA|[taʊɪzəm]}}, it can legitimately be listed as an alternate. Dictionaries are justified in glossing {{IPA|[daʊɪzəm, taʊɪzəm]}} if they follow a convention of giving preferred pronunciation first, or as {{IPA|[taʊɪzəm, daʊɪzəm]}} if they give common pronunciation first (and if they have some way to determine this). (1990:64)</blockquote>
+Within Carr's sample, most American dictionaries gloss {{IPA|[daʊɪzəm, taʊɪzəm]}}, while most British ones gloss {{IPA|[taʊɪzəm]}} and have been slower to add the {{IPA|[daʊɪzəm]}} rectification. The respective first accurate glosses for ''Taoism'' were "''douizm; tou''-" (''Webster's International Dictionary of the English Language'', 2nd ed., 1934) and "Also '''Daoism''' and with pronunc. (dau•iz'm)" (''Oxford English Dictionary Supplement'', 1986).
+
+==Ramifications==
+As detailed above, proponents for both sides of the ''Daoism''–''Taoism'' debate make valid arguments. Some prefer the Wade-based ''Taoism'' because it is more familiar than ''Daoism'' and because the borrowing is a fully assimilated English word anyway; such words are generally unaffected by later systems of romanization. However, many of these traditionalists will accept using pinyin for more recent Chinese borrowings. Others prefer pinyin-based ''Daoism'' because of growing acceptance internationally of Hanyu Pinyin as the standard romanization for Chinese, as reflected in other recent spelling changes such as the pinyin ''Beijing'' that replaced the Wade ''Pei-ching'' or [[postal romanization]] ''Peking''. In conclusion, three illustrative outcomes of ''Daoism'' vs. ''Taoism'' are given from publishing, library, and Wikipedia spheres.
+
+First, publishing houses have profit concerns about changing romanizations of foreign books. Many more English translations are titled [[Tao Te Ching]] than ''Dao De Jing'', making the former spelling more familiar to native speakers. Academic publishers are more likely than others to adopt pinyin; [[Columbia University Press]] changed the titles of [[Burton Watson]]'s translations from "Chuang Tzu" to "[[Zhuang Zhou|Zhuangzi]]" and from "Han Fei Tzu" to "[[Hanfeizi]]".
+
+Second, libraries have independent concerns about revising legacy Wade–Giles catalogs to contemporary pinyin. After the [[Library of Congress]] converted to pinyin in 1997, librarian Jiajian Hu (1999:250–1) listed three reasons why they deemed Wade–Giles unsatisfactory and added four more.
+* First, it had phonetically redundant syllables.
+* Second, it failed to render the Chinese national standard pronunciation.
+* Finally, it wasn't able to show the semantic distinctions between multiple readings of single characters. ...
+* The Pinyin system of romanization of Chinese is now generally recognized as standard. ...
+* Most users of American libraries are now familiar with pinyin romanization. ...
+* The use of pinyin romanization by libraries facilitates the exchange of data with foreign libraries. ...
+* Pinyin has more access points than Wade–Giles for online retrieval.
+
+==Notes==
+{{Reflist}}
+
+==References==
+* {{cite book| author = Zhuangzi| title = The Divine Classic of Nan-hua: Being the Works of Chuang Tsze, Taoist Philosopher. With an Excursus, and Copious Annotations in English and Chinese| url = http://books.google.com/?id=zhkNAAAAYAAJ| year = 1881| publisher = Kelly & Walsh| isbn =  }}
+* Carr, Michael. 1990. "Whence the Pronunciation of ''Taoism''?" ''Dictionaries'' 12:55–74.
+* Cohen, Gerald. 1989. "''Gung Ho'' Revisited, Part 1". ''Comments on Etymology'' 29.3:1–42.
+* {{citation|authorlink=Louis J. Gallagher|first=Louis J.|last=Gallagher (trans.)|year=1953|authorlink2=Nicolas Trigault|first2=Nicolas|last2=Trigault|url=http://books.google.com/books?id=6qIaAAAAIAAJ|title=China in the Sixteenth Century: The Journals of Matteo Ricci|publisher= Random House, New York}} (Only snippet view on Google Books)
+* Girardot, N. J., James Miller and Liu Xiaogan, eds. 2001. ''Daoism and Ecology: Ways within a Cosmic Landscape''. Harvard University Press.
+* Hu, Jiajian. 1999. "[http://www.lib.niu.edu/1999/il9904250.html Chinese Romanization in Library of Congress Cataloging]". Illinois Periodicals Online.
+* Kratochvil, Paul. 1968. ''The Chinese Language Today''. Hutchinson.
+* [[Jerry Norman (sinologist)|Norman, Jerry]]. 1988. ''Chinese''. New York: Cambridge University Press.
+* Taylor, Insup and Maurice M. Taylor. 1995. ''Writing and literacy in Chinese, Korean, and Japanese'', Volume 3 of ''Studies in written language and literacy''. John Benjamins.
+* Watson, Burton, tr. 1964. ''Chuang Tzu: Basic Writings''. 2003. ''Zhuangzi: Basic Writings''. Columbia University Press.
+* Watson, Burton, tr. 1996. ''Han Fei Tzu: Basic Writings''. 2003. ''Han Feizi: Basic Writings''. Columbia University Press.
+* Watts, Alan. 1975. ''Tao: The Watercourse Way''. Pantheon.
+
+==External links==
+* [http://www.daoiststudies.org/dao/taoism-or-daoism Daoism or Taoism?], James Miller, [[Queen's University]]
+* [http://www.truetao.org/ttc/guide.htm Tao Te Ching Pronunciation Guide], True Tao
+
+{{DEFAULTSORT:Daoism-Taoism Romanization Issue}}
+[[Category:Standard Chinese]]
+[[Category:Romanization of Chinese]]
+[[Category:Taoism]]
+[[Category:Naming controversies]]

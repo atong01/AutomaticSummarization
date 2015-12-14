@@ -1,0 +1,256 @@
+{{Expert-subject|Mathematics||talk=possible error in formula for complete elliptic integral of the first kind at en.wikipedia.org/wiki/Elliptic_integral|date=April 2012}}
+
+In [[integral calculus]], '''elliptic integrals''' originally arose in connection with the problem of giving the [[arc length]] of an [[ellipse]].  They were first studied by [[Giulio Fagnano]] and [[Leonhard Euler]].  Modern mathematics defines an "elliptic integral" as any [[function (mathematics)|function]] {{math|''f''}} which can be expressed in the form
+
+: <math> f(x) = \int_{c}^{x} R \left(t, \sqrt{P(t)} \right) \, dt, </math>
+
+where {{math|''R''}} is a [[rational function]] of its two arguments, {{math|''P''}} is a [[polynomial]] of degree 3 or 4 with no repeated roots, and {{math|''c''}} is a constant.
+
+In general, integrals in this form cannot be expressed in terms of [[elementary function]]s. Exceptions to this general rule are when {{math|''P''}} has repeated roots, or when {{math|''R''(''x'',''y'')}} contains no odd powers of {{math|''y''}}.  However, with the appropriate [[Integration by reduction formulae|reduction formula]], every elliptic integral can be brought into a form that involves integrals over rational functions and the three [[Legendre form|Legendre canonical form]]s (i.e. the elliptic integrals of the first, second and third kind).
+
+Besides the Legendre form given below, the elliptic integrals may also be expressed in [[Carlson symmetric form]]. Additional insight into the theory of the elliptic integral may be gained through the study of the [[Schwarz–Christoffel mapping]]. Historically, [[elliptic functions]] were discovered as inverse functions of elliptic integrals.
+
+==Argument notation==
+''Incomplete elliptic integrals'' are functions of two arguments; ''complete elliptic integrals'' are functions of a single argument. These arguments are expressed in a variety of different but equivalent ways (they give the same elliptic integral). Most texts adhere to a canonical naming scheme, using the following naming conventions.
+
+For expressing one argument:
+* {{math|''α''}}, the ''[[modular angle]]'';
+* {{math|''k'' {{=}} sin ''α''}}, the ''elliptic modulus'' or ''[[Ellipse#Angular eccentricity|eccentricity]]'';
+* {{math|''m'' {{=}} ''k''<sup>2</sup> {{=}} sin<sup>2</sup>''α''}}, ''the parameter''.
+
+Each of the above three quantities is completely determined by any of the others (given that they are non-negative). Thus, they can be used interchangeably.
+
+The other argument can likewise be expressed as {{math|''φ''}}, the ''amplitude'', or as {{math|''x''}} or {{math|''u''}},  where {{math|''x'' {{=}} sin ''φ'' {{=}} sn ''u''}} and {{math|sn}} is one of the [[Jacobian elliptic functions]].
+
+Specifying the value of any one of these quantities determines the others.  Note that {{math|u}} also depends on {{math|m}}.  Some additional relationships involving ''u'' include
+
+: <math>\cos \varphi = \textrm{cn} \; u, \qquad \textrm{and} \qquad \sqrt{1 - m \sin^2 \varphi} = \textrm{dn}\; u.</math>
+
+The latter is sometimes called the ''delta amplitude'' and written as {{math|Δ(''φ'') {{=}} dn ''u''}}.  Sometimes the literature also refers to the ''complementary parameter'', the ''complementary modulus,'' or the ''complementary modular angle''. These are further defined in the article on [[quarter period]]s.
+
+==Incomplete elliptic integral of the first kind==
+The '''incomplete elliptic integral of the first kind''' {{math|F}} is defined as
+
+: <math> F(\varphi,k) = F(\varphi \,|\, k^2) = F(\sin \varphi ; k) = \int_0^\varphi \frac {d\theta}{\sqrt{1 - k^2 \sin^2 \theta}}.</math>
+
+This is the trigonometric form of the integral; substituting <math> t=\sin \theta, x=\sin \varphi </math>, one obtains [[Carl Gustav Jakob Jacobi|Jacobi]]'s form:
+
+: <math> F(x ; k) = \int_{0}^{x} \frac{dt}{\sqrt{(1 - t^2)(1 - k^2 t^2)}}.</math>
+
+Equivalently, in terms of the amplitude and modular angle one has:
+
+: <math> F(\varphi \setminus \alpha) = F(\varphi, \sin \alpha) = \int_0^\varphi \frac{d \theta}{\sqrt{1-(\sin \theta \sin \alpha)^2}}.</math>
+
+In this notation, the use of a vertical bar as delimiter indicates that the argument following it is the "parameter" (as defined above), while the backslash indicates that it is the modular angle. The use of a semicolon implies that the argument preceding it is the sine of the amplitude:
+
+: <math> F(\varphi, \sin \alpha) = F(\varphi \,|\, \sin^2 \alpha) = F(\varphi \setminus \alpha) = F(\sin \varphi ; \sin \alpha).</math>
+
+This potentially '''confusing use of different argument delimiters is traditional in elliptic integrals''' and much of the notation is compatible with that used in the reference book by [[Abramowitz and Stegun]] and that used in the integral tables by [http://www.mathtable.com/gr/  Gradshteyn and Ryzhik].
+
+With <math>x = \operatorname{sn}(u,k)</math> one has:
+
+: <math>F(x;k) = u;</math>
+
+thus, the [[Jacobian elliptic functions]] are inverses to the elliptic integrals.
+
+===Notational variants===
+There are still other conventions for the notation of elliptic integrals employed in the literature. The notation with interchanged arguments, {{math|''F''(''k'',''φ'')}}, is often encountered; and similarly {{math|''E''(''k'',''φ'')}} for the integral of the second kind. [[Abramowitz and Stegun]] substitute the integral of the first kind, {{math|''F''(''φ'',''k'')}}, for the argument {{math|''φ''}} in their definition of the integrals of the second and third kinds, unless this argument is followed by a backslash: i.e. {{math|''E''(''F''(''φ'',''k'') {{!}} ''k''<sup>2</sup>)}} for  {{math|''E''(''φ'' {{!}} ''k''<sup>2</sup>)}}. Moreover, their complete integrals employ the ''parameter'' {{math|''k''<sup>2</sup>}} as argument in place of the modulus {{math|''k''}}, i.e. {{math|''K''(''k''<sup>2</sup>)}} rather than {{math|''K''(''k'')}}. And the integral of the third kind defined by Gradshteyn and Ryzhik, {{math|Π(''φ'',''n'',''k'')}}, puts the amplitude {{math|''φ''}} first and not the "characteristic" {{math|''n''}}.
+
+Thus one must be careful with the notation when using these functions, because various reputable references and software packages use different conventions in the definitions of the elliptic functions.  For example, some references, and [[Wolfram Research|Wolfram]]'s [[Mathematica]] software and [[Wolfram Alpha]], define the complete elliptic integral of the first kind in terms of the parameter ''m'', instead of the elliptic modulus ''k''. 
+:<math>K(m) = \int_0^{\pi/2} \frac{d \theta}{\sqrt{1 - m \sin^2 \theta}} </math>
+
+==Incomplete elliptic integral of the second kind==
+The '''incomplete elliptic integral of the second kind''' {{math|''E''}} in trigonometric form is
+
+:<math> E(\varphi,k) = E(\varphi \,|\,k^2) =
+E(\sin\varphi;k) = \int_0^\varphi \sqrt{1-k^2 \sin^2\theta}\, d\theta.</math>
+
+Substituting <math> t=\sin\theta \; \text{and}\; x=\sin\varphi </math>,  one obtains Jacobi's form:
+
+:<math> E(x;k) = \int_0^x \frac{\sqrt{1-k^2 t^2} }{\sqrt{1-t^2}}\, dt.</math>
+
+Equivalently, in terms of the amplitude and modular angle:
+
+:<math> E(\varphi \setminus \alpha) = E(\varphi, \sin \alpha) = \int_0^\varphi \sqrt{1-(\sin \theta \sin \alpha)^2} \,d\theta.</math>
+
+Relations with the [[Jacobi elliptic functions]] include
+
+:<math>E(\mathrm{sn}(u ; k) ; k) = \int_0^u \mathrm{dn}^2 (w ; k) \, dw = u - k^2 \int_0^u \mathrm{sn}^2 (w ; k) \, dw = (1-k^2)u + k^2 \int_0^u \mathrm{cn}^2 (w ; k) \, dw.</math>
+
+The [[meridian arc]] length from the [[equator]] to [[latitude]] <math>\varphi\,\!</math> is written in terms of {{math|''E''}}:
+
+:<math>m(\varphi) = a\left(E(\varphi,e)+\frac{d^2}{d\varphi^2}E(\varphi,e)\right),</math>
+where ''a'' is the [[semi-major axis]], and ''e'' is the [[eccentricity (mathematics)|eccentricity]].
+
+==Incomplete elliptic integral of the third kind==
+The '''incomplete elliptic integral of the third kind''' {{math|Π}} is 
+:<math> \Pi(n ; \varphi \setminus \alpha) = \int_0^\varphi  \frac{1}{1-n\sin^2 \theta}
+\frac {d\theta}{\sqrt{1-(\sin\theta\sin \alpha)^2}}</math>, or
+
+:<math> \Pi(n ; \varphi \,|\,m) = \int_{0}^{\sin \varphi} \frac{1}{1-nt^2}
+\frac{dt}{\sqrt{(1-m t^2)(1-t^2) }}.</math>
+
+The number {{math|''n''}} is called the '''characteristic''' and can take on any value, independently of the other arguments. Note though that the value <math>\Pi(1; \tfrac \pi 2 \,|\,m)\,\!</math> is infinite, for any {{math|''m''}}.
+
+A relation with the Jacobian elliptic functions is
+
+:<math> \Pi(n; \,\mathrm{am}(u;k); \,k) = \int_0^u \frac{dw} {1 - n \,\mathrm{sn}^2 (w;k)}.</math>
+
+The meridian arc length from the equator to latitude <math>\varphi\,\!</math> is also related to a special case of {{math|Π}}:
+
+:<math>m(\varphi)=a(1-e^2)\Pi(e^2 ; \varphi \,|\,e^2).</math>
+
+==Complete elliptic integral of the first kind==
+<!-- This section is redirected from [[Complete elliptic integral of the first kind]] -->
+[[Image:Mplwp complete ellipticKk.svg|thumb|300px|Plot of the complete elliptic integral of the first kind <math>K(k)</math>]]
+Elliptic Integrals are said to be 'complete' when the amplitude {{math|''φ''{{=}}''π''/2}} and therefore {{math|''x''{{=}}1}}. The '''complete elliptic integral of the first kind''' {{math|''K''}} may thus be defined as
+
+:<math>K(k) = \int_0^{\pi/2} \frac{d\theta}{\sqrt{1-k^2 \sin^2\theta}} = \int_0^1 \frac{dt}{\sqrt{(1-t^2)(1-k^2 t^2)}},</math>
+
+or more compactly in terms of the incomplete integral of the first kind as
+
+:<math>K(k) = F(\tfrac{\pi}{2},k) = F(\tfrac{\pi}{2} \,|\, k^2) = F(1;k).</math>
+
+It can be expressed as a [[power series]]
+
+:<math>K(k) = \frac{\pi}{2} \sum_{n=0}^\infty \left[\frac{(2n)!}{2^{2 n} (n!)^2}\right]^2 k^{2n} = \frac{\pi}{2} \sum_{n=0}^\infty [P_{2 n}(0)]^2 k^{2n},</math>
+
+where {{math|''P''<sub>''n''</sub>}} is the [[Legendre polynomial]], which is equivalent to
+
+:<math>K(k) = \frac{\pi}{2}\left\{1 + \left(\frac{1}{2}\right)^2 k^{2} + \left(\frac{1 \cdot 3}{2 \cdot 4}\right)^2 k^{4} + \cdots + \left[\frac{\left(2n - 1\right)!!}{\left(2n\right)!!}\right]^2 k^{2n} + \cdots \right\},</math>
+
+where {{math|''n''!!}} denotes the [[semifactorial]].  In terms of the Gauss [[hypergeometric function]], the complete elliptic integral of the first kind can be expressed as
+
+:<math>K(k) = \tfrac{\pi}{2} \,{}_2F_1 \left(\tfrac{1}{2}, \tfrac{1}{2}; 1; k^2\right).</math>
+
+The complete elliptic integral of the first kind is sometimes called the [[quarter period]].  It can most efficiently be computed in terms of the [[arithmetic-geometric mean]]:
+:<math>K(k) = \frac {\pi /2}{\mathrm{agm}(1-k,1+k)}.</math>
+
+===Special values===
+:<math>\begin{align}
+                                                        K(0) &= \frac{\pi}{2} \\
+                           K \left(\frac{\sqrt{2}}{2}\right) &= \frac{1}{4 \sqrt{\pi}} \;\Gamma \left(\frac{1}{4} \right)^2 \\
+  K \left(\frac{1}{4}\left(\sqrt{6} - \sqrt{2}\right)\right) &= \frac{3^{\frac 1 4}}{2^{\frac{7}{3}} \pi} \Gamma\left(\frac{1}{3}\right)^3 \\
+  K \left(\frac{1}{4}\left(\sqrt{6} + \sqrt{2}\right)\right) &= \frac{3^{\frac 3 4}}{2^{\frac{7}{3}} \pi} \Gamma\left(\frac{1}{3}\right)^3 \\
+                      K\left(2\,\sqrt{-4 - 3\,\sqrt2}\right) &= \frac{\left(2 - \sqrt{2}\right)\pi^{\frac{3}{2}}}{4\,\Gamma\left(\frac{3}{4}\right)^2}
+\end{align}</math>
+
+===Relation to Jacobi θ-function===
+The relation to [[Theta function|Jacobi's θ function]] is given by 
+:<math>K(k)= \frac \pi 2 \theta_3^2(q),</math>
+where the [[nome (mathematics)|nome]] q is <math>q(k)=\exp\left(-\pi \frac{K^\prime(k)}{K(k)}\right).</math>
+
+===Asymptotic expressions===
+
+:<math>K(k^2) \approx \frac {\pi} {2} + \frac {\pi} {8} \frac {k^2} {1-k^2} - \frac {\pi} {16} \frac {k^4} {1-k^2}</math>
+This approximation has a relative precision better than {{math|3×10<sup>−4</sup>}} for {{math|''k'' < 1/2}}. Keeping only the first two terms is correct to 0.01 precision for {{math|''k'' < 1/2}}.
+
+===Differential equation===
+
+The differential equation for the elliptic integral of the first kind is
+:<math>\frac {\mathrm{d}} {\mathrm{d}k} \left[ k (1-k^2) \frac {\mathrm{d}K(k)} {\mathrm{d}k} \right] = k K(k)</math>
+
+A second solution to this equation is <math>K(\sqrt{1-k^2})</math>. This solution satisfies the relation
+:<math>\frac {\mathrm{d}} {\mathrm{d}k} K(\sqrt{1-k^2}) = \frac{E(k)}{k(1-k^2)}-\frac{K(k)}{k}</math>.
+
+==Complete elliptic integral of the second kind==
+<!-- This section was copied from [[Ellipse]] -->
+<!-- This section is redirected from [[Complete elliptic integral of the second kind]] -->
+[[Image:Mplwp complete ellipticEk.svg|thumb|300px|Plot of the complete elliptic integral of the second kind <math>E(k)</math>]]
+
+The '''complete elliptic integral of the second kind''' {{math|''E''}} is defined as
+
+:<math>E(k) = \int_0^{\pi/2}\sqrt {1 - k^2 \sin^2\theta}\ d\theta = \int_0^1 \frac{\sqrt{1 - k^2 t^2}}{\sqrt{1 - t^2}} dt,</math>
+
+or more compactly in terms of the incomplete integral of the second kind <math> E(\phi,k)</math> as
+
+:<math>E(k) = E\left(\frac{\pi}{2},k\right) = E(1;k).</math>
+
+For an ellipse with semi-major axis <math>a</math> and semi-minor axis <math>b</math> and eccentricity <math> e = \sqrt{1 - b^2/a^2} </math>, the complete elliptic integral of the second kind <math> E(e)</math> is equal to one quarter of the [[ellipse#Circumference|circumference]] <math>c</math> of the ellipse measured in units of the semi-major axis <math>a</math>. In other words:
+
+:<math> c = 4 a E(e). </math>
+
+The complete elliptic integral of the second kind can be expressed as a [[power series]]
+
+:<math>E(k) = \frac{\pi}{2} \sum_{n=0}^{\infty} \left[\frac{(2n)!}{2^{2 n} (n!)^2}\right]^2 \frac{k^{2n}}{1-2 n},</math>
+
+which is equivalent to
+
+:<math>E(k) = \frac{\pi}{2}\left\{1 - \left(\frac{1}{2}\right)^2 \frac{k^2}{1} - \left(\frac{1 \cdot 3}{2 \cdot 4}\right)^2 \frac{k^4}{3} - \cdots - \left[\frac{\left(2n - 1\right)!!}{\left(2n\right)!!}\right]^2 \frac{k^{2n}}{2 n-1} - \cdots \right\}.</math>
+
+In terms of the [[Gauss hypergeometric function]], the complete elliptic integral of the second kind can be expressed as
+
+:<math>E(k) = \tfrac{\pi}{2}  \,{}_2F_1 \left(\tfrac{1}{2}, -\tfrac{1}{2}; 1; k^2 \right).</math>
+
+The complete elliptic integral of the second kind can be very efficiently computed by a modification of the [[arithmetic-geometric mean]].<ref>{{Citation |last=Adlaj |first=Semjon |title=An eloquent formula for the perimeter of an ellipse |url=http://www.ams.org/notices/201208/rtx120801094p.pdf |journal=Notices of the AMS |volume=59 |issue=8 |pages=1094–1099 |date=September 2012 |doi=10.1090/noti879 |accessdate=2013-12-14}}</ref>
+
+===Special values===
+:<math>E(0) = \tfrac \pi 2 </math>
+:<math>E(1) = 1 \,\!</math> <!-- note the final spacing is to force LaTeX markup for consistency -->
+:<math>E\left( \tfrac{\sqrt{2}}{2} \right) = \pi^{\frac{3}{2}} \Gamma\left( \tfrac{1}{4} \right)^{-2} + \tfrac{1}{8 \sqrt{\pi}} \Gamma\left( \tfrac{1}{4} \right)^2 </math>
+:<math>E\left( \tfrac{1}{4}\left(\sqrt{6} - \sqrt{2}\right)\right) = 2^{\frac 1 3} 3^{-\frac 3 4} \pi^2 \Gamma\left(\tfrac 1 3\right)^{-3} + 2^{-\frac {10} 3} 3^{-\frac {1} 4} \pi^{-1} \left(\sqrt3 + 1\right) \Gamma\left(\tfrac 1 3\right)^3 </math>
+:<math>E\left( \tfrac{1}{4}\left(\sqrt{6} + \sqrt{2}\right)\right) = 2^{\frac 1 3} 3^{-\frac 1 4} \pi^2 \Gamma\left(\tfrac 1 3\right)^{-3} + 2^{-\frac {10} 3} 3^{\frac 1 4} \pi^{-1} \left(\sqrt3 - 1\right) \Gamma\left(\tfrac 1 3\right)^3 </math><ref>Adlaj, S. ''An eloquent formula for the perimeter of an ellipse'', Notices of the AMS 59(8), pp. 1094-1099.</ref><ref>http://www.ams.org/notices/201208/rtx120801094p.pdf</ref>
+:<math>E\left(2\,\sqrt{-4-3\,\sqrt2})\right)=\frac{\left(2+\sqrt2\right)\left(\pi ^2+4\,\Gamma\left(\frac34\right)^4\right)}{4\,\sqrt\pi\,\Gamma\left(\frac34\right)^2}</math>
+
+===Derivative and differential equation===
+:<math>\frac{\mathrm{d}E(k)}{\mathrm{d}k}=\frac{E(k)-K(k)}{k}</math>
+
+:<math>(k^2-1) \frac {\mathrm{d}} {\mathrm{d}k} \left[ k \;\frac {\mathrm{d}E(k)} {\mathrm{d}k} \right] = k E(k)</math>
+
+A second solution to this equation is <math>E(\sqrt{1-k^2}) - K(\sqrt{1-k^2})</math>.
+
+==Complete elliptic integral of the third kind==
+[[Image:Mplwp complete ellipticPi nfixed k.svg|thumb|300px|Plot of the complete elliptic integral of the third kind <math>\Pi(n,k)</math> with several fixed values of <math>n</math>]]
+The '''complete elliptic integral of the third kind''' {{math|Π}} can be defined as
+
+:<math>\Pi(n,k) = \int_0^{\pi/2}\frac{d\theta}{(1-n\sin^2\theta)\sqrt {1-k^2 \sin^2\theta}}.</math>
+
+Note that sometimes the elliptic integral of the third kind is defined with an inverse sign for the ''characteristic'' {{math|''n''}},
+
+:<math>\Pi'(n,k) = \int_0^{\pi/2}\frac{d\theta}{(1+n\sin^2\theta)\sqrt {1-k^2 \sin^2\theta}}.</math>
+
+===Partial derivatives===
+:<math>\frac{\partial\Pi(n,k)}{\partial n}=
+\frac{1}{2(k^2-n)(n-1)}\left(E(k)+\frac{1}{n}(k^2-n)K(k)+\frac{1}{n}(n^2-k^2)\Pi(n,k)\right)</math>
+
+:<math>\frac{\partial\Pi(n,k)}{\partial k}=
+\frac{k}{n-k^2}\left(\frac{E(k)}{k^2-1}+\Pi(n,k)\right)</math>
+
+==Functional relations==
+[[Adrien-Marie Legendre|Legendre]]'s relation:
+
+:<math> K(k) E\left(\sqrt{1-k^2}\right) + E(k) K\left(\sqrt{1-k^2}\right) - K(k) K\left(\sqrt{1-k^2}\right) = \frac \pi 2.</math>
+
+==See also==
+* [[Elliptic curve]]
+* [[Schwarz–Christoffel mapping]]
+* [[Carlson symmetric form]]
+* [[Jacobi's elliptic functions]]
+* [[Weierstrass's elliptic functions]]
+* [[theta function|Jacobi theta function]]
+* [[Ramanujan theta function]]
+* [[Arithmetic-geometric mean]]
+* [[Pendulum (mathematics)#Arbitrary-amplitude period|Pendulum period]]
+* [[Meridian arc#Relation to elliptic integrals|Meridian arc]]
+
+==References==
+{{reflist}}
+*{{AS ref|17|587}}
+*{{cite journal|last = Adlaj|first = Semjon|title = An eloquent formula for the perimeter of an ellipse|journal = Notices of the AMS|volume = 59|issue = 8|pages = 1094–1099|date = September 2012|url = http://www.ams.org/notices/201208/rtx120801094p.pdf|doi=10.1090/noti879}}
+*{{dlmf|first=B.C.|last=Carlson|id=19}}
+*{{Citation | last1=Erdélyi | first1=Arthur | last2=Magnus | first2=Wilhelm | author2-link=Wilhelm Magnus | last3=Oberhettinger | first3=Fritz | last4=Tricomi | first4=Francesco G. | title=Higher transcendental functions. Vol II | publisher=McGraw-Hill Book Company, Inc., New York-Toronto-London | mr=0058756 | year=1953 | url=http://apps.nrbook.com/bateman/index.html#pg=613}}
+* Izrail' Solomonovich Gradshteyn and Iosif Moiseevich Ryzhik, ''Tablitsy integralov, summ, ryadov i proizvedeniy [Tables of integrals, sums, series and products]'', 5th edition (Moscow, Nauka, 1971). ''(See chapter 8.1)''.
+* [[Harris Hancock]] ''[http://www.archive.org/details/lecturestheorell00hancrich Lectures on the theory of Elliptic functions]'' (New York, J. Wiley & sons, 1910)
+* [[Alfred George Greenhill]] ''[http://www.archive.org/details/applicationselli00greerich The applications of elliptic functions]'' (New York, Macmillan, 1892)
+* Louis V. King ''[http://www.archive.org/details/onthenumerical032686mbp On The Direct Numerical Calculation Of Elliptic Functions And Integrals]'' (Cambridge University Press, 1924)
+* {{Citation | last1=Press | first1=WH | last2=Teukolsky | first2=SA | last3=Vetterling | first3=WT | last4=Flannery | first4=BP | year=2007 | title=Numerical Recipes: The Art of Scientific Computing | edition=3rd | publisher=Cambridge University Press |  publication-place=New York | isbn=978-0-521-88068-8 | chapter=Section 6.12. Elliptic Integrals and Jacobian Elliptic Functions | chapter-url=http://apps.nrbook.com/empanel/index.html#pg=309}}
+
+==External links==
+{{commons category|Elliptic integral}}
+*{{springer|title=Elliptic integral|id=p/e035490}}
+*[http://mathworld.wolfram.com/EllipticIntegral.html Eric W. Weisstein, "Elliptic Integral" (Mathworld)]
+*[https://github.com/moiseevigor/elliptic Matlab code for elliptic integrals evaluation] by elliptic project
+*[http://www.exstrom.com/math/elliptic/ellipint.html Rational Approximations for Complete Elliptic Integrals] (Exstrom Laboratories)
+
+[[Category:Elliptic functions]]
+[[Category:Special hypergeometric functions]]

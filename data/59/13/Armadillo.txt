@@ -1,0 +1,148 @@
+{{other uses}}
+{{Use dmy dates|date=July 2012}}
+{{Taxobox
+| name = Armadillo
+| fossil_range = {{Fossil range|58.7|0}}<small>Late [[Paleocene]] – Recent</small>
+| image = Nine-banded Armadillo.jpg
+| image_caption = [[Nine-banded armadillo]] (''Dasypus novemcinctus'')
+| regnum = [[Animal]]ia
+| phylum = [[chordate|Chordata]]
+| classis = [[Mammal]]ia
+| superordo = [[Xenarthra]]
+| ordo = [[Cingulata]]
+| familia = '''Dasypodidae'''
+| familia_authority = [[John Edward Gray|Gray]], 1821
+| type_genus = ''[[Dasypus]]''
+| subdivision_ranks = [[Genus (biology)|Genera]]
+| subdivision = 
+}}
+[[File:Nine-banded armadillo skeleton.jpg|thumb|[[Nine-banded armadillo]] skeleton.]]
+'''Armadillos''' are [[New World]] [[placental]] [[mammal]]s with a leathery [[armour (zoology)|armour]] shell.  '''Dasypodidae''' is the only surviving [[family (biology)|family]] in the [[order (biology)|order]] [[Cingulata]], part of the superorder [[Xenarthra]], along with the [[anteater]]s and [[sloth]]s. The word ''armadillo'' means "little armoured one" in Spanish. The [[Aztecs]] called them ''āyōtōchtli'' {{IPA-nah|aːjoːˈtoːt͡ʃt͡ɬi|}}, [[Nahuatl]] for "turtle-rabbit": ''āyōtl'' {{IPA-nah|ˈaːjoːt͡ɬ|}} (turtle) and ''tōchtli'' {{IPA-nah|ˈtoːt͡ʃt͡ɬi|}} (rabbit).<ref name=Karttunen1983/>
+
+About 10 [[extant taxon|extant]] [[genus|genera]] and 20 extant [[species]] of armadillo have been described, some of which are distinguished by the number of bands on their armour. Their average length is about {{convert|75|cm|in|abbr=on}}, including tail. The [[giant armadillo]] grows up to {{convert|150|cm|in|abbr=on}} and weighs up to {{convert|54|kg|lb|abbr=on}}, while the [[pink fairy armadillo]] is a diminutive species, with an overall length of {{convert|13|–|15|cm|in|sigfig=1|abbr=on}}. All species are native to the [[Americas]], where they inhabit a variety of environments.
+
+Like all other xenarthran lineages, armadillos originated in South America. Due to the continent's former isolation, they were confined there for most of the [[Cenozoic]]. The recent formation of the [[Isthmus of Panama]] allowed a few members of the family to migrate northward into southern North America by the early [[Pleistocene]], as part of the [[Great American Interchange]].<ref name="Woodburne2010"/> (Some of their much larger [[Cingulata|cingulate]] relatives, the [[pampathere]]s and [[glyptodont]]s, made the same journey.<ref name="Woodburne2010"/>)
+
+Today, all extant armadillo species are still present in South America. They are particularly diverse in [[Paraguay]] (where eleven species exist) and surrounding areas. Many species are endangered. Some, including four species of ''[[Dasypus]]'', are widely distributed over the Americas, whereas others, such as [[Yepes's mulita]], are restricted to small ranges. Two species, the [[northern naked-tailed armadillo]] and [[nine-banded armadillo]], are found in Central America; the latter has also reached the United States, primarily in the south-central states (notably Texas), but with a range that extends as far east as [[South Carolina]] and [[Florida]], and as far north as [[Nebraska]] and central [[Indiana]].<ref name=ExpRange/> Their range has consistently expanded in North America over the last century due to a lack of natural predators.
+
+==Habitat and anatomy==
+Armadillos are small to medium-sized mammals. The smallest species, the [[pink fairy armadillo]], is roughly [[chipmunk]]-sized at {{convert|85|g|oz|abbr=on}} and {{convert|13|-|15|cm|in|abbr=on}} in total length. The largest species, the [[giant armadillo]], can be the size of a small [[pig]], weigh up to {{convert|54|kg|lb|abbr=on}} and can be {{convert|150|cm|in|abbr=on}} long.<ref name=NatGeo/> They are prolific diggers. Many species use their sharp claws to dig for food, such as [[Larva|grubs]], and to dig dens. The nine-banded armadillo prefers to build burrows in moist soil near the creeks, streams, and [[arroyo (creek)|arroyos]] around which it lives and feeds. The diets of different armadillo species vary, but consist mainly of [[insect]]s, grubs, and other [[invertebrate]]s. Some species, however, feed almost entirely on ants and termites.
+[[File:Mani armadilli.png|thumb|left|Paws of a hairy and a giant armadillo]]
+In common with other [[xenarthra]]ns, armadillos, in general, have low [[Thermoregulation|body temperature]]s of {{convert|33|-|36|C}} and [[basal metabolic rate]]s (40–60% of that expected in placental mammals of their mass). This is particularly true of types that specialize in using termites as their primary food source (for example, ''[[Priodontes]]'' and ''[[Tolypeutes]]'').<ref name="McNab"/>
+
+The armour is formed by plates of [[dermal bone]] covered in relatively small, overlapping epidermal scales called "[[scute]]s", composed of bone with a covering of horn. Most species have rigid shields over the shoulders and hips, with a number of bands separated by flexible skin covering the back and flanks. Additional armour covers the top of the head, the upper parts of the limbs, and the tail. The underside of the animal is never armoured, and is simply covered with soft skin and fur.<ref name="EoM"/>
+
+This armour-like skin appears to be the main defense of many armadillos, although most escape predators by fleeing (often into thorny patches, from which their armour protects them) or digging to safety. Only the South American three-banded armadillos (''Tolypeutes'') rely heavily on their armour for protection. When threatened by a [[predator]], ''Tolypeutes'' species frequently roll up into a ball. Other armadillo species cannot roll up because they have too many plates. The North American nine-banded armadillo tends to jump straight in the air when surprised, and consequently often collides with the undercarriage or fenders of passing vehicles.<ref name=LOC/>
+
+Armadillos have short legs, but can move quite quickly.  The ninebanded armadillo is noted for its movement through water<ref name=McDonough2013/> which is accomplished via two different methods: it can walk underwater for short distances, holding its breath for as long as six minutes; also, to cross larger bodies of water, it is capable of increasing its buoyancy by swallowing air, inflating its stomach and intestines.<ref name=Vijayaraghavan/>
+
+Armadillos have very poor eyesight, and use their keen sense of smell to hunt for food.<ref name=NatGeo/> They use their claws for digging and finding food, as well as for making their homes in burrows. They dig their burrows with their claws, making only a single corridor the width of the animal's body. They have five clawed toes on their hindfeet, and three to five toes with heavy digging claws on their forefeet. Armadillos have a large number of cheek teeth, which are not divided into [[premolar]]s and [[molar (tooth)|molar]]s, but usually have [[incisor]]s or [[canine (tooth)|canine]]s. The [[dentition]] of the nine-banded armadillo is P 7/7, M 1/1 = 32.<ref name=Freeman&Genoways/>
+
+[[Gestation]] lasts from 60 to 120 days, depending on species, although the nine-banded armadillo also exhibits [[delayed implantation]], so the young are not typically born for eight months after mating. Most members of the genus ''Dasypus'' give birth to four [[monozygotic]] young (that is, identical quadruplets),<ref name=Bagatto2000/> but other species may have typical litter sizes that range from one to eight. The young are born with soft, leathery skin, which hardens within a few weeks. They reach sexual maturity in three to 12 months, depending on the species. Armadillos are solitary animals that do not share their burrows with other adults.<ref name="EoM" />
+
+==Classification==
+[[File:Pink Fairy Armadillo (Chlamyphorus truncatus) (cropped).jpg|thumb|right|[[Pink fairy armadillo]]]]
+'''Family Dasypodidae'''
+* Subfamily [[Dasypodinae]]
+** Genus ''[[Dasypus]]'' [[File:TatusorGuineanBeast.jpg|thumb|right|1658 woodcut of an armadillo]]
+***[[Nine-banded armadillo]] or long-nosed armadillo, ''Dasypus novemcinctus''
+***[[Seven-banded armadillo]], ''Dasypus septemcinctus''
+***[[Southern long-nosed armadillo]], ''Dasypus hybridus''
+***[[Llanos long-nosed armadillo]], ''Dasypus sabanicola''
+***[[Greater long-nosed armadillo]], ''Dasypus kappleri''
+***[[Hairy long-nosed armadillo]], ''Dasypus pilosus''
+***[[Yepes's mulita]], ''Dasypus yepesi''
+***†Beautiful armadillo, ''[[Dasypus bellus]]''
+** Genus †''[[Stegotherium]]''
+* Subfamily [[Euphractinae]]
+** Genus ''[[Calyptophractus]]''
+*** [[Greater fairy armadillo]], ''Calyptophractus retusus''
+** Genus ''[[Chaetophractus]]'' [[Image:Chaetophractus vellerosus3.jpg|thumb|right|[[Screaming hairy armadillo]]]]
+***[[Screaming hairy armadillo]], ''Chaetophractus vellerosus''
+***[[Big hairy armadillo]], ''Chaetophractus villosus''
+***[[Andean hairy armadillo]], ''Chaetophractus nationi''
+**Genus †''[[Peltephilus]]''
+*** †Horned armadillo, ''Peltephilus ferox''
+** Genus ''[[Chlamyphorus]]'', ''Chlamyphorus truncatus''
+***[[Pink fairy armadillo]], ''Chlamyphorus truncatus''
+** Genus ''[[Euphractus]]''
+***[[Six-banded armadillo]], ''Euphractus sexcinctus''
+** Genus ''[[Zaedyus]]''
+***[[Pichi]], ''Zaedyus pichiy''
+* Subfamily [[Tolypeutinae]]
+** Genus †''[[Kuntinaru]]''<ref name=Billetetal/>
+** Genus ''[[Cabassous]]'' [[Image:SouthernThreeBandedArmadillo065b.jpg|thumb|right|[[Southern three-banded armadillo]]]]
+***[[Northern naked-tailed armadillo]], ''Cabassous centralis''
+***[[Chacoan naked-tailed armadillo]], ''Cabassous chacoensis''
+***[[Southern naked-tailed armadillo]], ''Cabassous unicinctus''
+***[[Greater naked-tailed armadillo]], ''Cabassous tatouay''
+** Genus ''[[Priodontes]]''
+***[[Giant armadillo]], ''Priodontes maximus''
+** Genus ''[[Tolypeutes]]''
+***[[Southern three-banded armadillo]], ''Tolypeutes matacus''
+***[[Brazilian three-banded armadillo]], ''Tolypeutes tricinctus''
+
+† indicates extinct taxon
+
+==Armadillos and humans==
+
+===In science===
+Armadillos are often used in the study of [[leprosy]], since they, along with mangabey monkeys, rabbits and mice (on their footpads), are among the few known species that can contract the disease systemically. They are particularly susceptible due to their unusually low body temperature, which is hospitable to the leprosy bacterium, ''[[Mycobacterium leprae]]''. (The leprosy bacterium is difficult to culture and armadillos have a body temperature of {{convert|34|C}}, similar to human skin.) Humans can acquire a leprosy infection from armadillos by handling them or consuming armadillo meat.<ref name=NYT2011/> Armadillos are a presumed [[Vector (epidemiology)|vector]] and [[natural reservoir]] for the disease in Texas and Louisiana.<ref name="Truman 2011"/> Prior to the [[European colonization of the Americas|arrival of Europeans in the late 15th century]], leprosy was unknown in the New World. Given that armadillos are native to the New World, at some point they must have acquired the disease from humans.<ref name=NYT2011/><ref name="Truman 2011" />
+
+The armadillo is also a [[natural reservoir]] for [[Chagas disease]].<ref name=Yaeger1988/>
+
+The nine-banded armadillo also serves science through its unusual reproductive system, in which four genetically identical offspring are born, the result of one original egg.<ref name="ufl"/><ref name="valdosta"/><ref name="Hamlett1933"/> Because they are always genetically identical, the group of four young provides a good subject for scientific, behavioral or medical tests that need consistent biological and genetic makeup in the test subjects. This is the only reliable manifestation of [[polyembryony]] in the class [[Mammalia]], and exists only within the genus ''Dasypus'' and not in all armadillos, as is commonly believed. Other species that display this trait include parasitoid wasps, certain flatworms and various aquatic invertebrates.<ref name="valdosta" />
+
+Armadillos (mainly ''Dasypus'') are common [[roadkill]] due to their habit of jumping three to four feet vertically when startled, which puts them into collision with the underside of vehicles. Wildlife enthusiasts are using the northward march of the armadillo as an opportunity to educate others about the animals, which can be a burrowing nuisance to property owners and managers.<ref name="ufl" />
+
+===As musical instruments===
+{{main|Charango}}
+Armadillo shells have traditionally been used to make the back of the ''[[charango]]'', an [[Andean music|Andean]] [[lute]] instrument.
+
+===In the news===
+Armadillo shells are so strong that two people have been reported as being injured by bullets ricocheting off armadillos' shells.<ref name=Ricochet/>
+
+==References==
+{{reflist|35em|refs=
+<ref name=Karttunen1983>{{cite book |last=Karttunen |first=Frances E. |authorlink=Frances E. Karttunen |title=An Analytical Dictionary of Nahuatl |year=1983 |publisher=University of Oklahoma Press |isbn=978-0-8061-2421-6 |page=17}} View entry at [http://whp.uoregon.edu/dictionaries/nahuatl/index.lasso?&dowhat=FindJustOne&theRecID=1763926&theWord=ayotoch. "ayotoch"] in ''Nahuatl Dictionary'', by the Wired Humanities Projects, Stephanie Wood (ed.) Retrieved 2015-07-22.</ref>
+<ref name="Woodburne2010">{{cite journal |last1=Woodburne |first1=M. O. |title=The Great American Biotic Interchange: Dispersals, Tectonics, Climate, Sea Level and Holding Pens |journal=Journal of Mammalian Evolution |volume=17 |issue=4 |date=14 July 2010 |pages=245–264 (see p. 249) |doi= 10.1007/s10914-010-9144-8 |pmid=21125025 |pmc=2987556}}</ref>
+<ref name=ExpRange>{{cite web |agency=The Associated Press |url=http://www.theindychannel.com/news/local-news/armadillos-slinking-their-way-into-indiana |title=Armadillos slinking their way into Indiana |website=TheIndyChannel |date=7 June 2014 |accessdate=2014-06-16}}</ref>
+<ref name=NatGeo>{{cite web |url=http://animals.nationalgeographic.com/animals/mammals/armadillo/ |title=Armadillos, Armadillo Pictures, Armadillo Facts |website=National Geographic |accessdate=2015-07-22}}</ref>
+<ref name = "McNab">{{Cite journal |last=McNab |first=Brian K. | title=Energetics and the limits to the temperate distribution in armadillos |journal=[[Journal of Mammalogy]] |volume=61 |issue=4 |pages=606–627 |publisher=[[American Society of Mammalogists]] |date=November 1980 |jstor=1380307 |doi=10.2307/1380307}}</ref>
+<ref name="EoM">{{cite book |editor=Macdonald, D. |author=Dickman, Christopher R. |year=1984 |title=The Encyclopedia of Mammals |publisher=Facts on File |location=New York |pages=781–783 |isbn=0-87196-871-1}}</ref>
+<ref name=LOC>{{cite web |url=http://www.loc.gov/rr/scitech/mysteries/armadillo.html |title=How high can a nine-banded armadillo jump? |work=Everyday Mysteries: Fun Science Facts from the Library of Congress |publisher=Library of Congress |date=12 February 2009 |accessdate=2009-12-17 |archiveurl=http://web.archive.org/web/20091206015313/http://www.loc.gov/rr/scitech/mysteries/armadillo.html |archivedate=2009-12-06 <!--DASHBot-->| deadurl= no}}</ref>
+<ref name=Vijayaraghavan>{{cite journal |last=Vijayaraghavan |first=R. |title=Nine-banded Armadillo Dasypus novemcinctus Animal Model for Leprosy (Hansen's Disease) |journal=Scandinavian Journal of Laboratory Animal Sciences |volume=36 |issue=2 |year=2009 |pages=167–176 |url=http://sjlas.org/index.php/SJLAS/article/view/182/161 |accessdate=2015-07-22}}</ref>
+<ref name=McDonough2013>{{cite book |last1=McDonough |first1=Colleen M. |last2=Loughry |first2=W. J. |title=The Nine-Banded Armadillo: A Natural History |url=http://books.google.com/books?id=h4UFvagbbogC&pg=PA181 |year=2013 |publisher=University of Oklahoma Press |isbn=978-0-8061-8921-5 |pages=181–182 |last-author-amp=yes}}</ref>
+<ref name=Freeman&Genoways>{{Cite journal |date=December 1998 |last=Freeman |first=Patricia W. |last2=Genoways |first2=Hugh H. |title=Recent Northern Records of the Nine-banded Armadillo (Dasypodidae) in Nebraska |journal=The Southwestern Naturalist |volume=43 |issue=4 |pages=491–504 |url=http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1012&context=museummammalogy |accessdate=2010-06-07 |last-author-amp=yes}}</ref>
+<ref name=Bagatto2000>{{cite journal |last1=Bagatto |first=B. |last2=Crossley |first2=D. A. |last3=Burggren |first3=W. W. |title=Physiological variability in neonatal armadillo quadruplets: within- and between-litter differences |journal=Journal of Experimental Biology |date=1 June 2000 |series=159 |pages=267–277 |url=http://jeb.biologists.org/content/203/11/1733.short |pmid=10804163 |volume=203 |issue=11 |last-author-amp=yes}}</ref>
+<ref name=Billetetal>{{Cite journal |first1=Guillaume |last1=Billet |first2=Lionel |last2=Hautier |first3=Christian |last3=de Muizon |first4=Xavier |last4=Valentin |year=2011 |title=Oldest cingulate skulls provide congruence between morphological and molecular scenarios of armadillo evolution |url=http://rspb.royalsocietypublishing.org/content/early/2011/01/29/rspb.2010.2443.full |journal=Proceedings of the Royal Society |volume=278 |issue=1719 |page=2791 |doi=10.1098/rspb.2010.2443 |last-author-amp=yes}}</ref>
+<ref name="Truman 2011">{{cite journal |last1=Truman |first1=Richard W. |last2=Singh |first2=Pushpendra |last3=Sharma |first3=Rahul |last4=Busso |first4=Philippe |last5=Rougemont |first5=Jacques |last6=Paniz-Mondolfi |first6=Alberto |last7=Kapopoulou |first7=Adamandia |last8=Brisse |first8=Sylvain |last9=Scollard |first9=David M. |last10=Gillis |first10=Thomas P. |last11=Cole |first11=Stewart T. |date=April 28, 2011 |title=Probable Zoonotic Leprosy in the Southern United States |journal=[[The New England Journal of Medicine]] |location=Waltham, MA |publisher=[[Massachusetts Medical Society]] |volume=364 |issue=17 |pages=1626–1633 |doi=10.1056/NEJMoa1010536 |issn= |pmc=3138484 |pmid=21524213 |display-authors=3 |accessdate=2011-05-03}}</ref>
+<ref name=NYT2011>{{cite news |title=Armadillos Can Transmit Leprosy to Humans, Federal Studies Confirm |first=Gardiner |last=Harris |url=http://www.nytimes.com/2011/04/28/health/28leprosy.html |newspaper=The New York Times |date=27 April 2011 |accessdate=2011-05-03 |archiveurl= http://web.archive.org/web/20110506074826/http://www.nytimes.com/2011/04/28/health/28leprosy.html |archivedate=2011-05-06 <!--DASHBot--> |deadurl=no}}</ref>
+<ref name=Yaeger1988>{{cite journal |last=Yaeger |first=R. G. |title=The prevalence of Trypanosoma cruzi infection in armadillos collected at a site near New Orleans, Louisiana |journal=The American Journal of Tropical Medicine and Hygiene |volume=38 |issue=2 |pages=323–326 |date=March 1988  |pmid=3128127 |url=http://www.ajtmh.org/cgi/pmidlookup?view=long&pmid=3128127}}</ref>
+<ref name="ufl">{{cite web |last1=Schaefer |first1=Joseph M. |last2=Hostetler |first2=Mark E. |url=http://edis.ifas.ufl.edu/UW082 |title=The Nine-banded Armadillo (''Dasypus novemcinctus'') |date=January 1998 |publisher=University of Florida, [[Institute of Food and Agricultural Sciences|IFAS]] Extension |accessdate=2009-12-17 |archiveurl= http://web.archive.org/web/20100102145948/http://edis.ifas.ufl.edu/uw082 |archivedate=2010-01-02 |deadurl=no}}</ref>
+<ref name="valdosta">{{Cite journal |date=May–June 1998 |last1=Loughry |first1=W.J |last2=Prodohl |first2=Paulo A |last3=McDonough |first3=Colleen M |last4=Avise |first4=John C. |author-link4=John Avise |title=Polyembryony in Armadillos |journal=[[American Scientist]] |volume=86 |pages=274–279 |url=http://www.valdosta.edu/~jloughry/Reprints/AmSci.pdf |bibcode=1998AmSci..86..274L |doi=10.1511/1998.3.274 |issue=3 |last-author-amp=yes}}</ref>
+<ref name="Hamlett1933">{{Cite journal |date=September 1933 |author=Hamlett, G.W.D. |title=Polyembryony in the Armadillo: Genetic or Physiological? |journal=[[The Quarterly Review of Biology]] |volume=8 |issue=3 |pages=348–358 |jstor=2808431  |doi=10.1086/394444}}</ref>
+<ref name=Ricochet>{{cite news |author=Holpuch, Amanda |title=Texas man hospitalized after bullet bounces off armadillo |newspaper=The Guardian |date=1 August 2015 |url=http://www.theguardian.com/us-news/2015/aug/01/bullet-bounces-off-armadillo-texas |accessdate=2015-09-04}}</ref>
+}}
+
+==Further reading==
+*{{MSW3 Gardner|pages=94–99}}
+*{{cite journal|last=Superina|first=Mariella|author2=Pagnutti, Noralí|author3= Abba, Agustín M.|title=What do we know about armadillos? An analysis of four centuries of knowledge about a group of South American mammals, with emphasis on their conservation|journal=Mammal Review|year=2014|volume=44|issue=1|pages=69–80|doi=10.1111/mam.12010}}
+
+==External links==
+{{wikiquote}}
+{{wikispecies}}
+{{Commons and category|Armadillo|Dasypodidae}}
+*[http://armadillo-online.org/index.html "Armadillo online" website] hosted by [http://armadillo-online.org/me.html zoologist Dr. Joshua Nixon]
+*[http://seabed.nationalgeographic.com/splat_ngx_pathfinder/templates/output/articles/gallery.tmpl?DB_NUM_PARAMS=2&DB_PARAM_0=0503&DB_PARAM_1=2 Photographs of armadillo rolling into a ball]
+* {{Wiktionary-inline|armadillo}}
+
+{{mammals}}
+{{Cingulata}}
+
+{{Authority control}}
+
+[[Category:Armadillos]]
+[[Category:Cingulates]]
+[[Category:Rolling animals]]
+[[Category:Thanetian first appearances]]

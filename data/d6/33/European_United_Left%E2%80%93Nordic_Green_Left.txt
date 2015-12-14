@@ -1,0 +1,231 @@
+{{Infobox European Parliament group
+|name = European United Left/Nordic Green Left
+|title = European United Left/Nordic Green Left
+|image = Logo gue-ngl.png
+|imagewidth = 123px
+|imagecaption = GUE/NGL logo
+|from=6 January 1995<ref name="t1s4"/>
+|precededby = [[European United Left (1994–95)|European United Left]]
+|europarties = [[Party of the European Left]], [[European Anticapitalist Left]]
+|associated = [[Nordic Green Left Alliance]]
+|englishabbr = GUE/NGL<ref name="t1s1"/>
+|frenchabbr = GUE/NGL<ref name="t1s5"/><ref name="t1s2"/>
+|formalname = Confederal Group of the European United Left/Nordic Green Left<ref name="t1s5"/><ref name="t1s6"/><ref name="t1s40"/>
+|chairs = [[Alonso José Puerta]] (1999-2004),<ref name="t1s40"/><br>[[Francis Wurtz]] (2004-2009)<br>[[Lothar Bisky]] (2009-2012)<br>[[Gabriele Zimmer]] (2012-)
+|meps = {{Composition bar|52|751|hex={{European United Left–Nordic Green Left/meta/color}}}}
+|website=http://www.guengl.eu
+}}
+'''European United Left/Nordic Green Left''' ('''GUE/NGL''') is a [[left-wing politics|left-wing]] [[Political groups of the European Parliament|political group]] in the [[European Parliament]],<ref name="Staab2011">{{cite book|author=Andreas Staab|title=The European Union Explained, Second Edition: Institutions, Actors, Global Impact|url=http://books.google.com/books?id=gePMlsVzZI0C&pg=PA67|accessdate=5 August 2013|date=24 June 2011|publisher=Indiana University Press|isbn=978-0-253-00164-1|page=67}}</ref> established in 1995. The group comprises political parties of mostly [[Socialism|socialist]] and [[Communism|communist]] orientation.<ref name="Trechsel2013">{{cite book|author=Alexander H. Trechsel|title=Towards a Federal Europe|url=http://books.google.com/books?id=mTndAAAAQBAJ&pg=PT72|date=13 September 2013|publisher=Taylor & Francis|isbn=978-1-317-99818-1|page=72}}</ref><ref name="CasierJongerden2010">{{cite book|author1=Marlies Casier|author2=Joost Jongerden|title=Nationalisms and Politics in Turkey: Political Islam, Kemalism and the Kurdish Issue|url=http://books.google.com/books?id=_sG-NVapmrkC&pg=PA203|date=9 August 2010|publisher=Taylor & Francis|isbn=978-0-203-84706-0|page=203}}</ref>
+
+==Position==
+According to its 1994 constituent declaration, the group is opposed to the present European political structure, but committed to integration.<ref name="EULNGLConDec"/> That declaration sets out three aims for the construction of another European Union: the total change of institutions to make them "fully democratic"; and breaking with "neo-liberal monetarist policies"; and a policy of co-development and equitable cooperation. The group wants to disband the [[North Atlantic Treaty Organisation]] (NATO) and "strengthen the [[Organization for Security and Co-operation in Europe]]" (OSCE).
+
+The group is ambiguous between reformism and revolution, leaving it up to each party to decide on the manner they deem best suited to achieve these aims. As such, it has simultaneously positioned itself as "insiders" within the European institutions, enabling it to influence the decisions made by co-decision, and as "outsiders" by its willingness to seek "another Union" which would abolish the [[Maastricht Treaty]].{{Citation needed|date=March 2015}}
+
+==Organisation==
+The GUE/NGL is a confederal group: it is composed of [[Member of the European Parliament|MEPs]] from national parties. Those national parties must share common political objectives with the group, as specified in the group's constituent declaration. Nevertheless, those national parties, not the group, retain control of their MEPs. Thus, the Group may be divided on certain issues.
+
+Members of the group meet regularly to prepare for meetings, debate on policies and vote on resolutions. The group also publishes reports on various topics.
+
+===Member parties===
+[[File:GUE NGL after 2014 elections.png|thumb|250px|right|Member states with one MEP in GUE/NGL in pink, with two or more members in red]]
+MEPs may be full or associate members.
+* Full members must accept the constitutional declaration of the Group.
+* Associate members need not fully do so but may sit with the full members.
+
+National parties may be full or associate members.
+* Full member parties must accept the constitutional declaration of the Group.
+* Associate member parties may include parties that do not have MEPs (e.g., French Trotskyist parties which did not get elected in the 2004 European elections), are from states that are not part of the European Union, or do not wish to be full members.
+
+==Member parties==
+{| class="wikitable"
+|-
+!Country
+!National Electoral Alliance
+!National Party
+!European Party
+!MEPs
+|-
+||{{CYP}}
+|colspan=2|[[Progressive Party of Working People]]
+||[[Party of the European Left|PEL]] (observer)
+||{{Composition bar|2|6|hex=Maroon}}
+|-
+||{{CZE}}
+|colspan=2|[[Communist Party of Bohemia and Moravia]]
+||[[Party of the European Left|PEL]] (observer)
+||{{Composition bar|3|21|hex=Maroon}}
+|-
+||{{DEN}}
+|colspan=2|[[People's Movement against the EU]]
+||[[EUDemocrats|EUD]] 
+||{{Composition bar|1|13|hex=Maroon}}
+|-
+||{{FIN}}
+|colspan=2|[[Left Alliance (Finland)|Left Alliance]]
+||[[Party of the European Left|PEL]]
+||{{Composition bar|1|13|hex=Maroon}}
+|-
+|rowspan=3|{{FRA}}
+|rowspan=2|[[Left Front (France)|Left Front]]
+||[[French Communist Party]]
+||[[Party of the European Left|PEL]]
+||{{Composition bar|2|74|hex=Maroon}}
+|-
+||[[Left Party (France)|Left Party]]
+||[[Party of the European Left|PEL]]
+||{{Composition bar|1|74|hex=Maroon}}
+|-
+||[[Alliance of the Overseas]]
+||[[Communist Party of Réunion]]
+||
+||{{Composition bar|1|74|hex=Maroon}}
+|-
+|rowspan=2|{{DEU}}
+|colspan=2|[[The Left (Germany)|The Left]]
+||[[Party of the European Left|PEL]]
+||{{Composition bar|7|96|hex=Maroon}}
+|-
+|colspan=2|[[Stefan Eck]] (independent)
+|
+||{{Composition bar|1|96|hex=Maroon}}
+|-
+|rowspan=2|{{GRC}}
+|colspan=2|[[Coalition of the Radical Left]] (SYRIZA)
+||[[Party of the European Left|PEL]]
+||{{Composition bar|5|21|hex=Maroon}}
+|-
+|colspan=2|[[Popular_Unity_(Greece)|Popular Unity]]
+|
+||{{Composition bar|1|21|hex=Maroon}}
+|-
+|rowspan=2|{{IRL}}
+|colspan=2|[[Sinn Féin]]
+||
+||{{Composition bar|3|11|hex=Maroon}}
+|-
+|colspan=2|[[Luke 'Ming' Flanagan]] (independent)
+||
+||{{Composition bar|1|11|hex=Maroon}}
+|-
+|rowspan=2|{{ITA}}
+|rowspan=2|[[The Other Europe]] (L'Altra Europa)
+||[[Communist Refoundation Party]]
+||[[Party of the European Left|PEL]]
+||{{Composition bar|1|73|hex=Maroon}}
+|-
+||Independents
+||
+||{{Composition bar|2|73|hex=Maroon}}
+|-
+|rowspan=2|{{NLD}}
+|colspan=2|[[Socialist Party (Netherlands)|Socialist Party]]
+||
+||{{Composition bar|2|26|hex=Maroon}}
+|-
+|colspan=2|[[Party for the Animals]] (Partij voor de Dieren)
+||
+||{{Composition bar|1|26|hex=Maroon}}
+|-
+|rowspan=2|{{PRT}}
+|colspan=2|[[Left Bloc]]
+||[[Party of the European Left|PEL]]
+||{{Composition bar|1|21|hex=Maroon}}
+|-
+||[[Democratic Unity Coalition]]
+||[[Portuguese Communist Party]]
+||
+||{{Composition bar|3|21|hex=Maroon}}
+|-
+|rowspan=4|{{ESP}}
+|rowspan=2|[[Plural Left (Spain, 2014)|Plural Left]]
+||[[United Left (Spain)|United Left]]
+||[[Party of the European Left|PEL]]
+||{{Composition bar|4|54|hex=Maroon}}
+|-
+||[[Anova-Nationalist Brotherhood]]
+||
+||{{Composition bar|1|54|hex=Maroon}}
+|-
+| colspan="2" |[[Podemos (Spanish political party)|Podemos]] (We Can)<ref>http://www.publico.es/politica/523095/podemos-acuerda-con-tsipras-entrar-en-el-grupo-de-la-izquierda-unitaria-de-la-eurocamara</ref>
+||
+||{{Composition bar|5|54|hex=Maroon}}
+|-
+|colspan=2|[[The Peoples Decide]] (Los Pueblos Deciden)
+||
+||{{Composition bar|1|54|hex=Maroon}}
+|-
+||{{SWE}}
+|colspan=2|[[Left Party (Sweden)|Left Party]]
+||[[Nordic Green Left Alliance|NGLA]]
+||{{Composition bar|1|20|hex=Maroon}}
+|-
+||{{UK}}
+| colspan="2" |[[Sinn Féin]]
+||
+||{{Composition bar|1|73|hex=Maroon}}
+|}
+
+==History==
+In 1995, the enlargement of the [[European Union]] led to the creation of the [[Nordic Green Left Alliance|Nordic Green Left]] group of parties. The Nordic Green Left merged with the [[European United Left (1994–95)|Confederal Group of the European United Left]] (GUE) on 6 January 1995,<ref name="t1s4"/> forming the Confederal Group of the European United Left/Nordic Green Left.<ref name="t1s5"/><ref name="t1s6"/><ref name="t1s40"/> The NGL suffix was added to the name of the expanded group on insistence of Swedish and Finnish MEPs.<ref name="RaunioTiilikainen2013">{{cite book|author1=Tapio Raunio|author2=Teija Tiilikainen|title=Finland in the European Union|url=http://books.google.com/books?id=wzkF4lCzIJ4C&pg=PA59|date=5 September 2013|publisher=Routledge|isbn=978-1-135-76204-9|page=59}}</ref> The group initially consisted of MEPs from the Finnish [[Left Alliance (Finland)|Left Alliance]], Swedish [[Left Party (Sweden)|Left Party]], the Danish [[Socialist People's Party (Denmark)|Socialist People's Party]], [[United Left (Spain)|United Left of Spain]] (including the [[Communist Party of Spain (main)|Spanish Communist Party]]), [[Coalition of Left, of Movements and Ecology|Synaspismós]] of Greece, the [[French Communist Party]], [[Portuguese Communist Party]], the [[Communist Party of Greece]], and the [[Communist Refoundation Party]] of Italy.
+
+In 1999, the German [[Party of Democratic Socialism (Germany)|Party of Democratic Socialism]] (PDS) and the Greek [[Democratic Social Movement]] (DIKKI) joined as full members, while the five MEPs elected from the list of the French Trotskyist alliance [[Workers' Struggle|LO]]-[[Revolutionary Communist League (France)|LCR]] joined as associate members.
+
+In 2002, four MEPs from the French [[Citizen and Republican Movement]] also joined the group.
+
+In 2004, no MEPs were elected from LO-LCR and DIKKI was dissolved. MEPs from the Portuguese [[Left Bloc]], [[Sinn Féin]] both from the Republic of Ireland and Northern Ireland, the [[Progressive Party of Working People]] (AKEL) of Cyprus, and the [[Communist Party of Bohemia and Moravia]] joined the group.
+
+==European Parliament results==
+{| class=wikitable
+|-
+! Election year
+! # of<br />overall seats won
+! +/–
+|-
+! 1995
+| {{Composition bar|34|567|hex=Maroon}}
+|
+|-
+! [[European Parliament election, 1999|1999]]
+| {{Composition bar|42|626|hex=Maroon}}
+| 8 {{increase}}
+|-
+! [[European Parliament election, 2004|2004]]
+| {{Composition bar|41|732|hex=Maroon}}
+| 1 {{decrease}}
+|-
+! [[European Parliament election, 2009|2009]]
+| {{Composition bar|35|766|hex=Maroon}}
+| 6 {{decrease}}
+|-
+! [[European Parliament election, 2014|2014]]
+| {{Composition bar|52|751|hex=Maroon}}
+| 17 {{increase}}
+|}
+
+==See also==
+*[[Party of the European Left]]
+*[[European Anticapitalist Left]]
+*[[Initiative of Communist and Workers' Parties]]
+*[[List of communist parties represented in European Parliament]]
+
+==Sources==
+* [http://emlab.berkeley.edu/users/groland/pubs/HNR-Democracy_in_the_EP-11July05.pdf Democracy in the European Parliament]<ref name="t1s1">{{cite web|url=http://emlab.berkeley.edu/users/groland/pubs/HNR-Democracy_in_the_EP-11July05.pdf |title=Democracy in the European Parliament |format=PDF |date= |accessdate=2010-06-18}}</ref>
+* [http://www.europarl.europa.eu/groups/accounts_en.htm Political Groups Annual Accounts 2001-2006]<ref name="t1s5">{{cite web|url=http://www.europarl.europa.eu/groups/accounts_en.htm |title=Political Groups Annual Accounts 2001-2006 |publisher=Europarl.europa.eu |date= |accessdate=2010-06-18}}</ref>
+* [http://www.kas.de/wf/de/71.4504/ Political Groups of the European Parliament]<ref name="t1s2">{{cite web|url=http://www.kas.de/wf/de/71.4504/ |title=Political Groups of the European Parliament |publisher=[[Konrad Adenauer Foundation]] |date= |accessdate=2010-06-18}}</ref>
+* [http://www.europarl.europa.eu/election/results/legende.htm Group names 1999]<ref name="t1s6">{{cite web|url=http://www.europarl.europa.eu/election/results/legende.htm |title=Group names 1999 |publisher=Europarl.europa.eu |date= |accessdate=2010-06-18}}</ref>
+* [http://www.europarl.europa.eu/members/archive.do?language=EN European Parliament MEP Archives]<ref name="t1s40">{{cite web|url=http://www.europarl.europa.eu/members/archive/term4/view.do?language=EN&id=1033 |title=European Parliament profile of Alonso José Puerta |publisher=Europarl.europa.eu |date= |accessdate=2010-06-18}}</ref>
+* [http://www.europe-politique.eu Europe Politique]<ref name="t1s4">{{cite web|url=http://www.europe-politique.eu/gauche-unitaire-europeenne.htm |title=EUL/NGL on Europe Politique |publisher=Europe-politique.eu |date= |accessdate=2010-06-18}}</ref>
+* [http://www.guengl.eu/ European United Left–Nordic Green Left official website]<ref name="EULNGLConDec">{{cite web|url=http://www.guengl.eu/ |title=GUE/NGL Site |publisher=Guengl.eu |date=1994-07-14 |accessdate=2014-05-28}}</ref>
+
+==References==
+{{reflist}}
+
+{{European Parliament groups}}
+{{Party of the European Left}}
+
+{{Authority control}}
+{{DEFAULTSORT:European United Left-Nordic Green Left}}
+[[Category:European Parliament party groups]]
+[[Category:European United Left–Nordic Green Left]]
+[[Category:Organizations established in 1995]]

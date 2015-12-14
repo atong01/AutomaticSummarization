@@ -1,0 +1,37 @@
+'''European Strategic Program on Research in Information Technology''' ('''ESPRIT''') was a series of integrated programmes of [[information technology]] [[research and development]] projects and industrial [[technology transfer]] measures. It was a [[European Union]] initiative managed by the Directorate General for Industry (DG III) of the [[European Commission]]. Five ESPRIT programmes (ESPRIT 0 to ESPRIT 4) ran consecutively from 1983 to 1998. ESPRIT 4 was succeeded by the [[Information Society Technologies]] (IST) programme in 1999.
+
+Some of the projects and products supported by ESPRIT are: 
+{{Expand list|date=January 2013}}
+* [[BBC Domesday Project]], a partnership between Acorn Computers Ltd, Philips, Logica and the BBC with some funding from the European Commission's ESPRIT programme, to mark the 900th anniversary of the original Domesday Book, an 11th-century census of England. It is frequently cited as an example of digital obsolescence on account of the physical medium used for data storage.
+
+* [[CGAL]], the Computational Geometry Algorithms Library (CGAL) is a software library that aims to provide easy access to efficient and reliable algorithms in computational geometry. While primarily written in C++, Python bindings are also available. The original funding for the project came from the ESPRIT project.
+
+* [[Nexor#Eurocoop and Eurocode|Eurocoop & Eurocode]]:  ESPRIT III projects to develop systems for supporting distributed collaborative working.
+
+* [[Open Document Architecture]], a free and open international standard document file format maintained by the ITU-T to replace all proprietary document file formats. In 1985 ESPRIT financed a pilot implementation of the ODA concept, involving, among others, Bull corporation, Olivetti, ICL and Siemens AG.
+
+* [[Nexor#Paradise|Paradise]]:  A sub-project of the ESPRIT I project, COSINE<ref>{{cite web|title=COSINE|url=http://www.cordis.europa.eu/search/index.cfm?fuseaction=proj.document&PJ_LANG=EN&PJ_RCN=296123&pid=9&q=8CDAB2D8B88F9B258F31018846B2F2F4&type=sim|publisher=Cordis|accessdate=24 December 2012}}</ref> which established a pan-European computer-based network infrastructure that enabled research workers to communicate with each other using OSI.  Paradise implemented a distributed [[X.500]] directory across the academic community.
+
+* [[Nexor#Password|Password:]] Part of the ESPRIT III VALUE project,<ref>{{cite web|title=EC Value Programme|url=http://cordis.europa.eu/search/index.cfm?fuseaction=prog.document&PG_RCN=177189}}</ref>  developed secure applications based on the [[X.509]] standard for use in the academic community.
+
+* [[RAISE]], Rigorous Approach to Industrial Software Engineering, was developed as part of the European ESPRIT II LaCoS project in the 1990s, led by [[Dines Bjørner]].
+
+* [[Colette Rolland#REMORA methodology|REMORA methodology]] is an event-driven approach for designing information systems, developed by [[Colette Rolland]]. This methodology integrates behavioral and temporal aspects with concepts for modelling the structural aspects of an information system. In the ESPRIT I project TODOS, which has led to the development of an integrated environment for the design of office information systems (OISs),
+
+* [[SAMPA]]: The Speech Assessment Methods Phonetic Alphabet (SAMPA) is a computer-readable phonetic script originally developed in the late 1980s.
+
+* [[Web for Schools]]: is an ESPRIT IV project that introduced the [[World Wide Web]] in secondary schools in Europe. Teachers created more than 70 international collaborative educational projects that resulted in an exponential growth of teacher communities and educational activities using the World Wide Web
+
+== References ==
+
+{{reflist}}
+
+==External links==
+*[http://www.cordis.europa.eu/esprit/home.html ESPRIT home page]
+
+{{DEFAULTSORT:Esprit}}
+[[Category:History of the European Union]]
+[[Category:European Union and science and technology]]
+
+
+{{EU-stub}}

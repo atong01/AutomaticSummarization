@@ -1,0 +1,487 @@
+{{Use dmy dates|date=May 2013}}
+{{Infobox economy
+ | country         = Estonia
+ | image           = Ayuntamiento, vistas panorámicas desde Toompea, Tallin, Estonia, 2012-08-05, DD 21.JPG
+ | width           = 300px
+ | caption         = Tornimäe business area in [[Tallinn]]
+ | currency        = [[Euro]] (EUR)<ref>Before 2011: [[Estonian kroon]].</ref>
+ | fixed exchange  =
+ | year            = Calendar year
+ | gdp rank        = [[List of countries by GDP (nominal)|98th]] (nominal) / [[List of countries by GDP (PPP)|113th]] (PPP)
+ | organs          = EU, [[World Trade Organization|WTO]] and [[OECD]]
+ | gdp             = {{increase}}$36.947 billion (PPP, 2015 est.) <ref name="imf.org">{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2014/02/weodata/weorept.aspx?pr.x=73&pr.y=7&sy=2012&ey=2019&scsm=1&ssd=1&sort=country&ds=.&br=1&c=946%2C964%2C939%2C941&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a=|title=Report for Selected Countries and Subjects|publisher=|accessdate=3 March 2015}}</ref>
+ | growth          = {{increase}}2.5% (2014 est.)<ref>{{cite news|url=http://www.bloomberg.com/news/2014-04-07/estonia-cuts-2014-gdp-growth-forecast-to-2-on-exports.html|title=Estonia Cuts 2014 GDP Growth Forecast to 2% on Exports|author=Ott Ummelas|work=Bloomberg.com|accessdate=3 March 2015|date=7 April 2014}}</ref>
+ | per capita      = {{increase}}$27,729 (PPP, 2015. est) <ref name="imf.org"/>
+ | components      =
+ | sectors         = agriculture 3.7%, industry 30.2%, services 66.1% (2012 est.)
+ | inflation       = {{decrease}}3.3% (CPI, 2012 est.)
+ | poverty         = 17.5% – income below €299/month (2011)
+ | gini            = 31.3 (2010)
+ | labor           = 675,900 (2012 est.)
+ | edbr            = 21st<ref>
+    {{cite web
+     | url         = http://www.doingbusiness.org/data/exploreeconomies/estonia/
+     | title       = Doing Business in Estonia 2013
+     | publisher   = [[World Bank]]
+     | accessdate  = 22 November 2011}}
+</ref>
+ | occupations     = agriculture 4.2%, industry 20.2%, services 75.6% (2010)
+ | unemployment    = {{decrease}}6.984% (2015 est.) <ref>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2014/02/weodata/weorept.aspx?sy=2012&ey=2019&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=53&pr1.y=2&c=939&s=LUR&grp=0&a=|title=Report for Selected Countries and Subjects|publisher=|accessdate=3 March 2015}}</ref>
+|average gross salary = €1,082 / $1,227, monthly (2015) <ref>http://www.stat.ee/90615</ref><ref>[http://palk.crew.ee/ Tax Calculator]. Retrieved on 2015-2-26.</ref>
+|average net salary   = €871 / $988, monthly (2015) <ref>http://www.stat.ee/90615</ref><ref>[http://palk.crew.ee/ Tax Calculator]. Retrieved on 2015-2-26.</ref>
+ | industries      = engineering, [[electronics]], [[wood|wood and wood products]], textiles; information technology, telecommunications
+ | exports         = {{increase}}$17.38 billion (2012 est.)
+ | export-goods    = machinery and electrical equipment 21%, wood and wood products 9%, metals 9%, furniture 7%, vehicles and parts 5%, food products and beverages 4%, textiles 4%, plastics 3%
+ | export-partners = {{flag|Sweden}} 17.4% <br> {{flag|Finland}} 16.6% <br> {{flag|Russia}} 11.7% <br>{{flag|Latvia}} 10.7% <br>{{flag|Lithuania}} 6% <br>{{flag|Germany}} 4.7% (2013 est.)<ref>{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/fields/2050.html#en |title=Export Partners of Estonia |publisher=[[CIA World Factbook]] |year=2013 |accessdate=2015-04-19}}</ref>
+ | imports         = {{increase}}$17.87 billion (2012 est.)
+ | import-goods    = machinery and electrical equipment, mineral fuels, chemical products, foodstuffs, plastics, textiles
+ | import-partners = {{flag|Finland}} 15.1% <br> {{flag|Germany}} 10.8% <br> {{flag|Sweden}} 10.4% <br> {{flag|Latvia}} 9.5% <br>{{flag|Lithuania}} 8.9% <br> {{flag|Poland}} 8.2% <br> {{flag|Russia}} 4.7% <br> {{flag|China}} 4.3% <br> {{flag|UK}} 4.3% (2013 est.)<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/fields/2061.html#en|title=Import Partners of Estonia|publisher=[[CIA World Factbook]]|year=2013|accessdate=2015-04-19}}</ref>
+ | gross external debt = {{increase}} $25.92 billion (31 December 2012 est.)
+ | FDI             = {{decrease}} $16.76 billion (31 December 2012 est.)
+ | debt            = {{DecreasePositive}} 9,9% of GDP (2015)<ref>http://ec.europa.eu/eurostat/documents/2995521/7049759/2-23102015-AP-EN.pdf/76641d4c-af11-4fc4-b78f-94aaa633b8c3</ref>
+ | revenue         = $7.915 billion (2012 est.)
+ | expenses        = $8.439 billion (2012 est.)
+ | aid             = recipient: $135 million (2004)
+ | credit          = AA- (Domestic)<br>AA- (Foreign)<br>AAA (T&C Assessment)<br>([[Standard & Poor's]])<ref>
+    {{cite web
+     | title       = Sovereigns rating list
+     | publisher   = Standard & Poor's
+     | year        = 2011
+     | url         = http://www.standardandpoors.com/ratings/sovereigns/ratings-list/en/eu/?subSectorCode=39
+     | accessdate  = 11 August 2011}}
+</ref>
+ | reserves        = $250.93 million (April 2011)<ref>
+    {{cite web
+     | title       = International Reserves and Foreign Currency Liquidity – ESTONIA
+     | date        = 9 May 2011
+     | publisher   = [[IMF]]
+     | url         = http://www.imf.org/external/np/sta/ir/IRProcessWeb/data/est/eng/curest.htm
+     | accessdate  = 31 May 2011}}</ref>
+ | cianame         = en
+}}
+[[File:Tallinn CBD.jpg|thumb|right|250px|[[Central business district]] of Tallinn]]
+
+[[Estonia]] is a member of the [[European Union]] and of the [[eurozone]] and, according to the [[IMF]], an [[advanced economy]].<ref>
+{{cite web
+ | title      = World Economic and Financial Surveys / World Economic Outlook / Database—WEO Groups and Aggregates Information
+ | publisher  = [[IMF]]
+ | date       = April 2011
+ | url        = http://www.imf.org/external/pubs/ft/weo/2011/01/weodata/groups.htm#ae
+ | accessdate = 21 August 2012}}
+</ref>
+
+== Overview ==
+Before the [[Second World War]], Estonia's economy was based on agriculture, but there was a significant knowledge sector, with the university city of [[Tartu]] known for scientific contributions, and a growing industrial sector, similar to that of neighbouring [[Finland]]. Products such as butter, milk and cheese were widely known on the [[West Europe|western European]] markets. The main markets were Germany and the United Kingdom, and only 3% of all commerce was with the neighbouring [[USSR]].
+
+The USSR's [[Estonian SSR|annexation of Estonia]] in 1940 and the ensuing [[Nazism|Nazi]] and [[Soviet Union|Soviet]] destruction during World War II crippled the Estonian economy. Post-war [[Sovietization]] of life continued with the integration of Estonia's economy and industry into the [[USSR]]'s centrally planned structure. Before the war, Estonia and [[Finland]] had a relatively similar standard of living. By 1987, capitalist Finland's GDP per capita reached 14,370 USD, while communist Estonia's GDP per capita was around 2,000 USD.<ref name="heritage"/>
+
+After Estonia moved away from Communism in the late 1980s and became an independent capitalist economy in 1991, it emerged as a pioneer of the global economy. In 1994, it became one of the first countries in the world to adopt a [[flat tax]], with a uniform rate of 26% regardless of personal income. Between 2005 and 2008, the personal income tax rate was reduced from 26% to 21% in several steps. Estonia received more foreign investment per capita in the second half of the 1990s than any other country in Central and Eastern Europe.<ref name="heritage">
+{{cite web
+ | last       = Laar | first = Mart
+ | title      = The Estonian Economic Miracle
+ | publisher  = [[The Heritage Foundation]]
+ | date       = 7 August 2007
+ | url        = http://www.heritage.org/Research/WorldwideFreedom/bg2060.cfm
+ | accessdate = 21 August 2012}}
+</ref> The country has been quickly catching up with the [[EU-15]], its GDP per capita having grown from 34.8% of the EU-15 average in 1996 to 65% in 2007, similar to that of Central European countries.<ref name="heritage"/> It is already rated a high-income country by the [[World Bank Group|World Bank]]. The [[Purchasing power parity|GDP (PPP) per capita]] of the country, a good indicator of wealth, was $23,631 in 2012 according to the World Bank,<ref>{{cite web|url=http://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD|title=GDP per capita, PPP (current international $)|publisher=|accessdate=3 March 2015}}</ref> between that of [[Portugal]] and Lithuania, but below that of long-time EU members such as [[Greece]] or [[Spain]]. Because of its economic performance after the Soviet breakup, Estonia has been termed one of the [[Baltic Tiger]]s.
+
+In 2008, Estonia was ranked 12th of 162 countries in the [[Index of Economic Freedom]] 2008, the best of any former Soviet republic. The same year, the country was on bottom of Europe by labour market freedom, but the government is drafting improvements.<ref>
+{{cite news
+ | last       = Koovit | first = Kaja
+ | title      = Estonia on bottom of Europe by labour market freedom
+ | date       = 20 May 2008
+ | agency     = Baltic Business News
+ | url        = http://www.bbn.ee/?PublicationId=60cb40ba-e355-4d36-88ee-1ba221201681
+ | accessdate = 21 August 2012}}
+</ref> Estonia is 21st on the [[Ease of Doing Business Index]] 2013 by the [[World Bank Group]].
+
+<!-- When? -->The [[Government of Estonia]] decided that the country should adopt the [[euro]] as its official currency, and finalized the design of [[Estonian euro coins]] in late 2004. The switchover to the euro took place on 1 January 2011,<ref name="reuters-2011-01-01">
+{{cite news
+ | last       = Mardiste | first = David
+ | title      = Estonia joins crisis-hit euro club
+ | date       = 1 January 2011
+ | agency     = [[Reuters]]
+ | url        = http://www.reuters.com/article/idUSTRE6BU0S720110101
+ | accessdate = 21 August 2012}}
+</ref> later than planned, because continued high inflation had prevented it from fulfilling the entry criteria earlier. The [[Estonian kroon]] was pegged to the euro at a rate of 15.64664 EEK to one euro.
+
+The [[Financial Crisis of 2008]] has had a grave effect on the Estonian economy, primarily as a result of an investment and consumption slump that followed the bursting of the real estate market bubble that had been building up during the preceding years. Estonia had the EU's worst year for unemployment, which rose from 3.9% in May 2008 to 15.6% in May 2009.<ref>
+{{cite news
+ | last  = Zumbrun | first = Joshua
+ | title = In Pictures: The World's Hardest-Hit Economies
+ | work  = Forbes
+ | url   = http://www.forbes.com/2009/07/08/economics-iceland-ireland-business-beltway-countries_slide_4.html}}
+</ref>
+
+Nevertheless, long-term prospects for the Estonian economy remain among the most promising in Europe. In 2011, the real GDP growth in Estonia was 8.0%, and according to the projections made by the [[Centre d'Etudes Prospectives et d'Informations Internationales|CEPII]], by 2025 the GDP per capita could rise to the level of Nordic economies of Sweden, Finland, Denmark, and Norway. According to the same projections, by 2050, Estonia could become the most productive country in the EU, after Luxembourg, and thus join the top five most productive nations in the world.<ref>
+{{cite web
+ | title      = The Great Shift: Macroeconomic projections for the world economy at the 2050 horizon
+ | publisher  = [[Centre d'Etudes Prospectives et d'Informations Internationales|CEPII]]
+ | date       = February 2012
+ | url        = http://www.cepii.fr/anglaisgraph/workpap/pdf/2012/wp2012-03.pdf
+ | accessdate = 21 August 2012}}
+</ref>
+
+== Early history ==
+Until the early 13th century, the territory that is now known as Estonia was independent. The economy was largely an agricultural one, but Estonia being a country with a long coastline, there were also many maritime activities. Autonomous development was brought to an end by the Northern Crusades undertaken by the King of Denmark, the German Livonian and the Teutonic military orders. The Estonian world was transformed by military conquest. The war against the invaders lasted from 1208–1227. The last Estonian county to fall was the island of Saaremaa in 1261.
+
+Thereafter, through many centuries until 1920, Estonian agriculture consisted of native peasants working large feudal-type estates held by ethnic [[Baltic Germans|German]] [[landlord]]s. In the decades prior to independence, centralised [[Czar]]ist rule had created a rather large industrial sector dominated by the world's largest [[cotton mill]]. The new Estonian state inherited a ruined post-war economy, and an inflated ruble currency. In years 1920 to 1930, Estonia entirely transformed its economy, despite considerable hardship, dislocation, and unemployment. Compensating the German landowners for their holdings, the government confiscated the estates and divided them into small farms which subsequently formed the basis of Estonian prosperity.
+
+By 1929, a stable currency, the [[Estonian kroon|kroon]], was established. It was issued by the [[Bank of Estonia]], the country's [[central bank]]. Trade focused on the local market and the West, particularly Germany and the United Kingdom. Only 3% of all commerce was with the [[USSR]].
+
+The USSR's forcible annexation of Estonia in 1940 and the ensuing [[Nazism|Nazi]] and [[Soviet Union|Soviet]] destruction during [[World War II]] crippled the Estonian economy. Post-war Sovietisation of life continued with the integration of Estonia's economy and industry into the USSR's centrally planned structure. More than 56% of Estonian farms were [[collective|collectivised]] in the month of April 1949 alone. Moscow expanded on those Estonian industries which had locally available raw materials, such as [[oil shale]] mining and phosphorites.
+
+== Modernisation and liberalisation ==
+Since reestablishing independence, Estonia has styled itself as the gateway between East and West and aggressively pursued economic reform and integration with the West. Estonia's market reforms put it among the economic leaders in the former [[COMECON]] area. A balanced budget, almost non-existent [[public debt]], flat-rate [[income tax]], [[free trade]] regime, fully convertible currency backed by [[currency board]] and a strong peg to the [[euro]], competitive commercial banking sector, hospitable environment for foreign investment, innovative [[e-Services]] and even mobile-based services are all hallmarks of Estonia's free-market-based economy. Estonia also has made excellent progress in regard to [[structural adjustment]].
+
+In June 1992, Estonia replaced the [[Russian ruble|ruble]] with its own freely convertible currency, the [[Estonian kroon|kroon]] (EEK). A [[currency board]] was created and the new currency was pegged to the German Mark at the rate of 8 Estonian kroons for 1 [[Deutsche Mark]]. When Germany introduced the [[euro]] the peg was changed to 15.6466 kroons for 1 euro. Estonia was set to adopt the euro in 2008 but due to high inflation rates the adoption date was delayed to 2011. On 1 January 2011, Estonia adopted the euro and became the 17th [[eurozone]] member state.<ref name="reuters-2011-01-01"/>
+
+The [[privatisation]] of state-owned firms is virtually complete, with only the port and the main power plants remaining in government hands. The constitution requires a balanced budget, and the protection afforded by Estonia's intellectual property laws is on a par of that of Europe's. In early 1992 both liquidity problems and structural weakness stemming from the communist era precipitated a banking crisis. As a result, effective bankruptcy legislation was enacted and privately owned, well-managed banks emerged as market leaders. Today, near-ideal conditions for the banking sector exist. Foreigners are not restricted from buying bank shares or acquiring majority holdings.
+
+[[Tallinn]]'s fully electronic [[Tallinn Stock Exchange|stock exchange]] opened in early 1996 and was bought out by Finland's [[Helsinki Stock Exchange]] in 2001. It is estimated that the unregistered economy provides almost 12% of annual GDP.
+
+== The economy today ==
+[[File:Real GDP growth in Estonia, 2002-2012.png|thumb|300px|Real GDP growth in Estonia, 2002-2012.]]
+
+Estonian economy was one of the fastest growing in the world until 2006 with growth rates even exceeding 10% annually. Despite some concerns both in and outside of the country, the Estonian economy and its currency remained highly resilient and solvent.
+
+Until recent years, the Estonian economy has continued to grow with admirable rates. Estonian GDP grew by 6.4% in the year 2000 and with double digit speeds after accession to the EU in 2004. The GDP grew by 7.9% in 2007 alone. Increases in labor costs, rise of taxation on tobacco, alcohol, electricity, fuel, and gas, and also external pressures (growing prices of oil and food on the global market) are expected to raise inflation just above the 10% mark in the first months of 2009.
+
+In the first quarter 2008, GDP grew only 0.1%. The government made a supplementary negative budget, which was passed by the [[Riigikogu]]. The revenue of the budget was decreased for 2008 by EEK 6.1 billion and the expenditure by EEK 3.2 billion.<ref>
+{{cite web
+ | title      = Government approves supplementary budget for 2008
+ | publisher  = Ministry of Finance of the Republic of Estonia
+ | date       = 15 May 2008
+ | url        = http://www.fin.ee/?id=80290
+ | accessdate = 21 August 2012}}
+</ref>
+
+Estonia joined the World Trade Organization in 1999. A sizable current account deficits remains, but started to shrink in the last months of 2008 and is expected to do so in the near future.
+
+In the second quarter of 2013, the average monthly gross wage in Estonia was €976 (15,271 [[Estonian kroon|kroons]], US$1,328).<ref name="stat.ee">
+{{cite web
+ | title      = Most requested statistics
+ | work       = Main indicators
+ | publisher  = [[Statistics Estonia]]
+ | date       = 30 September 2013
+ | url        = http://www.stat.ee/main-indicators
+ | accessdate = 4 October 2013}}
+</ref>
+
+Estonia is nearly energy independent, supplying over 90% of its electricity needs with [[Oil shale in Estonia|locally mined oil shale]]. Alternative energy sources such as wood, peat, and biomass make up approximately 9% of primary energy production. Estonia imports needed petroleum products from western Europe and Russia. Oil shale energy, telecommunications, textiles, chemical products, banking, services, food and fishing, timber, shipbuilding, electronics, and transportation are key sectors of the economy. The [[ice-free port]] of [[Port of Muuga|Muuga]], near [[Tallinn]], is a modern facility featuring good transshipment capability, a high-capacity grain elevator, chill/frozen storage, and brand-new oil tanker off-loading capabilities. The railroad serves as a conduit between the West, Russia, and other points to the East.
+
+After a long period of very high growth of GDP, the GDP of Estonia decreased by a little over 3% on a yearly basis in the 3rd quarter of 2008. In the 4th quarter of 2008 the negative growth was already −9.4%. Some{{Who|date=August 2009}} international experts and journalists, who like to view the three Baltic states as a single economic identity, have failed to notice that Estonia has constantly performed better than [[Lithuania]] and [[Latvia]] on many fundamental indicators.{{Citation needed|date=August 2009}} Still, in 2009 Estonia was one of the five worst performing economies in the world in terms of annual GDP growth rate.<ref>
+{{cite web
+ | title      = Country Comparison – National product real growth rate
+ | work       = The World Factbook
+ | publisher  = [[CIA]]
+ | date       = 2009 estimate
+ | url        = https://www.cia.gov/library/publications/the-world-factbook/rankorder/2003rank.html?countryName=Estonia&countryCode=en&regionCode=eu&rank=209#en
+ | accessdate = 26 April 2010}}
+</ref> The current account deficit and inflation is lower than in Latvia, the GDP per capita is higher than in Latvia and Lithuania, Estonia's public debt is a very low 3.8% of GDP and government reserves are close to 10% of GDP. The difference is exemplified by the fact that in December 2008 Estonia became one of the donor countries to the [[IMF]] lead rescue package for [[Latvia]].
+
+Estonia today is mainly influenced by developments in Finland, Russia, Sweden and Germany – the four main trade partners. The government recently greatly increased its spending on innovation. The prime minister from the [[Estonian Reform Party]] has stated its goal of bringing Estonian [[GDP per capita]] into the top 5 of the EU by 2022. However, the GDP of Estonia decreased by 1.4% in the 2nd quarter of 2008, over 3% in the 3rd quarter of 2008, and over 9% in the 4th quarter of 2008. The Estonian economy further contracted by 15.1% in the first quarter of 2009.<ref>
+{{cite news
+ | last       = Tubalkain-Trell | first = Marge
+ | title      = Estonian Economy Fell 15.1 pct in Q1
+ | publisher  = Baltic Business News
+ | date       = 9 June 2009
+ | url        = http://www.bbn.ee/?PublicationId=5e575e3c-7f5b-40c6-9a06-b3e53fb5d67b
+ | accessdate = 21 August 2012}}
+</ref><ref>{{cite web | url=http://www.investing.com/news/forex-news/estonian-economy-contracts-sharply-in-first-quarter-61196 | title=Estonian economy contracts sharply in first quarter | work=[[Investing.com]] | date=9 June 2009}}</ref> Low domestic and foreign demand have depressed the economy's overall output.<ref name="reuters-2009-06-09">
+{{cite news
+ | last       = Mardiste | first = David
+ | title      = Estonian Economy Contracts Sharply in First Quarter
+ | agency     = [[Reuters]]
+ | date       = 9 June 2009
+ | url        = http://www.forexpros.com/news/forex-news/estonian-economy-contracts-sharply-in-first-quarter-61196
+ | accessdate = 21 August 2012}}
+</ref> The Estonian economy's 33.7% industrial production drop was the sharpest decrease in industrial production in the entire [[European Union]].<ref>
+{{cite news
+ | last       = Tubalkain-Trell | first = Marge
+ | title      = Estonian Industrial Production Fell Most in EU
+ | publisher  = Baltic Business News
+ | date       = 12 June 2009
+ | url        = http://www.bbn.ee/?PublicationId=3259772f-4391-4a3a-92d7-fa7eb18f6a02
+ | accessdate = 21 August 2012}}
+</ref>
+
+Since 2009, the Estonian economy has rebounded. The country's unemployment rate has dropped significantly and is now below 10%, and its GDP growth rate in 2011 was above 8% despite having negative population growth.<ref>{{cite web |title=Unemployment in Europe (monthly) |format=The chart shows data for the EU, Estonia, and Finland |agency=[[Eurostat]] |work=Google Public Data |publisher=Google |url= http://www.google.com/publicdata/explore?ds=z8o7pt6rd5uqa6_&ctype=l&strail=false&bcs=d&nselm=h&met_y=unemployment_rate&fdim_y=seasonality:sa&scale_y=lin&ind_y=false&rdim=country_group&idim=country_group:eu:non-eu&idim=country:fi:ee&ifdim=country_group&tstart=948657600000&tend=1366747200000&hl=en&ind=false#!ctype=l&strail=false&bcs=d&nselm=h&met_y=unemployment_rate&fdim_y=seasonality:sa&scale_y=lin&ind_y=false&rdim=country_group&idim=country_group:eu:non-eu&idim=country:fi:ee&ifdim=country_group&tstart=948664800000&tend=1374613200000&hl=en_US&dl=en_US&ind=false |accessdate=2014-01-24}}</ref><ref>{{cite web |title=GDP Growth Rate |agency=[[World Bank]] |work=Google Public Data |publisher=Google |url= http://www.google.com/publicdata/explore?ds=d5bncppjof8f9_&ctype=l&strail=false&bcs=d&nselm=h&met_y=ny_gdp_mktp_kd_zg&scale_y=lin&ind_y=false&rdim=region&idim=country:EST&ifdim=region&tdim=true&tstart=895950000000&tend=1306180800000&ind=false |accessdate=24 May 2013}}</ref>
+
+== The impact of the financial crisis of 2008 ==
+On July 2009, Estonian [[VAT]] was increased from 18% to 20%.<ref>{{cite news |last=Tubalkain-Trell |first=Marge |title=MPs approve plan to increase VAT rate to 20 pct |publisher=Baltic Business News |date=18 June 2009 |url= http://bbn.ee/?PublicationId=87f66124-06d2-4a65-bc7b-49ccc6d69dfc |accessdate=21 August 2012}}</ref> On 9 August 2011, just days after [[Standard & Poor's]] downgraded the credit rating of the United States, it raised Estonia's rating from A to {{nowrap begin}}AA-.{{nowrap end}} Among the factors S&P cited as contributing to its decision was confidence in Estonia's ability to "sustain strong economic growth."<ref>{{cite news |last=Ummelas |first=Ott |title=Estonia's Rating Raised to AA- by S&P on Economic Growth, Strong Finances |publisher=[[Bloomberg L.P.|Bloomberg]] |date=9 August 2011 |url= http://www.bloomberg.com/news/2011-08-09/estonia-s-rating-raised-to-aa-by-s-p-on-growth-finances-1-.html |accessdate=11 August 2011 |quote=Estonia's credit rating was raised by Standard & Poor's Ratings to the second-highest level in eastern Europe on the Baltic country's strong economic growth and solid public finances.}}</ref>
+
+== Employment participation ==
+[[File:Estonia Unemployment Rates.png|thumb|right|450px|Unemployment rate as a percentage of the labor force in [[Estonia]] according to [[Statistics Estonia]].]]
+[[File:People unemployed in Estonia 2005 2009.png|thumb|right|450px|People unemployed in Estonia, according to Statistics Estonia]]
+
+Estonia has around 600,000 employees, yet the country has a shortage of skilled labor, and since skill shortages are experienced everywhere in Europe, the government has increased working visa quota for non-[[European Economic Area|EEA]] citizens, although it has nevertheless been criticized for being inadequate for addressing the shortages.
+
+The [[Late-2000s recession|late-2000s recession in the world]], the near-concurrent local property bust with changes in Estonian legislation to increase [[labour market flexibility]] (making it easier for companies to lay off workers) saw Estonia's unemployment rate shoot up to 18.8% throughout the duration of the crisis, then stabilise to 13.8% by summer 2011, as the economy recovered on the basis of strong exports; as internal consumption, and therefore imports, plummeted; and as cuts were made in public finances.<ref>
+{{cite news
+ | title      = Estonian exceptionalism
+ | work       = Baltic economies
+ | publisher  = [[The Economist]]
+ | date       = 14 July 2011
+ | url        = http://www.economist.com/node/18959241
+ | accessdate = 11 August 2011}}
+</ref> Some of the reduction in unemployment has been attributed to some Estonians' emigrating for employment, to Finland, UK, Australia, and elsewhere.{{Citation needed|date=August 2011}}
+
+== Sectors ==
+The 20 most valuable companies based on 2007 profit estimates by GILD are: [[Hansapank]], [[Eesti Energia]], [[SEB Eesti Ühispank]], [[Eesti Telekom]], [[Tallink|Tallink Grupp]], [[Olympic Entertainment Group]], Tallinna Sadam, [[Tele2|Tele2 Eesti]], [[Sampo Bank|Sampo Pank]], Tallinna Kaubamaja, Merko Grupp, [[BLRT Grupp]], [[Elisa Oyj|Elisa]], Tallinna Vesi, Transgroup Invest, [[Eesti Raudtee]], Kunda Nordic Tsement, [[Viru Keemia Grupp]], [[Falck Baltics]], and Pro Kapital Grupp.<ref>
+{{cite web
+ | title      = GILD TOP 100 – The most valuable Estonian companies
+ | format     = PDF
+ | publisher  = GILD
+ | date       = 10 April 2008
+ | url        = http://www.gildbankers.com/UserFiles/File/Publications/GILD%20TOP%20100%20ranking%20the%20most%20valuable%20Estonian%20companies.pdf
+ | accessdate = 11 August 2011}}
+</ref> In terms of 2003 sales, the 20 largest companies included [[Kesko|Kesko Food]], [[Stora Enso|Stora Enso Timbe]], [[EMT (mobile operator)|EMT]], [[Elion Ettevõtted]], [[Eesti Põlevkivi]], Silberauto, Toyota Baltic, [[Statoil|Eesti Statoil]], Rakvere Lihakombinaat, [[Lukoil|Lukoil Eesti]], Kreenholmi Valduse, and [[Eesti Gaas]].<ref>
+{{cite web
+ | title       = Largest Estonian companies in terms of 2003 sales
+ | publisher   = Baltic Business News/[[Äripäev]]
+ | date        = 10 May 2005
+ | url         = http://www.balticbusinessnews.com/static/Est_TOP_50.html
+ | archiveurl  = http://web.archive.org/web/20081227085452/http://www.balticbusinessnews.com/static/Est_TOP_50.html
+ | archivedate = 27 December 2008}}
+</ref> Estonian Institute of Economic Research publishes top company awards in various categories, where Estonian small and medium size companies take many top positions.<ref name="companies2006"/>
+
+[[Tallinn]] has emerged as a financial center for Estonians and Russian Russians alike. According to Invest in Estonia, advantages of Estonian financial sector are unbureaucratic cooperation between companies and authorities, and relative abundance of educated people although young educated Estonians tend to emigrate to western Europe for greater income. The largest banks are [[Hansabank]], [[Skandinaviska Enskilda Banken|SEB]], [[Nordea]], and [[Sampo Bank]]. Several IPOs have been made recently on the [[Tallinn Stock Exchange]], a member [[OMX]] system. Estonia is ranked 21st of 121 countries in the Capital Access Index 2005 by Milken Institute, outperforming Austria and Italy among others.<ref name="financialcenter">
+{{cite web
+ | title       = A Financial Center in Northern Europe '''(dead link)'''
+ | publisher   = Invest in Estonia
+ | url         = http://www.investinestonia.com/index.php?option=displaypage&Itemid=157&op=page&SubMenu=}}
+</ref> The rent levels of new office spaces in Tallinn starts at 15 euros per square meter or 2000 euro sale price, with demand exceeding supply.<ref name="financialcenter"/>
+
+Estonian service sector employs over 60% of workforce. Estonia has a strong information technology (IT) sector, partly due to the [[Tiigrihüpe]] project undertaken in mid-1990s, and has been mentioned as the most "wired" and advanced country in Europe in the terms of [http://www.valitsus.ee/ e-government].<ref>
+{{cite news
+ | title      = Hackers Take Down the Most Wired Country in Europe
+ | publisher  = Wired
+ | date       = 21 August 2007
+ | url        = http://www.wired.com/politics/security/magazine/15-09/ff_estonia
+ | accessdate = 21 August 2012}}
+</ref>
+
+<!-- Someone should write more about service sector -->
+
+Farming, [[collectivization|collectivized]] until 20 years ago, has become privatized, more efficient, and the farming area has increased recently.<ref>
+{{cite web
+ | last       = Laansalu | first = Ants
+ | title      = Crisis in agriculture in the 1990s
+ | work       = The rural economy in Estonia until 2001
+ | publisher  = [[Estonica]]
+ | date       = 9 October 2009
+ | url        = http://www.estonica.org/eng/lugu.html?menyy_id=914&kateg=40&alam=94&leht=3
+ | accessdate = 11 August 2011}}
+</ref> The share of agriculture in the gross domestic product decreased from 15% to 3.3% during 1991–2000, while employment in agriculture decreased from 15% to 5.2%.<ref>
+{{cite press release
+ | title      = The biggest share of the gross domestic product of Estonia is continuously created in Harju county
+ | publisher  = [[Statistics Estonia]]
+ | date       = 26 September 2007
+ | url        = http://www.stat.ee/18533
+ | accessdate = 11 August 2011}}
+</ref>
+
+The [[mining industry]] makes up 1% of the GDP. Mined commodities include oil shale, [[peat]], and industrial minerals, such as [[clay]]s, [[limestone]], [[sand]] and [[gravel]].<ref>
+{{cite web
+ | last       = Kuo | first = Chin S.
+ | title      = The Mineral Industries of Estonia, Latvia, and Lithuania
+ | work       = U.S. Geolocial Survey Minerals Yearbook
+ | format     = PDF
+ | publisher  = U.S. Geological Survey Mineral Resources Program
+ | year       = 2001
+ | url        = http://minerals.usgs.gov/minerals/pubs/country/2001/enlglhmyb01.pdf
+ | accessdate = 10 August 2011}}
+</ref> Soviets created badly polluting industry in the early 1950s, concentrated in the north-east of the country. Socialist economy and military areas left the country highly polluted, and mainly because of [[oil shale industry]] in East-Virumaa, [[sulphur dioxide]] emissions per person is almost as high as in Czech Republic. The coastal seawater is polluted in certain locations, mainly the east. The government is looking for ways to reduce pollution further.<ref>
+{{cite web
+ | author     = Estonian Environment Information Centre
+ | title      = Pollution load
+ | work       = [http://enrin.grida.no/htmls/estonia/env2001/content/soe State of Environment in Estonia on Threshold of XXI Century]
+ | publisher  = [[UNEP/GRID-Arendal]] &#x2013; Central & Eastern Europe, Caucasus, and Central Asia
+ | year       = 2001
+ | url        = http://enrin.grida.no/htmls/estonia/env2001/content/soe/air_2-2.htm
+ | accessdate = 10 August 2011}}
+</ref> In 2000, the emissions were 80% smaller than in 1980, and the amount of unpurified wastewater discharged to water bodies was 95% smaller than in 1980.<ref>
+{{cite web
+ | author     = [[CIA]]
+ | title      = Environment &#x2013; current issues (section)
+ | work       = Estonia – The World Factbook
+ | publisher  = [[University of Missouri&#x2013;St. Louis]]
+ | date       = 17 May 2005
+ | url        = http://www.umsl.edu/services/govdocs/wofact2005/geos/en.html
+ | accessdate = 10 August 2011}}
+</ref>
+Estonian productivity is experiencing rapid growth, and consequently wages are also rising quickly, with a rise in private consumption of about 8% in 2005. According to Estonian Institute of Economic Research, the largest contributors to GDP growth in 2005 were processing industry, financial intermediation, retailing and wholesale trade, transport and communications.<ref name="companies2006">
+{{cite web
+ | author      = Estonian Institute of Economic Research
+ | title       = Top Estonian Enterprises 2006
+ | format      = PDF
+ | publisher   = Enterprise Estonia
+ | date        = November 2006
+ | url         = http://www.eas.ee/vfs/3282/Edetabel_ENG_2006_trykk_Bh.pdf
+ | archiveurl  = http://web.archive.org/web/20070609233211/http://www.eas.ee/vfs/3282/Edetabel_ENG_2006_trykk_Bh.pdf
+ | archivedate = 9 June 2007}}
+</ref>
+
+== Infrastructure ==
+{{Main|Transport in Estonia}}
+
+Railway transport dominates the cargo sector, comprising 70% of all carried goods, domestic and international. Road transport is the one that prevails in the passenger sector, accounting for over 90% of all transported passengers. 5 major cargo ports offer easy navigational access, deep waters, and good ice conditions. There are 12 airports and 1 [[heliport]] in Estonia. [[Lennart Meri Tallinn Airport]] is the largest airport in Estonia, with 1,73 million passengers and 22,764 tons of cargo (annual cargo growth 119.7%) in 2007. International flight companies such as [[Scandinavian Airlines System|SAS]], [[Finnair]], [[Lufthansa]], [[EasyJet]], and [[Estonian Air]] provide direct flights to 27 destinations.<ref>[http://www.investinestonia.com/index.php?option=displaypage&Itemid=111&op=page&SubMenu= TRANSPORTATION '''(dead link)'''], Invest in Estonia</ref>
+
+Approximately 7.5% of the country's [[workforce]] is employed in transportation and the sector contributes over 10% of GDP. Estonia is getting much business from traffic between Europe and Russia, especially oil cargo through Estonian ports. Transit trade's share of GDP is disputed, but many agree that Russia's increased hostility is decreasing the share.<ref>
+{{cite web
+ | last       = Purju | first = Alari
+ | title      = Transit trade through Estonia: problems and developments
+ | publisher  = [[University of Turku]], [[Pan-European Institute]]
+ | date       = 29 February 2008
+ | url        = http://www.tse.fi/FI/yksikot/erillislaitokset/pei/Documents/bre2008/expert_article172_12008.pdf
+ | accessdate = 21 August 2012}}
+</ref><ref>
+{{cite news
+ | last       = Tubalkain-Trell | first = Marge
+ | title      = Estonian businessman: Estonian transit will struggle another 10 years
+ | publisher  = Baltic Business News
+ | date       = 19 June 2008
+ | url        = http://www.bbn.ee/?PublicationId=43ce440f-713d-4469-ae85-5e9d12ddb2e1
+ | accessdate = 21 August 2012}}
+</ref>
+
+Instead of coal, electricity is generated by burning oil shale, with [[Narva Power Plants|largest stations in Narva]]. Oil shale supplies around 70% of the country's primary energy. Other energy sources are natural gas imported from Russia, wood, [[motor fuel]]s, and [[fuel oil]]s.<ref>
+{{cite web
+ | title       = Countries: Estonia
+ | work        = Wind energy in the Baltic Sea Region
+ | publisher   = Baltic Wind Energy Association
+ | year        = 2004
+ | url         = http://www.windenergy-in-the-bsr.net/countries_detail_3.html
+ | archiveurl  = http://web.archive.org/web/20081121195559/http://www.windenergy-in-the-bsr.net/countries_detail_3.html
+ | archivedate = 21 November 2008}}
+</ref>
+
+[[Wind power in Estonia]] amounts to 58.1&nbsp;[[megawatt]]s, whilst roughly 399 megawatts worth of projects are currently being developed. Estonian energy liberalization is lagging far behind the [[Nordic energy market]]. During the accession negotiations with the EU, Estonia agreed that at least 35% of the market are opened before 2009 and all of non-household market, which totals around 77% of consumption, before 2013. Estonia is concerned that Russia could use energy markets to bully it.<ref>
+{{cite web
+ | last       = Kasekamp | first = Andres
+ | last2      = Mäe | first2 = Andres
+ | last3      = Soosaar | first3 = Sulev
+ | last4      = Uustalu | first4 = Jaan
+ | last5      = Vares | first5 = Villu
+ | last6      = Wegmarshaus | first6 = Gert-Rüdiger
+ | title      = Energy Security of Estonia in the Context of the Energy Policy of the European Union
+ | format     = PDF
+ | publisher  = Estonian Foreign Policy Institute
+ | date       = September 2006
+ | url        = http://www.evi.ee/lib/Security.pdf
+ | accessdate = 10 August 2011}}
+</ref> The government is considering granting permits to nuclear power companies and there are plans for a shared nuclear facility with Latvia and Lithuania.<ref>
+{{cite news
+ | title      = Latvia, Estonia push for Baltic nuclear plant
+ | agency     = [[Agence France-Presse]]
+ | publisher  = Spacedaily.com
+ | date       = 18 February 2009
+ | url        = http://www.spacedaily.com/reports/Latvia_Estonia_push_for_Baltic_nuclear_plant_999.html
+ | accessdate = 10 August 2011}}
+</ref>
+
+Estonia has a high Internet penetration, and connections are available throughout most of the country.
+
+== Trade ==
+[[File:Tree Map of Estonia's Exports in 2011.svg|thumb|Graphical depiction of Estonia's product exports in HS product classification.]]
+{| class="sortable wikitable" style="float:right; text-align:left; font-size:90%;"
+|- style="font-size:100%; text-align:left"
+! style="width:120px;"|[[List of countries in Europe|Estonia]]!! style="width:60px;"|Export
+!! style="width:60px;"|Import</tr>
+|-
+| [[Finland]] ||15.3%|| style="text-align:right"|15.1%
+|-
+| [[Sweden]] ||16.8%|| style="text-align:right"|10.7%
+|-
+| [[Latvia]] ||9.2%||style="text-align:right"|10%
+|-
+| Russia ||12.7%|| style="text-align:right"|4.1%
+|-
+| Germany ||4.8%||style="text-align:right"|10.7%
+|-
+| [[Lithuania]] ||5.7%|| style="text-align:right"|9%
+|}
+Estonia exports machinery and equipment (33% of all exports annually), wood and paper (15% of all exports annually), textiles (14% of all exports annually), food products (8% of all exports annually), furniture (7% of all exports annually), and metals and [[chemical]] products.<ref name="cia-world-factbook">
+{{cite web
+ | title       = CIA World Factbook: Estonia
+ | publisher   = [[CIA]]
+ | url         = http://www.imf.org/external/np/sta/ir/IRProcessWeb/data/est/eng/curest.htm
+ | accessdate  = 21 August 2012}}
+</ref> Estonia also exports 1.562 million megawatt hours of electricity annually.<ref name="cia-world-factbook" /> Estonia imports machinery and equipment (33.5% of all imports annually), chemical products (11.6% of all imports annually), textiles (10.3'% of all imports annually), food products (9.4% of all imports annually), and transportation equipment (8.9% of all imports annually).<ref name="cia-world-factbook" /> Estonia imports 200 thousand megawatt hours of electricity annually.<ref name="cia-world-factbook" />
+
+== Natural resources ==
+{| class="sortable wikitable" style="font-size:90%"
+ |- style="font-size:100%; text-align:left"
+ ! style="width:200px;"|[[natural resource|Resource]]!! style="width:200px;"|Location!! style="width:200px;"|[[Resource|Reserves]]
+ |-
+ | [[Oil shale]]||north-east|| style="text-align:right"|1,137,700,000 mln t
+ |-
+ | [[Bay mud|Sea mud]] (medical) ||south|| style="text-align:right"|1,356,400,000 mln t
+ |-
+ | [[sand|Construction sand]] ||across the country|| style="text-align:right"|166,700,000 mln m³
+ |-
+ | [[Gravel|Construction gravel]] ||north||style="text-align:right"|32,800,000 mln m³
+ |-
+ | [[Bay mud|Lake mud]] (medical)||across the country|| style="text-align:right"|1,133,300 mln t
+ |-
+ | [[Bay mud|Lake mud]] (fertilizer)||east|| style="text-align:right"|170,900 t
+ |-
+ | [[Clay|Ceramic clay]] ||across the country||style="text-align:right"|10,600,000 mln m³
+ |-
+ | [[Clay|Ceramsid clay]] (for gravel) ||across the country|| style="text-align:right"|2,600,000 mln m³
+ |-
+ | [[Dolomite|Technological dolomite]] ||west|| style="text-align:right"|16,600,000 mln m³
+ |-
+ | [[Limestone|Technological limestone]] ||north|| style="text-align:right"|13,800,000 mln m³
+ |-
+ | [[Dolomite|Decoration dolomite]] ||west|| style="text-align:right"|2,900,000 mln m³
+ |-
+ | [[Dolomite|Construction dolomite]] ||west|| style="text-align:right"|32,900,000 mln m³
+ |-
+ | [[Clay|Blue clay]] ||across the country|| style="text-align:right"|2,044,000 mln t
+ |-
+ | [[Granite]] ||across the country|| style="text-align:right"|1,245,100,000 mln m³
+ |-
+ | [[Peat]] ||across the country|| style="text-align:right"|230,300,000 mln t
+ |-
+ | [[Limestone|Construction limestone]] ||north|| style="text-align:right"|110,300,000 mln m³
+ |-
+ | [[Limestone|Limestone cement]] ||north|| style="text-align:right"|9,400,000 mln m³
+ |-
+ | [[Clay|Clay cement]] ||north|| style="text-align:right"|15,6000,000 mln m³
+ |-
+ | [[Graptolitic argillite]]<ref>{{cite web|url=http://www.ut.ee/BGGM/maavara/dityoneema.html|title=Maavarad|publisher=|accessdate=3 March 2015}}</ref> ||north|| style="text-align:right"| 64,000,000,000 mln t
+ |-
+ | Wood ||across the country|| style="text-align:right"|15,6000,000 mln m³
+ |-
+ | [[Sand|Technological sand]] ||north|| style="text-align:right"|3,300,000 mln m³
+ |-
+ | [[Lime (mineral)|Lake lime]] || north and south || style="text-align:right"|808,000 t
+ |-
+ | [[Phosphorite]] ||north|| style="text-align:right"|over 350,000,000 mln t (estimated)
+ |-
+ | [[Subsoil]] ||across the country|| style="text-align:right"| 21,1&nbsp;km³
+ |}
+
+== See also ==
+* [[Economy of Europe]]
+* [[Estonia]]
+* [[Baltic Tiger]]
+
+== External links ==
+* [http://trendeconomy.com/en/tradeSummary/H4/Estonia-Europe#Estonia Trade Profile (Imports/Exports) - Estonia]
+
+== Notes ==
+{{reflist|2}}
+
+{{Estonia topics|state=autocollapse}}
+{{Members of the European Union (EU)}}
+{{Organisation for Economic Co-operation and Development}}
+{{World Trade Organization}}
+{{Economy of Europe}}
+
+{{DEFAULTSORT:Economy Of Estonia}}
+[[Category:Economy of Estonia| ]]
+[[Category:European Union member economies|Estonia]]
+[[Category:Organisation for Economic Co-operation and Development member economies|Estonia]]

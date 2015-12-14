@@ -1,0 +1,34 @@
+{{Wiktionary|diet}}
+{{wikiquote}}
+'''Diet''' may refer to:
+
+==Food==
+*[[Diet (nutrition)]], the sum of the food consumed by an organism or group.
+*[[Dieting]], the deliberate selection of food to control body weight or nutrient intake
+**[[List of diets]]
+*[[Diet food]], foods that aid in dieting
+*[[Cuisine]], the diet of a particular culture
+
+==Political bodies==
+* [[Diet (assembly)]], formal deliberative assembly
+** [[Diet of Finland]], the legislative assembly of the Grand Duchy of Finland from 1809 to 1906
+** [[Diet of Hungary]], the legislative assembly of the Kingdom of Hungary from 15th century to 1946
+** [[Diet of Japan]], Japan's legislature
+** [[Imperial Diet (Holy Roman Empire)]], the imperial assembly of the princes of the Holy Roman Empire until 1806
+** [[Landtag|State Diet]] (In German: ''Landtag''), state parliament of most of the German federated states
+** [[Reichstag (German Empire)|The Diet of the Empire]] (''Reichstag''), legislative assembly of the German Empire, 1871–1917
+** [[Reichstag (Weimar Republic)|The Diet of the Weimar Republic]], (''Reichstag''), 1919 to 1933
+** The Diet of Nazi Germany, (''Reichstag''), 1933 to 1945  (a purely ceremonial "parliament" in a terrorist  tyranny without elections)
+** [[Bundestag|The Federal Diet of Germany]] (''Deutscher Bundestag'' or ''Der Deutsche Bundestag''), Lower House of the German Federal Parliament (of West Germany since 1949; of the whole of Germany since 1990 after the Reunification)
+
+==Other uses==
+* [[DIET]]: an open-source middleware for high-performance computing
+* [[Diet, India]], District Institute(s) of Education and Training in India
+* [[The Diet (cartoon)|''The Diet'' (cartoon)]], a Beetle Bailey animated short
+* "Diet", an episode of the Adult Swim animated television series, ''[[Aqua Teen Hunger Force]]''
+
+==See also==
+* [[Diets]], a historical name for the Dutch language in general
+* [[Dietsch (disambiguation)]]: distinguishes the southern dialects in the Middle Dutch language
+
+{{disambiguation}}

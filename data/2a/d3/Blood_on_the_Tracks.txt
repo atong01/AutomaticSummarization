@@ -1,0 +1,280 @@
+{{Use mdy dates|date=January 2012}}
+{{Infobox album
+| Name = Blood on the Tracks
+| Type = studio
+| Artist = [[Bob Dylan]]
+| Cover = Bob Dylan - Blood on the Tracks.jpg
+| Alt = A drawing of Dylan's face in profile facing a purple stripe with the album's name in white
+| Released = {{Start date|1975|01|20}}
+| Recorded = September 16–19, 1974, at [[A & R Recording]] in [[New York City|New York]], [[New York]] and December 27–30, 1974, at [[Sound 80]] in [[Minneapolis]], [[Minnesota]]
+| Genre = [[Folk rock]]
+| Length = {{Duration|m=51|s=42}}
+| Label = [[Columbia Records|Columbia]]
+| Producer = [[Bob Dylan]]
+| Last album = ''[[Before the Flood]]''<br />(with [[The Band]])<br>(1974)
+| This album = '''''Blood on the Tracks'''''<br />(1975)
+| Next album = ''[[The Basement Tapes]]''<br />(with [[The Band]])<br>(1975)
+| Misc = {{Singles
+ | Name = Blood on the Tracks
+ | Type = studio
+ | Single 1 = [[Tangled Up in Blue]]" / "[[If You See Her, Say Hello]]
+ | Single 1 date = {{Start date|1975|01|17}}
+ }}
+}}
+
+'''''Blood on the Tracks''''' is the fifteenth studio album by American singer-songwriter [[Bob Dylan]], released on January 20, 1975<ref>{{Cite web |url=http://www.uncut.co.uk/bob-dylan/shelter-from-the-storm-the-inside-story-of-bob-dylan-s-blood-on-the-tracks-feature |title=Shelter From The Storm – the inside story of Bob Dylan’s Blood On The Tracks |date= |accessdate=January 20, 2015 |work=[[Uncut Magazine]]}}</ref><ref name="Searchingforagem">http://www.searchingforagem.com/1970s/International018.htm</ref> by [[Columbia Records]]. The album marked Dylan's return to [[Columbia Records]] after a two-album stint with [[Asylum Records]]. Dylan commenced recording the album in [[New York City]] in September 1974. In December, shortly before Columbia was due to release the record, Dylan abruptly re-recorded much of the material in a studio in [[Minneapolis]]. The final album contained five tracks from New York and five tracks from Minneapolis.
+
+''Blood on the Tracks'' was initially received with mixed reviews, but has subsequently been acclaimed as one of Dylan's greatest albums by critics and fans. The songs have been linked to tensions in Dylan's personal life, including estrangement from his then-wife [[Sara Dylan|Sara]], and one of their children, [[Jakob Dylan]], has described the songs as "my parents talking".<ref name=Sounes284>{{harvnb|Sounes|2001| p=284}}</ref> The album has been viewed as an outstanding example of the confessional singer-songwriter's craft, and it has been called "the truest, most honest account of a love affair from tip to stern ever put down on magnetic tape".<ref name = "Hedin">{{harvnb|Hedin|2004|p=109}}</ref>  In interviews, Dylan has denied that the songs on the album are autobiographical. In 2003, the album was ranked number 16 on ''[[Rolling Stone]]''<nowiki>'</nowiki>s list of [[The 500 Greatest Albums of All Time|the 500 greatest albums of all time]], and in 2004, it was placed at number 5 on ''[[Pitchfork Media]]''<nowiki>'</nowiki>s list of the top 100 albums of the 1970s.<ref>{{Cite web |url=http://pitchfork.com/features/staff-lists/5932-top-100-albums-of-the-1970s/10/ |title=Staff Lists: Top 100 Albums of the 1970s |date=June 23, 2004 |accessdate=January 11, 2013 |work=[[Pitchfork Media]]}}</ref>
+
+The album reached #1 on the [[Billboard 200|''Billboard'' 200]] charts and #4 on the [[UK Albums Chart]]. The single "[[Tangled Up in Blue]]" peaked at #31 on the [[Billboard Hot 100|''Billboard'' Hot 100]] singles chart. The album remains one of Dylan's best-selling studio releases, with a [[platinum record|double-platinum]] US certification by the [[Recording Industry Association of America]] (RIAA).<ref>
+{{cite web
+| url = http://www.rollingstone.com/news/story/6597661/16_blood_on_the_tracks
+| title = The ''Rolling Stone'' 500 Greatest Albums of All Time
+| accessdate =March 22, 2007
+| date = November 1, 2003
+| publisher = ''[[Rolling Stone]]''
+}}
+</ref>
+
+==Recording==
+
+===Pre-production===
+At the conclusion of his [[Bob Dylan and The Band 1974 Tour|1974 tour with The Band]], Dylan began a relationship with a Columbia Records employee, Ellen Bernstein, which Dylan biographer [[Clinton Heylin]] has described as the beginning of the end of Dylan's marriage to his wife [[Sara Dylan|Sara]].<ref name=heylin362>{{harvnb|Heylin|2011| pp=362–363}}</ref> In spring 1974, Dylan was in New York for several weeks while he attended art classes with the painter [[Norman Raeben]].<ref name=heylin368>{{harvnb|Heylin|2011| pp=368–369}}</ref> Dylan subsequently gave Raeben credit in interviews for transforming his understanding of time, and during the summer of 1974 Dylan began to write a series of songs in a red notebook which utilised his new knowledge: 
+{{quote|[Raeben] taught me how to see in a way that allowed me to do consciously what I unconsciously felt... When I started doing it, it the first album I made was ''Blood on the Tracks''. Everybody agrees that was pretty different, and what's different about it is there's a code in the lyrics, and also there's no sense of time.<ref name=heylin368/>}}
+
+Dylan subsequently spent time with Bernstein on his farm in Minnesota and there he completed the 17 songs from which ''Blood on the Tracks'' was formed—songs which Heylin has described as "perhaps the finest collection of love songs of the twentieth century, songs filled with the full spectrum of emotions a marriage on the rocks can engender".<ref name=heylin372>{{harvnb|Heylin|2011| p=372}}</ref>
+
+Prior to recording, Dylan previewed the songs that would constitute ''Blood on the Tracks'' for a number of friends in the music world, including [[David Crosby]], [[Graham Nash]], [[Stephen Stills]], [[Tim Drummond]], and [[Peter Rowan]].<ref name="st-42">{{harvnb|Gill & Odegard|2005|pp=42–44}}</ref> Nash recalled that Stills disliked Dylan's private performance of his new songs; immediately after Dylan left the room, Stills remarked to Nash, "He's a good songwriter ... but he's no musician."<ref name="st-42"/>
+
+Initially, Dylan considered recording ''Blood on the Tracks'' with an electric backing group, and contacted [[Mike Bloomfield]] who had played lead guitar on Dylan's ''[[Highway 61 Revisited]]'' album. When the two met, Dylan ran through the songs he was planning to record, but he played them too quickly for Bloomfield to learn.<ref name="williamson">{{cite book
+|last = Williamson
+|first = Nigel
+|title = The Rough Guide to Bob Dylan
+|isbn = 1-84353-139-9
+|publisher = Rough Guides
+|location = London
+|year = 2004
+| pages = 111–113}}</ref> Bloomfield later recalled the experience: "They all began to sound the same to me; they were all in the same [[key (music)|key]]; they were all long. It was one of the strangest experiences of my life. He was sort of pissed off that I didn't pick it up." In the end, Dylan rejected the idea of recording the album with a band, and instead substituted stripped-down acoustic arrangements for all of his songs.<ref name=williamson/> On August 2, 1974, Dylan signed a contract with [[Columbia Records]]. After releasing his two previous albums, ''[[Planet Waves]]'' and ''[[Before the Flood]]'', on [[Asylum Records]], Dylan decided his new album would benefit from the commercial muscle of the record label that had made him famous, and his new contract gave him increased control over his own masters.<ref name=Heylin378/>
+
+===Recording sessions===
+Dylan commenced recording at [[A & R Recording|A & R Recording Studios]] in New York City on September 16, 1974. Bernstein has stated "the theme of returning ran through the sessions", so "it made a lot of sense to do it at A&R".<ref name=Heylin378>{{harvnb|Heylin|2011| p=378}}</ref> [[A & R Recording|A & R Studios]] was the former [[Columbia Recording Studio#Recording studios|Columbia Records "Studio A"]], where Dylan had recorded six albums in the 1960s.<ref name=Heylin378/> The musicians quickly realized that Dylan was taking a "spontaneous" approach to recording.<ref name=williamson/> The session engineer, [[Phil Ramone]], later said that Dylan transitioned from one song to another as if they were part of a medley. Ramone noted:
+{{quote|Sometimes he will have several bars, and in the next version, he will change his mind about how many bars there should be in between a verse. Or eliminate a verse. Or add a chorus when you don't expect.}}
+
+[[Eric Weissberg]] and his band, Deliverance, originally recruited as session men, were rejected after two days of recording because they could not keep up with Dylan's pace.<ref name=williamson/> Dylan retained [[bass guitar|bassist]] Tony Brown from the band, and soon added [[organ (instrument)|organist]] [[Paul Griffin (musician)|Paul Griffin]] (who had also worked on ''Highway 61 Revisited'') and [[steel guitar]]ist [[Buddy Cage]].<ref name=williamson/> After ten days<ref name=williamson/> and four sessions<ref>Bjorner, [http://bjorner.com/74%201-6.htm#_Toc522515522 1974 On the Road Again: Calendar] Bjorner's As the Years Passed the Door. Retrieved September 3, 2010</ref> with the current lineup, Dylan had finished recording and mixing, and, by November, had cut a [[acetate disc|test pressing]] on the album. Columbia began to prepare to release the album before Christmas.<ref>{{harvnb|Heylin|2011| pp=381}}</ref>
+
+Dylan played the test pressing for his brother, David Zimmerman, who persuaded Dylan the album would not sell because the overall sound was too stark. At his brother's urging, Dylan agreed to re-record five of the album's songs in [[Sound 80]] in [[Minneapolis]], with backing musicians recruited by David. The new takes were accomplished in two days at the end of December 1974. ''Blood on the Tracks'' was released into stores on January 20, 1975.<ref>{{harvnb|Heylin|2011| pp=381–383}}</ref>
+
+==Autobiographical interpretation of ''Blood on the Tracks''==
+The songs that constitute ''Blood on the Tracks'' have been described by many Dylan critics as stemming from his personal turmoil at the time, particularly his estrangement from his then-wife [[Sara Dylan]].<ref>{{harvnb|Gill & Odegard|2005|pp=186–188}}</ref> One of Bob and Sara Dylan's children, [[Jakob Dylan]], has said, "When I'm listening to ''Blood On The Tracks'', that's about my parents."<ref>{{harvnb|Gray|2006|p=199}}</ref>
+
+Dylan has denied this autobiographical interpretation, stating in a 1985 interview with Bill Flanagan, "A lot of people thought that album pertained to me. It didn't pertain to me... I'm not going to make an album and lean on a marriage relationship."<ref>{{harvnb|Flanagan|1990|pp=96–97}}</ref> Informed of the album's popularity, Dylan told [[Mary Travers (singer)|Mary Travers]] in a radio interview in April 1975: "A lot of people tell me they enjoy that album. It's hard for me to relate to that. I mean... people enjoying that type of pain, you know?" Addressing whether the album described his own personal pain, Dylan replied that he didn't write "confessional songs".<ref name=williamson/>
+
+In his 2004 memoir, ''[[Chronicles, Vol. 1]]'', Dylan stated that the songs have nothing to do with his own personal life, and that they were inspired by the [[List of short stories by Anton Chekhov|short stories]] of [[Anton Chekhov]].<ref>{{cite web|url=http://www.popmatters.com/special/section/all-things-reconsidered-the-35th-anniversary-of-bob-dylans-blood-on-the-//|publisher=[[PopMatters]]|accessdate=August 13, 2011|title=All Things Reconsidered: The 35th Anniversary of Bob Dylan’s Blood on the Tracks}}</ref>
+
+==Critical reception==
+{{Album ratings
+| rev1 = [[AllMusic]]
+| rev1Score = {{Rating|5|5}}<ref>[http://www.allmusic.com/album/blood-on-the-tracks-r661165 Allmusic review]</ref>
+| rev2 = ''[[Chicago Tribune]]''
+| rev2Score = {{Rating|4|4}}<ref>{{cite news|last=Kot|first=Greg|authorlink=Greg Kot|issue=October 25|year=1992|url=http://articles.chicagotribune.com/1992-10-25/entertainment/9204060639_1_star-freewheelin-bob-dylan-rolling-thunder-revue-tour|title=Dylan Through The Years: Hits And Misses|newspaper=[[Chicago Tribune]]|accessdate=September 19, 2014}}</ref>
+| rev3 = ''[[Encyclopedia of Popular Music]]''
+| rev3Score = {{Rating|5|5}}<ref>{{cite book|last=Larkin|first=Colin|authorlink=Colin Larkin (writer)|year=2011|title=[[The Encyclopedia of Popular Music]]|page=2006|publisher=[[Omnibus Press]]|isbn=0857125958}}</ref>
+| rev4      = [[MusicHound]]
+| rev4Score = {{Rating|5|5}}<ref>{{cite book|last1=Graff|first1=Gary|last2=Durchholz|first2=Daniel (eds)|title=MusicHound Rock: The Essential Album Guide|edition=2nd|publisher=Visible Ink Press|location=Farmington Hills, MI|year=1999|isbn=1-57859-061-2|pp=369, 371}}</ref>
+| rev5 = ''[[Q (magazine)|Q]]''
+| rev5Score = {{Rating|5|5}}<ref>{{cite journal|journal=[[Q (magazine)|Q]]|location=London|page=131|issue=December|year=1993}}</ref>
+| rev6 = ''[[The Rolling Stone Album Guide]]''
+| rev6Score = {{Rating|5|5}}<ref name="Sheffield">{{cite book|last=Sheffield|first=Rob|authorlink=Rob Sheffield|year=2004|editor1-first=Nathan|editor1-last=Brackett|editor1-link=Nathan Brackett|editor2-first=Christian|editor2-last=Hoard|title=[[The New Rolling Stone Album Guide]]|chapter=Bob Dylan|pages=262, 264|publisher=[[Simon and Schuster]]|isbn=0743201698}}</ref>
+| rev7 = [[Sputnikmusic]]
+| rev7Score = 5/5<ref>{{cite web|last=Butler|first=Nick|date=June 26, 2006|url=http://www.sputnikmusic.com/soundoff.php?albumid=742|title=Bob Dylan - Blood on the Tracks|publisher=[[Sputnikmusic]]|accessdate=September 19, 2014|archiveurl=http://www.webcitation.org/6ShKSRQ8C|archivedate=September 19, 2014|deadurl=no}}</ref>
+| rev8 = ''[[The Village Voice]]''
+| rev8Score = A<ref name="Christgau"/>
+}}
+
+Released in early 1975, ''Blood on the Tracks'' initially received mixed reviews from critics.{{sfn|Williamson|2004|p=113}} ''Rolling Stone'' published two assessments. The first, by Jonathan Cott, called it "Dylan's magnificent new album". The second reviewer, [[Jon Landau]], wrote that "the record has been made with typical shoddiness."<ref name = "Heylin 383"/> In the ''[[NME]]'', [[Nick Kent]] described "the accompaniments [as] often so trashy they sound like mere practice takes",<ref name = "Heylin 383">{{harvnb|Heylin|2011| p=383}}</ref> while ''[[Crawdaddy]]'' magazine's Jim Cusimano found the instrumentation incompetent.{{sfn|Williamson|2004|p=113}}
+
+An influential review of the album was written by Dylan critic [[Michael Gray (author)|Michael Gray]] for the magazine ''[[Let It Rock (magazine)|Let It Rock]]''. Gray argued that this album transformed our perception of Dylan, that he was no longer defined as "the major artist of the sixties. Instead, Dylan has legitimized his claim to a creative prowess as vital now as then—a power not bounded by the one decade he so affected."<ref name = "Heylin 384">{{harvnb|Heylin|2011| p=384}}</ref> This view was amplified by [[Clinton Heylin]], who wrote: "Ten years after he turned the rock & roll brand of pop into rock... [Dylan] renewed its legitimacy as a form capable of containing the work of a mature artist."<ref name = "Heylin 384"/> In ''[[The Village Voice]]'', [[Robert Christgau]] wrote that although the lyrics occasionally evoke romantic naiveté and bitterness, ''Blood on the Tracks'' is altogether Dylan's "most mature and assured record".<ref name="Christgau">{{cite news|last=Christgau|first=Robert|authorlink=Robert Christgau|issue=January 27|year=1975|url=http://www.robertchristgau.com/xg/cg/cgv52.php|title=Consumer Guide (52)|newspaper=[[The Village Voice]]|location=New York|accessdate=September 19, 2014}}</ref>
+
+Since its initial reception, ''Blood on the Tracks'' has been viewed by critics as one of Dylan's best albums.{{sfn|Williamson|2004|p=113}} In [[Salon.com]], Wyman wrote: "''Blood on the Tracks'' is his only flawless album and his best produced; the songs, each of them, are constructed in disciplined fashion. It is his kindest album and most dismayed, and seems in hindsight to have achieved a sublime balance between the logorrhea-plagued excesses of his mid-1960s output and the self-consciously simple compositions of his post-accident years."<ref>{{cite news | title = Bob Dylan | publisher=[[Salon.com]] | date = May 5, 2001 | url = http://www.salon.com/2001/05/22/dylan_3/ | accessdate =May 13, 2013}}</ref> Bell, in his critical biography of Dylan, wrote that that ''Blood on the Tracks'' was proof that "Dylan had won the argument over his refusal to argue about politics. In this, he began to seem prescient."<ref>{{harvnb|Bell|2012|p=556}}</ref> Bell concluded the album "might well count as one of the best things Dylan ever did".<ref>{{harvnb|Bell|2012|p=558}}</ref> Novelist [[Rick Moody]] called it "the truest, most honest account of a love affair from tip to stern ever put down on magnetic tape".<ref name = "Hedin"/>
+
+A result of the acclaim surrounding ''Blood on the Tracks'' has been that when critics have praised one of Dylan's subsequent albums they have often described it as "his best since ''Blood on the Tracks''".<ref>{{cite news| first = Jody| last = Rosen| title = Bob Dylan's Make-Out Album| url = http://www.slate.com/id/2148563/| publisher = Slate| date = August 30, 2006| accessdate =March 22, 2007}}</ref><ref>{{cite news
+| first = Robert| last = Christgau| title = Not Dead Yet| url = http://www.robertchristgau.com/xg/music/dylan-spi.php| publisher = Spin| date = March 1998| accessdate =March 22, 2007}}</ref> According to music journalist [[Rob Sheffield]], ''Blood on the Tracks'' became a benchmark album for Dylan in the years that followed because it was "such a stunning comeback".<ref name="Sheffield"/>
+
+==Track listing==
+{{Track listing
+| headline = Side one
+| extra_column = Recorded
+| all_writing = Bob Dylan
+| title1 = [[Tangled Up in Blue]]
+| extra1 = December 30, 1974 in Minneapolis
+| length1 = 5:42
+| title2 = [[Simple Twist of Fate]]
+| extra2 = September 19, 1974 in New York City
+| length2 = 4:19
+| title3 = [[You're a Big Girl Now]]
+| extra3 = December 27, 1974 in Minneapolis
+| length3 = 4:36
+| title4 = [[Idiot Wind]]
+| extra4 = December 27, 1974 in Minneapolis
+| length4 = 7:48
+| title5 = You're Gonna Make Me Lonesome When You Go
+| extra5 = September 17, 1974 in New York City
+| length5 = 2:55
+}}
+{{Track listing
+| headline = Side two
+| extra_column = Recorded
+| total_length = 51:42
+| title6 = [[Meet Me in the Morning]]
+| extra6 = September 16, 1974 in New York City
+| length6 = 4:22
+| title7 = [[Lily, Rosemary and the Jack of Hearts]]
+| extra7 = December 30, 1974 in Minneapolis
+| length7 = 8:51
+| title8 = [[If You See Her, Say Hello]]
+| extra8 = December 30, 1974 in Minneapolis
+| length8 = 4:49
+| title9 = [[Shelter from the Storm]]
+| extra9 = September 17, 1974 in New York City
+| length9 = 5:02
+| title10 = [[Buckets of Rain]]
+| extra10 = September 19, 1974 in New York City
+| length10 = 3:22
+}}
+
+==Outtakes==
+Only one of the five New York acetate recordings that were subsequently replaced on the official album has been officially released: "[[You're a Big Girl Now]]", released on 1985's ''[[Biograph (album)|Biograph]]''. Although alternate takes of "[[Tangled Up in Blue]]", "[[Idiot Wind]]", and "[[If You See Her, Say Hello]]" from those same sessions were released on ''[[The Bootleg Series Volumes 1–3 (Rare & Unreleased) 1961–1991|The Bootleg Series, Vol. 1–3]]'', these were not the same takes that were initially slotted for inclusion on the official album. That collection also includes "Call Letter Blues", an outtake/early version of "[[Meet Me in the Morning]]" with alternate lyrics. "Up to Me", another outtake from these sessions, was also released on 1985's ''[[Biograph (album)|Biograph]]''. An alternate take of the song "[[Shelter From the Storm]]" is featured in the original soundtrack album for ''[[Jerry Maguire]]'' (1996).  "[[Lily, Rosemary and the Jack of Hearts]]" is the only song from the New York sessions which has not been officially released in any form.<ref name = Heylin151>{{harvnb|Heylin|1996|pp=151–153}}</ref>
+
+==Personnel==
+(For personnel details, see Heylin, 1996<ref name = Heylin151/> and Björner, 2014<ref name="Björner2014">{{harvnb|Björner|2014}}</ref>)
+* [[Bob Dylan]]&nbsp;– [[Singing|vocals]], [[steel-string acoustic guitar|guitar]], [[harmonica]], [[Record producer|production]]
+
+;Additional musicians
+* [[Bill Berg (musician)|Bill Berg]]&nbsp;– [[Drum kit|drums]]{{ref label|Minneapolis|A}}
+* Charles Brown, III&nbsp;– guitar{{ref label|New York|B}}
+* Tony Brown&nbsp;– [[bass guitar]]{{ref label|New York|B}}
+* [[Buddy Cage]]&nbsp;– [[steel guitar]]{{ref label|New York|B}}
+* Richard Crooks&nbsp;– drums{{ref label|New York|B}}
+* [[Paul Griffin (musician)|Paul Griffin]]&nbsp;– organ, [[Keyboard instrument|keyboards]]{{ref label|New York|B}}
+* Gregg Inhofer&nbsp;– keyboards{{ref label|Minneapolis|A}}
+* Barry Kornfeld&nbsp;– guitar{{ref label|New York|B}}
+* Thomas McFaul&nbsp;– keyboards{{ref label|New York|B}}
+* Kevin Odegard&nbsp;– guitar{{ref label|Minneapolis|A}}
+* [[Peter Ostroushko]]&nbsp;– mandolin{{ref label|Minneapolis|A}}
+* [[Billy Peterson]]&nbsp;– bass guitar{{ref label|Minneapolis|A}}
+* Chris Weber&nbsp;– guitar, [[12-string guitar]]{{ref label|Minneapolis|A}}
+* [[Eric Weissberg]]&nbsp;– [[banjo]], guitar{{ref label|New York|B}}
+
+;Technical personnel
+* Ron Coro&nbsp;– [[art direction]]
+* [[Pete Hamill]]&nbsp;– [[liner notes]]
+* David Oppenheim&nbsp;– illustrations
+* [[Phil Ramone]]&nbsp;– [[Audio engineering|engineering]]{{ref label|New York|B}}
+* Paul Martinson&nbsp;– [[Audio engineering|engineering]]{{ref label|Minneapolis|A}}
+* Glenn Berger&nbsp;– tape operator, assistant engineer{{ref label|New York|B}}
+* Paul Till&nbsp;– photography
+
+==Chart positions==
+{{col-begin}}
+{{col-2}}
+
+{| class="wikitable sortable plainrowheaders" style="text-align:left;"
+! scope="col"| Chart (1975)
+! scope="col"| Peak<br />position
+|-
+! scope="row"| [[Canadian Albums Chart|Canadian ''RPM'' Top Albums]]<ref>{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?&file_num=nlc008388.3936a&type=2&interval=20&PHPSESSID=t9cckr6i2p2uuqrhg8msu6sj72|title=''RPM'' Top Albums&nbsp;– April 05 1975|work=[[RPM (magazine)|RPM]]|publisher=[[Library and Archives Canada]]|accessdate=July 20, 2011}}</ref>
+| style="text-align:center;"| 1
+|-
+! scope="row"| [[MegaCharts|Dutch Top 100]]<ref>{{cite web|url=http://dutchcharts.nl/showitem.asp?interpret=Bob+Dylan&titel=Blood+On+The+Tracks&cat=a|title=Bob Dylan&nbsp;– Blood on the Tracks|publisher=dutchcharts.nl. Hung Medien|accessdate=July 28, 2012}}</ref>
+| style="text-align:center;"| 5
+|-
+! scope="row"| [[Recording Industry Association of New Zealand|New Zealand Top 40]]<ref>{{cite web|url=http://charts.org.nz/showitem.asp?interpret=Bob+Dylan&titel=Blood+On+The+Tracks&cat=a|title=Bob Dylan&nbsp;– Blood on the Tracks|publisher=charts.org.nz. Hung Medien|accessdate=July 28, 2012}}</ref>
+| style="text-align:center;"| 1
+|-
+! scope="row"| [[VG-lista|Norwegian Albums Chart]]<ref>{{cite web|url=http://norwegiancharts.com/showitem.asp?interpret=Bob+Dylan&titel=Blood+On+The+Tracks&cat=a|title=Bob Dylan&nbsp;– Blood on the Tracks|publisher=norwegiancharts.com. Hung Medien|accessdate=July 28, 2012}}</ref>
+| style="text-align:center;"| 2
+|-
+! scope="row"| [[UK Albums Chart]]<ref>{{cite web|url=http://www.officialcharts.com/archive-chart/_/3/1975-03-01/|title=1975–03–01 Top 40 Official UK Albums Archive|publisher=[[The Official Charts Company]]}}</ref>
+| style="text-align:center;"| 4
+|-
+! scope="row"| [[Billboard 200|US ''Billboard'' 200]]<ref name="us">{{Allmusic|class=album|id=mw0000189846|tab=awards|label=Blood on the Tracks&nbsp;– Bob Dylan: Awards|accessdate=July 28, 2012}}</ref>
+| style="text-align:center;"| 1
+|-
+! scope="col"| Chart (2000)
+! scope="col"| Peak<br />position
+|-
+! scope="row"| [[Irish Albums Chart]]<ref>{{cite web|url=http://irish-charts.com/showinterpret.asp?interpret=Bob+Dylan|title=Discography Bob Dylan|publisher=irish-charts.com. Hung Medien|accessdate=July 28, 2012}}</ref>
+| style="text-align:center;"| 54
+|}
+
+;Singles
+{| class="wikitable plainrowheaders" style="text-align:center;"|
+! scope="col" rowspan="2"| Year
+! scope="col" rowspan="2"| Single
+! scope="col" colspan="2"| Peak positions
+|-
+! style="width:2em;"| [[Hot 100|US]]<br /><ref name="us" />
+|-
+! scope="row"| 1975
+| "[[Tangled Up in Blue]]"
+| style="text-align:center;"| 31
+|}
+
+{{col-2}}
+
+===Certifications===
+{{Certification Table Top}}
+{{Certification Table Entry|region=Canada|artist=Bob Dylan|title=Blood on the Tracks|type=album|award=Platinum|relyear=1975|relmonth=1|autocat=yes}}
+{{Certification Table Entry|region=United Kingdom|artist=Bob Dylan|title=Blood on the Tracks|type=album|award=Gold|autocat=yes}}
+{{Certification Table Entry|region=United States|artist=Bob Dylan|title=Blood on the Tracks|type=album|award=Platinum|number=2|autocat=yes}}
+{{Certification Table Summary}}
+{{Certification Table Bottom|nosales=yes}}
+
+{{col-end}}
+
+==See also==
+* [[The 500 Greatest Albums of All Time]]
+
+==Notes==
+;Notes
+* '''A''' {{note|Minneapolis}} Denotes personnel performing at the Minneapolis recording sessions.
+* '''B''' {{note|New York}} Denotes personnel performing at the New York recording sessions.
+
+==Footnotes==
+{{reflist|30em}}
+
+==References==
+{{refbegin}}
+* {{cite book|first=Ian|last=Bell|title=Once Upon a Time: The Lives of Bob Dylan|publisher=Mainstream Publishing|year=2012|isbn=9781780575735|ref=harv|postscript=<!--None-->}}
+* {{cite web|first=Olof|last=Björner|authorlink=Olof Björner|url=http://www.bjorner.com/DSN02710%201974%20Blood%20On%20The%20Tracks%20recording%20sessions.htm |title=1974 Blood on the Tracks Recording Sessions | date = 2014| accessdate = May 13, 2014|work=Bjorner.com|ref=harv|postscript=<!--None-->}}
+* {{cite book|first=Bill|last=Flanagan|title=Written In My Soul: Candid interviews with rock's great songwriters|publisher=Omnibus Press|year=1990|isbn=0-7119-2224-1|ref=harv|postscript=<!--None-->}}
+* {{cite book|first=Andy & Kevin|last=Gill & Odegard|title=A Simple Twist of Fate: Bob Dyland and the Making of Blood on the Tracks|year=2005|publisher = Da Capo Press|isbn=0-306-81413-7|ref=harv|postscript=<!--None-->}}
+* {{cite book|first=Michael|last=Gray|title=The Bob Dylan Encyclopedia|publisher=Continuum International|year=2006|isbn=0-8264-6933-7|ref=harv|postscript=<!--None-->}}
+* {{cite book|first=Benjamin|last=Hedin|title=Studio A: The Bob Dylan Reader|year=2004|publisher =W. W. Norton & Company|isbn=0-393-05844-1|ref=harv|postscript=<!--None-->}}
+* {{cite book|first=Clinton|last=Heylin|title=Bob Dylan: A Life In Stolen Moments: Day by Day 1941–1995|year=1996|publisher =Schirmer Books|isbn=0-7119-5669-3|ref=harv|postscript=<!--None-->}}
+* {{cite book|first=Clinton|last=Heylin|title=Bob Dylan: Behind the Shades, 20th Anniversary Edition|year=2011|publisher = Faber and Faber|isbn=978-0-571-27240-2|ref=harv|postscript=<!--None-->}}
+* {{cite book|first=Howard|last=Sounes|title=Down the Highway: The Life of Bob Dylan|publisher=Grove Press |year=2001|isbn=0-8021-1686-8|ref=harv|postscript=<!--None-->}}
+* {{cite book|ref=harv|last=Williamson|first=Nigel|authorlink=Nigel Williamson|year=2004|title=The Rough Guide to Bob Dylan|publisher=[[Rough Guides]]|isbn=1843531399}}
+{{refend}}
+
+==External links==
+<!-- This is a licensed stream for the album, which is allowed under Wikipedia polices -->
+* [http://www.radio3net.ro/dbartists/supersearch/Qmxvb2Qgb24gdGhlIFRyYWNrcw==/Blood%20on%20the%20Tracks ''Blood on the Tracks''] ([[Adobe Flash]]) at [[Radio3Net]] (streamed copy where licensed)
+* {{Discogs master|type=album|3878}}
+* [http://www.superseventies.com/spdylanbob2.html Reviews], superseventies.com
+* [http://www.prx.org/pieces/135893-right-on-target-so-direct-bob-dylan-s-blood-on Public Radio Special], "Right On Target, So Direct: Bob Dylan's BLOOD ON THE TRACKS"
+
+{{s-start}}
+{{s-bef|before = ''[[AWB (album)|AWB]]'' by [[Average White Band]]}} 
+{{s-ttl|title = [[Billboard 200|''Billboard'' 200]] [[Number-one albums of 1975 (USA)|number-one album]]|years = March 1–14, 1975}} 
+{{s-aft|after = ''[[Have You Never Been Mellow]]'' by [[Olivia Newton-John]]}}
+{{s-end}}
+
+{{Bob Dylan}}
+
+{{DEFAULTSORT:Blood On The Tracks}}
+[[Category:1975 albums]]
+[[Category:Albums produced by Bob Dylan]]
+[[Category:Bob Dylan albums]]
+[[Category:Columbia Records albums]]
+[[Category:English-language albums]]

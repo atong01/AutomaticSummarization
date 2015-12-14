@@ -1,0 +1,282 @@
+{{Use mdy dates|date=January 2014}}
+{{Infobox settlement
+|name                     = Ellensburg, Washington
+|settlement_type          = [[City]]
+|nickname                 = 
+|motto                    = 
+|image_skyline            = 2008-1019-01-Ellensburg01.jpg
+|imagesize                = 
+|image_caption            = Historic Davidson Building, completed in 1890
+|image_flag               = 
+|image_seal               = City of Ellensburg - Logo.png
+|image_map                = Kittitas County Washington Incorporated and Unincorporated areas Ellensburg Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Ellensburg, Washington
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             = 
+|coordinates_region       = US-WA
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = [[United States]]
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Washington (state)|Washington]]
+|subdivision_type2        = [[List of counties in Washington|County]]
+|subdivision_name2        = [[Kittitas County, Washington|Kittitas]]
+|government_footnotes     = 
+|government_type          = [[Council-manager government|Council-Manager]]
+|leader_title             = City Manager
+|leader_name              = John Akers
+|leader_title1            = Mayor
+|leader_name1             = Rich Elliot<ref>[http://www.ci.ellensburg.wa.us/index.aspx?nid=100 Ellensburg City Council]</ref>
+|established_title        = [[Municipal corporation|Incorporated]]
+|established_date         = November 26, 1883
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name ="Gazetteer files"/>
+|area_magnitude           = 
+|area_total_km2           = 18.05
+|area_land_km2            = 17.92
+|area_water_km2           = 0.13
+|area_total_sq_mi         = 6.97
+|area_land_sq_mi          = 6.92
+|area_water_sq_mi         = 0.05
+<!-- Population -->
+|population_as_of         = [[2010 United States Census|2010]]
+|population_est           = 18774
+|pop_est_as_of            = 2014
+|pop_est_footnotes        = <ref name="2014 Pop Estimate">{{cite web|title=Population Estimates|url=http://www.census.gov/popest/data/cities/totals/2014/SUB-EST2014-3.html|publisher=[[United States Census Bureau]]|accessdate=July 1, 2015}}</ref>
+|population_footnotes     = <ref name ="FactFinder"/>
+|population_total         = 18174
+|population_density_km2   = 1014.0
+|population_density_sq_mi = 2626.3
+|population_metro         = 41,672
+|timezone                 = [[Pacific Time Zone|Pacific (PST)]]
+|utc_offset               = -8
+|timezone_DST             = PDT
+|utc_offset_DST           = -7
+|elevation_footnotes      = 
+|elevation_m              = 470
+|elevation_ft             = 1542
+|latd = 46 |latm = 59 |lats = 49 |latNS = N
+|longd = 120 |longm = 32 |longs = 42 |longEW = W
+|postal_code_type         = [[ZIP code]]s
+|postal_code              = 98926
+|area_code                = [[Area code 509|509]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 53-21240
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 1519305<ref name="GR3">{{cite gnis|id=1519305|name=Ellensburg}}</ref>
+|website                  = [http://www.ci.ellensburg.wa.us/ City of Ellensburg]
+|footnote                 = 
+}}
+
+'''Ellensburg''' is a city in, and the [[county seat]] of, [[Kittitas County, Washington|Kittitas County]], [[Washington (state)|Washington]], [[United States]].<ref name="GR6">{{cite web|url=http://www.naco.org/Counties/Pages/FindACounty.aspx|accessdate=2011-06-07|title=Find a County|publisher=National Association of Counties}}</ref>  The population was 18,174 at the [[2010 United States Census|2010 census]].<ref name="2010 Census (City)">{{cite web|title=2010 Census Redistricting Data (Public Law 94-171) Summary File|url=http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=DEC_10_PL_GCTPL2.ST13&prodType=table|work=American FactFinder|publisher=[[United States Census Bureau]]|accessdate=September 20, 2012}}</ref> Ellensburg is located just east of the [[Cascade Range]] on [[Interstate 90 in Washington|Interstate 90]] and is known as the most centrally located city in the state. Ellensburg is the home of [[Central Washington University]] (CWU).
+
+The surrounding Kittitas Valley is internationally known for the [[Timothy-grass|timothy]]-hay that it produces. There are several local hay brokering and processing operations that ship to Pacific Rim countries. Downtown Ellensburg has many historic buildings, many of which were constructed in the late 19th century. This is a legacy of its bid to be the state capital, which it lost to [[Olympia, Washington|Olympia]].<ref>[http://www.historylink.org/index.cfm?DisplayPage=output.cfm&file_id=7549 Ellensburg loses its bid to become state capital on November 4, 1890.]</ref> CWU being placed there is another product of that legacy. The state legislature selected Ellensburg as the location for the then Normal School as a consolation prize.<ref>Ruth Kirk, Carmela Alexander. Exploring Washington's Past: A Road Guide to History. University of Washington Press, 1995. p.124</ref> [[Eastern Washington]] has a much drier climate than Western Washington, and some Seattle-area residents have moved to the city and commute over [[Snoqualmie Pass]] on Interstate 90 to jobs located in the Puget Sound region.
+
+==History==
+[[File:2008-1019-02-CentralWashingtonUniversity.jpg|thumb|left|Barge Hall, Central Washington University]]
+Ellensburg was officially incorporated on November 26, 1883. John Alden Shoudy came to the [[Kittitas Valley]] in 1871, and purchased a small trading post from Andrew Jackson "A.J." Splawn, called "Robber's Roost."   Robber's Roost was the first business in the valley, other than the early trading that occurred among American Indians, cattle drivers, trappers, and miners. Robber's Roost was located on the present-day 3rd Avenue, just west of Main Street near the alley.  There is a placard on the wall commemorating the location, as well as a small stone monument against the wall on the sidewalk.  Shoudy named the town after his wife, Mary Ellen Shoudy, and after Pittsburgh because of his love for the city. Thus he officially began the city of Ellensburgh around 1872. Shoudy was not the first settler in the [[Kittitas Valley]], nor was he the first businessperson, but he was responsible for platting the city of Ellensburgh in the 1870s, and he was the person who named the streets in the downtown district.
+
+The city was originally named '''Ellensburgh''', until the final -''h'' was dropped under standardization pressure from the [[United States Postal Service]] and [[United States Board on Geographic Names|Board of Geography Names]] in 1894.<ref>Kirk (1995:123)</ref>
+
+There were several early newspapers in Ellensburg.  The Daily Record, however, began in 1909 and is the name of the local newspaper today.<ref name="Visit Ellensburg"/>
+
+Concerns over the state of Ellensburg's historic downtown led to the formation of the Ellensburg Downtown Association to work on revitalizing the area.<ref>[http://www.ellensburgdowntown.org Ellensburg Downtown Association]</ref>
+
+==Arts and culture==
+The City of Ellensburg is home to a number of wonderful local art museums and galleries: 
+*Kittitas County Historical Museum <ref>[http://www.kchm.org/]</ref>
+*The Goodey Gallery <ref>[http://westernartassociation.org/]</ref>
+*Clymer Museum and Gallery<ref>[http://www.clymermuseum.com/]</ref>
+*Gallery-One Visual Arts Center <ref>[http://www.gallery-one.org/]</ref>
+*420 Loft Art Gallery <ref>[http://www.420building.com/index.php]</ref>
+*Sarah Spurgeon Gallery, Central Washington University (CWU) Department of Art <ref>[http://www.cwu.edu/art/sarah-spurgeon]</ref>
+*Museum of Culture & Environment, Central Washington University<ref>[http://www.cwu.edu/museum/]</ref>
+
+Every first Friday of each month, Ellensburg hosts First Friday Art Walk from 5:00 to 7:00 pm. This downtown event showcases art of all forms. The local businesses, galleries and museums come alive with art, music, wine and people as they celebrate art in the community.
+
+==Events==
+*The Kittitas County Farmers Market is held every Saturday from May to October in the heart of downtown Ellensburg.<ref>[http://www.kittitascountyfarmersmarket.com/ Kittitas County Farmer's Market]</ref>
+*Ellensburg hosts the annual Winterhop Brewfest in January.  Over 21 micro breweries from around the [[Pacific Northwest]] serve their product at various venues in the historic downtown buildings.<ref>[http://www.visitellen.com/site/events-2/winterhop-brewfest Winterhop Brewfest]</ref>
+*Every June, Ellensburg hosts Dachshunds on Parade, an event that draws [[Dachshund]] dog owners from all over the Northwest.  Events include a parade, Dachshund races, pet tricks, and a dog costume contest.<ref name="Dachshunds on Parade">[http://www.dachshundsonparade.com Dachshunds on Parade]</ref>
+*Ellensburg hosts the annual Jazz in the Valley music festival on the last weekend in July.<ref>[http://www.jazzinthevalley.com Jazz In The Valley]</ref>
+*Ellensburg is a stop on the [[Professional Rodeo Cowboys Association|PRCA]] professional [[rodeo]] circuit, occurring each year on Labor Day weekend. The [[Ellensburg Rodeo]] has been a town tradition since 1923, and is the largest rodeo in Washington state.<ref name="Visit Ellensburg">[http://www.visitellensburg.com/history.html Visit Ellensburg]</ref> The rodeo arena is encompassed by the popular Kittitas County Fair, also held during Labor Day weekend.  The Kittitas County Fair officially began in 1885, and has been held at its current location since 1923.<ref>[http://www.kittitascountyfair.com/history.asp Kittitas County Fair History]</ref>
+*Downtown Ellensburg hosts Buskers in the Burg the last Saturday in September. Featuring a variety of street performers (buskers), giant puppet art parade, tasting halls, children's activities, and outdoor evening concert.<ref>[http://buskersintheburg.org]</ref>
+
+==Geography==
+According to the [[United States Census Bureau]], the city has a total area of {{convert|6.97|sqmi|sqkm|2}}, of which {{convert|6.92|sqmi|sqkm|2}} is land and {{convert|0.05|sqmi|sqkm|2}} is water.<ref name ="Gazetteer files">{{cite web|title=US Gazetteer files 2010|url=http://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt|publisher=[[United States Census Bureau]]|accessdate=December 19, 2012}}</ref>
+
+===Climate===
+Ellensburg experiences a [[semi-arid climate]] ([[Köppen climate classification|Köppen]] ''[[Cold semi-arid climate|BSk]]'').
+{{Weather box |imperial first = Y
+|single line=  yes
+|location= Ellensburg (1971–2000)
+|Jan record high F=64
+|Feb record high F=66
+|Mar record high F=80
+|Apr record high F=94
+|May record high F=99
+|Jun record high F=108
+|Jul record high F=110
+|Aug record high F=103
+|Sep record high F=97
+|Oct record high F=87
+|Nov record high F=79
+|Dec record high F=59
+|year record high F=110
+|Jan high F= 33.7
+|Feb high F= 41.3
+|Mar high F= 52.3
+|Apr high F= 60.4
+|May high F= 68.3
+|Jun high F= 75.0
+|Jul high F= 82.7
+|Aug high F= 82.9
+|Sep high F= 74.5
+|Oct high F= 61.5
+|Nov high F= 44.1
+|Dec high F= 33.7
+|Jan mean F= 26.2
+|Feb mean F= 32.3
+|Mar mean F= 40.5
+|Apr mean F= 47.4
+|May mean F= 55.1
+|Jun mean F= 61.6
+|Jul mean F= 67.8
+|Aug mean F= 67.6
+|Sep mean F= 58.9
+|Oct mean F= 47.4
+|Nov mean F= 35.6
+|Dec mean F= 26.8
+|Jan low F= 18.6
+|Feb low F= 23.2
+|Mar low F= 28.7
+|Apr low F= 34.3
+|May low F= 41.9
+|Jun low F= 48.2
+|Jul low F= 52.8
+|Aug low F= 52.2
+|Sep low F= 43.3
+|Oct low F= 33.3
+|Nov low F= 27.0
+|Dec low F= 19.8
+|Jan record low F=-29
+|Feb record low F=-23
+|Mar record low F=-5
+|Apr record low F=15
+|May record low F=18
+|Jun record low F=30
+|Jul record low F=35
+|Aug record low F=29
+|Sep record low F=16
+|Oct record low F=9
+|Nov record low F=-17
+|Dec record low F=-31
+|year record low F=-31
+|Jan precipitation inch= 1.23
+|Feb precipitation inch= 0.92
+|Mar precipitation inch= 0.77
+|Apr precipitation inch= 0.56
+|May precipitation inch= 0.56
+|Jun precipitation inch= 0.63
+|Jul precipitation inch= 0.37
+|Aug precipitation inch= 0.36
+|Sep precipitation inch= 0.46
+|Oct precipitation inch= 0.57
+|Nov precipitation inch= 1.20
+|Dec precipitation inch= 1.47
+|source 1= NOAA (normals, 1971–2000)<ref name= NCDC >{{Cite web |url=http://cdo.ncdc.noaa.gov/climatenormals/clim81/WAnorm.pdf |title=Climatography of the United States NO.81 |publisher=[[National Oceanic and Atmospheric Administration]] |accessdate=January 11, 2011 }}</ref>
+|date=March 2011}}
+
+==Demographics==
+{{US Census population
+|1870= 150
+|1880= 150
+|1890= 2768
+|1900= 1737
+|1910= 4209
+|1920= 3967
+|1930= 4621
+|1940= 5944
+|1950= 8430
+|1960= 8625
+|1970= 13568
+|1980= 11752
+|1990= 12361
+|2000= 15414
+|2010= 18174
+|estyear=2014
+|estimate=18774
+|estref=<ref name="USCensusEst2014">{{cite web|url=http://www.census.gov/popest/data/cities/totals/2014/SUB-EST2014.html|title=Annual Estimates of the Resident Population for Incorporated Places: April 1, 2010 to July 1, 2014|accessdate=June 4, 2015}}</ref>
+|align-fn=center
+|footnote=U.S. Decennial Census<ref>{{cite web|url=http://www.census.gov/prod/www/decennial.html|title=Census of Population and Housing|author=[[United States Census Bureau]]|accessdate=July 21, 2014}}</ref><br>2014 Estimate<ref name="2014 Pop Estimate"/>
+}}
+
+===2010 census===
+As of the census<ref name ="FactFinder">{{cite web|title=American FactFinder|url=http://factfinder2.census.gov/faces/nav/jsf/pages/index.xhtml|publisher=[[United States Census Bureau]]|accessdate=December 19, 2012}}</ref> of 2010, there were 18,174 people, 7,301 households, and 2,889 families residing in the city. The population density was {{convert|2626.3|PD/sqmi|PD/km2|1}}. There were 7,867 housing units at an average density of {{convert|1136.8|/sqmi|/km2|1}}. The racial makeup of the city was 85.7% [[White (U.S. Census)|White]], 1.5% [[African American (U.S. Census)|African American]], 1.0% [[Native American (U.S. Census)|Native American]], 3.2% [[Asian (U.S. Census)|Asian]], 0.2% [[Race (U.S. Census)|Pacific Islander]], 4.6% from [[Race (U.S. Census)|other races]], and 3.7% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 9.7% of the population.
+
+There were 7,301 households, of which 19.3% had children under the age of 18 living with them, 28.2% were married couples living together, 8.2% had a female householder with no husband present, 3.1% had a male householder with no wife present, and 60.4% were non-families. 35.1% of all households were made up of individuals and 9.6% had someone living alone who was 65 years of age or older. The average household size was 2.16 and the average family size was 2.86.
+
+The median age in the city was 23.5 years. 14.2% of residents were under the age of 18; 41.2% were between the ages of 18 and 24; 21.8% were from 25 to 44; 13.9% were from 45 to 64; and 8.9% were 65 years of age or older. The gender makeup of the city was 50.1% male and 49.9% female.
+
+===2000 census===
+As of the census of 2000, there were 15,414 people, 6,249 households, and 2,649 families residing in the city. The population density was 2,338.9 people per square mile (903.1/km²). There were 6,732 housing units at an average density of 1,021.5 per square mile (394.4/km²). The racial makeup of the city was 88.07% [[White (U.S. Census)|White]], 1.17% [[African American (U.S. Census)|Black]] or [[Race (United States Census)|African American]], 0.95% [[Native American (U.S. Census)|Native American]], 4.09% [[Asian (U.S. Census)|Asian]], 0.16% [[Pacific Islander (U.S. Census)|Pacific Islander]], 2.86% from [[Race (United States Census)|other races]], and 2.69% from two or more races. 6.33% of the population were [[Hispanics in the United States|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race.
+
+There were 6,249 households, of which 20.8% had children under the age of 18 living with them, 31.4% were married couples living together, 8.1% had a female householder with no husband present, and 57.6% were non-families. 35.5% of all households were made up of individuals and 9.1% had someone living alone who was 65 years of age or older. The average household size was 2.12 and the average family size was 2.84.
+
+In the city, the population was spread out with 15.8% under the age of 18, 39.3% from 18 to 24, 22.7% from 25 to 44, 12.8% from 45 to 64, and 9.4% who were 65 years of age or older. The median age was 24 years. For every 100 females there were 95.0 males. For every 100 females age 18 and over, there were 93.1 males.
+
+The median income for a household in the city was $20,034, and the median income for a family was $37,625. Males had a median income of $31,022 versus $22,829 for females. The per capita income for the city was $13,662. About 18.8% of families and 34.3% of the population were below the poverty line, including 29.0% of those under age 18 and 11.2% of those age 65 or over.
+
+==Politics and government==
+The City of Ellensburg uses the Manager/Council form of government with a City Manager hired by the City Council. The seven-member City Council is elected at large and serve 4-year terms. The City Council elects a Mayor and Deputy Mayor from the Council to serve 2-year terms. The Council meets the first and third Monday of each month, at 7:00&nbsp;pm, in the City Council Chambers at City Hall.
+
+On the [[Washington State Legislature|state legislative]] level, Ellensburg is in the 13th district. As of 2013, its state senator is [[United States Republican Party|Republican]] [[Janéa Holmquist Newbry]], and its two state representatives are Republicans [[Judy Warnick]] and [[Matt Manweller]]. On the [[United States House of Representatives|congressional]] level, Ellensburg is located in [[Washington's 8th congressional district]] and is represented by Republican [[Dave Reichert]].
+
+Kittitas County supported Senator [[John McCain]] of [[Arizona]] over then-Senator [[Barack Obama]] of [[Illinois]] in the [[United States presidential election in Washington, 2008|2008 presidential election]], with both receiving 53 and 45 percent of the vote, respectively.<ref>Election 2008, Presidential Election: Winners By County [http://www.washingtonpost.com/wp-srv/politics/interactives/campaign08/election/uscounties.html], Washington Post.</ref> Then, in the [[United States Senate election in Washington, 2010|2010 Senate race]], Republican [[Dino Rossi]] carried the city over Democratic Senator [[Patty Murray]] with 50.7 percent of the vote to Murray's 49.3 percent.
+
+==Education==
+
+===Higher education===
+*[[Central Washington University]] (est. 1891 as Washington State Normal School) offers both bachelor's and master's degrees, with over 1,000 undergraduates per year.
+
+===Public schools===
+Public schools are operated by [[Ellensburg School District|Ellensburg School District 401]].  The district includes one high school ([[Ellensburg High School]]), one middle school, and three elementary schools.<ref>{{cite web|url=http://www.eburg.wednet.edu/ |title=Ellensburg School District}}</ref>
+
+==Notable people==
+* [[Brenden Adams]], currently the tallest teenager in the world at 7'8"
+* [[John Clymer]], Western artist
+* [[Brian Habib]], National Football League player
+* [[Dave Heaverlo]], Major League pitcher
+* [[Jon Kitna]], National Football League player
+* [[Ron Magers]], news anchor
+* [[Brian Thompson]], actor
+* [[Mark Lanegan]], Singer-songwriter
+* [[Drew Bledsoe]], National Football League player
+
+==References==
+{{Reflist|2}}
+
+==Further reading==
+* Kirk, Ruth, and Carmela Alexander, (1990, revised edition 1995), ''Exploring Washington's Past'', University of Washington Press, Seattle. ISBN 0-295-97443-5
+* Caveness, Andrew.  "Images of America: Ellensburg," Arcadia Press, San Francisco, 2009.  ISBN 0-7385-7154-7
+
+==External links==
+{{Commons category}}
+*[http://www.ci.ellensburg.wa.us/ Ellensburg official website]
+*[http://www.kittitascountychamber.com/ Kittitas County Chamber of Commerce]
+*[http://www.ellensburgdowntown.org/ Ellensburg Downtown Association]
+*[http://digital.lib.cwu.edu/cgi-bin/library.cgi?site=localhost&a=p&p=about&c=ellensb1&l=en&w=utf-8 Ellensburg Public Library's Historic Local Photograph Collection hosted by the CWU Brooks Library]
+*{{dmoz|Regional/North_America/United_States/Washington/Localities/E/Ellensburg}}
+{{coord|46.997064|-120.545119|region:US_type:city|display=title}}
+
+{{Kittitas County, Washington}}
+{{Washington}}
+
+[[Category:Cities in Washington (state)]]
+[[Category:Cities in Kittitas County, Washington]]
+[[Category:County seats in Washington (state)]]
+[[Category:Populated places established in 1883]]
+[[Category:University towns in the United States]]
+[[Category:Micropolitan areas of Washington (state)]]

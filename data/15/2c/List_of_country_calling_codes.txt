@@ -1,0 +1,2348 @@
+'''Country calling codes''' or '''country dial in codes''' are telephone dialing prefixes for the member countries of the  [[International Telecommunication Union]] (ITU). They are defined by the [[ITU-T]] in standards [[E.123]] and [[E.164]]. The prefixes enable [[international direct dialing]] (IDD), and are also referred to as ''international subscriber dialing'' (ISD) codes.
+
+[[File:CallingCodesWorld-Labeled.svg|thumb|500px|Worldwide distribution of country calling codes colored by first digit]]
+Country codes are a component of the international [[telephone numbering plan]], and are necessary only when dialing a [[telephone number]] to establish a call to another country. Country codes are dialed before the national telephone number. By convention, international telephone numbers are represented by prefixing the country code with a plus sign (+), which also indicates to the subscriber that the local [[international dialing prefix]] must first be dialed. For example, the international dialing prefix in all countries belonging to the [[North American Numbering Plan]] is ''011'', while it is ''00'' in most European countries. On [[GSM]] (cellular) networks, the prefix may automatically be inserted when the user prefixes a dialed number with the plus sign.
+
+==Tree list==
+Country calling codes are [[prefix code]]s; hence, they can be organized as a [[tree (graph theory)|tree]]. In each row of the table below, the country codes given in the left-most column share the same first digit; then subsequent columns give the second digit in ascending order.
+{| class="wikitable" cellspacing=0 cellpadding=0
+|-
+! width="2%" align="center" |
+! width="8%" align="center" | 0
+! width="8%" align="center" | 1
+! width="8%" align="center" | 2
+! width="8%" align="center" | 3
+! width="8%" align="center" | 4
+! width="8%" align="center" | 5
+! width="8%" align="center" | 6
+! width="8%" align="center" | 7
+! width="8%" align="center" | 8
+! width="8%" align="center" | 9
+|-
+! align="center" rowspan="2" | 1
+| width="100%" align="center" colspan="10" |
+[[List of NANP area codes|+1]]: [[North American Numbering Plan]] countries and territories<br />
+[[Canada|CA]], [[United States|US]], [[Antigua and Barbuda|AG]], [[Anguilla|AI]], [[American Samoa|AS]], [[Barbados|BB]], [[Bermuda|BM]], [[The Bahamas|BS]], [[Dominica|DM]], [[Dominican Republic|DO]], [[Grenada|GD]], [[Guam|GU]], [[Jamaica|JM]], [[St. Kitts and Nevis|KN]], [[Cayman Islands|KY]], [[St. Lucia|LC]], [[Northern Mariana Islands|MP]], [[Montserrat|MS]], [[Puerto Rico|PR]], [[Sint Maarten|SX]], [[Turks and Caicos Islands|TC]], [[Trinidad and Tobago|TT]], [[St. Vincent and the Grenadines|VC]], [[British Virgin Islands|VG]], [[United States Virgin Islands|VI]]
+|-
+| align="center" |
+| align="center" |
+| align="center" |
+[[Area code 242|+1 242]]: [[The Bahamas|BS]]<br />
+[[Area code 246|+1 246]]: [[Barbados|BB]]<br />
+[[Area code 264|+1 264]]: [[Anguilla|AI]]<br />
+[[Area code 268|+1 268]]: [[Antigua and Barbuda|AG]]<br />
+[[Area code 284|+1 284]]: [[British Virgin Islands|VG]]
+| align="center" |
+[[Area code 340|+1 340]]: [[United States Virgin Islands|VI]]<br />
+[[Area code 345|+1 345]]: [[Cayman Islands|KY]]
+| align="center" |
+[[Area code 441|+1 441]]: [[Bermuda|BM]]<br />
+[[Area code 473|+1 473]]: [[Grenada|GD]]
+| align="center" |
+| align="center" |
+[[Area code 649|+1 649]]: [[Turks and Caicos Islands|TC]]<br />
+[[Area code 664|+1 664]]: [[Montserrat|MS]]<br />
+[[Area code 670|+1 670]]: [[Northern Mariana Islands|MP]]<br />
+[[Area code 671|+1 671]]: [[Guam|GU]]<br />
+[[Area code 684|+1 684]]: [[American Samoa|AS]]
+| align="center" |
+[[Area code 721|+1 721]]: [[Sint Maarten|SX]]<br/>
+[[Area code 758|+1 758]]: [[St. Lucia|LC]]<br />
+[[Area code 767|+1 767]]: [[Dominica|DM]]<br />
+[[Area code 784|+1 784]]: [[St. Vincent and the Grenadines|VC]]<br />
+[[Telephone numbers in Puerto Rico|+1 787]]: [[Puerto Rico|PR]]
+| align="center" |
+[[Telephone numbers in the Dominican Republic|+1 809]]: [[Dominican Republic|DO]]<br />
+[[Telephone numbers in the Dominican Republic|+1 829]]: DO<br />
+[[Telephone numbers in the Dominican Republic|+1 849]]: DO<br />
+[[Area code 868|+1 868]]: [[Trinidad and Tobago|TT]]<br />
+[[Area code 869|+1 869]]: [[St. Kitts and Nevis|KN]]<br />
+[[Area code 876|+1 876]]: [[Jamaica|JM]]
+| align="center" |
+[[Telephone numbers in Puerto Rico|+1 939]]: [[Puerto Rico|PR]]
+|-
+! align="center" | 2
+| align="center" |[[+20]]: [[Egypt|EG]]
+| align="center" |
++210: --<br />
+[[+211]]: [[South Sudan|SS]]<br />
+[[+212]]: [[Morocco|MA]], [[Western Sahara|EH]]<br />
+[[+213]]: [[Algeria|DZ]]<br />
++214: --<br />
++215: --<br />
+[[+216]]: [[Tunisia|TN]]<br />
++217: --<br />
+[[+218]]: [[Libya|LY]]<br />
++219: --
+| align="center" |
+[[+220]]: [[The Gambia|GM]]<br />
+[[+221]]: [[Senegal|SN]]<br />
+[[+222]]: [[Mauritania|MR]]<br />
+[[+223]]: [[Mali|ML]]<br />
+[[+224]]: [[Guinea|GN]]<br />
+[[+225]]: [[Ivory Coast|CI]]<br />
+[[+226]]: [[Burkina Faso|BF]]<br />
+[[+227]]: [[Niger|NE]]<br />
+[[+228]]: [[Togo|TG]]<br />
+[[+229]]: [[Benin|BJ]]
+| align="center" |
+[[+230]]: [[Mauritius|MU]]<br />
+[[+231]]: [[Liberia|LR]]<br />
+[[+232]]: [[Sierra Leone|SL]]<br />
+[[+233]]: [[Ghana|GH]]<br />
+[[+234]]: [[Nigeria|NG]]<br />
+[[+235]]: [[Chad|TD]]<br />
+[[+236]]: [[Central African Republic|CF]]<br />
+[[+237]]: [[Cameroon|CM]]<br />
+[[+238]]: [[Cape Verde|CV]]<br />
+[[+239]]: [[São Tomé and Príncipe|ST]]
+| align="center" |
+[[+240]]: [[Equatorial Guinea|GQ]]<br />
+[[+241]]: [[Gabon|GA]]<br />
+[[+242]]: [[Republic of Congo|CG]]<br />
+[[+243]]: [[Democratic Republic of the Congo|CD]]<br />
+[[+244]]: [[Angola|AO]]<br />
+[[+245]]: [[Guinea-Bissau|GW]]<br />
+[[+246]]: [[British Indian Ocean Territory|IO]]<br />
+[[+247]]: [[Ascension Island|AC]]<br />
+[[+248]]: [[Seychelles|SC]]<br />
+[[+249]]: [[Sudan|SD]]
+| align="center" |
+[[+250]]: [[Rwanda|RW]]<br />
+[[+251]]: [[Ethiopia|ET]]<br />
+[[+252]]: [[Somalia|SO]], ''[[Somaliland|QS]]''<br />
+[[+253]]: [[Djibouti|DJ]]<br />
+[[+254]]: [[Kenya|KE]]<br />
+[[+255]]: [[Tanzania|TZ]]<br />
+[[+256]]: [[Uganda|UG]]<br />
+[[+257]]: [[Burundi|BI]]<br />
+[[+258]]: [[Mozambique|MZ]]<br />
++259: --
+| align="center" |
+[[+260]]: [[Zambia|ZM]]<br />
+[[+261]]: [[Madagascar|MG]]<br />
+[[+262]]: [[Réunion|RE]], [[Mayotte|YT]], [[French Southern and Antarctic Lands|TF]]<br />
+[[+263]]: [[Zimbabwe|ZW]]<br />
+[[+264]]: [[Namibia|NA]]<br />
+[[+265]]: [[Malawi|MW]]<br />
+[[+266]]: [[Lesotho|LS]]<br />
+[[+267]]: [[Botswana|BW]]<br />
+[[+268]]: [[Swaziland|SZ]]<br />
+[[+269]]: [[Comoros|KM]]
+| align="center" |[[+27]]: [[South Africa|ZA]]
+| align="center" |+28: --
+| align="center" |
+[[+290]]: [[Saint Helena|SH]], [[Tristan da Cunha|TA]]<br />
+[[+291]]: [[Eritrea|ER]]<br />
++292: --<br />
++293: --<br />
++294: --<br />
++295: --<br />
++296: --<br />
+[[+297]]: [[Aruba|AW]]<br />
+[[+298]]: [[Faroe Islands|FO]]<br />
+[[+299]]: [[Greenland|GL]]
+|-
+! align="center" | 3
+| align="center" |[[+30]]: [[Greece|GR]]
+| align="center" |[[+31]]: [[Netherlands|NL]]
+| align="center" |[[+32]]: [[Belgium|BE]]
+| align="center" |[[+33]]: [[France|FR]]
+| align="center" |[[+34]]: [[Spain|ES]]
+| align="center" |
+[[+350]]: [[Gibraltar|GI]]<br />
+[[+351]]: [[Portugal|PT]]<br />
+[[+352]]: [[Luxembourg|LU]]<br />
+[[+353]]: [[Republic of Ireland|IE]]<br />
+[[+354]]: [[Iceland|IS]]<br />
+[[+355]]: [[Albania|AL]]<br />
+[[+356]]: [[Malta|MT]]<br />
+[[+357]]: [[Cyprus|CY]]<br />
+[[+358]]: [[Finland|FI]], [[Åland Islands|AX]]<br />
+[[+359]]: [[Bulgaria|BG]]
+| align="center" |[[+36]]: [[Hungary|HU]]
+| align="center" |
+[[+370]]: [[Lithuania|LT]]<br />
+[[+371]]: [[Latvia|LV]]<br />
+[[+372]]: [[Estonia|EE]]<br />
+[[+373]]: [[Moldova|MD]]<br />
+[[+374]]: [[Armenia|AM]], ''[[Nagorno-Karabakh|QN]]''<br />
+[[+375]]: [[Belarus|BY]]<br />
+[[+376]]: [[Andorra|AD]]<br />
+[[+377]]: [[Monaco|MC]]<br />
+[[+378]]: [[San Marino|SM]]<br />
+[[+379]]: [[Vatican City|VA]]
+| align="center" |
+[[+380]]: [[Ukraine|UA]]<br />
+[[+381]]: [[Serbia|RS]]<br />
+[[+382]]: [[Montenegro|ME]]<br />
++383: [[Kosovo|XK]]<br />
++384: --<br />
+[[+385]]: [[Croatia|HR]]<br />
+[[+386]]: [[Slovenia|SI]]<br />
+[[+387]]: [[Bosnia and Herzegovina|BA]]<br />
+[[+388]]: ''[[European Telephony Numbering Space|EU]]''<br />
+[[+389]]: [[Republic of Macedonia|MK]]
+| align="center" |[[+39]]: [[Italy|IT]], [[Vatican City|VA]]
+|-
+! align="center" | 4
+| align="center" |[[+40]]: [[Romania|RO]]
+| align="center" |[[+41]]: [[Switzerland|CH]]
+| align="center" |
+[[+420]]: [[Czech Republic|CZ]]<br />
+[[+421]]: [[Slovakia|SK]]<br />
++422: --<br />
+[[+423]]: [[Liechtenstein|LI]]<br />
++424: --<br />
++425: --<br />
++426: --<br />
++427: --<br />
++428: --<br />
++429: --
+| align="center" |[[+43]]: [[Austria|AT]]
+| align="center" |[[Telephone numbers in the United Kingdom|+44]]: [[United Kingdom|GB/UK]], [[Guernsey|GG]], [[Isle of Man|IM]], [[Jersey|JE]]
+| align="center" |[[+45]]: [[Denmark|DK]]
+| align="center" |[[+46]]: [[Sweden|SE]]
+| align="center" |[[+47]]: [[Norway|NO]], [[Svalbard and Jan Mayen|SJ]]
+| align="center" |[[+48]]: [[Poland|PL]]
+| align="center" |[[+49]]: [[Germany|DE]]
+|-
+! align="center" | 5
+| align="center" |
+[[+500]]: [[Falkland Islands|FK]], [[South Georgia and the South Sandwich Islands|GS]]<br />
+[[+501]]: [[Belize|BZ]]<br />
+[[+502]]: [[Guatemala|GT]]<br />
+[[+503]]: [[El Salvador|SV]]<br />
+[[+504]]: [[Honduras|HN]]<br />
+[[+505]]: [[Nicaragua|NI]]<br />
+[[+506]]: [[Costa Rica|CR]]<br />
+[[+507]]: [[Panama|PA]]<br />
+[[+508]]: [[St. Pierre and Miquelon|PM]]<br />
+[[+509]]: [[Haiti|HT]]
+| align="center" |[[+51]]: [[Peru|PE]]
+| align="center" |[[+52]]: [[Mexico|MX]]
+| align="center" |[[+53]]: [[Cuba|CU]]
+| align="center" |[[+54]]: [[Argentina|AR]]
+| align="center" |[[+55]]: [[Brazil|BR]]
+| align="center" |[[+56]]: [[Chile|CL]]
+| align="center" |[[+57]]: [[Colombia|CO]]
+| align="center" |[[+58]]: [[Venezuela|VE]]
+| align="center" |
+[[+590]]: [[Guadeloupe|GP]], [[Saint Barthélemy|BL]], [[Saint Martin|MF]]<br />
+[[+591]]: [[Bolivia|BO]]<br />
+[[+592]]: [[Guyana|GY]]<br />
+[[+593]]: [[Ecuador|EC]]<br />
+[[+594]]: [[French Guiana|GF]]<br />
+[[+595]]: [[Paraguay|PY]]<br />
+[[+596]]: [[Martinique|MQ]]<br />
+[[+597]]: [[Suriname|SR]]<br />
+[[+598]]: [[Uruguay|UY]]<br />
+[[Telephone numbers in Curaçao and the Caribbean Netherlands|+599]]: [[Caribbean Netherlands|BQ]], [[Curaçao|CW]]
+|-
+! align="center" | 6
+| align="center" |[[+60]]: [[Malaysia|MY]]
+| align="center" |[[+61]]: [[Australia|AU]], [[Christmas Island|CX]], [[Cocos Islands|CC]]
+| align="center" |[[+62]]: [[Indonesia|ID]]
+| align="center" |[[+63]]: [[Philippines|PH]]
+| align="center" |[[+64]]: [[New Zealand|NZ]], [[Pitcairn Islands|PN]]
+| align="center" |[[+65]]: [[Singapore|SG]]
+| align="center" |[[+66]]: [[Thailand|TH]]
+| align="center" |
+[[+670]]: [[East Timor|TL]]<br />
++671: --<br />
+[[Telephone numbers in Oceania|+672]]: [[Norfolk Island|NF]], [[Australian Antarctic Territory|AQ]]<br />
+[[+673]]: [[Brunei Darussalam|BN]]<br />
+[[+674]]: [[Nauru|NR]]<br />
+[[+675]]: [[Papua New Guinea|PG]]<br />
+[[+676]]: [[Tonga|TO]]<br />
+[[+677]]: [[Solomon Islands|SB]]<br />
+[[+678]]: [[Vanuatu|VU]]<br />
+[[+679]]: [[Fiji|FJ]]
+| align="center" |
+[[+680]]: [[Palau|PW]]<br />
+[[+681]]: [[Wallis and Futuna|WF]]<br />
+[[+682]]: [[Cook Islands|CK]]<br />
+[[+683]]: [[Niue|NU]]<br />
++684: --<br />
+[[+685]]: [[Samoa|WS]]<br />
+[[+686]]: [[Kiribati|KI]]<br />
+[[+687]]: [[New Caledonia|NC]]<br />
+[[+688]]: [[Tuvalu|TV]]<br />
+[[+689]]: [[French Polynesia|PF]]
+| align="center" |
+[[+690]]: [[Tokelau|TK]]<br />
+[[+691]]: [[Federated States of Micronesia|FM]]<br />
+[[+692]]: [[Marshall Islands|MH]]<br />
++693: --<br />
++694: --<br />
++695: --<br />
++696: --<br />
++697: --<br />
++698: --<br />
++699: --
+|-
+! align="center" rowspan="2" | 7
+| width="100%" align="center" colspan="10" |[[+7]]: [[Russia|RU]], [[Kazakhstan|KZ]]
+|-
+| align="center" |
+| align="center" |
+| align="center" |
+| align="center" |[[+7|+7 3]]: [[Russia|RU]]
+| align="center" |[[+7|+7 4]]: [[Russia|RU]]
+| align="center" |
+| align="center" |[[+7 6]]: [[Kazakhstan|KZ]]
+| align="center" |[[+7 7]]: [[Kazakhstan|KZ]]
+| align="center" |[[+7|+7 8]]: [[Russia|RU]]
+| align="center" |[[+7|+7 9]]: [[Russia|RU]]
+|-
+! align="center" | 8
+| align="center" |
+[[+800]]: ''[[Universal international freephone number|XT]]''<br />
++801: --<br />
++802: --<br />
++803: --<br />
++804: --<br />
++805: --<br />
++806: --<br />
++807: --<br />
+[[+808]]: ''[[Shared Cost Service|XS]]''<br />
++809: --
+| align="center" |[[+81]]: [[Japan|JP]]
+| align="center" |[[+82]]: [[South Korea|KR]]
+| align="center" |+83: --
+| align="center" |[[+84]]: [[Vietnam|VN]]
+| align="center" |
+[[+850]]: [[North Korea|KP]]<br />
++851: --<br />
+[[+852]]: [[Hong Kong|HK]]<br />
+[[+853]]: [[Macau|MO]]<br />
++854: --<br />
+[[+855]]: [[Cambodia|KH]]<br />
+[[+856]]: [[Laos|LA]]<br />
++857: --<br />
++858: --<br />
++859: --
+| align="center" |[[+86]]: [[People's Republic of China|CN]]
+| align="center" |
++870: ''[[Inmarsat|XN]]''<br />
++871: --<br />
++872: --<br />
++873: --<br />
++874: --<br />
++875: --<br />
++876: --<br />
++877: --<br />
+[[+878]]: ''[[Universal Personal Telecommunications|XP]]''<br />
++879: --
+| align="center" |
+[[+880]]: [[Bangladesh|BD]]<br />
+[[+881]]: ''[[Global Mobile Satellite System|XG]]''<br />
+[[+882]]: ''[[International Networks (country code)|XV]]''<br />
+[[+883]]: ''[[International Networks (country code)|XV]]''<br />
++884: --<br />
++885: --<br />
+[[+886]]: [[Taiwan|TW]]<br />
++887: --<br />
+[[+888]]: ''[[OCHA|XD]]''<br />
++889: --
+| align="center" |+89: --
+|-
+! align="center" | 9
+| align="center" |[[+90]]: [[Turkey|TR]], [[Northern Cyprus|CT]]
+| align="center" |[[+91]]: [[India|IN]]
+| align="center" |[[+92]]: [[Pakistan|PK]]
+| align="center" |[[+93]]: [[Afghanistan|AF]]
+| align="center" |[[+94]]: [[Sri Lanka|LK]]
+| align="center" |[[+95]]: [[Burma|MM]]
+| align="center" |
+[[+960]]: [[Maldives|MV]]<br />
+[[+961]]: [[Lebanon|LB]]<br />
+[[+962]]: [[Jordan|JO]]<br />
+[[+963]]: [[Syria|SY]]<br />
+[[+964]]: [[Iraq|IQ]]<br />
+[[+965]]: [[Kuwait|KW]]<br />
+[[+966]]: [[Saudi Arabia|SA]]<br />
+[[+967]]: [[Yemen|YE]]<br />
+[[+968]]: [[Oman|OM]]<br />
++969: --
+| align="center" |
+[[+970]]: [[State of Palestine|PS]]<br />
+[[+971]]: [[United Arab Emirates|AE]]<br />
+[[Telephone numbers in Israel|+972]]: [[Israel|IL]]<br />
+[[+973]]: [[Bahrain|BH]]<br />
+[[+974]]: [[Qatar|QA]]<br />
+[[+975]]: [[Bhutan|BT]]<br />
+[[+976]]: [[Mongolia|MN]]<br />
+[[+977]]: [[Nepal|NP]]<br />
++978: --<br />
+[[+979]]: ''[[International premium rate service|XR]]''
+| align="center" |[[+98]]: [[Iran|IR]]
+| align="center" |
++990: --<br />
+[[+991]]: ''[[ITPCS|XC]]''<br />
+[[+992]]: [[Tajikistan|TJ]]<br />
+[[+993]]: [[Turkmenistan|TM]]<br />
+[[+994]]: [[Azerbaijan|AZ]]<br />
+[[+995]]: [[Georgia (country)|GE]]<br />
+[[+996]]: [[Kyrgyzstan|KG]]<br />
++997: --<br />
+[[+998]]: [[Uzbekistan|UZ]]<br />
++999: --
+
+|-
+! align="center" |
+! align="center" | 0
+! align="center" | 1
+! align="center" | 2
+! align="center" | 3
+! align="center" | 4
+! align="center" | 5
+! align="center" | 6
+! align="center" | 7
+! align="center" | 8
+! align="center" | 9
+|}
+
+==Ordered by code==
+While there is a general geographic grouping to the zones, some exceptions exist for political and historical reasons. Thus, the geographical indicators below are approximations only.
+
+{{anchor|Zone 1}}
+===Zone 1: North American Numbering Plan Area===
+{{See also|List of North American Numbering Plan area codes}}
+Countries within [[North American Numbering Plan|NANP]] (North American Numbering Plan) administered areas are assigned [[List of NANP area codes|area codes]] as if they were all within one country. The codes below in format +1 XXX represent area code XXX within the +1 NANP zone – not a separate country code.
+
+The North American Numbering Plan Area includes:
+*[[North American Numbering Plan|+1]] {{flag|Canada}}
+*[[North American Numbering Plan|+1]] {{flag|United States}}, including United States territories:
+**[[Area code 340|+1 340]] {{flag|United States Virgin Islands}}
+**[[Area code 670|+1 670]] {{flag|Northern Mariana Islands}}
+**[[Area code 671|+1 671]] {{flag|Guam}}
+**[[Area code 684|+1 684]] {{flag|American Samoa}}
+**[[Telephone numbers in Puerto Rico|+1 787 / 939]] {{flag|Puerto Rico}}
+*[[North American Numbering Plan|+1]] Many, but not all, [[Caribbean nation]]s and some Caribbean Dutch and [[British Overseas Territories]]:
+**[[Area code 242|+1 242]] {{flag|Bahamas}}
+**[[Area code 246|+1 246]] {{flag|Barbados}}
+**[[Area code 264|+1 264]] {{flag|Anguilla}}
+**[[Area code 268|+1 268]] {{flag|Antigua and Barbuda}}
+**[[Area code 284|+1 284]] {{flag|British Virgin Islands}}
+**[[Area code 345|+1 345]] {{flag|Cayman Islands}}
+**[[Area code 441|+1 441]] {{flag|Bermuda}}
+**[[Area code 473|+1 473]] {{flag|Grenada}}
+**[[Area code 649|+1 649]] {{flag|Turks and Caicos Islands}}
+**[[Area code 664|+1 664]] {{flag|Montserrat}}
+**[[Area code 721|+1 721]] {{flag|Sint Maarten}}
+**[[Area code 758|+1 758]] {{flag|Saint Lucia}}
+**[[Area code 767|+1 767]] {{flag|Dominica}}
+**[[Area code 784|+1 784]] {{flag|Saint Vincent and the Grenadines}}
+**[[Telephone numbers in the Dominican Republic|+1 809 / 829 / 849]] {{flag|Dominican Republic}}
+**[[Area code 868|+1 868]] {{flag|Trinidad and Tobago}}
+**[[Area code 869|+1 869]] {{flag|Saint Kitts and Nevis}}
+**[[Area code 876|+1 876]] {{flag|Jamaica}}
+
+{{anchor|Zone 2}}
+
+===Zone 2: mostly [[Africa]]===
+(but also [[Aruba]], [[Faroe Islands]], [[Greenland]] and [[British Indian Ocean Territory]])
+*[[+20]] &ndash; {{flag|Egypt}}
+*+210 &ndash; ''unassigned''
+*[[+211]] &ndash; {{flag|South Sudan}}
+*[[+212]] &ndash; {{flag|Morocco}}
+**[[Telephone numbers in Western Sahara|+212 5288 / 5289]] &ndash; {{flag|Western Sahara}}
+*[[+213]] &ndash; {{flag|Algeria}}
+*+214 &ndash; ''unassigned''
+*+215 &ndash; ''unassigned''
+*[[+216]] &ndash; {{flag|Tunisia}}
+*+217 &ndash; ''unassigned''
+*[[+218]] &ndash; {{flag|Libya}}
+*+219 &ndash; ''unassigned''
+*[[+220]] &ndash; {{flag|Gambia}}
+*[[+221]] &ndash; {{flag|Senegal}}
+*[[+222]] &ndash; {{flag|Mauritania}}
+*[[+223]] &ndash; {{flag|Mali}}
+*[[+224]] &ndash; {{flag|Guinea}}
+*[[+225]] &ndash; {{flag|Ivory Coast}}
+*[[+226]] &ndash; {{flag|Burkina Faso}}
+*[[+227]] &ndash; {{flag|Niger}}
+*[[+228]] &ndash; {{flag|Togo}}
+*[[+229]] &ndash; {{flag|Benin}}
+*[[+230]] &ndash; {{flag|Mauritius}}
+*[[+231]] &ndash; {{flag|Liberia}}
+*[[+232]] &ndash; {{flag|Sierra Leone}}
+*[[+233]] &ndash; {{flag|Ghana}}
+*[[+234]] &ndash; {{flag|Nigeria}}
+*[[+235]] &ndash; {{flag|Chad}}
+*[[+236]] &ndash; {{flag|Central African Republic}}
+*[[+237]] &ndash; {{flag|Cameroon}}
+*[[+238]] &ndash; {{flag|Cape Verde}}
+*[[+239]] &ndash; {{flag|São Tomé and Príncipe}}
+*[[+240]] &ndash; {{flag|Equatorial Guinea}}
+*[[+241]] &ndash; {{flag|Gabon}}
+*[[+242]] &ndash; {{flag|Republic of the Congo}}
+*[[+243]] &ndash; {{flag|Democratic Republic of the Congo}}
+*[[+244]] &ndash; {{flag|Angola}}
+*[[+245]] &ndash; {{flag|Guinea-Bissau}}
+*[[+246]] &ndash; {{flag|British Indian Ocean Territory}}
+*[[+247]] &ndash; {{flag|Ascension Island}}
+*[[+248]] &ndash; {{flag|Seychelles}}
+*[[+249]] &ndash; {{flag|Sudan}}
+*[[+250]] &ndash; {{flag|Rwanda}}
+*[[+251]] &ndash; {{flag|Ethiopia}}
+*[[+252]] &ndash; {{flag|Somalia}}
+*[[+253]] &ndash; {{flag|Djibouti}}
+*[[+254]] &ndash; {{flag|Kenya}}
+*[[+255]] &ndash; {{flag|Tanzania}}
+**+255 24 &ndash; {{flag|Zanzibar}}, ''in place of never-implemented +259''
+*[[+256]] &ndash; {{flag|Uganda}}
+*[[+257]] &ndash; {{flag|Burundi}}
+*[[+258]] &ndash; {{flag|Mozambique}}
+*+259 &ndash; ''unassigned, was intended for [[Zanzibar]] but never implemented – see +255 [[Tanzania]]''
+*[[+260]] &ndash; {{flag|Zambia}}
+*[[+261]] &ndash; {{flag|Madagascar}}
+*[[+262]] &ndash; {{flag|Réunion}}
+**[[Telephone numbers in Mayotte|+262 269 / 639]] &ndash; {{flag|Mayotte}} ''(land / mobile, formerly with +269 [[Comoros]])''
+*[[+263]] &ndash; {{flag|Zimbabwe}}
+*[[+264]] &ndash; {{flag|Namibia}}
+*[[+265]] &ndash; {{flag|Malawi}}
+*[[+266]] &ndash; {{flag|Lesotho}}
+*[[+267]] &ndash; {{flag|Botswana}}
+*[[+268]] &ndash; {{flag|Swaziland}}
+*[[+269]] &ndash; {{flag|Comoros}} ''([[Mayotte]] was here but moved to +262 [[Réunion]])''
+*[[+27]] &ndash; {{flag|South Africa}}
+*+28x &ndash; ''unassigned (Reserved for country code expansion)''<ref name="ITU">{{cite web | url=http://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.164D-11-2011-PDF-E.pdf | title=List of ITU-T Recommendation E.164 assigned country codes | author=International Telecommunication Union | format=PDF | work= | publisher= | date=2011-11-01 | archiveurl=http://web.archive.org/web/20120131025009/http://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.164D-11-2011-PDF-E.pdf | archivedate=2012-01-31 | deadurl=no }}</ref>
+*[[+290]] &ndash; {{flag|Saint Helena}}
+**[[Telephone numbers in Tristan da Cunha|+290 8]] &ndash; {{flag|Tristan da Cunha}}
+*[[+291]] &ndash; {{flag|Eritrea}}
+*+292 &ndash; ''unassigned''
+*+293 &ndash; ''unassigned''
+*+294 &ndash; ''unassigned''
+*+295 &ndash; ''discontinued (was assigned to [[San Marino]], see [[+378]])''
+*+296 &ndash; ''unassigned''
+*[[+297]] &ndash; {{flag|Aruba}}
+*[[+298]] &ndash; {{flag|Faroe Islands}}
+*[[+299]] &ndash; {{flag|Greenland}}
+
+{{anchor|Zone 3}}
+{{anchor|Zone 4}}
+
+===Zones 3-4: [[Europe]]===
+Originally, larger countries such as Spain, the United Kingdom or France, were assigned two-digit codes to compensate for their usually longer domestic numbers. Small countries, such as Iceland, were assigned three-digit codes. Since the 1980s, all new assignments have been three-digit regardless of countries’ populations.
+
+*[[+30]] &ndash; {{flag|Greece}}
+*[[+31]] &ndash; {{flag|Netherlands}}
+*[[+32]] &ndash; {{flag|Belgium}}
+*[[+33]] &ndash; {{flag|France}}
+*[[+34]] &ndash; {{flag|Spain}}
+*[[+350]] &ndash; {{flag|Gibraltar}}
+*[[+351]] &ndash; {{flag|Portugal}}
+*[[+352]] &ndash; {{flag|Luxembourg}}
+*[[+353]] &ndash; {{flag|Ireland}}
+*[[+354]] &ndash; {{flag|Iceland}}
+*[[+355]] &ndash; {{flag|Albania}}
+*[[+356]] &ndash; {{flag|Malta}}
+*[[+357]] &ndash; {{flag|Cyprus}}
+*[[+358]] &ndash; {{flag|Finland}}
+**[[+358 18]] &ndash; {{flag|Åland Islands}}
+*[[+359]] &ndash; {{flag|Bulgaria}}
+*[[+36]] &ndash; {{flag|Hungary}}
+{{anchor|+37}}
+*+37 &ndash; ''discontinued (was assigned to the {{flag|German Democratic Republic}}. See [[Germany]]'s country code +49)''
+*[[+370]] &ndash; {{flag|Lithuania}}
+*[[+371]] &ndash; {{flag|Latvia}}
+*[[+372]] &ndash; {{flag|Estonia}}
+*[[+373]] &ndash; {{flag|Moldova}}
+**[[Telephone numbers in Transnistria|+373 2 / 5]] &ndash; {{flag|Transnistria}}
+*[[+374]] &ndash; {{flag|Armenia}}
+**[[Telephone numbers in Nagorno-Karabakh|+374 47 / 97]] &ndash; {{flag|Nagorno-Karabakh}} (landlines / mobile phones)
+*[[+375]] &ndash; {{flag|Belarus}}
+*[[+376]] &ndash; {{flag|Andorra}}
+*[[+377]] &ndash; {{flag|Monaco}}
+*[[+378]] &ndash; {{flag|San Marino}}
+*[[+379]] &ndash; {{flag|Vatican City}} assigned but uses [[+39]] [[Italy]].
+*[[+38]] &ndash; ''discontinued (was assigned to {{flag|Socialist Federal Republic of Yugoslavia}} before break-up)''
+*[[+380]] &ndash; {{flag|Ukraine}}
+*[[+381]] &ndash; {{flag|Serbia}} (formerly used by {{flag|FR Yugoslavia}} and {{flag|Serbia and Montenegro}} before Montenegro's independence)
+*[[+382]] &ndash; {{flag|Montenegro}}
+*[[+383]] &ndash; {{flag|Kosovo}}
+*+384 &ndash; ''unassigned''
+*[[+385]] &ndash; {{flag|Croatia}}
+*[[+386]] &ndash; {{flag|Slovenia}}
+*[[+387]] &ndash; {{flag|Bosnia and Herzegovina}}
+*+388 &ndash; ''assigned to the discontinued [[European Telephony Numbering Space]]''<ref name="ITU" /><ref name="ero">{{cite web | url=http://www.ero.dk/etns | title=European Telephony Numbering Space (ETNS) | author= | date=2009-05-28 | work= | publisher=European Radiocommunications Office | archiveurl=http://web.archive.org/web/20110609072938/http://www.ero.dk/etns | archivedate=2011-06-09 | deadurl=yes }}</ref>
+*[[+389]] &ndash; {{flag|Macedonia}}
+*[[+39]] &ndash; {{flag|Italy}}
+**[[Telephone numbers in Vatican City|+39 06 698]] &ndash; {{flag|Vatican City}} ''(assigned +379 but not in use)''
+*[[+40]] &ndash; {{flag|Romania}}
+*[[+41]] &ndash; {{flag|Switzerland}}
+*+42 &ndash; previously assigned to {{flag|Czechoslovakia}} until its breakup.
+*[[+420]] &ndash; {{flag|Czech Republic}}
+*[[+421]] &ndash; {{flag|Slovakia}}
+*+422 &ndash; ''unassigned''
+*[[+423]] &ndash; {{flag|Liechtenstein}} ''(formerly +41 75)''
+*+424 &ndash; ''unassigned''
+*+425 &ndash; ''unassigned''
+*+426 &ndash; ''unassigned''
+*+427 &ndash; ''unassigned''
+*+428 &ndash; ''unassigned''
+*+429 &ndash; ''unassigned''
+*[[+43]] &ndash; {{flag|Austria}}
+*[[+44 (country code)|+44]] &ndash; {{flag|United Kingdom}}
+**[[+44 1481]] &ndash; {{flag|Guernsey}}
+**[[+44 1534]] &ndash; {{flag|Jersey}}
+**[[+44 1624]] &ndash; {{flag|Isle of Man}}
+*[[+45]] &ndash; {{flag|Denmark}}
+*[[+46]] &ndash; {{flag|Sweden}}
+*[[+47]] &ndash; {{flag|Norway}}
+**[[Telephone numbers in Svalbard|+47 79]] &ndash; {{flag|Svalbard}}
+**[[Telephone numbers in Jan Mayen|+47 79]] &ndash; {{flag|Jan Mayen}}
+*[[+48]] &ndash; {{flag|Poland}}
+*[[+49]] &ndash; {{flag|Germany}}
+
+{{anchor|Zone 5}}
+
+===Zone 5: mostly [[Latin America]]===
+*[[+500]] &ndash; {{flag|Falkland Islands}}
+**[[Telephone numbers in South Georgia and the South Sandwich Islands|+500 x]] &ndash; {{flag|South Georgia and the South Sandwich Islands}}
+*[[+501]] &ndash; {{flag|Belize}}
+*[[+502]] &ndash; {{flag|Guatemala}}
+*[[+503]] &ndash; {{flag|El Salvador}}
+*[[+504]] &ndash; {{flag|Honduras}}
+*[[+505]] &ndash; {{flag|Nicaragua}}
+*[[+506]] &ndash; {{flag|Costa Rica}}
+*[[+507]] &ndash; {{flag|Panama}}
+*[[+508]] &ndash; {{flag|Saint-Pierre and Miquelon}}
+*[[+509]] &ndash; {{flag|Haiti}}
+*[[+51]] &ndash; {{flag|Peru}}
+*[[+52]] &ndash; {{flag|Mexico}}
+*[[+53]] &ndash; {{flag|Cuba}}
+*[[+54]] &ndash; {{flag|Argentina}}
+*[[+55]] &ndash; {{flag|Brazil}}
+*[[+56]] &ndash; {{flag|Chile}}
+*[[+57]] &ndash; {{flag|Colombia}}
+*[[+58]] &ndash; {{flag|Venezuela}}
+*[[+590]] &ndash; {{flag|Guadeloupe}} (including [[Saint Barthélemy]], [[Saint Martin]])
+*[[+591]] &ndash; {{flag|Bolivia}}
+*[[+592]] &ndash; {{flag|Guyana}}
+*[[+593]] &ndash; {{flag|Ecuador}}
+*[[+594]] &ndash; {{flag|French Guiana}}
+*[[+595]] &ndash; {{flag|Paraguay}}
+*[[+596]] &ndash; {{flag|Martinique}}
+*[[+597]] &ndash; {{flag|Suriname}}
+*[[+598]] &ndash; {{flag|Uruguay}}
+*[[+599]] &ndash; Former {{flag|Netherlands Antilles}}, now grouped as follows:
+**[[+599 3]] &ndash; {{flag|Sint Eustatius}}
+**[[+599 4]] &ndash; {{flag|Saba}}
+**[[+599 5]] &ndash; ''formerly {{flag|Sint Maarten}} – Now included in [[North American Numbering Plan|NANP]] as code [[Area code 721|+1-721]] (see Zone 1, above)''
+**[[+599 7]] &ndash; {{flag|Bonaire}}
+**[[+599 8]] &ndash; ''formerly {{flag|Aruba}} – See country code [[+297]] above''
+**[[+599 9]] &ndash; {{flag|Curaçao}}
+
+{{anchor|Zone 6}}
+
+===Zone 6: [[Southeast Asia]] and [[Oceania]]===
+*[[+60]] &ndash; {{flag|Malaysia}}
+*[[+61]] &ndash; {{flag|Australia}} ''(see also +672 below)''
+**[[Telephone numbers in the Cocos (Keeling) Islands|+61 8 9162]] &ndash; {{flag|Cocos Islands}}
+**[[Telephone numbers in Christmas Island|+61 8 9164]] &ndash; {{flag|Christmas Island}}
+*[[+62]] &ndash; {{flag|Indonesia}}
+*[[+63]] &ndash; {{flag|Philippines}}
+*[[+64]] &ndash; {{flag|New Zealand}}
+**[[Telephone numbers in the Pitcairn Islands|+64 xx]] &ndash; {{flag|Pitcairn Islands}}
+*[[+65]] &ndash; {{flag|Singapore}}
+*[[+66]] &ndash; {{flag|Thailand}}
+*[[+670]] &ndash; {{flag|East Timor}} ''- formerly Northern Mariana Islands which is now included in [[North American Numbering Plan|NANP]] as code [[Area code 670|+1-670]] (See Zone 1, above)''
+*+671 &ndash; ''formerly [[Guam]] – Now included in [[North American Numbering Plan|NANP]] as code [[Area code 671|+1-671]] (See Zone 1, above)''
+*[[Telephone numbers in Oceania|+672]] &ndash; [[Australian External Territories]] ''(see also +61 [[Australia]] above)''
+**[[Telephone numbers in the Australian Antarctic Territory|+672 1x]] &ndash; {{flagicon|Australia}} [[Australian Antarctic Territory]]
+**[[Telephone numbers in Norfolk Island|+672 3]] &ndash; {{flag|Norfolk Island}}
+*[[+673]] &ndash; {{flag|Brunei}}
+*[[+674]] &ndash; {{flag|Nauru}}
+*[[+675]] &ndash; {{flag|Papua New Guinea}}
+*[[+676]] &ndash; {{flag|Tonga}}
+*[[+677]] &ndash; {{flag|Solomon Islands}}
+*[[+678]] &ndash; {{flag|Vanuatu}}
+*[[+679]] &ndash; {{flag|Fiji}}
+*[[+680]] &ndash; {{flag|Palau}}
+*[[+681]] &ndash; {{flag|Wallis and Futuna}}
+*[[+682]] &ndash; {{flag|Cook Islands}}
+*[[+683]] &ndash; {{flag|Niue}}
+*+684 ''&ndash; formerly [[American Samoa]] – Now included in [[North American Numbering Plan|NANP]] as code [[Area code 684|+1-684]] (See Zone 1, above)''
+*[[+685]] &ndash; {{flag|Samoa}}
+*[[+686]] &ndash; {{flag|Kiribati}}
+*[[+687]] &ndash; {{flag|New Caledonia}}
+*[[+688]] &ndash; {{flag|Tuvalu}}
+*[[+689]] &ndash; {{flag|French Polynesia}}
+*[[+690]] &ndash; {{flag|Tokelau}}
+*[[+691]] &ndash; {{flag|Federated States of Micronesia}}
+*[[+692]] &ndash; {{flag|Marshall Islands}}
+*+693 &ndash; ''unassigned''
+*+694 &ndash; ''unassigned''
+*+695 &ndash; ''unassigned''
+*+696 &ndash; ''unassigned''
+*+697 &ndash; ''unassigned''
+*+698 &ndash; ''unassigned''
+*+699 &ndash; ''unassigned''
+
+{{anchor|Zone 7}}
+
+===Zone 7: Former {{flag|Soviet Union}}===
+*[[Telephone numbers in Russia|+7]] &ndash; {{flag|Russia}}
+*[[Telephone numbers in Kazakhstan|+7 6xx / 7xx]] &ndash; {{flag|Kazakhstan}}
+*[[Telephone numbers in Abkhazia|+7 840 / 940]] &ndash; {{flag|Abkhazia}} - see also [[+995 44]]
+{{anchor|Zone 8}}
+
+===Zone 8: [[East Asia]] and special services===
+*'''[[+800]] &ndash; International Freephone ([[Toll-free telephone number|UIFN]])'''
+*+801 &ndash; ''unassigned''
+*+802 &ndash; ''unassigned''
+*+803 &ndash; ''unassigned''
+*+804 &ndash; ''unassigned''
+*+805 &ndash; ''unassigned''
+*+806 &ndash; ''unassigned''
+*+807 &ndash; ''unassigned''
+*'''[[+808]] &ndash; reserved for [[Shared Cost Service]]s'''
+*+809 &ndash; ''unassigned''
+*[[+81]] &ndash; {{flag|Japan}}
+*[[+82]] &ndash; {{flag|South Korea}}
+*+83x &ndash; ''unassigned (Reserved for country code expansion)''<ref name="ITU" />
+*[[+84]] &ndash; {{flag|Vietnam}}
+*[[+850]] &ndash; {{flag|North Korea}}
+*+851 &ndash; ''unassigned''
+*[[+852]] &ndash; {{flag|Hong Kong}}
+*[[+853]] &ndash; {{flag|Macau}}
+*+854 &ndash; ''unassigned''
+*[[+855]] &ndash; {{flag|Cambodia}}
+*[[+856]] &ndash; {{flag|Laos}}
+*+857 &ndash; ''unassigned, formerly ANAC satellite service''
+*+858 &ndash; ''unassigned, formerly ANAC satellite service''
+*+859 &ndash; ''unassigned''
+*[[+86]] &ndash; {{flag|China}}
+*'''[[+870]] &ndash; [[Inmarsat]] "SNAC" service '''
+*+871 &ndash; ''unassigned (formerly used by [[Inmarsat]], Atlantic East), discontinued in 2008''
+*+872 &ndash; ''unassigned (formerly used by [[Inmarsat]], Pacific), discontinued in 2008''
+*+873 &ndash; ''unassigned (formerly used by [[Inmarsat]], Indian), discontinued in 2008''
+*+874 &ndash; ''unassigned (formerly used by [[Inmarsat]], Atlantic West), discontinued 2008''
+*+875 &ndash; reserved for Maritime Mobile service
+*+876 &ndash; reserved for Maritime Mobile service
+*+877 &ndash; reserved for Maritime Mobile service
+*'''[[+878]] &ndash; [[Universal Personal Telecommunications]] services'''
+*+879 &ndash; reserved for national non-commercial purposes
+*[[+880]] &ndash; {{flag|Bangladesh}}
+*'''[[+881]] &ndash; [[Global Mobile Satellite System]]'''
+*'''[[+882]] &ndash; [[International Networks (country code)|International Networks]]'''
+*'''[[+883]] &ndash; [[International Networks (country code)|International Networks]]'''
+*+884 &ndash; ''unassigned''
+*+885 &ndash; ''unassigned''
+*[[+886]] &ndash; {{flag|Taiwan}}
+*+887 &ndash; ''unassigned''
+*[[+888]] &ndash; Telecommunications for Disaster Relief by [[Office for the Coordination of Humanitarian Affairs|OCHA]]
+*+889 &ndash; ''unassigned''
+*+89x &ndash; ''unassigned (Reserved for country code expansion)''<ref name="ITU" />
+
+{{anchor|Zone 9}}
+
+===Zone 9: mostly [[Asia]]===
+*[[+90]] &ndash; {{flag|Turkey}}
+**[[+90 392]] &ndash; {{flag|Northern Cyprus}}
+*[[+91]] &ndash; {{flag|India}}
+*[[+92]] &ndash; {{flag|Pakistan}}
+*[[+93]] &ndash; {{flag|Afghanistan}}
+*[[+94]] &ndash; {{flag|Sri Lanka}}
+*[[+95]] &ndash; {{flag|Myanmar}}
+*[[+960]] &ndash; {{flag|Maldives}}
+*[[+961]] &ndash; {{flag|Lebanon}}
+*[[+962]] &ndash; {{flag|Jordan}}
+*[[+963]] &ndash; {{flag|Syria}}
+*[[+964]] &ndash; {{flag|Iraq}}
+*[[+965]] &ndash; {{flag|Kuwait}}
+*[[+966]] &ndash; {{flag|Saudi Arabia}}
+*[[+967]] &ndash; {{flag|Yemen}}
+*[[+968]] &ndash; {{flag|Oman}}
+*+969 &ndash; ''unassigned – originally [[South Yemen]], now covered under 967 [[Yemen]] (formerly [[North Yemen]])''
+*[[+970]] &ndash; {{flag|Palestine}}
+*[[+971]] &ndash; {{flag|United Arab Emirates}}
+*[[Telephone numbers in Israel|+972]] &ndash; {{flag|Israel}}
+*[[+973]] &ndash; {{flag|Bahrain}}
+*[[+974]] &ndash; {{flag|Qatar}}
+*[[+975]] &ndash; {{flag|Bhutan}}
+*[[+976]] &ndash; {{flag|Mongolia}}
+*[[+977]] &ndash; {{flag|Nepal}}
+*+978 &ndash; ''unassigned – originally assigned to [[Dubai]], now covered under 971''
+*'''[[+979]] &ndash; [[International Premium Rate Service]]''' ''- originally assigned to [[Abu Dhabi]], now covered under 971''
+*[[+98]] &ndash; {{flag|Iran}}
+*+990 &ndash; ''unassigned''
+*'''[[+991]] &ndash; [[ITPCS|International Telecommunications Public Correspondence Service trial (ITPCS)]]'''
+*[[+992]] &ndash; {{flag|Tajikistan}}
+*[[+993]] &ndash; {{flag|Turkmenistan}}
+*[[+994]] &ndash; {{flag|Azerbaijan}}
+*[[+995]] &ndash; {{flag|Georgia}}
+**[[Telephone numbers in South Ossetia|+995 34]] &ndash; {{flag|South Ossetia}}
+**[[Telephone numbers in Abkhazia|+995 44]] &ndash; {{flag|Abkhazia}}<ref name="abkhazia">{{cite web | title=Abkhazia remains available by Georgian phone codes | url=http://www.today.az/print/news/georgia/58953.html | date=2010-01-06 | author= | work= | publisher=Today.Az | archiveurl=http://web.archive.org/web/20120712005819/http://www.today.az/print/news/georgia/58953.html | archivedate=2012-07-12 | deadurl=no }}</ref><ref name="gncc">{{cite web | url=http://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-OB.955-2010-OAS-R1-PDF-E.pdf | format=PDF | title=GNCC Communication of 30.III.2010 | date=2010-03-30 | author=GNCC | work=ITU Operational Bulletin | issue=955 | publisher=ITU-T | archiveurl=http://web.archive.org/web/20130720154817/http://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-OB.955-2010-OAS-R1-PDF-E.pdf | archivedate=2013-07-20 | deadurl=no | quote=See page 12. }}</ref> - see also [[+7 840]], 940
+*[[+996]] &ndash; {{flag|Kyrgyzstan}}
+*+997 &ndash; ''unassigned''
+*[[+998]] &ndash; {{flag|Uzbekistan}}
+*+999 &ndash; reserved for future global service
+
+==Alphabetical listing by country or region==
+<!--
+Please try to keep the country/territory names consistent with the CLDR project.
+Please see the section Consistency with Unicode Common Locale Data Repository (CLDR)
+on the talk page.
+If you add/edit entries in this table, be sure to use the {{ntsh}} template in the Code column,
+with the code padded on the right with 0s to 5 digits. This is necessary for sorting to work correctly.
+-->
+{| class="wikitable sortable"
+! Country, Territory or Service
+! Code
+! Time Zone
+! [[Daylight saving time|DST]]
+|-
+| Abkhazia
+| align=right | {{ntsh|78400}}[[+7 840]], [[+7 940]],<ref name="zone7" group="notes"/>[[+995 44]]<ref name="abkhazia"/>
+| UTC+03:00
+|
+|-
+| Afghanistan
+| align=right | {{ntsh|93000}}[[+93]]
+| UTC+04:30
+|
+|-
+| Åland Islands
+| align=right | {{ntsh|35818}}[[+358 18]]
+| UTC+02:00
+| UTC+03:00
+|-
+| Albania
+| align=right | {{ntsh|35500}}[[+355]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Algeria
+| align=right | {{ntsh|21300}}[[+213]]
+| UTC+01:00
+|
+|-
+| American Samoa
+| align=right | {{ntsh|16840}}[[Area code 684|+1 684]]<ref name="NANP" group="notes">This country or territory is part of the [[North American Numbering Plan]] (NANP), even though it may be geographically far from North America (Mexico is not included). The country code for all NANP countries is 1; the numbers that follow are used in the same way as area codes are in the U.S. and Canada.</ref>
+| UTC-11:00
+|
+|-
+| Andorra
+| align=right | {{ntsh|37600}}[[+376]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Angola
+| align=right | {{ntsh|24400}}[[+244]]
+| UTC+01:00
+|
+|-
+| Anguilla
+| align=right | {{ntsh|12640}}[[Area code 264|+1 264]]<ref name="NANP" group="notes" />
+| UTC-04:00
+|
+|-
+| Antigua and Barbuda
+| align=right | {{ntsh|12680}}[[Area code 268|+1 268]]<ref name="NANP" group="notes" />
+| UTC-04:00
+|
+|-
+| Argentina
+| align=right | {{ntsh|54000}}[[+54]]
+| UTC-03:00
+|
+|-
+| Armenia
+| align=right | {{ntsh|37400}}[[+374]]
+| UTC+04:00
+|
+|-
+| Aruba
+| align=right | {{ntsh|29700}}[[Telephone numbers in Aruba|+297]]
+| UTC-04:00
+|
+|-
+| Ascension
+| align=right | {{ntsh|24700}}[[+247]]
+| UTC+00:00
+|
+|-
+| Australia
+| align=right | {{ntsh|61000}}[[+61]]
+| UTC+08:00 to +10:30
+| UTC+08:00 to +11:30
+|-
+| Australian External Territories
+| align=right | {{ntsh|67200}}[[+672]]
+|
+|
+|-
+| Austria
+| align=right | {{ntsh|43000}}[[+43]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Azerbaijan
+| align=right | {{ntsh|99400}}[[+994]]
+| UTC+04:00
+| UTC+05:00
+|-
+| Bahamas
+| align=right | {{ntsh|12420}}[[Area code 242|+1 242]]<ref name="NANP" group="notes" />
+| UTC-05:00
+| UTC-04:00
+|-
+| Bahrain
+| align=right | {{ntsh|97300}}[[+973]]
+| UTC+03:00
+|
+|-
+| Bangladesh
+| align=right | {{ntsh|88000}}[[+880]]
+| UTC+06:00
+|
+|-
+| Barbados
+| align=right | {{ntsh|12460}}[[Area code 246|+1 246]]<ref name="NANP" group="notes" />
+| UTC-04:00
+|
+|-
+| Barbuda
+| align=right | {{ntsh|12680}}[[Area code 268|+1 268]]<ref name="NANP" group="notes" />
+| UTC-04:00
+|
+|-
+| Belarus
+| align=right | {{ntsh|37500}}[[+375]]
+| UTC+03:00
+|
+|-
+| Belgium
+| align=right | {{ntsh|32000}}[[+32]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Belize
+| align=right | {{ntsh|50100}}[[+501]]
+| UTC-06:00
+|
+|-
+| Benin
+| align=right | {{ntsh|22900}}[[+229]]
+| UTC+01:00
+|
+|-
+| Bermuda
+| align=right | {{ntsh|14410}}[[Area code 441|+1 441]]<ref name="NANP" group="notes" />
+| UTC-04:00
+| UTC-03:00
+|-
+| Bhutan
+| align=right | {{ntsh|97500}}[[+975]]
+| UTC+06:00
+|
+|-
+| Bolivia
+| align=right | {{ntsh|59100}}[[+591]]
+| UTC-04:00
+|
+|-
+| Bonaire
+| align=right | {{ntsh|59970}}[[Telephone numbers in Curaçao and the Caribbean Netherlands|+599 7]]
+| UTC-04:00
+|
+|-
+| Bosnia and Herzegovina
+| align=right | {{ntsh|38700}}[[+387]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Botswana
+| align=right | {{ntsh|26700}}[[+267]]
+| UTC+02:00
+|
+|-
+| Brazil
+| align=right | {{ntsh|55000}}[[+55]]
+| UTC-05:00 to -02:00
+| UTC-05:00 to -02:00
+|-
+| British Indian Ocean Territory
+| align=right | {{ntsh|24600}}[[+246]]
+| UTC+06:00
+|
+|-
+| British Virgin Islands
+| align=right | {{ntsh|12840}}[[Area code 284|+1 284]]<ref name="NANP" group="notes" />
+| UTC-04:00
+|
+|-
+| Brunei Darussalam
+| align=right | {{ntsh|67300}}[[+673]]
+| UTC+08:00
+|
+|-
+| Bulgaria
+| align=right | {{ntsh|35900}}[[+359]]
+| UTC+02:00
+| UTC+03:00
+|-
+| Burkina Faso
+| align=right | {{ntsh|22600}}[[+226]]
+| UTC+00:00
+|
+|-
+| Burundi
+| align=right | {{ntsh|25700}}[[+257]]
+| UTC+02:00
+|
+|-
+| Cambodia
+| align=right | {{ntsh|85500}}[[+855]]
+| UTC+07:00
+|
+|-
+| Cameroon
+| align=right | {{ntsh|23700}}[[+237]]
+| UTC+01:00
+|
+|-
+| Canada
+| align=right | {{ntsh|10000}}[[North American Numbering Plan|+1]]
+| UTC-08:00 to -03:30
+| UTC-07:00 to -02:30
+|-
+| Cape Verde
+| align=right | {{ntsh|23800}}[[+238]]
+| UTC-01:00
+|
+|-
+| Caribbean Netherlands
+| align=right | {{ntsh|59930}}[[Telephone numbers in Curaçao and the Caribbean Netherlands|+599 3, +599 4, +599 7]]
+| UTC-04:00
+|
+|-
+| Cayman Islands
+| align=right | {{ntsh|13450}}[[Area code 345|+1 345]]<ref name="NANP" group="notes" />
+| UTC-05:00
+|
+|-
+| Central African Republic
+| align=right | {{ntsh|23600}}[[+236]]
+| UTC+01:00
+|
+|-
+| Chad
+| align=right | {{ntsh|23500}}[[+235]]
+| UTC+01:00
+|
+|-
+| Chatham Island, New Zealand
+| align=right | {{ntsh|64000}}[[+64]]
+| UTC+12:00
+| UTC+13:00
+|-
+| Chile
+| align=right | {{ntsh|56000}}[[+56]]
+| UTC-06:00 to -04:00
+| UTC-05:00 to -03:00
+|-
+| China
+| align=right | {{ntsh|86000}}[[+86]]
+| UTC+08:00
+|
+|-
+| Christmas Island
+| align=right | {{ntsh|61000}}[[+61]]
+| UTC+07:00
+|
+|-
+| Cocos (Keeling) Islands
+| align=right | {{ntsh|61000}}[[+61]]
+| UTC+06:30
+|
+|-
+| Colombia
+| align=right | {{ntsh|57000}}[[+57]]
+| UTC-05:00
+|
+|-
+| Comoros
+| align=right | {{ntsh|26900}}[[+269]]
+| UTC+03:00
+|
+|-
+| Congo
+| align=right | {{ntsh|24200}}[[+242]]
+| UTC+01:00
+|
+|-
+| Congo, Democratic Republic of the (Zaire)
+| align=right | {{ntsh|24300}}[[+243]]
+| UTC+01:00 to +02:00
+|
+|-
+| Cook Islands
+| align=right | {{ntsh|68200}}[[+682]]
+| UTC-10:00
+|
+|-
+| Costa Rica
+| align=right | {{ntsh|50600}}[[+506]]
+| UTC-06:00
+|
+|-
+| Ivory Coast
+| align=right | {{ntsh|22500}}[[+225]]
+| UTC+00:00
+|
+|-
+| Croatia
+| align=right | {{ntsh|38500}}[[+385]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Cuba
+| align=right | {{ntsh|53000}}[[+53]]
+| UTC-05:00
+| UTC-04:00
+|-
+| Guantanamo Bay, Cuba
+| align=right | {{ntsh|53990}}[[+53 99]]
+|
+|
+|-
+| Curaçao
+| align=right | {{ntsh|59990}}[[Telephone numbers in Curaçao and the Caribbean Netherlands|+599 9]]
+| UTC-04:00
+|
+|-
+| Cyprus
+| align=right | {{ntsh|35700}}[[+357]]
+| UTC+02:00
+| UTC+03:00
+|-
+| Czech Republic
+| align=right | {{ntsh|42000}}[[+420]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Denmark
+| align=right | {{ntsh|45000}}[[+45]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Diego Garcia
+| align=right | {{ntsh|24600}}[[+246]]
+| UTC+06:00
+|
+|-
+| Djibouti
+| align=right | {{ntsh|25300}}[[+253]]
+| UTC+02:00
+|
+|-
+| Dominica
+| align=right | {{ntsh|17670}}[[+1 767]]<ref name="NANP" group="notes" />
+| UTC-04:00
+|
+|-
+| Dominican Republic
+| align=right | {{ntsh|18090}}[[Telephone numbers in the Dominican Republic|+1 809]], {{ntsh|18290}}[[Telephone numbers in the Dominican Republic|+1 829]], {{ntsh|18490}}[[Telephone numbers in the Dominican Republic|+1 849]]<ref name="NANP" group="notes" />
+| UTC-04:00
+|
+|-
+| East Timor
+| align=right | {{ntsh|67000}}[[+670]]
+| UTC+09:00
+|
+|-
+| Easter Island
+| align=right | {{ntsh|56000}}[[+56]]
+| UTC-06:00
+| UTC-05:00
+|-
+| Ecuador
+| align=right | {{ntsh|59300}}[[+593]]
+| UTC-06:00 to -05:00
+|
+|-
+| Egypt
+| align=right | {{ntsh|20000}}[[+20]]
+| UTC+02:00
+|
+|-
+| El Salvador
+| align=right | {{ntsh|50300}}[[+503]]
+| UTC-06:00
+|
+|-
+| Ellipso (Mobile Satellite service)
+| align=right | {{ntsh|88120}}[[+881|+881 2, +881 3]]
+|
+|
+|-
+| EMSAT (Mobile Satellite service)
+| align=right | {{ntsh|88213}}[[+882|+882 13]]
+|
+|
+|-
+| Equatorial Guinea
+| align=right | {{ntsh|24000}}[[+240]]
+| UTC+01:00
+| 
+|-
+| Eritrea
+| align=right | {{ntsh|29100}}[[+291]]
+| UTC+03:00
+|
+|-
+| Estonia
+| align=right | {{ntsh|37200}}[[+372]]
+| UTC+02:00
+| UTC+03:00
+|-
+| Ethiopia
+| align=right | {{ntsh|25100}}[[+251]]
+| UTC+03:00
+|
+|-
+| Falkland Islands
+| align=right | {{ntsh|50000}}[[+500]]
+| UTC-03:00
+|
+|-
+| Faroe Islands
+| align=right | {{ntsh|29800}}[[+298]]
+| UTC+00:00
+| UTC+01:00
+|-
+| Fiji
+| align=right | {{ntsh|67900}}[[+679]]
+| UTC+12:00
+| UTC+13:00
+|-
+| Finland
+| align=right | {{ntsh|35800}}[[+358]]
+| UTC+02:00
+| UTC+03:00
+|-
+| France
+| align=right | {{ntsh|33000}}[[+33]]
+| UTC+01:00
+| UTC+02:00
+|-
+| French Antilles
+| align=right | {{ntsh|59600}}[[+596]]
+|
+|
+|-
+| French Guiana
+| align=right | {{ntsh|59400}}[[+594]]
+| UTC-03:00
+|
+|-
+| French Polynesia
+| align=right | {{ntsh|68900}}[[+689]]
+| UTC-10:00 to -09:00
+|
+|-
+| Gabon
+| align=right | {{ntsh|24100}}[[+241]]
+| UTC+01:00
+|
+|-
+| Gambia
+| align=right | {{ntsh|22000}}[[+220]]
+| UTC+00:00
+|
+|-
+| Georgia
+| align=right | {{ntsh|99500}}[[+995]]
+| UTC+04:00
+|
+|-
+| Germany
+| align=right | {{ntsh|49000}}[[+49]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Ghana
+| align=right | {{ntsh|23300}}[[+233]]
+| UTC+00:00
+|
+|-
+| Gibraltar
+| align=right | {{ntsh|35000}}[[+350]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Global Mobile Satellite System (GMSS)
+| align=right | {{ntsh|88100}}[[+881]]
+|
+|
+|-
+| Globalstar (Mobile Satellite Service)
+| align=right | {{ntsh|88180}}[[+881|+881 8, +881 9]]
+|
+|
+|-
+| Greece
+| align=right | {{ntsh|30000}}[[+30]]
+| UTC+02:00
+| UTC+03:00
+|-
+| Greenland
+| align=right | {{ntsh|29900}}[[+299]]
+| UTC-04:00 to +00:00
+|
+|-
+| Grenada
+| align=right | {{ntsh|14730}}[[Area code 473|+1 473]]<ref name="NANP" group="notes" />
+| UTC-04:00
+|
+|-
+| Guadeloupe
+| align=right | {{ntsh|59000}}[[+590]]
+| UTC-04:00
+|
+|-
+| Guam
+| align=right | {{ntsh|16710}}[[Area code 671|+1 671]]<ref name="NANP" group="notes" />
+| UTC+10:00
+|
+|-
+| Guatemala
+| align=right | {{ntsh|50200}}[[+502]]
+| UTC-06:00
+|
+|-
+| Guernsey
+| align=right | {{ntsh|44000}}[[+44]]
+| UTC+01:00
+|
+|-
+| Guinea
+| align=right | {{ntsh|22400}}[[+224]]
+| UTC+00:00
+|
+|-
+| Guinea-Bissau
+| align=right | {{ntsh|24500}}[[+245]]
+| UTC+00:00
+|
+|-
+| Guyana
+| align=right | {{ntsh|59200}}[[+592]]
+| UTC-04:00
+|
+|-
+| Haiti
+| align=right | {{ntsh|50900}}[[+509]]
+| UTC-05:00
+| UTC-04:00
+|-
+| Honduras
+| align=right | {{ntsh|50400}}[[+504]]
+| UTC-06:00
+|
+|-
+| Hong Kong
+| align=right | {{ntsh|85200}}[[+852]]
+| UTC+08:00
+|
+|-
+| Hungary
+| align=right | {{ntsh|36000}}[[+36]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Iceland
+| align=right | {{ntsh|35400}}[[+354]]
+| UTC+00:00
+|
+|-
+| ICO Global (Mobile Satellite Service)
+| align=right | {{ntsh|88100}}[[+881|+881 0, +881 1]]
+|
+|
+|-
+| India
+| align=right | {{ntsh|91000}}[[+91]]
+| UTC+05:30
+|
+|-
+| Indonesia
+| align=right | {{ntsh|62000}}[[+62]]
+| UTC+07:00 to +09:00
+|
+|-
+| Inmarsat SNAC
+| align=right | {{ntsh|87000}}[[+870]]
+|
+|
+|-
+| International Freephone Service
+| align=right | {{ntsh|80000}}[[+800]]
+|
+|
+|-
+| International Shared Cost Service (ISCS)
+| align=right | {{ntsh|80800}}[[+808]]
+|
+|
+|-
+| Iran
+| align=right | {{ntsh|98000}}[[+98]]
+| UTC+03:30
+| UTC+04:30
+|-
+| Iraq
+| align=right | {{ntsh|96400}}[[+964]]
+| UTC+03:00
+|
+|-
+| Ireland
+| align=right | {{ntsh|35300}}[[+353]]
+| UTC+00:00
+| UTC+01:00
+|-
+| Iridium (Mobile Satellite service)
+| align=right | {{ntsh|88160}}[[+881|+881 6, +881 7]]
+|
+|
+|-
+| Isle of Man
+| align=right | {{ntsh|44000}}[[+44]]
+| UTC+00:00
+| UTC+01:00
+|-
+| Israel
+| align=right | {{ntsh|97200}}[[Telephone numbers in Israel|+972]]
+| UTC+02:00
+| UTC+03:00
+|-
+| Italy
+| align=right | {{ntsh|39000}}[[+39]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Jamaica
+| align=right | {{ntsh|18760}}[[Area code 876|+1 876]]<ref name="NANP" group="notes" />
+| UTC-05:00
+|
+|-
+| Jan Mayen
+| align=right | {{ntsh|47790}}[[Telephone numbers in Jan Mayen|+47 79]]
+|
+|
+|-
+| Japan
+| align=right | {{ntsh|81000}}[[+81]]
+| UTC+09:00
+|
+|-
+| Jersey
+| align=right | {{ntsh|44000}}[[+44]]
+| UTC+00:00
+| UTC+01:00
+|-
+| Jordan
+| align=right | {{ntsh|96200}}[[+962]]
+| UTC+02:00
+|
+|-
+| Kazakhstan
+| align=right | {{ntsh|76000}}[[+7 6]], [[+7 7]]<ref name="zone7" group="notes">Russia, Kazakhstan, and Abkhazia make up the Seventh World Numbering Zone. From August 2007, Kazakhstan changed all area codes to start with 7; however, 6 is also reserved for Kazakhstan. Digits 3, 4, and 5 are reserved for Russia. Abkhazia was assigned +7&nbsp;840 for landline and +7&nbsp;940 for mobile operators on 28 September 2009. Abkhazia will also continue using +995&nbsp;44. Other digits are reserved for Russia. Currently, there are no internationally accessible numbers starting with 0, 1, 2 or 5 – these are access codes and similar arrangements.</ref>
+| UTC+05:00 to +06:00
+|
+|-
+| Kenya
+| align=right | {{ntsh|25400}}[[+254]]
+| UTC+03:00
+|
+|-
+| Kiribati
+| align=right | {{ntsh|68600}}[[+686]]
+| UTC+12:00 to +14:00
+|
+|-
+| Korea, North
+| align=right | {{ntsh|85000}}[[+850]]
+| UTC+08:30
+|
+|-
+| Korea, South
+| align=right | {{ntsh|82000}}[[+82]]
+| UTC+09:00
+|
+|-
+| Kuwait
+| align=right | {{ntsh|96500}}[[+965]]
+| UTC+03:00
+|
+|-
+| Kyrgyzstan
+| align=right | {{ntsh|99600}}[[+996]]
+| UTC+05:00 to +06:00
+|
+|-
+| Laos
+| align=right | {{ntsh|85600}}[[+856]]
+| UTC+07:00
+|
+|-
+| Latvia
+| align=right | {{ntsh|37100}}[[+371]]
+| UTC+02:00
+| UTC+03:00
+|-
+| Lebanon
+| align=right | {{ntsh|96100}}[[+961]]
+| UTC+02:00
+| UTC+03:00
+|-
+| Lesotho
+| align=right | {{ntsh|26600}}[[+266]]
+| UTC+02:00
+|
+|-
+| Liberia
+| align=right | {{ntsh|23100}}[[+231]]
+| UTC+00:00
+|
+|-
+| Libya
+| align=right | {{ntsh|21800}}[[+218]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Liechtenstein
+| align=right | {{ntsh|42300}}[[+423]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Lithuania
+| align=right | {{ntsh|37000}}[[+370]]
+| UTC+02:00
+| UTC+03:00
+|-
+| Luxembourg
+| align=right | {{ntsh|35200}}[[+352]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Macau
+| align=right | {{ntsh|85300}}[[+853]]
+| UTC+08:00
+|
+|-
+| Macedonia
+| align=right | {{ntsh|38900}}[[+389]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Madagascar
+| align=right | {{ntsh|26100}}[[+261]]
+| UTC+03:00
+|
+|-
+| Malawi
+| align=right | {{ntsh|26500}}[[+265]]
+| UTC+02:00
+|
+|-
+| Malaysia
+| align=right | {{ntsh|60000}}[[+60]]
+| UTC+08:00
+|
+|-
+| Maldives
+| align=right | {{ntsh|96000}}[[+960]]
+| UTC+05:00
+|
+|-
+| Mali
+| align=right | {{ntsh|22300}}[[+223]]
+| UTC+00:00
+|
+|-
+| Malta
+| align=right | {{ntsh|35600}}[[+356]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Marshall Islands
+| align=right | {{ntsh|69200}}[[+692]]
+| UTC+12:00
+|
+|-
+| Martinique
+| align=right | {{ntsh|59600}}[[+596]]
+| UTC-04:00
+|
+|-
+| Mauritania
+| align=right | {{ntsh|22200}}[[+222]]
+| UTC+00:00
+|
+|-
+| Mauritius
+| align=right | {{ntsh|23000}}[[+230]]
+| UTC+04:00
+|
+|-
+| Mayotte
+| align=right | {{ntsh|26200}}[[+262]]
+| UTC+03:00
+|
+|-
+| Mexico
+| align=right | {{ntsh|52000}}[[+52]]
+| UTC-08:00 to -06:00
+| UTC-07:00 to -05:00
+|-
+| Micronesia, Federated States of
+| align=right | {{ntsh|69100}}[[+691]]
+| UTC+10:00 to +11:00
+|
+|-
+| Midway Island, USA
+| align=right | {{ntsh|18080}}[[Area code 808|+1 808]]<ref name="NANP" group="notes" />
+| UTC-11:00 
+|
+|-
+| Moldova
+| align=right | {{ntsh|37300}}[[+373]]
+| UTC+02:00
+| UTC+03:00
+|-
+| Monaco
+| align=right | {{ntsh|37700}}[[+377]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Mongolia
+| align=right | {{ntsh|97600}}[[+976]]
+| UTC+07:00 to +08:00
+|
+|-
+| Montenegro
+| align=right | {{ntsh|38200}}[[+382]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Montserrat
+| align=right | {{ntsh|16640}}[[Area code 664|+1 664]]<ref name="NANP" group="notes" />
+| UTC-04:00
+|
+|-
+| Morocco
+| align=right | {{ntsh|21200}}[[+212]]
+| UTC+00:00
+| UTC+01:00
+|-
+| Mozambique
+| align=right | {{ntsh|25800}}[[+258]]
+| UTC+02:00
+|
+|-
+| Myanmar
+| align=right | {{ntsh|95000}}[[+95]]
+| UTC+06:30
+|
+|-
+| Namibia
+| align=right | {{ntsh|26400}}[[+264]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Nauru
+| align=right | {{ntsh|67400}}[[+674]]
+| UTC+12:00
+|
+|-
+| Nepal
+| align=right | {{ntsh|97700}}[[+977]]
+| UTC+05:45
+|
+|-
+| Netherlands
+| align=right | {{ntsh|31000}}[[+31]]
+| [[Central European Time|CET]](UTC+01:00) / [[Atlantic Standard Time|AST]](UTC-04:00)
+| [[Central European Time|CET]](UTC+02:00) / [[Atlantic Standard Time|AST]](UTC-04:00)
+|-
+| Nevis
+| align=right | {{ntsh|18690}}[[Area code 869|+1 869]]<ref name="NANP" group="notes" />
+| UTC-04:00
+|
+|-
+| New Caledonia
+| align=right | {{ntsh|68700}}[[+687]]
+| UTC+11:00
+|
+|-
+| New Zealand
+| align=right | {{ntsh|64000}}[[+64]]
+| UTC+12:00
+| UTC+13:00
+|-
+| Nicaragua
+| align=right | {{ntsh|50500}}[[+505]]
+| UTC-06:00
+|
+|-
+| Niger
+| align=right | {{ntsh|22700}}[[+227]]
+| UTC+01:00
+|
+|-
+| Nigeria
+| align=right | {{ntsh|23400}}[[+234]]
+| UTC+01:00
+|
+|-
+| Niue
+| align=right | {{ntsh|68300}}[[+683]]
+| UTC-11:00
+|
+|-
+| Norfolk Island
+| align=right | {{ntsh|67200}}[[+672]]
+| UTC+11:00
+|
+|-
+| Northern Cyprus
+| align=right | {{ntsh|16700}}[[+90 392]]
+| UTC+02:00
+| UTC+03:00
+|-
+| Northern Mariana Islands
+| align=right | {{ntsh|16700}}[[Area code 670|+1 670]]<ref name="NANP" group="notes" />
+| UTC+10:00
+|
+|-
+| Norway
+| align=right | {{ntsh|47000}}[[+47]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Oman
+| align=right | {{ntsh|96800}}[[+968]]
+| UTC+04:00
+|
+|-
+| Pakistan
+| align=right | {{ntsh|92000}}[[+92]]
+| UTC+05:00
+| UTC+06:00
+|-
+| Palau
+| align=right | {{ntsh|68000}}[[+680]]
+| UTC+09:00
+|
+|-
+| Palestine, State of
+| align=right | {{ntsh|97000}}[[+970]]
+| UTC+02:00
+| UTC+03:00
+|-
+| Panama
+| align=right | {{ntsh|50700}}[[+507]]
+| UTC-05:00
+|
+|-
+| Papua New Guinea
+| align=right | {{ntsh|67500}}[[+675]]
+| UTC+10:00
+|
+|-
+| Paraguay
+| align=right | {{ntsh|59500}}[[+595]]
+| UTC-04:00
+| UTC-03:00
+|-
+| Peru
+| align=right | {{ntsh|51000}}[[+51]]
+| UTC-05:00
+|
+|-
+| Philippines
+| align=right | {{ntsh|63000}}[[+63]]
+| UTC+08:00
+|
+|-
+| Pitcairn Islands
+| align=right | {{ntsh|64000}}[[+64]]
+| UTC-08:00
+|
+|-
+| Poland
+| align=right | {{ntsh|48000}}[[+48]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Portugal
+| align=right | {{ntsh|35100}}[[+351]]
+| UTC+00:00
+| UTC+01:00
+|-
+| Puerto Rico
+| align=right | {{ntsh|17870}}[[Telephone numbers in Puerto Rico|+1 787]], {{ntsh|17870}}[[Telephone numbers in Puerto Rico|+1 939]]<ref name="NANP" group="notes" />
+| UTC-04:00
+|
+|-
+| Qatar
+| align=right | {{ntsh|97400}}[[+974]]
+| UTC+03:00
+|
+|-
+| Réunion
+| align=right | {{ntsh|26200}}[[+262]]
+| UTC+04:00
+|
+|-
+| Romania
+| align=right | {{ntsh|40000}}[[+40]]
+| UTC+02:00
+| UTC+03:00
+|-
+| Russia
+| align=right | {{ntsh|70000}}[[+7]]<ref name="zone7" group="notes" />
+| UTC+03:00 to +12:00
+|
+|-
+| Rwanda
+| align=right | {{ntsh|25000}}[[+250]]
+| UTC+02:00
+|
+|-
+| Saba
+| align=right | {{ntsh|59940}}[[Telephone numbers in Curaçao and the Caribbean Netherlands|+599 4]]
+| UTC-04:00
+|
+|-
+| Saint Barthélemy
+| align=right | {{ntsh|59000}}[[+590]]
+| UTC-04:00
+|
+|-
+| Saint Helena
+| align=right | {{ntsh|29000}}[[+290]]
+| UTC+00:00
+|
+|-
+| Saint Kitts and Nevis
+| align=right | {{ntsh|18690}}[[Area code 869|+1 869]]<ref name="NANP" group="notes" />
+| UTC-04:00
+|
+|-
+| Saint Lucia
+| align=right | {{ntsh|17580}}[[Area code 758|+1 758]]<ref name="NANP" group="notes" />
+| UTC-04:00
+|
+|-
+| Saint Martin (France)
+| align=right | {{ntsh|59000}}[[+590]]
+| UTC-04:00
+|
+|-
+| Saint Pierre and Miquelon
+| align=right | {{ntsh|50800}}[[+508]]
+| UTC-03:00
+| UTC-02:00
+|-
+| Saint Vincent and the Grenadines
+| align=right | {{ntsh|17840}}[[Area code 784|+1 784]]<ref name="NANP" group="notes" />
+| UTC-04:00
+|
+|-
+| Samoa
+| align=right | {{ntsh|68500}}[[+685]]
+| UTC+13:00
+| UTC+14:00
+|-
+| San Marino
+| align=right | {{ntsh|37800}}[[+378]]
+| UTC+01:00
+| UTC+02:00
+|-
+| São Tomé and Príncipe
+| align=right | {{ntsh|23900}}[[+239]]
+| UTC+00:00
+|
+|-
+| Saudi Arabia
+| align=right | {{ntsh|96600}}[[+966]]
+| UTC+03:00
+|
+|-
+| Senegal
+| align=right | {{ntsh|22100}}[[+221]]
+| UTC+00:00
+|
+|-
+| Serbia
+| align=right | {{ntsh|38100}}[[+381]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Seychelles
+| align=right | {{ntsh|24800}}[[+248]]
+| UTC+04:00
+|
+|-
+| Sierra Leone
+| align=right | {{ntsh|23200}}[[+232]]
+| UTC+00:00
+|
+|-
+| Singapore
+| align=right | {{ntsh|65000}}[[+65]]
+| UTC+08:00
+|
+|-
+| Sint Eustatius
+| align=right | {{ntsh|59930}}[[Telephone numbers in Curaçao and the Caribbean Netherlands|+599 3]]
+| UTC-04:00
+|
+|-
+| Sint Maarten (Netherlands)
+| align=right | {{ntsh|17210}}[[Area code 721|+1 721]]<ref name="NANP" group="notes" />
+| UTC-04:00
+|
+|-
+| Slovakia
+| align=right | {{ntsh|42100}}[[+421]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Slovenia
+| align=right | {{ntsh|38600}}[[+386]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Solomon Islands
+| align=right | {{ntsh|67700}}[[+677]]
+| UTC+11:00
+|
+|-
+| Somalia
+| align=right | {{ntsh|25200}}[[+252]]
+| UTC+03:00
+|
+|-
+| South Africa
+| align=right | {{ntsh|27000}}[[+27]]
+| UTC+02:00
+|
+|-
+| South Georgia and the South Sandwich Islands
+| align=right | {{ntsh|50000}}[[+500]]
+| UTC-02:00
+|
+|-
+| South Ossetia
+| align=right | {{ntsh|99534}}[[Telephone numbers in South Ossetia|+995 34]]
+| UTC+03:00
+|
+|-
+| South Sudan
+| align=right | {{ntsh|21100}}[[+211]]
+| UTC+03:00
+|
+|-
+| Spain
+| align=right | {{ntsh|34000}}[[+34]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Sri Lanka
+| align=right | {{ntsh|94000}}[[+94]]
+| UTC+05:30
+|
+|-
+| Sudan
+| align=right | {{ntsh|24900}}[[+249]]
+| UTC+03:00
+|
+|-
+| Suriname
+| align=right | {{ntsh|59700}}[[+597]]
+| UTC-03:00
+|
+|-
+| Svalbard
+| align=right | {{ntsh|47790}}[[Telephone numbers in Svalbard|+47 79]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Swaziland
+| align=right | {{ntsh|26800}}[[+268]]
+| UTC+02:00
+|
+|-
+| Sweden
+| align=right | {{ntsh|46000}}[[+46]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Switzerland
+| align=right | {{ntsh|41000}}[[+41]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Syria
+| align=right | {{ntsh|96300}}[[+963]]
+| UTC+02:00
+| UTC+03:00
+|-
+| Taiwan
+| align=right | {{ntsh|88600}}[[+886]]
+| UTC+08:00
+|
+|-
+| Tajikistan
+| align=right | {{ntsh|99200}}[[+992]]
+| UTC+05:00
+|
+|-
+| Tanzania
+| align=right | {{ntsh|25500}}[[+255]]
+| UTC+03:00
+|
+|-
+| Thailand
+| align=right | {{ntsh|66000}}[[+66]]
+| UTC+07:00
+|
+|-
+| Thuraya (Mobile Satellite service)
+| align=right | {{ntsh|88216}}[[+882|+882 16]]
+|
+|
+|-
+| Togo
+| align=right | {{ntsh|22800}}[[+228]]
+| UTC+00:00
+|
+|-
+| Tokelau
+| align=right | {{ntsh|69000}}[[+690]]
+| UTC+13:00
+|
+|-
+| Tonga
+| align=right | {{ntsh|67600}}[[+676]]
+| UTC+13:00
+|
+|-
+| Trinidad and Tobago
+| align=right | {{ntsh|18680}}[[Area code 868|+1 868]]<ref name="NANP" group="notes" />
+| UTC-04:00
+|
+|-
+| Tristan da Cunha
+| align=right | {{ntsh|29080}}[[+290 8]]
+| UTC+00:00
+|
+|-
+| Tunisia
+| align=right | {{ntsh|21600}}[[+216]]
+| UTC+01:00
+|
+|-
+| Turkey
+| align=right | {{ntsh|90000}}[[+90]]
+| UTC+02:00
+| UTC+03:00
+|-
+| Turkmenistan
+| align=right | {{ntsh|99300}}[[+993]]
+| UTC+05:00
+|
+|-
+| Turks and Caicos Islands
+| align=right | {{ntsh|16490}}[[Area code 649|+1 649]]<ref name="NANP" group="notes" />
+| UTC-05:00
+| UTC-04:00
+|-
+| Tuvalu
+| align=right | {{ntsh|68800}}[[+688]]
+| UTC+12:00
+|
+|-
+| Uganda
+| align=right | {{ntsh|25600}}[[+256]]
+| UTC+03:00
+|
+|-
+| Ukraine
+| align=right | {{ntsh|38000}}[[+380]]
+| UTC+02:00
+| UTC+03:00
+|-
+| United Arab Emirates
+| align=right | {{ntsh|97100}}[[+971]]
+| UTC+04:00
+|
+|-
+| United Kingdom
+| align=right | {{ntsh|44000}}[[Telephone numbers in the United Kingdom|+44]]
+| UTC+00:00
+| UTC+01:00
+|-
+| United States
+| align=right | {{ntsh|10000}}[[North American Numbering Plan|+1]]
+| UTC-10:00 to -05:00
+| UTC-10:00 to -04:00
+|-
+| Universal Personal Telecommunications (UPT)
+| align=right | {{ntsh|87800}}[[+878]]
+|
+|
+|-
+| Uruguay
+| align=right | {{ntsh|59800}}[[+598]]
+| UTC-03:00
+| No DST since June 2015
+|-
+| US Virgin Islands
+| align=right | {{ntsh|13400}}[[Area code 340|+1 340]]<ref name="NANP" group="notes" />
+| UTC-04:00
+|
+|-
+| Uzbekistan
+| align=right | {{ntsh|99800}}[[+998]]
+| UTC+05:00
+|
+|-
+| Vanuatu
+| align=right | {{ntsh|67800}}[[+678]]
+| UTC+11:00
+|
+|-
+| Venezuela
+| align=right | {{ntsh|58000}}[[+58]]
+| UTC-04:30
+|
+|-
+| Vatican City State (Holy See)
+| align=right | {{ntsh|39066}}[[Telephone numbers in Vatican City|+39 06 698]], assigned [[+379]]
+| UTC+01:00
+| UTC+02:00
+|-
+| Vietnam
+| align=right | {{ntsh|84000}}[[+84]]
+| UTC+07:00
+|
+|-
+| Wake Island, USA
+| align=right | {{ntsh|18080}}[[Area code 808|+1 808]]<ref name="NANP" group="notes" />
+| UTC+12:00
+|
+|-
+| Wallis and Futuna
+| align=right | {{ntsh|68100}}[[+681]]
+| UTC+12:00
+|
+|-
+| Yemen
+| align=right | {{ntsh|96700}}[[+967]]
+| UTC+03:00
+|
+|-
+| Zambia
+| align=right | {{ntsh|26000}}[[+260]]
+| UTC+02:00
+|
+|-
+| Zanzibar
+| align=right | {{ntsh|25500}}[[+255]]
+| UTC+03:00
+|
+|-
+| Zimbabwe
+| align=right | {{ntsh|26300}}[[+263]]
+| UTC+02:00
+|
+|}
+
+==Locations with no country code==
+In [[Telecommunications in Antarctica|Antarctica]], dialing is dependent on the parent country of each base:
+
+{| class="wikitable sortable"
+|- align="center" bgcolor="#cccccc"
+! Base || Calling Code || Country
+|-
+| [[Aboa (research station)|Aboa]] || +358 || {{flag|Finland}}
+|-
+| [[Almirante Brown Antarctic Base]] || +54 || {{flag|Argentina}}
+|-
+| [[Amundsen–Scott South Pole Station]] || +1 || {{flag|United States}}
+|-
+| [[Artigas Base]] || +598 || {{flag|Uruguay}}
+|-
+| [[Asuka Station (Antarctica)|Asuka Station]] || +81 || {{flag|Japan}}
+|-
+| [[Base Presidente Eduardo Frei Montalva]] and [[Villa Las Estrellas]] || +56 || {{flag|Chile}}
+|-
+| [[General Belgrano II|Belgrano II]] || +54 || {{flag|Argentina}}
+|-
+| [[Bellingshausen Station]] || +7 || {{flag|Russia}}
+|-
+| [[Base General Bernardo O'Higgins Riquelme|Bernardo O'Higgins Station]] || +56 || {{flag|Chile}}
+|-
+| [[Byrd Station]] || +1 || {{flag|United States}}
+|-
+| [[Captain Arturo Prat Base]] || +56 || {{flag|Chile}}
+|-
+| [[Casey Station]] || +672 || {{flag|Australia}}
+|-
+| [[Comandante Ferraz Brazilian Antarctic Base]] || +55 || {{flag|Brazil}}
+|-
+| [[Concordia Station]] || +39 <br/> +33 || {{flag|Italy}}<br/>{{flag|France}}
+|-
+| [[Davis Station]] || +672 || {{flag|Australia}}
+|-
+| [[Dome F|Dome Fuji Station]] || +81 || {{flag|Japan}}
+|-
+| [[Dumont d'Urville Station]] || +33 || {{flag|France}}
+|-
+| [[Esperanza Base]] || +54 || {{flag|Argentina}}
+|-
+| [[Gabriel de Castilla Spanish Antarctic Station]] || +34 || {{flag|Spain}}
+|-
+| [[Georg von Neumayer Station]] (Replaced by [[Neumayer Station]]) || +49 || {{flag|Germany}}
+|-
+| [[Gonzalez Videla Station]] || +56 || {{flag|Chile}}
+|-
+| [[Great Wall Station]] || +86 || {{flag|China}}
+|-
+| [[Halley Research Station]] || +44 || {{flag|United Kingdom}}
+|-
+| [[Henryk Arctowski Polish Antarctic Station]] || +48 || {{flag|Poland}}
+|-
+| [[Jinnah Antarctic Station]] || +92 || {{flag|Pakistan}}
+|-
+| [[Juan Carlos I Base]] || +34 || {{flag|Spain}}
+|-
+| [[Jubany]] || +54 || {{flag|Argentina}}
+|-
+| [[King Sejong Station]] || +82 || {{flag|South Korea}}
+|-
+| [[European Project for Ice Coring in Antarctica#Kohnen Station.2C Dronning Maud Land|Kohnen-Station]] || +49 || {{flag|Germany}}
+|-
+| [[Kunlun Station]] || +86 || {{flag|China}}
+|-
+| [[Law-Racoviţă Station]] || +40 || {{flag|Romania}}
+|-
+| [[Leningradskaya Station]] || +7 || {{flag|Russia}}
+|-
+| [[Machu Picchu Research Station]] || +51 || {{flag|Peru}}
+|-
+| [[Macquarie Island Station]] || +672 || {{flag|Australia}}
+|-
+| [[Maitri|Maitri Station]] || +91 || {{flag|India}}
+|-
+| [[Marambio Base]] || +54 || {{flag|Argentina}}
+|-
+| [[Zucchelli Station|Mario Zucchelli Station]] || +39 || {{flag|Italy}}
+|-
+| [[Mawson Station]] || +672 || {{flag|Australia}}
+|-
+| [[McMurdo Station]] || +1 || {{flag|United States}}
+|-
+| [[Mendel Polar Station]] || +420 || {{flag|Czech Republic}}
+|-
+| [[Mirny Station]] || +7 || {{flag|Russia}}
+|-
+| [[Mizuho Station (Antarctica)|Mizuho Station]] || +81 || {{flag|Japan}}
+|-
+| [[Molodyozhnaya Station (Antarctica)|Molodyozhnaya Station]] || +7 <br/> +375 || {{flag|Russia}}<br/>{{flag|Belarus}}
+|-
+| [[Neumayer Station]] || +49 || {{flag|Germany}}
+|-
+| [[Novolazarevskaya Station]] || +7 || {{flag|Russia}}
+|-
+| [[Orcadas Base]] || +54 || {{flag|Argentina}}
+|-
+| [[Palmer Station]] || +1 || {{flag|United States}}
+|-
+| [[Princess Elisabeth Base]] || +32 || {{flag|Belgium}}
+|-
+| [[Professor Julio Escudero Base]] || +56 || {{flag|Chile}}
+|-
+| [[Progress Station]] || +7 || {{flag|Russia}}
+|-
+| [[Rothera Research Station]] || +44 || {{flag|United Kingdom}}
+|-
+| [[Russkaya Station]] || +7 || {{flag|Russia}}
+|-
+| [[San Martín Station]] || +54 || {{flag|Argentina}}
+|-
+| [[SANAE IV]] ([[South Africa]]n National Antarctic Expeditions) || +27 || {{flag|South Africa}}
+|-
+| [[Signy Research Station]] || +44 || {{flag|United Kingdom}}
+|-
+| [[St. Kliment Ohridski Base]] || +359 || {{flag|Bulgaria}}
+|-
+| [[Scott Base]] || +64 || {{flag|New Zealand}}
+|-
+| [[Showa Station (Antarctica)|Showa Station]] || +81 || {{flag|Japan}}
+|-
+| [[Svea (research station)|Svea]] || +46 || {{flag|Sweden}}
+|-
+| [[Tor (research station)|Tor Station]] || +47 || {{flag|Norway}}
+|-
+| [[Troll (research station)|Troll Station]] || +47 || {{flag|Norway}}
+|-
+| Wasa Station || +46 || {{flag|Sweden}}
+|-
+| [[Vostok Station]] || +7 || {{flag|Russia}}
+|-
+| [[Vernadsky Research Base]] || +380 || {{flag|Ukraine}}
+|-
+| [[Sun Yat-Sen Station|Zhongshan (Sun Yat-Sen) Station]] || +86 || {{flag|China}}
+|-
+|}
+
+Other places with no calling codes:
+{| class="wikitable"
+|- align="center" bgcolor="#cccccc"
+! Location || Calling Code || Country || Reasons for no Code
+|-
+| [[Kerguelen Archipelago]] || +262 || {{flag|France}} || No permanent local switches
+|-
+| [[Pitcairn Islands]] || +64 || {{flag|Pitcairn Islands}} || No connections to local switching; there are only satellite phones on the island, replacing a single wired party line; a single [[Payphone|pay phone]] also exists
+|}
+
+==See also==
+*[[E.164]]
+*[[International Telecommunication Union]]
+*[[List of international call prefixes]]
+*[[International mobile phone codes]]
+*[[Telephone numbering plan]]
+*Group identifiers in [[ISBN]]s, a similar form of country code
+*[[Local conventions for writing telephone numbers]]
+
+==Notes==
+{{reflist|group="notes"}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Wikivoyage|List of country calling codes|Country calling codes}}
+* {{cite web | url=http://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.164D-11-2011-PDF-E.pdf | format=PDF | title=List of ITU-T Recommendation E.164 assigned country codes as of 1 November 2011 | publisher=[[ITU]]}}
+* {{cite web | url=http://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.164C-2011-PDF-E.pdf | format=PDF | title=List of ITU-T Recommendation E.164 Dialling Procedures as of 15 December 2011 | publisher=[[ITU]]}}
+* {{cite web | url=http://www.lincmad.com/world.html | title=Telephone and Internet Country Codes in 10 Languages | publisher=LincMad}}
+* {{cite web | url=http://www.wtng.info/ | title=World Telephone Numbering Guide | publisher=World Telephone Number Guide}}
+
+{{Telecommunications}}
+{{Use dmy dates|date=January 2011}}
+
+{{DEFAULTSORT:Country calling codes}}
+[[Category:Country codes]]
+[[Category:Telephone numbers]]
+[[Category:Communication-related lists]]
+[[Category:Telecommunications lists]]

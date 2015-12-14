@@ -1,0 +1,197 @@
+{{italic title}}
+{{Taxobox
+| name = ''Diprotodon''
+| fossil_range = [[Pleistocene]], {{fossil range|1.6|0.046}}
+| image = Diprotodon australis skeleton 1.JPG
+|image_width = 250px
+| image_caption = Mounted skeleton cast, Musee d'Histoire Naturelle, Paris
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| classis = [[Mammal]]ia
+| infraclassis = [[Marsupialia]]
+| ordo = [[Diprotodontia]]
+| subordo = [[Vombatiformes]]
+| familia = [[extinction|†]][[Diprotodontidae]]
+| genus = [[extinction|†]]'''''Diprotodon'''''
+| genus_authority = [[Richard Owen|Owen]], 1838
+| species = †'''''D. optatum'''''
+| binomial = ''Diprotodon optatum''
+| binomial_authority = Owen, 1838
+| synonyms = 
+*''D. australis'' Owen, 1844
+*''D. annextans'' McCoy, 1861
+*''D. bennettii'' Krefft, 1873
+*''D. loderi'' Krefft, 1873,
+*''D. longiceps'' McCoy, 1865
+*''D. minor'' Huxley, 1862
+}}
+
+'''''Diprotodon''''', meaning "two forward teeth",<ref name=BBC-diprotodon>{{cite web|title=Science & Nature: Animals: Diprotodon|url=http://www.bbc.co.uk/nature/wildfacts/factfiles/3040.shtml|work=Official website|publisher=[[BBC|British Broadcasting Corporation (BBC)]]|accessdate=24 February 2011|date=July 2008}}</ref> is the [[Largest mammals#Marsupials (Marsupialia)|largest]] known [[Marsupialia|marsupial]] ever to have lived. Along with many other members of a group of unusual species collectively called the "[[Australian megafauna]]", it existed from approximately 1.6 million years ago until extinction some 46,000 years ago<ref name = "New Ages">{{Cite journal
+  | last =  Roberts | first = R. G.  | authorlink = 
+  | coauthors = [[Tim Flannery|Flannery, T. F.]]; Ayliffe, L. K.; Yoshida, H.; Olley, J. M.; Prideaux, G. J.; Laslett, G. M.; Baynes, A.; Smith, M. A.; Jones, R.; Smith, B. L.
+  | title = New Ages for the Last Australian Megafauna: Continent-Wide Extinction About 46,000 Years Ago
+  | journal = [[Science (journal)|Science]] | volume = 292 | issue = 5523 | pages = 1888–1892
+  | publisher = | date = 8 June 2001 | url = http://www.uow.edu.au/content/groups/public/@web/@sci/@eesc/documents/doc/uow014698.pdf
+  | doi = 10.1126/science.1060264 | accessdate = 26 August 2011 | pmid=11397939|bibcode = 2001Sci...292.1888R }}</ref> (through most of the [[Pleistocene|Pleistocene epoch]]).
+
+''Diprotodon'' species [[fossil]]s have been found in sites across mainland [[Australia]], including complete skulls and [[skeleton]]s, as well as hair and foot impressions.<ref name=BBC-diprotodon/> Female skeletons have been found with babies located where the mother's pouch would have been.<ref name=BBC-diprotodon/> The largest specimens were [[hippopotamus]]-sized: about {{convert|3|m|ft}} from nose to tail, standing {{convert|2|m|ft}} tall at the shoulder and weighing about {{convert|2790|kg|lb}}.<ref name=smh>[http://news.nationalgeographic.com/news/2003/10/1016_031017_giantmarsupial.html Ice Age Marsupial Topped Three Tons, Scientists Say]. Retrieved 17 September 2003.</ref><ref name = "Wroe2003">{{Cite journal | doi = 10.1098/rsbl.2003.0095| title = The size of the largest marsupial and why it matters| journal = Proceedings of the Royal Society B: Biological Sciences| volume = 271| pages = S34-S36| date = 2003-09-18| last1 = Wroe | first1 = S.| last2 = Crowther | first2 = M.| last3 = Dortch | first3 = J.| last4 = Chong | first4 = J.| pmc = 1810005}}</ref>{{refn|group=n|The estimated mean body mass for the 17 adult specimens studied, calculated from the minimum mid-shaft circumferences of the femur and humerus, is 2,786 kg. The 95% [[confidence interval]] for this value ranges from 2,272 kg to 3,417 kg.<ref name = "Wroe2003"/>}} [[Quinkan rock art|Aboriginal rock art images in Quinkan traditional country]] (Queensland, Australia) have been claimed to depict diprotodonts.<ref name = "Day1987">{{cite news
+  | title = Science notebook - Australian rock painting
+  | work = [[The Day (New London)|The Day]]
+  | date = 4 April 1987
+  | url = http://news.google.com/newspapers?nid=1915&dat=19870404&id=F7UtAAAAIBAJ&sjid=6HEFAAAAIBAJ&pg=6529,1385171
+  | accessdate = 7 April 2014 }}</ref>
+They inhabited open [[forest]], [[woodland]]s, and [[grassland]]s, possibly staying close to water, and eating leaves, shrubs, and some grasses.
+
+The closest surviving relatives of ''Diprotodon'' are the [[wombat]]s and the [[koala]]. It is suggested that diprotodonts may have been an inspiration for the legends of the [[bunyip]], as some [[Indigenous Australians|Aboriginal]] tribes identify ''Diprotodon'' bones as those of "bunyips".<ref>{{cite book |last=Shuker |first=Karl P. N. |authorlink=Karl Shuker |editor= |others= |title=In search of prehistoric animals; Do giant extinct creatures still exist? |year=1995 |edition=1 |series= |publisher=Blanchford |location= |language= |isbn=0-7137-2469-2 |oclc= |doi= |id= |pages= |chapter=5 |chapterurl= |quote=As far back as 1924, Dr C.W. Anderson of the Australian Museum had suggested that stories of the ''bunyip'' could derive from aboriginal legends of the extinct diprotodonts&nbsp;— a view repeated much more recently in ''Kadimakara'' (1985) by Australian zoologists Drs. Tim Flannery and Michael Archer, who nominated the [[Palorchestidae|palorchestid]]s as plausible candidates.}}</ref>
+
+==Discovery==
+[[File:Guide to fossil mammals and birds (1896) Diprotodon australis.png|thumb|left|1896 comparison with a human]]
+The first recorded ''Diprotodon'' remains were discovered in a cave near [[Wellington, New South Wales|Wellington]] in [[New South Wales]] in the early 1830s by Major [[Thomas Mitchell (explorer)|Thomas Mitchell]] who sent them to England for study by [[Sir Richard Owen]]. In the 1840s [[Ludwig Leichhardt]] discovered many ''Diprotodon'' bones eroding from the banks of creeks in the [[Darling Downs]] of [[Queensland]] and when reporting the find to Owen commented that the remains were so well preserved he expected to find living examples in the then-unexplored central regions of Australia.
+
+The majority of fossil finds are of demographic groups indicative of diprotodonts dying in drought conditions. For example, hundreds of individuals were found in [[Lake Callabonna]] with well-preserved lower bodies but crushed and distorted heads.<ref name = Price2006/> It is theorised several family groups sank in mud while crossing the drying lake bed. Other finds consist of age groupings of young or old animals which are first to die during a drought.
+
+In 2012, a significant group of about 40 was found at [[Eulo, Queensland|Eulo]], South-West Queensland.<ref>[http://www.abc.net.au/news/2012-06-21/giant-marsupial-fossils-found-in-queensland/4083158 Giant marsupials' graveyard unearthed in Queensland]
+By Chrissy Arthur - Australian Broadcasting Corporation - Retrieved 21 July 2012.</ref>
+
+==Taxonomy==
+''Diprotodon'' was named by Owen (1838). It was assigned to Diprotodontidae by McKenna and Bell (1997). The historical classification of ''Diprotodon'' consisted of eight species (''Diprotodon optatum'' Owen, 1838; ''Diprotodon australis'' Owen, 1844; ''D. annextans'' McCoy, 1861; ''D. minor'' Huxley, 1862; ''D. longiceps'' McCoy 1865; ''D. loderi'' Krefft, 1873a; ''D. bennettii'' Krefft, 1873b (nec ''D. bennettii'' Owen, 1877); and ''D. bennettii'' Owen, 1877 (nec ''D. bennettii'' Krefft, 1873b); based on size or slight morphological differences of single specimens collected from isolated geographic regions.<ref name=Price2006/> Bimodal dental sizes, rather than a continuum of tooth sizes, and identical male and female dental morphology, indicate sexual dimorphism instead of separate species, thus providing strong evidence that the eight species are synonyms for ''D. optatum''.<ref name=Price2006/>
+
+==Description==
+[[Image:Diprotodon-Human Size comparison.svg|thumb|left|''Diprotodon'' compared to a human]]
+''Diprotodon'' superficially resembled a [[rhinoceros]] without a horn. Its feet turned inwards like a wombat’s, giving it a pigeon-toed appearance. It had strong claws on the front feet and its pouch opening faced backwards. Footprints of its feet have been found showing a covering of hair which indicates it had a coat similar to a modern wombat.
+
+Until recently it was unknown how many species of ''Diprotodon'' had existed. Eight species are described although many researchers believed these actually represented only three at most while some estimated there could be around twenty in total.
+
+==Paleobiology==
+[[File:Diprotodon11122.jpg|thumb|Restoration]]
+Recent research compared the variation between all of the described ''Diprotodon'' species with the variation in one of Australia’s largest living marsupials, the [[Eastern Grey Kangaroo]], and found the range was comparable, with a near continent-wide distribution.<ref name=Price2006>{{cite journal|last = Price|first= G. J.|date=August 2006|title=Taxonomy and palaeobiology of the largest-ever marsupial, ''Diprotodon'' Owen, 1838 (Diprotodontidae, Marsupialia)|journal=Zoological Journal of the Linnean Society|volume=153| pages =369–397|doi = 10.1111/j.1096-3642.2008.00387.x|issue = 2}}</ref> This left only two possible ''Diprotodon'' species differing only in size with the smaller being around half the size of the larger. According to [[Georgii Gause|Gause]]’s "[[competitive exclusion principle]]" no two species with identical ecological requirements can coexist in a stable environment. However, both the small and large diprotodonts coexisted throughout the Pleistocene and the size difference is similar to other [[Sexual dimorphism|sexually dimorphic]] living marsupials. Further evidence is the battle damage common in competing males found on the larger specimens but absent from the smaller. Dental morphology also supports sexual dimorphism, with highly sexually dimorphic marsupials, such as the grey kangaroo, having different tooth sizes between males and females, but both sexes having the same dental morphology. An identical dental morphology occurs in the large and small ''Diprotodon''.<ref name=Price2006/> The taxonomic implication is that Owen’s original ''Diprotodon optatum'' is the only valid species.
+
+A single sexually dimorphic species allows behavioural interpretations. All sexually dimorphic species of over {{convert|5|kg}} exhibit a [[Polygyny|polygynous]] breeding strategy. A modern example of this is the gender segregation of [[elephant]]s where females and the young form family groups while lone males fight for the right to mate with all the females of the group. This behaviour is consistent with fossil finds where adult/juvenile fossil assemblages usually contain only female adult remains.<ref>[http://www.cosmosmagazine.com/news/2042/sex-secrets-prehistoric-marsupial-uncovered Sex secrets of a prehistoric marsupial] ''[[Cosmos Magazine]]'' 11 June 2008</ref><ref>''[[Australian Science Magazine]]'' June 2008 Pleistocene Goliath; Gilbert Price</ref>
+
+==Extinction==
+Most modern researchers including Richard Roberts and [[Tim Flannery]] argue that diprotodonts, along with a wide range of other Australian [[megafauna]], became extinct shortly after humans arrived in Australia about 50,000 years ago.<ref name = "New Ages"/>
+
+Some older researchers including Richard Wright argue on the contrary that diprotodont remains from several sites, such as [[Tambar Springs]]<ref>{{cite book |author=Richard Wright |year=1986 |title= New light on the extinction of the Australian magafauna }}</ref> and Trinkey and Lime Springs<ref>{{cite book |author=James Cohen |year=1995 |title= Aboriginal environmental impacts }}</ref><ref>{{cite book |title= Sunda and Sahul: Prehistoric Studies in Southeast Asia, Melanesia and Australia |authors=J.Allen, J.Golson, R.Jones|year=1977 |publisher= Academic Press |series= |location=London |pages=205–246}}</ref> suggest that ''Diprotodon'' survived much longer, into the [[Holocene]]. Other more recent researchers, including Lesley Head and Judith Field, favour an extinction date of 28,000 - 30,000 years ago, which would mean that humans coexisted with ''Diprotodon'' for some 20,000 years.<ref>{{cite web|url=http://www.abc.net.au/science/future/theses/theses1.htm |title=Future Eaters Ep.1 - Taming the fire -The thesis and responses from critics |publisher=Abc.net.au |accessdate=2014-07-25}}</ref> However, opponents of "late extinction" theories have interpreted such late dates based on indirect dating methods as [[Artifact (error)|artifact]]s resulting from [[Deposition (geology)|redeposition]] of skeletal material into more recent [[strata]],<ref name = "New Ages"/><ref name = "Eaters">{{cite book
+  | last = Flannery | first = Tim | authorlink = Tim Flannery
+  | title = The future eaters: an ecological history of the Australasian lands and people
+  | publisher = [[Grove/Atlantic, Inc.]]
+  | date = 16 October 2002
+  | location = New York
+  | url = http://google.com/books?id=eIW5aktgo0IC&printsec=frontcover
+  | isbn = 0-8021-3943-4 | oclc = 32745413}}</ref> and recent direct dating results obtained with new technologies have tended to confirm this interpretation.<ref name = "CJones">{{cite web
+  | last = Jones | first = C.  | authorlink = 
+  | title = Early humans wiped out Australia's giants
+  | work = [http://www.nature.com/news/index.html Nature News web site]
+  | publisher = [[Nature Publishing Group]]
+  | date = 23 January 2010
+  | url = http://www.nature.com/news/2010/100123/full/news.2010.30.html
+  | doi = 10.1038/news.2010.30
+  | accessdate = 7 November 2011}}</ref><ref name = "Grün">{{cite journal
+  | last = Grün | first = R.  | authorlink = 
+  |author2=Eggins, S. |author3=Aubert, M. |author4=Spooner, N. |author5=Pike, A. W. G. |author6= Müller, W.
+  | title = ESR and U-series analyses of faunal material from Cuddie Springs, NSW, Australia: implications for the timing of the extinction of the Australian megafauna
+  | journal = Quaternary Science Reviews
+  | volume = 29 | issue = 5-6 | pages = 596–610
+  | publisher =  | location =  | date = 1 March 2010 | language = 
+  | url = http://www.sciencedirect.com/science/article/pii/S0277379109003679
+  | doi = 10.1016/j.quascirev.2009.11.004
+  | accessdate = 7 November 2011|bibcode = 2010QSRv...29..596G }}</ref>
+
+Three theories have been advanced to explain the mass extinction.
+
+===Climate change===
+[[File:Diprotodon skull, jjron, 29.11.2010.jpg|thumb|''Diprotodon'' skull, clearly showing the large front teeth for which the genus is named and the [[dentition]] adapted for [[Browsing (predation)|browsing]]]]
+Australia has undergone a very long process of gradual aridification since it split off from [[Gondwanaland]] about 40 million years ago. From time to time the process reversed for a period, but overall the trend has been strongly toward lower rainfall. The [[Quaternary glaciation|recent ice age]]s produced no significant glaciation in mainland Australia but long periods of cold and very dry weather. This dry weather during the last ice age may have killed off all the large diprotodonts.
+
+Critics point out a number of problems with this theory. First, large diprotodonts had already survived a long series of similar ice ages, and there does not seem to be any particular reason the most recent one should have achieved what all the previous ice ages had failed to do. Also, climate change apparently peaked 25,000 years ''after'' the extinctions. Finally, even during climatic extremes, some parts of the continent always remain relatively exempt: for example, the tropical north stays fairly warm and wet in all climatic circumstances; alpine valleys are less affected by drought, and so on.
+
+===Human hunting===
+The "[[Quaternary extinction event#Hunting hypothesis|blitzkrieg theory]]" is that human hunters killed and ate the diprotodonts, causing their extinction.  The extinctions appear to have coincided with the arrival of humans on the continent, and in broad terms, ''Diprotodon'' was the largest and least well-defended species that died out. Similar hunting-out happened with the [[megafauna]] of [[List of extinct New Zealand animals|New Zealand]], [[Fauna of Madagascar#Malagasy fauna (extinct)|Madagascar]] and many smaller islands around the world (such as [[Biodiversity of New Caledonia#Faunal Biodiversity|New Caledonia]], [[Prehistoric Cyprus#Epipalaeolithic|Cyprus]], [[Prehistoric Crete|Crete]] and [[Wrangel Island#Prehistory|Wrangel Island]]), and at least in part, in the [[Americas]]—probably within a thousand years or so. Recent finds of ''Diprotodon'' bones which appear to display butchering marks lend support to this theory. Critics of this theory regard it as simplistic, arguing that (unlike New Zealand and America) there is little direct evidence of hunting, and that the dates on which the theory rests are too uncertain to be relied on. However, the high-resolution chronology of the changes supports the hypothesis that human hunting alone eliminated the megafauna.<ref name = "Biello">{{cite web
+ | last = Biello | first = D. | authorlink =
+ | title = Big Kill, Not Big Chill, Finished Off Giant Kangaroos
+ | work = [http://www.scientificamerican.com/section.cfm?id=news Scientific American news]
+ | publisher = | date = 2012-03-22
+ | url = http://www.scientificamerican.com/article.cfm?id=hunters-killed-off-big-animals-australia
+ | accessdate = 2012-03-25}}</ref><ref name = "McGlone">{{cite journal
+ | last = McGlone | first = M.  | authorlink =
+ | title = The Hunters Did It
+ | journal = [[Science (journal)|Science]]
+ | volume = 335 | issue = 6075 | pages = 1452–1453
+ | publisher = | location = | date = 2012-03-23 | language =
+ | url = http://www.sciencemag.org/content/335/6075/1452.summary
+ | doi = 10.1126/science.1220176 | id =
+ | accessdate = 2012-03-25|bibcode = 2012Sci...335.1452M }}</ref><ref name = "Rule">{{cite journal
+ | last = Rule | first = S. | authorlink = |author2=Brook, B. W. |author3=Haberle, S. G. |author4=Turney, C. S. M. |author5=Kershaw, A. P.
+ | title = The Aftermath of Megafaunal Extinction: Ecosystem Transformation in Pleistocene Australia
+ | journal = [[Science (journal)|Science]]
+ | volume = 335 | issue = 6075 | pages = 1483–1486
+ | publisher = | location = | date = 2012-03-23 | language =
+ | url = http://www.sciencemag.org/content/335/6075/1483.abstract
+ | doi = 10.1126/science.1214261
+ | id = | accessdate = 2012-03-25|bibcode = 2012Sci...335.1483R }}</ref>
+
+===Human land management===
+[[File:Diprotodon BW2.jpg|thumb|''Diprotodon'' in environment]]
+The third theory says that humans indirectly caused the extinction of diprotodonts, by destroying the [[ecosystem]] on which they depended. In particular, early Aborigines are thought to have been [[Fire-stick farming|fire-stick farmers]] using fire regularly and persistently to drive game, open up dense thickets of vegetation, and create fresh green regrowth for both humans and game animals to eat. Evidence for the fire hypothesis is the sudden increase in widespread ash deposits at the time that people arrived in Australia, as well as land-management and hunting practices of modern [[Australian Aborigine|Aboriginal]] people as recorded by the earliest European settlers before Aboriginal society was devastated by European contact and [[disease]]. Evidence against the hypothesis is the fact that humans appear to have eliminated the megafauna of [[Tasmania]] without using fire to modify the environment there.<ref name = "Diamond">{{Cite journal
+  | last = Diamond | first = Jared  | authorlink = Jared Diamond
+  | title = Palaeontology: The last giant kangaroo
+  | journal = [[Nature (journal)|Nature]] | volume = 454 | issue =  7206| pages = 835–836
+  | publisher =  | location =  | date = 13 August 2008 | language = 
+  | url = http://www.nature.com/nature/journal/v454/n7206/full/454835a.html
+  | doi = 10.1038/454835a | accessdate = 8 May 2011 | pmid=18704074|bibcode = 2008Natur.454..835D }}</ref><ref name = "Turney">{{Cite journal
+  | last = Turney | first = C. S. M. | authorlink = 
+  | coauthors = [[Tim Flannery|Flannery, T. F.]]; Roberts, R. G.; et al.
+  | title = Late-surviving megafauna in Tasmania, Australia, implicate human involvement in their extinction
+  | journal = [[Proceedings of the National Academy of Sciences|PNAS]] | volume = 105 | issue = 34 | pages = 12150–12153
+  | publisher = [[United States National Academy of Sciences|NAS]] | location =  | date = 21 August 2008 | language = 
+  | url = http://www.pnas.org/content/early/2008/08/20/0801360105.abstract
+  | doi = 10.1073/pnas.0801360105 | accessdate = 8 May 2011 | pmid=18719103 | pmc=2527880|bibcode = 2008PNAS..10512150T }}</ref><ref name = "Lost Giants">{{Cite journal
+  | last = Roberts | first = R.  | authorlink =  |author2=Jacobs, Z.
+  | title = The Lost Giants of Tasmania | journal = [[Australasian Science]]
+  | volume = 29 | issue = 9 | pages = 14–17
+  | publisher =  | location =  | date = October 2008 | language = 
+  | url = http://www.control.com.au/bi2008/299megafauna.pdf
+  | accessdate = 26 August 2011}}</ref>
+
+===Multiple causes===
+[[File:Thylacoleo vs Diprotodon.jpg|thumb|left|Restoration of ''[[Thylacoleo]]'' attacking ''Diprotodon'']]
+The above hypotheses are not necessarily mutually exclusive. Each of proposed mechanisms can potentially support the other two. For example, while burning an area of fairly thick forest and thus turning it into a more open, grassy environment might reduce the viability of a large browser (an animal that eats leaves and shoots rather than grasses), the reverse could also be true: removing the browsing animals (by eating them, or by any other means) within a few years produces a very thick undergrowth which, when a fire eventually starts through natural causes (as fires tend to do every few hundred years), burns with greater than usual ferocity. The burnt-out area is then repopulated with a greater proportion of fire-loving plant species (notably [[eucalypt]]s, some [[acacia]]s, and most of the native grasses) which are unsuitable habitat for most browsing animals. Either way, the trend is toward the modern Australian environment of highly flammable open [[sclerophyllous]] forests, woodlands and grasslands, none of which are suitable for large, slow-moving browsing animals—and either way, the changed microclimate produces substantially less rainfall.
+
+An examination of swamp sediment cores spanning the last 130,000 years from [[Lynch's Crater]] in [[Queensland]] suggests that hunting may have been the primary cause of the extinction. Analysis of ''[[Sporormiella]]'' fungal spores (which derive mainly from the dung of megaherbivores) in the cores shows that the megafauna of that region virtually disappeared about 41,000 years ago, at a time when climate changes were minimal; the change was accompanied by an increase in charcoal, and was followed by a transition from rainforest to fire-tolerant [[sclerophyll]] vegetation.<ref name = "Biello"/><ref name = "McGlone"/><ref name = "Rule"/> The high-resolution chronology of the changes indicates that fire increased about a century after the disappearance of browsing megafauna, probably due to accumulation of fuel. Grass increased over the next several centuries; sclerophyll vegetation increased following a lag of another century, and a sclerophyll forest developed about a thousand years later.<ref name = "Rule"/> Earlier increases in sclerophyll vegetation during shifts to cooler, drier conditions about 120,000 and 75,000 years ago did not have any obvious impact on megafaunal abundance.<ref name = "Rule"/>
+
+==See also==
+{{Portal|Extinct and Endangered Species|Paleontology|Prehistoric mammals}}
+*[[Australian megafauna]]
+{{-}}
+
+==Notes==
+{{reflist|group=n}}
+
+==References==<!-- ZoolJLinnSoc153:369. -->
+{{Reflist|2}}
+
+==External links==
+{{Commons category|Diprotodon}}
+{{Wikispecies|Diprotodon}}
+*[http://australianmuseum.net.au/Australias-extinct-animals Australia's lost kingdom on ''Diprotodon optatum'']
+*[http://www.bbc.co.uk/nature/wildfacts/factfiles/3040.shtml BBC science and nature on ''Diprotodon optatum'']
+*[http://www.goyder.sa.gov.au/site/page.cfm?u=301 Regional Council of Goyder page on the genera]
+*[http://museumvictoria.com.au/prehistoric/mammals/diprotodontids.html Museum Victoria on the Diprotodontids]
+*[http://museumvictoria.com.au/treasures/colldetails.aspx?pid=66 Museum Victoria view of a ''Diprotodon'' skull]
+*[http://www.samuseum.sa.gov.au/lop/diprotodon.pdf South Australian Museum information]
+*[http://www.abc.net.au/news/newsitems/200505/s1379450.htm Description of Price's research]
+
+==Further reading==
+* Danielle Clode (2009) Prehistoric giants: the megafauna of Australia. Museum Victoria.
+* Barry Cox, Colin Harrison, R.J.G. Savage, and Brian Gardiner. (1999): ''The Simon & Schuster Encyclopedia of Dinosaurs and Prehistoric Creatures: A Visual Who's Who of Prehistoric Life''. Simon & Schuster.
+* Jayne Parsons.(2001): ''Dinosaur Encyclopedia''. Dorling Kindersley.
+* David Norman. (2001): ''The Big Book Of Dinosaurs''. Welcome Books.
+* Gilbert Price. (2005): Article in ''Memoirs of the Queensland Museum''. Queensland Museum.
+* http://www.eaudrey.com/myth/bunyip.htm on bunyip theories
+
+[[Category:Prehistoric vombatiforms]]
+[[Category:Pleistocene marsupials]]
+[[Category:Pleistocene mammals of Australia]]
+[[Category:Megafauna of Australia]]
+[[Category:Mammal genera]]
+[[Category:Fossil taxa described in 1838]]

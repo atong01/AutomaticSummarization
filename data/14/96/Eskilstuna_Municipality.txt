@@ -1,0 +1,121 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Eskilstuna kommun
+| native_name             = <!-- If different from name -->
+| native_name_lang        = sv<!-- ISO 639-2 code, e.g. "sv" for Swedish. -->
+| settlement_type         = [[Municipalities of Sweden|Municipality]]
+| image_skyline           = 
+| image_alt               = 
+| image_caption           = 
+| image_seal              = 
+| seal_alt                = 
+| image_shield            = eskilstuna vapen.svg
+| shield_alt              = 
+| image_map               = Eskilstuna Municipality in Södermanland County.png
+| map_alt                 = 
+| map_caption             = 
+| pushpin_map             = <!-- Sweden -->
+| pushpin_label_position  = 
+| pushpin_map_alt         = 
+| pushpin_map_caption     = 
+| latd  = |latm  = |lats  = |latNS  = 
+| longd = |longm = |longs = |longEW = 
+| coor_pinpoint           = 
+| coordinates_type        = type:adm2nd_region:SE
+| coordinates_display     = inline,title
+| coordinates_footnotes   = 
+| subdivision_type        = [[List of sovereign states|Country]]
+| subdivision_name        = Sweden
+| subdivision_type1       = [[Counties of Sweden|County]]
+| subdivision_name1       = [[Södermanland County]]
+| established_title       = <!-- Established -->
+| established_date        = 
+| seat_type               = [[Administrative centre|Seat]]
+| seat                    = [[Eskilstuna]]
+| government_footnotes    = 
+| leader_party            = 
+| leader_title            = 
+| leader_name             = 
+| unit_pref               = Metric<!-- or US or UK -->
+| area_footnotes          = {{Area Swedish municipality|TXT=ref}}
+| area_total_km2          = {{Area Swedish municipality|type=total|municipality=Eskilstuna Municipality}}
+| area_land_km2           = {{Area Swedish municipality|type=land|municipality=Eskilstuna Municipality}}
+| area_water_km2          = {{Area Swedish municipality|type=water|municipality=Eskilstuna Municipality}}
+| area_water_percent      = 
+| area_note               = Area as of {{Area Swedish municipality|TXT=date}}.
+| elevation_footnotes     = 
+| elevation_m             = 
+| population_footnotes    = {{Population Swedish municipality|TXT=ref}}
+| population_total        = {{Population Swedish municipality|municipality=Eskilstuna Municipality}}
+| population_as_of        = {{Population Swedish municipality|TXT=date}}
+| population_density_km2  = auto
+| population_note         = 
+| timezone1               = [[Central European Time|CET]]
+| utc_offset1             = +1
+| timezone1_DST           = [[Central European Summer Time|CEST]]
+| utc_offset1_DST         = +2
+| blank_name_sec1         = [[Provinces of Sweden|Province]]
+| blank_info_sec1         = [[Södermanland]]
+| blank1_name_sec1        = [[Kommunkod|Municipal code]]
+| blank1_info_sec1        = 0484
+| postal_code_type        = 
+| postal_code             = 
+| area_code_type          = 
+| area_code               = 
+| iso_code                = [[ISO 3166-2:SE|SE<!--??-->]]
+| website                 = [http://www.eskilstuna.se www.eskilstuna.se]<!-- {{URL|example.com}} -->
+| footnotes               = Density is calculated using land area only.
+}}
+
+'''Eskilstuna Municipality''' (''Eskilstuna kommun'') is a [[municipalities of Sweden|municipality]] in [[Södermanland County]] in southeast [[Sweden]], between the [[lake]]s [[Mälaren]] and [[Hjälmaren]]. Its seat is located in the [[city status in Sweden|city]] of [[Eskilstuna]].
+
+The present municipality was formed in 1971 when the ''City of Eskilstuna'', the ''City of [[Torshälla]]'' and five rural municipalities were amalgamated.
+
+==Localities==
+*[[Alberga, Sweden|Alberga]]
+*[[Borsökna]]
+*[[Bälgviken]]
+*[[Eskilstuna]] (seat)
+*[[Hållsta]]
+*[[Hällberga]]
+*[[Hällbybrunn]]
+*[[Kjulaås]]
+*[[Mesta, Sweden|Mesta]]
+*[[Kvicksund]] (partly in [[Västerås Municipality]])
+*[[Skogstorp, Eskilstuna Municipality|Skogstorp]]
+*[[Torshälla]]
+*[[Tumbo]]
+*[[Ärla]]
+
+==Twin towns - Sister cities==
+{{See also|List of twin towns and sister cities in Sweden}}
+Eskilstuna is [[Town twinning|twinned]] with:<ref>[http://www.eskilstuna.se/sv/Kommun-och-politik/Internationellt/Vanorter/ Eskilstuna kommun - Internationellt - Vänorter<!-- Bot generated title -->]</ref>
+
+*{{flagicon|USA}} [[Bridgeton, New Jersey]], United States
+*{{flagicon|GER}} [[Erlangen]], Germany
+*{{flagicon|DEN}} [[Esbjerg]], Denmark
+*{{flagicon|ISL}} [[Neskaupstaður|Fjarðabyggð]], Iceland
+*{{flagicon|RUS}} [[Gatchina]], Russia
+*{{flagicon|EST}} [[Haapsalu]], Estonia
+*{{flagicon|LVA}} [[Jūrmala]], Latvia<ref>{{cite web|title=Sadraudzības pilsētas|url=http://www.jurmala.lv/page/21|work=jurmala.lv|accessdate=26 April 2014}} {{link language|lv}} {{link language|en}}</ref>
+*{{flagicon|FIN}} [[Jyväskylä]], Finland
+*{{flagicon|PRC}} [[Linyi]], China
+*{{flagicon|UK}} [[Luton]], United Kingdom
+*{{flagicon|UKR}} [[Lviv]], Ukraine
+*{{flagicon|IND}} [[Mysore]], India
+*{{flagicon|NOR}} [[Stavanger]], Norway
+*{{flagicon|TAN}} [[Usangi]], Tanzania
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.eskilstuna.se Eskilstuna Municipality] - Official site
+
+{{Södermanland County}}
+{{Localities in Eskilstuna Municipality}}
+
+{{coord|59|22|N|16|31|E|region:SE_type:adm2nd|display=title}}
+
+[[Category:Municipalities of Sweden]]
+[[Category:Municipalities of Södermanland County]]

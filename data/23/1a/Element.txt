@@ -1,0 +1,90 @@
+{{wiktionary|element}}
+'''Element''' or '''elements''' may refer to:
+{{TOC right}}
+
+== Arts ==
+
+===Film===
+* [[Elements trilogy]], three films by Indian film-maker Deepa Mehta
+
+===Literature===
+* [[Lower Elements]], a fictional underground city in the Artemis Fowl world, created by Eoin Colfer
+
+===Magazines===
+* ''[[Element Magazine]]'', a men's lifestyle and fashion digital magazine published in Singapore since 2013
+* ''[[Elements: An International Magazine of Mineralogy, Geochemistry, and Petrology]]''
+
+===Music===
+* [[Element (production team)]], a Norwegian production and songwriting team
+* [[Elements (Atheist album)|''Elements'' (Atheist album)]]
+* [[Elements (band)]], 1980s–90s American jazz ensemble
+* [[Elements (Ludovico Einaudi album)|''Elements'' (Ludovico Einaudi album)]], 2015
+* [[Elements (Roger Glover album)|''Elements'' (Roger Glover album)]], 1978
+* [[Elements (Steve Howe album)|''Elements'' (Steve Howe album)]]
+* ''[[Elements, Pt. 1]]'', a 2003 album by Stratovarius
+* ''[[Elements, Pt. 2]]'', a 2003 album by Stratovarius
+* [[The Elements (Second Person album)|''The Elements'' (Second Person album)]], 2007
+* [[The Elements (Joe Henderson album)|''The Elements'' (Joe Henderson album)]], 1973
+* "[[The Elements: Fire]]", a 1966 song by The Beach Boys
+* [[The Elements (song)|"The Elements" (song)]], by Tom Lehrer
+* ''[[Elements – The Best of Mike Oldfield]]'', single CD edition
+* [[Elements – The Best of Mike Oldfield (video)|''Elements – The Best of Mike Oldfield'' (video)]], video/DVD edition
+* ''[[Elements Box]]'', by Mike Oldfield, four CD edition
+
+==Automobiles==
+* [[Honda Element]], a car
+
+== Business ==
+* [[Elements (League of Legends)]], ''League of Legends'' team competing in the European League of Legends Championship Series
+* [[Element by Westin]], a brand of Starwood Hotels and Resorts Worldwide
+* [[Element Skateboards]], a skateboard manufacturer
+
+== Chemistry and science ==
+* [[Chemical element]], a pure substance consisting of one type of atom
+* DNA element, a functional region of DNA, including [[gene]]s and [[cis-regulatory element]]s
+* [[Electrical element]], an abstract part of a circuit
+* [[Heating element]], a device that generates heat by electrical resistance
+* [[Orbital elements]], the parameters required to uniquely identify a specific orbit of one body around another
+* [[Weather]], sometimes referred to as "the elements"
+
+== Computing ==
+* [[Element (UML)]], part of the Unified Modeling Language superstructure
+* [[Adobe Photoshop Elements]], a bitmap graphics program
+* [[Adobe Premiere Elements]], a video editing computer program
+* [[Data element]], a unit of data
+* [[HTML element]], a standard part of a HTML document
+* [[Markup element]], a part of a document markup language
+
+== Law ==
+* [[Element (criminal law)]], a basic set of common law principles regarding criminal liability
+
+== Mathematics ==
+* [[Element (category theory)]]
+* [[Element (mathematics)]], one of the constituents of a set
+* [[Euclid's Elements|Euclid's ''Elements'']], the mathematical treatise on geometry and number theory
+
+== Philosophy ==
+* [[Classical element]]s, the ancient belief about the fundamental types of matter (usually four in number), expressed in their Aristotelian forms as fire, earth, air, and water
+* [[Five elements (Japanese philosophy)]], the basis of the universe according to Japanese philosophy
+* [[Mahābhūta]], the four ''great elements'' in Buddhism, five in Hinduism
+* [[Tattva]], the basis of the universe according to Hindu Samkhya philosophy
+* [[Wu Xing]], sometimes translated as ''five elements'', the basis of the universe according to Chinese Taoism
+
+== Places ==
+* [[Elements, Hong Kong]], a shopping mall in Hong Kong
+* [[Element (Tampa)]], a skyscraper in Tampa, Florida, US
+* [[Elements (restaurant)]], a New American restaurant located in Princeton, New Jersey
+
+==Gaming and Toys==
+* Element EX-6, a 2008 [[Nerf blaster]] released under the [[N-Strike|N-Strike series]]
+
+== See also ==
+* All pages beginning with "[[Special:Prefixindex/Element|Element]]" and  "[[Special:Prefixindex/Elements|Elements]]"
+* All pages with titles containing "{{In title|Element|Element}}" and "{{In title|Elements|Elements}}"
+* [[Elemental (disambiguation)]]
+* [[Elementary (disambiguation)]]
+* [[Four elements (disambiguation)]]
+* [[Five elements (disambiguation)]]
+* [[Fifth Element (disambiguation)]]
+
+{{Disambiguation}}

@@ -1,0 +1,109 @@
+{{about|a language developed at Bell Labs|"B" language of Meertens and Pemberton|ABC (programming language)|other uses|B (disambiguation)}}
+{{Infobox programming language
+| name                   = B
+| logo                   =
+| caption                =
+| paradigm               =
+| year                   = {{start date and age|1969}}<ref>http://www.britannica.com/EBchecked/topic/1663863/B</ref>
+| designer               = [[Ken Thompson (computer programmer)|Ken Thompson]]
+| developer              = [[Ken Thompson (computer programmer)|Ken Thompson]], [[Dennis Ritchie]]
+| latest_release_version =
+| latest_release_date    =
+| latest_test_version    =
+| latest_test_date       =
+| turing-complete        = yes
+| typing                 = typeless (everything is a [[Word (computer architecture)|word]])
+| implementations        =
+| dialects               =
+| influenced_by          = [[BCPL]], [[PL/I]]
+| influenced             = [[C (programming language)|C]]
+| operating_system       =
+| license                =
+| website                =
+| file_ext               = .b
+}}
+
+'''B''' is a programming language developed at [[Bell Labs]] circa 1969.  It is the work of [[Ken Thompson (computer programmer)|Ken Thompson]] with [[Dennis Ritchie]].
+
+B was derived from [[BCPL]], and its name may be a contraction of BCPL.  Thompson's coworker [[Dennis Ritchie]] speculated that the name might be based on Bon, an earlier, but unrelated, programming language that Thompson designed for use on [[Multics]].{{refn|group=note|"Its name most probably represents a contraction of BCPL, though an alternate theory holds that it derives from Bon [Thompson 69], an unrelated language created by Thompson during the Multics days. Bon in turn was named either after his wife Bonnie, or (according to an encyclopedia quotation in its manual), after [[Bon|a religion]] whose rituals involve the murmuring of magic formulas."<ref name="chist">{{cite journal| first = Dennis M.| last = Ritchie| authorlink = Dennis Ritchie|   title = The Development of the C Language| date=March 1993 | journal = ACM SIGPLAN Notices|  volume = 28 |   issue = 3|   pages = 201–208|     url = http://www.bell-labs.com/usr/dmr/www/chist.html|  doi = 10.1145/155360.155580 | ref = harv}}</ref>}}
+
+B was designed for recursive, non-numeric, machine independent applications, such as system and language software.<ref name=bur>{{cite web
+|      first = Ken
+|       last = Thompson
+| authorlink = Ken Thompson (computer programmer)
+|      title = Users' Reference to B
+|        date= 7 January 1972
+| accessdate = 21 March 2014
+|  publisher = Bell Laboratories
+|        url = https://www.bell-labs.com/usr/dmr/www/kbman.pdf
+| archiveurl = https://web.archive.org/web/20150317033259/https://www.bell-labs.com/usr/dmr/www/kbman.pdf
+|archivedate = 11 June 2015
+}}</ref>
+
+== History ==
+Initially Ken Thompson<ref name=chist /> and later Dennis Ritchie<ref name=bur /> developed B basing it mainly on the [[BCPL]] language Thompson used in the [[Multics]] project. B was essentially the BCPL system stripped of any component Thompson felt he could do without in order to make it fit within the memory capacity of the minicomputers of the time. The BCPL to B transition also included changes made to suit Thompson's preferences (mostly along the lines of reducing the number of non-whitespace characters in a typical program).<ref name=chist /> Much of the typical ALGOL-like syntax of BCPL was rather heavily changed in this process, such as the <tt>:=</tt> and <tt>=</tt> operators which were replaced with <tt>=</tt> for assignment and <tt>==</tt> for equality test. (The <tt>&</tt> and <tt>|</tt> of BCPL was later changed to <tt>&&</tt> and <tt>||</tt> in the transition to what is now known as C.) <ref name=chist /> The assignment operator went back to "=" of [[Heinz Rutishauser|Rutishauser]]'s programming language Superplan, which had influenced [[ALGOL 58]], that added a colon.
+
+Thompson invented arithmetic assignment operators for B, using <code>x =+ y</code> to add y to x (in the C programming language the operator is spelled as <code>+=</code>).  B also introduced the increment and decrement operators (++ and --); Their prefix or postfix position determines whether the value is taken prior or post alteration of the operand. These innovations were not in the earliest versions of B. Some guess that they were created for the auto-increment and auto-decrement address modes of the [[Digital Equipment Corporation|DEC]] [[PDP-11]]. This is historically impossible as there was no PDP-11 at the time that B was developed.<ref name=chist />
+
+B is typeless, or more precisely has one data type: the computer word. Most operators (e.g., +, -, *, /) treated this as an integer, but others treated it as a memory address to be de[[reference (computer science)|referenced]]. In many other ways it looked a lot like an early version of C. There are a few library functions, including some that vaguely resemble functions from the [[stdio.h|standard I/O library]] in C.<ref name=bur />
+
+Early implementations were for the DEC [[PDP-7]] and PDP-11 minicomputers using early [[Unix]], and [[Honeywell]] {{nowrap|[[GE-600 series|GE 645]]}}<ref name="Evolution">{{cite journal |first=Dennis M. |last=Ritchie |title=The Evolution of the Unix Time-sharing System |url=https://www.bell-labs.com/usr/dmr/www/hist.html |archiveurl=https://web.archive.org/web/20150611114353/https://www.bell-labs.com/usr/dmr/www/hist.html |archivedate=11 June 2015 |journal=AT&T Bell Laboratories Technical Journal |volume=63 |number=6 Part 2 |year=1984 |pages=1577–1593}}</ref> 36-bit mainframes running the operating system [[General Comprehensive Operating System|GCOS]]. The earliest PDP-7 implementations compiled to [[threaded code]], and Ritchie wrote a compiler using [[TMG (language)|TMG]] which produced machine code.<ref>{{cite web |url=http://www.multicians.org/tmg.html |title=TMG |publisher=multicians.org}}</ref><ref>{{cite web |url=https://www.bell-labs.com/usr/dmr/www/chist.html |archiveurl=https://web.archive.org/web/20150611114355/https://www.bell-labs.com/usr/dmr/www/chist.html |archivedate=11 June 2015 |title=The Development of the C Language |first=Dennis M. |last=Ritchie |authorlink=Dennis Ritchie |publisher=Bell Labs/Lucent Technologies}}</ref><ref name="reader">{{cite techreport |first1=M. D. |last1=McIlroy |authorlink1=Doug McIlroy |year=1987 |url=http://www.cs.dartmouth.edu/~doug/reader.pdf |title=A Research Unix reader: annotated excerpts from the Programmer's Manual, 1971–1986 |series=CSTR |number=139 |institution=Bell Labs}}</ref> In 1970 a PDP-11 was acquired and threaded code was used for the port; an assembler, <tt>[[dc (Unix)|dc]]</tt>, and the B language itself were written in B to [[bootstrap]] the computer. An early version of [[yacc]] was produced with this PDP-11 configuration. Ritchie took over maintenance during this period.<ref name=chist />{{r|reader}}
+
+The typeless nature of B made sense on the Honeywell, PDP-7 and many older computers, but was a problem on the PDP-11 because it was difficult to elegantly access the character data type that the PDP-11 and most modern computers fully support. Starting in 1971 Ritchie made changes to the language while converting its compiler to produce machine code, most notably adding data typing for variables. During 1971 and 1972 B evolved into "New B" (NB) and then C.<ref name=chist />
+
+B is almost extinct, having been superseded by the [[C (programming language)|C language]].<ref name=plb /> However, it continues to see use ({{as of|2014|lc=y}}) on GCOS mainframes,<ref name="uwtools">{{cite web
+|       title = Thinkage UW Tools Package
+|  accessdate = 26 March 2014
+|   publisher = Thinkage, Ltd.
+|         url = http://www.thinkage.ca/english/gcos/product-uwtools.shtml
+}}</ref> and on certain [[embedded systems]] ({{as of|2000|lc=y}}) for a variety of reasons, including limited hardware in the small systems; extensive libraries, tools, licensing cost issues; and simply being good enough for the job on others.<ref name=plb>{{cite web
+|        last = Johnson and Kernighan
+|  authorlink = Stephen C. Johnson
+|       title = THE PROGRAMMING LANGUAGE B
+|  accessdate = 21 March 2014
+|   publisher = Bell Laboratories
+|         url = https://www.bell-labs.com/usr/dmr/www/bintro.html
+|  archiveurl = https://web.archive.org/web/20150611114355/https://www.bell-labs.com/usr/dmr/www/bintro.html
+| archivedate = 11 June 2015
+}}</ref>  The highly influential [[AberMUD]] was originally written in B.
+
+== Examples ==
+The following example is from the ''Users' Reference to B'' by Ken Thompson:<ref name=bur />
+
+<syntaxhighlight lang="c">
+/* The following function will print a non-negative number, n, to
+   the base b, where 2<=b<=10.  This routine uses the fact that
+   in the ASCII character set, the digits 0 to 9 have sequential
+   code values.  */
+
+printn(n, b) {
+        extrn putchar;
+        auto a;
+
+        if (a = n / b)        /* assignment, not test for equality */
+                printn(a, b); /* recursive */
+        putchar(n % b + '0');
+}
+</syntaxhighlight>
+
+== See also ==
+{{portal bar|Computer programming|Information technology}}
+
+== Notes ==
+{{reflist|group=note}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* ''[http://man.cat-v.org/unix-1st/1/b Manual page for b(1) from Unix First Edition]''
+* ''[https://www.bell-labs.com/usr/dmr/www/chist.html The Development of the C Language]'', [[Dennis Ritchie|Dennis M. Ritchie]]. Puts B in the context of [[BCPL]] and [[C (programming language)|C]].
+* ''[https://www.bell-labs.com/usr/dmr/www/kbman.html Users' Reference to B]'', Ken Thompson. Describes the [[PDP-11]] version.
+* ''[https://www.bell-labs.com/usr/dmr/www/bintro.html The Programming Language B]'', S. C. Johnson & B. W. Kernighan, Technical Report CS TR 8, [[Bell Labs]] (January 1973). The [[General Comprehensive Operating System|GCOS]] version on [[Honeywell]] equipment.
+* ''[http://www.thinkage.ca/english/gcos/expl/b/index.html B Language Reference Manual]'', Thinkage Ltd. The production version of the language as used on GCOS, including language and runtime library.
+
+{{Ken Thompson navbox}}
+{{Programming languages}}
+
+[[Category:Procedural programming languages]]
+[[Category:Programming languages created in 1969]]

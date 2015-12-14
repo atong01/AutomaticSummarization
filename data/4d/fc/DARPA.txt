@@ -1,0 +1,301 @@
+{{about|the US military research agency}}
+{{Infobox Government agency
+|agency_name     = Defense Advanced Research Projects Agency
+|abbreviation    = kala pa
+|logo            = DARPA Logo.jpg
+|logo_width      =
+|logo_caption    =
+|seal            =
+|seal_width      =
+|seal_caption    =
+|formed          = {{start date and age|1958}}
+|preceding1      =
+|jurisdiction    =
+|headquarters    = [[Arlington County, Virginia|Arlington, Virginia]], U.S.
+|employees       = 240
+|budget          = US $2.8 billion<ref>{{cite news|url=http://www.wired.com/dangerroom/2012/02/darpa-budget-death-ray/|title=Darpa Dodges Obama Budget Death Ray, Keeps Its  Billion|first=Noah|last=Shachtman|work=[[Wired (magazine)|Wired]]|date=2012-02-14|accessdate=2012-08-27}}</ref>
+|chief1_name     = [[Arati Prabhakar]]
+|chief1_position = Director<ref name="wired">{{cite news|title=Exclusive: Darpa Gets a New Boss, and Solyndra Is in Her Past|url=http://www.wired.com/dangerroom/2012/07/darpa-solyndra/|work=[[Wired (magazine)|Wired]]|first=Noah|last=Shachtman|date=2012-07-10|accessdate=2012-08-25}}</ref>
+|chief2_name     =
+|chief2_position =
+|parent_agency   = [[United States Department of Defense|U.S. Department of Defense]]
+|child1_agency   =
+|website         = {{url|http://www.darpa.mil/}}
+}}
+[[File:DARPA headquarters.jpg|thumb|DARPA's former headquarters in the [[Virginia Square, Arlington, Virginia|Virginia Square]] neighborhood of Arlington.  This agency recently moved to 675 North Randolph Street, near the Ballston Common Mall.]]
+
+The '''Defense Advanced Research Projects Agency''' ('''DARPA''') is an [[government agency|agency]] of the [[United States Department of Defense|U.S. Department of Defense]] responsible for the development of [[emerging technologies]] for use by the military.
+
+DARPA was created in 1958 as the '''Advanced Research Projects Agency''' ('''ARPA''') by President [[Dwight D. Eisenhower]]. Its purpose was to formulate and execute research and development projects to expand the frontiers of technology and science, with the aim to reach beyond immediate military requirements.<ref name="Commission2008">Dwight D. Eisenhower and Science & Technology, (2008).Dwight D. Eisenhower Memorial Commission, [http://www.eisenhowermemorial.org/onepage/IKE%20&%20Science.Oct08.EN.FINAL%20(v2).pdf Source].</ref> The administration was responding to the [[Soviet Union|Soviet]] launching of [[Sputnik 1]] in 1957, and DARPA's mission was to ensure [[U.S. military]] technology would be more sophisticated than that of the nation's potential enemies.
+
+The name of the organization changed several times from its founding name ARPA: DARPA (March 1972), ARPA (February 1993), and DARPA (March 1996).
+
+DARPA is independent from other military [[research and development]] and reports directly to senior Department of Defense management. DARPA has ca. 240 personnel (13 in management, close to 140 technical) directly managing a $3 billion budget.
+
+DARPA funded projects have provided significant technologies that influenced many non-military fields, such as [[computer networking]] and [[graphical user interface]]s in information technology.
+
+==Mission==
+DARPA characterizes its mission as follows:<ref name="DARPA">{{cite web | url=http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&doc=GetTRDoc.pdf&AD=ADA433949 | title= DARPA: Bridging The Gap Powered By Ideas |year=2005}}</ref>
+<blockquote>
+DARPA’s original mission, established in 1958, was to prevent technological surprise like the launch of Sputnik, which signaled that the Soviets had beaten the U.S. into space. The mission statement has evolved over time. Today, DARPA’s mission is still to prevent technological surprise to the US, but also to create technological surprise for our enemies.
+</blockquote>
+
+==History==
+[[File:DARPA through 50 years.ogv|thumb|right|DARPA achievements for the past 50 years]]
+
+===Early history===
+The creation of ARPA was authorized by President [[Dwight D. Eisenhower]] in 1958 for the purpose of forming and executing research and development projects to expand the frontiers of technology and science, and able to reach far beyond immediate military requirements.,<ref name="Commission2008"/> the two relevant acts being the Supplemental Military Construction Authorization (Air Force)<ref>{{cite book | url=http://books.google.com/books/about/Fiscal_year_1958_supplemental_military_c.html?id=N-IPAAAAIAAJ |title = Fiscal Year 1958 Supplemental Military Construction Authorization (Air Force): Hearings, Eighty-fifth Congress, Second Session, on H.R. 9739. |date= January 21, 24, 1958}}</ref> (Public Law 85-325) and Department of Defense Directive 5105.15, in February 1958. Its creation was directly attributed to the launching of [[Sputnik]] and to U.S. realization that the [[Soviet Union]] had developed the capacity to rapidly exploit military technology. Initial funding of ARPA was $520 million.<ref name = Wizards20 >"$ 520 million appropriation and a $ 2 billion budget plan." Lyon, Matthew; Hafner, Katie (1999-08-19). ''Where Wizards Stay Up Late: The Origins Of The Internet'' (p. 20). Simon & Schuster. Kindle Edition.</ref> ARPA's first director, Roy Johnson, left a $160,000 management job at General Electric for an $18,000 job at ARPA.<ref name = Wizards21 >"Roy Johnson, ARPA’s first director, was, like his boss, a businessman. At age fifty-two, he had been personally recruited by McElroy, who convinced him to leave a $160,000 job with General Electric and take an $18,000 job in Washington." Lyon, Matthew; Hafner, Katie (1999-08-19). ''Where Wizards Stay Up Late: The Origins Of The Internet'' (p. 21). Simon & Schuster. Kindle Edition.</ref> [[Herbert York]] from [[Lawrence Livermore National Laboratory]] was hired as his scientific assistant.<ref name = Wizards21a >"Herbert York, whom Killian had been keen on, was given the job and moved to ARPA from the Lawrence Livermore Laboratory." Lyon, Matthew; Hafner, Katie (1999-08-19). ''Where Wizards Stay Up Late: The Origins Of The Internet'' (p. 21). Simon & Schuster. Kindle Edition.</ref>
+
+Johnson and York were both keen on space projects, but when [[NASA]] was established later in 1958 all space projects and most of ARPA's funding were transferred to it. Johnson resigned and ARPA was repurposed to do "high-risk," "high-gain," "far out" basic research, a posture that was enthusiastically embraced by the nation's scientists and research universities.<ref name = Wizards21,22 >"The staff of ARPA saw an opportunity to redefine the agency as a group that would take on the really advanced “far-out” research....The scientific community, predictably, rallied to the call for a reinvention of ARPA as a “high-risk high-gain” research sponsor— the kind of R& D shop they had dreamed of all along" Lyon, Matthew; Hafner, Katie (1999-08-19). ''Where Wizards Stay Up Late: The Origins Of The Internet'' (p. 21,22). Simon & Schuster. Kindle Edition.</ref> ARPA's second director was Brigadier General Austin W. Betts, who resigned in early 1961. He was succeeded by [[Jack Ruina]] who served until 1963.<ref name = Wizards23,24 >"In early 1961 ARPA’s second director, Brigadier General Austin W. Betts, resigned" Lyon, Matthew; Hafner, Katie (1999-08-19). ''Where Wizards Stay Up Late: The Origins Of The Internet'' (pp. 23,24) Simon & Schuster. Kindle Edition.</ref> Ruina, the first scientist to administer ARPA, managed to raise its budget to $250 million.<ref name = Wizards23 >"Ruina raised ARPA’s annual budget to $ 250 million." Lyon, Matthew; Hafner, Katie (1999-08-19). ''Where Wizards Stay Up Late: The Origins Of The Internet'' (p. 23). Simon & Schuster. Kindle Edition.</ref> It was Ruina who hired [[J. C. R. Licklider]] as the first administrator of the [[Information Processing Techniques Office]] which played a vital role in creation of the internet.<ref name = Wizards27-39  >"J. C. R. Licklider." Lyon, Matthew; Hafner, Katie (1999-08-19). ''Where Wizards Stay Up Late: The Origins Of The Internet'' (p. 27-39). Simon & Schuster. Kindle Edition.</ref>
+
+Additionally, the political and defense communities recognized the need for a high-level Department of Defense organization to formulate and execute R&D projects that would expand the frontiers of technology beyond the immediate and specific requirements of the Military Services and their laboratories. In pursuit of this mission, DARPA has developed and transferred technology programs encompassing a wide range of scientific disciplines which address the full spectrum of national security needs.
+
+From 1958 to 1965, ARPA's emphasis centered on major national issues, including space, [[ballistic missile defense]], and [[nuclear test]] detection.<ref name = Wizards23a >"Projects in ballistic missile defense and nuclear test detection, couched in terms of basic research, were the top priorities." Lyon, Matthew; Hafner, Katie (1999-08-19). ''Where Wizards Stay Up Late: The Origins Of The Internet'' (p. 23). Simon & Schuster. Kindle Edition</ref>  During 1960, all of its civilian space programs were transferred to the [[NASA|National Aeronautics and Space Administration]] (NASA) and the military space programs to the individual Services.
+
+This allowed ARPA to concentrate its efforts on the [[Project Defender]] (defense against ballistic missiles), [[Project Vela]] (nuclear test detection), and [[Project AGILE]] ([[counterinsurgency]] R&D) Programs, and to begin work on computer processing, [[behavioral sciences]], and materials sciences. The DEFENDER and AGILE Programs formed the foundation of DARPA sensor, [[surveillance]], and directed energy R&D, particularly in the study of [[radar]], [[infrared]] sensing, and [[x-ray]]/[[gamma ray]] detection.
+
+ARPA at this point (1959) played an early role in [[Transit (satellite)|Transit]] (also called NavSat) a predecessor to the [[Global Positioning System]] (GPS).<ref>{{cite book | title=Transit to Tomorrow.  Fifty Years of Space Research at The Johns Hopkins University Applied Physics Laboratory | author= Helen E. Worth and Mame Warren | year=2009 | url=http://space50.jhuapl.edu/pdfs/book.pdf}}</ref>  "Fast-forward to 1959 when a joint effort between DARPA and the Johns Hopkins Applied Physics Laboratory began to fine-tune the early explorers’ discoveries. TRANSIT, sponsored by the Navy and developed under the leadership of Dr. Richard Kirschner at Johns Hopkins, was the first satellite positioning system."<ref>{{cite web | url=http://www.darpa.mil/WorkArea/DownloadAsset.aspx?id=2565 | title=The Story of GPS | author= Catherine Alexandrow | date = Apr 2008}}</ref><ref name=gap>{{cite book | url=http://www.darpa.mil/about/history/first_50_years.aspx | title=DARPA: 50 Years of Bridging the Gap| date= Apr 2008}}</ref>
+
+During the late 1960s, with the transfer of these mature programs to the Services, ARPA redefined its role and concentrated on a diverse set of relatively small, essentially exploratory research programs. The agency was renamed the Defense Advanced Research Projects Agency (DARPA) in 1972, and during the early 1970s, it emphasized direct energy programs, information processing, and tactical technologies.
+
+Concerning information processing, DARPA made great progress, initially through its support of the development of [[time-sharing]] (all modern operating systems rely on concepts invented for the [[Multics]] system, developed by a cooperation among [[Bell Labs]], [[General Electric]] and [[MIT]], which DARPA supported by funding [[Project MAC]] at MIT with an initial two-million-dollar grant).<ref>{{cite web | url=http://mit.edu/6.933/www/Fall2001/AILab.pdf | author=Stefanie Chiou, Craig Music, Kara Sprague, Rebekah Wahba | date = 5 Dec 2001 |  title=A Marriage of Convenience: The Founding of the MIT Artificial Intelligence Laboratory}}</ref>
+
+DARPA supported the evolution of the [[ARPANET]] (the first wide-area packet switching network), Packet Radio Network, Packet Satellite Network and ultimately, the [[Internet]] and research in the [[artificial intelligence]] fields of speech recognition and signal processing, including parts of [[Shakey the robot]].<ref name="ieee">{{cite web|url=http://ghn.ieee.org/wiki/index.php/Oral-History:Bertram_Raphael|title=Oral History: Bertram Raphael|work=IEEE Global History Network|publisher=[[Institute of Electrical and Electronics Engineers]]|accessdate=2012-02-25}}</ref> DARPA also funded the development of the [[Douglas Engelbart]]'s NLS computer system and [[The Mother of All Demos]]; and the [[Aspen Movie Map]], which was probably the first [[hypermedia]] system and an important precursor of [[virtual reality]].
+
+===Later history===
+The [[Mansfield Amendment]] of 1973 expressly limited appropriations for defense research (through ARPA/DARPA) only to projects with direct military application. Some{{Who|date=September 2009}} contend that the amendment devastated American science, since ARPA/DARPA was a major funding source for basic science projects of the time; the [[National Science Foundation]] never made up the difference as expected.
+
+The resulting "[[brain drain]]" is also credited with boosting the development of the fledgling personal computer industry. Some young computer scientists left the universities to startups and private research labs such as [[PARC (company)|Xerox PARC]].
+
+Between 1976 and 1981, DARPA's major projects were dominated by air, land, sea, and space technology, tactical armor and anti-armor programs, infrared sensing for space-based surveillance, high-energy laser technology for space-based missile defense, antisubmarine warfare, advanced cruise missiles, advanced aircraft, and defense applications of advanced computing. These large-scale technological program demonstrations were joined by integrated circuit research, which resulted in submicrometer electronic technology and electron devices that evolved into the Very Large Scale Integration ([[VLSI]]) Program and the Congressionally mandated charged particle beam program.
+
+Many of the successful programs were transitioned to the Services, such as the foundation technologies in [[automatic target recognition]], space based sensing, propulsion, and materials that were transferred to the [[Strategic Defense Initiative Organization|Strategic Defense Initiative Organization (SDIO)]], later known as the [[Ballistic Missile Defense Organization|Ballistic Missile Defense Organization (BMDO)]], now titled the [[Missile Defense Agency|Missile Defense Agency (MDA)]].
+
+===Recent history===
+During the 1980s, the attention of the Agency was centered on information processing and aircraft-related programs, including the [[Rockwell X-30|National Aerospace Plane (NASP)]] or [[Hypersonic Research Program (DARPA)|Hypersonic Research Program]]. The [[Strategic Computing Program (DARPA)|Strategic Computing Program]] enabled DARPA to exploit advanced processing and networking technologies and to rebuild and strengthen relationships with universities after the [[Vietnam War]]. In addition, DARPA began to pursue new concepts for small, lightweight satellites ([[LIGHTSAT (DARPA)|LIGHTSAT]]) and directed new programs regarding defense manufacturing, submarine technology, and armor/anti-armor.
+
+On October 28, 2009 the agency broke ground on a new facility in Arlington, Virginia a few miles from the Pentagon.<ref>''[[Washington Times]]'', "Pentagon Agency Breaks Ground", October 29, 2009.</ref>
+
+In fall 2011, DARPA hosted the [[100 Year Starship|100-Year Starship]] Symposium with the aim of getting the public to start thinking seriously about interstellar travel.<ref>{{cite news|url=http://cleantechnica.com/2012/01/28/fmoon-colony-newt-darpa-has-100-year-starship/|title=Forget the Moon Colony, Newt: DARPA Aims for 100 Year Starship|first=Tina|last=Casey|publisher=CleanTechnica|date=2012-01-28|accessdate=2012-08-25}}</ref>
+
+{{Gallery
+|title=DARPA History
+|width=160
+|height=170
+|lines=3
+|align=center
+|File:01 The Formative Years 1958 - 1975 (DARPA history).ogv|The Formative Years <br/>(1958–1975)
+|File:02 - The Cold War Era 1975 - 1989 (DARPA history).ogv|The Cold War Era <br/>(1975–1989)
+|File:03 - The Post-Soviet Years 1989 - Present 2008 (DARPA history).ogv|The Post-Soviet Years <br/>(1989–Present)
+}}
+
+==Organization==
+
+===Current program offices===
+DARPA has seven program offices, all of which report to the DARPA director:
+
+* The [[Adaptive Execution Office (DARPA)|Adaptive Execution Office (AEO)]] is one of two new DARPA offices created in 2009 by the previous DARPA Director, [[Regina Dugan]]. Its four project areas include technology transition, assessment, rapid [[productivity]] and [[adaptive system]]s.
+* The [[Defense Sciences Office|Defense Sciences Office (DSO)]] vigorously pursues the most promising technologies within a broad spectrum of the science and engineering research communities and develops those technologies into important, radically new military capabilities.<ref>[http://www.darpa.mil/dso/ DSO Official homepage]</ref>
+* The [[Information Innovation Office|Information Innovation Office (I2O)]] aims to ensure U.S. technological superiority in all areas where information can provide a decisive military advantage.
+* The [[Microsystems Technology Office|Microsystems Technology Office (MTO)]] mission focuses on the heterogeneous microchip-scale integration of electronics, photonics, and microelectromechanical systems (MEMS). Their high risk/high payoff technology is aimed at solving the national level problems of protection from biological, chemical and information attack and to provide operational dominance for mobile distributed command and control, combined manned/unmanned warfare, and dynamic, adaptive military planning and execution.
+* The [[Strategic Technology Office (DARPA)|Strategic Technology Office (STO)]] mission is to focus on technologies that have a global theater-wide impact and that involve multiple Services.<ref name="darpa.mil">http://www.darpa.mil/offices.html DARPA Offices. Retrieved 2009-11-08.</ref>
+* The [[Tactical Technology Office (DARPA)|Tactical Technology Office (TTO)]] engages in high-risk, high-payoff advanced military research, emphasizing the "system" and "subsystem" approach to the development of aeronautic, space, and land systems as well as embedded processors and control systems. This research includes an effort within the TTO to develop a small satellite [[launch vehicle]].<ref>{{cite web |url=http://www.darpa.mil/tto/programs/Falcon.htm |archiveurl=http://web.archive.org/web/20080822050303/http://www.darpa.mil/tto/programs/Falcon.htm |archivedate=2008-08-22 |title=Falcon |publisher=DARPA |year=2008}}</ref> This vehicle is under development by [[AirLaunch LLC]].<ref>{{cite web |url=http://www.airlaunchllc.com/News.htm |title=Airlaunchllc News |publisher=Airlaunch}}</ref> This is part of the [[Force Application and Launch from Continental United States]] (FALCON) effort.
+* The [[Biological Technologies Office (DARPA)|Biological Technologies Office (BTO)]] fosters, demonstrates, and transitions  breakthrough fundamental research, discoveries, and applications that integrate biology, engineering, and computer science for national security.  Created in April 2014 by DARPA director [[Arati Prabhakar]], taking programs from the MTO and DSO divisions.<ref>http://www.darpa.mil/NewsEvents/Releases/2014/04/01.aspx</ref>
+
+===Former offices===
+* [[Information Awareness Office]]: 2002–2003
+* The [[Advanced Technology Office (DARPA)|Advanced Technology Office (ATO)]] researched, demonstrated, and developed high payoff projects in maritime, communications, special operations, command and control, and information assurance and survivability mission areas.{{citation needed|date=November 2012}}
+* The [[Special Projects Office (DARPA)|Special Projects Office (SPO)]] researched, developed, demonstrated, and transitioned technologies focused on addressing present and emerging national challenges. SPO investments ranged from the development of enabling technologies to the demonstration of large prototype systems. SPO developed technologies to counter the emerging threat of underground facilities used for purposes ranging from command-and-control, to weapons storage and staging, to the manufacture of weapons of mass destruction. SPO developed significantly more cost-effective ways to counter proliferated, inexpensive cruise missiles, UAVs, and other platforms used for weapon delivery, jamming, and surveillance. SPO invested in novel space technologies across the spectrum of space control applications including rapid access, space situational awareness, counterspace, and persistent tactical grade sensing approaches including extremely large space apertures and structures.
+* The [[Information Systems Office| Information Systems Office (ISO)]] in the 1990s developed system applications of advanced information technologies.  It was a predecessor to the Information Exploitation Office.{{citation needed|date=November 2012}}
+A 1991 reorganization created several offices which existed throughout the early 1990s:<ref>{{cite news| url=http://findarticles.com/p/articles/mi_6712/is_n27_v171/ai_n28601257/ | work=Defense Daily | title=DARPA restructures/creates new offices | year=1991}}</ref>
+* The [[Electronic Systems Technology Office]] combined areas of the Defense Sciences Office and the Defense Manufacturing Office. This new office will focus on the boundary between general-purpose computers and the physical world, such as sensors, displays and the first few layers of specialized signal-processing that couple these modules to standard computer interfaces.
+* The [[Computing Systems Technology Office]] combined functions of the old Information Sciences and Tactical Technology office. The office "will work scalable parallel and distributed heterogeneous computing systems technologies," DoD said.{{citation needed|date=November 2012}}
+* The [[Software and Intelligent Systems Technology Office]] and the [[Computing Systems office]] will have responsibility associated with the Presidential High-Performance Computing Initiative. The Software office will also be responsible for "software systems technology, machine intelligence and software engineering."
+* The [[Land Systems Office]] was created to develop advanced land vehicle and anti-armor systems, once the domain of the Tactical Technology Office
+* The [[Undersea Warfare Office]] combined areas of the Advanced Vehicle Systems and Tactical Technology offices to develop and demonstrate submarine stealth and counterstealth and automation.
+Reorganization in 2010 merged two offices:
+* The [[Transformational Convergence Technology Office (DARPA)|Transformational Convergence Technology Office (TCTO)]] mission was to advance new crosscutting capabilities derived from a broad range of emerging technological and social trends, particularly in areas related to computing and computing-reliant subareas of the life sciences, social sciences, manufacturing, and commerce. The TCTO was folded into the I2O in 2010.<ref name="darpa.mil"/><ref>{{cite web|url=http://www.hpcwire.com/2010/09/22/embedded_clouds_a_look_back_at_hpec_2010/|title=Embedded Clouds: A Look Back at HPEC 2010|work=HPCwire|accessdate=7 July 2015}}</ref>
+* The [[Information Processing Techniques Office|Information Processing Techniques Office (IPTO)]] focused on inventing the networking, computing, and software technologies vital to ensuring DOD military superiority. The IPTO was combined with TCTO in 2010 to form the I2O.<ref>{{cite web|url=http://schedule.sxsw.com/2014/events/event_IAP28839|title=Schedule - sxsw.com|work=SXSW Schedule 2014|accessdate=7 July 2015}}</ref>
+
+==Projects==
+
+===Offices===
+
+==== [[Adaptive Execution Office]] ====
+The Adaptive Execution Office (AEO) is chartered to accelerate game-changing DARPA technologies into DoD capabilities. AEO provides the agency with robust connections to the warfighter community and assists the agency with the planning and execution of technology demonstrations and field trials to promote adoption by the warfighter.
+
+==== [[Biological Technologies office]] ====
+The mission of the Biological Technologies Office (BTO) is to foster, demonstrate, and transition breakthrough fundamental research, discoveries, and applications that integrate biology, engineering, and computer science for national security. BTO seeks to establish and invest in new communities of scientific interest at the intersection of traditional and emerging disciplines. Its investment portfolio goes far beyond life sciences applications in medicine to include areas of research such as human-machine interfaces,<ref>{{Triangulation|204|Dr. Justin Sanchez}}</ref> microbes as production platforms, and deep exploration of the impact of evolving ecologies and environments on U.S. readiness and capabilities. BTO’s programs operate across a wide range of scales, from individual cells to complex biological systems including mammalian and non-mammalian organisms and the macro- and micro-environments in which they operate.
+
+==== [[Defense Sciences Office]] ====
+The Defense Sciences Office (DSO) identifies and pursues high-risk, high-payoff fundamental research initiatives across a broad spectrum of science and engineering disciplines – sometimes reshaping existing fields or creating entirely new disciplines – and transforms these initiatives into radically new, game-changing technologies for U.S. national security. 
+[[Information Innovation Office Program Managers]]: Wade Shen (as of December 2014), Stuart Wagner (as of September 2014), Steve Jameson (as of August 2014), Angelos Keromytis (as of July 2014), John Launchbury (as of July 2014), David Doermann (as of April 2014).
+
+===Active projects===
+* [[4MM]] (4-minute mile): Wearable jetpack to enable soldiers to run at increased speed.<ref>[http://www.businessinsider.com/darpa-jetpacks-help-soldiers-run-fast-2014-9 Jetpacks Help Soldiers Run At The Speed Of Olympic Athletes] - Businessinsider.com, 12 September 2014</ref>
+* [[Aerial Reconfigurable Embedded System]] (formerly TX): Cargo carrying UAV.<ref name="darpaTX">[http://www.darpa.mil/tto/programs/tx/index.html Transformer (TX)] ''darpa.mil''. Retrieved: 4 August 2010.</ref>
+* "Aircraft Carriers in the Sky": Using large manned aircraft to launch and recover small UAVs.<ref>[http://www.flightglobal.com/news/articles/darpa-seeks-information-on-manned-uav-mothership-405897/ DARPA seeks information on manned UAV mothership] - Flightglobal.com, 11 November 2014</ref>
+* [[ACTUV]]: A project to build an unmanned [[Anti-submarine warfare]] vessel.
+* [[Adaptive Execution Office]]: AEO provides the agency with robust connections to the war fighter community  and assists the agency with the planning and execution of technology demonstrations and field trials to promote adoption by the war fighter.
+* Air Dominance Initiative: Developmental technologies to be used in [[sixth-generation jet fighter]]s.<ref>[http://www.defensenews.com/story/defense/air-space/strike/2015/01/28/sixth-generation-fighter-2016-budget/22477329/ New Budget Will Feature 6th Gen Fighter] - Defensenews.com, 28 January 2015</ref>
+* [[DARPA ALASA program|ALASA]]: (Airborne Launch Assist Space Access): A rocket capable of launching a 100-pound satellite into low Earth orbit for less than $1 million.<ref name=aw20120625>{{cite news |last=Warwick|first=Graham |title=Darpa Revisits Air Launch With Focus On Cost |url=http://www.aviationweek.com/Article.aspx?id=/article-xml/AW_06_25_2012_p33-469762.xml |accessdate=2012-11-29 |newspaper=Aviation Week |date=2012-06-25 }}</ref><ref name=sn20130517/><!-- received second-year funding or  million in spring 2013. --><!-- requested  million in 2015 vs.  million in 2014 --><ref name=sn20140321/>
+* [[Atlas (robot)|Atlas]]: A [[humanoid robot]].
+* [[Battlefield Illusion]]<ref>{{cite news| url=http://www.wired.com/dangerroom/2012/02/darpa-magic/#more-72714 | work=Wired | first=Noah | last=Shachtman | title=Darpa's Magic Plan: ‘Battlefield Illusions' to Mess With Enemy Minds | date=2012-02-14}}</ref>
+* [[Big mechanism|Big Mechanism]]: Cancer research.<ref name=s1>{{Cite journal | doi = 10.1126/science.347.6221.465| title = DARPA sets out to automate research| journal = Science| volume = 347| issue = 6221| pages = 465| year = 2015| last1 = You | first1 = J.}}</ref>
+* [[BigDog]]/[[Legged Squad Support System]]: legged robots.<ref>http://www.bostondynamics.com/dist/BigDog.wmv</ref>
+* [[BlockADE]]: Rapidly constructed barrier.<ref>[http://www.marinecorpstimes.com/article/20140705/NEWS04/307050033/DARPA-calls-industry-develop-compact-push-button-wall DARPA calls on industry to develop compact, push-button wall] - MarineCorpstimes.com, 5 July 2014</ref>
+* [[Boeing X-37]]
+* [[Boomerang (mobile shooter detection system)]]: an acoustic [[gunfire locator]] developed by [[BBN Technologies]] for detecting [[sniper]]s on military combat vehicles.
+* [[DARPA Captive Air Amphibious Transporter|Captive Air Amphibious Transporter]]
+* Clean-Slate Design of Resilient, Adaptive, Secure Hosts (CRASH), a TCTO initiative<ref>https://www.fbo.gov/download/82f/82f6068978da5339752c89d2f65d89ca/CRASH_BAA_20100601_RC3.pdf</ref>
+* [[Cognitive Technology Threat Warning System]]
+* [[Collaborative Operations in Denied Environment]] (CODE): Modular software architecture for UAVs to pass information to each other in contested environments to identify and engage targets with limited operator direction.<ref>[http://www.flightglobal.com/news/articles/darpa-invites-industry-to-explore-collaborative-uav-408267/ DARPA invites industry to explore collaborative UAV technology] - Flightglobal.com, 23 January 2015</ref><ref>[http://defensesystems.com/articles/2015/01/22/darpa-drones-pack-of-wolves-autonomy.aspx Pentagon issues call for drones that hunt like a pack of wolves] - Defensesystems.com, 22 January 2015</ref>
+* [[Combat Zones That See]]: "track everything that moves" in a city by linking up a massive network of surveillance cameras
+* [[Computational Weapon Optic]] (CWO): Computer rifle scope that combines various features into one optic.<ref>[http://gizmodo.com/what-it-feels-like-to-shoot-the-military-s-experimental-1700448634 What It Feels Like to Shoot With the Military’s Experimental Smart Scope] - Gizmodo.com, 28 April 2015</ref>
+* [[DARPA XG]]: technology for Dynamic Spectrum Access for assured military communications
+* [[Energetically Autonomous Tactical Robot|EATR]]: An autonomous tactical robotic system
+* [[Experimental Spaceplane 1]]: first stage of a reusable space transport
+* [[DARPA Gremlins|Gremlins]]: Air-launched and recoverable UAVs with distributed capabilities to provide low-cost flexibility over expensive multirole platforms.<ref>[http://www.defenseone.com/technology/2015/08/military-wants-swarm-bots-retrieve-midair/119795/?oref=d-river The Military Wants Swarm Bots It Can Retrieve in Midair] - Defenseone.com, 28 August 2015</ref>
+* [[DARPA GXV-T|Ground X-Vehicle Technology]]
+* [[Fast Lightweight Autonomy]]: Software algorithms that enable small UAVs to fly fast in cluttered environments without [[GPS]] or external communications.<ref>[http://www.flightglobal.com/news/articles/darpa-solicits-tender-for-uav-urban-operation-algorithms-407418/ DARPA solicits tender for UAV urban operation algorithms] - Flightglobal.com, 23 December 2014</ref>
+* [[High Energy Liquid Laser Area Defense System]]
+* [[High Productivity Computing Systems]]
+* [[Human Universal Load Carrier]]: battery-powered human exoskeleton
+* [[DARPA Hydra|Hydra]]: Undersea network of mobile unmanned sensors.<ref>[http://www.wired.com/2013/09/hydra-darpa/ DARPA’s Plan to Flood the Sea With Drones, Carrying More Drones] - Wired.com, 13 September 2013</ref>
+* [[Integrated Sensor is Structure]]
+* [[Long Range Anti-Ship Missile]]
+* [[MAHEM]]: Molten penetrating munition
+* [[MEMS Exchange]]: MEMS{{clarify|date=February 2013}}<!-- what is MEMS? --> Implementation Environment{{citation needed|date=February 2013}}<!-- it a redlink, so needs a citation -->
+* [[MeshWorm]]: an earthworm-like robot.<ref>{{cite web|url=http://www.slate.com/blogs/future_tense/2012/08/13/meshworm_darpa_mit_robot_a_sluggish_breakthrough_in_soft_robotics.html|title=Meshworm: DARPA, MIT robot a sluggish breakthrough in soft robotics|work=Slate Magazine|accessdate=7 July 2015}}</ref>
+* [[Mind's Eye (US Military)|Mind's Eye]]: A visual intelligence system capable of detecting and analyzing activity from video feeds.<ref>{{cite news|title=DARPA Kicks Off Mind's Eye program|url=http://www.darpa.mil/news/2011/MindsEyeNewsRelease.pdf|publisher=Darpa.mil|date=2011-01-04|accessdate=2010-01-12}}</ref>
+* [[Near Zero Power RF and Sensor Operations]] (N-ZERO): Reducing or eliminating the standby power unattended ground sensors consume.<ref>[http://www.militaryaerospace.com/articles/2015/02/darpa-nzero-program.html DARPA N-ZERO program seeks to reduce or eliminate need for standby power on unattended sensors] - Militaryaerospace.com, 9 February 2015</ref>
+* [[Next Generation Tactical Wearable Night Vision]]: Smaller and lighter sunglass-sized night vision devices that can switch between different viewing bands.<ref>[http://kitup.military.com/2014/09/military-generation-night-vision.html Military Wants Next Generation Night Vision Goggles] - Kitup.Military.com, 30 September 2014</ref><ref>[http://archive.armytimes.com/article/20141012/NEWS04/310120010/Next-gen-night-vision-would-enable-troops-see-farther-clearer Next-gen night vision would enable troops to see farther, clearer] - Armytimes.com, 12 October 2014</ref>
+* [[DARPA One Shot|One Shot]]: Sniper scope that automatically measures crosswind and range to ensure accuracy in field conditions.<ref>[http://kitup.military.com/2014/02/darpa-develops-mountable-shot.html DARPA Develops Mountable One Shot Sniper System] - Kitup.Military.com, 8 February 2014</ref>
+* [[Persistent Close Air Support]]
+* [[DARPA Phoenix program|Phoenix]]: A satellite project with the aim to recycle retired satellite parts into new on-orbit assets. System launches no earlier than 2016 or 2017.<ref name=sn20130517>{{cite news|last=Ferster|first=Warren|title=DARPA Cancels Formation-flying Satellite Demo|url=http://www.spacenews.com/article/military-space/35375darpa-cancels-formation-flying-satellite-demo|accessdate=2013-11-01|newspaper=Space News|date=2013-05-17}}</ref><ref name=aw20130123>{{cite web|url=http://www.aviationweek.com/Article.aspx?id=/article-xml/awx_01_23_2013_p0-540178.xml|title=Darpa Touts Progress On GEO Satellite Recycling Concept |publisher=Aviation Week|date=2013-01-23 |author=Graham Warwick |accessdate=2013-01-25}}</ref> [[Satlet]] tests in low Earth orbit may occur as soon as 2015.<ref name=sn20140321>{{cite news |last=Gruss|first=Mike |title=DARPA Space Budget Increase Includes M for Spaceplane |url=http://www.spacenews.com/article/military-space/39938darpa-space-budget-increase-includes-27m-for-spaceplane |accessdate=2014-03-24 |newspaper=Space News |date=2014-03-21}}</ref><!-- DARPA requested  million for 2015 budget, vs.  million in 2014 --> 
+* [[Protein Design]]: Processes
+* [[Proto 2]]: a thought-controlled prosthetic arm
+* [[Remote-controlled insect]]s<ref>{{cite web|url=http://www.newscientist.com/article/dn17895-freeflying-cyborg-insects-steered-from-a-distance.html |title=Free-flying cyborg insects steered from a distance |publisher=New Scientist |date=2009-10-01 |author=Ewen Callaway |accessdate=2010-04-04}}</ref>
+* [[Satellite Remote Listening System]]: a satellite mounted system that can eavesdrop on a targeted area on the surface of the planet in coordination with satellite cameras.{{citation needed|date=February 2013}}<!-- it a redlink, so needs a citation --> This project is in its infant stage.{{when|date=February 2013}}
+* [[DARPA Silent Talk]]: A planned program attempting to identify EEG patterns for words and transmit these for covert communications.<ref>{{cite web|last=Warwick|first=Graham|title=Darpa Plans Triple-Target Missile Demo|url=http://www.aviationweek.com/aw/generic/story_channel.jsp?channel=defense&id=news/TRIPLE052209.xml|publisher=Aviation Week|date=May 22, 2009}}</ref>
+* [[System of Systems Integration Technology and Experimentation]] (SoSITE): Combinations of aircraft, weapons, sensors, and mission systems that distribute air warfare capabilities across a large number of interoperable manned and unmanned platforms.<ref>[http://www.airrecognition.com/index.php?option=com_content&task=view&id=1644 DARPA unveils new SoSITE program for maintaining air superiority] - Airrecognition.com, 1 April 2015</ref>
+* [[Squad X Core Technologies]] (SXCT): Digitized, integrated technologies that improve infantry squads' awareness, precision, and influence.<ref>[http://www.gizmag.com/darpa-squad-x-core-technologies-infantry/36020/ DARPA’s Squad X Core Technologies program looks to create smarter, more aware infantry squads] - Gizmag.com, 10 February 2015</ref>
+* [[SyNAPSE]]: Systems of Neuromorphic Adaptive Plastic Scalable Electronics
+* [[Sarcos#Powered exoskeleton|XOS]]: powered military exoskeleton
+* [[Tactical Boost Glide]] (TBG): Air-launched [[hypersonic]] boost glide missile.<ref>[http://www.shephardmedia.com/news/defence-notes/raytheon-wins-darpa-tbg-contract-modification/ Raytheon wins DARPA TBG contract modification] - Shephardmedia.com, 4 May 2015</ref>
+* [[Tactically Exploited Reconnaissance Node]]: Ship-based long-range ISR UAV.<ref>[http://defensesystems.com/articles/2014/06/13/darpa-onr-tern-long-range-isr.aspx DARPA, Navy want long-range ISR drones for smaller ships] - Defensesystems.com, 13 June 2014</ref>
+* [[UAVForge]]<ref>{{cite news|url=http://www.darpa.mil/NewsEvents/Releases/2011/2011/05/25_CAN_YOU_DESIGN,_BUILD_AND_FLY_THE_NEXT-GENERATION_UAV_.aspx |title=CAN YOU DESIGN, BUILD AND FLY THE NEXT-GENERATION UAV? |publisher=Darpa.mil |date=2011-05-25 |accessdate=2011-07-14}}</ref>
+* [[Upward Falling Payloads]]: Payloads stored on the ocean floor that can be activated and retrieved when needed.<ref>[http://defensesystems.com/articles/2014/03/27/upward-falling-payloads-darpa.aspx Pentagon plans to seed ocean floor with payloads waiting to be activated] - Defensesystems.com, 27 March 2014</ref>
+* [[ULTRA-Vis]] (Urban Leader Tactical Response, Awareness and Visualization): Heads-up display for individual soldiers.<ref>[http://breakingdefense.com/2014/05/darpas-wearable-display-augments-reality-for-foot-troops/ DARPA’s ULTRA-Vis Augments Reality For Foot Troops] - Breakingdefense.com, 21 May 2014</ref>
+* [[DARPA VTOL X-Plane|VTOL X-Plane]]<ref name=wired20130225>
+{{cite news |last=Ackerman|first=Spencer |title=Darpa Wants to Rethink the Helicopter to Make It Go Way Faster |url=http://www.wired.com/dangerroom/2013/02/darpa-vtol-x/ |accessdate=2013-02-26 |newspaper=Wired |date=2013-02-25 }}</ref>
+* [[DARPA Vulture|Vulture]]
+* [[Warrior Web]]: Soft exosuit to alleviate musculoskeletal stress on soldiers when carrying heavy loads.<ref>[http://www.army.mil/article/125315/DARPA_s_Warrior_Web_project_may_provide_super_human_enhancements/ DARPA's Warrior Web project may provide super-human enhancements] - Army.mil, 5 May 2014</ref>
+* WolfPack<ref>{{cite news|url=http://www.darpa.mil/STO/strategic/wolfpack.html |title=STO: WolfPack |publisher=Darpa.mil |date= |agency=Strategic Technology Office |accessdate=2010-04-04 |deadurl=yes |archiveurl=https://web.archive.org/20100304071137/http://www.darpa.mil:80/STO/strategic/wolfpack.html |archivedate=4 March 2010 }}</ref>
+* [[DARPA XDATA|XDATA]]: Processing and analyzing vast amounts of information.<ref>[http://www.darpa.mil/Our_Work/I2O/Programs/XDATA.aspx DARPA IIO]</ref>
+
+===Past projects===
+{{refbegin|2}}
+* [[Project AGILE]], a [[Vietnam War]]-era investigation into methods of remote, [[asymmetric warfare]] for use in conflicts with [[Communist]] insurgents.
+* [[ARPANET]], earliest [[History of the Internet|predecessor of the Internet]]
+* [[Adaptive Vehicle Make]]: Revolutionary approaches to the design, verification, and manufacturing of complex defense systems and vehicles.
+* [[ArcLight (missile)|ArcLight]]: Ship-based weapon system capable of striking targets nearly anywhere on the globe, based on the [[Standard Missile 3]].
+* The [[Aspen Movie Map]] allowed one to virtually tour the streets of [[Aspen, Colorado]]. Developed in 1978, it is the earliest predecessor to products like [[Google Street View]].
+* ASTOVL, precursor of the [[Joint Strike Fighter Program]]<ref name="MartinBaker">[http://www.martin-baker.co.uk/getdoc/d25952ab-5881-4999-8593-6f7f196c8770/a_history_of_the_joint_strike_fighter_programme.aspx A history of the Joint Strike Fighter Program], Martin-Baker. Retrieved 4 August 2010</ref>
+* The [[Boeing X-45]] [[unmanned combat air vehicle]] refers to a mid-2000s concept demonstrator for autonomous military aircraft.
+* [[CALO]] or "Cognitive Assistant that Learns and Organizes": software
+* [[CPOF]]: the command post of the future—networked information system for Command control.
+* [[DARPA Agent Markup Language|DAML]]
+* [[DARPA Grand Challenge]]: [[driverless car]] competition
+* [[DARPA Network Challenge]]<ref>{{cite web|url=https://networkchallenge.darpa.mil/Default.aspx |title=DARPA Network Challenge |publisher=Darpa.mil |date= |accessdate=2010-04-04}}</ref>
+* [[DARPA Spectrum Challenge]]<ref>{{cite web|url=http://www.darpa.mil/spectrumchallenge/ |title=DARPA Spectrum Challenge |publisher=Darpa.mil |date= |accessdate=2014-06-10}}</ref>
+* DEFENDER
+* [[DARPA Falcon Project|FALCON]]
+* [[High Performance Knowledge Bases]]
+* [[HISSS]]
+* [[Hypersonic Research Program]]
+* I3 (Intelligent Integration of Information),<ref>{{cite web|url=http://www.cs.cmu.edu/afs/cs.cmu.edu/project/theo-6/web-agent/www/i3.html|title=I3 Initiative Home Page|publisher=|accessdate=7 July 2015}}</ref> supported the [[Digital Library]] research effort through [[National Science Foundation|NSF]]
+* [[Project MAC]]
+* Luke Arm, a [[DEKA (company)|DEKA]] creation
+* [[MOSIS]]
+* [[MQ-1 Predator]]
+* [[Multics]]
+* [[NLS (computer system)|NLS/Augment]]: the origin of the canonical contemporary computer user interface
+* [[Northrop Grumman Switchblade]]: an unmanned oblique-wing flying aircraft for high speed, long range and long endurance flight
+* [[Onion routing]], a technique developed in the mid-1990s and later employed by [[Tor (anonymity network)|Tor]] to anonymize communications over a [[computer network]].
+* [[Passive radar]]
+* [[Policy Analysis Market]]
+* [[POSSE project|POSSE]]
+* Rapid Knowledge Formation
+* [[Sea Shadow]]
+* [[DARPA Shredder Challenge 2011]]<ref>{{cite web|url=http://www.shredderchallenge.com |title=DARPA Shredder Challenge |publisher=DARPA |accessdate=2011-10-27}}</ref> – Reconstruction of shredded documents
+* [[SIMNET]]: Wide area network with vehicle simulators and displays for real-time distributed combat simulation: tanks, helicopters and airplanes in a virtual battlefield.
+* Strategic Computing Program
+* Synthetic Aperture Ladar for Tactical Applications (SALTI)
+* [[System F6]]—''Future, Fast, Flexible, [[Fractionated Spacecraft|Fractionated Free-flying Spacecraft]] United by Information Exchange''—technology demonstrator: a 2006–2012 {{US$|226 million}} technology development program.  Cancelled in 2013 before the notionally planned 2015 launch date.<ref name=sn20130517/><ref name=sn20140321/>
+* [[SURAN]] (1983–87)
+* [[Project Vela]] (1963)
+{{refend}}
+
+==Notable fiction==
+<!-- ===============({{NoMoreCruft}})===============-->
+<!-- Please READ [[Wikipedia:WikiProject Aircraft/page content]] and [[Wikipedia:WikiProject Military history#Popular culture]] before adding any "Popular culture" items.
+
+Please do not add the many minor appearances of the aircraft. This section is only for major cultural appearances where the aircraft plays a MAJOR part in the story line, or has an "especially notable" role in what is listed. A verifiable source proving the appearance's notability may be required. Random cruft, including ALL Ace Combat, Battlefield, and Metal Gear Solid appearances, and ALL anime/fiction lookalike speculation, WILL BE removed.
+
+If your item has been removed, please discuss it on the talk page FIRST. A verifiable source proving the appearance's notability may be required. If a consensus is reached to include your item, a regular editor of this page will add it back. Thank you for your cooperation.-->
+<!-- ===============({{NoMoreCruft}})=============== -->
+
+ARPA/DARPA is well known as a high-tech government agency, and as such has many appearances in popular fiction.  Some realistic references to ARPA in fiction are in ''[[Tom Swift]] and the Visitor from Planet X''  (DARPA consults on a technical threat),<ref>Victor Appleton II, 1961. [http://www.gutenberg.org/files/17985/17985-h/17985-h.htm ''Tom Swift and the Visitor from Planet X''], originally published by Grosset & Dunlap of New York, now re-published by Project Gutenberg.  ARPA is referred to on [http://www.gutenberg.org/files/17985/17985-h/17985-h.htm#chap_8 page 68] published 1961</ref> in episodes of television program ''[[The West Wing]]'' (the ARPA-DARPA distinction), the television program ''[[Numb3rs]]''<ref>''Numb3ers'', [http://www.cbs.com/primetime/ncis_los_angeles/recaps/105/recaps.php?season=1 Season 1, Episode 5], and [http://www.math.cornell.edu/~numb3rs/spulido/Numb3rs_season5/Numb3rs_517.html Season 5, Episode 17]</ref> (DARPA research into creating the first self-aware computer), and in the motion picture ''[[Executive Decision]]'' (use of a one-of-a-kind experimental prototype in an emergency).
+
+==See also==
+{{Portal|Government of the United States|Virginia|Military history|Universities}}
+{{Portal|Military of the United States}}
+* [[ARPA-E|Advanced Research Projects Agency-Energy]] (ARPA-E)
+* [[HSARPA|Homeland Security Advanced Research Projects Agency]] (HSARPA)
+* [[Intelligence Advanced Research Projects Activity]] (IARPA)
+* [[Russian Foundation for Advanced Research Projects in the Defense Industry]]
+* [[Defence Science and Technology Laboratory]]
+* [[Defence Research and Development Organisation]]
+* [[Defence Science and Technology Organisation]]
+* [[Defence Research and Development Canada]]
+* [[Tekes (agency)|Tekes—the Finnish Funding Agency for Technology and Innovation]]
+* [[Defence Science and Technology Organization]]
+
+==References==
+{{Reflist|2}}
+
+* {{FOLDOC}}
+
+==Further reading==
+* {{cite book |last=Belfiore |first=Michael |title=The Department of Mad Scientists: How DARPA Is Remaking Our World, from the Internet to Artificial Limbs |publisher=Harper |date=2009 |isbn=9780061577932 |oclc=310399265}} [[William Saletan]] writes of Belfiore's book that "His tone is reverential and at times breathless, but he captures the agency’s essential virtues: boldness, creativity, agility, practicality and speed." ({{cite news |last=Saletan |first=William |title=The Body Electric |date=December 24, 2009 |work=The New York Times |url=http://www.nytimes.com/2009/12/27/books/review/Saletan-t.html }})
+* Castell, Manuel, ''The Network Society: A Cross-cultural Perspective'', Edward Elgar Publishing Limited, Cheltenham, UK, 2004.<!--Why is this being listed here?-->
+* {{cite news |title=The Men from DARPA |first=John |last=Sedgwick |work=Playboy Magazine |date=August 1991}} <!--needs URL and an explanation about why this is being listed-->
+
+==External links==
+{{Commons category|Defense Advanced Research Projects Agency}}
+* [http://www.darpa.mil/ DARPA Home Page]
+* [http://www.darpa.mil/off_programs.html Ongoing Research Programs]
+* [http://www.dod.mil/pubs/foi/Science_and_Technology/DARPA/ Declassified DARPA documents], OSD & Joint Staff FOIA Service 
+* [http://mipt.ru/education/chairs/theor_cybernetics/government/upload/3af/Program_darpa2015_rus.pdf DARPA FY2015 Research Program]
+
+{{DARPA|state=uncollapsed}}
+{{DOD agencies}}
+{{US research agencies}}
+{{Dwight D. Eisenhower}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Darpa}}
+[[Category:DARPA| ]]
+[[Category:Collier Trophy recipients]]
+[[Category:Company spin-offs]]
+[[Category:Military units and formations established in 1958]]
+[[Category:Research and development in the United States]]
+[[Category:Research and development organizations]]
+[[Category:Research projects]]
+[[Category:United States Department of Defense agencies]]
+[[Category:1958 establishments in the United States]]
+[[Category:Government agencies established in 1958]]
+[[Category:Articles containing video clips]]
+[[Category:Life sciences industry]]

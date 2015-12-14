@@ -1,0 +1,53 @@
+{{TOC_Right}}
+'''Anthemius of Tralles''' ({{lang-grc-gre|Ἀνθέμιος ὁ Τραλλιανός}}, ''Anthémios o Trallianós''; {{c.|474}}&nbsp;– 533&nbsp;{{abbr|x|sometime between}}&nbsp;558){{sfnp|Boyer|1991|p=193}} was a [[Ancient Greeks|Greek]] from [[Tralles]] who worked as a [[Greek geometry|geometer]] and [[Byzantine architecture|architect]] in [[Constantinople]], the capital of the [[Byzantine Empire]]. With [[Isidore of Miletus]], he designed the [[Hagia Sophia]] for [[Justinian&nbsp;I]].
+{{anchor|History|Biography}}
+==Life==
+Anthemius was one of the five sons of Stephanus of Tralles, a physician. His brothers were Dioscorus, Alexander, Olympius, and Metrodorus. Dioscorus followed his father's profession in Tralles; Alexander did so in [[Ancient Rome|Rome]] and became one of the most celebrated medical men of his time; Olympius became a noted [[Roman law|lawyer]]; and Metrodorus worked as a [[Grammarian (Greco-Roman world)|grammarian]] in Constantinople.{{sfnp|''EB''|1878}}
+
+He was said to have annoyed his neighbor Zeno in two ways: first, by engineering a miniature earthquake by sending steam through leather tubes he had fixed among the [[joist]]s and flooring of Zeno's parlor while he was entertaining friends and, second, by simulating [[thunder]] and [[lightning]] and flashing intolerable light into Zeno's eyes from a slightly hollowed mirror.{{sfnp|''EB''|1911}} In addition to his familiarity with steam, some dubious authorities credited Anthemius with a knowledge of [[gunpowder]] or other explosive compound.{{sfnp|''EB''|1878}}
+
+==Mathematics==
+Anthemius was a capable [[Greek mathematics|mathematician]]. In the course of his treatise "On [[Burning Glass]]es", intended to facilitate the construction of surfaces to reflect light to a single point, he described the string construction of the [[ellipse]]{{sfnp|Boyer|1991|p=193}} and assumed a property of ellipses not found in [[Apollonius of Perga]]'s ''Conics'': the equality of the angles subtended at a focus by two tangents drawn from a point. His work also includes the first practical use of the [[directrix (conic section)|directrix]]: having given the focus and a double ordinate, he used the focus and directrix to obtain any number of points on a [[parabola]].{{sfnp|''EB''|1911}} This work was later known to [[Mathematics in medieval Islam|Arab mathematicians]] such as [[Book of Optics|Alhazen]].
+
+Eutocius's commentary on Apollonius's ''Conics'' was dedicated to Anthemius.{{sfnp|Boyer|1991|p=193}}
+[[File:Hagia-Sophia-Laengsschnitt.jpg|thumb|200px|The [[Hagia Sophia]] in cross section.]]
+==Architecture==
+As an architect, Anthemius is best known for his work designing the [[Hagia Sophia]]. He was commissioned with [[Isidore of Miletus]] by [[Justinian&nbsp;I]] shortly after the earlier church on the site burned down in 532 but died early on in the project. He is also said to have repaired the flood defenses at [[Dara (Mesopotamia)|Daras]].
+
+==See also==
+* [[Anthemius (disambiguation)|Other Anthemiuses]]
+
+==References==
+===Citations===
+{{reflist|30em}}
+===Bibliography===
+* {{citation |contribution=[[s:Encyclopædia Britannica, Ninth Edition/Anthemius|Anthemius]] |title=''[[s:Encyclopædia Britannica, Ninth Edition|''Encyclopædia Britannica'', 9th ed.]], [[s:Encyclopædia Britannica, Ninth Edition/Volume II|Vol.&nbsp;II]]'' |editor-last=Baynes |editor-first=Thomas Spencer |display-editors=0 |publisher=Charles Scribner's Sons |location=New York |date=1878 |ref={{harvid|EB|1878}} |p=103 }}.
+* {{citation |last=Heath |first=Thomas Little |author-link=Thomas Little Heath |display-authors=0 |contribution=[[s:1911 Encyclopædia Britannica/Anthemius|Anthemius]] |title=''[[s:1911 Encyclopædia Britannica|''Encyclopædia Britannica'', 11th ed.]], [[s:1911 Encyclopædia Britannica/Volume II|Vol.&nbsp;II]]'' |editor-last=Chisholm |editor-first=Hugh |editor2-last=Phillips |editor2-first=Walter Alison |display-editors=0 |publisher=Cambridge University Press |location=[[Cambridge, England|Cambridge]] |date=1911 |ref={{harvid|EB|1911}} |p=93 }}.
+* {{citation |last=Boyer |first=Carl Benjamin |author-link=Carl Benjamin Boyer |title=A History of Mathematics |edition=2nd&nbsp;ed. |publisher=John Wiley & Sons |date=1991 |isbn=0-471-54397-7 }}.
+
+==Further reading==
+* Editions of Anthemius's "On Burning-Glasses":
+:: {{citation |last=Dupuy |first=L. |title=''Περί παραδόξων μηχανημάτων [''Perí Paradóxōn Mēkhanēmátōn; Concerning Wondrous Machines'']'' |date=1777 }}. {{el icon}}
+:: {{citation |title=Histoire de l'Academie des Instrumentistes |volume=Vol.&nbsp;XLII }}. {{fr icon}}
+:: {{citation |last=Westermann |first=A. |title=''Παραδοξογράφοι [''Paradoxográphoi; Marvel-Writers'']'' |date=1839 }}. {{el icon}}
+
+== External links ==
+* {{citation |contribution=Anthemius of Tralles |title=Complete Dictionary of Scientific Biography |date=2008 |accessdate=18 January 2015 |contribution-url=http://www.encyclopedia.com/doc/1G2-2830900120.html }}.
+* {{MacTutor Biography|id=Anthemius}}
+
+{{Ancient Greek mathematics}}
+
+{{Authority control}}
+
+[[Category:470s births]]
+[[Category:Byzantine architects]]
+[[Category:Byzantine scientists]]
+[[Category:6th-century Byzantine people]]
+[[Category:5th-century mathematicians]]
+[[Category:6th-century mathematicians]]
+[[Category:Greek Christians]]
+[[Category:Ancient Greek mathematicians]]
+[[Category:People from Aydın]]
+[[Category:Justinian I]]
+[[Category:6th-century deaths]]
+[[Category:5th-century Byzantine people]]

@@ -1,0 +1,45 @@
+{{Infobox book
+| name          = The Time in Between
+| title_orig    =
+| translator    =
+| image         = [[Image:The Time In Between cover.png|200px]]
+| caption =
+| author        = [[David Bergen]]
+| illustrator   = 
+| cover_artist  = 
+| country       = [[Canada]]
+| language      = [[English language|English]]
+| series        = 
+| subject       = 
+| genre         = [[Novel]]
+| publisher     = [[McClelland & Stewart]] in Canada<br />[[Random House]] in [[United States|the USA]]
+| pub_date      = August 16, 2005
+| english_pub_date =
+| media_type    = 
+| pages         = 288 pp (McClelland & Stewart), 256 pp (Random House)
+| isbn          = ISBN 978-0-7710-1178-8 (McClelland & Stewart)<br />ISBN 978-1-4000-6240-9
+| oclc= 58052004
+| preceded_by   =
+| followed_by   =
+}}
+
+'''''The Time in Between''''' is a novel by [[Canada|Canadian]] author [[David Bergen]]. It deals with a man named Charles Boatman, who mysteriously returns to [[Vietnam]], where he had been a soldier earlier in his life, and his children, Ada and Jon, who also go to Vietnam to search for him.
+
+Although generally called a [[war novel]], the author states that he "[doesn't] see ''The Time in Between'' as a war novel".<ref>[http://www.mcclelland.com/catalog/display.pperl?isbn=9780771011788]</ref>
+
+''The Time in Between'' was the recipient of the 2005 [[Scotiabank Giller Prize]].
+
+==References==
+{{Reflist}}
+
+{{Giller Prize}}
+
+{{DEFAULTSORT:Time In Between, The}}
+[[Category:2005 novels]]
+[[Category:Canadian novels]]
+[[Category:Novels set in Vietnam]]
+[[Category:Scotiabank Giller Prize-winning works]]
+[[Category:McClelland & Stewart books]]
+
+
+{{2000s-novel-stub}}

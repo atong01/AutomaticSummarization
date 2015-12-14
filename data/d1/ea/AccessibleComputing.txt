@@ -1,0 +1,3 @@
+#REDIRECT [[Computer accessibility]]
+
+{{Redr|move|from CamelCase|up}}

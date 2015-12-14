@@ -1,0 +1,1571 @@
+{{hatnote|This article is about the franchise; for other uses, see [[Big Brother (disambiguation)]].}}
+{{Infobox television
+| show_name                = Big Brother
+| image                    = [[File:International Logo of Big Brother.png]]
+| caption                  = International logo of ''Big Brother''
+| show_name_2              = ''Secret Story''<br>''Celebrity/VIP Big Brother''<br>''Teen Big Brother''
+| genre                    = [[Entertainment]]<br>[[Reality television]]
+| creator                  = [[John de Mol]]
+| based_on                 =
+| developer                = [[John de Mol]]<br>[[Endemol]]
+| distributor              = [[Endemol]]
+| channel                  = [[Veronica (TV channel)|Veronica]]
+| composer                 = [[Vanacore Music]]
+| first_run                = [[Netherlands]]
+| first_aired              = {{Start date|1999|09|16|df=y}}
+| last_aired               = present
+| website                  = http://www.endemol.com/programme/big-brother
+| website_title            = ''Big Brother'' on Endemol
+}}
+'''''Big Brother''''' is a [[Reality television#Reality competition/game shows|reality game show]] franchise created by [[John de Mol]] and was originally based on "1984",  a book by George Orwell. The novel was set on 1984, where the Big Brother was a leader who ruled with an iron fist, monitoring his society. The premise of the show is that there is a group of people, dubbed as "housemates" or "houseguests", living together in a specially constructed large house. During their time in the house they are isolated from the outside world and are not commonly aware of outside event or have access to any electronic devices. Contestants are continuously monitored by in-house television cameras as well as personal audio microphones during their entire stay. Each season lasts for about three months, with at least ten contestants entering the house. To win the final cash prize, a contestant must survive periodic (usually weekly) evictions and be the last housemate or houseguest remaining in the compound by the series' conclusion. In English-speaking countries the programme is often referred to as "BB".<ref>[http://www.channel5.com/shows/big-brother/episodes?season=15706http:/www.channel5.com/shows/big-brother/episodes?season=15706 UK Channel 5 Web site, with many references to "BB"]</ref>
+{{TOC limit|3}}
+
+==Background==
+
+===History===
+
+The idea for ''Big Brother'' is said to have come during a brainstorming session at the Dutch-based international [[Italy|Italian]] television production firm [[Endemol]] on 10 March 1997 {{Citation Needed|date=October 2015}}. The first version of ''Big Brother'' was broadcast in 1999 on [[Veronica (TV channel)|Veronica]] in the [[Big Brother (Netherlands)|Netherlands]]. Since then the format has become a worldwide TV franchise, airing in many countries in a number of versions.<ref name="Nordicom 1">{{cite web | url=http://www.nordicom.gu.se/sites/default/files/kapitel-pdf/42_011-022.pdf | title=New Media, New Options, New Communities? | publisher=''[[Nordicom]]'' | accessdate=23 May 2014 | author=Drotner, Kirsten | type=PDF}}</ref>
+
+Although each country has made its own adaptations of the format, the contestants are confined to a specially-designed house where their every action is recorded by cameras and microphones and they are not permitted contact with the outside world. In most countries that have produced ''Big Brother'', the contestants have been known as "housemates"; however in the American and Canadian version they are referred to as "houseguests". The term ''Big Brother'' originates from [[George Orwell]]'s novel, ''[[Nineteen Eighty-Four]]''.<ref name="Nordicom 1"/> Besides living together under continuous observation—which is the chief attraction of the contest, the program relies on four basic props: (1) the stripped-bare back-to-basics environment in which they live, (2) the evictions, (3) the weekly tasks and competitions set by ''Big Brother'' and (4) the "Diary or Confession Room" where housemates convey their thoughts, feelings, and frustrations, and reveal their nominees for eviction. Contestants are required to evict one of their own on a regular basis;<ref>{{cite web | url=http://www.endemol.com/programme/big-brother | title=Big Brother | publisher=''[[Endemol]]'' | accessdate=23 May 2014}}</ref> in the earlier series of ''Big Brother'', contestants were evicted every two weeks. However, the UK version introduced weekly evictions; almost all versions of ''Big Brother'' now follow this format.
+
+At regular intervals, the housemates privately nominate a number of fellow housemates whom they wish get evicted from the house. In lot of seasons, however, housemates regularly make their nominations in front of everybody. The housemates with the most nominations are then announced, and viewers are given the opportunity to [[televoting|vote via telephone]] for whom they wish to see evicted. Some more recent editions have since included more methods of voting, such as voting through social media and smartphone applications. The exceptions to this process are in the American and Canadian versions, in which the housemates vote to evict each other. After the votes are tallied, the "evictee" leaves the house and is interviewed by the host of the show. In some cases, two housemates may be evicted simultaneously (a "double eviction"); rarely, no housemates will be removed that week. At the end of the game, the last remaining housemate is declared the winner for the particular series and receives prizes (often including a large amount of money, a car, a vacation and—in some editions—a house).
+
+In the first season of most series of ''Big Brother'', the house was very basic. Although essential amenities such as running water, furniture and a limited ration of food were provided, luxury items were often forbidden. This added a [[survivalist]] element to the show, increasing the potential for social tension. Nearly all later series provide a modern house for the contest with a jacuzzi, sauna, VIP suite, loft, and other luxuries.
+
+The contestants are required to do housework, and are assigned tasks by the producers of the show (who communicate with the housemates via the omnipresent authority figure known to them only as "Big Brother"). The tasks are designed to test their teamwork abilities and community spirit; in some countries, the housemates' shopping budget or weekly allowance depends on the outcome of assigned tasks. The housemates have a weekly allowance, with which they can buy food and other essentials.
+
+Most international versions of the show remain quite similar to each other; their main format remains true to the original [[fly on the wall]] observational style with the emphasis on human relationships, to the extent that contestants are forbidden from discussing nominations or voting strategy. Since 2001 the [[United States|US]] version adopted a different format from the others during its second season, where the contestants are encouraged to strategise to advance in the game. In this formats the contestants themselves vote to evict each other. In 2011, the [[United Kingdom|UK]] version controversially adapted the discussion of nominations before reverting this rule back after a poll by ''Big Brother'' broadcaster [[Channel 5 (UK)|Channel 5]].<ref>{{cite web | url=http://www.bbspy.co.uk/bb13/features/0608/poll-big-brother-2012-housemates-discuss-nominations | title=POLL: Should housemates be able to talk nominations? | publisher=''BBSpy'' | date=8 June 2012 | accessdate=23 May 2014 | author=Scott, Matt}}</ref>
+
+===Overview===
+From a sociological and demographic perspective, ''Big Brother'' allows an analysis of how people react when forced into close confinement with people outside their [[comfort zone]] (with different opinions or ideals, or from a different socioeconomic group). The viewer has the opportunity to see how a person reacts from the outside (through the constant recording of their actions) and the inside (in the Diary or Confession Room). The Diary Room (more commonly known as the DR) is where contestants can privately express their feelings about the game, strategy and the other contestants. The results range from violent or angry confrontations to genuine and tender connections (often including romantic interludes).
+
+The show is notable for involving the [[Internet]]. Although the show typically broadcasts daily updates during the evening (sometimes criticized for heavy editing by producers from viewers and former contestants alike<ref>{{cite journal | url=http://stakeholders.ofcom.org.uk/binaries/enforcement/broadcast-bulletins/obb110/issue110.pdf | title=Complaint by Ms Dawn Blake | author=Blake, Dawn | journal=[[Ofcom|Ofcom Broadcast Bulletin]] | date=27 May 2008 | issue=110 | type=PDF}}</ref>), viewers can also watch a continuous feed from multiple cameras on the Web in most countries. These websites were successful, even after some national series began charging for access to the video stream. In some countries, Internet broadcasting was supplemented by updates via email, [[Wireless Application Protocol|WAP]] and [[Text messaging|SMS]]. The house is shown live on [[satellite television]], although in some countries there is a 10–15 minute delay to allow libelous or unacceptable content (such as references to people not participating in the program who have not consented to have personal information broadcast) to be removed.
+
+Contestants occasionally develop sexual relationships; the level of sexual explicitness allowed to be shown in broadcast and Internet-feed vary on the country's broadcasting standards.
+
+=== Isolation ===
+''Big Brother'' contestants are isolated in the house, without access to television, radio or the Internet; they are not permitted routine communication with the outside world. This was an important issue for most earlier series of the show. In more-recent series, contestants are occasionally allowed to view televised events (usually as a reward for winning at a task). In most versions of the program books and writing materials are also forbidden, although exceptions are sometimes made for religious materials such as the [[Bible]], [[Tanakh]] or the [[Qur'an]]. Some versions ban all writing implements, even items that can be used to write (such as lipstick or eyeliner). Despite the housemates' isolation, some contestants are occasionally allowed to leave the house as part of tasks. Contestants are permitted to leave the house in an emergency.
+
+Contestants have regularly-scheduled interactions with the show's host on eviction nights. Throughout each day the program's producer, in the "Big Brother" voice, issues directives and commands to contestants. Some versions of the show allow private counseling sessions with a psychologist. These are allowed at any time, and are often conducted by telephone from the Diary Room.
+
+==Format changes and twists==
+
+===Regional versions===
+[[Image:Big brother countries.PNG|400px|thumbnail|alt=World map, with different shading for "Big Brother" versions|Locations of ''Big Brother'' versions:
+{{legend|blue|With individual franchises}}
+{{legend|#ADFF2F|Part of ''Big Brother Africa''}}
+{{legend|green|With individual franchises; Also part of ''Big Brother Africa''}}
+{{legend|#ADD8E6|Part of ''Big Brother:'' الرئيس}}
+{{legend|pink|Part of ''Gran Hermano del Pacífico''}}
+{{legend|red|With individual franchises; Also part of ''Gran Hermano del Pacífico''}}
+{{legend|maroon|Part of ''Veliki brat''}}
+{{legend|#FEDF00|With individual franchises; Also part of ''Big Brother'' of Scandinavia}}]]
+Due to the intelligibility of certain languages across several nations, it has been possible to make regional versions of ''Big Brother''. All these follow the normal ''Big Brother'' rules, except that contestants must come from each of the countries in the region where it airs: ''[[Big Brother Africa]]'' of Africa (includes [[Angola]], [[Botswana]], [[Ethiopia]], [[Ghana]], [[Kenya]], [[Liberia]], [[Malawi]], [[Mozambique]], [[Namibia]], [[Nigeria]], [[Sierra Leone]], [[South Africa]], [[Tanzania]], [[Uganda]], [[Zambia]], and [[Zimbabwe]]), [[Big Brother: The Boss|''Big Brother:'' الرئيس]] of the Middle East (includes [[Bahrain]], [[Egypt]], [[Iraq]], [[Jordan]], [[Kuwait]], [[Lebanon]], [[Oman]], [[Saudi Arabia]], [[Somalia]], [[Syria]], and [[Tunisia]]), ''[[Gran Hermano (Pacific)|Gran Hermano]]'' of South America (includes [[Chile]], [[Ecuador]], and [[Peru]]), ''[[Big Brother (Sweden and Norway)|Big Brother]]'' of Scandinavia (includes [[Norway]] and [[Sweden]]), and ''[[Veliki brat 2011|Veliki brat]]'' of the Balkans (includes [[Serbia]], [[Montenegro]], [[Croatia]], [[Bosnia and Herzegovina]], and [[Republic of Macedonia|Macedonia]]). The British version of the show accepts Irish applicants and was available between 2000 and 2010 as Channel 4 was available, as of 2015 the show returned to Irish screens as TV3 bought the rights from UK broadcaster Channel 5 to air the show.
+
+===Multiple areas and houses===
+In 2001, ''[[Big Brother (Netherlands)#Season 3|Big Brother 3]]'' of the Netherlands introduced "Rich and Poor" concept, wherein the house is separated into a luxurious half and a poor half and two teams of housemates fight for a place in the luxurious half. The Dutch version continued this concept until its [[Big Brother (Netherlands)#Season 4|fourth season]]. Other versions later followed and introduced a similar concept, of which some have their own twists: [[Big Brother Africa|Africa]] (in [[Big Brother Africa 5|2010]], [[Big Brother Africa 6|2011]], [[Big Brother Africa 7|2012]] and [[Big Brother Africa 8|2013]]), [[Big Brother (Albania)|Albania]] (in [[Big Brother 3 (Albania)|2010]]), [[Big Brother Australia|Australia]] (in [[Big Brother Australia 2003|2003]] and [[Big Brother 10 (Australia)|2013]]), [[Veliki Brat|Balkan States]] (in [[Veliki Brat VIP 4|VIP 2010]] and [[Veliki brat 2011|2011]]), [[Big Brother Brasil|Brazil]] (in [[Big Brother Brasil 9|2009]], [[Big Brother Brasil 10|2010]], [[Big Brother Brasil 11|2011]], [[Big Brother Brasil 13|2013]] and [[Big Brother Brasil 14|2014]]), [[Big Brother (Canada)|Canada]] ([[Big Brother 1 (Canada)|2013–present]]), [[Big Brother (Denmark)|Denmark]] (in [[Big Brother (Denmark)#Big Brother 3|2003]]), [[Big Brother (Finland)|Finland]] (in [[Big Brother 2009 (Finland)|2009]] and [[Big Brother 2014 (Finland)|2014]]), [[Big Brother Germany|Germany]] (in [[Big Brother Germany (Season 4)|2003]], [[Big Brother Germany (Season 5)|2004–2005]], [[Big Brother Germany (Season 6)|2005–2006]], [[Big Brother Germany (Season 8)|2008]] and [[Big Brother Germany (Season 9)|2008–2009]]), [[Big Brother (Greece)|Greece]] (in [[Big Brother (Greece)#Season 3|2003]]), [[Bigg Boss|India]] (in [[Bigg Boss 6|2012]] and [[Bigg Boss 7|2013]]), [[HaAh HaGadol|Israel]] (in [[HaAh HaGadol 2|2009]]), [[Grande Fratello|Italy]] (in [[Grande Fratello Season 6|2006]] and [[Grande Fratello Season 7|2007]]), [[Big Brother Norway|Norway]] (in [[Big Brother Norway#Big Brother 3 - Next Generation|2003]]), [[Pinoy Big Brother|Philippines]] (in [[Pinoy Big Brother: Double Up|2009]], [[Pinoy Big Brother: Teen Edition 3|Teen 2010]] and [[Pinoy Big Brother: Unlimited|2011]]), [[Big Brother (Poland)|Poland]] (in [[Big Brother (Poland)#Season 3|2002]]), [[Big Brother (Portugal)|Portugal]] (in [[Big Brother VIP (Portugal)|VIP 2013]]), [[Big Brother (Slovakia)|Slovakia]] (in [[Big Brother (Slovakia)|2005]]), [[Big Brother (Slovenia)|Slovenia]] (in [[Big Brother Slovenia Season 2|2008]]), [[Big Brother (Sweden and Norway)|Scandinavia]] (in [[Big Brother (Sweden and Norway)#Season one|2005]]), [[Big Brother (South Africa)|South Africa]] (in [[Big Brother Mzansi 3 (South Africa)|2014]]), [[Gran Hermano (Spain)|Spain]] (in [[Gran Hermano Spain (VIP Season 1)|VIP 2004]], [[Gran Hermano Spain (Season 10)|2008]], [[Gran Hermano Spain (Season 11)|2009–2010]] and [[Gran Hermano Spain (Season 12)|2010]]), [[Big Brother (UK)|United Kingdom]] (in [[Big Brother 3 (UK)|2002]], [[Celebrity Big Brother 5|Celebrity 2007]], [[Big Brother 9 (UK)|2008]] and [[Celebrity Big Brother 11|Celebrity 2013]]), and [[Big Brother (U.S.)|United States]] (in [[Big Brother 11 (U.S.)|2009–present]]).
+
+In 2011-2012 (GH7), the Argentinian edition added "La Casa de al Lado" ("The House Next Door"), a smaller, more luxurious house which served multiple functions. The first week it hosted 4 potential housemates, and the public voted for two of them to enter the main house. The second week, two pairs of twins competed in the same fashion, with only one pair allowed in. Later, the 3rd, 4th and 5th evicted contestants were given the choice of staying on their way out, and they competed for the public's vote to reenter the house. Months later, after one of the contestants left the house voluntarily, the House Next Door reopened for four contestants who wanted to reenter and had not been in such playoff before. The House Next Door was also used in other occasions to allow contestants from the main house for limited periods of time, especially to have some more privacy (which of course could be seen by the public).<ref>[[:es:Anexo:Séptima temporada de Gran Hermano (Argentina)#Casa de al lado]]</ref>
+
+===Evil Big Brother===
+In 2004, the [[Big Brother 5 (UK)|fifth series]] of the UK version introduced an evil Big Brother. Big Brother becomes villainous with harsher punishments, such as taking away prize money, more difficult tasks and secret tricks. This concept has also been used in [[Australia]], [[Belgium]], [[Bulgaria]], [[Croatia]], [[Finland]], [[Germany]], [[Greece]], [[Italy]], the [[Netherlands]], [[South America]], [[Scandinavia]], [[Serbia]], [[Spain]], [[Thailand]], the [[Philippines]], and [[Mexico]].
+
+=== Twin or triplet housemates ===
+In 2004, the ''[[Big Brother 5 (U.S.)|Big Brother 5]]'' of the US version introduced twins [[Adria Montgomery-Klein and Natalie Montgomery-Carroll|Adria & Natalie Montgomery-Klein]]. They were tasked to switch back and forth in the house. If they successfully changed places numerous times for five weeks without being caught, they could play the game as individual houseguests. This twist was used again in 2015 during ''[[Big Brother 17 (U.S.)|Big Brother 17]]'' following slightly different rules: If they successfully changed places numerous times for five weeks without being evicted, they could play the game as individual houseguests. The twins were discovered after the first two weeks, but were not evicted before being able to play as individuals.
+
+This twin/triplet twist was used in several countries. Some made modifications in this said twist; others have had twins in the house together without this element of secrecy. The following are the countries that have featured twins or triplets: Australia (in [[Big Brother Australia 2005|2005]]), Germany (in [[Big Brother Germany (Season 6)|2005-2006]]), Bulgaria (in [[Big Brother 3 (Bulgaria)|2006]] and [[Big Brother All Stars 2012 (Bulgaria)|2012]]), United Kingdom (in [[Big Brother 8 (UK)|2007]], [[Celebrity Big Brother 8|Celebrity 2011]], [[Celebrity Big Brother 9|Celebrity 2012]], [[Big Brother 14 (UK)|2013]] and [[Big Brother 16 (UK)|2015]]), France (in [[Secret Story 2007 (France)|2007]], [[Secret Story 2011 (France)|2011]], [[Secret Story 7 (France)|2013]] and [[Secret Story 9 (France)|2015]]), Spain (in [[Gran Hermano Spain (season 9)|2007]] and [[Gran Hermano 14 (Spain)|2013]]), Poland (in [[Big Brother (Poland)#Season 4|2007]]), India (in [[Bigg Boss (Season 2)#Sana Wadiwala|2008]]), Africa (in [[Big Brother Africa 4|2009]]), Balkan Region (in [[Veliki brat 2009|2009]], [[Veliki Brat VIP 5|2013]]), Philippines (in [[Pinoy Big Brother: Double Up|2009]], [[Pinoy Big Brother: Teen Edition 4|Teen 2012]] and [[Pinoy Big Brother: All In|2014]]), Portugal (in [[Secret Story 2010 (Portugal)|2010]] and [[Secret Story 3 (Portugal)|2012]]), Israel (in [[HaAh HaGadol 3|2011]]), Ukraine (in [[Big Brother (Ukraine)|2011]]), Argentina (in [[Gran Hermano Argentina (season 7)|2011]]), and Albania (in [[Big Brother 6 (Albania)|2013]]).
+
+===Secret missions===
+Secret missions are a common element of the show since its introduction during the [[Big Brother 6 (UK)|sixth UK series]]. During these secrets one or more housemates are set a task from Big Brother with the reward of luxuries for the household and/or as personal reward if the task is successful. Some versions of Big Brother have secret tasks presented by another character who lives in plain sight of the housemate. Such characters include Marsha the Moose (from BB Canada) and Surly the Fish (from BB Australia).
+
+The U.S. version of Season 8 (2007) introduced "America's Player", where a selected houseguest must complete various tasks (determined by public vote) in secret for the duration of his stay in the house in exchange for a cash reward . It was repeated in U.S. Season 10 (Summer 2008) for a week. Season 16 (2014) featured "Team America", in which 3 houseguests were selected to work as a team to complete tasks (again determined by public voting) for a cash reward. This continued for the entire season despite the eviction of a member.
+
+===Opening night twists===
+Since ''[[Big Brother 2 (UK)|Big Brother 2]]'', the [[Big Brother (UK)|UK series]] opens with a twist. This has included the public choosing the final housemate from three possibilities (''Big Brother 2''); public voting for a housemate to leave during the first week and the housemates choosing between two housemates with the least number of votes (''Big Brother 3''); first-night nominations (''[[Big Brother 4 (UK)|Big Brother 4]]''); suitcase nominations (''Big Brother 5''); Unlucky Housemate 13 (''Big Brother 6''); Big Brother Hood (''[[Big Brother 7 (UK)|Big Brother 7]]''); an all-female house and a set of twins as contestants (''[[Big Brother 2007 (UK)|Big Brother 8]]''); a couple entering as housemates, who must hide their relationship (''[[Big Brother 9 (UK)|Big Brother 9]]''); housemates having to earn housemate status (''[[Big Brother 10 (UK)|Big Brother 10]]''); a [[Mole (espionage)|mole]] entering the house with an impossible task (''[[Big Brother 11 (UK)|Big Brother 11]]''); [[Jackie Stallone]] entering a house containing her son's ex-wife (''[[Celebrity Big Brother 3 (UK)|Celebrity Big Brother 3]]''); a non-celebrity in a celebrity edition (''[[Celebrity Big Brother 4 (UK)|Celebrity Big Brother 4]]'') and a visit from [[Jade Goody]]'s family (''[[Celebrity Big Brother 5 (UK)|Celebrity Big Brother 5]]''). During ''[[Celebrity Big Brother 6 (UK)|Celebrity Big Brother 6]]'' [[La Toya Jackson]] entered first, walked straight into a private bedroom (the bedrooms are usually locked until everyone has arrived) and put her bag on the bed to claim it as her own.<ref>{{cite web | url=http://www.mirror.co.uk/celebs/news/2009/01/05/celebrity-big-brother-exclusive-la-toya-jackson-s-diva-demands-115875-21016252/ | title=Celebrity Big Brother exclusive: La Toya Jackson's diva demands - 3am & Mirror Online | publisher=''[[Daily Mirror]]'' | date=25 January 2009 | accessdate=15 July 2013 | author=Bryant, Tom}}</ref> [[Terry Christian]] became head of the house which was used at the end of the previous non-celebrity series and had to nominate three housemates for the first eviction; the others voted to save one of the nominees, [[Ben Adams]], leaving [[Lucy Pinder]] and eventual winner [[Ulrika Jonsson]] to face the first eviction. In the summer series of 2009 the house was empty at first, with only crates to sit on. The new arrivals had to earn housemate status by completing tasks; Noirin Kelly was required to shave off her hair and draw a [[mustache]] and glasses on her face. Freddie Fisher and eventual winner Sophie Reade had to change their names by [[deed poll]] to Halfwit and Dogface. On day four, the six people who had not received housemate status were nominated for a public vote. The person with the fewest votes (Beinazir Lasharie) left, and the house was transformed into a "Big Brother" house. Other countries, such as Bulgaria, the United States and (previously) Australia, have also begun using opening-night twists.
+
+As common opening twist is to only introduce a single sex cast on the premiere of the show while having members of the other sex introduced over the next few days. The [[Big Brother 8 (UK)|eighth UK series]] first used this twist with an initial all-female house. However, two days later one male housemate arrived. The same twist was used in [[Bulgaria]] ([[Big Brother 4 (Bulgaria)|BB4]]). Africa ([[Big Brother Africa 4|BBA4]]) used a similar twist, with an all-male premiere.
+
+===Fake evictions===
+The fifth UK edition introduced fake evictions, where one or two housemates are "evicted". In the eighth UK Series one housemate was evicted, interviewed and sent back into the house.
+
+In the [[Pinoy Big Brother: All In|fifth Philippine edition]], four housemates (Daniel, Manolo, Jane and Vickie) were fake evicted and stayed in a place called ''bodega''.
+
+In ''[[Big Brother Australia 2013]]'' Benjamin 'Ben' Zabel was "fake" evicted on Day 50. He was removed and put into the house's presidential suite, where he spent 24 hours without the other housemates knowing he was still in the house. He had immunity from eviction that week. After his 24 hours, Ben returned to the house. In ''[[Big Brother Australia 2014]]'' Travis Lunardi was "fake" evicted and Ben who was fake evicted from the previous edition joined him for 24 hours to give him some advice. Travis returned after 3 days total in the ''Sanctuary'' — a small private house with a pool and some amenities. Like Ben from his fake eviction, Travis had immunity from eviction that week.
+
+===Twists involving multi-franchises===
+
+====Housemate exchanges====
+In 2002, [[Mexico]] ([[Big Brother México#Big Brother 1|BBM1]]) and the [[Spain]] ([[Gran Hermano Spain (season 3)|GH3]]) temporarily made housemate exchanges. Mexico's Eduardo Orozco swapped with Spain's Andrés Barreiro in 7 days. In 2010, the first 2-housemates exchange was held in [[Spain]] and [[Italy]]. Gerardo Prager and Saray Pereira from [[Gran Hermano Spain (season 11)|GH11]] of [[Spain]] was swapped with Carmela Gualtieri and Massimo Scattarella of [[Grande Fratello (season 10)|GF10]] of [[Italy]] for 7 days.
+
+In later years, several housemate exchanges were done around the world: [[Argentina]] ([[Gran Hermano Argentina#Season 3|GH3]]) and [[Spain]] ([[Gran Hermano Spain (season 4)|GH4]]), [[Ecuador]] (GH1) and [[Mexico]] ([[Big Brother México#Big Brother 2|BBM2]]), and [[Africa]] ([[Big Brother Africa 1|BBA1]]) and [[United Kingdom]] ([[Big Brother 4 (UK)|BB4]]) in 2003; [[Scandinavia]] ([[Big Brother (Sweden and Norway)#Season two|BB2]]) and [[Thailand]] ([[Big Brother Thailand (season 2)|BBT2]]) in 2006; [[Philippines]] ([[Pinoy Big Brother (season 2)|PBB2]]) and [[Slovenia]] ([[Big Brother 1 (Slovenia)|BB1]]), and [[Argentina]] ([[Gran Hermano Argentina#Season 5|GH5]]) and [[Spain]] ([[Gran Hermano Spain (season 9)|GH9]]) in 2007; Africa ([[Big Brother Africa 3|BBA3]]) and [[Finland]] ([[Big Brother 2008 (Finland)|BB4]]) in 2008; [[Finland]] ([[Big Brother 2009 (Finland)|BB5]]) and [[Philippines]] ([[Pinoy Big Brother: Double Up|PBB3]]) in 2009; [[Finland]] ([[Big Brother 2010 (Finland)|BB6]]) and Slovenia ([[Big Brother Slavnih|BBS1]]) in 2010; [[Spain]] ([[Gran Hermano Spain (season 12)|GH12]]) and [[Israel]] ([[HaAh HaGadol 3|HH3]]) in 2010 to 2011; [[Finland]] ([[Big Brother 2011 (Finland)|BB7]]) and [[Norway]] ([[Big Brother Norway#Big Brother 4|BB4]]) in 2011; and [[Argentina]] ([[Gran Hermano Argentina#Season 7|GH7]]) and [[Israel]] ([[HaAh HaGadol 4|HH4]]) in 2012.
+
+====Evicted housemate exchanges====
+In 2003, [[Mexico]]'s Isabel Madow ([[Big Brother México#Big Brother VIP 2|BB VIP2]]) and [[Spain]]'s Aída Nízar ([[Gran Hermano Spain (season 5)|GH5]]) was swapped for 7 days. This twist was also done between [[Russia]] ([[Big Brother (Russia)|BBR1]]) and Pacific (GHP1) in 2005; and [[Argentina]] ([[Gran Hermano Argentina#Season 4|GH4]]) and [[Brazil]] ([[Big Brother Brasil 7|BBB7]]) in 2007.
+
+====Evicted housemate visits====
+Anouska Golebiewski, an evicted housemate from [[United Kingdom]] (housemate from [[Big Brother 4 (UK)|BB4]]) visited [[Australia]] ([[Big Brother 3 (Australia)|BB3]]) in 2003. In 2005, [[United Kingdom]] (Nadia Almada of [[Big Brother 5 (UK)|BB5]]) visited [[Australia]] ([[Big Brother 5 (Australia)|BB5]]) again. In 2006, [[United Kingdom]] ([[Chantelle Houghton]] of [[Celebrity Big Brother 4|CBB4]]) visited [[Germany]] ([[Big Brother Germany (season 6)|BBG6]]). This twist was copied in later years by various other countries: Africa (Ricardo Ferreira of [[Big Brother Africa 3|BBA3]]) visited [[Brazil]] ([[Big Brother Brasil 9|BBB9]]) in 2009; [[Germany]] (Annina Ucatis and Sascha Schwan of [[Big Brother Germany (season 9)|BBG9]]) visited the [[Philippines]] ([[Pinoy Big Brother: Double Up|PBB3]]) in 2010, and [[Italy]] (George Leonard and Veronica Ciardi of [[Grande Fratello Season 10|GF10]]) visited [[Albania]] ([[Big Brother 3 (Albania)|BB3]]) in 2010; [[Sweden]] (Martin Granetoft and Peter OrrmyrSara Jonsson of [[Big Brother 2011 (Sweden)|BB5]]) visited [[Norway]] ([[Big Brother Norway#Big Brother 4|BB4]]) in 2011; [[Brazil]] (Rafael Cordeiro of [[Big Brother Brasil 12|BBB12]]) visited [[Spain]] ([[Gran Hermano 12 (Spain)|GH12]]), and [[Argentina]] (Agustín Belforte of [[Gran Hermano Argentina#Season 4|GH4]]) visited [[Colombia]] ([[Gran Hermano 2 (Colombia)|GH2]]) in 2012; [[United States]] (Dan Gheesling of [[Big Brother 10 (U.S.)|BB10]]/[[Big Brother 14 (U.S.)|BB14]]) visited [[Canada]] ([[Big Brother 1 (Canada)|BB1]] and the [[Big Brother 2 (Canada)|BB2]] Jury) in 2013; and [[Canada]] (Emmett Blois of [[Big Brother 1 (Canada)|BB1]]) visited [[South Africa]] ([[Big Brother Mzansi 3 (South Africa)|BBM3]])in 2015^[[Spain]] (Paula gonzalez of [[Gran hermano 15 (Spain)|GH 15]])visited [[mexico]] ([big brother Mexico 4 (Mexico)|BBM4]])
+
+A similar event took place between the [[United States]] and [[Canada]] in 2014 wherein [[Rachel Reilly]] (from [[Big Brother 12 (U.S.)|BB12]]/[[Big Brother 13 (U.S.)|BB13]]) made a video chat to [[Canada]] ([[Big Brother 2 (Canada)|BB2]]). Rachel Reilly also appeared on Big Brother Canada's side show, which airs after the eviction episode once a week.
+
+====Housemates competing in another country====
+There were times that a former housemate from his franchise participated and competed in another foreign franchise: Daniela Martins of [[France]] (SS3) competed in [[Portugal]] (SS1); Daniel Mkongo of [[France]] (SS5) competed in [[Italy]] (GF12); [[Brigitte Nielsen]] of [[Denmark]] (BB VIP) competed in the [[United Kingdom]] (CBB3); [[Jade Goody]] of the [[United Kingdom]] (BB3, BB Panto, and CCB5) competed in [[India]] ([[Bigg Boss 2|BB2]]); Sava Radović of [[Germany]] (BB4) competed in the [[Balkan States]] (VB1); Nikola Nasteski of the [[Balkan States]] (VB4) competed in [[Bulgaria]] (BB All-Stars 1); Žarko Stojanović of [[France]] ([[Secret Story 5 (France)|SS5]]) competed in the [[Balkan States]] ([[Veliki Brat VIP 5|VB VIP5]]); Željko Stojanović of [[France]] ([[Secret Story 5 (France)|SS5]]) competed in the [[Balkan States]] ([[Veliki Brat VIP 5|VB VIP5]]); Kelly Baron of [[Brazil]] ([[Big Brother Brasil 13|BBB13]]) competed in [[Portugal]] ([[Big Brother VIP (Portugal)|BB VIP]]); [[Lucy Diakovska]] of [[Bulgaria]] ([[VIP Brother 4 (Bulgaria)|VIP B4]]) competed in [[Germany]] ([[Promi Big Brother (season 1)|PBB1]]); and Leila Ben Khalifa of [[Italy]] (GF6) competed in [[France]] (SS8).
+
+====Other twists====
+* '''Task visits:''' Cathrine Petersen and Henrik Andreassen of [[Denmark]]'s [[Big Brother 4 (Denmark)|BB4]] and Patricia Andersen and Umar Nyonyintono of [[Sweden]]'s [[Big Brother 2012 (Sweden)|BB6]] visited each country's Big Brother Houses for 7 days in 2012.
+* '''Kidnapping:''' Annica Englund of [[Sweden]]'s [[Big Brother 2012 (Sweden)|BB6]] was kidnapped by [[Denmark]]'s [[Big Brother 4 (Denmark)|BB4]] for 7 days in 2012.
+* '''Current-to-evicted housemate exchange:''' Evicted Laisa Portella of [[Brazil]] (housemate from [[Big Brother Brasil 12|BBB12]]) was exchanged with Non-Evicted Noemí Merino of [[Spain]]'s [[Gran Hermano 13 (Spain)|GH13]] in 2012. Portella stayed in the Spanish Big Brother House for 7 days, while Merino stayed in the Brazilian Big Brother house for 5 days.
+* '''Casting selection exchange:''' Doroti Polito and Leonia Coccia of [[Italy]]'s [[Grande Fratello Season 9|GF9]] visited [[Spain]]'s [[Gran Hermano Spain (season 10)|GH10]] in 2009.
+* '''Red Button:''' Gran Hermano Argentina Series 7 (GH7) incorporated a red button in the Confession Room, encased in a transparent box. This button was to be used when a contestant wanted to leave the house voluntarily, and it would fire an alarm in the whole house. When the alarm sound ceased, the contestant would be given five minutes to leave the house.<ref>[[:es:Anexo:Séptima temporada de Gran Hermano (Argentina)#Bot.C3.B3n rojo]]</ref> This button is also used in Secret Story series, however in this case whoever presses the button will try to guess someone's secret. There is also an alarm in the whole house.
+
+* '''Telephone:''' Gran Hermano Argentina Series 4 (GH4) added a telephone in the living room. This telephone rang once a week for ten seconds, and if nobody picked up the call, the full house would be nominated for eviction. The first person to pick up the receiver was given an order or news from Big Brother, either to their benefit or against them. If an order was refused, they would be nominated for eviction.<ref>[[:es:Anexo:Cuarta temporada de Gran Hermano (Argentina)#Cambios en el Juego]]</ref>
+
+====Multi-franchise competitions====
+
+=====Eurovision Song Contest=====
+{| class="wikitable" style="text-align:left; font-size:100%; line-height:16px;" width="100%"
+|-
+! rowspan="2" | Team and Song
+! colspan="4" | Jury's points
+! colspan="5" | Dates
+! rowspan="2" | Winner
+|-
+! {{flagicon|Italy}} GF11
+! {{flagicon|Greece}} BB5
+! {{flagicon|Argentina}} GH6
+! Total
+! Tests
+! {{flagicon|Israel}} Performance
+! {{flagicon|Spain}} Performance
+! Ratings
+! Closed
+|-
+| {{flagicon|Spain}} '''GH12:''' "[[A-Ba-Ni-Bi]]"
+| 12
+| 12
+| 12
+| '''36'''
+| rowspan="2" | 30 Dec 2010 to 4 Jan 2011
+| rowspan="2" | 5 Jan 2011
+| rowspan="2" | 6 Jan 2011
+| rowspan="2" | 7 Jan 2011
+| rowspan="2" | 8 Jan 2011
+| rowspan="2" | {{flagicon|Spain}} '''GH12'''
+|-
+| {{flagicon|Israel}} '''HH3:''' "[[Bandido (song)|Bandido]]"
+| 10
+| 10
+| 10
+| '''30'''
+|-
+|}
+
+=====FIFA World Cup=====
+{| class="wikitable" style="text-align:left; font-size:100%; line-height:16px;" width="100%"
+|-
+! Series participants
+! Prize
+! Points
+! Winner
+! Date
+|-
+| nowrap | {{flagicon|Germany}} BB10 [[Germany]]<br>{{flagicon|UK}} BB11 [[United Kingdom]]
+| A screening of the [[2010 FIFA World Cup]] (Round of 16) [[Germany national football team|Germany]] vs. [[England national football team|England]] game 
+| After five penalties, the score was 1–1 and the game went to [[Sudden death (sport)|sudden death]]. After 36 penalties, German housemate Robert shot the ball wide and UK housemate [[List of Big Brother 2010 housemates (UK)#Ife|Ife]] scored, winning 2–1.
+| nowrap | {{flagicon|United Kingdom}} '''BB11'''
+| nowrap | 26 June 2010
+|-
+|}
+
+===Others===
+In Germany, a new sixth-season version of the show was ''Big Brother - Das Dorf'' (''Big Brother - The Village''). The season ended after 363 days in February 2006 because of low ratings. For season seven, RTL II switched back to a traditional version. The fourth Greek season introduced a mother. During the tenth week of the seventh UK season, the housemates were paired with their "best friend" in the house and had to nominate and face eviction as couples. The [[Big Brother 9 (U.S.)|ninth American season]] added a romantic aspect by pairing up the housemates up and having them compete as couples.
+
+The [[Big Brother Brasil 9|ninth Brazilian season]] featured the "Bubble": a glass house in a [[shopping mall]] in [[Rio de Janeiro]] where four potential housemates lived for a week. Later in the season a bubble was built inside the Big Brother house, with another two housemates living in it for a week until they were voted in and the glass house dismantled. The Glass House later was reused in the [[Big Brother Brasil 11|eleven season]], featuring five evicted housemates competing for a chance to join the house again and in [[Big Brother Brasil 13|thirteen Brazilian season]], with six potential housemates competing for two places in the main house.
+
+A familiar twist occurred in the [[Pinoy Big Brother: Celebrity Edition 2|second celebrity edition]] of the Philippine version, where two housemates related by profession or family played as one. Also in the Philippine version, the second season of the [[Pinoy Big Brother: Teen Edition Plus|teen edition]], also featured the parents/guardians of the teens that are staying in the house. The parents had their own living quarters and were considered as housemates. If a teen housemate was evicted, the coinciding parent/guardian would also be evicted. In ''[[Big Brother: Celebrity Hijack|Celebrity Hijack UK]]'' evicted housemates were given the opportunity to choose if a "ninja" delivered good or bad gifts to the house. Later that year ''[[Big Brother Australia 2008]]'' introduced the Housemate Hand Grenade, where an evicted housemate decided which housemate received a penalty. ''[[Big Brother 5 (Bulgaria)|Big Brother 5]]'' of [[Bulgaria]], which began in early 2010, introduced a new family format (Big Brother Family). Whole families entered the house with their spouses, children and relatives. They received a salary for their stay and the winning family received a cash prize, a car and an apartment. [[Big Brother 11 (U.S.)|The eleventh American season]] featured Pandora's Box, in which the winning head of household was tempted (with money, a celebrity visit or time alone with a loved one) to open a box. If an HoH chooses to open Pandora's Box, however, there may be unintended consequences.
+
+[[Big Brother 12 (U.S.)|The twelfth American season]] featured a saboteur, who entered the house to wreak havoc with tasks suggested by viewers. ''[[Big Brother Africa 6]]'' in 2011 was the first season of Big Brother to have two winners, each getting $200,000. [[Big Brother 13 (U.S.)|The thirteenth American season]] introduced Dynamic Duos, where eight new houseguests would enter the house with three duos from past seasons. The [[Pinoy Big Brother: Unlimited|fourth Philippine season]] featured ''Unli-Day'' and ''Unli-Night'', where two separate groups of housemates were covered in two separate programs. It also introduced reserved housemates, shortlisted auditioners who were given a chance to be a housemate by completing tasks assigned by Big Brother (this was also done in Argentina's [[Gran Hermano Argentina (season 7)|seventh season]]). The [[Pinoy Big Brother|Philippine version]] introduced the 100-second session, in which housemates are given a chance to be with their loved ones for only 100 seconds in the Confession Room.<ref>{{cite web | url=http://bb1.pinoybigbrother.com/Default.aspx?tabid=52&articleType=ArticleView&articleId=184 | title=Housemate to Have a 100-Second Reunion Tonight | publisher=''[[Pinoy Big Brother]]'' | date=11 November 2005 | accessdate=23 May 2014}}</ref> [[Big Brother 14 (U.S.)|The fourteenth American season]] had four houseguests from past seasons returning to the house to coach twelve new houseguests. The four returning houseguests played their own game for a separate prize of $100,000 until they joined the normal game later after a reset twist. [[Big Brother 15 (U.S.)|The fifteenth American season]] Introduced the Big Brother M.V.P twist where every week, the viewers would vote one of the houseguests who the viewers thought was playing the best game, also introduced three nominations in the US version where the HOH would nominate the first two houseguests for eviction (like in previous seasons) while the 3rd nomination is made by the M.V.P of that week in a further twist for the M.V.P, the viewers decided who the 3rd nominee would be for the week, half way into the season the M.V.P twist ended and the show continued on with just 2 nominees a week as in previous seasons.
+
+In the [[Big Brother Brasil 14|fourteenth Brazilian season]], 7 mothers and 2 aunts, relatives of the 9 remaining housemates, entered the Big Brother Brasil house to celebrate [[International Women's Day]]. The housemates could not see or touch their relatives because the house was divided by a wall. An improvised house was assembled for the mothers and aunts. They stayed in the house for 6 days.
+
+[[Big Brother 16 (U.S.)|The sixteenth American season]] and [[Big Brother 17 (U.S.)|the seventeenth American season]] featured two Heads of Household every week and had four HouseGuests nominated for eviction. While, in previous seasons, the HoH was guaranteed immunity until the next eviction, this was not the case due to a new competition called "Battle of the Block," in which the two sets of nominees compete to save themselves. The winning pair of nominees were removed from the block while dethroning the HoH who nominated them; while the Battle of the Block winners were ineligible to be named as a replacement nominee if the Veto was used, the dethroned HoH was not. 
+
+Another new twist introduced in [[Big Brother 16 (U.S.)|the sixteenth American season]] was "Team America:" an alliance of three HouseGuests selected by the voting public tasked with completing secret missions; each member received $5000 per each successfully completed mission.
+
+==Special editions==
+
+===''Celebrity'' and ''VIP'' Big Brother===
+The ''Big Brother'' format has been adapted in some countries; the housemates are local celebrities, and the shows are called ''Celebrity Big Brother'' or ''Big Brother VIP''. In some countries, the prize money normally awarded to the winning housemate is donated to a charity, and all celebrities are paid to appear in the show as long as they do not voluntarily leave before their eviction or the end of the series. The rest of the rules are nearly the same as those of the original version. The celebrity version has become particularly popular in the UK, causing UK broadcaster Channel 5 to extend its deal with Endemol enabling them to air two celebrity series in addition to the civilian version every year from 2012,<ref>{{cite web | url=http://trashlounge.co.uk/8572/celebrity-big-brother-to-air-twice-a-year-in-updated-channel-5-deal/ | title=Celebrity Big Brother to air twice a year in updated Channel 5 deal | publisher=''Trash Lounge'' | date=12 February 2012 | accessdate=24 May 2014 | archiveurl=http://web.archive.org/web/20120213224220/http://trashlounge.co.uk/8572/celebrity-big-brother-to-air-twice-a-year-in-updated-channel-5-deal/ | archivedate=13 February 2012}}</ref> again in 2013 and again in 2014, with the first of the two series having already aired this year (the first being in January and the second after the main series in the summer). In Bulgaria, ''[[VIP Brother]]'' has replaced the original format of the show and more seasons of the celebrity edition have been produced compared to the regular one. Due to the show's popularity there, it lasts for two months unlike most countries where it only airs for a month.
+
+====Variations====
+The 2006 Netherlands series was entitled ''Hotel Big Brother''. This variation introduced a group of celebrity hoteliers and a Big Boss, who run a hotel and collect money for charity without nominations, evictions or a winner.
+
+Another variation appeared in the UK in early 2008, entitled ''Big Brother: Celebrity Hijack''. This temporarily replaced the 2007 ''Celebrity Big Brother'' in the wake of a racial-abuse incident. Instead of celebrities playing housemates the celebrities became Big Brother himself, creating tasks and holding nominations with the help of Big Brother. The housemates were considered by the producers "Britain's most exceptional and extraordinary" 18- to 21-year-olds. The prize for the winner of the series was £50,000.<ref name="celebhijack">{{cite web | url=http://www.channel4.com/entertainment/tv/microsites/B/bb8/news/newsstory.jsp?id=24561 | title=BB Celebrity Hijack - NEWS | publisher=''[[Channel 4]]'' | accessdate=24 May 2014 | archiveurl=http://web.archive.org/web/20070621073443/http://www.channel4.com/entertainment/tv/microsites/B/bb8/news/newsstory.jsp?id=24561 | archivedate=21 June 2007}}</ref>
+
+In 2009 ''[[VIP Brother 3 (Bulgaria)|VIP Brother 3 Bulgaria]]'' introduced the concept of celebrities competing for charitable causes, sometimes allowed to leave the house to raise money for the charity (which changed each week).
+
+===US and English Canadian version===
+{{Details3|[[Big Brother (U.S.)]] and [[Big Brother Canada]]|these Big Brother versions}} 
+The United States' and Canada's version of Big Brother is different from most versions of the series. The American series began in 2000 with a format much similar to the international format, however, due to poor ratings and the strong popularity of ''[[Survivor (U.S. TV series)|Survivor]]'', beginning in the [[Big Brother 2 (U.S.)|second season]], a more gameplay-oriented format was implemented where the contestants are encouraged to strategize and form alliances with others to avoid weekily eviction and improve their chance at winning. For this new format, a group of 12 to 16 contestants, known as "houseguests," compete to win the series by voting each other off and being the last houseguest remaining. One houseguest, known as the Head of Household (HoH), must nominate two of their fellow houseguests for eviction. The winner of the Power of Veto (PoV, introduced in the 3rd American season) has the option to save one of the nominees for eviction, forcing the HoH to nominate another houseguest in his or her place. The houseguests then vote to evict one of the nominees, and the houseguest with the most votes is evicted. When only two houseguests remain, the most recently evicted houseguests (generally 7) form The Jury and decide which of the two remaining houseguests would win the grand prize.
+
+In 2013, English-speaking Canada began its own version based on the US version, but the viewing audience are given more control of the game. Secret tasks were also introduced and are usually presented by the show's mascot "Marsha the Moose" . These two elements cause fans of the show to call it a hybrid of the U.S edition and the U.K/international editions.
+
+Elements of this format (such as having one contestant winning the position of or similar to Head of Household or allowing contestants to talk and strategize about the nomination/eviction process) have been adapted in other editions of the show, notably the [[Big Brother (Quebec)|French Canadian version]], where the format was followed almost exactly, but the public could evict a housemate on some occasions, and eventually decided the winner in the end.
+
+===Other editions===
+The ''Big Brother'' format has been otherwise modified in some countries:
+* ''''' Big Brother: All-Stars''''' (Belgium, 21 days; [[Bulgaria]]: Season 1–3, 27–29 days; [[United States]], 72 days; [[United Kingdom]], 18 days; [[Canada]], 64 days; [[Africa]], 91 days; [[Spain]], 56 days; [[Portugal]] ''Secret Story'': Season 1–4, 22–50 days): Previous housemates from previous seasons compete. Belgium was the first country to have an All-Stars season (2003). Bulgaria was the first country to have 3 All-Stars season (2014). Portugal was the first country to have 4 All-Stars season (2015)
+* '''''Big Brother: Reality All-Stars''''' ([[Sweden]], 6 days; [[Denmark]], 32 days; [[Spain]], 56 days): Contestants from different reality shows, including ''Big Brother'', compete.
+* '''''Big Brother: You Decide / Big Brother: Back in the House / Big Brother: Try Out''''' ([[Poland]]: Season 1–2, 7–13 days; [[Norway]], 9 days; [[Serbia]], 7 days): Housemates, new or old, compete for a spot in the next regular season without nominations or evictions.
+
+* '''''[[Teen Big Brother: The Experiment|{{font color|black|Teen Big Brother}}]]''''' ([[United Kingdom]], 10 days; [[Philippines]]: Season 1–4, 42–91 days): Teen aged 13 and older compete.
+
+* '''''[[Pinoy Big Brother: All In|{{font color|black|Big Brother: All In}}]]''''' ([[Pinoy Big Brother: All In|Philippines]], 120 days): A mix of Teenagers, regular adults, and celebrities compete in one season.
+
+* '''''[[Secret Story (disambiguation)|{{font color|black|Secret Story}}]]''''' ([[France]], [[Lithuania]], [[Portugal]], [[Netherlands]] and [[Peru]]): Each housemate has a secret.
+
+* '''''[[Big Brother Panto (UK)|{{font color|black|Big Brother Panto}}]]''''' ([[United Kingdom]], 11 days): Housemates from previous series spent time in the Big Brother House to perform a [[pantomime]] at the series' end.
+
+There are also "test runs", with a group of celebrities (or journalists) living in the house for several days to test it. There are occasions where people who have auditioned for the show are also put in the house, most notably in the British edition, where many housemates claim to have met before. These series have been televised in [[Argentina]], Bulgaria, the [[Czech Republic]], Germany, Mexico, the Pacific region, the Philippines, and Spain. In some cases, it is not broadcast, but in others, such as the U.S. edition, it is used as a promotional tool.
+
+==Versions==
+Through 30 September 2015, ''Big Brother'' has produced 355 winners in over 54 franchises. The most recent winner Francisco Delgado from [[Gran Hermano Argentina (season 8)|Argentina]].
+
+:{{colorbox|#90EE90}} Currently airing
+:{{colorbox|#E0B0FF}} An upcoming season
+:{{colorbox|white}} Status unknown
+:{{colorbox|#FFC0CB}} No longer airing 
+
+{| class="wikitable" style="text-align:center; font-size:95%; line-height:18px; width:100%;"
+|-
+! width="15%" | Country/Region
+! width="20%" | Local title
+! width="15%" | Network(s)
+! width="32%" | Winner(s)
+! width="18%" | Presenter(s)
+|-
+| style="background:#E0B0FF;" rowspan="2" | {{plainlist|
+<!-- THE SERIES 10 IS CONFIRMED FROM http://www.bigbrotherafricakenya.com/2015/03/no-big-brother-africa-in-2015-rumors.html TO BE IN 2016 OR LATE 2016-->
+* {{flag icon|Angola}} {{flag icon|Botswana}} {{flag icon|Ethiopia}}
+* {{flag icon|Ghana}} {{flag icon|Kenya}} {{flag icon|Liberia}}
+* {{flag icon|Malawi}} {{flag icon|Mozambique}} {{flag icon|Namibia}} [[Africa]]
+* {{flag icon|Nigeria}} {{flag icon|Rwanda}} {{flag icon|South Africa}}
+* {{flag icon|Sierra Leone}} {{flag icon|Tanzania}} {{flag icon|Uganda}}
+* {{flag icon|Zimbabwe}} {{flag icon|Zambia}}
+}}
+| ''[[Big Brother Africa]]''
+| rowspan="2" | [[M-Net]]<br>[[DStv]] <small>(live)</small>
+| {{plainlist|
+* [[Big Brother Africa 1|Season 1, 2003]]: {{flag icon|Zambia}} Cherise Makubale
+* [[Big Brother Africa 2|Season 2, 2007]]: {{flag icon|Tanzania}} {{nowrap|Richard Dyle Bezuidenhout}}
+* [[Big Brother Africa 3|Season 3, 2008]]: {{flag icon|Angola}} Ricardo Venancio
+* [[Big Brother Africa 4|Season 4, 2009]]: {{flag icon|Nigeria}} Kevin Chuwang
+* [[Big Brother Africa 6|Season 6, 2011]]: {{flag icon|Nigeria}} Karen Igho & {{flagicon|Zimbabwe}} Wendall Parsons
+* [[Big Brother Africa 7|Season 7, 2012]]: {{flag icon|South Africa}} Keagan Petersen
+* [[Big Brother Africa 8|Season 8, 2013]]: {{flag icon|Namibia}} Dillish Matthews
+* [[Big Brother Africa 9|Season 9, 2014]]: {{flag icon|Tanzania}} Idris Sultan
+*[[Big Brother Africa 10|Season 10, 2016]]: ''Upcoming season''
+}}
+| rowspan="2" | {{plainlist|
+* '''Current'''
+* [[Wild Child (entertainer)|Ikponmwosa Osakioduwa]] <small>(''4–'')</small>
+* '''Former'''
+* Kabelo Ngakane <small>(''2–3'')</small>
+* [[Mark Pilgrim (presenter)|Mark Pilgrim]] <small>(''1'')</small>
+}}
+|-
+| ''[[Big Brother Africa 5|Big Brother Africa: All-Stars]]''
+| align="left" | [[Big Brother Africa 5|Season 5, 2010]]: {{flagicon|Nigeria}} Uti Nwachukwu
+|-
+| style="background:#E0B0FF;" align="left" | {{flag|Albania}}
+| ''[[Big Brother (Albania)|Big Brother]]''
+| [[Top Channel]]<br>[[Digit-Alb]]
+| {{plainlist|
+* [[Big Brother 1 (Albania)|Season 1, 2008]]: Arbër Çepani
+* [[Big Brother 2 (Albania)|Season 2, 2009]]: Qetsor Ferunaj
+* [[Big Brother 3 (Albania)|Season 3, 2010]]: Jetmir Salaj
+* [[Big Brother 4 (Albania)|Season 4, 2011]]: Ermela Mezuraj
+* [[Big Brother 5 (Albania)|Season 5, 2012]]: Arbër Zeka
+* [[Big Brother 6 (Albania)|Season 6, 2013]]: Anaidi Kaloti
+* [[Big Brother 7 (Albania)|Season 7, 2014]]: Nevila Omeri
+* [[Big Brother 8 (Albania)|Season 8, 2015]]: Vesel Kurtishaj
+* Season 9, 2016: ''Upcoming season''
+}}
+| {{plainlist|
+* [[Arbana Osmani]] <small>(''1–7'')</small>
+* [[:sq:Ledion Liço|Ledion Liço]] <small>(''8–'')</small>
+}}
+|-
+| style="background:white;" align="left" | {{flag|Angola}}
+| ''[[Big Brother Angola]]''<ref name="BB Angola">{{cite web | url=http://selfservice.dstv.com/self-service/announcements/big-brother-angola-on-dstv-portuguesa/ | title=Big Brother Angola on DStv Portuguesa | publisher=''[[DStv]]'' | date=15 May 2014 | accessdate=24 May 2014}}</ref>
+| DStv<ref name="BB Angola"/>
+| align="left" | {{plainlist|
+* [[Big Brother Angola (season 1)|Season 1, 2014]]: Larama da Silva
+* [[Big Brother Angola (season 2)|Season 2, 2015]]: Luna Vambano & Mr. Norway Vunge
+}}
+| align="left" | Dicla Burity
+|-
+| style="background:#FFC0CB;" | {{plainlist|
+* {{flag icon|Bahrain}} {{flag icon|Egypt}} {{flag icon|Iraq}}
+* {{nowrap|{{flag icon|Jordan}} {{flag icon|Kuwait}} {{flag icon|Lebanon}} [[Arab World]]}}
+* {{flag icon|Oman}} {{flag icon|Saudi Arabia}} {{flag icon|Somalia}}
+* {{flag icon|Syria}} {{flag icon|Tunisia}}
+}}
+| [[Big Brother: The Boss|''Big Brother:'' الرئيس]]<br><small>''Big Brother: The Boss''</small>
+| [[Middle East Broadcasting Center|MBC 2]]
+| align="left" | [[Big Brother: The Boss|Season 1, 2004]]: ''Discontinued''<ref>{{cite news | url=http://news.bbc.co.uk/2/hi/middle_east/3522897.stm | title=Arab Big Brother show suspended | publisher=''[[BBC News]]'' | date=1 March 2004}}</ref>
+| align="left" | [[Razan Moughrabi]]  
+|-
+| style="background:#E0B0FF;" align="left" rowspan=3| {{flag|Argentina}}
+| rowspan=2|''[[Gran Hermano Argentina|Gran Hermano]]''
+| [[Telefe]]<br>Canal 4<br>[[DirecTV]] <small>(live;''1–3'', ''6–7'')</small><br>Cablevisión <small>(live; ''4–5-8'')</small>
+| {{plainlist|
+* [[Gran Hermano Argentina#Season 1|Season 1, 2001]]: Marcelo Corazza
+* [[Gran Hermano Argentina#Season 2|Season 2, 2001]]: Roberto Parra
+* [[Gran Hermano Argentina#Season 3|Season 3, 2002–03]]: Viviana Colmenero
+* [[Gran Hermano Argentina#Season 4|Season 4, 2007]]: Marianela Mirra
+* [[Gran Hermano Argentina#Season 5|Season 5, 2007]]: Esteban Morais
+* [[Gran Hermano Argentina (season 6)|Season 6, 2010–11]]: Cristian Urrizaga
+* [[Gran Hermano Argentina (season 7)|Season 7, 2011–12]]: Rodrigo Fernández
+}}
+| {{plainlist|
+* [[Mariano Peluffo]] <small>(''7'')</small>
+* [[Jorge Rial]] <small>(''4–8'')</small>
+* [[Soledad Silveyra]] <small>(''1–3'')</small>
+}}
+|-
+| [[América TV]]
+| {{plainlist|
+* [[Gran Hermano Argentina (season 8)|Season 8, 2015]]: Francisco Delgado
+* [[Gran Hermano Argentina (season 9)|Season 9, 2016]]: ''Upcoming season''
+* [[Gran Hermano Argentina (season 10|Season 10, 2017]]: ''Upcoming season''
+}}
+| rowspan="2" align="left" | [[Jorge Rial]]
+|-
+| ''Gran Hermano Famosos''
+| [[Telefe]]<br>Cablevisión <small>(live)</small>
+| align="left" | [[Gran Hermano Argentina#Celebrity Season 1|Season 1, 2007]]: Diego Leonardi
+|-
+| style ="background:#FFC0CB;" align="left" rowspan="3" | {{flag|Australia}}
+| rowspan="2" | ''[[Big Brother Australia]]''
+| [[Network Ten]]<br>{{flagicon|New Zealand}} [[TV 2 (New Zealand)|TV2]] <small>(''1–3'', ''5'')</small><br>{{flagicon|New Zealand}} [[Prime (New Zealand TV channel)|Prime]] <small>(''4'')</small>
+| {{plainlist|
+* [[Big Brother 1 (Australia)|Season 1, 2001]]: Ben Williams
+* [[Big Brother 2 (Australia)|Season 2, 2002]]: Peter Corbett
+* [[Big Brother 3 (Australia)|Season 3, 2003]]: [[Regina Bird]]
+* [[Big Brother 4 (Australia)|Season 4, 2004]]: [[Trevor Butler]]
+* [[Big Brother 5 (Australia)|Season 5, 2005]]: Greg and David Matthew
+* [[Big Brother 6 (Australia)|Season 6, 2006]]: Jamie Brooksby
+* [[Big Brother 7 (Australia)|Season 7, 2007]]: Aleisha Cowcher
+* [[Big Brother 8 (Australia)|Season 8, 2008]]: Terri Munro
+}}
+| align="left" | [[Gretel Killeen]] <small>(''1-7'')</small><br>[[Kyle Sandilands]] <small>(''8'')</small><br>[[Jackie O (radio host)|Jackie O]] <small>(''8'')</small>
+|-
+| [[Nine Network]]<br>{{flagicon|New Zealand}} [[TV3 (New Zealand)|TV3]] <small>(''10–11'')</small>
+| {{plainlist|
+* [[Big Brother 9 (Australia)|Season 9, 2012]]: Benjamin Norris
+* [[Big Brother 10 (Australia)|Season 10, 2013]]: Tim Dormer
+* [[Big Brother 11 (Australia)|Season 11, 2014]]: Ryan Ginns
+}}
+| align="left" | [[Sonia Kruger]]
+|-
+| ''[[Celebrity Big Brother Australia|Celebrity Big Brother]]''
+| [[Network Ten]]
+| align="left" | [[Celebrity Big Brother Australia|Season 1, 2002]]: [[Dylan Lewis]]
+| align="left" | [[Gretel Killeen]] 
+|-
+| style="background:#90EE90;" rowspan="3" | {{plainlist|
+* {{flag icon|Bosnia and Herzegovina}} {{flag icon|Croatia}}
+* {{flag icon|Macedonia}} {{flag icon|Montenegro}} [[Balkans|Balkan States]]
+* {{flag icon|Serbia}}
+}}
+| ''[[Veliki brat]]''
+| {{flag icon|Croatia}} [[RTL Televizija]] <small>(''4–5'')</small><br>{{flag icon|Serbia}} [[B92]] <small>(''1–3, 5'')</small><br>{{flag icon|Bosnia and Herzegovina}} [[Televizija OBN]] <small>(''5'')</small><br>{{flag icon|Bosnia and Herzegovina}} [[RTRS]] <small>(''5'')</small><br>{{flag icon|Macedonia}} [[Sitel (TV channel)|Sitel]] <small>(''5'')</small><br>{{flag icon|Montenegro}} Prva TV <small>(''5'')</small><br>{{flag icon|Bosnia and Herzegovina}} [[Pink BH]] <small>(''1–4'')</small><br>{{flag icon|Montenegro}} [[Pink M]] <small>(''1–4'')</small><br>{{flag icon|Serbia}} [[RTV Pink]] <small>(''4'')</small><br>{{flag icon|Macedonia}} [[A1 TV channel (Macedonia)|A1]] <small>(''3'')</small>
+| {{plainlist|
+* [[Veliki Brat 1|Season 1, 2006]]: {{flagicon|Serbia}} Ivan Ljuba
+* [[Veliki Brat 2007|Season 2, 2007]]: ''Discontinued''<ref>Due to the car accident that killed three former housemates, Elmir Kuduzović, Stevan Zečević and Zorica Lazić, the producer decided to discontinue the series. The winning prize was divided by the surviving housemates.</ref>
+* [[Veliki brat 2009|Season 3, 2009]]: {{flagicon|Serbia}} Vladimir Arsić
+* [[Veliki brat 2011|Season 4, 2011]]: {{flagicon|Croatia}} Marijana Čvrljak
+* [[Veliki brat 2015|Season 5, 2015]]: ''Current season''
+}}
+| {{plainlist|
+* [[Marijana Mićić]] <small>(''1'', ''3–4'')</small>
+* [[Antonija Blaće]] <small>(''4–5'')</small>
+* [[Ana Mihajlovski|Ana Grubin]] <small>(''2'')</small>
+* [[Wikluh Sky|Skaj Vikler]] <small>(''5'')</small>
+}}
+|-
+| ''[[Veliki brat VIP]]''
+| {{flag icon|Serbia}} [[B92]] <small>(''1–2''; ''5'')</small><br>{{flag icon|Bosnia and Herzegovina}} [[RTV BN]] <small>(''5'')</small><br>{{flag icon|Montenegro}} Prva TV <small>(''5'')</small><br>{{flag icon|Bosnia and Herzegovina}} [[Televizija OBN]] <small>(''5'')</small><br>{{flag icon|Macedonia}} [[Sitel (TV channel)|Sitel]] <small>(''5'')</small><br>{{flag icon|Serbia}} [[RTV Pink]] <small>(''3–4'')</small><br>{{flag icon|Montenegro}} [[Pink M]] <small>(''1–4'')</small><br>{{flag icon|Bosnia and Herzegovina}} [[Pink BH]] <small>(''1–4'')</small><br>{{flag icon|Macedonia}} [[A1 TV channel (Macedonia)|A1]] <small>(''4'')</small>
+| {{plainlist|
+* [[Veliki Brat VIP 1|Season 1, 2007]]: {{flagicon|Serbia}} [[Saša Ćurčić]]
+* [[Veliki brat VIP 2|Season 2, 2008]]: {{flagicon|Montenegro}} Mimi Đurović
+* [[Veliki brat VIP All Stars|Season 3, 2009]]: {{flagicon|Serbia}} [[Miki Đuričić]]
+* [[Veliki Brat VIP 4|Season 4, 2010]]: {{flagicon|Serbia}} [[Milan Marić]]
+* [[Veliki Brat VIP 5|Season 5, 2013]]: {{flagicon|Serbia}} {{flagicon|France}} Žarko Stojanović
+}}
+| {{plainlist|
+* [[Marijana Mićić]] <small>(''3–5'')</small>
+* Milan Kalinić <small>(''2–3'')</small>
+* [[Ana Mihajlovski|Ana Grubin]] <small>(''1–2'')</small>
+}}
+|-
+| ''[[Veliki Brat: Generalna Proba]]''<ref>This version was only produced in [[Serbia]].</ref>
+| {{flagicon|Serbia}} [[B92]]
+| align="left" | [[Veliki Brat: Generalna Proba|Season 1, 2006]]: {{flagicon|Serbia}} Jelena Provči & Marko Miljković
+| align="left" | [[Marijana Mićić]]
+|-
+| style="background:#FFC0CB;" align="left" rowspan="3" | {{flag|Belgium}}
+| ''[[Big Brother (Belgium)|Big Brother]]''
+| [[Kanaal Twee]]
+| {{plainlist|
+* [[Big Brother (Belgium)#Season 1|Season 1, 2000]]: Steven Spillebeen
+* [[Big Brother (Belgium)#Season 2|Season 2, 2001]]: Ellen Dufour
+* [[Big Brother (Belgium)#Season 3|Season 3, 2002]]: Kelly Vandevenne
+* [[Big Brother (Belgium)#Season 4|Season 4, 2003]]: Kristof van Camp
+* [[Big Brother (Belgium)#Season 5|Season 5, 2006]]: Kirsten Janssens
+* [[Big Brother (Belgium)#Season 6|Season 6, 2007]]: Diana Ferrante
+}}
+| align="left" | Walter Grootaers
+|-
+|''Big Brother VIPs''
+| [[vtm]]<br>[[Kanaal Twee]]
+| {{plainlist|
+* [[Big Brother (Belgium)#VIP Season 1|Season 1, 2001]]: Sam Gooris
+* [[Big Brother (Belgium)#VIP Season 2|Season 2, 2006]]: Pim Symoens
+}}
+| align="left" | ''No Presenters''
+|-
+| ''Big Brother All-Stars''
+| [[Kanaal Twee]]
+| align="left" | [[Big Brother (Belgium)#All Stars Season 1|Season 1, 2003]]: Heidi Zutterman
+| align="left" | Walter Grootaers 
+|-
+| style="background:#E0B0FF;" align="left" | {{flag|Brazil}}
+| ''[[Big Brother Brasil]]''
+| [[Rede Globo]]<br>[[Multishow]]<br>[[Globosat|Canal BBB]]<small> (live on [[Pay-per-view|PPV]])</small>
+| {{plainlist|
+* [[Big Brother Brasil 1|Season 1, 2002]]: [[Big Brother Brasil 1#Housemates|Kleber de Paula]]
+* [[Big Brother Brasil 2|Season 2, 2002]]: [[Big Brother Brasil 2#Housemates|Rodrigo Leonel]]
+* [[Big Brother Brasil 3|Season 3, 2003]]: [[Big Brother Brasil 3#Housemates|Dhomini Ferreira]]
+* [[Big Brother Brasil 4|Season 4, 2004]]: [[Big Brother Brasil 4#Housemates|Cida dos Santos]]
+* [[Big Brother Brasil 5|Season 5, 2005]]: [[Jean Wyllys]]
+* [[Big Brother Brasil 6|Season 6, 2006]]: [[Big Brother Brasil 6#Housemates|Mara Viana]]
+* [[Big Brother Brasil 7|Season 7, 2007]]: [[Big Brother Brasil 7#Housemates|Diego Gasques]]
+* [[Big Brother Brasil 8|Season 8, 2008]]: [[Big Brother Brasil 8#Housemates|Rafinha Ribeiro]]
+* [[Big Brother Brasil 9|Season 9, 2009]]: [[Big Brother Brasil 9#Housemates|Max Porto]]
+* [[Big Brother Brasil 10|Season 10, 2010]]: [[Marcelo Dourado]]
+* [[Big Brother Brasil 11|Season 11, 2011]]: [[Big Brother Brasil 11#Housemates|Maria Melillo]]
+* [[Big Brother Brasil 12|Season 12, 2012]]: [[Big Brother Brasil 12#Housemates|Fael Cordeiro]]
+* [[Big Brother Brasil 13|Season 13, 2013]]: [[Big Brother Brasil 13#Housemates|Fernanda Keulla]]
+* [[Big Brother Brasil 14|Season 14, 2014]]: [[Vanessa Mesquita]]
+* [[Big Brother Brasil 15|Season 15, 2015]]: [[Big Brother Brasil 15#Housemates|Cézar Lima]]
+* Season 16, 2016: ''Upcoming season''
+}}
+| {{plainlist|
+* [[Pedro Bial]]
+* [[Marisa Orth]] <small>(''1'')</small>
+}}
+|-
+| style="background:#90EE90;" rowspan="4" align="left" | {{flag|Bulgaria}}
+| ''[[Big Brother (Bulgaria)|Big Brother]]''
+| [[Nova Television (Bulgaria)|Nova Television]]<br>[[Nova+]] <small>(live; ''1–4'')</small><br>[[Diema Family]] <small>(live; ''5'')</small>
+| {{plainlist|
+* [[Big Brother 1 (Bulgaria)|Season 1, 2004–05]]: Zdravko Vasilev
+* [[Big Brother 2 (Bulgaria)|Season 2, 2005]]: Miroslav Atanasov
+* [[Big Brother 3 (Bulgaria)|Season 3, 2006]]: Lyubov Stancheva
+* [[Big Brother 4 (Bulgaria)|Season 4, 2008]]: Georgi Alurkov
+* [[Big Brother 5 (Bulgaria)|Season 5, 2015]]: Nikita Jönsson
+}}
+| align="left" | {{plainlist|
+* [[Niki Kunchev]] <small>(''1–3'', ''5-'')</small>
+* Evelina Pavlova <small>(''1–2'')</small> 
+* [[Aleksandra Sarchadjieva]] <small>(''5-'')</small>
+* [[Milen Tsvetkov]] <small>(''4'')</small>
+}}
+|-
+| ''[[Big Brother Family (Bulgaria)|Big Brother Family]]''
+| [[Nova Television (Bulgaria)|Nova Television]]<br>[[Diema Family]] 
+| {{plainlist|
+* [[Big Brother Family (Bulgaria)|Season 1, 2010]]: Eli & Veselin Kuzmovi
+}}
+| align="left" | [[Niki Kunchev]] 
+|-
+| ''[[VIP Brother]]''
+| [[Nova Television (Bulgaria)|Nova Television]]<br>[[Nova+]] <small>(live; ''1–2'')</small><br>[[Diema 2]] <small>(live; ''3'')</small><br>[[Diema Family]] <small>(live; ''4–6'')</small>
+| {{plainlist|
+* [[VIP Brother 1 (Bulgaria)|Season 1, 2006]]: Konstantin Slavov
+* [[VIP Brother 2 (Bulgaria)|Season 2, 2007]]: Hristina Stefanova
+* [[VIP Brother 3 (Bulgaria)|Season 3, 2009]]: Deyan Slavchev
+* [[VIP Brother 4 (Bulgaria)|Season 4, 2012]]: [[Kaffe (band)|Orlin Pavlov]]
+* [[VIP Brother 5 (Bulgaria)|Season 5, 2013]]: [[Stanka Zlateva]]
+* [[VIP Brother 6 (Bulgaria)|Season 6, 2014]]: Vladislav Karamfilov
+* [[VIP Brother 7 (Bulgaria)|Season 7, 2015]]: ''Current season''
+}}
+| align="left" | {{plainlist|
+* [[Niki Kunchev]]
+* Evelina Pavlova <small>(''1'')</small> 
+* [[Dimitar Rachkov]] <small>(''3'')</small> 
+* Maria Ignatova <small>(''3'')</small>
+* [[Aleksandra Sarchadjieva]] <small> (''4-'')</small>
+}}
+|-
+| ''[[Big Brother All-Stars (Bulgaria)|Big Brother All Stars]]''
+| [[Nova Television (Bulgaria)|Nova Television]]<br>[[Diema Family]] <small>(live; ''1–2'')</small>
+| {{plainlist|
+* [[Big Brother All-Stars (Bulgaria)|Season 1, 2012]]: Nikola Nasteski
+* [[Big Brother All Stars 2013 (Bulgaria)|Season 2, 2013]]: Zlatka Dimitrova
+* [[Big Brother All Stars 3 (Bulgaria)|Season 3, 2014]]: Todor Slavkov
+}}
+| align="left" | {{plainlist|
+* [[Niki Kunchev]] 
+* [[Aleksandra Sarchadjieva]]
+}}
+|-
+|style="background:#E0B0FF;" align="left"  rowspan="2" | {{flag|Canada}}<br><small>'''(English)'''</small>
+| rowspan="2" | ''[[Big Brother Canada]]''
+| [[Slice (TV channel)|Slice]]
+| {{plainlist|
+* [[Big Brother Canada (season 1)|Season 1, 2013]]: Jillian MacLaughlin
+* [[Big Brother Canada (season 2)|Season 2, 2014]]: Jon Pardy
+}}
+| rowspan="2" align="left" | [[Arisa Cox]] 
+|-
+| [[Global Television Network|Global]]
+| {{plainlist|
+* [[Big Brother Canada (season 3)|Season 3, 2015]]: Sarah Hanlon
+* Season 4, 2016: ''Upcoming season''
+}}
+|-
+| style="background:#FFC0CB;" rowspan="3" align="left" | {{flag|Canada}}<br>{{flag|Quebec}}<br><small>'''(French)'''</small>
+| ''[[Loft Story (Quebec)|Loft Story]]''
+| rowspan="2" | [[TQS]]<ref>On August 31, 2009, TQS changed its name to [[V (TV network)|V]].</ref>
+| {{plainlist|
+* [[Loft Story (Quebec)#Season 1|Season 1, 2003]]: Julie Lemay & Samuel Tissot
+* [[Loft Story (Quebec)#Season 2|Season 2, 2006]]: Mathieu Baron & Stéphanie Bélanger
+* [[Loft Story (Quebec)#Season 3|Season 3, 2006]]: Jean-Philippe Anwar & Kim Rusk
+* [[Loft Story (Quebec)#Season 4|Season 4, 2007]]: Mathieu Surprenant
+* [[Loft Story (Quebec)#Season 5|Season 5, 2008]]: Charles-Éric Boncoeur
+}}
+| {{plainlist|
+* [[Marie Plourde]] <small>(''3–5'')</small>
+* Isabelle Maréchal <small>(''2'')</small>
+* Renée-Claude Brazeau <small>(''1'')</small>
+}}
+|-
+| ''Loft Story: La Revanche''
+| align="left" | [[Loft Story (Quebec)#Season 6|Season 6, 2009]]: Sébastien Tremblay
+| align="left" | Pierre-Yves Lord
+|-
+| ''[[Big Brother (Quebec)|Big Brother]]''
+| [[V (TV network)|V]]
+| align="left" | [[Big Brother (Quebec)|Season 1, 2010]]: Vincent Durand Dubé
+| align="left" | Chéli Sauvé-Castonguay
+|-
+| style="background:#FFC0CB;" rowspan="2" align="left" | {{flag|Colombia}}
+| rowspan="2" | ''[[Gran Hermano (Colombia)|Gran Hermano]]''
+| [[Caracol TV]]
+| align="left" | [[Gran Hermano (Colombia)|Season 1, 2003]]: Mónica Patricia Tejón
+| align="left" | Adriana Arango
+|-
+| [[Citytv Bogotá]]<ref>{{cite web | url=http://www.eltiempo.com/archivo/documento/CMS-11950621 | title=Gran hermano, por Citytv | publisher=''[[El Tiempo (Colombia)|El Tiempo]]'' | accessdate=24 May 2014 | language=Spanish}}</ref>
+| align="left" | [[Gran Hermano 2 (Colombia)|Season 2, 2012]]: Diana Hernández
+| align="left" | Agmeth Escaf
+|-
+| style="background:#E0B0FF;" rowspan="2" align="left" | {{flag|China}}
+| ''[[Big Brother (China)|室友一起宅]]''<br><small>''Big Brother China''</small>
+| rowspan="2" |[[Youku]]<br>[[Tudou]]
+| {{plainlist|
+* [[Big Brother (China)|Season 1, 2016]]: ''Upcoming season''
+}}
+| rowspan="2" align="left" | Zhou Wentao
+|-
+| ''[[Big Brother China: Pilot Season|室友一起宅:先导季]]''<br><small>''Big Brother China:Pilot Season''</small>
+| align="left" | [[Big Brother China: Pilot Season|Season 1, 2015]]: ''Upcoming season''
+|-
+| style="background:#FFC0CB;" rowspan="2" align="left" | {{flag|Croatia}}
+| ''[[Big Brother (Croatia)|Big Brother]]''
+| rowspan="2" rowspan="2" | [[RTL Televizija]]
+| {{plainlist|
+* [[Big Brother 1 (Croatia)|Season 1, 2004]]: Saša Tkalčević
+* [[Big Brother 2 (Croatia)|Season 2, 2005]]: Hamdija Seferović
+* [[Big Brother 3 (Croatia)|Season 3, 2006]]: Danijel Rimanić
+* [[Big Brother 4 (Croatia)|Season 4, 2007]]: Vedran Lovrenčić
+* [[Big Brother 5 (Croatia)|Season 5, 2008]]: Krešimir Duvančić
+}}
+| {{plainlist|
+* [[Antonija Blaće]] <small>(''2–5'')</small>
+* Daria Knez <small>(''1'')</small>
+}}
+|-
+| ''[[Big Brother (Croatia)|Celebrity Big Brother]]''
+| align="left" | [[Celebrity Big Brother 1 (Croatia)|Season 1, 2008]]: Danijela Dvornik
+| align="left" | Antonija Blaće 
+|-
+| style="background:#FFC0CB;" align="left" | {{flag|Czech Republic}}
+| ''[[Velký Bratr|Big Brother]]''
+| [[Nova (Czech TV)|TV NOVA]]
+| align="left" | [[Velký Bratr|Season 1, 2005]]: David Šín
+| {{plainlist|
+* Eva Aichmajerová
+* Lejla Abbasová
+* Leoš Mareš
+}}
+|-
+| style="background:#FFC0CB;" rowspan="4" align="left" | {{flag|Denmark}}
+| rowspan="2" | ''[[Big Brother (Denmark)|Big Brother]]''
+| [[TV Danmark]]
+| {{plainlist|
+* [[Big Brother (Denmark)#Big Brother 1|Season 1, 2001]]: Jill Liv Nielsen
+* [[Big Brother (Denmark)#Big Brother 2|Season 2, 2001]]: Carsten B. Berthelsen
+* [[Big Brother (Denmark)#Big Brother 3|Season 3, 2003]]: Johnni Johansen
+}}
+| align="left" | Lisbeth Janniche
+|-
+| [[Kanal 5 (Denmark)|Kanal 5]]
+| {{plainlist|
+* [[Big Brother 4 (Denmark)|Season 4, 2012]]: Amanda Heisel
+* [[Big Brother 5 (Denmark)|Season 5, 2013]]: Bjørn Clausen
+* [[Big Brother 6 (Denmark)|Season 6, 2014]]: David Feldstedt
+}}
+| {{plainlist|
+* [[Oliver Bjerrehuus]] <small>(''6'')</small>
+* Anne Kejser <small>(''5'')</small>
+* Marie Egede <small>(''4'')</small>
+}}
+|-
+| ''Big Brother VIP''
+| rowspan="2" | [[TV Danmark]]
+| align="left" | [[Big Brother (Denmark)#Big Brother V.I.P.|Season 1, 2003]]: Thomas Bickham
+| align="left" | Lisbeth Janniche
+|-
+| ''Big Brother Reality All-Stars''
+| align="left" | [[Big Brother (Denmark)#Big Brother Reality Allstars|Season 1, 2004]]: Jill Liv Nielsen
+| align="left" | Lisbeth Janniche
+|-
+| style="background:#FFC0CB;" align="left" | {{flag|Ecuador}}
+| ''[[Gran Hermano (Ecuador)|Gran Hermano]]''
+| [[Ecuavisa]]
+| align="left" | [[Gran Hermano (Ecuador)|Season 1, 2003]]: David Burbano
+| align="left" | Toty Rodríguez
+|-
+| style="background:#FFC0CB;" rowspan="2" align="left" | {{flag|Finland}}
+| ''[[Big Brother (Finland TV series)|Big Brother]]''
+| rowspan="2" | [[Sub (TV channel)|Sub]]
+| {{plainlist|
+* [[Big Brother 2005 (Finland)|Season 1, 2005]]: Perttu Sirviö
+* [[Big Brother 2006 (Finland)|Season 2, 2006]]: Sari Nygren
+* [[Big Brother 2007 (Finland)|Season 3, 2007]]: [[Sauli Koskinen]]
+* [[Big Brother 2008 (Finland)|Season 4, 2008]]: Anniina Mustajärvi
+* [[Big Brother 2009 (Finland)|Season 5, 2009]]: {{flagicon|Iran}} Aso Alanso
+* [[Big Brother 2010 (Finland)|Season 6, 2010]]: Niko Nousiainen
+* [[Big Brother 2011 (Finland)|Season 7, 2011]]: Janica Kortman
+* [[Big Brother 2012 (Finland)|Season 8, 2012]]: Teija Kurvinen
+* [[Big Brother 2014 (Finland)|Season 9, 2014]]: Andte Gaup-Juuso
+}}
+| {{plainlist|
+* Elina Viitanen <small>(''6–8'')</small>
+* Susanna Laine <small>(''6–7'')</small>
+* [[Vappu Pimiä]] <small>(''3–5'')</small>
+* Mari Sainio (Kakko) <small>(''1–2, 9'')</small>
+}}
+|-
+| ''[[Big Brother (Finland TV Series)|Julkkis Big Brother]]''
+| align="left" | [[Celebrity Big Brother (Finland)|Season 1, 2013]]: Jori Kopponen
+| align="left" | Mari Sainio
+|-
+| style="background:#90EE90" rowspan="2" align="left" | {{flag|France}}
+| ''[[Loft Story (France)|Loft Story]]''
+| [[Métropole 6|M6]]
+| {{plainlist|
+* [[Loft Story (France)#Series 1|Season 1, 2001]]: Christophe Mercy & Loana Petrucciani
+* [[Loft Story (France)#Series 2|Season 2, 2002]]: Karine Delgado & Thomas Saillofest
+}}
+| align="left" | [[Benjamin Castaldi]]
+|-
+| ''[[Secret Story (France)|Secret Story]]''
+| [[TF1]]<br>[[CanalSat]] <small>(live; ''1'')</small>
+| {{plainlist|
+* [[Secret Story 2007 (France)|Season 1, 2007]]: Marjorie, Cyrielle & Johanna Bluteau
+* [[Secret Story 2008 (France)|Season 2, 2008]]:{{flagicon|Belgium}} Matthias Pohl
+* [[Secret Story 2009 (France)|Season 3, 2009]]: Emilie Nefnaf
+* [[Secret Story 2010 (France)|Season 4, 2010]]: Benoit Dubois
+* [[Secret Story 2011 (France)|Season 5, 2011]]: Marie Garet
+* [[Secret Story 2012 (France)|Season 6, 2012]]: {{flagicon|Switzerland}} Nadège Jones
+* [[Secret Story 7 (France)|Season 7, 2013]]: Anaïs Camizuli
+* [[Secret Story 8 (France)|Season 8, 2014]]: {{flagicon|Italy}} {{flagicon|Tunisia}} Leila Ben Khalifa
+* [[Secret Story 9 (France)|Season 9, 2015]]: ''Current season''
+}}
+| align="left" | [[Benjamin Castaldi]] <small>(1-8)</small>
+[[ Christophe Beaugrand]] <small>(9-)</small> <br>''After''<br>Adrien Lemaître <small>(3-)</small><br>Leila Ben Khalifa <small>(9-)</small><br>[[Julie Taton]] <small>(9-)</small><br>[[Nadège Lacroix]] <small>(7)</small>
+|-
+| style="background:#90EE90;" rowspan="3" align="left" | {{flag|Germany}}
+| rowspan=2|''[[Big Brother Germany|Big Brother]]''
+| [[RTL II|RTL 2]]<br>Sky <small>(live; ''10–11'')</small><br>[[Sky Deutschland|Premiere]] <small>(live; ''5–9'')</small><br>[[Viva (TV station)|VIVA]] <small>(''5'', ''9'')</small><br>[[9Live]] <small>(''8'')</small><br>[[Tele 5]] <small>(''4–6'')</small><br>[[MTV2 Pop]] <small>(''4–5'')</small><br>[[RTL Television|RTL]] <small>(''2–3'')</small><br>Single TV <small>(''2'')</small>
+| {{plainlist|
+* [[Big Brother Germany (season 1)|Season 1, 2000]]: John Milz
+* [[Big Brother Germany (season 2)|Season 2, 2000]]: Alida Nadine Kurras
+* [[Big Brother Germany (season 3)|Season 3, 2001]]: Karina Schreiber
+* [[Big Brother Germany (season 4)|Season 4, 2003]]: Jan Geilhufe
+* [[Big Brother Germany (season 5)|Season 5, 2004–05]]: Sascha Sirtl
+* [[Big Brother Germany (season 6)|Season 6, 2005–06]]: Michael Knopf
+* [[Big Brother Germany (season 7)|Season 7, 2007]]: Michael Carstensen
+* [[Big Brother Germany (season 8)|Season 8, 2008]]: Silke Kaufmann
+* [[Big Brother Germany (season 9)|Season 9, 2008–09]]: Daniel Schöller
+* [[Big Brother Germany (season 10)|Season 10, 2010]]: Timo Grätsch
+* [[Big Brother Germany (season 11)|Season 11, 2011]]: Marc Sonnen
+}}
+| {{plainlist|
+* Aleksandra Bechtel <small>(''4'', ''10–11'')</small>
+* [[Sonja Zietlow]] <small>(Opening show, ''11'')</small>
+* Miriam Pielhau <small>(''8–9'')</small>
+* Charlotte Karlinder <small>(''7–8'')</small>
+* [[Oliver Petszokat]] <small>(''6'')</small>
+* [[Ruth Moschner]] <small>(''5–6'')</small>
+* [[Oliver Geissen]] <small>(''2–3'')</small>
+* Percy Hoven <small>(''1'')</small>
+}}
+|-
+| [[sixx]]
+| align="left"|[[Big Brother Germany (season 12)|Season 12, 2015]]: ''Current season''
+| align="left"|Jochen Bendel
+|-
+| ''[[Big Brother Germany|Promi Big Brother]]''
+| [[Sat.1]]<br>[[sixx]] <small>(''2–'')</small><br>maxdome <small>(live; ''2–'')</small><br>[[Sky Deutschland|Sky]] <small>(live 3 hours; ''1'')</small><br>Sat.1 emotions <small>(''1'')</small>
+| {{plainlist|
+* [[Promi Big Brother (season 1)|Season 1, 2013]]: Jenny Elvers
+* [[Promi Big Brother (season 2)|Season 2, 2014]]: {{flagicon|Russia}} Aaron Troschke 
+* [[Promi Big Brother (season 3)|Season 3, 2015]]: {{flagicon|Ghana}} David Odonkor
+}}
+| {{plainlist|
+* Jochen Schropp <small>(''2-3'')</small>
+* [[Cindy aus Marzahn]] <small>(''1'')</small>
+* [[Oliver Pocher]] <small>(''1'')</small>
+}}
+|-
+| style="background:#FFC0CB;" rowspan="2" align="left" | {{flag|Greece}}
+| rowspan="2" | ''[[Big Brother (Greece)|Big Brother]]''
+| [[ANT1]]
+| {{plainlist|
+* [[Big Brother (Greece)#Season 1 (2001)|Season 1, 2001]]: Giorgos Triantafyllidis
+* [[Big Brother (Greece)#Season 2 (2002)|Season 2, 2002]]: Alexandros Moskhos
+* [[Big Brother (Greece)#Season 3 (2003)|Season 3, 2003]]: Thodores Jspógloy
+* [[Big Brother (Greece)#Season 4 (2005)|Season 4, 2005]]: Nikos Papadopoulos
+}}
+| {{plainlist|
+* [[Tatiana Stefanidou]] <small>(''4'')</small>
+* [[Andreas Mikroutsikos]] <small>(''1–3'')</small>
+}}
+|-
+| [[Alpha TV]]<ref>{{cite web|url=http://www.star.gr/index.php?ID=media&Rec_ID=53556|title=Το "Βig Brother" επιστρέφει|last=Staff|date=July 22, 2010|publisher=[[Star Channel]]|language=Greek|accessdate=July 22, 2010}}</ref><br>[[Sigma TV]]
+| align="left" | [[Big Brother (Greece)#Alpha TV (2010)|Season 5, 2010–11]]: Giannis Foukakis
+| align="left" | Roula Koromila
+|-
+| style="background:#FFC0CB;" rowspan="2" align="left" | {{flag|Hungary}}
+| ''[[Big Brother (Hungary)|Nagy Testvér]]''
+| rowspan="2" | [[TV2 (Hungary)|TV2]]
+| {{plainlist|
+* [[Big Brother (Hungary)#First season|Season 1, 2002]]: Éva Párkányi
+* [[Big Brother (Hungary)#Second season|Season 2, 2003]]: Zsófi Tóth
+}}
+| rowspan="2" | {{plainlist|
+* Claudia Liptai
+* Attila Till
+}}
+|-
+| ''Nagy Testver VIP''
+| {{plainlist|
+* [[Big Brother (Hungary)#Nagy Testver VIP 1|Season 1, 2003]]: Gábor Bochkor
+* [[Big Brother (Hungary)#Nagy Testver VIP 2|Season 2, 2003]]: Lajos Boros
+* [[Big Brother (Hungary)#Nagy Testver VIP 3|Season 3, 2003]]: Zolee Ganxsta
+}}
+|-
+| style="background:#90EE90;" rowspan="3" align="left" | {{flag|India}}<br>'''<small>(Hindi)</small>'''
+| rowspan="2" | ''[[Bigg Boss]]''
+| [[Sony Entertainment Television (India)|SET]]
+| align="left" | [[Bigg Boss 1|Season 1, 2006–07]]: [[Rahul Roy]]
+| align="left" | [[Arshad Warsi]]
+|-
+| rowspan="2"|[[Colors (TV channel)|Colors TV]]
+| {{plainlist|
+* [[Bigg Boss 2|Season 2, 2008]]: [[Ashutosh Kaushik]]
+* [[Bigg Boss 3|Season 3, 2009]]: [[Vindu Dara Singh]]
+* [[Bigg Boss 4|Season 4, 2010–11]]: [[Shweta Tiwari]]
+* [[Bigg Boss 5|Season 5, 2011–12]]: [[Juhi Parmar]]
+* [[Bigg Boss 6|Season 6, 2012–13]]: [[Urvashi Dholakia]]
+* [[Bigg Boss 7|Season 7, 2013]]: [[Gauhar Khan]]
+* [[Bigg Boss 8|Season 8, 2014–15]]: [[Ali Quli Mirza]], [[Dimpy Mahajan]], [[Gautam Gulati]], [[Karishma Tanna]] & [[Pritam Singh]]
+* [[Bigg Boss 9|Season 9, 2015]]: ''Current season''
+}}
+| rowspan="2" |{{plainlist|
+* [[Salman Khan]] <small>(''4, 6–8, 9-'')</small>
+* [[Sanjay Dutt]] <small>(''5'')</small>
+* [[Amitabh Bachchan]] <small>(''3'')</small>
+* [[Shilpa Shetty]] <small>(''2'')</small>
+* [[Farah Khan]] <small>(''Halla Bol!'')</small>
+}}
+|-
+|''[[Bigg Boss Halla Bol!]]''
+| align="left" |[[Bigg Boss Halla Bol!|Season 1, 2015]]: Gautam Gulati
+|-
+| style="background:#FFC0CB;" align="left" | {{flag|India}}<br>'''<small>(Bengali)</small>'''
+| ''[[Bigg Boss Bangla]]''
+| [[ETV Bangla]]
+| align="left" | [[Bigg Boss Bangla|Season 1, 2013]]: [[Aneek Dhar]]
+| align="left" | [[Mithun Chakraborty]]
+|-
+| style="background:#90EE90;" rowspan="3" align="left" | {{flag|India}}<br>'''<small>(Kannada)</small>'''
+| rowspan="3" | ''[[Bigg Boss Kannada]]''
+| [[ETV Kannada]]
+| align="left" | [[Bigg Boss Kannada 1|Season 1, 2013]]: [[Vijay Raghavendra]]
+| rowspan="3" align="left" | [[Sudeep]]
+|-
+| [[Asianet Suvarna|Suvarna TV]]
+| align="left" | [[Bigg Boss Kannada 2|Season 2, 2014]]: [[Akul Balaji]]
+|-
+| [[Colors Kannada]]
+| align="left"| [[Bigg Boss Kannada 3|Season 3, 2015]]: ''Current season''
+|-
+| style="background:#FFC0CB;" align="left" | {{flag|Indonesia}}
+| ''[[Big Brother (Indonesia)|Big Brother Indonesia]]''
+| [[Trans TV]]
+| align="left" | [[Big Brother 2011 (Indonesia)|Season 1, 2011]]: Alan Wangsa
+| {{plainlist|
+* Ferdi Hassan
+* Indra Herlambang
+* Sarah Sechan
+* Shara Aryo
+}}
+|-
+| style="background:#E0B0FF;" rowspan="2" align="left" | {{flag|Israel}}
+| ''[[HaAh HaGadol|האח הגדול]]''<br><small>''HaAh HaGadol''</small>
+| rowspan="2" | [[Channel 2 (Israel)|Channel 2]]-[[Keshet (TV)|Keshet]]<br>[[Hot (Israel)|HOT]] <small>(live)</small><br>[[Yes (Israel)|Yes]] <small>(live)</small>
+| {{plainlist|
+* [[HaAh HaGadol 1|Season 1, 2008]]: Shifra Cornfeld
+* [[HaAh HaGadol 2|Season 2, 2009–10]]: Eliraz Sadeh
+* [[HaAh HaGadol 3|Season 3, 2010–11]]: Yaakov Menahem
+* [[HaAh HaGadol 4|Season 4, 2012]]: Yekutiel Sebbag
+* [[HaAh HaGadol 5|Season 5, 2013]]: [[Tahounia Rubel]]
+* [[HaAh HaGadol 6|Season 6, 2014]]: [[Tal Gilboa]]
+* Season 7, 2015: ''Upcoming season''
+}}
+| rowspan="2" | {{plainlist|
+* [[Erez Tal]]
+* [[Assi Azar]] (1-6)
+}}
+|-
+| ''[[HaAh HaGadol VIP|VIP האח הגדול]]''<br><small>''HaAh HaGadol VIP''</small>
+| align="left" | {{plainlist|
+* [[HaAh HaGadol VIP 1|Season 1, 2009]]: Dudi Melitz
+* [[HaAh HaGadol VIP 2|Season 2, 2015]]: [[Moshik Afia]]
+}}
+|-
+| style="background:#90EE90;" rowspan="2" align="left" | {{flag|Italy}}
+| ''[[Grande Fratello]]''
+| [[Canale 5]]<br>[[Stream TV]] <small>(live; ''1–3'')</small><br>[[Sky Italia|SKY]] <small>(live; ''4–5'', ''8–9'')</small><br>
+[[Mediaset Premium]] <small>(live; ''6–12'')</small><br>
+| {{plainlist|
+* [[Grande Fratello Season 1|Season 1, 2000]]: Cristina Plevani
+* [[Grande Fratello Season 2|Season 2, 2001]]: Flavio Montrucchio
+* [[Grande Fratello Season 3|Season 3, 2003]]: Floriana Secondi
+* [[Grande Fratello Season 4|Season 4, 2004]]: Serena Garitta
+* [[Grande Fratello Season 5|Season 5, 2004]]: {{flagicon|Israel}} Jonathan Kashanian
+* [[Grande Fratello Season 6|Season 6, 2006]]: Augusto De Megni
+* [[Grande Fratello Season 7|Season 7, 2007]]: Milo Coretti
+* [[Grande Fratello Season 8|Season 8, 2008]]: Mario Ferretti
+* [[Grande Fratello Season 9|Season 9, 2009]]: Ferdi Berisa
+* [[Grande Fratello Season 10|Season 10, 2009–10]]: Mauro Marin
+* [[Grande Fratello Season 11|Season 11, 2010–11]]: Andrea Cocco
+* [[Grande Fratello Season 12|Season 12, 2011–12]]: {{flagicon|Tunisia}} Sabrina Mbarek
+* [[Grande Fratello (season 13)|Season 13, 2014]]: Mirco Petrilli
+* [[Grande Fratello 14 (Italy)|Season 14, 2015]]: ''Current season''
+}}
+| {{plainlist|
+* '''Current'''
+* [[Alessia Marcuzzi]] <small>(''6–'')</small>
+* '''Former'''
+* [[Barbara D'Urso]] <small>(''3–5'')</small>
+* Daria Bignardi <small>(''1–2'')</small>
+}}
+|-
+| ''Grande Fratello VIP''
+|[[Canale 5]]
+| align="left" | {{plainlist|
+* Season 1, 2016: ''Upcoming season''
+}}
+|align="left"|[[Alessia Marcuzzi]]
+|-
+| style="background:#FFC0CB;" align="left" | {{flag|Lithuania}}
+| ''[[Secret Story 1 (Lithuania)|Paslapčių namai]]''<br><small>''House of Secrets''</small>
+| [[TV3 Lithuania]]
+| align="left" | [[Secret Story 1 (Lithuania)|Season 1, 2013]]: Gintautas Katulis
+| {{plainlist|
+* Agnė Grigaliūnienė
+* Marijus Mikutavičius
+}}
+|-
+| style="background:#90EE90;" rowspan="3" align="left" | {{flag|Mexico}}
+| ''[[Big Brother México]]''
+| [[Televisa]]<br>[[SKY México|SKY]] <small>(live)</small>
+| {{plainlist|
+* [[Big Brother México#Big Brother 1|Season 1, 2002]]: Rocío Cárdenas
+* [[Big Brother México#Big Brother 2|Season 2, 2003]]: Silvia Irabien
+* [[Big Brother México#Big Brother 3|Season 3, 2005]]: Evelyn Nieto
+}}
+| {{plainlist|
+* [[Verónica Castro]] <small>(''3'')</small>
+* [[Adela Micha]] <small>(''1–2'')</small>
+}}
+|-
+| ''Big Brother PM''
+| [[Canal 5 (Televisa Network)|Canal 5]]
+| align="left"|[[Big Brother México 2015 (Season 4)|Season 4, 2015]]: ''Current season''
+| align="left"|[[Adela Micha]]
+|-
+| ''Big Brother VIP''
+| [[Televisa]]<br>[[SKY México|SKY]] <small>(live)</small>
+| {{plainlist|
+* [[Big Brother México#Big Brother VIP 1|Season 1, 2002]]: [[Galilea Montijo]]
+* [[Big Brother México#Big Brother VIP 2|Season 2, 2003]]: [[Omar Chaparro]]
+* [[Big Brother México#Big Brother VIP 3 (Part 1)|Season 3, 2004]]: Eduardo Videgaray
+* [[Big Brother México#Big Brother VIP 3 (Part 2)|Season 4, 2004]]: Roxanna Castellanos
+* [[Big Brother México#Big Brother VIP 4|Season 5, 2005]]: [[Sasha Sökol]]
+}}
+| {{plainlist|
+* Verónica Castro <small>(''2–4'')</small>
+* [[Víctor Trujillo]] <small>(''1'')</small>
+}}
+|-
+| style="background:#FFC0CB;" rowspan="6" align="left" | {{flag|Netherlands}}
+| rowspan="3" | ''[[Big Brother (Netherlands)|Big Brother]]''
+| [[Veronica (television channel)|Veronica]]
+| {{plainlist|
+* [[Big Brother 1999 (Netherlands)|Season 1, 1999]]: [[Bart Spring in 't Veld]]
+* [[Big Brother 2000 (Netherlands)|Season 2, 2000]]: Bianca Hagenbeek
+}}
+| {{plainlist|
+* Esther Duller <small>(''2'')</small>
+* Beau Van Erven Dorens <small>(''2'')</small>
+* Rolf Wouters <small>(''1'')</small>
+* [[Daphne Deckers]] <small>(''1'')</small>
+}}
+|-
+| [[Yorin]]
+| {{plainlist|
+* [[Big Brother 2001 (Netherlands)|Season 3, 2001]]: Sandy Boots
+* [[Big Brother 2002 (Netherlands)|Season 4, 2002]]: Jeanette Godefroy
+}}
+| {{plainlist|
+* [[Martijn Krabbé]] <small>(''4'')</small>
+* [[Patty Brard]] <small>(''3'')</small>
+}}
+|-
+| [[Talpa (TV)|Talpa]]
+| {{plainlist|
+* [[Big Brother 2005 (Netherlands)|Season 5, 2005]]: Joost Hoebink
+* [[Big Brother 2006 (Netherlands)|Season 6, 2006]]: Jeroen Visser
+}}
+| {{plainlist|
+* [[Bridget Maasland]] <small>(''5–6'')</small>
+* [[Ruud de Wild]] <small>(''5'')</small>
+}}
+|-
+| rowspan="2" | ''Big Brother VIPs''
+| [[Veronica (television channel)|Veronica]]
+| align="left" | Season 1, 2000: No winner
+| align="left" | ''Unknown''
+|-
+| [[Talpa TV|Talpa]]
+| align="left" | Season 2, 2006: No winner
+| align="left" | Caroline Tensen
+|-
+| ''[[Secret Story 2011 (Netherlands)|Secret Story]]''
+| [[NET 5]]
+| align="left" | [[Secret Story 2011 (Netherlands)|Season 1, 2011]]: Sharon Hooijkaas
+| {{plainlist|
+* Renate Verbaan
+* Bart Boonstra
+}}
+|-
+| style="background:#FFC0CB;" align="left" | {{flag|Nigeria}}
+| ''[[Big Brother Nigeria]]''
+|[[M-Net]]<br>[[DStv]] <small>(live)</small>
+| align="left" | [[Big Brother Nigeria|Season 1, 2006]]: Katung Aduwak
+| {{plainlist|
+* Olisa Adibua
+* Michelle Dede
+}}
+|-
+| style="background:#FFC0CB;" rowspan="2" align="left" | {{flag|Norway}}
+| rowspan="2" | ''[[Big Brother Norway|Big Brother Norge]]''
+| [[TVNorge|TVN]]
+| {{plainlist|
+* [[Big Brother Norway#Big Brother 1|Season 1, 2001]]: Lars Joakim Ringom
+* [[Big Brother Norway#Big Brother 2|Season 2, 2002]]: Veronica Agnes Roso
+* [[Big Brother Norway#Big Brother 3 - Next Generation|Season 3, 2003]]: Eva Lill Baukhol
+}}
+| {{plainlist|
+* Trygve Rønningen <small>(''3'')</small>
+* Arve Juritzen <small>(''1–2'')</small>
+}}
+|-
+| [[TV 2 Bliss]]
+| align="left" | [[Big Brother Norway#Big Brother 4|Season 4, 2011]]: Tine Barstad
+| {{plainlist|
+* [[Petter Pilgaard]]
+* Sarah Natasha Melbye
+}}
+|-
+| style="background:#FFC0CB;" | {{plainlist|
+* {{flag icon|Chile}}
+* {{flag icon|Ecuador}} [[Pacific Region]]
+* {{flag icon|Peru}} 
+}}
+| ''[[Gran Hermano (Pacific)|Gran Hermano del Pacífico]]''
+| {{flag icon|Ecuador}} [[RedTeleSistema]]<br>{{flag icon|Chile}} [[RedTV]]<br>{{flag icon|Peru}} [[ATV (Peruvian Network)|ATV]]
+| align="left" | [[Gran Hermano (Pacific)|Season 1, 2005]]: {{flagicon|Ecuador}} Juan Sebastián López
+| {{plainlist|
+* Lorena Meritano <small>(Main)</small>
+* Álvaro Ballera & Álvaro García <small>(Regional)</small>
+* Janine Leal <small>(Regional)</small>
+* Juan Francisco Escobar <small>(Regional)</small>
+}}
+|-
+| style="background:#E0B0FF;" align="left" | {{flag|Panama}}
+| ''Gran Hermano Panamá''
+| [[TVN Panama|TVN Canal 2]]
+| align="left" | Season 1, 2016: ''Upcoming season''
+| {{plainlist|
+* TBA
+}}
+|-
+| style="background:#FFC0CB;" align="left" | {{flag|Peru}}
+| ''[[Secret Story 1 (Peru)|La Casa de Los Secretos]]''
+| [[Frecuencia Latina]]
+| align="left" | [[Secret Story 1 (Peru)|Season 1, 2012]]: Álvaro de la Torre
+| {{plainlist|
+* Carla García
+* Jason Day
+}}
+|-
+| style="background:#90EE90;" rowspan="3" align="left" | {{flag|Philippines}}
+| ''[[Pinoy Big Brother]]''
+| rowspan="3" | [[ABS-CBN]]<br>[[The Filipino Channel|TFC]] <small>(Worldwide)</small><br>[[SkyCable]] <small>(live)</small><br>[[Studio 23]] <small>(live; ''1–3'')</small>
+| {{plainlist|
+* [[Pinoy Big Brother (season 1)|Season 1, 2005]]: [[Nene Tamayo]]
+* [[Pinoy Big Brother (season 2)|Season 2, 2007]]:<!---FLAGS ONLY INDICATE NATIONALITY, NOT ETHNICITY!---> [[Beatriz Saw]]
+* [[Pinoy Big Brother: Double Up|Season 3, 2009–10]]: [[Melisa Cantiveros]]
+* [[Pinoy Big Brother: Unlimited|Season 4, 2011–12]]:<!---FLAGS ONLY INDICATE NATIONALITY, NOT ETHNICITY!---> [[Slater Young]]
+* [[Pinoy Big Brother: All In|Season 5, 2014]]: {{flagicon|Brazil}} [[Daniel Matsunaga]]
+* [[Pinoy Big Brother: 737|Season 6, 2015]]: ''Current season''
+}}
+| {{plainlist|
+* '''Current'''
+* [[Toni Gonzaga]]
+* [[Bianca Gonzalez]] <small>(''2–'')</small>
+* [[Robi Domingo]] <small>(''4–'')</small>
+* [[Enchong Dee]] <small>(''6-'')</small>
+* '''Former'''
+* [[Mariel Rodriguez]] <small>(''1–3'')</small>
+* [[Willie Revillame]] <small>(''1'')</small>
+* [[John Prats]] <small>(''5'')</small>
+}}
+|-
+|''[[Pinoy Big Brother: Celebrity Edition]]''
+| {{plainlist|
+* [[Pinoy Big Brother: Celebrity Edition 1|Season 1, 2006]]: [[Keanna Reeves]]
+* [[Pinoy Big Brother: Celebrity Edition 2|Season 2, 2007–08]]: [[Ruben Gonzaga]]
+}}
+| {{plainlist|
+* Toni Gonzaga
+* Mariel Rodriguez
+* Bianca Gonzalez <small>(''2'')</small>
+* [[Luis Manzano]] <small>(''1'')</small>
+}}
+|-
+| ''[[Pinoy Big Brother: Teen Edition]]''
+| {{plainlist|
+* [[Pinoy Big Brother: Teen Edition 1|Season 1, 2006]]:<!---FLAGS ONLY INDICATE NATIONALITY, NOT ETHNICITY!---> [[Kim Chiu]]
+* [[Pinoy Big Brother: Teen Edition Plus|Season 2, 2008]]:<!---FLAGS ONLY INDICATE NATIONALITY, NOT ETHNICITY!---> [[Ejay Falcon]]
+* [[Pinoy Big Brother: Teen Edition 3|Season 3, 2010]]: {{flagicon|Australia}} [[James Reid (Pinoy Big Brother)#Teenternational Housemates|James Reid]]
+* [[Pinoy Big Brother Teen Edition 4|Season 4, 2012]]: [[Myrtle Sarrosa|Myrtle Abigail Sarrosa]]
+}}
+| {{plainlist|
+* Bianca Gonzalez
+* Mariel Rodriguez <small>(''1–3'')</small>
+* Toni Gonzaga <small>(''2–4'')</small>
+* Luis Manzano <small>(''2'')</small>
+* Robi Domingo <small>(''4'')</small>
+* John Prats <small>(''4'')</small>
+}}
+|-
+| style="background:#FFC0CB;" rowspan="4" align="left" | {{flag|Poland}}
+| rowspan="2" | ''[[Big Brother (Poland)|Big Brother]]''
+| [[TVN (Poland)|TVN]]
+| {{plainlist|
+* [[Big Brother (Poland)#Season 1|Season 1, 2001]]: [[Janusz Dzięcioł]]
+* [[Big Brother (Poland)#Season 2|Season 2, 2001]]: Marzena Wieczorek
+* [[Big Brother (Poland)#Season 3|Season 3, 2002]]: Piotr Borucki
+}}
+| {{plainlist|
+* Grzegorz Miecugow
+* [[Martyna Wojciechowska]] <small>(''1–3'')</small>
+* Andrzej Sołtysik <small>(''2–3'')</small>
+}}
+|-
+| [[TV4 (Poland)|TV4]]
+| {{plainlist|
+* [[Big Brother (Poland)#Season 4|Season 4, 2007]]: Jolanta Rutowicz
+* [[Big Brother (Poland)#Part 2|Season 5, 2008]]: Janusz Strączek
+}}
+| {{plainlist|
+* Kuba Klawiter <small>(''4–5'')</small>
+* Małgorzata Kosik <small>(''5'')</small>
+* Karina Kunkiewicz <small>(''4'')</small>
+}}
+|-
+| ''Big Brother: Ty Wybierasz''
+| [[TVN (Poland)|TVN]]
+| {{plainlist|
+* Season 1, 2001: Małgorzata Maier & Sebastian Florek
+* Season 2, 2001: Barbara Knap & Jakub Jankowski
+}}
+| {{plainlist|
+* [[Martyna Wojciechowska]]
+* Grzegorz Miecugow
+* Andrzej Sołtysik <small>(''2'')</small>
+}}
+|-
+| ''[[Big Brother (Poland)|Big Brother VIP]]''
+| [[TV4 (Poland)|TV4]]
+| align="left" | [[Big Brother (Poland)#VIP|Season 1, 2008]]: Jarek Jakimowicz
+| {{plainlist|
+* Kuba Klawiter
+* Małgorzata Kosik
+}}
+|-
+| style="background:#FFC0CB;" rowspan="6" align="left" | {{flag|Portugal}}
+| ''[[Big Brother (Portugal)|Big Brother]]''
+| [[Televisão Independente|TVI]]<br>TVI Eventos <small>(live; ''1'')</small>
+| {{plainlist|
+* [[Big Brother (Portugal)#Big Brother 1|Season 1, 2000]]: Zé Maria Seleiro
+* [[Big Brother (Portugal)#Big Brother 2|Season 2, 2001]]: Henrique Guimarães
+* [[Big Brother (Portugal)#Big Brother 3|Season 3, 2001]]: Catarina Cabral
+* [[Big Brother (Portugal)#Big Brother 4|Season 4, 2003]]: Fernando Geraldes
+}}
+| rowspan="3" align="left" | [[:pt:Teresa Guilherme|Teresa Guilherme]]
+|-
+| ''Big Brother Famosos''
+| rowspan="2" | [[Televisão Independente|TVI]]<br>TVI Direct <small>(live; VIP)</small>
+| {{plainlist|
+* [[Big Brother (Portugal)#Celebrity Big Brother 1|Season 1, 2002]]: Ricardo Vieira
+* [[Big Brother (Portugal)#Celebrity Big Brother 2|Season 2, 2002]]: Vítor Norte
+}}
+|-
+| ''Big Brother VIP''
+| {{plainlist|
+* [[Big Brother VIP 3 (Portugal)|Season 3, 2013]]: Pedro Guedes
+}}
+|-
+| ''[[Secret Story (Portugal)|Secret Story: Casa dos Segredos]]''
+| rowspan="3" | [[Televisão Independente|TVI]]<br>TVI Direct <small>(live)</small>
+| {{plainlist|
+* [[Secret Story 1 (Portugal)|Season 1, 2010]]: António Queirós
+* [[Secret Story 2 (Portugal)|Season 2, 2011]]: João Mota
+* [[Secret Story 3 (Portugal)|Season 3, 2012]]: Rúben Boa Nova
+* [[Secret Story 4 (Portugal)|Season 4, 2013]]: Luís Nascimento
+* [[Secret Story 5 (Portugal)|Season 5, 2014]]: Elisabete Moutinho
+}}
+| {{plainlist|
+* [[:pt:Teresa Guilherme|Teresa Guilherme]] <small>(''2–5'')</small>
+* [[:pt:Júlia Pinheiro|Júlia Pinheiro]] <small>(''1'')</small>
+}}
+|-
+| ''Secret Story: Desafio Final''
+| {{plainlist|
+* [[Secret Story: Desafio Final 1 (Portugal)|Season 1, 2013]]: Cátia Palhinha
+* [[Secret Story: Desafio Final 2 (Portugal)|Season 2, 2014]]: Érica Silva
+* [[Secret Story: Desafio Final 3 (Portugal)|Season 3, 2015]]: Sofia Sousa
+}}
+| rowspan=2 align="left" | [[:pt:Teresa Guilherme|Teresa Guilherme]]
+|-
+| ''Secret Story: Luta Pelo Poder''
+| align="left"|[[Secret Story: Luta Pelo Poder 1 (Portugal)|Season 1, 2015]]: Bruno Sousa
+|-
+| style="background:#FFC0CB;" align="left" | {{flag|Romania}}
+| ''[[Big Brother (Romania)|Big Brother]]''
+| [[Prima TV]]
+| {{plainlist|
+* [[Big Brother 1 (Romania)|Season 1, 2003]]: Sorin Pavel Fisteag
+* [[Big Brother 2 (Romania)|Season 2, 2004]]: Iustin Popovici
+}}
+| {{plainlist|
+* Andreea Raicu
+* Virgil Ianțu
+}}
+|-
+| style="background:#FFC0CB;" align="left" | {{flag|Russia}}
+| ''[[Big Brother (Russia)|большой брат]]''<br><small>''Big Brother''</small>
+| [[TNT (Russia)|TNT]]
+| align="left" | [[Big Brother (Russia)|Season 1, 2005]]: Anastasia Yagaylova
+| align="left" | [[Ingeborga Dapkunaite]]
+|-
+| style="background:#E0B0FF;" align="left" | {{flag icon|Denmark}} {{flag icon|Norway}} [[Scandinavia]]<ref>Co-produced version with [[Denmark]] and [[Norway]] taking part.</ref>
+| ''Big Brother''
+| {{flag icon|Denmark}} [[Kanal 4]]<br>{{flag icon|Norway}} [[VOX (Norwegian TV channel)|VOX]]
+| align="left" | Season 1, 2016: ''Upcoming season''
+| align="left" | TBA
+|-
+| style="background:white;" rowspan="2" align="left" | {{flag icon|Norway}} {{flag icon|Sweden}} [[Scandinavia]]<ref>Co-produced version with [[Norway]] and [[Sweden]] taking part.</ref>
+| rowspan=2|''[[Big Brother (Sweden and Norway)|Big Brother]]''
+| {{flag icon|Sweden}} [[Kanal5]]<br>{{flag icon|Norway}} [[FEM (TV channel)|FEM]]
+| {{plainlist|
+* [[Big Brother (Sweden and Norway)#Season one|Season 1, 2005]]: {{flagicon|Norway}} Britt Goodwin
+* [[Big Brother (Sweden and Norway)#Season two|Season 2, 2006]]: {{flagicon|Sweden}} Jessica Lindgren
+}}
+| {{plainlist|
+* Brita Møystad Engseth
+* [[Hannah Widell|Hannah Rosander]] <small>(''2'')</small>
+* [[Adam Alsing]] <small>(''1'')</small>
+}}
+|-
+| {{flag icon|Sweden}} [[Kanal 9]]<br>{{flag icon|Norway}} [[FEM (TV channel)|FEM]]
+| align="left" | [[Big Brother 2014 (Norway & Sweden)|Season 3, 2014]]: {{flagicon|Sweden}} Anders Olsson
+| {{plainlist|
+* Pia Lykke
+* [[Adam Alsing]]
+}}
+|-
+| style="background:#FFC0CB;" align="left" | [[Second Life]]
+| ''[[Big Brother Second Life]]''
+| [[World Wide Web]]
+| align="left" | [[Big Brother Second Life|Season 1, 2006]]: Madlen Flint
+| align="left" | ''None''
+|-
+| style="background:#FFC0CB;" align="left" | {{flag|Slovakia}}
+| ''[[Big Brother (Slovakia)|Big Brother Súboj]]''
+| [[TV Markíza]]
+| align="left" | [[Big Brother (Slovakia)|Season 1, 2005]]: Richard Tkáč
+| align="left" | Zuzana Belohorcová
+|-
+| style="background:white;" rowspan="2" align="left" | {{flag|Slovenia}}
+| ''[[Big Brother (Slovenia)|Big Brother]]''
+| [[Kanal A]]
+| {{plainlist|
+* [[Big Brother Slovenia Season 1|Season 1, 2007]]: Andrej Novak
+* [[Big Brother Slovenia Season 2|Season 2, 2008]]: Naske Mehić
+* [[Big Brother 3 (Slovenia)|Season 3, 2015]]: Pia Filipčič
+}}
+| {{plainlist|
+* Nina Osenar <small>(''1-2'')</small>
+* Ana Marija Mitić <small>(''3'')</small>
+}}
+|-
+| ''Big Brother Slavnih''
+| [[POP TV]]
+| align="left" | [[Celebrity Big Brother Slovenia Season 1|Season 1, 2010]]: Jože Činč
+| align="left" | Nina Osenar
+|-
+| style="background:white;" rowspan="3" align="left" | {{flag|South Africa}}
+| ''[[Big Brother (South Africa)|Big Brother South Africa]]''
+|rowspan="3" | [[M-Net]]<br>[[DStv]] <small>(live)</small>
+| {{plainlist|
+* [[Big Brother (South Africa)#Season 1|Season 1, 2001]]: Ferdinand Rabie
+* [[Big Brother (South Africa)#Season 2|Season 2, 2002]]: Richard Cawood
+}}
+| {{plainlist|
+* [[Mark Pilgrim (presenter)|Mark Pilgrim]]
+* Gerry Rantseli
+}}
+|-
+| ''[[Big Brother (South Africa)|Big Brother Mzansi]]''
+| {{plainlist|
+* [[Big Brother Mzansi 3 (South Africa)|Season 3, 2014]]: Mandla Hlatshwayo
+* [[Big Brother Mzansi 4 (South Africa)|Season 4, 2015]]: Ace Khumalo & Ntombi Tshabalala 
+}}
+| align="left" | Lungile Radu
+|-
+| ''[[Celebrity Big Brother (South Africa)|Celebrity Big Brother]]''
+| align="left" | [[Celebrity Big Brother (South Africa)|Season 1, 2002]]: Bill Flynn
+| {{plainlist|
+* [[Mark Pilgrim (presenter)|Mark Pilgrim]]
+* Gerry Rantseli
+}}
+|-
+| style="background:#90EE90;" rowspan="4" align="left" | {{flag|Spain}}
+| ''[[Gran Hermano (Spain)|Gran Hermano]]''
+|rowspan="4" | [[Telecinco]]<br>Mitele <small>(live)</small>
+| <!----Following the articles REAL names 'Gran Hermano X (Spain)' NOT 'Gran Hermano Spain (season X) for season 11–present---> <!---- Flags ONLY in regional versions of if the housemate has another nationality---> {{plainlist|
+* [[Gran Hermano Spain (season 1)|Season 1, 2000]]: Ismael Beiro
+* [[Gran Hermano Spain (season 2)|Season 2, 2001]]: Sabrina Mahí
+* [[Gran Hermano Spain (season 3)|Season 3, 2002]]: Javito García
+* [[Gran Hermano Spain (season 4)|Season 4, 2002–03]]: Pedro Oliva
+* [[Gran Hermano Spain (season 5)|Season 5, 2003–04]]: Nuria Yáñez
+* [[Gran Hermano Spain (season 6)|Season 6, 2004]]: Juanjo Mateo
+* [[Gran Hermano Spain (season 7)|Season 7, 2005–06]]: Pepe Herrero
+* [[Gran Hermano Spain (season 8)|Season 8, 2006]]: {{flagicon|Brazil}} Naiala Melo
+* [[Gran Hermano Spain (season 9)|Season 9, 2007]]: Judit Iglesias
+* [[Gran Hermano Spain (season 10)|Season 10, 2008–09]]: Iván Madrazo
+* [[Gran Hermano 11 (Spain)|Season 11, 2009–10]]: Ángel Muñoz
+* [[Gran Hermano 12 (Spain)|Season 12, 2010–11]]: Laura Campos
+* [[Gran Hermano 13 (Spain)|Season 13, 2012]]: Pepe Flores
+* [[Gran Hermano 14 (Spain)|Season 14, 2013]]: Susana Molina
+* [[Gran Hermano 15 (Spain)|Season 15, 2014]]: Paula González
+* [[Gran Hermano 16 (Spain)|Season 16, 2015]]: ''Current season''
+}}
+| {{plainlist|
+* '''Current'''
+* [[Mercedes Milá]] <small>(''1–2'', ''4–'')</small>
+* '''Former'''
+* [[Pepe Navarro]] <small>(''3'')</small>
+}}
+|-
+| ''Gran Hermano VIP''
+| {{plainlist|
+* [[Gran Hermano Spain (VIP Season 1)|Season 1, 2004]]: {{flagicon|France}} Marlène Mourreau
+* [[Gran Hermano Spain (VIP Season 2)|Season 2, 2005]]: {{flagicon|Mexico}} Ivonne Armand
+* [[Gran Hermano Spain (VIP Season 3)|Season 3, 2015]]: [[Belén Esteban]]
+* [[Gran Hermano Spain (VIP Season 4)|Season 4, 2016]]: ''Upcoming season''
+}}
+| {{plainlist|
+* [[Jesús Vázquez (television presenter)|Jesús Vázquez]] <small>(''1-2'')</small>
+* [[Jordi González Belart|Jordi González]] <small>(''3-4'')</small>
+}}
+|-
+| ''Gran Hermano: El Reencuentro''
+| {{plainlist|
+* [[Gran Hermano (Spain) All Stars|Season 1, 2010]]: Pepe Herrero & Raquel López
+* [[Gran Hermano (Spain) All Stars 2011|Season 2, 2011]]: Juan Miguel Martínez & Yola Berrocal
+}}
+| {{plainlist|
+* [[Jordi González Belart|Jordi González]] <small>(''2'')</small>
+* [[Mercedes Milá]] <small>(''1'')</small>
+}}
+|-
+| ''Gran Hermano: La Revuelta''
+| align="left" | [[Gran Hermano (Spain) All Stars 2|Season 1, 2012]]: {{flagicon|Italy}} [[Alessandro Livi]]
+| align="left" | [[Mercedes Milá]]
+|-
+| style="background:#90EE90;" rowspan="4" align="left" | {{flag|Sweden}}
+| rowspan="3" | ''[[Big Brother Sweden|Big Brother Sverige]]''
+| [[Kanal5]]
+| {{plainlist|
+* [[Big Brother Sweden#Big Brother 1|Season 1, 2000]]: Angelica Freij
+* [[Big Brother Sweden#Big Brother 2|Season 2, 2002]]: Ulrica Andersson
+* [[Big Brother Sweden#Big Brother 3|Season 3, 2003]]: Danne Sörensen
+* [[Big Brother Sweden#Big Brother 4|Season 4, 2004]]: Carolina Gynning
+}}
+| align="left" | [[Adam Alsing]]
+|-
+| [[TV400|TV11]]
+| {{plainlist|
+* [[Big Brother 2011 (Sweden)|Season 5, 2011]]: Simon Danielsson
+* [[Big Brother 2012 (Sweden)|Season 6, 2012]]: Hanna Johansson
+}}
+| align="left" | [[Gry Forssell]]
+|-
+| [[Kanal 11 (Sweden)|Kanal 11]]
+| {{plainlist|
+* [[Big Brother 2015 (Sweden)|Season 7, 2015]]: ''Current season''
+}}
+| align="left" | [[Adam Alsing]]
+|-
+| ''Big Brother Stjärnveckan''
+| [[Kanal5]]
+| align="left" | [[Big Brother Sweden#Big Brother Stjärnveckan|Season 1, 2002]]: Anki Lundberg
+| align="left" | [[Adam Alsing]]
+|-
+| style="background:#FFC0CB;" align="left" | {{flag|Switzerland}}
+| ''[[Big Brother (Switzerland)|Big Brother Switzerland]]''
+| TV3 Switzerland
+| {{plainlist|
+* [[Big Brother (Switzerland)#Season 1|Season 1, 2000]]: Daniela Kanton
+* [[Big Brother (Switzerland)#Season 2|Season 2, 2001]]: Christian Ponleitner
+}}
+| {{plainlist|
+* Eva Wannemacher <small>(''2'')</small>
+* Daniel Fohrler <small>(''1'')</small>
+}}
+|-
+| style="background:#FFC0CB;" align="left" | {{flag|Thailand}}
+| ''[[Big Brother (Thailand)|Big Brother Thailand]]''
+| [[iTV (Thailand)|iTV]]
+| {{plainlist|
+* [[Big Brother Thailand (season 1)|Season 1, 2005]]: Nipon Perktim
+* [[Big Brother Thailand (season 2)|Season 2, 2006]]: Arisa Sonthirod
+}}
+| {{plainlist|
+* Saranyu Vonkarjun
+* Nana Raibeena <small>(''2'')</small>
+}}
+|-
+| style="background:#E0B0FF;" align="left" | {{flag|Turkey}}
+| ''Big Brother Türkiye''<ref>http://www.startv.com.tr/program/big-brother-turkiye</ref>
+| [[Star TV (Turkey)|Star TV]]
+| align="left" | Season 1, 2015: ''Upcoming season''
+| {{plainlist|
+* TBA
+}}
+|-
+| style="background:#FFC0CB;" align="left" | {{flag|Ukraine}}
+| ''[[Big Brother (Ukraine)|Big Brother Україна]]''
+| K1
+| align="left" | [[Big Brother 2011 (Ukraine)|Season 1, 2011]]: Kristina Kotvickaja
+| {{plainlist|
+* Olga Gorbacheva
+* Oleksey Kurban
+}}
+|-
+| style="background:#E0B0FF;"  rowspan="8" align="left" | {{flag|United Kingdom}}
+<!-- PLEASE USE THE TERM "SERIES" TO CLARIFY THE CURRENT EDITION, ENGLISH (UK) LANGUAGE DOESN'T USE "SEASON" TO DEFINE PERIODS OF TV SHOWS -->
+| rowspan="2" | ''[[Big Brother (UK)|Big Brother]]''
+| [[Channel 4]] and <br>[[S4C]] <small>(''1–10'')</small><br>{{flagicon|Poland}}[[TVN (Poland)|TVN Lingua]]
+| {{plainlist|
+* [[Big Brother 1 (UK)|Series 1, 2000]]: [[Craig Phillips]]
+* [[Big Brother 2 (UK)|Series 2, 2001]]: {{flagicon|Ireland}} [[Brian Dowling]]
+* [[Big Brother 3 (UK)|Series 3, 2002]]: [[Kate Lawler]]
+* [[Big Brother 4 (UK)|Series 4, 2003]]: [[Cameron Stout]]
+* [[Big Brother 5 (UK)|Series 5, 2004]]: {{flagicon|Portugal}} [[Nadia Almada]]
+* [[Big Brother 6 (UK)|Series 6, 2005]]: [[Anthony Hutton]]
+* [[Big Brother 7 (UK)|Series 7, 2006]]: [[Pete Bennett]]
+* [[Big Brother 8 (UK)|Series 8, 2007]]: {{flagicon|Nigeria}} [[Brian Belo]]
+* [[Big Brother 9 (UK)|Series 9, 2008]]: [[Rachel Rice]]
+* [[Big Brother 10 (UK)|Series 10, 2009]]: [[Sophie Reade]]
+* [[Big Brother 11 (UK)|Series 11, 2010]]: [[Josie Gibson]]
+}}
+| align="left" | [[Davina McCall]]
+|-
+| [[Channel 5 (UK)|Channel 5]]<br>[[MTV (UK and Ireland)|MTV]] <small>(''16–'')</small><br>{{flagicon|Republic of Ireland}}[[TV3 (Ireland)|TV3]] <small>(''16–'')</small>
+| {{plainlist|
+* [[Big Brother 12 (UK)|Series 12, 2011]]: [[Aaron Allard|Aaron Allard-Morgan]]
+* [[Big Brother 13 (UK)|Series 13, 2012]]: {{flagicon|South Africa}} [[List of Big Brother 13 housemates (UK)#Luke A|Luke Anderson]]
+* [[Big Brother 14 (UK)|Series 14, 2013]]: [[List of Big Brother 14 housemates (UK)#Sam|Sam Evans]]
+* [[Big Brother 15 (UK)|Series 15, 2014]]: [[List of Big Brother 15 housemates (UK)#Helen|Helen Wood]]
+* [[Big Brother 16 (UK)|Series 16, 2015]]: [[List of Big Brother 16 housemates (UK)#Chloe|Chloe Wilburn]]
+* [[Big Brother (UK)|Series 17, 2016]]: ''Upcoming series''
+}}
+| {{plainlist|
+* '''Current'''
+* [[Emma Willis]] <small>(''14–'')</small>
+* '''Former'''
+* [[Brian Dowling]] <small>(''12–13'')</small>
+}}
+|-
+| rowspan="2" | ''[[Celebrity Big Brother (UK)|Celebrity Big Brother]]''
+| [[Channel 4]] and <br>[[S4C]] <small>(''2–7'')</small>
+| {{plainlist|
+* [[Celebrity Big Brother 1 (UK)|Series 1, 2001]]: [[Jack Dee]]
+* [[Celebrity Big Brother 2|Series 2, 2002]]: [[Mark Owen]]
+* [[Celebrity Big Brother 3|Series 3, 2005]]: [[Mark "Bez" Berry|Bez]]
+* [[Celebrity Big Brother 4|Series 4, 2006]]: [[Chantelle Houghton]]
+* [[Celebrity Big Brother 5|Series 5, 2007]]: {{flagicon|India}} [[Shilpa Shetty]]
+* [[Celebrity Big Brother 6|Series 6, 2009]]: {{flagicon|Sweden}} [[Ulrika Jonsson]]
+* [[Celebrity Big Brother 7|Series 7, 2010]]: [[Alex Reid (fighter)|Alex Reid]]
+}}
+| align="left" | [[Davina McCall]]
+|-
+| [[Channel 5 (UK)|Channel 5]]<br>[[MTV (UK and Ireland)|MTV]] <small>(''15–'')</small><br>{{flagicon|Republic of Ireland}}[[TV3 (Ireland)|TV3]] <small>(''16–'')</small>
+| {{plainlist|
+* [[Celebrity Big Brother 8|Series 8, 2011]]: {{flagicon|Ireland}} [[Paddy Doherty (TV personality)|Paddy Doherty]]
+* [[Celebrity Big Brother 9|Series 9, 2012]]: [[Denise Welch]]
+* [[Celebrity Big Brother 10|Series 10, 2012]]: [[Julian Clary]]
+* [[Celebrity Big Brother 11|Series 11, 2013]]: [[Rylan Clark]]
+* [[Celebrity Big Brother 12|Series 12, 2013]]: [[Charlotte Crosby]]
+* [[Celebrity Big Brother 13|Series 13, 2014]]: [[Jim Davidson]]
+* [[Celebrity Big Brother 14|Series 14, 2014]]: {{flagicon|United States}} [[Gary Busey]]
+* [[Celebrity Big Brother 15|Series 15, 2015]]: [[Katie Price]]
+* [[Celebrity Big Brother 16|Series 16, 2015]]: [[James Hill (TV personality)|James Hill]]
+* [[Celebrity Big Brother|Series 17, 2016]]: ''Upcoming series''
+}}  
+| {{plainlist|
+* '''Current'''
+* [[Emma Willis]] <small>(''12–'')</small>
+* '''Former'''
+* [[Brian Dowling]] <small>(''8–11'')</small>
+}}
+|-
+| ''[[Teen Big Brother: The Experiment|Teen Big Brother]]''
+| [[Channel 4]]/[[E4 (channel)|E4]] and <br>[[S4C]] 
+| align="left" | [[Teen Big Brother: The Experiment|Series 1, 2003]]: Paul Brennan
+| align="left" | [[Dermot O'Leary]]
+|-
+| ''[[Big Brother Panto]]''
+| [[Channel 4]]/[[E4 (channel)|E4]] and <br>[[S4C]] 
+| align="left" | [[Big Brother Panto|Series 1, 2004–05]]: No winner
+| align="left" | [[Jeff Brazier]] 
+|-
+| ''[[Big Brother: Celebrity Hijack|Celebrity Hijack]]''
+| [[Channel 4]]/[[E4 (channel)|E4]] and <br>[[S4C]] 
+| align="left" | [[Big Brother: Celebrity Hijack|Series 1, 2008]]: [[John Loughton]]
+| align="left" | [[Dermot O'Leary]] 
+|-
+| ''[[Ultimate Big Brother]]''
+| [[Channel 4]]/[[E4 (channel)|E4]]
+| align="left" | [[Ultimate Big Brother|Series 1, 2010]]: {{flagicon|Ireland}} [[Brian Dowling]]
+| align="left" | [[Davina McCall]] 
+|-
+| style="background:#E0B0FF;" rowspan="2" align="left" | {{flag|United States}}<br><small>'''(English)'''</small>
+| ''[[Big Brother (U.S.)|Big Brother]]''
+| rowspan="2" | [[CBS]]<br>[[Showtime (TV network)|Showtime 2]] <small>(''8–14'')</small><br/>[[Pop (U.S. TV network)|Pop]] <small>(''15–'')</small><br/><br>{{flag icon|Canada}} [[Slice (TV channel)|Slice]]<br>{{flag icon|Canada}} [[Global Television Network|Global]]<br>{{flag icon|Canada}} [[Global Reality Channel]]<ref>[[Global Reality Channel]]</ref> <br>{{flag icon|UK}} [[E4 (channel)|E4]] <small>(''4'', ''9'')</small>
+| {{plainlist|
+* [[Big Brother 1 (U.S.)|Season 1, 2000]]: [[Eddie McGee]]
+* [[Big Brother 2 (U.S.)|Season 2, 2001]]: {{flagicon|Italy}} [[Will Kirby]]
+* [[Big Brother 3 (U.S.)|Season 3, 2002]]: [[Lisa Donahue]]
+* [[Big Brother 4 (U.S.)|Season 4, 2003]]: {{flagicon|South Korea}} [[Jun Song]]
+* [[Big Brother 5 (U.S.)|Season 5, 2004]]: [[Andrew Daniel|Drew Daniel]]
+* [[Big Brother 6 (U.S.)|Season 6, 2005]]: [[Maggie Ausburn]]
+* [[Big Brother 7 (U.S.)|Season 7, 2006]]: Mike Malin
+* [[Big Brother 8 (U.S.)|Season 8, 2007]]: [[Dick Donato]]
+* [[Big Brother 9 (U.S.)|Season 9, 2008]]: [[Adam Jasinski]]
+* [[Big Brother 10 (U.S.)|Season 10, 2008]]: [[Dan Gheesling]]
+* [[Big Brother 11 (U.S.)|Season 11, 2009]]: [[Jordan Lloyd]]
+* [[Big Brother 12 (U.S.)|Season 12, 2010]]: [[Hayden Moss]]
+* [[Big Brother 13 (U.S.)|Season 13, 2011]]: [[Rachel Reilly]]
+* [[Big Brother 14 (U.S.)|Season 14, 2012]]: [[Ian Terry]]
+* [[Big Brother 15 (U.S.)|Season 15, 2013]]: [[Andy Herren]]
+* [[Big Brother 16 (U.S.)|Season 16, 2014]]: [[Derrick Levasseur]]
+* [[Big Brother 17 (U.S.)|Season 17, 2015]]: [[Steve Moses (Big Brother)|Steve Moses]]
+* Season 18, 2016: ''Upcoming season''}}
+| rowspan="2" align="left" | [[Julie Chen]]
+|-
+| ''Big Brother: All-Stars''
+| align="left" | [[Big Brother 7 (U.S.)|Season 7, 2006]]: [[Mike Malin (Big Brother contestant)|Mike Malin]]
+|-
+| style="background:#E0B0FF;" align="left" | {{flag|United States}}<br><small>'''(Spanish)'''</small>
+| ''Gran Hermano USA''
+| [[Telemundo]]
+| align="left" | Season 1, 2016: ''Upcoming season''<ref>{{cite web|title=Auditions Begin for Telemundo’s Upcoming “Gran Hermano” (Big Brother) Scheduled to Premiere in 2016 for the First Time in Spanish in the United States|url=http://www.nbcumv.com/news/auditions-begin-telemundo’s-upcoming-“gran-hermano”-big-brother-scheduled-premiere-2016-first|website=NBC Universal Media Village|publisher=NBC Universal|accessdate=28 October 2015}}</ref>
+| align="left" | TBA
+|-
+| style="background:#FFC0CB;" align="left" | {{flag|Vietnam}}
+| ''[[Người giấu mặt]]''
+| [[Vietnam Television|VTV6]]
+| align="left" | [[Người giấu mặt (season 1)|Season 1, 2013–14]]: Hoàng Sơn Việt
+| align="left" | Huy Khánh
+|}
+
+==Controversies==
+
+===Stolen concept===
+In April 2000, Castaway, an independent production company, filed a lawsuit against John de Mol and Endemol for stealing the concepts of their own show called ''[[Survivor (TV series)|Survive!]]'', a reality television show where contestants are placed in a deserted island and will have to take care of themselves alone. These contestants were also filmed by cameras around them.<ref>{{cite web | url=http://news.bbc.co.uk/2/hi/entertainment/720966.stm | title=Geldof's Big Brother battle | publisher=''[[BBC News]]'' | date=20 April 2000 | accessdate=23 May 2014}}</ref> The court later dismissed the lawsuit filed by Castaway against de Mol and Endemol. The ''Survive!'' reality television format was later turned into ''[[Survivor (TV series)|Survivor]]''.<ref>{{cite web | url=http://news.bbc.co.uk/2/hi/entertainment/893180.stm | title=Blow for mogul's Big Brother claim | publisher=''[[BBC News]]'' | date=24 August 2000 | accessdate=23 May 2014}}</ref>
+
+===Accusations of inappropriate sexual behavior===
+There have been two documented occurrences of possible rape happening during the show, much to the horror of viewers. In Big Brother South Africa a male housemate was accused of assaulting a fellow housemate while she was asleep. The pair were filmed kissing and cuddling in bed before the cameras moved away and the male housemate reportedly claimed to housemates the next day that he had intercourse with the contestant. However, the female housemate was apparently shocked by the claims and informed female housemates that she had not consented to having sex with him. (Under South African law, this act would be constituted as rape.)<ref name=africarape>{{cite web|last1=Paterson|first1=Mark|title=Big Brother’s South African rape horror show|url=http://www.theweek.co.uk/tv-radio/big-brother/28073/big-brother%E2%80%99s-south-african-rape-horror-show|website=The Week|publisher=Dennis Publishing|accessdate=12 January 2015}}</ref> This male housemate was expelled immediately after the allegations surfaced, while the female housemate was removed from the house for her own protection and counselling . In Big Brother Brazil, many viewers reported that they watched a male housemate allegedly force himself on a female housemate while she was passed out drunk after a "boozy party."<ref name=brazilrape>{{cite web|last1=Roper|first1=Matt|title=Housemate on Brazilian version of Big Brother was 'raped on live TV' after alcohol-fuelled party|url=http://www.dailymail.co.uk/news/article-2087801/Big-Brother-Brazil-Daniel-Echaniz-raped-Monique-Amin-live-TV-alcohol-fueled-party.html|website=[[Daily Mail]]|publisher=Associated Newspapers Ltd|accessdate=12 January 2015}}</ref> As a result, the male housemate was later escorted out of the Big Brother house by the police.
+
+==See also==
+* [[List of television show franchises]]
+
+==References==
+{{reflist|30em}}
+
+==Bibliography==
+* {{cite book | last = Johnson-Woods | first = Toni | year = 2002 | title = Big Brother: Why Did That Reality TV Show Become Such a Phenomenon? | publisher = University of Queensland Press | location= Australia | isbn = 0-7022-3315-3}}
+
+{{Big Brother}}
+
+{{Authority control}}
+{{DEFAULTSORT:Big Brother (Tv Series)}}
+[[Category:Big Brother (TV series)|*]]
+[[Category:Television series by Endemol]]
+[[Category:1999 Dutch television series debuts]]
+[[Category:Television franchises]]
+[[Category:1990s Dutch television series]]

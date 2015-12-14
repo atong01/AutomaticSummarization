@@ -1,0 +1,845 @@
+{{Infobox language
+|name=Etruscan
+|nativename=''mechl Rasnal''
+|states=Ancient [[Etruria]]
+|region=[[Italian Peninsula]]
+|era=attested 700 BC to 1st century AD
+|ref=linglist
+|familycolor=Isolate
+|family=[[Tyrsenian languages|Tyrsenian]]
+|iso3=ett
+|linglist=ett
+|glotto=etru1241
+|glottorefname=Etruscan
+|notice=IPA
+|map= Idioma etrusco.png
+|extinct = >AD 180|script = [[Old Italic script]]}}
+
+The '''Etruscan language''' ({{IPAc-en|ɨ|ˈ|t|r|ʌ|s|k|ən}})<ref>Laurie Bauer, 2007, ''The Linguistics Student’s Handbook'', Edinburgh</ref> was the spoken and written language of the [[Etruscan civilization]], in Italy, in the ancient region of [[Etruria]] (modern [[Tuscany]] plus western [[Umbria]] and northern [[Latium]]) and in parts of [[Lombardy]], [[Veneto]], and [[Emilia-Romagna]] (where the Etruscans were displaced by [[Gauls]]). Etruscan influenced [[Latin]], but was eventually completely superseded by it. The Etruscans left around 13,000 inscriptions which have been found so far, only a handful of which are of significant length, some bilingual inscriptions with texts also in Latin, Greek or Phoenician, and a few dozen [[loanword]]s, such as the name [[Rome|Roma]] (from Etruscan ''Ruma''), but Etruscan's influence was significant.
+
+Attested from 700 BC to AD 50, the language is not related to any living language, and has historically been referred to as an [[language isolate|isolate]], but consensus now holds that it is one of the [[Tyrsenian languages]],<ref>Helmut Rix, 1998, ''Rätisch und Etruskisch'', Innsbruck</ref><ref>Robert S. P. Beekes, 2003, ''The Origin of the Etruscans'', Amsterdam</ref><ref>L. B. Van der Meer, 2004, ''Etruscan origins: Language and Archaeology'', in Bulletin antieke beschaving, Vol. 79</ref><ref name="cambridge">[https://books.google.com/books?id=aPEENAEp938C&printsec=frontcover&dq=Cambridge+Encyclopedia+of+the+World%27s+Ancient+Languages&hl=en&sa=X&ei=SRq8VP3lF8GrgwTchIHwDQ&ved=0CDYQ6AEwBQ#v=snippet&q=etruscan&f=false The Ancient Languages of Europe]''''', Roger D. Woodard, ed., Cambridge University Press, 2008, "Etruscan", Helmut Rix, p 142.</ref> along with the [[Raetic language]] of the Alps and the [[Lemnian language]] of the Aegean island of Lemnos. Lacking large [[Text corpus|corpora]] or extended texts, more distant relations of that family are unclear. A connection to the [[Anatolian languages]], or at a further remove to Proto-Indo-European, has been suggested, while Russian scholars such as [[Sergei Starostin]]<ref>Sergei A. Starostin & Vladimir Orel, 1989. ''Etruscan and North Caucasian'', in ''Explorations in Language Macrofamilies'' Ed. V. Shevoroshkin, Bochum</ref> have suggested a link to the speculative [[Dené–Caucasian]] macrophylum. Neither of these two hypotheses has widespread support.{{citation needed|date=August 2014}}
+
+Grammatically, the language is [[agglutinating]], with nouns and verbs showing suffixed inflectional endings and [[ablaut]] in some cases. Nouns show four cases, singular and plural numbers, and masculine and feminine genders. Phonologically, Etruscan appears uncomplicated, with a four-[[vowel system]] and an apparent contrast between aspirated and unaspirated stops. The language shows phonetic change over time, with the loss and then re-establishment of word-internal vowels due to the effect of Etruscan's strong word-initial stress.
+
+[[Etruscan religion]] influenced [[Religion in ancient Rome|that of the Romans]] and many of the few surviving Etruscan language artifacts are of votive or religious significance. Etruscan was written in an alphabet derived from the Greek alphabet; this alphabet was the source of the Latin alphabet. The Etruscan language is also believed to be the source of certain important cultural words of [[Western Europe]] such as 'military' and 'people', which do not have obvious Indo-European roots.
+
+==History of Etruscan literacy==
+[[File:Haruspex.png|thumb|left|250px|Drawing of the inscriptions on the [[Liver of Piacenza]], see ''[[haruspex]]'']]
+Etruscan literacy was widespread over the [[Mediterranean]] shores, as evidenced by about 13,000 [[inscription]]s (dedications, [[epitaph]]s, etc.), most fairly short, but some of considerable length.<ref name=bonfante12>Bonfante (1990), page 12</ref> They date from about 700 BC.<ref>Bonfante (1990) page 10.</ref>
+
+The Etruscans had a rich literature, as noted by Latin authors. However, [[Liber Linteus|only one book]] (mostly undeciphered) has survived. By AD&nbsp;100, Etruscan had been replaced by Latin.{{citation needed|date=August 2014}} Around AD 180, the Latin author [[Aulus Gellius]] mentions Etruscan alongside Gaulish in an anecdote.<ref>Aulus Gellius, Noctes Atticae, Extract: ueluti Romae nobis praesentibus uetus celebratusque homo in causis, sed repentina et quasi tumultuaria doctrina praeditus, cum apud praefectum urbi uerba faceret et dicere uellet inopi quendam miseroque uictu uiuere et furfureum panem esitare uinumque eructum et feditum potare. “hic”, inquit,“eques Romanus apludam edit et flocces bibit”. aspexerunt omnes qui aderant alius alium, primo tristiores turbato et requirente uoltu quidnam illud utriusque uerbi foret: post deinde, quasi nescio quid Tusce aut Gallice dixisset, uniuersi riserunt. ‘For instance in Rome in our presence, a man experienced and celebrated as a pleader, but furnished with a sudden and, as it were, hasty education, was speaking to the Prefect of the City, and wished to say that a certain man with a poor and wretched way of life ate bread from bran and drank bad and spoiled wine. “This Roman knight”, he said, “eats apluda and drinks flocces.” All who were present looked at each other, first seriously and with an inquiring expression, wondering what the two words meant; thereupon, as if he might have said something in, I don’t know, Gaulish or Etruscan, all of them burst out laughing.’(based on BLOM 2007: 183)</ref>
+
+Only a few educated Romans with antiquarian interests, such as [[Marcus Terentius Varro|Varro]], could read Etruscan. The last person known to have been able to read Etruscan was the Roman emperor [[Claudius]] (10&nbsp;BC – AD&nbsp;54), who authored a treatise in 20 volumes on the Etruscans, ''Tyrrenikà'' (now lost), and compiled a dictionary {{citation needed|date=August 2014}}(also lost) by interviewing the last few elderly rustics who still spoke the language. [[Plautia Urgulanilla|Urgulanilla]], the emperor's first wife, was Etruscan.<ref>For Urgulanilla, see [[Suetonius]], ''Life of Claudius'', Section 26.1; for the 20 books, same work, Section 42.2.</ref>
+
+[[Livy]] and [[Cicero]] were both aware that highly specialized Etruscan religious rites were codified in several sets of books written in Etruscan under the generic Latin title ''Etrusca Disciplina''. The ''Libri Haruspicini'' dealt with [[divination]] from the entrails of the sacrificed animal, while the ''Libri Fulgurales'' expounded the art of divination by observing lightning. A third set, the ''Libri Rituales'', might have provided a key to Etruscan civilization: its wider scope embraced Etruscan standards of social and political life, as well as ritual practices. According to the fourth-century AD Latin writer [[Servius]], a fourth set of Etruscan books existed, dealing with animal gods, but it is unlikely that any scholar living in the fourth century AD could have read Etruscan. The single extant Etruscan book, ''[[Liber Linteus]]'', which was written on linen, survived only because it was used as mummy wrappings.
+
+Etruscan had some influence on Latin, as a few dozen Etruscan words and names were borrowed by the Romans, some of which remain in modern languages, such as: columna (column), voltur (vulture), tuba (trumpet), vagina (originally meaning 'sheath'), populus (people).<ref>Ostler, Nicholas. Ad Infinitum: A Biography of Latin and the World It Created. London: HarperPress, 2009. pp. 323-325.</ref>
+
+==Geographic distribution==
+[[File:Iron Age Italy.svg|thumb|300px|Approximate distribution of languages in Iron Age Italy during the sixth century BC]]
+Inscriptions have been found in north-west and west-central Italy, in the region that even now bears the name of the [[Etruscan civilization|Etruscans]], [[Tuscany]] (from Latin ''tuscī'' "Etruscans"), as well as in modern [[Latium]] north of Rome, in today's [[Umbria]] west of the [[Tiber]], around [[Capua]] in [[Campania]] and in the [[Po River]] valley to the north of Etruria. This range may indicate a maximum Italian homeland where the language was at one time spoken.
+
+Outside of mainland Italy<ref>A summary of the locations of the inscriptions published in the EDP project, given below under External links, is stated in its Guide.</ref> inscriptions have been found in Africa, Corsica, [[Elba]], [[Gallia Narbonensis]], Greece, the Balkans, and the Black Sea. By far the greatest concentration is in Italy.
+
+An inscription found on [[Lemnos]] in 1886 is in an alphabet practically identical to that of Etruscan.
+
+==Classification==
+
+===Isolate hypothesis===
+Etruscan is traditionally considered to be a [[language isolate]]. Bonfante, a leading scholar in the field, says "... it resembles no other language in Europe or elsewhere ...".<ref name="bonfante12" /> The ancients were aware that Etruscan was an isolate. In the first century BC, the Greek historian [[Dionysius of Halicarnassus]] stated that the Etruscan language was unlike any other.<ref>1.30.2.</ref>
+
+The [[phonology]] is known through the alternation of Greek and Etruscan letters in some inscriptions (for example, the [[Iguvine Tables]]), and many individual words are known through loans into or from Greek and Latin, as well as explanations of Etruscan words by ancient authors. A few concepts of word formation have been formulated (see below). Modern knowledge of the language is incomplete.
+
+===Tyrsenian family hypothesis===
+{{Main|Tyrsenian languages}}
+In 1998 [[Helmut Rix]] put forward the view that Etruscan is related to other members of what he called the "Tyrsenian language family". Rix's Tyrsenian family of languages, composed of [[Raetic language|Rhaetic]] and [[Lemnian language|Lemnian]] together with Etruscan, has gained wide acceptance.<ref>{{cite book|last=Baldi|first=Philip Baldi|title=The Foundations of Latin|publisher=Walter de Gruyter|year=2002|pages=111–112|isbn=978-3-11-080711-0}}</ref><ref>{{cite book|last=Renfrew|first=Colin|title=The Roots of Ethnicity: Archaeology, Genetics and the Origins of Europe|publisher=Unione internazionale degli istituti di archeologia, storia e storia dell arte in Roma|location=Rome|year=1993|pages=46}}</ref><ref>{{cite book|last=Comrie|first=Bernard|title=Languages of the world, in "The handbook of linguistics"|editor=Mark Aronoff, Janie Rees-Miller|publisher=Blackwell/Wiley|location=Oxford|date=15 April 2008|pages=25}}</ref> A few modern scholars<ref>For example, Steinbauer (1999).</ref> assert that the Tyrsenian languages are distantly related to the [[Indo-European languages|Indo-European]] family.
+
+===Other hypotheses===
+Another Aegean language which is possibly related to Etruscan is [[Linear A|Minoan]]. The idea of a relation between the language of the Aegean Linear scripts was taken into consideration as the main hypothesis by [[Michael Ventris]] before he discovered that, in fact, the language behind the later [[Linear B]] script was [[Mycenean Greek|Mycenean]], a [[Ancient Greek dialects|Greek dialect]]. [[Giulio Mauro Facchetti]], a researcher who has dealt with both Etruscan and Minoan, put forward this hypothesis again, comparing some Minoan words of known meaning with similar Etruscan words.<ref>G. M. Facchetti (2001) "Qualche osservazione sulla lingua minoica" ''Kadmos'' 40/1, p. 1–38.</ref>
+
+More recently, Robert S.P. Beekes argued that the people later known as the Lydians and Etruscans had originally lived in northwest Anatolia, with a coastline to the [[Sea of Marmara]], whence they were driven by the [[Phrygians]] ''circa'' 1200 BC, leaving a remnant known in antiquity as the Tyrsenoi. A segment of this people moved south-west to [[Lydia]], becoming known as the [[Lydian language|Lydian]]s, while others sailed away to take refuge in Italy, where they became known as Etruscans.<ref>[http://www.knaw.nl/Content/Internet_KNAW/publicaties/pdf/20021051.pdf R.S.P. Beekes, The Origin of the Etruscans, ''Biblioteca Orientalis'' vol. 59 (2002), pp. 206–242.]</ref>
+
+In 2006, Frederik Woudhuizen suggested that Etruscan belongs to the [[Anatolian languages|Anatolian]] branch of the Indo-European family, specifically to [[Luwian]].<ref name=luwianseapeoples>{{cite book|last=Woudhuizen|first=Frederik Christiaan|title=The Ethnicity of the Sea Peoples|year=2006|publisher=Erasmus Universiteit|location=Rotterdam|pages=139|url=http://repub.eur.nl/res/pub/7686/Woudhuizen%20bw.pdf}}</ref> Woudhuizen revived a [[Etruscan civilization#Lydian immigration hypothesis|conjecture]] to the effect that the Tyrsenians came from [[Anatolia]], including [[Lydia]], whence they were driven by the [[Cimmerians]] in the early Iron Age, 750–675 BC, leaving some colonists on [[Lemnos]]. He makes a number of comparisons of Etruscan to Luwian and asserts that Etruscan is modified Luwian. He accounts for the non-Luwian features as a [[Mysia]]n influence: "deviations from Luwian ... may plausibly be ascribed to the dialect of the indigenous population of Mysia."<ref>Page 83.</ref> According to Woudhuizen, the Etruscans were colonizing the Latins. The Etruscans brought the alphabet from Anatolia.
+
+Both of these accounts draw on the story by [[Herodotus]] (i, 94) of the Lydian origin of the Etruscans. [[Dionysius of Halicarnassus]] (book 1) rejected this account of the people he called the Tyrrhenians, partly on the authority of Xanthus, a Lydian historian, who had no knowledge of the story, and partly on what he judged to be the different languages, laws, and religions of the two peoples.
+
+Another proposal, currently pursued mainly by a few linguists from the former Soviet Union, suggests a relationship with [[Northeast Caucasian]] (or Daghestanian) languages.<ref name="robertson">{{cite journal|first=Ed |last=Robertson |title=Etruscan's genealogical linguistic relationship with Nakh–Daghestanian: a preliminary evaluation |year=2006 |url=http://www.nostratic.ru/books/(329)EGRWND.pdf |format=[[Portable Document Format|PDF]] |accessdate=2009-07-13 |deadurl=yes |archiveurl=https://web.archive.org/20110810021157/http://www.nostratic.ru/books/(329)EGRWND.pdf |archivedate=10 August 2011 }}</ref><ref name="starostin">{{Cite book |last=Starostin | first=Sergei | author1-link=Sergei Starostin | last2=Orel | first2=Vladimir | year=1989 | contribution=Etruscan and North Caucasian| title=Explorations in Language Macrofamilies | editor-last =Shevoroshkin | editor-first=Vitaliy | series=Bochum Publications in Evolutionary Cultural Semiotics | issue=23 | publisher=Bochum |postscript=.}}</ref>
+
+Various other speculative proposals have been made, all of them failing to gain wide acceptance because no significant evidence of the proposed connections has been found.
+
+The interest in Etruscan antiquities and the mysterious Etruscan language found its modern origin in a book by a Renaissance Dominican friar, [[Annio da Viterbo]], a [[Kabbalah|cabalist]] and [[oriental studies|orientalist]] now remembered mainly for literary forgeries. In 1498, Annio published his antiquarian miscellany titled ''Antiquitatum variarum'' (in 17 volumes) where he put together a fantastic theory in which both the Hebrew and Etruscan languages were said to originate from a single source, the "Aramaic" spoken by Noah and his descendants, founders of Etruscan [[Viterbo]]. Annio also started to excavate Etruscan tombs, unearthing sarcophagi and inscriptions, and made a bold attempt at deciphering the Etruscan language.
+
+Ideas of Semitic origins found supporters until the 19th-century. In 1858, the last attempt was made by [[Johann Gustav Stickel]], [[Jena University]]: "''Das Etruskische (...) als Semitische Sprache erwiesen''".<ref>{{cite book|last=Stickel|first=Johann Gustav|year=1858|title=Das Etruskische durch Erklärung von Inschriften und Namen als semit. Sprache erwiesen|publisher=Verlag Wilhelm Engelmann}}</ref> A reviewer concluded that Stickel brought forward every possible argument which would speak for that hypothesis, but he proved the opposite of what he had attempted to do ([[Johannes Gildemeister]] in ''ZDMG'' 13, 1859, 289–304).
+
+A [[Uralic]] connection with the Etruscan language was also proposed in the 19th century. The French orientalist Baron Carra de Vaux<ref name="szabir.com">http://www.szabir.com/blog/etruscans-huns-and-hungarians/</ref> had suggested a connection between Etruscan and [[Altaic languages]]. In 1874, the British scholar [[Isaac Taylor (priest)|Isaac Taylor]]<ref name="szabir.com"/> brought up the idea of a genetic relationship between Etruscan and [[Hungarian Language|Hungarian]]. The Hungarian connection was recently revived by [[Mario Alinei]], Emeritus Professor of Italian Languages at the [[University of Utrecht]].<ref>http://www.uu.nl/faculty/humanities/NL/Onderzoek/hoogleraren/Pages/emeritushoogleraren.aspx Etrusco: una forma arcaica di ungherese, (2003) Bologna, Il Mulino.</ref> Alinei's proposal has been rejected by Etruscan experts such as Giulio M. Facchetti,<ref>http://www.uninsubria.eu/research/compscicomm/CV_CompSciComm/Facchetti.pdf</ref><ref>G. M. Facchetti [http://didattica.iulm.it/scritture_dimenticate/JIES.pdf The Interpretation of Etruscan Texts and its Limits], ''Journal of Indo-European Studies'', 33, 3/4, 2005, 359–388: says (pp. 371)
+ ""suffice it to say that Alinei clears away all the combinatory work done on Etruscan (for grammar specially) to try to make Uralic inflections fit without ripping the seams. He completely ignores the aforesaid recent findings in phonology (and phoneme/grapheme relationships), returning to the obsolete but convenient theory that the handwriting changed and orthography was not consolidated"</ref> Finno-Ugric experts such as A. Marcantonio,<ref>Associated Professor of Historical Linguistics and Finno-Ugric Studies at the University of Rome "La Sapienza" [http://sites.google.com/site/angelamarcantonio/]</ref><ref>Angela Marcantonio (2004): "Un caso di ‘fantalinguistica’. A proposito di Mario Alinei: “Etrusco: una forma arcaica di ungherese”. ''Studi e Saggi Linguistici'' XLII /173–200, where Marcantonio states that "La tesi dell’Alinei è da rigettare senza alcuna riserva" ("Alinei's thesis must be rejected without any reservation"), criticizes his methodology and the fact that he ignored the comparison with Latin and Greek words in Onomastic and institutional vocabulary. Large quotes can be read at Melinda Tamás-Tarr "[http://www.osservatorioletterario.net/enigmaetrusco3.pdf  SULLA SCRITTURA DEGLI ETRUSCHI «Ma è veramente una scrittura etrusca»? Cosa sappiamo degli Etruschi III]" ''OSSERVATORIO LETTERARIO  Ferrara e l’Altrove'' X/XI  NN. 53/54   NOV.–DIC./GEN.-FEBB 2006/2007, 67–73.</ref> and by Hungarian historical linguists such as Bela Brogyanyi.<ref>B. Brognyanyi "[http://redaktion.gesus-info.de/S&S-online/S&S_38-2008.pdf Die ungarische alternative Sprachforschung und ihr ideologischer Hintergrund – Versuch einer Diagnose]" ''Sprache & Sprachen'' 38 (2008), 3-15, who claims that Alinei shows a complete ignorance on Etruscan and Hungarian ("glänzt er aber durch völlige Unkenntnis des Ungarischen und Etruskischen (vgl. Alinei 2003)") and that the thesis of a relation between Hungarian and Etruscan languages deserves no attention.</ref>
+
+In 1861, Robert Ellis proposed that Etruscan was related to [[Armenian language|Armenian]], which is nowadays acknowledged as an [[Indo-European]] language.<ref>Robert Ellis, ''The Armenian origin of the Etruscans'', London: Parker, Son, & Bourn, 1861.</ref> Some scholars also see in [[Urartian]] art, architecture, language, and general culture traces of kinship to the Etruscans of the Italian peninsula.<ref name="bookonearchitecture">{{cite book|author=Vahan M. Kurkjian|year=2006|title=History of Armenia|publisher=''University of Pennsylvania Museum of Archaeology''}}</ref>
+
+A relationship with [[Albanian language|Albanian]] was advanced by [[Zecharia Mayani]] in 1961,<ref>Zacharie Mayani, ''The Etruscans Begin to Speak'', 1961, Trans. Patrick Evans, London: Souvenir Press, 1962.</ref> but Albanian is known to be an [[Indo-European]] language.
+
+The [[Pyrgi Tablets]], an ancient bilingual text in Etruscan and [[Phoenician language|Phoenician]], were discovered in 1964 and have helped in the interpretation of the Etruscan language.
+
+==Writing system==
+
+===Alphabet===
+{{Main|Etruscan alphabet}}
+The [[Latin script]] owes its existence to the Etruscan alphabet, which was adapted for Latin in the form of the [[Old Italic alphabet]]. The [[Etruscan alphabet]]<ref>The alphabet can also be found with alternative forms of the letters at [http://www.omniglot.com/writing/etruscan.htm Omniglot].</ref> employs a [[Euboea]]n variant<ref name=bonfantech2>Bonfante (1990) chapter 2.</ref> of the [[Greek alphabet]] using the letter [[digamma]] and was in all probability transmitted through [[Pithecusae]] and [[Cumae]], two Euboean settlements in southern Italy. This system is ultimately derived from [[History of the alphabet|West Semitic scripts]].
+
+The Etruscans recognized a 26-letter alphabet, which they used in and of itself for decoration on some objects such as the "rooster ink-stand".<ref>[http://chung-shin.com/etruscan/large_info.php?i=2 Rooster ink-stand] at [http://chung-shin.com/etruscan/ Etruscan Art Virtual Museum].</ref> This has been termed the model alphabet.<ref>Bonfantes (2002) page 55.</ref> They did not use four letters of it, mainly because Etruscan had no voiced stops, b, d and g, and also no o. They innovated one letter for f.<ref name="bonfantech2" />
+
+===Text===
+Writing was from right to left except in archaic inscriptions, which occasionally used [[boustrophedon]]. An example found at [[Cerveteri]] used left to right. In the earliest inscriptions, the words are continuous. From the sixth century BC, they are separated by a dot or a colon, which symbol might also be used to separate syllables. Writing was phonetic; the letters represented the sounds and not conventional spellings. On the other hand, many inscriptions are highly abbreviated and often casually formed, so the identification of individual letters is sometimes difficult. Spelling might vary from city to city, probably reflecting differences of pronunciation.<ref>The Bonfantes (2002) page 56.</ref>
+
+===Complex consonant clusters===
+Speech featured a heavy stress on the first syllable of a word, causing [[Syncope (phonetics)|syncopation]] by weakening of the remaining vowels, which then were not represented in writing: ''Alcsntre'' for ''Alexandros'', ''Rasna'' for ''Rasena''.<ref name="bonfantech2" /> This speech habit is one explanation of the Etruscan "impossible consonant clusters". The [[Sonorant|resonants]], however, may have been syllabic, accounting for some of the clusters (see below under [[#Consonants|Consonants]]). In other cases, the scribe sometimes inserted a vowel: Greek ''Hēraklēs'' became ''Hercle'' by syncopation and then was expanded to ''Herecele''. Pallottino<ref>Page 261</ref> regarded this variation in vowels as "instability in the quality of vowels" and accounted for the second phase (e.g. ''Herecele'') as "[[vowel harmony]], i.e., of the assimilation of vowels in neighboring syllables ...."
+
+===Phases===
+The writing system had two historical phases: the archaic from the seventh to fifth centuries BC, which used the early Greek alphabet, and the later from the fourth to first centuries BC, which modified some of the letters. In the later period, syncopation increased.
+
+The alphabet went on in modified form after the language disappeared. In addition to being the source of the Roman alphabet, it has been suggested that it passed northward into [[Venetia (region)|Venetia]] and from there through [[Raetia]] into the [[Germanic languages|Germanic]] lands, where it became the [[Elder Futhark]] alphabet, the oldest form of the [[runes]].<ref>The Bonfantes (2002), page 117 following.</ref>
+
+==Corpus==
+The Etruscan corpus is edited in the ''Thesaurus Linguae Etruscae'' (TLE).<ref>
+Massimo Pallottino, Maristella Pandolfini Angeletti,   ''Thesaurus linguae Etruscae'', Volume 1 (1978); review by A. J.  Pfiffig in ''Gnomon'' 52.6 (1980),  561-563.
+Supplements in 1984, 1991 and 1998. A 2nd revised edition by Enrico Benelli appeared in 2009; review by G. van Heems, [http://bmcr.brynmawr.edu/2010/2010-01-05.html Bryn Mawr Classical Review 2010.01.05].
+</ref>
+
+===Bilingual text===
+[[File:EtruscanLanguage2.JPG|230px|thumb|The Pyrgi Tablets laminated sheets of gold with a treatise both in Etruscan and [[Phoenician language]]s in the Etruscan Museum in Rome]]
+The [[Pyrgi Tablets]] are a bilingual text in Etruscan and [[Phoenician language|Phoenician]] engraved on three gold leaves, one for the Phoenician and two for the Etruscan. The Etruscan language portion has 16 lines and 37 words. The date is roughly 500 BC.<ref name=B2002F58>The Bonfantes (2002) page 58.</ref>
+
+The tablets were found in 1964 by Massimo Pallottino during an excavation at the ancient Etruscan port of [[Pyrgi]], now [[Santa Severa]]. Unfortunately the only new Etruscan word that could be extracted from close analysis of the tablets was the word for "three", ''ci''.<ref>{{cite book|last1=Robinson|first1=Andrew|title=Lost languages : the enigma of the world's undeciphered scripts|date=2002|publisher=McGraw-Hill|location=New York|isbn=0071357432|page=170}}</ref>
+
+===Longer texts===
+According to Rix and his collaborators, only two unified (though fragmentary) texts are available in Etruscan:
+*The ''[[Liber Linteus]]'', which was later used for mummy wrappings in [[Egypt]]. Roughly 1200 words of readable text, mainly repetitious prayers, yielded about 50 lexical items.<ref name="B2002F58" />
+*The ''[[Tabula Capuana]]'' (the inscribed tile from [[Capua]]) has about 300 readable words in 62 lines, dating to the fifth century BC.
+Some additional longer texts are:
+*The lead foils of Punta della Vipera have<ref>Brief description and picture at ''[http://www.comune.santamarinella.rm.it/museo/html/inglese/a151.html The principle discoveries with Etruscan inscriptions]'', article published by the Borough of [[Santa Marinella]] and the Archaeological Department of Southern Etruria of the Italian government.</ref> about 40 legible words having to do with ritual formulae. It is dated to about 500 BC.
+*The [[Cippus Perusinus]], a stone slab (cippus) found at [[Perugia]], contains 46 lines and 130 words.
+*The [[Piacenza Liver]], a bronze model of a sheep's liver representing the sky, has the engraved names of the gods ruling different sections.
+*The [[Tabula Cortonensis]], a bronze tablet from [[Cortona]], is believed to record a legal contract, with about 200 words. Discovered in 1992, this new tablet contributed the word for "lake", ''tisś'', but not much else.<ref>{{cite book|last1=Robinson|first1=Andrew|title=Lost languages : the enigma of the world's undeciphered scripts|date=2002|publisher=McGraw-Hill|location=New York|isbn=0071357432|page=181}}</ref>
+
+===Inscriptions on monuments===
+[[File:Banditaccia1.jpg|thumb|right|Tumulus on a street at Banditaccia, the main necropolis of [[Caere]]]]
+The main material repository of [[Etruscan civilization]], from the modern perspective, was its tombs. Public and private buildings were dismantled and the stone reused centuries ago. The tombs are the main source of portables in collections throughout the world, provenance unknown. The Etruscans' ''objets d'art'' are of incalculable value, causing a brisk black market and equally brisk law enforcement effort, as it is against the law to remove objects from Etruscan tombs unless authorized by the Italian government.
+
+The total number of tombs is unknown due to the magnitude of the task of catalogueing them. They are of many different types. Especially fruitful are the [[hypogeum|hypogeal]] or "underground" chambers or system of chambers cut into [[tuff]] and covered by a [[tumulus]]. The interior of the tomb represents a habitation of the living stocked with furniture and favorite objects. The walls may display painted [[mural]]s, the predecessor of wallpaper. Tombs identified as Etruscan date from the [[Villanovan]] period to about 100 BC, when presumably the cemeteries were abandoned in favor of Roman ones.<ref>Some Internet articles on the tombs in general are:<br>
+''[http://www.mysteriousetruscans.com/tombs.html Etruscan Tombs]'' at mysteriousetruscans.com.<br>
+''[http://www.time.com/time/magazine/article/0,9171,936863,00.html Scientific Tomb-Robbing]'', article in ''Time'', Monday, Feb. 25, 1957, displayed at www.time.com.<br>
+''[http://www.time.com/time/magazine/article/0,9171,907013,00.html Hot from the Tomb: The Antiquities Racket]'', article in ''Time'', Monday, Mar. 26, 1973, displayed at www.time.com.</ref> Some of the major cemeteries are as follows:
+*[[Caere]] or [[Cerveteri]], a [[UNESCO]] site.<ref name=cervtarq>Refer to [http://whc.unesco.org/en/list/1158 Etruscan Necropoleis of Cerveteri and Tarquinia], a World Heritage site.</ref> Three complete [[necropoleis]] with streets and squares. Many [[hypogeum|hypogea]] are concealed beneath [[tumulus|tumuli]] retained by walls; others are cut into cliffs. The Banditaccia necropolis contains more than 1000 tumuli. Access is through a door.<ref>Some popular Internet sites giving photographs and details of the necropolis are:
+[http://www.mysteriousetruscans.com/caisra.html Cisra (Roman Caere / Modern Cerveteri)] at mysteriousetruscans.com.<br>
+[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/_Periods/Roman/Archaic/Etruscan/_Texts/DENETR*/33.html Chapter XXXIII CERVETRI.a – AGYLLA or CAERE.], George Dennis at Bill Thayer's Website.<br>
+[http://www.mapsack.com/item/9002 Aerial photo and map] at mapsack.com.</ref>
+
+*[[Tarquinia]], Tarquinii or Corneto, a [[UNESCO]] site:<ref name="cervtarq" /> Approximately 6000 graves dating from the [[Villanovan]] (9th and eighth centuries BC) distributed in ''[[necropoleis]]'', the main one being the Monterozzi [[hypogeum|hypogea]] of the sixth–fourth centuries BC. About 200 painted tombs display murals of various scenes with call-outs and descriptions in Etruscan. Elaborately carved sarcophagi of marble, [[alabaster]], and [[nenfro]] include identificatory and achievemental inscriptions. The [[Tomb of Orcus]] at the Scatolini necropolis depicts scenes of the [[Spurinna]] family with call-outs.<ref>A history of the tombs at Tarquinia and links to descriptions of the most famous ones is given at [http://www.mysteriousetruscans.com/tarchna.html] on mysteriousetruscans.com.</ref>
+
+* Inner walls and doors of tombs and sarcophagi
+* Engraved steles (tombstones)
+* [[Ossuary|ossuaries]]
+
+===Inscriptions on portable objects===
+
+====Votives====
+''See'' [[votive offering|Votive gifts]].
+
+====Specula====
+A speculum is a circular or oval hand-mirror used predominantly by Etruscan women. ''Speculum'' is Latin; the Etruscan word is ''malena'' or ''malstria''. Specula were cast in bronze as one piece or with a tang into which a wooden, bone, or ivory handle fitted. The reflecting surface was created by polishing the flat side. A higher percentage of tin in the mirror improved its ability to reflect. The other side was convex and featured [[Intaglio (jewellery)|intaglio]] or [[cameo (carving)|cameo]] scenes from mythology. The piece was generally ornate.<ref>For pictures and a description refer to the ''[http://www.mysteriousetruscans.com/art/mirrors.html Etruscan Mirrors]'' article at mysteriousetruscans.com.</ref>
+
+About 2300 specula are known from collections all over the world. As they were popular plunderables, the provenance of only a minority is known. An estimated time window is 530–100 BC.<ref>For the dates, more pictures and descriptions, see the ''[http://www.oberlin.edu/amam/Etruscan.htm Hand Mirror with the Judgment of Paris]'' article published online by the Allen Memorial Art Museum of [[Oberlin College]].</ref> Most probably came from tombs.
+
+Many bear inscriptions naming the persons depicted in the scenes, so they are often called picture bilinguals. In 1979, [[Massimo Pallottino]], then president of the ''Istituto di Studi Etruschi ed Italici'' initiated the Committee of the ''Corpus Speculorum Etruscanorum'', which resolved to publish all the specula and set editorial standards for doing so.
+
+Since then, the committee has grown, acquiring local committees and representatives from most institutions owning Etruscan mirror collections. Each collection is published in its own fascicle by diverse Etruscan scholars.<ref>Representative examples can be found in the U.S. Epigraphy Project site of [[Brown University]]: [http://usepigraphy.brown.edu/view.php?textID=OH.Tol.TMA.L.1980.1340], [http://usepigraphy.brown.edu/view.php?textID=NY.NY.MMA.L.96.18.16]</ref>
+
+====Cistae====
+A cista is a bronze container of circular, ovoid, or more rarely rectangular shape used by women for the storage of sundries. They are ornate, often with feet and lids to which figurines may be attached. The internal and external surfaces bear carefully crafted scenes usually from mythology, usually intaglio, or rarely part intaglio, part [[cameo (carving)|cameo]].
+
+Cistae date from the [[Roman Republic]] of the fourth and third centuries BC in Etruscan contexts. They may bear various short inscriptions concerning the manufacturer or owner or subject matter. The writing may be Latin, Etruscan, or both.
+
+Excavations at [[Palestrina|Praeneste]], an Etruscan city which became Roman, turned up about 118 cistae, one of which has been termed "the Praeneste cista" or "the Ficoroni cista" by art analysts, with special reference to the one manufactured by Novios Plutius and given by Dindia Macolnia to her daughter, as the archaic Latin inscription says. All of them are more accurately termed "the Praenestine cistae".<ref>Paggi, Maddalena. "The Praenestine Cistae" (October 2004), New York: The [[Metropolitan Museum of Art]], in [http://www.metmuseum.org/toah/hd/prae/hd_prae.htm Timeline of Art History].</ref>
+
+====Rings and ringstones====
+Among the most plunderable portables from the Etruscan tombs of [[Etruria]] are the finely engraved gemstones set in patterned gold to form circular or ovoid pieces intended to go on finger rings. Of the magnitude of one centimeter, they are dated to the Etruscan floruit from the second half of the sixth to the first centuries BC. The two main theories of manufacture are native Etruscan<ref>[http://www.1911encyclopedia.org/Gem#Etruscan_Gems Classic Encyclopedia].</ref> and Greek.<ref>[http://www.cvaonline.org/Gems/Styles/Etruscan2/Script/MythFrameset.htm Beazley Archive].</ref>
+
+The materials are mainly dark red [[carnelian]], with [[agate]] and [[sard]] entering usage from the third to the first centuries BC, along with purely gold finger rings with a hollow engraved [[bezel setting]]. The engravings, mainly cameo, but sometimes intaglio, depict [[Dung beetle|scarab]]s at first and then scenes from Greek mythology, often with heroic personages called out in Etruscan. The gold setting of the bezel bears a border design, such as cabling.
+
+====Coins====
+Etruscan-minted coins can be dated between 5th and 3rd centuries BC. Use of the 'Chalcidian' standard, based on the silver unit of 5.8&nbsp;grams, indicates the custom, like the alphabet, came from Greece.  Roman coinage later supplanted Etruscan, but the basic Roman coin, the ''[[sesterce]]'', is believed to have been based on the 2.5-denomination Etruscan coin.<ref>[http://www.snible.org/coins/hn/etruria.html Ancient Coins of Etruria].</ref> Etruscan coins have turned up in caches or individually in tombs and in excavations seemingly at random, and concentrated, of course, in [[Etruria]].
+
+Etruscan coins were in gold, silver, and bronze, the gold and silver usually having been struck on one side only. The coins often bore a denomination, sometimes a minting authority name, and a cameo motif. Gold denominations were in units of silver; silver, in units of bronze. Full or abbreviated names are mainly Pupluna ([[Populonia]]), Vatl or Veltuna ([[Vetulonia]]), Velathri ([[Volaterrae]]), Velzu or Velznani (Volsinii) and Cha for Chamars ([[Camars]]). Insignia are mainly heads of mythological characters or depictions of mythological beasts arranged in a symbolic motif: [[Apollo]], [[Zeus]], [[Culsans]], [[Athena]], [[Hermes]], [[griffin]], [[gorgon]], [[male sphinx]], [[hippocamp]], bull, snake, eagle, or other creatures which had symbolic significance.
+
+==Sounds==
+
+In the tables below, conventional letters used for transliterating Etruscan are accompanied by likely pronunciation in [[help:IPA|IPA]] symbols within the square brackets, followed by examples of the early [[Etruscan alphabet]] which would have corresponded to these sounds:
+
+===Vowels===
+
+The Etruscan [[vowel|vowel system]] consisted of four distinct vowels. Vowels "o" and "u" appear to have not been phonetically distinguished based on the nature of the writing system, as only one symbol is used to cover both in loans from Greek (e.g. Greek {{lang|grc|κώθων}} ''kōthōn'' > Etruscan ''qutun'' "pitcher").
+
+{| class="wikitable"
+|-
+!
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|- align=center
+! [[Close vowel|Close]]
+| i<br>{{IPA|[i]}}<br>[[File:EtruscanI-01.svg|14px|I]]
+|
+| u<br>{{IPA|[u]}}<br>[[File:EtruscanO-01.svg|14px|U]]
+|- align=center
+! [[Mid vowel|Mid]]
+| e<br>{{IPA|[e]}}<br>[[File:EtruscanE-01.svg|14px|E]]
+|
+|
+|- align=center
+! [[Open vowel|Open]]
+|
+|
+| a<br>{{IPA|[ɑ]}}<br>[[File:EtruscanA-01.svg|14px|A]]
+|}
+
+===Consonants===
+
+====Table of consonants====
+{| class="wikitable"
+|-
+!
+! colspan="2" | [[Bilabial]]
+! colspan="2" | [[Dental consonant|Dental]]
+! [[Palatal consonant|Palatal]]
+! colspan="2" | [[Velar consonant|Velar]]
+! colspan="1" | [[glottal consonant|Glottal]]
+|- align=center
+![[Nasal stop|Nasal]]
+| colspan="2" |m<br>{{IPA|[m]}}<br>[[File:EtruscanM-01.svg|14px|M]]
+| colspan="2" |n<br>{{IPA|[n]}}<br>[[File:EtruscanN-01.svg|14px|N]]
+| colspan="1" |
+| colspan="2" |
+| colspan="1" |
+|- align=center
+![[Plosive consonant|Plosive]]
+|p<br>{{IPA|[p]}}<br>[[File:EtruscanP-01.svg|14px|P]]
+|φ<br>{{IPA|[pʰ]}}<br>[[File:EtruscanPH-01.svg|14px|Φ]]
+|t, d<br>{{IPA|[t]}}<br>[[File:EtruscanT-01.svg|14px|T]] [[File:EtruscanD-01.svg|14px|D]]
+|θ<br>{{IPA|[tʰ]}}<br>[[File:EtruscanTH-03.svg|14px|Θ]]
+|
+|c, k, q<br>{{IPA|[k]}}<br>[[File:EtruscanC-01.svg|14px|C]] [[File:EtruscanK-01.svg|14px|K]] [[File:EtruscanQ-01.svg|14px|Q]]
+|χ<br>{{IPA|[kʰ]}}<br>[[File:EtruscanX-01.svg|14px|Χ]]
+|
+|- align=center
+![[Affricate consonant|Affricate]]
+| colspan="2" |
+| colspan="2" | z<br>{{IPA|[ts]}}<br>[[File:EtruscanZ-01.svg|14px|Z]]
+|
+| colspan="2" |
+|
+|- align=center
+![[Fricative consonant|Fricative]]
+| colspan="2" | f<br>{{IPA|[ɸ]}}<br>[[File:EtruscanF-02.svg|14px|F]]
+| colspan="2" |s<br>{{IPA|[s]}}<br>[[File:EtruscanS-01.svg|14px|S]]
+|ś<br>{{IPA|[ʃ]}}<br>[[File:Greek alphabet san2.png|14px]] [[File:Alfabeto camuno-ts.svg|14px|Ś]]
+| colspan="2" |
+|h<br>{{IPA|[h]}}<br>[[File:EtruscanH-01.svg|14px|H]]
+|- align=center
+![[Approximant consonant|Approximant]]
+| colspan="2" |
+| colspan="2" |l<br>{{IPA|[l]}}<br>[[File:EtruscanL-01.svg|14px|L]]
+|i<br>{{IPA|[j]}}<br>[[File:EtruscanI-01.svg|14px|I]]
+| colspan="2" |v<br>{{IPA|[w]}}<br>[[File:EtruscanF-01.svg|14px|V]]
+|
+|- align=center
+![[Rhotic consonant|Rhotic]]
+| colspan="2" |
+| colspan="2" |r<br>{{IPA|[r]}}<br>[[File:EtruscanR-01.svg|14px|R]]
+|
+| colspan="2" |
+| colspan="1" |
+|}
+
+====Voiced stops missing====
+The Etruscan consonant system primarily distinguished between aspirated and non-aspirated stops. There were no voiced stops and loanwords with them were typically devoiced, e.g. Greek ''thriambos'' was borrowed by Etruscan, becoming ''triumpus'' and ''triumphus'' in Latin.<ref>J.H. Adams pages 163–164.</ref>
+
+====Syllabic theory====
+Based on standard spellings by Etruscan scribes of words without vowels or with unlikely consonant clusters (e.g. ''cl'' 'of this (gen.)' and ''lautn'' 'freeman'), it is likely that {{IPA|/m n l r/}} were sometimes syllabic [[sonorant]]s (cf. English "litt'''le'''", "butto'''n'''"). Thus ''cl'' {{IPA|/kl̩/}} and ''lautn'' {{IPA|/ˈlɑwtn̩/}}.
+
+Rix postulates several syllabic consonants, namely {{IPA|/l, r, m, n/}} and palatal {{IPA|/lʲ, rʲ, nʲ/}} as well as a labiovelar spirant {{IPA|/xʷ/}} and some scholars such as [[Mauro Cristofani]] also view the aspirates as palatal rather than aspirated but these views are not shared by most Etruscologists. Rix supports his theories by means of variant spellings such as amφare/amφiare, larθal/larθial, aranθ/aranθiia.
+
+==Word formation==
+Etruscan was [[Inflected language|inflected]], varying the endings of nouns, pronouns and verbs. It also had adjectives, adverbs, and conjunctions, which were uninflected.
+
+===Nouns===
+Etruscan substantives had five cases, and a singular and a plural. Not all five cases are attested for every word. Nouns merge the nominative and accusative; pronouns do not generally merge these. Gender appears in personal names (masculine and feminine) and in pronouns (animate and inanimate); otherwise, it is not marked.<ref name = "hwiaof">Bonfante (1990), page 20.</ref>
+
+Unlike the [[Indo-European languages]], Etruscan noun endings were more [[agglutinative]], with some nouns bearing two or three agglutinated suffixes.  For example, where Latin would have distinct nominative plural and dative plural endings, Etruscan would suffix the case ending to a plural marker: Latin nominative singular ''fili-us'', "son", plural ''fili-i'', dative plural ''fili-is'', but Etruscan ''clan, clen-ar'' and ''clen-ar-aśi''.<ref>Bonfante (1990) page 19.</ref> <!--Need a different set of example as this one shows similar way of adding suffix in both Latin and Etruscan language 's' added to 'i' and 'aśi' added to 'ar'--> Moreover, Etruscan nouns could bear multiple suffixes from the case paradigm alone: that is, Etruscan exhibited ''[[Suffixaufnahme]]''.  Pallottino calls this phenomenon "morphological redetermination", which he defines as "the typical tendency ... to redetermine the syntactical function of the form by the superposition of suffices."<ref>Page 263.</ref> His example is'' Uni-al-θi'', "in the sanctuary of Juno", where'' -al'' is a genitive ending and ''-θi'' a locative.
+
+Steinbauer says of Etruscan, "there can be more than one marker ... to design a case, and ... the same marker can occur for more than one case."<ref>''[http://www.etruskisch.de/pgs/gr.htm Etruscan Grammar: Summary]'' at Steinbauer's website.</ref>
+
+; [[Nominative case|Nominative]]/[[accusative case]] : No distinction is made between nominative and accusative of nouns. Common nouns use the unmarked root. Names of males may end in ''-e'': ''Hercle'' (Hercules), ''Achle'' (Achilles), ''Tite'' (Titus); of females, in -i, -a, or -u: ''Uni'' (Juno), ''Menrva'' (Minerva), or ''Zipu''. Names of gods may end in -s: ''Fufluns, Tins''; or they may be the unmarked stem ending in a vowel or consonant: ''Aplu'' (Apollo), ''Paχa'' (Bacchus), or ''Turan''.
+; [[Genitive case]] : Pallottino defines two declensions based on whether the genitive ends in -s/-ś or -l.<ref>Page 264.</ref> In the -s group are most noun stems ending in a vowel or a consonant: ''fler/fler-ś, ramtha/ramtha-ś''. In the second are names of females ending in i and names of males that end s, th or n: ''ati/ati-al, Laris/Laris-al, Arnθ/Arnθ-al''. After l or r -us instead of -s appears: ''Vel/Vel-us''. Otherwise, a vowel might be placed before the ending: ''Arnθ-al'' instead of ''Arnθ-l''.
+: There is a [[patronymic]] ending: -sa or -isa, "son of", but the ordinary genitive might serve that purpose. In the genitive case, morphological redetermination becomes elaborate. Given two male names, ''Vel'' and ''Avle'', ''Vel Avleś'' means "Vel son of Avle." This expression in the genitive become ''Vel-uś Avles-la''. Pallottino's example of a three-suffix form is ''Arnθ-al-iśa-la''.
+; [[Dative case]] : The dative ending is -si: ''Tita/Tita-si''.<ref name = "hwiaof"/>
+; [[Locative case]] : The locative ending is -θi: ''Tarχna/Tarχna-l-θi''.<ref>Pallottino page 114, Bonfante (1990) page 41.</ref>
+; [[Plural number]] : In one case, a plural is given for ''clan'', "son", as ''clenar'', "sons". This shows both [[I-mutation|umlaut]] and an ending ''-ar''. Plurals for cases other than nominative are made by agglutinating the case ending on ''clenar''.
+
+===Pronouns===
+Personal pronouns refer to persons; demonstrative point out: English this, that.<ref>The summary in this section is taken from the tables of the Bonfantes (2002) pages 91–94, which go into considerably more detail, citing examples.</ref>
+
+====Personal====
+The first-person personal pronoun has a nominative ''mi'' ("I") and an accusative ''mini'' ("me"). The coincidence of this with Indo-European forms such as English 'me' proves nothing, as many languages from around the world use a form beginning with 'm' for first person.<ref>{{cite web |last1=Nichols |first1=Johanna |last2=Peterson |first2=David A. |year=2013 |title=N-M Pronouns |editor1-last=Dryer |editor1-first=Matthew S. |editor2-last=Haspelmath |editor2-first=Martin |website=The World Atlas of Language Structures Online |location=Leipzig |publisher=Max Planck Institute for Evolutionary Anthropology |url=http://wals.info/chapter/137 |accessdate=2015-02-11}}</ref> The third person has a personal form ''an'' ("he" or "she") and an inanimate ''in'' ("it"). The second person is uncertain, but some like the Bonfantes have claimed a dative singular ''une'' ("to thee") and an accusative singular ''un'' ("thee").
+
+====Demonstrative====
+The demonstratives, ''ca'' and ''ta'', are used without distinction. The nominative–accusative singular forms are: ''ica, eca, ca, ita, ta''; the plural: ''cei, tei''. There is a genitive singular: ''cla, tla, cal'' and plural ''clal''. The accusative singular: ''can, cen, cn, ecn, etan, tn''; plural ''cnl''. Locative singular: ''calti, ceiθi, clθ(i), eclθi''; plural ''caiti, ceiθi''.
+
+===Adjectives===
+Though uninflected, adjectives fall into a number of types formed from nouns with a suffix:
+* quality, -u, -iu or -c:'' ais/ais-iu'', "god/divine"; ''zamaθi/zamθi-c'', "gold/golden"
+* possession or reference, -na, -ne, -ni: ''paχa/paχa-na'', "Bacchus, Bacchic"; ''laut/laut-ni'', "family/familiar" (in the sense of servant)
+* collective, -cva, -chva, -cve, -χve, -ia: ''sren/sren-cva'': "figure/figured"; ''etera/etera-ia'', "slave/servile"
+
+===Adverbs===
+Adverbs are unmarked: ''etnam'', "again"; ''θui'', "now"; ''θuni'', "at first." Most [[Indo-European languages|Indo-European]] adverbs are formed from the oblique cases, which become unproductive and descend to fixed forms. Cases such as the [[ablative]] are therefore called "adverbial". If there is any such system in Etruscan, it is not obvious from the relatively few surviving adverbs.
+
+===Verbs===
+Verbs had an [[indicative mood]] and an [[imperative mood]]. Tenses were [[Present tense|present]] and [[Past tense|past]]. The past tense had an [[active voice]] and a [[grammatical voice|passive voice]].
+
+====Present active====
+Etruscan used a verbal root with a zero suffix or -a without distinction to number or person: ''ar, ar-a'', "he, she, we, you, they make".
+
+====Past or preterite active====
+Adding the suffix ''-(a)ce'' to the verb root produces a third-person singular active, which has been called variously a "past", a "preterite", a "perfect" or an "aorist". In contrast to Indo-European, this form is not marked for [[Grammatical person|person]]. Examples: ''tur/tur-ce'', "gives/gave"; ''sval/sval-ce'', "lives/lived."
+
+====Past passive====
+The third-person past passive is formed with -che: ''mena/mena-ce/mena-che'', "offers/offered/was offered".
+
+==Vocabulary==
+
+===Borrowings from Etruscan===
+Only a few hundred words of the Etruscan vocabulary are understood with some certainty. The exact count depends on whether the different forms and the expressions are included. Below is a table of some of the words grouped by topic.<ref>The words in this table come from the Glossaries of Bonfante (1990) and Pallottino. The latter also gives a grouping by topic on pages 275 following, the last chapter of the book.</ref>
+
+Some words with corresponding Latin or other Indo-European forms are likely [[loanword]]s to or from Etruscan. For example, ''neftś'' "nephew", is probably from Latin (Latin ''nepōs, nepōtis''; this is a cognate of German ''Neffe'', Old Norse ''nefi''). A number of [[wikt:Category:Latin terms derived from Etruscan|words and names]] for which Etruscan origin has been proposed survive in Latin.
+
+At least one Etruscan word has an apparent Semitic origin: ''talitha'' "girl" (Aramaic; could have been transmitted by Phoenicians).  The word ''pera'' "house" is a [[false cognate]] to the [[Coptic language]] ''per'' "house".<ref>http://sites.davidson.edu/csa/the-etruscan-language/</ref>
+
+In addition to words believed to have been borrowed into Etruscan from Indo-European or elsewhere, there is a corpus of words such as ''familia'' which seem to have been borrowed into Latin from the older Etruscan civilization as a [[linguistic superstratum|superstrate]] influence.<ref>''Germania Semitica, 
+Theo Vennemann,
+p 123,
+Walter de Gruyter,
+2012</ref>  Some of these words still have widespread currency in English and Latin-influenced languages.  Other words believed to have a possible Etruscan origin include:
+{{main|List of English words of Etruscan origin}}
+
+; [[arena]] : from ''arēna'' "arena"<''harēna'', "arena, sand" < archaic ''hasēna'' < Sabine ''fasēna'', unknown Etruscan word as the basis for ''fas-'' with Etruscan ending ''-ēna''.<ref>Breyer (1993) p. 259.</ref>
+; [[autumn]] : from ''autumnus'' "autumn." Just as Etruscan ''veltha'', an earth god, appears as Latin Vola or Olta and is in [[Voltumna]] and [[Vertumnus]], so the parallel construction autumnus ought to come from Etruscan autu-, related to avil, "year": *av(i)-to-m(e)nos, with loss of the l. There are some names with both l and t: avlethaium, authnal, avtle, and so on, which appear related to autu or auta in Venetic, the idea being that autumn signifies the passing of the year.<ref>Breyer (1993) pp 412–413.</ref>
+; [[belt (clothing)|belt]] : from ''balteus'', "sword belt" - the sole connection between this word and Etruscan is a statement by [[Marcus Terentius Varro]] that it was of Etruscan origin. All else is speculation.<ref>{{cite book|title=Varronianus: A Critical and Historical Introduction to the Ethnography of Ancient Italy and to the Philological Study of the Latin Language|first=John William|last= Donaldson|page=154|edition=2|publisher=J. W. Parker & Son|year=1852|location=London, Cambridge}} Breyer (1993) pp 428–429 reports on an attempt to bring in Hittite and Gothic connecting it with a totally speculative root *-lst-.</ref>
+; [[ceremony]] : oldest form ''cærimonia'', obscure, perhaps Etruscan.<ref>"L. cærimonia "holiness, sacredness; awe; reverent rite, sacred ceremony," an obscure word, possibly of Etruscan origin, or a reference to the ancient rites performed by the Etruscan pontiffs at Caere" http://www.etymonline.com/index.php?term=ceremony</ref>
+; [[Market (economics)|market]] : Latin, of obscure origin, perhaps Etruscan.<ref>"market (n.)", On Line Etymological Dictionary,
+http://www.etymonline.com/index.php?term=market</ref>
+; [[military]] : from Latin ''milēs'' "soldier"; either from Etruscan or related to Greek ''homilos'', "assembled crowd" (compare ''homily'').<ref>"military (adj.)", On Line Etymological Dictionary,
+http://www.etymonline.com/index.php?term=military&allowed_in_frame=0</ref>
+; [[person]] : from Middle English ''persone'', from Old French ''persone'', from Latin ''persona'', "mask", probably from Etruscan ''phersu'', "mask".<ref>American Heritage Dictionary, New College Edition, page 978</ref>
+; [[satellite (disambiguation)|satellite]] : from Latin ''satelles'', meaning "bodyguard, attendant", perhaps from Etruscan ''satnal''.<ref>"satellite (n.)", On Line Etymological Dictionary,
+http://www.etymonline.com/index.php?term=satellite&allowed_in_frame=0</ref>
+
+=== Etruscan vocabulary ===
+
+====Numerals====
+{{main|Etruscan numerals}}
+Much debate has been carried out about a possible [[Proto-Indo-European numerals|Indo-European]] origin of the Etruscan cardinals. In the words of Larissa Bonfante (1990), "What these numerals show, beyond any shadow of a doubt, is the non-Indo-European nature of the Etruscan language".<ref>Bonfante, L.,''Etruscan'', University of California Press (Berkeley and Los Angeles, 1990), page 22.</ref> Conversely, other scholars, including Francisco R. Adrados, Albert Carnoy, Marcello Durante, Vladimir Georgiev, Alessando Morandi and Massimo Pittau, have proposed a close phonetic proximity of the first ten Etruscan numerals to the corresponding numerals in other Indo-European languages.<ref>Carnoy A., La langue étrusque et ses origines, ''L'Antiquité Classique'', 21 (1952), page 326. ([http://www.persee.fr/web/revues/home/prescript/article/antiq_0770-2817_1952_num_21_2_3451])</ref><ref>Morandi, A., ''Nuovi lineamenti di lingua etrusca'', Erre Emme (Roma, 1991), chapter IV.</ref> Italian linguist and glottologist Massimo Pittau has argued that "all the first ten Etruscan numerals have a congruent phonetic matching in as many Indo-European languages" and "perfectly fit within the Indo-European series", supporting the idea that the Etruscan language was of Indo-European origins.<ref>Pittau, M., "I numerali Etruschi", ''Atti del Sodalizio Glottologico Milanese'', vol. XXXV-XXXVI, 1994/1995 (1996), pages 95-105. ([http://www.pittau.it/Etrusco/Studi/dadi.html])</ref>
+
+The Etruscan numbers are (G.Bonfante 2002:96):
+
+#''θu''
+#''zal''
+#''ci''
+#''śa''
+#''maχ''
+#''huθ''
+#''semϕ''
+#''cezp''
+#''nurϕ''
+#''śar''
+
+====Core vocabulary====
+
+{{col-begin}}
+{{col-2}}
+{{refbegin}}
+{| class="wikitable"
+|-
+! Etruscan
+! English
+|-
+!colspan=2|Family
+|-
+| ''apa''
+| father (Latin: ''pater'')
+|-
+| ''apana''
+| paternal
+|-
+| ''papa, papacs''
+| grandfather
+|-
+| ''ati, ativu''
+| mother
+|-
+| ''teta, ati nacna''
+| grandmother
+|-
+| ''pui, puia''
+| wife
+|-
+| ''tusurθir''
+| married couple
+|-
+| ''clan''
+| son
+|-
+| ''papals''
+| grandson
+|-
+| ''sec, sech''
+| daughter
+|-
+| ''ruva''
+| brother
+|-
+| ''neftś, nefś, nefiś''
+| nephew (Latin: ''nepos'')
+|-
+| ''prumaθ, prumaθś, prumats, prumts''
+| great-nephew or great-grandson
+|-
+| ''nene''
+| wetnurse
+|-
+| ''snenaθ''
+| maid, companion
+|-
+| ''hus''
+| youth
+|-
+| ''husiur''
+| children
+|-
+| ''pava''
+| boy
+|-
+| ''taliθa''
+| girl (Aramaic: ''talitha'')
+|-
+| ''lautun, lautn''
+| gens
+|-
+| ''lautni''
+| freedman
+|-
+| ''lautniθa, lautnita''
+| freedwoman
+|-
+| ''etera, eteri''
+| foreigner, slave, client (Greek ἕτερος)
+|-
+!colspan=2|Society
+|-
+|''aesar''<ref>Cassius Dio Roman History 56,29,4</ref>
+| god
+|-
+|''Rasna''
+| Etruscans
+|-
+|''meχl Rasnal''
+| Etruria
+|-
+| ''pes''
+| land
+|-
+| ''tul''
+| stone
+|-
+| ''tular, tularu''
+| boundaries
+|-
+| ''tular rasnal''
+| public boundaries
+|-
+| ''tular spural''
+| city boundaries
+|-
+| ''vaχr''
+| contract
+|-
+| ''tudthi, tuθiu, tuθi, tuti''
+| state
+|-
+|''tuθin, tuθina''
+| public
+|-
+| ''mech''
+| people
+|-
+| ''meχl, meθlum''
+| nation, league, district
+|-
+| ''spur, śpur''
+| ''civitas'', ''populus''
+|-
+| ''spureni, spurana''
+| civic
+|-
+| ''θruna''
+| sovereignty
+|-
+| ''lucair''
+| to rule
+|-
+| ''lauχum''
+| king, prince
+|-
+| ''lauχumna''
+| regal, palace
+|-
+| ''tenve, tenine,<br>tenu, tenθas''
+| hold office
+|-
+| ''zil, zilac, zilc,<br>zilaχ, zilath''
+| praetor
+|-
+| ''camthi''
+| rowspan=7 |unknown magistrates<br>or magistracies
+|-
+| ''ceχase''
+|-
+| ''parniχ''
+|-
+| ''macstreve''
+|-
+| ''maru, marunu, marniu,<br>marunuχ, maruχva''
+|-
+| ''purθ, purθne''
+|-
+| ''tamera''
+|-
+|}
+{{refend}}
+{{col-2}}
+{{refbegin}}
+{| class="wikitable"
+|-
+! Etruscan
+! English
+|-
+!colspan=2|Time
+|-
+| ''tin-''
+| day
+|-
+| ''θesan''
+| morning, day
+|-
+| ''uslane''
+| at noon
+|-
+| ''tiur, tivr, tiu''
+| month, moon
+|-
+| ''avil''
+| year
+|-
+| ''ril''
+| at the age of
+|-
+| ''Velcitna''
+| March
+|-
+| ''Capr-''
+| April
+|-
+| ''Ampile''
+| May
+|-
+| ''Acale''
+| June
+|-
+| ''Hermi''
+| August or summer?
+|-
+| ''Celi''
+| September
+|-
+| ''Chosfer''
+| October
+|-
+| ''Masan, Masn''
+| unknown month
+|-
+!colspan=2|Nature
+|-
+| ''anθa''
+| northwind, eagle (Latin: ''aquila'')
+|-
+| ''arac''
+| sparrow-hawk, falcon (possibly Greek ἱέραξ)
+|-
+| ''arim''
+| monkey
+|-
+| ''capu''
+| falcon
+|-
+| ''falatu''
+| sky
+|-
+| ''hiuls''
+| screech-owl
+|-
+| ''leu''
+| lion (Latin: ''leo'')
+|-
+| ''neri''
+| water
+|-
+| ''pulumχva''
+| stars
+|-
+| ''thamna''
+| horse
+|-
+| ''thevru''
+| bull (Latin: ''taurus'')
+|-
+| ''tisś''
+| lake
+|-
+| ''tiu''
+| moon
+|-
+| ''θi''
+| water
+|-
+| ''usil''
+| sun (Latin: ''sol'')
+|-
+| ''vers-''
+| fire
+|-
+!colspan=2|Vessels
+|-
+| ''aska''
+| Greek [[Typology of Greek Vase Shapes|ἄσκος]] ''áskos'' "wineskin"
+|-
+| ''aska eleivana''
+| olive oil flask
+|-
+| ''cape, capi''
+| container (perhaps Latin ''capio'' "take" or ''capis'' "one-handled bowl")
+|-
+| ''capra''
+| urn
+|-
+| ''cletram''
+| Umbrian ''kletra'', a basin or basket
+|-
+| ''culiχna''
+| [[Kylix (drinking cup)|κύλιξ]], a large wine-cup
+|-
+| ''cupe''
+| κύπη or Latin ''cūpa'', English cup
+|-
+| ''leχtum''
+| [[Lekythos|λήκυθоς]], a small bottle
+|-
+| ''leχtumuza''
+| a small lechtum
+|-
+| ''patna''
+| πατάνη, a bowl
+|-
+| ''pruχ, pruχum''
+| πρόχоυς, a ewer
+|-
+| ''qutun, qutum''
+| [[Typology of Greek Vase Shapes|κώθων]], a vessel of [[Laconia]]
+|-
+| ''qutumuza''
+| small qutum
+|-
+| ''θafna''
+| chalice
+|-
+| ''θina, tina''
+| derived from ''θi'' "water"
+|-
+!colspan=2|Common verbs
+|-
+| ''am-''
+| to be
+|-
+| ''cer-''
+| to make
+|-
+| ''tur-''
+| to give
+|-
+| ''ziχ-''
+| to write
+|-
+|}
+{{refend}}
+{{col-end}}
+<!--
+==Sample texts==
+To be supplied.
+-->
+
+== See also ==
+* [[Combinatorial method (linguistics)]]
+* [[Corpus Inscriptionum Etruscarum]]
+* [[Old Italic alphabet#Etruscan alphabet|Etruscan alphabet]]
+* [[Etruscan civilization]]
+* Etruscan documents
+** ''[[Liber Linteus]]'' – An Etruscan linen book that ended as mummy wraps in Egypt.
+** ''[[Tabula Cortonensis]]'' – An Etruscan inscription.
+** ''[[Cippus perusinus]]'' – An Etruscan inscription.
+** ''[[Pyrgi Tablets]]'' – Bilingual Etruscan-[[Phoenician language|Phoenician]] golden leaves.
+* [[Etruscan mythology]]
+* [[Etruscan numerals]]
+* [[Lemnian language]]
+* [[List of English words of Etruscan origin]]
+* [[List of Spanish words of Etruscan origin]]
+* [[Pre-Greek substrate]]
+* [[Raetic language]]
+* [[Robert S. P. Beekes]]
+* [[Tyrsenian languages]]
+
+==Notes==
+{{reflist|2}}
+
+==Bibliography==
+* {{cite book| author=Adams, J. N. | title=Bilingualism and the Latin Language | year=2003 | publisher=Cambridge University Press | isbn=0-521-81771-4}} Available for preview on Google Books.
+* {{cite book
+ | authorlink = Giuliano Bonfante
+ | last = Bonfante | first =  Giuliano
+ |author2=Bonfante, Larissa |authorlink2=Larissa Bonfante 
+ | title = The Etruscan Language: an Introduction
+ | location = Manchester
+ | publisher = University of Manchester Press
+ | year = 2002
+ | isbn = 0-7190-5540-7
+ }} Preview available on Google Books.
+* {{cite book
+ | author=Bonfante, Larissa
+ | authorlink=Larissa Bonfante
+ | title=Etruscan
+ | year=1990
+ | location=Berkeley and Los Angeles
+ | publisher=University of California Press
+ | isbn= 0-520-07118-2
+ }} Preview available at Google Books.
+* {{cite book
+ | authorlink = Mauro Cristofani
+ | last = Cristofani | first = Mauro
+ | title = Gli Etruschi: una nuova immagine
+ | publisher = Firenze, Giunti Martello
+ | year = 1984
+ |display-authors=etal}}
+* {{cite book
+ | authorlink = Mauro Cristofani
+ | last = Cristofani | first = Mauro
+ | title = The Etruscans: A New Investigation (Echoes of the ancient world)
+ | publisher = Orbis Pub
+ | year = 1979
+ | isbn = 0-85613-259-4
+ }}
+
+* {{cite book
+ | author=Facchetti, Giulio M.
+ | title=L'enigma svelato della lingua etrusca
+ | year=2000
+ | location=Roma
+ | publisher=Newton & Compton
+ | isbn=978-88-8289-458-0
+ }}
+
+* {{cite book
+ | author=Facchetti, Giulio M.
+ | title=Appunti di morfologia etrusca. Con un'appendice sulle questioni delle affinità genetiche dell'etrusco
+ | year=2002
+ | location=Roma
+ | publisher=Olshcki
+ | isbn=978-88-222-5138-1
+ }}
+
+* {{cite book
+ | authorlink=Massimo Pallottino
+ | last=Pallottino
+ | first=Massimo
+ | title=The Etruscans
+ | publisher=Penguin Books
+ | year=1955
+ }} Translated from the Italian by J. Cremona.
+* {{cite book
+ | authorlink = Helmut Rix
+ | last = Rix | first = Helmut
+ | title = Etruskische Texte
+ | publisher = G. Narr
+ | year = 1991
+ | isbn = 3-8233-4240-1
+ }} 2 vols.
+* {{cite book
+ | authorlink = Dieter H. Steinbauer
+ | last = Steinbauer | first = Dieter H.
+ | title = Neues Handbuch des Etruskischen
+ | publisher = Scripta Mercaturae
+ | year = 1999
+ | isbn = 3-89590-080-X
+ }}
+* {{cite book
+ | authorlink = Rex E. Wallace
+ | last = Wallace | first = Rex E.
+ | title = Zikh Rasna: A Manual of the Etruscan Language and Inscriptions
+ | publisher = Beech Stave Press
+ | year = 2008
+ | isbn = 978-0-9747927-4-3
+ }}
+* Woudhuizen, Frederik Christiaan. April 2006. ''[http://hdl.handle.net/1765/7686 The Ethnicity of the Sea Peoples]''. Doctoral dissertation; Rotterdam: [[Erasmus Universiteit]] Rotterdam, Faculteit der Wijsbegeerte.
+
+==External links==
+{{commons category|Etruscan language}}
+
+===General===
+* [http://www.umass.edu/etruscannews Etruscan News Online], the Newsletter of the American Section of the Institute for Etruscan and Italic Studies.
+*[http://ancientstudies.fas.nyu.edu/page/etruscan.html Etruscan News back issues], Center for Ancient Studies at New York University.
+*[http://www.etruskisch.de/imp/imp-e.htm Etruscology at Its Best], the website of Dr. Dieter H. Steinbauer, in English. Covers origins, vocabulary, grammar and place names.
+* {{Wayback |date=20021207170759 |url=http://www.netaxs.com/~salvucci/VTLhome.html |title=Viteliu: The Languages of Ancient Italy }}.
+* [http://linguistlist.org/forms/langs/LLDescription.cfm?code=ett The Etruscan Language], the linguistlist.org site. Links to many other Etruscan language sites.
+
+===Inscriptions===
+* [http://www.trismegistos.org/tm/list_etruscan.php TM Texts Etruscan] A list of all texts in Trismegistos.
+* [http://etp.classics.umass.edu/ ETP: Etruscan Texts Project] A searchable database of Etruscan texts.
+* ''[http://www.umass.edu/etruscannews/articles/WallaceENews5.pdf Etruscan Inscriptions in the Royal Ontario Museum]'', article by Rex Wallace displayed at the umass.edu site.
+
+===Lexical items===
+* [http://etruskisch.de/pgs/vc.htm Etruscan Vocabulary], a vocabulary organized by topic by Dieter H. Steinbauer, in English.
+* {{Wayback |date=20021213221136 |url=http://www.netaxs.com/~salvucci/VTLetrvocab.html |title=An Etruscan Vocabulary }}. A short, one-page glossary with numerals as well.
+* {{Wayback |date=20070927045655 |url=http://www.iolairweb.co.uk/etrusdict.htm |title=Etruscan–English Dictionary }}. An extensive lexicon compiled from other lexicon sites. Links to the major Etruscan glossaries on the Internet are included.
+* [http://paleoglot.blogspot.com/2007/01/lingua-files.html#etruscan Paleoglot: Online Etruscan-English dictionary; summary of Etruscan grammar]. A searchable Etruscan-to-English dictionary applet and a summary of Etruscan grammar.
+* [http://diachronica.pagesperso-orange.fr/TMCJ_vol_3.2_Fournet_Etruscan.pdf ''A Tentative Etymological Glossary of Etruscan''] by Arnaud Fournet.
+
+===Font===
+* [http://www.fontspace.com/dave-bastian/etruscan Etruscan font download site] with unicode information
+
+{{Etruscans}}
+
+{{Authority control}}
+{{DEFAULTSORT:Etruscan Language}}
+[[Category:Etruscan language| ]]
+[[Category:Languages of ancient Italy]]
+[[Category:Ancient languages]]
+[[Category:Extinct languages of Italy]]
+[[Category:Extinct languages of Europe]]
+[[Category:Pre-Indo-Europeans]]
+[[Category:Tyrsenian languages]]

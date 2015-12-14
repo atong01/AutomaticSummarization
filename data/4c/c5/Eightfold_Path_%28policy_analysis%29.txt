@@ -1,0 +1,32 @@
+{{Use dmy dates|date=July 2012}}
+The '''Eightfold Path''' is a method of [[policy analysis]] assembled by [[Eugene Bardach]], a professor at the [[Goldman School of Public Policy]] at the [[University of California, Berkeley]].<ref>{{cite web|title=Eugene Bardach {{!}} Emeritus Professor of Public Policy|url=https://gspp.berkeley.edu/directories/faculty/eugene-bardach|publisher=University of California at Berkeley}}</ref>  It is outlined in his book ''A Practical Guide for Policy Analysis: The Eightfold Path to More Effective Problem Solving'', which is now in its fourth edition.<ref>{{cite web|title=CQ Press: Book: A Practical Guide for Policy Analysis: The Eightfold Path to More Effective Problem Solving, 4th Edition, Eugene Bardach|url=http://www.cqpress.com/product/Bardach4e.html|publisher=CQ Press|accessdate=29 October 2011}}</ref>  The book is commonly referenced in [[Policy|public policy]] and [[public administration]] scholarship.<ref>{{cite web|title=List of scholarly works referencing ''A Practical Guide for Policy Analysis''|url=http://scholar.google.com/scholar?cites=4884126323094470718&as_sdt=20005&sciodt=0,9&hl=en|publisher=Google Scholar|accessdate=6 August 2011}}</ref>
+
+Bardach's procedure is as follows:
+# Define the Problem
+# Assemble Some Evidence
+# Construct the Alternatives
+# Select the Criteria
+# Project the Outcomes
+# Confront the Trade-offs
+# Decide
+# Tell Your Story
+
+A possible ninth-step, based on Bardach's own writing, might be "Repeat Steps 1 - 8 as Necessary."
+
+== The New York taxi driver test ==
+The New York taxi driver test is a technique for evaluating the effectiveness of communication between policy makers and analysts. Bardach contends that policy explanations must be clear and down-to-earth enough for a taxi driver to be able to understand the premise during a trip through city streets. The New York taxi driver is presumed to be both a non-specialist and a tough customer.<ref>{{cite book| last = Bardach| first = Eugene| title = A practical guide for policy analysis: the eightfold path to more effective problem solving| year = 2000| publisher = Chatham House Publishers, Seven Bridges Press| isbn = 978-1-889119-29-8 }}</ref><ref>http://www.ebriefings.ca/wordpress/?p=321{{dead link|date=March 2015}}</ref>
+
+== See also ==
+* [[Policy analysis]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://www.worldcat.org/oclc/245022922 WorldCat Library Catalog: ''A Practical Guide for Policy Analysis'']
+
+[[Category:Evaluation methods]]
+[[Category:Policy]]
+[[Category:Subfields of political science]]
+[[Category:Public policy research]]
+[[Category:Political books]]

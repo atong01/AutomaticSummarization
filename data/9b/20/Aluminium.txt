@@ -1,0 +1,872 @@
+{{About|the metallic element}}
+{{pp-move-indef}}
+{{Use dmy dates|date=June 2013}}
+<!--About the spelling of 'aluminium': this article is written using the IUPAC spelling of "aluminium" and so "ium" should be used. The article follows [[Wikipedia:Naming conventions (chemistry)#Element names]] for conventions on chemical names, so "sulfur", etc. should be maintained.-->
+{{Infobox aluminium}}
+'''Aluminium''' (or '''aluminum'''; see {{Pslink|different endings}}) is a [[chemical element]] in the [[boron group]] with symbol&nbsp;'''Al''' and [[atomic number]]&nbsp;13. It is a silvery-white, soft, nonmagnetic, [[ductility|ductile]] [[metal]]. Aluminium is [[Abundance of elements in Earth's crust|the third most abundant element]] (after [[oxygen]] and [[silicon]]) in the [[Earth]]'s [[crust (geology)|crust]], and the [[element abundance|most abundant metal]] there. It makes up about 8% by mass of the crust, though it is less common in the mantle below. Aluminium metal is so chemically reactive that [[Native metal|native specimens]] are rare and limited to extreme [[Redox|reducing]] environments. Instead, it is found combined in over 270 different [[mineral]]s.<ref>
+{{cite web
+ |last1 = Shakhashiri |first1=B. Z.
+ |date = 17 March 2008
+ |title = Chemical of the Week: Aluminum
+ |url = http://scifun.chem.wisc.edu/chemweek/PDF/Aluminum.pdf
+ |work = SciFun.org
+ |publisher = [[University of Wisconsin]]
+ |accessdate = 4 March 2012
+}}</ref> The chief [[ore]] of aluminium is [[bauxite]].
+
+Aluminium is remarkable for the metal's low [[density]] and for its ability to resist [[corrosion]] due to the phenomenon of [[passivation (chemistry)|passivation]]. Structural components made from aluminium and its [[aluminium alloy|alloys]] are vital to the [[aerospace]] industry and are important in other areas of [[transport]]ation and structural materials, such as building facades and window frames.{{clarification needed|date=September 2015}} The most useful compounds of aluminium, at least on a weight basis, are the [[oxides]] and [[sulfates]].{{citation needed|date=September 2015}}
+
+Despite its prevalence in the environment, no known form of life uses aluminium [[Salt (chemistry)|salts]] [[metabolically]]. In keeping with its pervasiveness, aluminium is well tolerated by plants and animals.<ref name=Ullmann/> Owing to their prevalence, potential beneficial (or otherwise) biological roles of aluminium compounds are of continuing interest.
+
+==Characteristics==
+[[File:Luftaufnahmen Nordseekueste 2012-05-by-RaBoe-478.jpg|thumb|"[[Red mud]]" storage facility in [[Stade]], [[Germany]]. The aluminium industry generates about 70 million tons of this waste annually.]]
+
+===Physical===
+Aluminium is a relatively soft, durable, lightweight, [[ductility|ductile]] and [[malleable]] [[metal]] with appearance ranging from silvery to dull gray, depending on the surface roughness. It is nonmagnetic and does not easily ignite. A fresh film of aluminium serves as a good reflector (approximately 92%) of [[visible light]] and an excellent reflector (as much as 98%) of medium and far [[infrared]] radiation. The [[yield (engineering)|yield strength]] of pure aluminium is 7–11 [[Pascal (unit)|MPa]], while [[aluminium alloy]]s have yield strengths ranging from 200 MPa to 600 MPa.<ref name="polmear">
+{{cite book
+ |last1=Polmear |first1=I. J.
+ |date=1995
+ |title=Light Alloys: Metallurgy of the Light Metals
+ |edition=3rd
+ |publisher=[[Butterworth-Heinemann]]
+ |isbn=978-0-340-63207-9
+}}</ref> Aluminium has about one-third the [[density]] and [[Elastic modulus|stiffness]] of [[steel]]. It is easily [[machining|machined]], [[casting (metalworking)|cast]], [[drawing (metalworking)|drawn]] and [[extrusion|extruded]].
+
+Aluminium atoms are arranged in a [[cubic crystal system|face-centered cubic]] (fcc) structure. Aluminium has a [[stacking-fault energy]] of approximately 200 mJ/m<sup>2</sup>.<ref>
+{{cite book
+ |last1=Dieter |first1=G. E.
+ |date=1988
+ |title=Mechanical Metallurgy
+ |publisher=[[McGraw-Hill]]
+ |isbn=0-07-016893-8
+}}</ref>
+
+Aluminium is a good [[Heat conduction|thermal]] and [[electrical conductor]], having 59% the conductivity of copper, both thermal and electrical, while having only 30% of [[Copper|copper's]] density. Aluminium is capable of being a [[superconductor]], with a superconducting critical temperature of 1.2 [[kelvin]] and a critical magnetic field of about 100 [[gauss (unit)|gauss]] (10 [[millitesla]]s).<ref>
+{{cite journal
+ |last1=Cochran |first1=J. F.
+ |last2=Mapother |first2=D. E.
+ |date=1958
+ |title=Superconducting Transition in Aluminum
+ |journal=[[Physical Review]]
+ |volume=111 |issue=1 |pages=132–142
+ |bibcode=1958PhRv..111..132C
+ |doi=10.1103/PhysRev.111.132
+}}</ref>
+
+===Chemical===
+[[Corrosion]] resistance can be excellent due to a thin surface layer of [[aluminium oxide]] that forms when the metal is exposed to air, effectively preventing further [[oxidation]].<ref name ="CorrAl">{{cite book | title=Corrosion of Aluminium|first=Christian |last=Vargel|date=2004|origyear=French edition published 1999|publisher=Elsevier|ISBN=0 08 044495 4|url = http://books.google.de/books?id=NAABS5KrVDYC&pg=PA81}}</ref> The strongest aluminium alloys are less corrosion resistant due to [[galvanic cell|galvanic]] reactions with alloyed [[copper]].<ref name="polmear" /> This corrosion resistance is also often greatly reduced by aqueous salts, particularly in the presence of dissimilar metals.
+
+In highly acidic solutions aluminium reacts with water to form hydrogen, and in highly alkaline ones to form [[aluminates]]— protective passivation under these conditions is negligible. Also, [[chlorides]] such as common [[sodium chloride]] are well-known sources of corrosion of aluminium and are among the chief reasons that household plumbing is never made from this metal.<ref name="Beal1999">{{cite book|first=Roy E. |last= Beal|title=Engine Coolant Testing : Fourth Volume|url=http://books.google.com/books?id=Askwi3lXdlcC&pg=PA90|date=1 January 1999|publisher=ASTM International|isbn=978-0-8031-2610-7|page=90}}</ref>
+
+However, owing to its resistance to corrosion generally, aluminium is one of the few metals that retain silvery reflectance in finely powdered form, making it an important component of [[silver (color)|silver-colored]] paints. Aluminium mirror finish has the highest [[reflectance]] of any metal in the 200–400&nbsp;nm ([[ultraviolet|UV]]) and the 3,000–10,000&nbsp;nm (far [[infrared|IR]]) regions; in the 400–700&nbsp;nm visible range it is slightly outperformed by [[tin]] and [[silver]] and in the 700–3000 (near IR) by [[silver]], [[gold]], and [[copper]].<ref>
+{{cite book
+ |last=Macleod |first1=H. A.
+ |date=2001
+ |title=Thin-film optical filters
+ |pages=158–159
+ |publisher=[[CRC Press]]
+ |isbn=0-7503-0688-2
+}}</ref>
+
+Aluminium is [[oxidized]] by [[water]] at temperatures below 280&nbsp;°C to produce [[hydrogen]], [[aluminium hydroxide]] and heat:
+:2 Al + 6 H<sub>2</sub>O → 2 Al(OH)<sub>3</sub> + 3 H<sub>2</sub>
+This conversion is of interest for the production of hydrogen. Challenges include circumventing the formed oxide layer, which inhibits the reaction, and the expenses associated with the storage of energy by regeneration of the Al metal.<ref>{{cite web|date=1 January 2008|url=http://www1.eere.energy.gov/hydrogenandfuelcells/pdfs/aluminium_water_hydrogen.pdf| title=Reaction of Aluminum with Water to Produce Hydrogen| publisher=U.S. Department of Energy}}</ref>
+
+===Isotopes===
+{{Main|Isotopes of aluminium}}
+Aluminium has many known [[isotope]]s, whose mass numbers range from 21 to 42; however, only <sup>27</sup>Al ([[stable isotope]]) and <sup>26</sup>Al ([[radioactive decay|radioactive]] isotope, [[half-life|t<sub>1⁄2</sub>]]&nbsp;= 7.2×10<sup>5</sup> [[year|y]]) occur naturally. <sup>27</sup>Al has a natural abundance above 99.9%. <sup>26</sup>Al is produced from [[argon]] in the [[Earth's atmosphere|atmosphere]] by [[spallation]] caused by [[cosmic-ray]] [[proton]]s. Aluminium isotopes have found practical application in dating [[ocean|marine]] sediments, manganese nodules, glacial ice, [[quartz]] in [[rock (geology)|rock]] exposures, and [[meteorite]]s. The ratio of <sup>26</sup>Al to <sup>10</sup>[[beryllium|Be]] has been used to study the role of transport, deposition, [[sediment]] storage, burial times, and erosion on 10<sup>5</sup> to 10<sup>6</sup> year time scales.<ref>
+{{cite book
+ |last1=Dickin |first1=A. P.
+ |date=2005
+ |chapter=''In situ'' Cosmogenic Isotopes
+ |url=http://www.onafarawayday.com/Radiogenic/Ch14/Ch14-6.htm
+ |title=Radiogenic Isotope Geology
+ |publisher=[[Cambridge University Press]]
+ |isbn=978-0-521-53017-0
+}}</ref> [[Cosmogenic]] <sup>26</sup>Al was first applied in studies of the [[Moon]] and meteorites. Meteoroid fragments, after departure from their parent bodies, are exposed to intense cosmic-ray bombardment during their travel through space, causing substantial <sup>26</sup>Al production. After falling to Earth, atmospheric shielding drastically reduces <sup>26</sup>Al production, and its decay can then be used to determine the meteorite's terrestrial age. Meteorite research has also shown that <sup>26</sup>Al was relatively abundant at the time of formation of our planetary system. Most meteorite scientists believe that the energy released by the decay of <sup>26</sup>Al was responsible for the melting and [[planetary differentiation|differentiation]] of some [[asteroids]] after their formation 4.55 billion years ago.<ref>
+{{cite book
+ |last1=Dodd |first1=R. T.
+ |date=1986
+ |title=Thunderstones and Shooting Stars
+ |pages=89–90
+ |publisher=[[Harvard University Press]]
+ |isbn=0-674-89137-6
+}}</ref>
+
+===Natural occurrence===
+{{See also|List of countries by bauxite production}}
+Stable aluminium is created when [[hydrogen]] fuses with [[magnesium]], either in large stars or in [[supernova]]e.<ref>
+{{cite book
+ |last1=Cameron |first1=A. G. W.
+ |date=1957
+ |title=Stellar Evolution, Nuclear Astrophysics, and Nucleogenesis
+ |url=http://www.fas.org/sgp/eprint/CRL-41.pdf
+ |edition=2nd
+ |publisher=[[Atomic Energy of Canada]]
+}}</ref> It is estimated to be the 14th most common element in the Universe, by mass-fraction.<ref>http://periodictable.com/Properties/A/UniverseAbundance.v.log.html</ref> However, among the elements that have odd atomic numbers, aluminium is the third most abundant by mass fraction, after hydrogen and nitrogen.<ref>http://periodictable.com/Properties/A/UniverseAbundance.v.log.html</ref>
+
+In the [[Earth's crust]], aluminium is the most abundant (8.3% by mass) metallic element and the third most abundant of all elements (after oxygen and silicon).<ref name=Greenwood1997>{{Greenwood&Earnshaw2nd|page=217}}</ref> The Earth's crust has a higher prevalence of aluminium than the rest of the planet, due to aluminium silicates in the crust. In the Earths [[mantle (geology)|mantle]], which is only 2% aluminium by mass, these aluminium silicate minerals are largely replaced by [[silica]] and magnesium oxides. Overall, the Earth is about 1.4% aluminium by mass (eighth in abundance by mass). In the Earth as a whole, aluminium gains in abundance as compared with the Solar system and Universe, due to Earth's loss of a number of elements which are common in the universe, but which are volatiles at the Earth's distance from the Sun (hydrogen, helium, neon, nitrogen, carbon as hydrocarbon).
+
+Because of its strong affinity to oxygen, aluminium is almost never found in the elemental state; instead it is found in oxides or silicates. [[Feldspar]]s, the most common group of minerals in the Earth's crust, are aluminosilicates. Native aluminium metal can only be found as a minor phase in low oxygen [[fugacity]] environments, such as the interiors of certain volcanoes.<ref>
+{{cite web
+ |last1=Barthelmy |first1=D.
+ |title=Aluminum Mineral Data
+ |url=http://webmineral.com/data/Aluminum.shtml
+ |work=Mineralogy Database
+|accessdate=9 July 2008
+| archiveurl= http://web.archive.org/web/20080704001129/http://webmineral.com/data/Aluminum.shtml| archivedate= 4 July 2008 <!--DASHBot-->| deadurl= no}}</ref> Native aluminium has been reported in [[cold seep]]s in the northeastern [[continental slope]] of the [[South China Sea]] and Chen ''et al.'' (2011)<ref name="Chen 2011"/> have proposed a theory of its origin as resulting by [[Redox|reduction]] from tetrahydroxoaluminate Al(OH)<sub>4</sub><sup>−</sup> to metallic aluminium by [[bacteria]].<ref name="Chen 2011">
+{{cite journal
+ |last1=Chen |first1=Z.
+ |date=2011
+ |title=Characteristics and possible origin of native aluminum in cold seep sediments from the northeastern South China Sea
+ |journal=Journal of Asian Earth Sciences
+ |volume=40 |issue=1 |pages=363–370
+ |doi=10.1016/j.jseaes.2010.06.006
+|bibcode = 2011JAESc..40..363C
+ |last2=Huang
+ |first2=Chi-Yue
+ |last3=Zhao
+ |first3=Meixun
+ |last4=Yan
+ |first4=Wen
+ |last5=Chien
+ |first5=Chih-Wei
+ |last6=Chen
+ |first6=Muhong
+ |last7=Yang
+ |first7=Huaping
+ |last8=Machiyama
+ |first8=Hideaki
+ |last9=Lin
+ |first9=Saulwood }}</ref>
+
+It also occurs in the minerals [[beryl]], [[cryolite]], [[garnet]], [[spinel]] and [[turquoise]]. Impurities in Al<sub>2</sub>O<sub>3</sub>, such as [[chromium]] or [[iron]] yield the [[gemstone]]s [[ruby]] and [[sapphire]], respectively.
+
+Although aluminium is an extremely common and widespread element, the common aluminium minerals are not economic sources of the metal. Almost all metallic aluminium is produced from the [[ore]] bauxite (AlO<sub>''x''</sub>(OH)<sub>3–2''x''</sub>). Bauxite occurs as a [[weathering]] product of low iron and silica bedrock in tropical climatic conditions.<ref>
+{{cite book
+ |last1=Guilbert|first1= J. F. |last2=Park |first2= C. F.
+ |title=The Geology of Ore Deposits
+ |publisher=W. H. Freeman
+ |date=1986
+ |pages=774–795
+ |isbn=0-7167-1456-6
+}}</ref> Large deposits of bauxite occur in Australia, [[Brazil]], [[Guinea]] and [[Jamaica]] and the primary mining areas for the ore are in [[Australia]], [[Brazil]], [[China]], [[India]], Guinea, [[Indonesia]], Jamaica, [[Russia]] and [[Suriname]].
+
+==Production and refinement==
+{{See also|Category:Aluminium minerals|List of countries by aluminium production}}
+[[File:Bauxite hérault.JPG|thumb|right|Bauxite, a major aluminium ore. The red-brown color is due to the presence of [[iron]] minerals.]]
+
+Bauxite is converted to aluminium oxide (Al<sub>2</sub>O<sub>3</sub>) via the [[Bayer process]].<ref name=Ullmann/> Relevant [[chemical equation]]s are:
+:Al<sub>2</sub>O<sub>3</sub> + 2 NaOH  →  2 NaAlO<sub>2</sub> + H<sub>2</sub>O 
+:2 H<sub>2</sub>O + NaAlO<sub>2</sub> → Al(OH)<sub>3</sub> + NaOH
+The intermediate sodium aluminate, given the simplified formula NaAlO<sub>2</sub>, is soluble in strongly alkaline water, and the other components of the ore are not. Depending on the quality of the bauxite ore, twice as much waste ("[[red mud]]") as alumina is generated.
+
+The conversion of alumina to aluminium metal is achieved by the [[Hall-Héroult process]]. In this energy-intensive process, a solution of alumina in a molten ({{convert|950|and|980|C|F}}) mixture of [[cryolite]] (Na<sub>3</sub>AlF<sub>6</sub>) with [[calcium fluoride]] is [[electrolysis|electrolyzed]] to give the metal:
+: Al<sup>3+</sup> + 3 e<sup>−</sup> →  Al(l)
+At the [[anode]], oxygen is formed:
+: 2 O<sup>2−</sup> + C → CO<sub>2</sub>(g) + 4 e<sup>−</sup>
+The liquid aluminium metal then sinks to the bottom of the solution and is tapped off, usually cast into large blocks called [[Bar stock|aluminium billets]] for further processing. The carbon anode is consumed by  reaction with oxide to form carbon dioxide gas. A small quantity of [[fluoride]] compounds flow with this gas. In modern smelters, this hot carbon dioxide gas is filtered through alumina to remove fluorine compounds and return [[fluorine]] as aluminium fluoride to the [[electrolytic]] cells.  The anodes in a reduction cell must therefore be replaced regularly, since they are consumed in the process. The cathodes do erode, mainly due to electrochemical processes and liquid metal movement [[Electromagnetic induction |induced]] by intense electrolytic currents. After five to ten years, depending on the current used in the electrolysis, a cell must be rebuilt because of cathode wear.
+
+[[File:Aluminium - world production trend.svg|thumb|lang=en|World production trend of aluminium]]
+
+Aluminium electrolysis with the [[Hall-Héroult]] process consumes a lot of energy. The worldwide average specific energy consumption is approximately 15±0.5 [[kilowatt-hour]]s per kilogram of aluminium produced (52 to 56 [[megajoule|MJ]]/kg). The most modern smelters achieve approximately 12.8&nbsp;kW·h/kg (46.1 MJ/kg). (Compare this to the [[heat of reaction]], 31 MJ/kg, and the [[Gibbs free energy]] of reaction, 29 MJ/kg.) Reduction line currents for older technologies are typically 100 to 200 [[kiloampere]]s; state-of-the-art smelters operate at about 350 kA. Trials have been reported with 500 kA cells.{{citation needed|date=December 2011}}
+
+The Hall-Heroult process produces aluminium with a purity of above 99%. Further purification can be done by the [[Hoopes process]]. The process involves the electrolysis of molten aluminium with a sodium, barium and aluminium fluoride electrolyte. The resulting aluminium has a purity of 99.99%.<ref name=Ullmann>
+{{cite book
+ |last1=Frank |first1=W. B.
+ |date=2009
+ |chapter=Aluminum
+ |title=[[Ullmann's Encyclopedia of Industrial Chemistry]]
+ |publisher=[[Wiley-VCH]]
+ |doi=10.1002/14356007.a01_459.pub2
+}}</ref><ref>
+{{cite book
+ |last1=Totten |first1=G. E.
+ |last2=Mackenzie |first2=D. S.
+ |date=2003
+ |title=Handbook of Aluminum
+ |url=http://books.google.com/books?id=KpgTrFloOq0C&pg=PA40
+ |page=40
+ |publisher=[[Marcel Dekker]]
+ |isbn=978-0-8247-4843-2
+}}</ref>
+
+Electric power represents about 20% to 40% of the cost of producing aluminium, depending on the location of the smelter. Aluminium production consumes roughly 5% of electricity generated in the U.S.<ref name="Emsley2001"/> Aluminium producers tend to locate smelters in places where electric power is both plentiful and inexpensive—such as the [[United Arab Emirates]] with its large natural gas supplies,<ref>{{cite news|last1=Dipaola|first1=Anthony|title=U.A.E. Plans to Merge Aluminum Makers in $15 Billion Venture|url=http://www.bloomberg.com/news/articles/2013-06-03/u-a-e-aluminum-smelters-plan-merger-to-form-15-billion-venture|website=http://www.bloomberg.com|accessdate=18 March 2015|date=4 June 2013}}</ref> and [[Iceland]]<ref>{{cite web|last1=Hilmarsson|first1=Thorsteinn|title=Energy and aluminium in Iceland|url=https://www.institutenorth.org/assets/images/uploads/files/Energy_and_aluminum_in_Iceland.pdf|website=https://www.institutenorth.org|accessdate=18 March 2015}}</ref> and [[Norway]]<ref>{{cite web|title=From alumina to aluminium|url=http://www.hydro.com/en/About-aluminium/Aluminium-life-cycle/Primary-production/|website=http://www.hydro.com|accessdate=18 March 2015}}</ref> with energy generated from [[Renewable resource|renewable sources]]. The world's largest [[Smelting|smelters]] of alumina are located in the People's Republic of China, Russia and the provinces of [[Quebec]] and [[British Columbia]] in [[Canada]].<ref name="Emsley2001">
+{{cite book
+ |last1=Emsley |first1=J.
+ |year=2001
+ |chapter=Aluminium
+ |url=http://books.google.com/?id=j-Xu07p3cKwC&pg=PA24
+ |title=Nature's Building Blocks: An A-Z Guide to the Elements
+ |page=24
+ |publisher=[[Oxford University Press]]
+ |isbn=0-19-850340-7
+ |ref=CITEREFEmsley2001
+}}</ref><ref name="WMP">
+{{cite book
+ |last1=Brown |first1=T. J.
+ |date=2009
+ |title=World Mineral Production 2003–2007
+ |url=http://www.bgs.ac.uk/downloads/start.cfm?id=1388
+ |publisher=[[British Geological Survey]]
+}}</ref><ref>
+{{cite book
+ |last1=Schmitz |first1=C.
+ |last2=Domagala |first2=J.
+ |last3=Haag |first3=P.
+ |date=2006
+ |title=Handbook of Aluminium Recycling
+ |page=27
+ |publisher=Vulkan-Verlag
+ |isbn=3-8027-2936-6
+}}</ref>
+
+<!-- Deleted image removed: [[File:Aluminium output2.PNG|thumb|right|Aluminium output in 2005]] -->
+[[File:Al-spotprice1987-2012.svg|thumb|right|Aluminium spot price 1987–2012]]
+In 2005, the People's Republic of China was the top producer of aluminium with almost a one-fifth world share, followed by Russia, Canada, and the US, reports the [[British Geological Survey]].
+
+Over the last 50 years, Australia has become the world's top producer of bauxite ore and a major producer and exporter of alumina (before being overtaken by China in 2007).<ref name="WMP"/><ref>
+{{cite web
+ |title=The Australian Industry
+ |url=http://www.aluminium.org.au/Page.php?s=1005
+ |publisher=[[Australian Aluminium Council]]
+ |accessdate=11 August 2007
+ |archiveurl=http://web.archive.org/web/20070717041628/http://www.aluminium.org.au/Page.php?s=1005
+ |archivedate=17 July 2007
+}}</ref> Australia produced 77 million [[tonne]]s of bauxite in 2013.<ref>
+{{cite web
+|url=http://minerals.usgs.gov/minerals/pubs/commodity/bauxite/mcs-2014-bauxi.pdf
+ |title=Bauxite and Alumina, U.S. Geological Survey, Mineral Commodity Summaries
+ |date=February 2014
+ |page=26
+ |publisher=[[USGS]]
+ |accessdate=2 June 2014
+}}</ref> The Australian deposits have some refining problems, some being high in silica, but have the advantage of being shallow and relatively easy to mine.<ref>
+{{cite web
+ |url=http://www.aluminium.org.au/Page.php?s=1007
+ |title=Australian Bauxite
+ |publisher=[[Australian Aluminium Council]]
+ |accessdate=11 August 2007
+ |archiveurl=http://web.archive.org/web/20070718172244/http://www.aluminium.org.au/Page.php?s=1007
+ |archivedate=18 July 2007
+}}</ref>
+
+===Recycling===
+[[File:41 ALU Recycling Code.svg|150px|thumb|Aluminium [[recycling code]]]]
+{{Main|Aluminium recycling}}
+Aluminium is theoretically 100% recyclable without any loss of its natural qualities. According to the [[International Resource Panel]]'s [[Metal Stocks in Society report]], the global [[per capita]] stock of aluminium in use in society (i.e. in cars, buildings, electronics etc.) is {{convert|80|kg|abbr=on}}. Much of this is in more-developed countries ({{convert|350|–|500|kg|abbr=on}} per capita) rather than less-developed countries ({{convert|35|kg|abbr=on}} per capita). Knowing the per capita stocks and their approximate lifespans is important for planning recycling.
+
+Recovery of the metal via [[recycling]] has become an important use of the aluminium industry. Recycling was a low-profile activity until the late 1960s, when the growing use of aluminium [[beverage can]]s brought it to the public awareness.
+
+Recycling involves melting the scrap, a process that requires only 5% of the energy used to produce aluminium from ore, though a significant part (up to 15% of the input material) is lost as [[dross]] (ash-like oxide).<ref>
+{{cite web
+ |title=Benefits of Recycling
+ |publisher=[[Ohio Department of Natural Resources]]
+ |url=http://web.archive.org/web/20030624162738/http://www.dnr.state.oh.us/recycling/awareness/facts/benefits.htm
+}}</ref> An aluminium stack melter produces significantly less dross, with values reported below 1%.<ref>
+{{cite web
+ |title=Theoretical/Best Practice Energy Use In Metalcasting Operations 
+ |url=http://www.afsinc.org/files/best%20practice%20energy-schifo-radia-may%202004.pdf
+}}</ref> The dross can undergo a further process to extract aluminium.
+
+In [[Europe]] aluminium experiences high rates of recycling, ranging from 42% of beverage cans, 85% of construction materials and 95% of transport vehicles.<ref>
+{{cite web
+ |url=http://www.confemetal.es/aseral/recuperacion.htm
+ |archiveurl=http://web.archive.org/web/20110720135925/http://www.confemetal.es/aseral/recuperacion.htm
+ |archivedate=20 July 2011
+ |title=Reciclado del aluminio. Confemetal.es ASERAL
+|language=es}}</ref>
+
+Recycled aluminium is known as secondary aluminium, but maintains the same physical properties as primary aluminium. Secondary aluminium is produced in a wide range of formats and is employed in 80% of alloy injections. Another important use is for extrusion.
+
+White dross from primary aluminium production and from secondary recycling operations still contains useful quantities of aluminium that can be extracted industrially.<ref>
+{{cite journal
+ |last1=Hwang |first1=J. Y.
+ |last2=Huang |first2=X.
+ |last3=Xu |first3=Z.
+ |date=2006
+ |title=Recovery of Metals from Aluminium Dross and Salt cake
+ |url=http://www.imp.mtu.edu/jmmce/issue5-1/P47-62.pdf
+ |journal=Journal of Minerals & Materials Characterization & Engineering
+ |volume=5 |issue=1 |page=47
+}}</ref> The process produces aluminium billets, together with a highly complex waste material. This waste is difficult to manage. It reacts with water, releasing a mixture of gases (including, among others, [[hydrogen]], [[acetylene]], and [[ammonia]]), which spontaneously ignites on contact with air;<ref>
+{{cite web
+ |title=Why are dross & saltcake a concern?
+ |url=http://www.experts123.com/q/why-are-dross-saltcake-a-concern.html|work=www.experts123.com
+}}</ref> contact with damp air results in the release of copious quantities of ammonia gas. Despite these difficulties, the waste has found use as a filler in [[asphalt]] and [[concrete]].<ref>
+{{cite web
+ |last1=Dunster |first1=A. M.
+ |date=2005
+ |title=Added value of using new industrial waste streams as secondary aggregates in both concrete and asphalt
+ |url=http://aggregain.wrap.org.uk/document.rm?id=1753
+ |publisher=[[Waste & Resources Action Programme]]
+|display-authors=etal}}</ref>
+
+==Compounds==
+{{Category see also|Aluminium compounds}}
+
+===Oxidation state +3===
+The vast majority of compounds, including all Al-containing minerals and all commercially significant aluminium compounds, feature aluminium in the oxidation state 3+. The [[coordination number]] of such compounds varies, but generally Al<sup>3+</sup> is six-coordinate or tetracoordinate. Almost all compounds of aluminium(III) are colorless.<ref name=Greenwood1997/>
+
+====Halides====
+All four trihalides are well known. Unlike the structures of the three heavier trihalides, [[aluminium fluoride]] (AlF<sub>3</sub>) features six-coordinate Al. The octahedral coordination environment for AlF<sub>3</sub> is related to the compactness of [[fluoride]] ion, six of which can fit around the small Al<sup>3+</sup> center. AlF<sub>3</sub> sublimes (with cracking) at {{convert|1291|°C|0|abbr=on}}. With heavier halides, the coordination numbers are lower. The other trihalides are dimeric or polymeric with tetrahedral Al centers. These materials are prepared by treating aluminium metal with the halogen, although other methods exist. Acidification of the oxides or hydroxides affords hydrates. In aqueous solution, the halides often form mixtures, generally containing six-coordinate Al centers, which are feature both halide and [[metal aquo complex|aquo ligands]]. When aluminium and fluoride are together in aqueous solution, they readily form complex ions such as {{chem|[AlF(H|2|O)|5|]|2+}}, {{chem|AlF|3|(H|2|O)|3}}, and {{chem|[AlF|6|]|3-}}. In the case of chloride, polyaluminium clusters are formed such as [Al<sub>13</sub>O<sub>4</sub>(OH)<sub>24</sub>(H<sub>2</sub>O)<sub>12</sub>]<sup>7+</sup>.
+
+====Oxide and hydroxides====
+Aluminium forms one stable oxide, known by its mineral name [[corundum]]. [[Sapphire]] and [[ruby]] are impure corundum contaminated with trace amounts of other metals. The two oxide-hydroxides, AlO(OH), are [[boehmite]] and [[diaspore]]. There are three trihydroxides: [[bayerite]], [[gibbsite]], and [[nordstrandite]], which differ in their crystalline structure ([[polymorphism (materials science)|polymorphs]]). Most are produced from ores by a variety of wet processes using acid and base. Heating the hydroxides leads to formation of corundum. These materials are of central importance to the production of aluminium and are themselves extremely useful.
+
+====Carbide, nitride, and related materials====
+[[Aluminium carbide]] (Al<sub>4</sub>C<sub>3</sub>) is made by heating a mixture of the elements above {{convert|1000|°C|0|abbr=on}}. The pale yellow crystals consist of tetrahedral aluminium centers. It reacts with water or dilute acids to give [[methane]]. The [[metal acetylide|acetylide]], Al<sub>2</sub>(C<sub>2</sub>)<sub>3</sub>, is made by passing [[acetylene]] over heated aluminium.
+
+[[Aluminium nitride]] (AlN) is the only nitride known for aluminium. Unlike the oxides it features tetrahedral Al centers. It can be made from the elements at {{convert|800|°C|0|abbr=on}}. It is air-stable material with a usefully high [[thermal conductivity]]. [[Aluminium phosphide]] (AlP) is made similarly, and hydrolyses to give [[phosphine]]:
+
+: AlP + 3 H<sub>2</sub>O → Al(OH)<sub>3</sub> + PH<sub>3</sub>
+
+===Organoaluminium compounds and related hydrides===
+{{main|Organoaluminium compound}}
+[[File:Trimethylaluminium-3D-balls.png|thumb|left|220px|Structure of [[trimethylaluminium]], a compound that features five-coordinate carbon.]]
+
+A variety of compounds of empirical formula AlR<sub>3</sub> and AlR<sub>1.5</sub>Cl<sub>1.5</sub> exist.<ref>
+{{cite book
+ |last1=Elschenbroich |first1=C.
+ |date=2006
+ |title=Organometallics
+ |publisher=[[Wiley-VCH]]
+ |isbn=978-3-527-29390-2
+}}</ref> These species usually feature tetrahedral Al centers, e.g. "[[trimethylaluminium]]" has the formula Al<sub>2</sub>(CH<sub>3</sub>)<sub>6</sub> (see figure). With large organic groups, triorganoaluminium exist as three-coordinate monomers, such as [[triisobutylaluminium]]. Such compounds are widely used in industrial chemistry, despite the fact that they are often highly [[pyrophoric]]. Few analogues exist between organoaluminium and organoboron compounds except for large organic groups.
+
+The important aluminium hydride is [[lithium aluminium hydride]] (LiAlH<sub>4</sub>), which is used in as a reducing agent in [[organic chemistry]]. It can be produced from [[lithium hydride]] and aluminium trichloride:
+
+: 4 LiH + AlCl<sub>3</sub> → LiAlH<sub>4</sub> + 3 LiCl
+
+Several useful derivatives of LiAlH<sub>4</sub> are known, e.g. [[Red-Al|sodium bis(2-methoxyethoxy)dihydridoaluminate]]. The simplest hydride, [[aluminium hydride]] or alane, remains a laboratory curiosity. It is a polymer with the formula (AlH<sub>3</sub>)<sub>''n''</sub>, in contrast to the corresponding boron hydride with the formula (BH<sub>3</sub>)<sub>2</sub>.
+
+===Oxidation states +1 and +2===
+Although the great majority of aluminium compounds feature Al<sup>3+</sup> centers, compounds with lower oxidation states are known and sometime of significance as precursors to the Al<sup>3+</sup> species.
+
+====Aluminium(I)====
+AlF, AlCl and AlBr exist in the gaseous phase when the trihalide is heated with aluminium. The composition AlI is unstable at room temperature with respect to the triiodide:<ref name=al1/>
+
+: 3 AlI → AlI<sub>3</sub> + 2 Al
+
+A stable derivative of aluminium monoiodide is the cyclic [[adduct]] formed with [[triethylamine]], Al<sub>4</sub>I<sub>4</sub>(NEt<sub>3</sub>)<sub>4</sub>. Also of theoretical interest but only of fleeting existence are Al<sub>2</sub>O and Al<sub>2</sub>S. Al<sub>2</sub>O is made by heating the normal oxide, Al<sub>2</sub>O<sub>3</sub>, with silicon at {{convert|1800|°C|0|abbr=on}} in a [[vacuum]].<ref name=al1>
+{{cite journal
+ |last1=Dohmeier |first1=C.
+ |last2=Loos |first2=D.
+ |last3=Schnöckel |first3=H.
+ |date=1996
+ |title=Aluminum(I) and Gallium(I) Compounds: Syntheses, Structures, and Reactions
+ |journal=[[Angewandte Chemie International Edition]]
+ |volume=35 |issue=2 |pages=129–149
+ |doi=10.1002/anie.199601291
+}}</ref> Such materials quickly [[disproportionation|disproportionates]] to the starting materials.
+
+====Aluminium(II)====
+Very simple Al(II) compounds are invoked or observed in the reactions of Al metal with oxidants. For example, [[aluminium monoxide]], AlO, has been detected in the gas phase after explosion<ref>
+{{cite journal
+ |last1=Tyte |first1=D. C.
+ |date=1964
+ |title=Red (B2Π–A2σ) Band System of Aluminium Monoxide
+ |journal=[[Nature (journal)|Nature]]
+ |volume=202 |issue=4930 |pages=383–384
+ |bibcode=1964Natur.202..383T
+ |doi=10.1038/202383a0
+}}</ref> and in stellar absorption spectra.<ref>
+{{cite journal
+ |last1=Merrill |first1=P. W.
+ |last2=Deutsch |first2=A. J.
+ |last3=Keenan |first3=P. C.
+ |date=1962
+ |title=Absorption Spectra of M-Type Mira Variables
+ |journal=[[The Astrophysical Journal]]
+ |volume=136 |page=21
+ |bibcode=1962ApJ...136...21M
+ |doi=10.1086/147348
+}}</ref> More thoroughly investigated are compounds of the formula R<sub>4</sub>Al<sub>2</sub> which contain an Al-Al bond and where R is a large organic [[ligand]].<ref>
+{{cite journal
+ |last=Uhl |first=W.
+ |date=2004
+ |title=Organoelement Compounds Possessing Al—Al, Ga—Ga, In—In, and Tl—Tl Single Bonds
+ |journal=Advances in Organometallic Chemistry
+ |volume=51 |pages=53–108
+ |doi=10.1016/S0065-3055(03)51002-4
+ |isbn=0-12-031151-8
+ |series=Advances in Organometallic Chemistry
+}}</ref>
+
+===Analysis===
+The presence of aluminium can be detected in qualitative analysis using [[aluminon]].
+
+==Applications==
+{{Refimprove section|date=August 2014}}
+[[File:Aluminium bar surface etched.jpg|thumb|250px|right|Etched surface from a high purity (99.9998%) aluminium bar, size 55×37 mm]]
+
+===General use===
+Aluminium is the most widely used [[non-ferrous metal]].<ref>
+{{cite encyclopedia
+ |title=Aluminum
+ |url=http://www.britannica.com/EBchecked/topic/17944/aluminum-Al
+ |encyclopedia=[[Encyclopædia Britannica]]
+ |accessdate=6 March 2012
+}}</ref> Global production of aluminium in 2005 was 31.9 million tonnes. It exceeded that of any other metal except [[iron]] (837.5 million tonnes).<ref>
+{{cite book
+ |last1=Hetherington |first1=L. E.
+ |date=2007
+ |title=World Mineral Production: 2001–2005
+ |url=http://www.bgs.ac.uk/downloads/start.cfm?id=1417
+ |publisher=[[British Geological Survey]]
+ |isbn=978-0-85272-592-4
+}}</ref> Forecast for 2012 is 42–45 million tonnes, driven by rising Chinese output.<ref>
+{{cite news
+ |date=23 November 2009
+ |title=Rising Chinese Costs to Support Aluminum Prices
+ |url=http://www.bloomberg.com/apps/news?pid=20602013&sid=avBxcmX9rI1Y
+ |work=[[Bloomberg News]]
+}}</ref>
+
+Aluminium is almost always alloyed, which markedly improves its mechanical properties, especially when [[tempering (metallurgy)|tempered]]. For example, the common [[aluminium foil]]s and beverage cans are alloys of 92% to 99% aluminium.<ref>
+{{cite web
+ |last1=Millberg |first1=L. S.
+ |title=Aluminum Foil
+ |work=How Products are Made
+ |volume=1
+ |url=http://www.madehow.com/Volume-1/Aluminum-Foil.html
+ |accessdate=11 August 2007
+| archiveurl= http://web.archive.org/web/20070713102210/http://www.madehow.com/Volume-1/Aluminum-Foil.html| archivedate= 13 July 2007 <!--DASHBot-->| deadurl= no}}</ref> The main [[alloying]] agents are copper, [[zinc]], [[magnesium]], [[manganese]], and [[silicon]] (e.g., [[duralumin]]) and the levels of these other metals are in the range of a few percent by weight.<ref>
+{{cite book
+ |last1=Lyle |first1=J. P.
+ |last2=Granger |first2=D. A.
+ |last3=Sanders |first3=R. E.
+ |date=2005
+ |chapter=Aluminum Alloys
+ |title=[[Ullmann's Encyclopedia of Industrial Chemistry]]
+ |publisher=[[Wiley-VCH]]
+ |doi=10.1002/14356007.a01_481
+}}</ref>
+
+[[File:aluminumfoil.jpg|thumb|Household [[aluminium foil]]]]
+[[File:Austin A40 Roadster ca 1951.jpg|thumb|Aluminium-bodied [[Austin A40 Sports|Austin ''"A40 Sports"'']] (c. 1951)]]
+[[File:AluminumSlab.JPG|thumb|Aluminium slabs being transported from a smelter]]
+
+Some of the many uses for aluminium metal are in:
+* Transportation ([[automobile]]s, aircraft, [[truck]]s, [[railway car]]s, marine vessels, [[bicycle]]s, spacecraft, etc.) as sheet, tube, castings, etc.
+* Packaging ([[aluminium can|cans]], foil, frame of etc.)
+* Construction ([[window]]s, [[door]]s, [[siding]], building wire, etc.).<ref>
+{{cite web
+ |title=Sustainability of Aluminium in Buildings
+ |url=http://www.wicona.ch/upload/24268/Sustainability%20of%20Aluminium%20Buildings.pdf
+ |publisher=European Aluminium Association
+ |accessdate=6 March 2012
+}}</ref>
+* A wide range of household items, from [[cooking utensil]]s to [[baseball bat]]s, watches.<ref>
+{{cite web
+ |title=Materials in Watchmaking – From Traditional to Exotic
+ |url=http://watches.infoniac.com/index.php?page=post&id=62
+ |work=Watches
+ |publisher=Infoniac.com
+ |accessdate=6 June 2009
+}}</ref>
+* Street lighting poles, sailing ship [[mast (sailing)|masts]], [[walking pole]]s, etc.
+* Outer shells of consumer electronics, also cases for equipment e.g. photographic equipment, [[MacBook Pro]]'s casing
+* [[Electrical transmission line]]s for power distribution ("creep" and oxidation are not issues in this application as the terminations are usually multi-sided "crimps" which enclose all sides of the conductor with a gas-tight seal)
+* [[MKM steel]] and [[Alnico]] magnets
+* Super purity aluminium (SPA, 99.980% to 99.999% Al), used in electronics and [[compact disc|CDs]], and also in wires/cabling.
+* [[Heat sink]]s for electronic appliances such as [[transistor]]s and [[Central processing unit|CPUs]].
+* Substrate material of [[metal-core copper clad laminates]] used in high brightness [[LED lighting]].
+* Powdered aluminium is used in [[paint]], and in [[pyrotechnics]] such as [[solid rocket]] fuels and [[thermite]].
+* Aluminium reacts with hydrochloric acid or with [[sodium hydroxide]] to produce hydrogen gas.
+* Aluminium is used to make food containers, because of its resistance to corrosion.
+* Aluminium with magnesium [alloy] is used to make body of aircraft.
+* Aluminium with other metals, used to make railway tracks.{{citation needed|date=March 2015}}
+* Aluminium is used to make cooking utensils, because it is resistant to corrosion, and light-weight.
+* A variety of countries, including [[France]], [[Italy]], [[Poland]], [[Finland]], [[Romania]], [[Israel]], and the former [[Yugoslavia]], have issued [[coin]]s struck in aluminium or aluminium-copper alloys.<ref>
+{{cite journal
+ |title=World's coinage uses 24 chemical elements, Part 1
+ |journal=World Coin News
+ |date=17 February 1992
+}}</ref><ref>
+{{cite journal
+ |title=World's coinage uses 24 chemical elements, Part 2
+ |journal=World Coin News
+ |date=2 March 1992
+}}</ref>
+* Some guitar models sport aluminium diamond plates on the surface of the instruments, usually either chrome or black. [[Kramer Guitars]] and [[Travis Bean]] are both known for having produced guitars with necks made of aluminium, which gives the instrument a very distinctive sound.
+
+Aluminium is usually alloyed – it is used as pure metal only when corrosion resistance and/or workability is more important than strength or hardness. Aluminium-based alloys abruptly increase their strength characteristics with small additions of scandium, as well as zirconium and hafnium.<ref>{{cite journal|last1=Skachkov|first1=V. M.|last2=Pasechnik|first2=L. A.|last3=Yatsenko|first3=S.P.|title=Introduction of scandium, zirconium and hafnium into aluminum alloys. Dispersion hardening of intermetallic compounds with nanodimensional particles|journal=Nanosystems: physics, chemistry, mathematics|date=2014|volume=5|issue=4|url=http://nanojournal.ifmo.ru/en/wp-content/uploads/2014/08/NPCM54P603.pdf}}</ref>  A thin layer of aluminium can be deposited onto a flat surface by [[physical vapor deposition]] or (very infrequently) [[chemical vapor deposition]] or other chemical means{{which|date=March 2015}} to form [[optical coating]]s and [[mirror]]s.
+
+===Aluminium compounds===
+Because aluminium is abundant and most of its derivatives exhibit low toxicity, the compounds of aluminium enjoy wide and sometimes large-scale applications.
+
+====Alumina====
+{{main|Aluminium oxide}}
+[[Aluminium oxide]] (Al<sub>2</sub>O<sub>3</sub>) and the associated oxy-hydroxides and trihydroxides are produced or extracted from minerals on a large scale. The great majority of this material is converted to metallic aluminium. In 2013 about 10% of the domestic shipments in the United States were used for other applications.<ref name="myb2012">
+{{cite web
+ |url=http://minerals.usgs.gov/minerals/pubs/commodity/bauxite/myb1-2012-bauxi.pdf
+ |title=Minerals Yearbook Bauxite and Alumina
+ |publisher=[[USGS]]
+ |accessdate=8 August 2014
+}}</ref> A major use is as an absorbent. For example, alumina removes water from hydrocarbons, which enables subsequent processes that are poisoned by moisture. Aluminium oxides are common catalysts for industrial processes, e.g. the [[Claus process]] for converting [[hydrogen sulfide]] to sulfur in [[refineries]] and for the [[alkylation]] of [[amine]]s. Many industrial catalysts are [[catalyst support|"supported"]], meaning generally that an expensive catalyst (e.g., [[platinum]]) is dispersed over a high surface area material such as alumina. Being a very hard material ([[Mohs hardness]] 9), alumina is widely used as an abrasive and the production of applications that exploit its inertness, e.g., in [[high pressure sodium]] lamps.
+
+====Sulfates====
+Several sulfates of aluminium find applications. [[Aluminium sulfate]] (Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>·(H<sub>2</sub>O)<sub>18</sub>) is produced on the annual scale of several billions of kilograms. About half of the production is consumed in [[water treatment]]. The next major application is in the manufacture of paper. It is also used as a mordant, in [[fire extinguisher]]s, as a food additive ([[E number]] E173), in fireproofing, and in leather tanning. Aluminium ammonium sulfate, which is also called [[ammonium alum]], (NH<sub>4</sub>)Al(SO<sub>4</sub>)<sub>2</sub>·12H<sub>2</sub>O, is used as a [[mordant]] and in [[leather]] tanning.<ref name=Ullmann2>
+{{cite book
+ |last=Helmboldt |first=O.
+ |date=2007
+ |chapter=Aluminum Compounds, Inorganic
+ |title=[[Ullmann's Encyclopedia of Industrial Chemistry]]
+ |publisher=[[Wiley-VCH]]
+ |doi=10.1002/14356007.a01_527.pub2
+}}</ref> Aluminium potassium sulfate ([Al(K)](SO<sub>4</sub>)<sub>2</sub>)·(H<sub>2</sub>O)<sub>12</sub> is used similarly. The consumption of both alums is declining.
+
+====Chlorides====
+[[Aluminium chloride]] (AlCl<sub>3</sub>) is used in [[petroleum]] [[refining]] and in the production of synthetic [[rubber]] and polymers. Although it has a similar name, [[aluminium chlorohydrate]] has fewer and very different applications, e.g. as a hardening agent and an [[antiperspirant]]. It is an intermediate in the production of aluminium metal.
+
+====Niche compounds====
+{{citations needed|date=September 2015}}
+The many aluminium compounds with niche applications include [[aluminium acetate]], a [[salt (chemistry)|salt]] used in solution as an [[astringent]], [[aluminium borate]] (Al<sub>2</sub>O<sub>3</sub>·B<sub>2</sub>O<sub>3</sub>) and [[aluminium fluorosilicate]] (Al<sub>2</sub>(SiF<sub>6</sub>)<sub>3</sub>) which are used in the production of [[glass]] and [[ceramic]]s and synthetic [[gemstone]]s and [[aluminium phosphate]] (AlPO<sub>4</sub>) used in the manufacture of glass, ceramic, [[Wood pulp|pulp]] and paper products, [[cosmetics]], paints and [[varnish]]es and in making dental [[cement]]. [[Aluminium hydroxide]] (Al(OH)<sub>3</sub>) is used as an [[antacid]], as a mordant, in [[water]] purification, in the manufacture of glass and ceramic and in the waterproofing of fabrics. [[Lithium aluminium hydride]] is a powerful reducing agent used in [[organic chemistry]]. [[Organoaluminium chemistry|Organoaluminiums]] are used as [[Lewis acid]]s and cocatalysts. For example, [[methylaluminoxane]] is a cocatalyst for [[Ziegler-Natta]] [[olefin]] [[polymerization]] to produce [[vinyl polymer]]s such as [[polyethene]]. Aqueous aluminium ions (such as found in aqueous aluminium sulfate) are used to treat against fish parasites such as ''[[Gyrodactylus salaris]]''. In many vaccines, certain aluminium salts serve as an immune [[Immunologic adjuvant|adjuvant]] (immune response booster) to allow the protein in the vaccine to achieve sufficient potency as an immune stimulant.
+
+===Aluminium alloys in structural applications===
+{{Main|Aluminium alloy}}
+[[File:Aluminium foam.jpg|thumb|[[Aluminium foam]]]]
+{{unreferenced section|date=August 2014}}
+Aluminium alloys with a wide range of properties are used in engineering structures. Alloy systems are classified by a number system ([[American National Standards Institute|ANSI]]) or by names indicating their main alloying constituents ([[DIN]] and [[International Organization of Standardization|ISO]]).
+
+The strength and durability of aluminium alloys vary widely, not only as a result of the components of the specific alloy, but also as a result of heat treatments and manufacturing processes. A lack of knowledge of these aspects has from time to time led to improperly designed structures and gained aluminium a bad reputation.
+
+One important structural limitation of aluminium alloys is their [[fatigue (material)|fatigue]] strength. Unlike steels, aluminium alloys have no well-defined [[fatigue limit]], meaning that fatigue failure eventually occurs, under even very small cyclic loadings. This implies that engineers must assess these loads and design for a [[Fatigue (material)#Design against fatigue|fixed life]] rather than an infinite life.
+
+Another important property of aluminium alloys is their sensitivity to heat. Workshop procedures involving heating are complicated by the fact that aluminium, unlike steel, melts without first glowing red. Forming operations where a [[blow torch]] is used therefore require some expertise, since no visual signs reveal how close the material is to melting. Aluminium alloys, like all structural alloys, also are subject to internal stresses following heating operations such as welding and casting. The problem with aluminium alloys in this regard is their low [[melting point]], which make them more susceptible to distortions from thermally induced stress relief. Controlled stress relief can be done during manufacturing by heat-treating the parts in an oven, followed by gradual cooling—in effect [[annealing (metallurgy)|annealing]] the stresses.
+
+The low melting point of aluminium alloys has not precluded their use in rocketry; even for use in constructing combustion chambers where gases can reach 3500&nbsp;K. The [[RM-81 Agena|Agena]] upper stage engine used a regeneratively cooled aluminium design for some parts of the nozzle, including the thermally critical throat region.
+
+Another alloy of some value is [[aluminium bronze]] (Cu-Al alloy).
+
+==History==
+[[File:Eros-piccadilly-circus.jpg|thumb|right|The statue of the [[Anteros]] in [[Piccadilly Circus]], London, was made in 1893 and is one of the first statues cast in aluminium.]]
+
+Ancient [[Ancient Greece|Greeks]] and [[Ancient Rome|Romans]] used aluminium salts as dyeing mordants and as astringents for dressing wounds; [[alum]] is still used as a [[styptic]].
+<!--
+There is reason to believe that Romans stumbled on a technique to refine aluminum, but that the technique was lost. [[Pliny the Elder]] recounts in [[Natural History (Pliny)|Historia Naturalis]] the following tale, which has been interpreted<ref>
+{{cite web
+ |title=Aluminium in history
+ |url=http://www.world-aluminium.org/?pg=13
+ |publisher=[[International Aluminium Institute]]
+ |accessdate=6 March 2012
+}}</ref> as referring to aluminum:
+
+<blockquote>
+"One day a goldsmith in Rome was allowed to show the Emperor [[Tiberius]] a dinner plate of a new metal. The plate was very light, and almost as bright as silver. The goldsmith told the Emperor that he had made the metal from plain clay. He also assured the Emperor that only he, himself, and the Gods knew how to produce this metal from clay. The Emperor became very interested, and as a financial expert he was also a little concerned. The Emperor felt immediately, however, that all his treasures of gold and silver would decline in value if people started to produce this bright metal of clay. Therefore, instead of giving the goldsmith the regard expected, he ordered him to be beheaded."
+</blockquote>
+-->
+In 1761, [[Guyton de Morveau]] suggested calling the base alum ''alumine.'' In 1808, [[Humphry Davy]] identified the existence of a metal base of alum, which he at first termed ''alumium'' and later ''aluminum'' (see [[#Etymology|etymology section]], below).
+
+The metal was first produced in 1825 in an impure form by [[Denmark|Danish]] physicist and chemist [[Hans Christian Ørsted]]. He reacted [[anhydrous]] [[aluminium chloride]] with [[potassium]] [[amalgam (chemistry)|amalgam]], yielding a lump of metal looking similar to tin.<ref name="woehler">
+{{cite journal
+ |last=Wöhler |first=F.
+ |date=1827
+ |title=Űber das Aluminium
+ |journal=[[Annalen der Physik und Chemie]]
+ |volume=11 |pages=146–161
+}}</ref> [[Friedrich Wöhler]] was aware of these experiments and cited them, but after redoing the experiments of Ørsted he concluded that this metal was pure potassium. He conducted a similar experiment in 1827 by mixing anhydrous aluminium chloride with potassium and yielded aluminium.<ref name="woehler"/> Wöhler is generally credited with isolating aluminium ([[Latin]] ''alumen'', alum). Further, [[Pierre Berthier]] discovered aluminium in bauxite ore. [[Henri Etienne Sainte-Claire Deville]] improved Wöhler's method in 1846. As described in his 1859 book, aluminium trichloride could be reduced by sodium, which was more convenient and less expensive than potassium used by Wöhler.<ref>
+{{cite book
+ |last=Sainte-Claire Deville |first=H. E.
+ |date=1859
+ |url=http://books.google.com/books?id=rCoKAAAAIAAJ
+ |title=De l'aluminium, ses propriétés, sa fabrication
+ |publisher=Mallet-Bachelier
+ |location=Paris
+}}</ref> <!--WHO KNOWS? Deville likely also conceived the idea of the [[electrolysis]] of aluminium oxide dissolved in cryolite, and [[Charles Martin Hall]] and [[Paul Héroult]] might have developed the more practical process after Deville.-->
+In the mid-1880s, aluminium metal was exceedingly difficult to produce, which made pure aluminium more valuable than gold.<ref>
+{{cite book
+ |last1=Polmear |first1=I. J.
+ |date=2006
+ |chapter=Production of Aluminium
+ |url=http://books.google.com/?id=td0jD4it63cC&pg=PT29
+ |title=Light Alloys from Traditional Alloys to Nanocrystals
+ |pages=15–16
+ |publisher=[[Elsevier]]/[[Butterworth-Heinemann]]
+ |isbn=978-0-7506-6371-7
+}}</ref> So celebrated was the metal that bars of aluminium were exhibited at the [[Exposition Universelle (1855)|Exposition Universelle of 1855]].<ref>
+{{cite journal
+ |last=Karmarsch |first=C.
+ |date=1864
+ |title=Fernerer Beitrag zur Geschichte des Aluminiums
+ |url=http://books.google.com/?id=v4MtAAAAYAAJ&pg=PA49
+ |journal=Polytechnisches Journal
+ |volume=171 |issue=1 |pages=49
+ }}</ref> [[Napoleon III of France]] is reputed to have held a banquet where the most honored guests were given aluminium utensils, while the others made do with gold.<ref>
+{{cite journal
+ |last1=Venetski |first1=S.
+ |date=1969
+ |title="Silver" from clay
+ |journal=Metallurgist
+ |volume=13 |issue=7 |pages=451–453
+ |doi=10.1007/BF00741130
+}}</ref><ref>
+{{cite journal
+ |date=October 1990
+ |title=Friedrich Wohler's Lost Aluminum
+ |journal=ChemMatters
+|page=14
+}}</ref>
+
+Aluminium was selected as the material to use for the {{convert|100|oz|kg}} capstone of the [[Washington Monument]] in 1884, a time when one [[ounce]] (30&nbsp;grams) cost the daily wage of a common worker on the project (in 1884 about $1 for 10 hours of labor; today, a construction worker in the US working on such a project might earn $25–$35 per hour and therefore around $300 in an equivalent single 10-hour day).<ref name=Binczewski1995>
+{{cite journal
+ |last1=Binczewski |first1=G. J.
+ |date=1995
+ |title=The Point of a Monument: A History of the Aluminum Cap of the Washington Monument
+ |url=http://www.tms.org/pubs/journals/JOM/9511/Binczewski-9511.html
+ |journal=[[JOM (journal)|JOM]]
+ |volume=47 |issue=11 |pages=20–25
+ |doi=10.1007/BF03221302
+|bibcode = 1995JOM....47k..20B }}</ref> The capstone, which was set in place on 6 December 1884 in an elaborate dedication ceremony, was the largest single piece of aluminium cast at the time.<ref name=Binczewski1995/>
+
+The [[Electric Smelting and Aluminum Company|Cowles companies]] supplied aluminium alloy in quantity in the [[United States]] and England using [[smelting|smelters]] like the furnace of [[Carl Wilhelm Siemens]] by 1886.<ref>
+{{cite journal
+ |date=1886
+ |title=Cowles' Aluminium Alloys
+ |journal=The Manufacturer and Builder
+ |volume=18 |issue=1 |page=13
+ |url=http://moa.cit.cornell.edu/cgi-bin/moa/pageviewer?frames=1&coll=moa&view=50&root=%2Fmoa%2Fmanu%2Fmanu0018%2F&tif=00019.TIF
+ |accessdate=6 March 2012
+}}</ref><ref>
+{{cite book
+ |last1=McMillan |first1=W. G.
+ |date=1891
+ |title=A Treatise on Electro-Metallurgy
+ |publisher=London: Charles Griffin and Company, Philadelphia: [[J. B. Lippincott & Co.|J. B. Lippincott Company]]
+ |url=http://books.google.com/?id=DDAKAAAAIAAJ&pg=PA302
+ |pages=302–305
+ |accessdate=26 October 2007
+}}</ref><ref>
+{{cite book
+ |last1=Sackett |first1=W. E.
+ |last2=Scannell |first2=J. J.
+ |last3=Watson |first3=M. E.
+ |date=1917
+ |title=Scannel's New Jersey's First Citizens and State Guide
+ |url=http://books.google.com/?id=cNgDAAAAYAAJ&pg=PA103
+ |publisher=J.J. Scannell
+ |pages=103–105
+ |accessdate=25 October 2007
+}}</ref>
+
+===Hall-Heroult process: availability of cheap aluminium metal===
+[[Charles Martin Hall]] of [[Ohio]] in the U.S. and [[Paul Héroult]] of [[France]] independently developed the [[Hall-Heroult process|Hall-Héroult electrolytic process]] that facilitated large-scale production of metallic aluminium. This process remains in use today.<ref name="Hall-patent">
+{{US patent reference
+ |inventor=[[Charles Martin Hall]]
+ |y=1889 |m=04 |d=02
+ |title=Process of Reducing Aluminium from its Fluoride Salts by Electrolysis
+ |number=400664
+}}</ref> In 1888, with the financial backing of [[Alfred E. Hunt]], the Pittsburgh Reduction Company started; today it is known as [[Alcoa]]. Héroult's process was in production by 1889 in [[Switzerland]] at Aluminium Industrie, now [[Alcan]], and at [[British Aluminium]], now [[Luxfer Group]] and Alcoa, by 1896 in [[Scotland]].<ref name="Wallace">
+{{cite book
+ |last1=Wallace |first1=D. H.
+ |date=1977
+ |origyear=1937
+ |title=Market Control in the Aluminum Industry
+ |url=http://books.google.com/?id=E-acdJWbo90C&pg=PA6
+ |page=6 |edition=Reprint
+ |publisher=Arno Press
+ |isbn=0-405-09786-7
+}}</ref>
+
+By 1895, the metal was being used as a building material as far away as [[Sydney]], Australia in the dome of the [[Chief Secretary's Building]].
+
+With the explosive expansion of the airplane industry during World War I (1914-1917), major governments demanded large shipments of aluminium for light, strong airframes. They often subsidized factories and the necessary electrical supply systems.<ref>Mats Ingulstad, "‘We Want Aluminum, No Excuses’: Business-Government Relations in the American Aluminum Industry, 1917–1957," in ''From Warfare to Welfare: Business-Government Relations in the Aluminium Industry,'' ed. Mats Ingulstad and Hans Otto Frøland, 33–68. (Oslo: Tapir Academic Press, 2012.)</ref>
+
+Many navies have used an aluminium [[superstructure]] for their vessels; the 1975 fire aboard [[USS Belknap (CG-26)|USS ''Belknap'']] that gutted her aluminium superstructure, as well as observation of battle damage to British ships during the [[Falklands War]], led to many navies switching to all [[steel]] superstructures.
+
+[[Aluminium wire]] was once widely used for domestic electrical wiring (feeders and branch circuits). Owing to "[[Creep (deformation)|creep]]" and corrosion-induced failures, a number of fires resulted. However, aluminum is still employed for services, where special terminations are provided.
+
+==Etymology==
+
+The various names all derive from its status as a base of [[alum]]. It is [[Loanword|borrowed]] from [[Old French]]; its ultimate source, ''alumen'', in turn is a [[Latin]] word that literally means "bitter salt".<ref>{{cite web |url=http://www.etymonline.com/index.php?search=Alum&searchmode=none |title=Online Etymology Dictionary |publisher=Etymonline.com |accessdate=3 May 2010}}</ref>
+
+Two variants of the metal's name are in current use, ''aluminium'' ({{IPAc-en|pron|ˌ|æ|l|j|ʊ|ˈ|m|ɪ|n|i|ə|m|}}) and ''aluminum'' ({{IPAc-en|ə|ˈ|l|uː|m|ɪ|n|ə|m}})—besides the obsolete ''alumium''. The [[International Union of Pure and Applied Chemistry]] (IUPAC) adopted ''aluminium'' as the standard international name for the element in 1990 but, three years later, recognized ''aluminum'' as an acceptable variant. Hence their periodic table includes both.<ref>[http://www.iupac.org/highlights/periodic-table-of-the-elements.html IUPAC Periodic Table of the Elements]. iupac.org</ref> IUPAC internal publications use either spelling in nearly the same number.<ref>[http://www.google.com/search?q=aluminum&sitesearch=iupac.org IUPAC Web site publication search for 'aluminum'].</ref>
+
+=== Different endings ===
+
+Most countries use the ending "-ium" for "aluminium". In the United States and Canada, the ending "-um" predominates.<ref name=Greenwood1997/><ref>Bremner, John ''Words on Words: A Dictionary for Writers and Others Who Care about Words'', pp. 22–23. ISBN 0-231-04493-3.</ref> The [[Canadian Oxford Dictionary]] prefers ''aluminum'', whereas the Australian [[Macquarie Dictionary]] prefers ''aluminium''. In 1926, the [[American Chemical Society]] officially decided to use ''aluminum'' in its publications; American dictionaries typically label the spelling ''aluminium'' as "chiefly British".<ref>{{cite web |url=http://www.merriam-webster.com/dictionary/aluminium |title= Aluminium - Definition and More from the Free Merriam-Webster Dictionary |accessdate=23 July 2013}}</ref><ref>
+{{cite web 
+| title = aluminium - Definition of aluminium (Webster's New World and American Heritage Dictionary)
+| url = http://www.yourdictionary.com/aluminium 
+| accessdate = 23 July 2013 
+ }}
+</ref>
+The earliest citation given in the [[Oxford English Dictionary]] for any word used as a name for this element is ''alumium'', which British chemist and inventor [[Humphry Davy]] employed in 1808 for the metal he was trying to isolate electrolytically from the mineral ''[[alumina]]''. The citation is from the journal ''Philosophical Transactions of the Royal Society of London'': "Had I been so fortunate as to have obtained more certain evidences on this subject, and to have procured the metallic substances I was in search of, I should have proposed for them the names of silicium, alumium, zirconium, and glucium."<ref>"alumium", ''Oxford English Dictionary''. Ed. J.A. Simpson and E.S.C. Weiner, second edition Oxford: Clarendon Press, 1989. OED Online Oxford University Press. Accessed 29 October 2006. Citation is listed as "1808 SIR H. DAVY in Phil. Trans. XCVIII. 353". The ellipsis in the quotation is as it appears in the ''OED'' citation.</ref><ref>
+{{Cite journal
+| title = Electro Chemical Researches, on the Decomposition of the Earths; with Observations on the Metals obtained from the alkaline Earths, and on the Amalgam procured from Ammonia
+| url = http://books.google.com/?id=Kg9GAAAAMAAJ&pg=RA1-PA353
+| date = 1808
+| journal = Philosophical Transactions of the Royal Society
+| page = 353
+| volume = 98
+| last1=Davy |first1 = Humphry
+| accessdate = 10 December 2009
+| publisher = Royal Society of London.
+| doi = 10.1098/rstl.1808.0023
+}}</ref>
+
+Davy settled on ''aluminum'' by the time he published his 1812 book ''Chemical Philosophy'': "This substance appears to contain a peculiar metal, but as yet Aluminum has not been obtained in a perfectly free state, though alloys of it with other metalline substances have been procured sufficiently distinct to indicate the probable nature of alumina."<ref name=Davy1812>
+{{cite book
+| title = Elements of Chemical Philosophy
+| url = http://books.google.com/?id=d6Y5AAAAcAAJ&pg=PA355
+| date = 1812
+| author = Davy, Humphry
+| accessdate = 10 December 2009
+| isbn = 0-217-88947-6
+}}</ref> But the same year, an anonymous contributor to the ''[[Quarterly Review]],'' a British political-literary journal, in a review of Davy's book, objected to ''aluminum'' and proposed the name ''aluminium'', "for so we shall take the liberty of writing the word, in preference to aluminum, which has a less classical sound."<ref>
+{{Cite journal
+| title = Elements of Chemical Philosophy By Sir Humphry Davy
+| url = http://books.google.com/?id=uGykjvn032IC&pg=PA72
+| date = 1812
+| journal = Quarterly Review
+| page = 72
+| volume = VIII
+| accessdate = 10 December 2009
+| isbn = 0-217-88947-6
+| publisher = John Murray
+}}</ref>
+
+The ''-ium'' suffix conformed to the precedent set in other newly discovered elements of the time: potassium, sodium, magnesium, calcium, and [[strontium]] (all of which Davy isolated himself). Nevertheless, ''-um'' spellings for elements were not unknown at the time, as for example [[platinum]], known to Europeans since the 16th century, [[molybdenum]], discovered in 1778, and [[tantalum]], discovered in 1802. The ''-um'' suffix is consistent with the universal spelling [[alumina]] for the [[oxide]] (as opposed to aluminia), as [[lanthana]] is the oxide of [[lanthanum]], and [[magnesium oxide|magnesia]], [[ceria]], and [[thoria]] are the oxides of [[magnesium]], [[cerium]], and [[thorium]] respectively.
+
+The ''aluminum'' spelling is used in the [[Webster's Dictionary]] of 1828. In his advertising handbill for his new electrolytic method of producing the metal in 1892, [[Charles Martin Hall]] used the ''-um'' spelling, despite his constant use of the ''-ium'' spelling in all the patents<ref name="Hall-patent"/> he filed between 1886 and 1903. Hall's domination of production of the metal ensured that ''aluminum'' became the standard English spelling in North America.
+
+==Biology==
+[[File:Al absorption by skin.jpg|thumb|350px|Schematic of Al absorption by human skin.<ref name=health1>{{Cite journal
+ | doi = 10.1039/C3EM00374D
+| title = Human exposure to aluminium
+| journal = Environmental Science: Processes & Impacts
+| volume = 15
+| issue = 10
+| pages = 1807
+| year = 2013
+| last1 = Exley | first1 = C. 
+}}</ref>]]
+[[File:Al transport across human cells.jpg|350px|thumb|There are five major Al forms absorbed by human body: the free solvated trivalent cation (Al<sup>3+</sup><sub>(aq)</sub>); low-molecular-weight, neutral, soluble complexes (LMW-Al<sup>0</sup><sub>(aq)</sub>); high-molecular-weight, neutral, soluble complexes (HMW-Al<sup>0</sup><sub>(aq)</sub>); low-molecular-weight, charged, soluble complexes (LMW-Al(L)<sub>n</sub><sup>+/−</sup><sub>(aq)</sub>); nano and micro-particulates (Al(L)<sub>n(s)</sub>). They are transported across cell membranes or cell epi-/[[endothelia]] through five major routes: (1) [[paracellular]]; (2) [[transcellular]]; (3) [[active transport]]; (4) channels; (5) adsorptive or receptor-mediated [[endocytosis]].<ref name=health1/>]]
+
+Despite its widespread occurrence in nature, aluminium has no known function in biology. Aluminium salts are remarkably nontoxic, [[aluminium sulfate]] having an [[Median lethal dose|LD<sub>50</sub>]] of 6207&nbsp;mg/kg (oral, mouse), which corresponds to 500&nbsp;grams for an {{convert|80|kg|abbr=on}} person.<ref name=Ullmann/> The extremely low acute toxicity notwithstanding, the health effects of aluminium are of interest in view of the widespread occurrence of the element in the environment and in commerce.
+
+==Health concerns==
+Some toxicity can be traced to deposition in bone and the central nervous system, which is particularly increased in patients with reduced renal function. Because aluminium competes with calcium for absorption, increased amounts of dietary aluminium may contribute to the reduced skeletal mineralization (osteopenia) observed in preterm infants and infants with growth retardation. In very high doses, aluminium is associated with altered function of the [[blood–brain barrier]].<ref>{{cite journal |author = Banks, W.A. |date = 1989 |title = Aluminum-induced neurotoxicity: alterations in membrane function at the blood–brain barrier |journal = Neurosci Biobehav Rev |volume = 13 |issue = 1 |pages = 47–53 |doi = 10.1016/S0149-7634(89)80051-X |pmid = 2671833 |last2 = Kastin |first2 = AJ}}</ref> A small percentage of people are [[allergy|allergic]] to aluminium and experience [[contact dermatitis]], [[digestion|digestive]] disorders, [[vomiting]] or other symptoms upon contact or ingestion of products containing aluminium, such as [[antiperspirant]]s and antacids. In those without allergies, aluminium is not as toxic as [[heavy metals]], but there is evidence of some toxicity if it is consumed in amounts greater than 40&nbsp;mg/day per kg of [[body weight|body mass]].<ref name=Piero>{{cite journal |last=Dolara |first=Piero |date=July 21, 2014 |title=Occurrence, exposure, effects, recommended intake and possible dietary use of selected trace compounds (aluminium, bismuth, cobalt, gold, lithium, nickel, silver)|url=https://www.ncbi.nlm.nih.gov/pubmed/25045935|journal=International Journal of Food Sciences and Nutrition |publisher=Informa Plc.|issn=1465-3478 |doi=10.3109/09637486.2014.937801|accessdate=August 8, 2014 |volume=65 |pages=911–924}}</ref> Although the use of aluminium [[cookware]] has not been shown to lead to aluminium toxicity in general, excessive consumption of [[antacid]]s containing aluminium compounds and excessive use of aluminium-containing antiperspirants provide more significant exposure levels. Studies have shown that consumption of acidic foods or liquids with aluminium significantly increases aluminium absorption,<ref>{{cite journal | title=Dietary citric acid enhances absorption of aluminum in antacids | author = Slanina, P. |journal = Clinical Chemistry |volume = 32 |pages = 539–541 |date=1986 |publisher = American Association for Clinical Chemistry | pmid=3948402 | issue=3 | last2=French | first2=W | last3=Ekström | first3=LG | last4=Lööf | first4=L | last5=Slorach | first5=S | last6=Cedergren | first6=A}}</ref> and [[maltol]] has been shown to increase the accumulation of aluminium in nervous and osseous tissue.<ref>{{cite journal |pmid=8445293 |date=1993 |last1=Van Ginkel |first1=MF |last2=Van Der Voet |first2=GB |last3=D'haese |first3=PC |last4=De Broe |first4=ME |last5=De Wolff |first5=FA |title=Effect of citric acid and maltol on the accumulation of aluminum in rat brain and bone |volume=121 |issue=3 |pages=453–60 |journal=The Journal of laboratory and clinical medicine}}</ref> Furthermore, aluminium increases [[estrogen]]-related [[gene expression]] in human [[breast cancer]] cells cultured in the laboratory.<ref>{{cite journal |doi=10.1002/jat.1135 |title=Metalloestrogens: an emerging class of inorganic xenoestrogens with potential to add to the oestrogenic burden of the human breast |date=2006 |last1=Darbre |first1=P. D. |journal=Journal of Applied Toxicology |volume=26 |pages=191–7 |pmid=16489580 |issue=3}}</ref> The estrogen-like effects of these salts have led to their classification as a [[metalloestrogen]].
+
+The effects of aluminium in antiperspirants have been examined over the course of decades with little evidence of skin irritation.<ref name=Ullmann/> Nonetheless, its occurrence in antiperspirants, [[dyes]] (such as aluminium [[lake pigment|lake]]), and food additives has caused concern.<ref name="ReferenceA">{{cite journal |pmid= 18392545 |date= 2008 |last1= Ferreira |first1= PC |last2= Piai Kde |first2= A |last3= Takayanagui |first3= AM |last4= Segura-Muñoz |first4= SI |title= Aluminum as a risk factor for Alzheimer's disease |volume= 16 |issue= 1 |pages= 151–7 |journal= Revista Latino-americana de enfermagem |doi=10.1590/S0104-11692008000100023}}</ref> Although there is little evidence that normal exposure to aluminium presents a risk to healthy adults,<ref name="gitelman">Gitelman, H. J. [http://books.google.com/books?id=wRnOytsi8boC&pg=PA90 "Physiology of Aluminum in Man"], in ''Aluminum and Health'', CRC Press, 1988, ISBN 0-8247-8026-4, p. 90</ref> some studies point to risks associated with increased exposure to the metal.<ref name="ReferenceA"/> Aluminium in food may be absorbed more than aluminium from water.<ref name="Yokel2008">{{cite journal |author=Yokel RA |author2=Hicks CL |author3=Florence RL |title=Aluminum bioavailability from basic sodium aluminum phosphate, an approved food additive emulsifying agent, incorporated in cheese |journal=[[Food and Chemical Toxicology]] |volume=46 |issue=6 |pages=2261–6 |date=2008 |pmid=18436363 |doi=10.1016/j.fct.2008.03.004 |pmc=2449821}}</ref> It is classified as a non-carcinogen by the [[US Department of Health and Human Services]].<ref name="Piero" />
+
+In case of suspected sudden intake of a large amount of aluminium, [[deferoxamine mesylate]] may be given to help eliminate it from the body by [[chelation]].<ref>[http://www.med.nyu.edu/content?ChunkIID=164929 Aluminum Toxicity] from [[NYU Langone Medical Center]]. Last reviewed November 2012 by Igor Puzanov, MD</ref>
+
+=== Occupational safety ===
+Exposure to powdered aluminium or aluminium welding fumes can cause [[pulmonary fibrosis]]. The United States [[Occupational Safety and Health Administration]] (OSHA) has set a [[permissible exposure limit]] of 15&nbsp;mg/m<sup>3</sup> time weighted average (TWA) for total exposure and 5&nbsp;mg/m<sup>3</sup> TWA for respiratory exposure. The US [[National Institute for Occupational Safety and Health]] (NIOSH) [[recommended exposure limit]] is the same for respiratory exposure but is 10&nbsp;mg/m<sup>3</sup> for total exposure, and 5&nbsp;mg/m<sup>3</sup> for fumes and powder. Fine aluminium powder can ignite or explode, posing another workplace hazard.<ref>{{Cite web|title = CDC - NIOSH Pocket Guide to Chemical Hazards - Aluminum|url = http://www.cdc.gov/niosh/npg/npgd0022.html|website = www.cdc.gov|accessdate = 2015-06-11}}</ref><ref>{{Cite web|title = CDC - NIOSH Pocket Guide to Chemical Hazards - Aluminum (pyro powders and welding fumes, as Al)|url = http://www.cdc.gov/niosh/npg/npgd0023.html|website = www.cdc.gov|accessdate = 2015-06-11}}</ref>
+
+===Alzheimer's disease===
+Aluminium has controversially been implicated as a factor in [[Alzheimer's disease]].<ref name="Ferreira2008">{{cite journal |doi=10.1590/S0104-11692008000100023 |author=Ferreira PC |author2=Piai Kde A |author3=Takayanagui AM |author4=Segura-Muñoz SI |title=Aluminum as a risk factor for Alzheimer's disease |journal=Rev Lat Am Enfermagem |volume=16 |issue=1 |pages=151–7 |date=2008 |pmid=18392545 |url=http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-11692008000100023&lng=en&nrm=iso&tlng=en}}</ref>  According to the [[Alzheimer's Society]], the medical and scientific opinion is that studies have not convincingly demonstrated a causal relationship between aluminium and Alzheimer's disease.<ref name="alzheimersSociety">[http://alzheimers.org.uk/site/scripts/documents_info.php?documentID=99 Aluminium and Alzheimer's disease], The Alzheimer's Society. Retrieved 30 January 2009.</ref> Nevertheless, some studies, such as those on the [[PAQUID cohort]],<ref name="paquid">{{cite journal |doi=10.1093/aje/kwn348 |title=Aluminum and Silica in Drinking Water and the Risk of Alzheimer's Disease or Cognitive Decline: Findings From 15-Year Follow-up of the PAQUID Cohort |date=2008 |last1=Rondeau |first1=V. |last2=Jacqmin-Gadda |first2=H. |last3=Commenges |first3=D. |last4=Helmer |first4=C. |last5=Dartigues |first5=J.-F. |journal=American Journal of Epidemiology |volume=169 |pages=489–96 |pmid=19064650 |issue=4 |pmc=2809081}}</ref> cite aluminium exposure as a risk factor for Alzheimer's disease. Some [[senile plaques|brain plaques]] have been found to contain increased levels of the metal.<ref name="yumoto">{{cite journal |doi=10.1016/j.jinorgbio.2009.07.023 |title=Demonstration of aluminum in amyloid fibers in the cores of senile plaques in the brains of patients with Alzheimer's disease |date=2009 |last1=Yumoto |first1=Sakae |last2=Kakimi |first2=Shigeo |last3=Ohsaki |first3=Akihiro |last4=Ishikawa |first4=Akira |journal=Journal of Inorganic Biochemistry |volume=103 |pages=1579–84 |pmid=19744735 |issue=11}}</ref> Research in this area has been inconclusive; aluminium accumulation may be a consequence of the disease rather than a causal agent.<ref>{{cite web |publisher = National Institute of Environmental Health Sciences |title = Alzheimer's Disease and Aluminum |date=2005 |url = http://web.archive.org/web/20070203162913/http://www.niehs.nih.gov/external/faq/aluminum.htm}}</ref><ref>{{cite journal |author = Hopkin, Michael |title = Death of Alzheimer victim linked to aluminium pollution |doi = 10.1038/news060417-10 |date = 21 April 2006 |journal = News@nature}}</ref>
+
+==Effect on plants==
+<!-- Am hoping to fill up this section with a bit more chemistry when I come across it. If you feel that this does not deserve a sub-paragraph, thank you for moving it to the discussion page where I can come back to it as information comes -->
+Aluminium is primary among the factors that reduce plant growth on acid soils. Although it is generally harmless to plant growth in pH-neutral soils, the concentration in acid soils of toxic Al<sup>3+</sup> [[cation]]s increases and disturbs root growth and function.<ref>{{cite journal
+| title = Effect of aluminum on δ-aminolevulinic acid dehydratase (ALA-D) and the development of cucumber (Cucumis sativus)
+| first1 = Luciane |last1 = Belmonte Pereira |first2 = Luciane |last2 = Aimed Tabaldi |first3 = Jamile |last3 = Fabbrin Gonçalves |first4 = Gladis Oliveira |last4 = Jucoski |first5 = Mareni Maria |last5 = Pauletto |first6 = Simone |last6 = Nardin Weis |first7 = Fernando |last7 = Texeira Nicoloso |first8 = Denise |last8 = Brother |first9 = João |last9 = Batista Teixeira Rocha | first10=Maria Rosa Chitolina|last10=Chitolina Schetinger| journal = Environmental and experimental botany
+| volume = 57
+| issue = 1–2
+| pages = 106–115
+| date = 2006
+| doi = 10.1016/j.envexpbot.2005.05.004}}</ref><ref>{{cite journal
+| title = Toxicity and tolerance of aluminium in vascular plants
+| first = Maud
+| last = Andersson
+| journal = Water, Air, & Soil Pollution
+| volume = 39
+| issue = 3–4
+| pages = 439–462
+| date = 1988
+| doi = 10.1007/BF00279487}}</ref><ref>{{cite journal
+| title = The role of the apoplast in aluminium toxicity and resistance of higher plants: A review
+| first = Walter J.
+| last = Horst
+| journal = Zeitschrift für Pflanzenernährung und Bodenkunde
+| volume = 158
+| issue = 5
+| pages = 419–428
+| date = 1995
+| doi = 10.1002/jpln.19951580503}}</ref><ref>{{cite journal
+| title = Aluminium tolerance in plants and the complexing role of organic acids
+| first = Jian Feng
+| last = Ma
+| journal = Trends in Plant Science
+| volume = 6
+| issue = 6
+| pages = 273–278
+| date = 2001
+| doi = 10.1016/S1360-1385(01)01961-6
+| pmid = 11378470
+| last2 = Ryan
+| first2 = PR
+| last3 = Delhaize
+| first3 = E}}</ref>
+
+Most acid soils are saturated with aluminium rather than [[hydrogen ions]]. The acidity of the soil is therefore a result of [[hydrolysis]] of aluminium compounds.<ref>{{cite journal | author = Turner, R.C. | author2 = Clark J.S. | last-author-amp = yes | date = 1966 | title = Lime potential in acid clay and soil suspensions | journal = Trans. Comm. II & IV Int. Soc. Soil Science | pages = 208–215}}</ref> This concept of "corrected lime potential"<ref>{{cite web |url=http://sis.agr.gc.ca/cansis/glossary/c/index.html|title=corrected lime potential (formula) |publisher=Sis.agr.gc.ca |date=27 November 2008 |accessdate=3 May 2010}}</ref> to define the degree of base saturation in soils became the basis for procedures now used in [[soil testing]] laboratories to determine the "[[agricultural lime|lime]] requirement"<ref>{{cite news | url = http://journals.lww.com/soilsci/Citation/1965/07000/A_Study_of_the_Lime_Potential__5__Significance_of.3.aspx |title = A Study of the Lime Potential | author= Turner, R.C. |publisher = Research Branch, Department Of Agriculture | date =1965}}</ref> of soils.<ref>Applying lime to soils reduces the Aluminum toxicity to plants.
+{{cite web
+| title =One Hundred Harvests Research Branch Agriculture Canada 1886–1986
+| work = Historical series / Agriculture Canada – Série historique / Agriculture Canada
+| publisher = Government of Canada
+| url = http://epe.lac-bac.gc.ca/100/205/301/ic/cdc/agrican/pubweb/hs270060.asp
+| accessdate = 22 December 2008}}
+</ref>
+
+[[Wheat]]'s [[adaptation]] to allow aluminium tolerance is such that the aluminium induces a release of [[organic compound]]s that bind to the harmful aluminium [[cations]]. [[Sorghum]] is believed to have the same tolerance mechanism. The first gene for aluminium tolerance has been identified in wheat. It was shown that sorghum's aluminium tolerance is controlled by a single gene, as for wheat.<ref>{{cite journal | title = Comparative Mapping of a Major Aluminum Tolerance Gene in Sorghum and Other Species in the Poaceae | first8 = LV | last8 = Kochian | first7 = L | last7 = Li | first6 = RE | last6 = Schaffert | first5 = PE | last5 = Klein | first4 = ME | last4 = Sorrells | first3 = Y | last3 = Wang | first2 = DF | last2 = Garvin |author = Magalhaes, J. V. |journal = Genetics |volume = 167 | issue = 4 | date = 2004 | pmid = 15342528 | pmc = 1471010 | doi = 10.1534/genetics.103.023580 | pages = 1905–14}}</ref> This is not the case in all plants.
+
+== Biodegradation ==
+A Spanish scientific report from 2001 claimed that the fungus ''[[Geotrichum candidum]]'' consumes the aluminium in [[compact disc]]s.<ref>{{cite news|url=http://news.bbc.co.uk/2/hi/science/nature/1402533.stm|title=Fungus 'eats' CDs|date=June 2001|publisher=BBC}}</ref><ref>{{cite web|url=http://www.nature.com/news/1998/010628/full/news010628-11.html|title=Fungus eats CD|date=2001|journal=Nature}}</ref> However, other reports on it always refer back to the 2001 Spanish report and there is no supporting original research since that report. Better documented, the bacterium ''[[Pseudomonas aeruginosa]]'' and the fungus ''[[Cladosporium]] resinae'' are commonly detected in aircraft fuel tanks using kerosene-based fuels (not AV gas), and can degrade aluminium in cultures.<ref>{{cite journal|url=http://nzetc.victoria.ac.nz/tm/scholarly/tei-Bio19Tuat01-t1-body-d4.html|journal=Tuatara|title=STUDIES ON THE ‘KEROSENE FUNGUS’ CLADOSPORIUM RESINAE (LINDAU) DE VRIES — PART I. THE PROBLEM OF MICROBIAL CONTAMINATION OF AVIATION FUELS|page=29|author1=J. E. Sheridan|author2=Jan Nelson|author3=Y. L. Tan¬}}</ref> However, this is not a matter of the bacteria or fungi directly attacking or consuming the aluminium, but rather a result of the microbes' waste having a corrosive nature.<ref>{{cite web |publisher = Duncan Aviation |title = Fuel System Contamination & Starvation |date=2011 |url = http://www.duncanaviation.aero/intelligence/201102/fuel_starvation_system_contamination.php}}</ref>
+
+==See also==
+{{Colbegin|colwidth=20em}}
+* ''[[Aluminium: The Thirteenth Element]]''
+* [[Aluminium–air battery]]
+* [[Aluminium alloy]]
+* [[Aluminium foil]]
+* [[Aluminium granules]]
+* [[Aluminium hydroxide]]
+* [[Beverage can]]
+* [[Institute for the History of Aluminium]]
+* [[Panel edge staining]]
+* [[The Aluminum Association]]
+* [[Quantum clock]]
+* [[List of countries by aluminium production]]
+
+{{colend}}
+{{Subject bar
+| portal=Chemistry
+| book1=Aluminium
+| book2=Period 3 elements
+| book3=Boron group
+| book4=Chemical elements
+| commons=y
+| wikt=y
+| wikt-search=aluminium
+}}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+{{commons category|Aluminium}}
+* [http://www.periodicvideos.com/videos/013.htm Aluminium] at ''[[The Periodic Table of Videos]]'' (University of Nottingham)
+* [http://www.cdc.gov/niosh/npg/npgd0022.html CDC - NIOSH Pocket Guide to Chemical Hazards - Aluminum]
+* [http://electrochem.cwru.edu/encycl/art-a01-al-prod.htm Electrolytic production]
+* [http://www.indexmundi.com/en/commodities/minerals/aluminum/aluminum_table12.html World production of primary aluminium, by country]
+* [http://www.indexmundi.com/commodities/?commodity=aluminum&months=300 Price history of aluminum, according to the IMF]
+* [http://www.world-aluminium.org/About+Aluminium/Story+of/In+history History of Aluminium] – from the website of the International Aluminium Institute
+* [http://www.emedicine.com/med/topic113.htm Emedicine – Aluminium]
+* {{Internet Archive short film|id=gov.archives.arc.38661|name=ALUMINUM (1941)}}
+
+{{Aluminium compounds}}
+{{compact periodic table}}
+
+{{Authority control}}
+
+[[Category:Aluminium| ]]
+[[Category:Rocket fuels|Aluminium]]
+[[Category:Electrical conductors]]
+[[Category:Pyrotechnic fuels]]
+[[Category:Airship technology]]
+[[Category:Chemical elements]]
+[[Category:Post-transition metals]]
+[[Category:Reducing agents]]

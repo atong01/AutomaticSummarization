@@ -1,0 +1,979 @@
+{{Infobox writing system
+ |name=Arabic abjad
+ |type=[[Abjad]]
+ |languages= [[Arabic language|Arabic]]
+ |time=400 to the present
+|fam1=[[Egyptian hieroglyphs|Egyptian]]
+ |fam2=[[Proto-Sinaitic script|Proto-Sinaitic]]
+ |fam3=[[Phoenician alphabet|Phoenician]]
+ |fam4=[[Aramaic alphabet|Aramaic]]
+ |fam5=[[Syriac alphabet|Syriac]]
+ |fam6=[[Nabataean alphabet|Nabataean]]
+ |unicode=[http://www.unicode.org/charts/PDF/U0600.pdf U+0600 to U+06FF]<br />
+[http://www.unicode.org/charts/PDF/U0750.pdf U+0750 to U+077F]<br />
+[http://www.unicode.org/charts/PDF/U08A0.pdf U+08A0 to U+08FF]<br />
+[http://www.unicode.org/charts/PDF/UFB50.pdf U+FB50 to U+FDFF]<br />
+[http://www.unicode.org/charts/PDF/UFE70.pdf U+FE70 to U+FEFF]<br />
+[http://www.unicode.org/charts/PDF/U1EE00.pdf U+1EE00 to U+1EEFF]
+ |iso15924=Arab 
+ |sample=Arabic albayancalligraphy.svg
+ |imagesize=200px
+ }}
+{{Arabic alphabet}}
+{{alphabet}}
+{{contains Arabic text}}
+[[File:Arabic alphabet world distribution.png|thumb|400px|Countries that utilise the Arabic alphabet: {{Legend|#00884B|as the sole official script}}
+{{Legend|#83C30F|as a co-official script.}}]]
+
+The '''Arabic alphabet''' ({{lang-ar|الأَبْجَدِيَّة العَرَبِيَّة}} ''{{transl|ar|ALA|al-abjadīyah al-ʻarabīyah}}'' or {{lang|ar|الحُرُوف العَرَبِيَّة}} ''{{transl|ar|al-ḥurūf al-ʻarabīyah}}'') or '''Arabic [[abjad]]''' is the [[Arabic script]] as it is codified for writing the [[Arabic language]]. It is written from right to left, in a [[cursive]] style, and includes 28 letters. Because letters usually<ref>While there are ways to mark vowels, these are not always employed. Because of this, it is more exactly called an "impure abjad". See [[Impure abjad]] for a discussion of this nomenclature.</ref> stand for consonants, it is classified as an [[abjad]].
+
+==Consonants==
+The basic Arabic alphabet contains 28 [[letter (alphabet)|letters]]. Adaptations of the [[Arabic script]] for other languages added and removed some letters, as for [[Persian alphabet|Persian]], [[Kurdish language|Kurdish]] [[Ottoman Turkish language|Ottoman]], [[Sindhi language|Sindhi]], [[Urdu language|Urdu]], [[Jawi script|Malay]], [[Pashto language|Pashto]], and [[Arabi Malayalam]], all of which have additional letters as shown below. There are no distinct [[letter case|upper and lower case]] letter forms.
+
+Many letters look similar but are distinguished from one another by dots (''{{transl|ar|ALA|[[Arabic diacritics#I.27jam .28phonetic distinctions of consonants.29|i‘jām]]}}'') above or below their central part (''{{transl|ar|[[rasm]]}}''). These dots are an integral part of a letter, since they distinguish between letters that represent different sounds. For example, the Arabic letters transliterated as ''{{transl|ar|b}}'' and ''{{transl|ar|t}}'' have the same basic shape, but ''{{transl|ar|b}}'' has one dot below, {{lang|ar|ب}}, and ''{{transl|ar|t}}'' has two dots above, {{lang|ar|ت}}.
+
+Both printed and written Arabic are [[cursive]], with most of the letters within a word directly connected to the adjacent letters.
+
+===Alphabetical order===
+There are two main [[collation|collating sequences]] for the Arabic alphabet, abjad and hija.
+
+The original ''{{transl|ar|abjadī}}'' order ({{lang|ar|أَبْجَدِي}}), used for [[lettering]], derives from the order of the [[Phoenician alphabet]], and is therefore similar to the order of other Phoenician-derived alphabets, such as the [[Hebrew alphabet]]. In this order, letters are also used as numbers, [[Abjad numerals]], and possess the same alphanumeric code/[[cipher]] as Hebrew [[gematria]] and Greek [[isopsephy]].
+
+The ''{{transl|ar|hijā’ī}}'' ({{lang|ar|هِجَائِي}}) or ''{{transl|ar|ALA|alifbā’ī}}'' ({{lang|ar|أَلِفْبَائِي}}) order, used where lists of names and words are sorted, as in phonebooks, classroom lists, and dictionaries, groups letters by similarity of shape.
+
+==== Abjadī ====
+The ''{{transl|ar|abjadī}}'' order is not a simple historical continuation of the earlier north Semitic alphabetic order, since it has a position corresponding to the Aramaic letter ''[[samekh]] / semkat'' {{lang|he|ס}}, yet no letter of the Arabic alphabet historically derives from that letter. Loss of ''{{transl|he|sameḵ}}'' was compensated for by the split of ''[[shin (letter)|shin]]'' {{lang|he|ש}} into two independent Arabic letters, {{lang|ar|ش}} (''shīn'') and {{lang|ar|ﺱ}} (''sīn'') which moved up to take the place of ''{{transl|he|sameḵ}}''. The six other letters that do not correspond to any north Semitic letter are placed at the end.
+
+{| class="wikitable" style="text-align:center;"
+|+ Common ''{{transl|ar|ALA|abjadī}}'' sequence
+|-
+| {{lang|ar|غ}} || {{lang|ar|ظ}} || {{lang|ar|ض}} || {{lang|ar|ذ}} || {{lang|ar|خ}} || {{lang|ar|ث}} || {{lang|ar|ت}} || {{lang|ar|ش}} || {{lang|ar|ر}} || {{lang|ar|ق}} || {{lang|ar|ص}} || {{lang|ar|ف}} || {{lang|ar|ع}} || {{lang|ar|س}} || {{lang|ar|ن}} || {{lang|ar|م}} || {{lang|ar|ل}} || {{lang|ar|ك}} || {{lang|ar|ي}} || {{lang|ar|ط}} || {{lang|ar|ح}} || {{lang|ar|ز}} || {{lang|ar|و}} || {{lang|ar|ه}} || {{lang|ar|د}} || {{lang|ar|ج}} || {{lang|ar|ب}} || {{lang|ar|ا}}
+|-
+| {{transl|ar|gh}} || {{transl|ar|ẓ}} || {{transl|ar|ḍ}} || {{transl|ar|dh}} || {{transl|ar|kh}} || {{transl|ar|th}} || {{transl|ar|t}} || {{transl|ar|sh}} || {{transl|ar|r}} || {{transl|ar|q}} || {{transl|ar|ṣ}} || {{transl|ar|f}} || '''{{transl|ar|‘}}''' || {{transl|ar|s}} || {{transl|ar|n}} || {{transl|ar|m}} || {{transl|ar|l}} || {{transl|ar|k}} || {{transl|ar|y}} || {{transl|ar|ṭ}} || {{transl|ar|ḥ}} || {{transl|ar|z}} || {{transl|ar|w}} || {{transl|ar|h}} || {{transl|ar|d}} || {{transl|ar|j}} || {{transl|ar|b}} || {{transl|ar|ā}}
+|- style="color:gray"
+| 28 || 27 || 26 || 25 || 24 || 23 || 22 || 21 || 20 || 19 || 18 || 17 || 16 || 15 || 14 || 13 || 12 || 11 || 10 || 09 || 08 || 07 || 06 || 05 || 04 || 03 || 02 || 01
+|}
+
+This is commonly vocalized as follows:
+:''{{transl|ar|abjad hawwaz ḥuṭṭī kalaman sa‘faṣ qarashat thakhadh ḍaẓagh}}''.
+Another vocalization is:
+:''{{transl|ar|abujadin hawazin ḥuṭiya kalman sa‘faṣ qurishat thakhudh ḍaẓugh}}''
+
+{| class="wikitable" style="text-align:center;"
+|+ [[Maghreb]]ian ''{{transl|ar|abjadī}}'' sequence (probably older)<ref name=magb>{{ar icon}} [http://alyaseer.net/vb/showthread.php?t=8807 Alyaseer.net ترتيب المداخل والبطاقات في القوائم والفهارس الموضوعية Ordering entries and cards in subject indexes] Discussion thread ''(Accessed 2009-October–06)''</ref>
+|-
+| {{lang|ar|ش}} || {{lang|ar|غ}} || {{lang|ar|ظ}} || {{lang|ar|ذ}} || {{lang|ar|خ}} || {{lang|ar|ث}} || {{lang|ar|ت}} || {{lang|ar|س}} || {{lang|ar|ر}} || {{lang|ar|ق}} || {{lang|ar|ض}} || {{lang|ar|ف}} || {{lang|ar|ع}} || {{lang|ar|ص}} || {{lang|ar|ن}} || {{lang|ar|م}} || {{lang|ar|ل}} || {{lang|ar|ك}} || {{lang|ar|ي}} || {{lang|ar|ط}} || {{lang|ar|ح}} || {{lang|ar|ز}} || {{lang|ar|و}} || {{lang|ar|ه}} || {{lang|ar|د}} || {{lang|ar|ج}} || {{lang|ar|ب}} || {{lang|ar|ا}}
+|-
+| {{transl|ar|sh}} || {{transl|ar|gh}} || {{transl|ar|ẓ}} || {{transl|ar|dh}} || {{transl|ar|kh}} || {{transl|ar|th}} || {{transl|ar|t}} || {{transl|ar|s}} || {{transl|ar|r}} || {{transl|ar|q}} || {{transl|ar|ḍ}} || {{transl|ar|f}} || '''{{transl|ar|‘}}''' || {{transl|ar|ṣ}} || {{transl|ar|n}} || {{transl|ar|m}} || {{transl|ar|l}} || {{transl|ar|k}} || {{transl|ar|y}} || {{transl|ar|ṭ}} || {{transl|ar|ḥ}} || {{transl|ar|z}} || {{transl|ar|w}} || {{transl|ar|h}} || {{transl|ar|d}} || {{transl|ar|j}} || {{transl|ar|b}} || {{transl|ar|ā}}
+|- style="color:gray"|
+| 28 || 27 || 26 || 25 || 24 || 23 || 22 || 21 || 20 || 19 || 18 || 17 || 16 || 15 || 14 || 13 || 12 || 11 || 10 || 09 || 08 || 07 || 06 || 05 || 04 || 03 || 02 || 01
+|}
+
+This can be vocalized as:
+:''{{transl|ar|abujadin hawazin ḥuṭiya kalman ṣa‘faḍ qurisat thakhudh ẓaghush}}''
+
+==== Hijā’ī ====
+Modern dictionaries and other reference books do not use the ''{{transl|ar|abjadī}}'' order to sort alphabetically; instead, the newer ''{{transl|ar|hijā’ī}}'' order is used wherein letters are partially grouped together by similarity of shape. The ''hijā’ī'' order is never used as numerals.
+
+{| class="wikitable" style="text-align:center;"
+|+ Common ''{{transl|ar|hijā’ī}}'' order
+|-
+| {{lang|ar|ي}} || {{lang|ar|و}} || {{lang|ar|ه}} || {{lang|ar|ن}} || {{lang|ar|م}} || {{lang|ar|ل}} || {{lang|ar|ك}} || {{lang|ar|ق}} || {{lang|ar|ف}} || {{lang|ar|غ}} || {{lang|ar|ع}} || {{lang|ar|ظ}} || {{lang|ar|ط}} || {{lang|ar|ض}} || {{lang|ar|ص}} || {{lang|ar|ش}} || {{lang|ar|س}} || {{lang|ar|ز}} || {{lang|ar|ر}} || {{lang|ar|ذ}} || {{lang|ar|د}} || {{lang|ar|خ}} || {{lang|ar|ح}} || {{lang|ar|ج}} || {{lang|ar|ث}} || {{lang|ar|ت}} || {{lang|ar|ب}} || {{lang|ar|ا}}
+|-
+| {{transl|ar|y}} || {{transl|ar|w}} || {{transl|ar|h}} || {{transl|ar|n}} || {{transl|ar|m}} || {{transl|ar|l}} || {{transl|ar|k}} || {{transl|ar|q}} || {{transl|ar|f}} || {{transl|ar|gh}} || '''{{transl|ar|‘}}''' || {{transl|ar| ẓ}} || {{transl|ar|ṭ}} || {{transl|ar|ḍ}} || {{transl|ar|ṣ}} || {{transl|ar|sh}} || {{transl|ar|s}} || {{transl|ar|z}} || {{transl|ar|r}} || {{transl|ar|dh}} || {{transl|ar|d}} || {{transl|ar|kh}} || {{transl|ar|ḥ}} || {{transl|ar|j}} || {{transl|ar|th}} || {{transl|ar|t}} || {{transl|ar|b}} || {{transl|ar|ā}}
+|}
+
+Another kind of ''{{transl|ar|hijā’ī}}''<!--needs confirmation--> order was used widely in the [[Maghreb]] until recently{{when|date=July 2014}} when it was replaced by the [[Mashriq]]i order.<ref name=magb/>
+{| class="wikitable" style="text-align:center;"
+|+ Maghrebian ''{{transl|ar|hijā’ī}}'' order
+|- 
+| {{lang|ar|ي}} || {{lang|ar|و}} || {{lang|ar|ه}} || {{lang|ar|ش}} || {{lang|ar|س}} || {{lang|ar|ق}} || {{lang|ar|ف}} || {{lang|ar|غ}} || {{lang|ar|ع}} || {{lang|ar|ض}} || {{lang|ar|ص}} || {{lang|ar|ن}} || {{lang|ar|م}} || {{lang|ar|ل}} || {{lang|ar|ك}} || {{lang|ar|ظ}} || {{lang|ar|ط}} || {{lang|ar|ز}} || {{lang|ar|ر}} || {{lang|ar|ذ}} || {{lang|ar|د}} || {{lang|ar|خ}} || {{lang|ar|ح}} || {{lang|ar|ج}} || {{lang|ar|ث}} || {{lang|ar|ت}} || {{lang|ar|ب}} || {{lang|ar|ا}}
+|-
+| {{transl|ar|y}} || {{transl|ar|w}} || {{transl|ar|h}} || {{transl|ar|sh}} || {{transl|ar|s}} || {{transl|ar|q}} || {{transl|ar|f}} || {{transl|ar|gh}} || '''{{transl|ar|‘}}''' || {{transl|ar|ḍ}} || {{transl|ar|ṣ}} || {{transl|ar|n}} || {{transl|ar|m}} || {{transl|ar|l}} || {{transl|ar|k}} || {{transl|ar|ẓ}} || {{transl|ar|ṭ}} || {{transl|ar|z}} || {{transl|ar|r}} || {{transl|ar|dh}} || {{transl|ar|d}} || {{transl|ar|kh}} || {{transl|ar|ḥ}} || {{transl|ar|j}} || {{transl|ar|th}} || {{transl|ar|t}} || {{transl|ar|b}} || {{transl|ar|ā}}
+|}
+
+===Letter forms===
+{{Calligraphy}}
+The Arabic alphabet is always cursive and letters vary in shape depending on their position within a word. Letters can exhibit up to four distinct forms corresponding to an initial, medial (middle), final, or isolated position ([[IMFI]]). While some letters show considerable variations, others remain almost identical across all four positions. Generally, letters in the same word are linked together on both sides by short horizontal lines, but six letters ({{lang|ar|و ز ر ذ د ا}}) can only be linked to their preceding letter. For example, {{lang|ar|أرارات}} ([[Mount Ararat|Ararat]]) has only isolated forms because each letter cannot be connected to its following one. In addition, some letter combinations are written as [[ligature (typography)|ligatures]] (special shapes), notably ''{{transl|ar|lām-alif}}''.<ref>{{cite book |title=Writing Systems: A Linguistic Approach |author=Rogers, Henry |publisher=Blackwell Publishing |year=2005 |page=135}}</ref>
+
+{{Use dmy dates|date=February 2015}}
+
+====Table of basic letters====
+{{other uses|Arabic script}}
+
+{|class="wikitable sortable"
+|+ Arabic letters usage in Literary Arabic
+|-
+!Abjadī
+!Hijā'ī
+!rowspan="2"|Name
+!rowspan="2"|[[Romanization of Arabic|Translit.]]
+!rowspan="2"|Value ([[International Phonetic Alphabet|IPA]])
+!colspan="3"|Contextual forms
+!rowspan="2"|Isolated
+|-
+!-
+!-
+!Final
+!Medial
+!Initial
+|- style="text-align:center;"
+|1.
+|1.
+|{{transl|ar|ALA|alif}}
+| ''{{transl|ar|ALA|ā}} / <big>''{{transl|ar|ALA|&nbsp;’&nbsp;}}</big> (also <big>''{{transl|ar|DIN|&nbsp;ʾ&nbsp;}}</big> '')
+|various,<br/>including {{IPA|/aː/}} {{ref|a|[a]}}
+|colspan=2|<span style="font-size:190%;">{{lang|ar|ـا}}</span>
+|colspan=2|<span style="font-size:190%;">{{lang|ar|[[ا]]}}</span>
+|- style="text-align:center;"
+|2.
+|2.
+|{{transl|ar|ALA|bā’}}
+|''{{transl|ar|ALA|b}}''
+|{{IPAslink|b}}<br />(sometimes {{IPAslink|p}} in loanwords){{ref|b|[b]}}
+|<span style="font-size:190%;">{{lang|ar|ـب}}</span>
+|<span style="font-size:190%;">{{lang|ar|ـبـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|بـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|[[ب]]}}</span>
+|- style="text-align:center;"
+|22.
+|3.
+|{{transl|ar|ALA|tā’}}
+|''{{transl|ar|ALA|t}}''
+|{{IPAslink|t}}
+|<span style="font-size:190%;">{{lang|ar|ـت}}</span>
+|<span style="font-size:190%;">{{lang|ar|ـتـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|تـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|[[ت]]}}</span>
+|- style="text-align:center;"
+|23.
+|4.
+|{{transl|ar|ALA|thā’}}
+|''{{transl|ar|ALA|th}}'' (also ''{{transl|ar|DIN|ṯ&nbsp;}}'')
+|{{IPAslink|θ}}
+|<span style="font-size:190%;">{{lang|ar|ـث}}</span>
+|<span style="font-size:190%;">{{lang|ar|ـثـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|ثـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|[[ث]]}}</span>
+|- style="text-align:center;"
+|3.
+|5.
+|{{transl|ar|jīm}}
+|''{{transl|ar|j}}'' (also ''{{transl|ar|DIN|ǧ}}, g&#x202f;'')
+|{{IPAblink|d͡ʒ}} ~ {{IPAblink|ʒ}} ~ {{IPAblink|ɡ}} {{ref|c|[c]}}
+|<span style="font-size:190%;">{{lang|ar|ـج}}</span>
+|<span style="font-size:190%;">{{lang|ar|ـجـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|جـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|[[ج]]}}</span>
+|- style="text-align:center;"
+|8.
+|6.
+|{{transl|ar|ALA|ḥā’}}
+|''{{transl|ar|ALA|ḥ}}''
+|{{IPAslink|ħ}}
+|<span style="font-size:190%;">{{lang|ar|ـح}}</span>
+|<span style="font-size:190%;">{{lang|ar|ـحـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|حـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|[[ح]]}}</span>
+|- style="text-align:center;"
+|24.
+|7.
+|{{transl|ar|ALA|khā’}}
+|''{{transl|ar|ALA|kh}}'' (also ''{{transl|ar|DIN|ḫ}}, {{transl|ar|Wehr|ḵ&nbsp;}}'')
+|{{IPAslink|x}}
+|<span style="font-size:190%;">{{lang|ar|ـخ}}</span>
+|<span style="font-size:190%;">{{lang|ar|ـخـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|خـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|[[خ]]}}</span>
+|- style="text-align:center;"
+|4.
+|8.
+|{{transl|ar|ALA|dāl}}
+|''{{transl|ar|ALA|d}}''
+|{{IPAslink|d}}
+|colspan=2|<span style="font-size:190%;">{{lang|ar|ـد}}</span>
+|colspan=2|<span style="font-size:190%;">{{lang|ar|[[د]]}}</span>
+|- style="text-align:center;"
+|25.
+|9.
+|{{transl|ar|ALA|dhāl}}
+|''{{transl|ar|ALA|dh}}'' (also ''{{transl|ar|DIN|ḏ&nbsp;}}'')
+|{{IPAslink|ð}}
+|colspan=2|<span style="font-size:190%;">{{lang|ar|ـذ}}</span>
+|colspan=2|<span style="font-size:190%;">{{lang|ar|[[ذ]]}}</span>
+|- style="text-align:center;"
+|20.
+|10.
+|{{transl|ar|ALA|rā’}}
+|''{{transl|ar|ALA|r}}''
+|{{IPAslink|r}}
+|colspan=2|<span style="font-size:190%;">{{lang|ar|ـر}}</span>
+|colspan=2|<span style="font-size:190%;">{{lang|ar|[[ر]]}}</span>
+|- style="text-align:center;"
+|7.
+|11.
+|{{transl|ar|ALA|zayn}} / {{transl|ar|ALA|zāy}} / {{transl|ar|ALA|zā’}}
+|''{{transl|ar|ALA|z}}''
+|{{IPAslink|z}}
+|colspan=2|<span style="font-size:190%;">{{lang|ar|ـز}}</span>
+|colspan=2|<span style="font-size:190%;">{{lang|ar|[[ز]]}}</span>
+|- style="text-align:center;"
+|15.
+|12.
+|{{transl|ar|ALA|sīn}}
+|''{{transl|ar|ALA|s}}''
+|{{IPAslink|s}}
+|<span style="font-size:190%;">{{lang|ar|ـس}}</span>
+|<span style="font-size:190%;">{{lang|ar|ـسـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|سـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|[[س]]}}</span>
+|- style="text-align:center;"
+|21.
+|13.
+|{{transl|ar|ALA|shīn}}
+|''{{transl|ar|ALA|sh}}'' (also ''{{transl|ar|DIN|š&nbsp;}}'')
+|{{IPAslink|ʃ}}
+|<span style="font-size:190%;">{{lang|ar|ـش}}</span>
+|<span style="font-size:190%;">{{lang|ar|ـشـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|شـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|[[ش]]}}</span>
+|- style="text-align:center;"
+|18.
+|14.
+|{{transl|ar|ALA|ṣād}}
+|''{{transl|ar|ALA|ṣ}}''
+|{{IPAslink|sˤ}}
+|<span style="font-size:190%;">{{lang|ar|ـص}}</span>
+|<span style="font-size:190%;">{{lang|ar|ـصـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|صـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|[[ص]]}}</span>
+|- style="text-align:center;"
+|26.
+|15.
+|{{transl|ar|ALA|ḍād}}
+|''{{transl|ar|ALA|ḍ}}''
+|{{IPAslink|dˤ}}
+|<span style="font-size:190%;">{{lang|ar|ـض}}</span>
+|<span style="font-size:190%;">{{lang|ar|ـضـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|ضـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|[[ض]]}}</span>
+|- style="text-align:center;"
+|9.
+|16.
+|{{transl|ar|ALA|ṭā’}}
+|''{{transl|ar|ALA|ṭ}}''
+|{{IPAslink|tˤ}}
+|<span style="font-size:190%;">{{lang|ar|ـط}}</span>
+|<span style="font-size:190%;">{{lang|ar|ـطـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|طـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|[[ط]]}}</span>
+|- style="text-align:center;"
+|27.
+|17.
+|{{transl|ar|ALA|ẓā’}}
+|''{{transl|ar|ALA|ẓ}}''
+|{{IPAblink|ˤ|ðˤ}} ~ {{IPAblink|ˤ|zˤ}}
+|<span style="font-size:190%;">{{lang|ar|ـظ}}</span>
+|<span style="font-size:190%;">{{lang|ar|ـظـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|ظـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|[[ظ]]}}</span>
+|- style="text-align:center;"
+|16.
+|18.
+|{{transl|ar|ALA|‘ayn}}
+| <big>{{transl|ar|ALA|&nbsp;‘&nbsp;}}</big> (also <big>''{{transl|ar|DIN|&nbsp;ʿ&nbsp;}}</big> '')
+|{{IPAslink|ʕ}}
+|<span style="font-size:190%;">{{lang|ar|ـع}}</span>
+|<span style="font-size:190%;">{{lang|ar|ـعـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|عـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|[[ع]]}}</span>
+|- style="text-align:center;"
+|28.
+|19.
+|{{transl|ar|ALA|ghayn}}
+|''{{transl|ar|ALA|gh}}'' (also ''{{transl|ar|DIN|ġ}}, {{transl|ar|Wehr|ḡ&nbsp;}}'')
+| {{IPAslink|ɣ}}<br />(sometimes {{IPAslink|ɡ}} in loanwords){{ref|b|[b]}}
+|<span style="font-size:190%;">{{lang|ar|ـغ}}</span>
+|<span style="font-size:190%;">{{lang|ar|ـغـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|غـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|[[غ]]}}</span>
+|- style="text-align:center;"
+|17.
+|20.
+|{{transl|ar|ALA|fā’}}
+|''{{transl|ar|ALA|f}}''
+|{{IPAslink|f}}<br />(sometimes {{IPAslink|v}} in loanwords){{ref|b|[b]}}
+|<span style="font-size:190%;">{{lang|ar|ـڧ}}</span>
+|<span style="font-size:190%;">{{lang|ar|ـڧـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|ڧـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|[[ڧ]]}}</span> {{ref|d|[d]}}
+|- style="text-align:center;"
+|19.
+|21.
+|{{transl|ar|ALA|qāf}}
+|''{{transl|ar|ALA|q}}''
+|{{IPAslink|q}}<br />(sometimes {{IPAslink|ɡ}} in loanwords){{ref|b|[b]}}
+|<span style="font-size:190%;">{{lang|ar|ـق}}</span>
+|<span style="font-size:190%;">{{lang|ar|ـقـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|قـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|[[ق]]}}</span> {{ref|d|[d]}}
+|- style="text-align:center;"
+|11.
+|22.
+|{{transl|ar|ALA|kāf}}
+|''{{transl|ar|ALA|k}}''
+|{{IPAslink|k}}<br />(sometimes {{IPAslink|ɡ}} in loanwords){{ref|b|[b]}}
+|<span style="font-size:190%;">{{lang|ar|ـك}}</span>
+|<span style="font-size:190%;">{{lang|ar|ـكـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|كـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|[[ك]]}}</span>
+|- style="text-align:center;"
+|12.
+|23.
+|{{transl|ar|ALA|lām}}
+|''{{transl|ar|ALA|l}}''
+|{{IPAslink|l}}
+|<span style="font-size:190%;">{{lang|ar|ـل}}</span>
+|<span style="font-size:190%;">{{lang|ar|ـلـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|لـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|[[ل]]}}</span>
+|- style="text-align:center;"
+|13.
+|24.
+|{{transl|ar|ALA|mīm}}
+|''{{transl|ar|ALA|m}}''
+|{{IPAslink|m}}
+|<span style="font-size:190%;">{{lang|ar|ـم}}</span>
+|<span style="font-size:190%;">{{lang|ar|ـمـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|مـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|[[م]]}}</span>
+|- style="text-align:center;"
+|14.
+|25.
+|{{transl|ar|ALA|nūn}}
+|''{{transl|ar|ALA|n}}''
+|{{IPAslink|n}}
+|<span style="font-size:190%;">{{lang|ar|ـن}}</span>
+|<span style="font-size:190%;">{{lang|ar|ـنـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|نـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|[[ن]]}}</span>
+|- style="text-align:center;"
+|5.
+|26.
+|{{transl|ar|ALA|hā’}}
+|''{{transl|ar|ALA|h}}''
+|{{IPAslink|h}}
+|<span style="font-size:190%;">{{lang|ar|ـه}}</span>
+|<span style="font-size:190%;">{{lang|ar|ـهـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|هـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|[[ه]]}}</span>
+|- style="text-align:center;"
+|6.
+|27.
+|{{transl|ar|ALA|wāw}}
+|''{{transl|ar|ALA|w}} / {{transl|ar|ALA|ū}}''
+|{{IPAslink|w}}, {{IPA|/uː/}}, {{IPA|/oː/}} (in Arabic dialects)<br/>(sometimes {{IPAslink|u}}, {{IPAslink|o}}, and {{IPAslink|oː}} in loanwords)
+|colspan=2|<span style="font-size:190%;">{{lang|ar|ـو}}</span>
+|colspan=2|<span style="font-size:190%;">{{lang|ar|[[و]]}}</span>
+|- style="text-align:center;"
+|10.
+|28.
+|{{transl|ar|ALA|yā’}}
+|''{{transl|ar|ALA|y}} / {{transl|ar|ALA|ī}}''
+|{{IPAslink|j}}, {{IPA|/iː/}}, {{IPA|/eː/}} (in Arabic dialects)<br/>(sometimes {{IPAslink|i}}, {{IPAslink|e}}, and {{IPAslink|eː}} in loanwords)
+|<span style="font-size:190%;">{{lang|ar|ـي}}</span>
+|<span style="font-size:190%;">{{lang|ar|ـيـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|يـ}}</span>
+|<span style="font-size:190%;">{{lang|ar|[[ي]]}}</span> {{ref|d|[d]}}
+|}
+
+'''Notes'''
+
+{{refbegin}}
+
+* {{note|a|a}} ''{{transl|ar|ALA|Alif}}'' can represent many phonemes:
+{|class="wikitable"
+! Context !! Form !! Value
+|-
+| Without [[Arabic diacritics|diacritics]]
+|style="text-align:center"|<span style="font-size:190%;">{{lang|ar|ا}}</span>
+|
+* initially: ''{{transl|ar|DIN|a, i}}'' &nbsp; {{IPA|/a, i/}} or sometimes silent in the definite article {{lang|ar|ال}} ''[[al-|{{transl|ar|ALA|(a)l-}}]]''
+* medially or finally: ''{{transl|ar|ALA|ā}}'' &nbsp; {{IPA|/aː/}}
+|-
+| With ''[[hamza|{{transl|ar|ALA|hamzah}}]]'' over
+|style="text-align:center"|<span style="font-size:190%;">{{lang|ar|أ}}</span>
+|
+* initially:  ''{{transl|ar|DIN|ʾa, ʾu}}'' &nbsp; {{IPA|/ʔa, ʔu/}}
+* medially or finally: ''{{transl|ar|DIN|aʾ}}'' &nbsp; {{IPA|/ʔa/}}
+|-
+| With ''[[hamza|{{transl|ar|ALA|hamzah}}]]'' under
+|style="text-align:center"|<span style="font-size:190%;">{{lang|ar|إ}}</span>
+| 
+* initially: ''{{transl|ar|DIN|ʾi}}'' &nbsp; {{IPA|/ʔi/}}
+* doesn't appear medially or finally (see [[hamza]])
+|-
+| With ''[[Arabic diacritics#Maddah|{{transl|ar|ALA|maddah}}]]''
+|style="text-align:center"|<span style="font-size:190%;">{{lang|ar|آ}}</span>
+| ''{{transl|ar|DIN|ʾā}}'' &nbsp; {{IPA|/ʔaː/}}
+|}
+
+* {{note|b|b}} See the section on [[#Non-native letters|non-native letters and sounds]].
+* {{note|c|c}} <span style="font-size:190%;">{{lang|ar|ج}}</span> is pronounced differently depending on the region. See the section on [[#Non-native letters|non-native letters and sounds]].
+* {{note|d|d}} See the section on [[#Regional variations|regional variations]] in letter form.
+
+{{refend}}
+
+*See the article ''[[Romanization of Arabic]]'' for details on various transliteration schemes; however, Arabic language speakers do not follow a standardized scheme when transcribing names. Also names are regularly transcribed as pronounced locally, not as pronounced in [[Literary Arabic]] (if they were of Arabic origin).
+*Regarding pronunciation, the phonemic values given are those of Modern Standard Arabic, which is taught in universities. In practice, pronunciation may vary considerably from region to region. For more details concerning the pronunciation of Arabic, consult the articles ''[[Arabic phonology]]'' and ''[[varieties of Arabic]]''.
+*The names of the Arabic letters can be thought of as abstractions of an older version where they were meaningful words in the [[Proto-Semitic]] language. Names of Arabic letters may have quite different names popularly.
+*Six letters ({{lang|ar|و ز ر ذ د ا}}) don't have a distinct medial form and have to be written with their final form without being connected to the next letter. Their initial form matches the isolated form.
+* The letter ''{{transl|ar|ALA|alif}}'' originated in the [[Phoenician alphabet]] as a consonant-sign indicating a glottal stop. Today it has lost its function as a consonant, and, together with  ''{{transl|ar|ALA|ya’}}'' and  ''{{transl|ar|ALA|wāw}}'', is a ''[[mater lectionis]]'', a consonant sign standing in for a long vowel (see below), or as support for certain diacritics (''{{transl|ar|ALA|maddah}}'' and ''[[hamza|{{transl|ar|ALA|hamzah}}]]'').
+* Arabic currently uses a [[diacritic]] sign, <span style="font-size:150%;"> {{lang|ar|ﺀ}}</span>, called ''{{transl|ar|ALA|hamzah}}'', to denote the [[glottal stop]] {{IPA|[ʔ]}}, written alone or with a carrier:
+** alone: {{lang|ar|ء}}
+** with a carrier: {{lang|ar|إ أ}} (above or under a ''{{transl|ar|ALA|alif}}''), {{lang|ar|ؤ}} (above a ''{{transl|ar|ALA|wāw}}''), {{lang|ar|ئ}} (above a dotless ''{{transl|ar|ALA|yā’}}''  or ''{{transl|ar|ALA|yā’ hamzah}}'').
+
+In academic work, the ''[[hamza|{{transl|ar|ALA|hamzah}}]]'' ({{lang|ar|ء}}) is transliterated with the [[modifier letter right half ring]]  (ʾ), while the [[modifier letter left half ring]] (ʿ) transliterates the letter ''[[Ayin|{{transl|ar|ALA|‘ayn}}]]'' ({{lang|ar|ع}}), which represents a different sound, not found in English.
+
+* Letters lacking an initial or medial version are never linked to the letter that follows, even within a word. The ''{{transl|ar|ALA|hamzah}}'' has a single form, since it is never linked to a preceding or following letter.  However, it is sometimes combined with a ''{{transl|ar|ALA|wāw}}'', ''{{transl|ar|ALA|yā’}}'', or ''{{transl|ar|ALA|alif}}'', and in that case the carrier behaves like an ordinary ''{{transl|ar|ALA|wāw}}'', ''{{transl|ar|ALA|yā’}}'', or ''{{transl|ar|ALA|alif}}''.
+
+====Modified letters====
+The following are not individual letters, but rather different contextual variants of some of the Arabic letters.
+
+{|class="wikitable" style="text-align:center;"
+|-
+!colspan="4"|Conditional forms
+!rowspan="2"|Name
+!rowspan="2"|Translit.
+!rowspan="2"|Phonemic Value (IPA)
+|-
+!Isolated
+!Final
+!Medial
+!Initial
+|-
+|style="line-height:180%;padding:10px;"|<span style="font-size:190%;">{{lang|ar|آ}}</span>
+|style="line-height:180%;padding:10px;"|<span style="font-size:190%;">{{lang|ar|ـآ}}</span>
+|style="line-height:180%;padding:10px;"|<span style="font-size:190%;">{{lang|ar|ـآ}}</span>
+|style="line-height:180%;padding:10px;"|<span style="font-size:190%;">{{lang|ar|آ}}</span>
+|[[Maddah|{{transl|ar|ALA|alif maddah}}]]
+|''{{transl|ar|ALA|ā}}''
+|{{IPA|/ʔaː/}}
+|-
+|style="line-height:180%;padding:10px;"|<span style="font-size:190%;">{{lang|ar|ة}}</span>
+|style="line-height:180%;padding:10px;"|<span style="font-size:190%;">{{lang|ar|ـة}}</span>
+|style="line-height:180%;padding:10px;"|<span style="font-size:190%;">{{lang|ar|}}</span>
+|style="line-height:180%;padding:10px;"|<span style="font-size:190%;">{{lang|ar|}}</span>
+|[[Tāʾ marbūṭa|{{transl|ar|ALA|tā’ marbūṭah}}]]
+|''{{transl|ar|ALA|h}}'' or <br /> ''{{transl|ar|ALA|t}}'' / <sup>''h''</sup> / ''{{transl|ar|ẗ}}''
+|{{IPA|/a/}}, {{IPA|/at/}}
+|-
+|style="line-height:180%;padding:10px;"|<span style="font-size:190%;">{{lang|ar|ى}}</span>
+|style="line-height:180%;padding:10px;"|<span style="font-size:190%;">{{lang|ar|ـى}}</span>
+|style="line-height:180%;padding:10px;"|<span style="font-size:190%;">{{lang|ar|}}</span>
+|style="line-height:180%;padding:10px;"|<span style="font-size:190%;">{{lang|ar|}}</span>
+|{{transl|ar|ALA|alif maqṣūrah}}<ref>See the sub-paragraph about the ''ʾalif maqṣūrah'' at [['alif|''aleph'' in Arabic]]</ref>
+|''{{transl|ar|ALA|ā}}'' / ''{{transl|ar|ỳ}}''
+|{{IPA|/aː/}}
+|}
+
+====Ligatures====
+[[File:Arabic components (letters) in the word Allah.svg|thumb|right|240px| Components of a ligature for "Allah": <br>1. [[Aleph#Arabic|alif]]<br>2. [[Hamza#Hamzat waṣl|hamzat waṣl]] (همزة وصل)<br>3. [[lām]]<br>4. lām<br>5. [[shadda]] (شدة) <br>6. [[dagger alif]] (ألف خنجرية) <br>7. [[hāʾ]]]]
+The use of [[Typographical ligature|ligature]] [[Arabic alphabet#Ligatures 2|in Arabic]] is common.  There is one compulsory ligature, that for ''{{transl|ar|ALA|lām}}'' + ''{{transl|ar|ALA|alif}}'', which exists in two forms. All other ligatures (''{{transl|ar|ALA|yā’}}'' + ''{{transl|ar|ALA|mīm}}'', etc.) are optional.
+
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan="4" | Contextual forms
+! rowspan="2" | Name
+|-
+! Final
+! Medial
+! Initial
+! Isolated
+|-
+| colspan="2" style="line-height:180%;padding:10px;" | <span style="font-size:190%;">{{lang|ar|ﻼ}}</span>
+| colspan="2" style="line-height:180%;padding:10px;" | <span style="font-size:190%;">{{lang|ar|ﻻ}}</span>
+| lām + alif
+|}
+
+A more complex ligature that combines as many as seven distinct components is commonly used to represent the word ''{{transl|ar|ALA|[[Allāh]]}}''.
+
+The only ligature within the primary range of [[Arabic script in Unicode]] (U+06xx) is ''{{transl|ar|ALA|lām}}'' + ''{{transl|ar|ALA|alif}}''. This is the only one compulsory for fonts and word-processing. Other ranges are for compatibility to older standards and contain other ligatures, which are optional.
+* ''{{transl|ar|ALA|lām}}'' + ''{{transl|ar|ALA|alif}}''
+*: <span dir="rtl" style="font-size:250%;line-height:normal">{{script/Arabic|&#x644;&#x627;}}</span>
+Note: [[Unicode]] also has in its Presentation Form B FExx range a code for this ligature. If your browser and font are configured correctly for Arabic, the ligature displayed above should be identical to this one, <code>U+FEFB</code> ARABIC LIGATURE LAM WITH ALEF ISOLATED FORM:
+:: <span dir="rtl" style="font-size:250%;line-height:normal">{{script/Arabic|&#xfefb;}}</span>
+
+* <code>U+0640</code> ARABIC TATWEEL + ''{{transl|ar|ALA|lām}}'' + ''{{transl|ar|ALA|alif}}''
+*: <span dir="rtl" style="font-size:250%;line-height:normal">{{script/Arabic|&#x640;&#x644;&#x627;}}</span>
+Note: [[Unicode]] also has in its Presentation Form B U+FExx range a code for this ligature. If your browser and font are configured correctly for Arabic, the ligature displayed above should be identical to this one:
+* <code>U+FEFC</code> ARABIC LIGATURE LAM WITH ALEF FINAL FORM
+*: <span dir="rtl" style="font-size:250%;line-height:normal">{{script/Arabic|&#xfefc;}}</span>
+
+Another ligature in the [[Unicode]] Presentation Form A range U+FB50 to U+FDxx is the special code for glyph for the ligature ''{{transl|ar|ALA|Allāh}}'' (“God”), <code>U+FDF2</code> ARABIC LIGATURE ALLAH ISOLATED FORM:
+:: <span dir="rtl" style="font-size:250%;line-height:normal">{{script/Arabic|&#xfdf2;}}</span>
+
+This is a work-around for the shortcomings of most text processors, which are incapable of displaying the correct [[harakat|vowel marks]] for the word ''{{transl|ar|ALA|[[Allāh]]}}'' in [[Koran]]. Because Arabic script is used to write other texts rather than Koran only, rendering ''{{transl|ar|ALA|lām}}'' + ''{{transl|ar|ALA|lām}}'' + ''{{transl|ar|ALA|hā’}}'' as the previous ligature is considered faulty:<ref>[[SIL International]]: [http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ArabicFonts&_sc=1 This simplified style is often preferred for clarity, especially in non-Arabic languages]</ref> If one of a number of fonts (mry_KacstQurn, KacstOne, DejaVu Sans, Scheherazade, Lateef, Iranian Sans) is installed on a computer (Iranian Sans is support by Wikimedia web-fonts), the word will appear without diacritics.
+* ''{{transl|ar|ALA|lām}}'' + ''{{transl|ar|ALA|lām}}'' + ''{{transl|ar|ALA|hā’}}''
+*: <span dir="rtl" style="font-size:250%;line-height:normal">{{script/Arabic|&#x644;&#x644;&#x647;}}</span>&nbsp; or &nbsp;<span dir="rtl" style="font-family:mry_KacstQurn,KacstOne,'DejaVu Sans','DejaVu Sans Condensed',Scheherazade,Lateef,'Iranian Sans'; font-size:250%;line-height:normal"> لله </span>
+* ''{{transl|ar|ALA|alif}}'' + ''{{transl|ar|ALA|lām}}'' + ''{{transl|ar|ALA|lām}}'' + ''{{transl|ar|ALA|hā’}}''
+*: <span dir="rtl" style="font-size:250%;line-height:normal">{{script/Arabic|&#x627;&#x644;&#x644;&#x647;}}</span></span>&nbsp; or &nbsp;<span dir="rtl" style="font-family:mry_KacstQurn,KacstOne,'DejaVu Sans','DejaVu Sans Condensed',Scheherazade,Lateef,'Iranian Sans'; font-size:250%;line-height:normal"> الله </span>
+* ''{{transl|ar|alif}}'' + ''{{transl|ar|lām}}'' + ''{{transl|ar|lām}}'' + <code>U+0651</code> ARABIC SHADDA + <code>U+0670</code> ARABIC LETTER SUPERSCRIPT ALEF + ''{{transl|ar|ALA|hā’}}''
+*: <span dir="rtl" style="font-family:mry_KacstQurn,Scheherazade,Lateef,'Iranian Sans'; font-size:250%;line-height:200%"> اللّٰه </span>&nbsp; <small>(''DejaVu Sans'' and ''KacstOne'' don't show the added superscript Alef)</small>
+
+An attempt to show them on the faulty fonts without automatically adding the gemination mark and the superscript alif, although may not display as desired on all browsers, is by adding the <code>U+200d</code> (Zero width joiner) after the first or second ''{{transl|ar|ALA|lām}}''
+* (''{{transl|ar|alif}}'' +) ''{{transl|ar|lām}}'' + ''{{transl|ar|lām}}'' + <code>U+200d</code> ZERO WIDTH JOINER + ''{{transl|ar|ALA|hā’}}''
+*: <span dir="rtl" style="font-size:250%;line-height:normal">{{script/Arabic|&#x627;&#x644;&#x644;&#x200d;&#x647;}}</span> &nbsp; &lrm; &nbsp; <span dir="rtl" style="font-size:250%;line-height:normal">{{script/Arabic|&#x644;&#x644;&#x200d;&#x647;}}</span>
+
+====Gemination====
+{{Further2|[[Shadda]]}}
+
+[[Gemination]] is the doubling of a consonant. Instead of writing the letter twice, Arabic places a ''W''-shaped sign called ''{{transl|ar|ALA|shaddah}}'', above it. Note that if a vowel occurs between the two consonants the letter will simply be written twice. The [[diacritic]] only appears where the consonant at the end of one syllable is identical to the initial consonant of the following syllable. (The generic term for such [[diacritic]]al signs is ''{{transl|ar|ALA|[[harakat|ḥarakāt]]}}'').
+
+{|class="wikitable"
+|-
+!General<br />Unicode
+!Name
+!Transliteration
+|- style="text-align:center;"
+|style="line-height:180%;padding:10px;"|<small>0651</small><br /><span style="font-size:190%;">{{script/Arabic|  ّ  }}</span><sup><big style="color:#ccc;"> ّ </big></sup>
+|{{transl|ar|ALA|shaddah}}
+|(consonant doubled)
+|}
+
+====Nunation====
+{{Main|Nunation}}
+
+Nunation ({{lang-ar|تنوين}} ''{{transl|ar|ALA|tanwīn}}'')  is the addition of a final ''{{transl|ar|ALA|-n}}''&nbsp; to a [[noun]] or [[adjective]]. The vowel before it indicates [[grammatical case]]. In written Arabic nunation is indicated by doubling the vowel [[diacritic]] at the end of the word.
+
+== Vowels ==
+Users of Arabic usually write [[vowel length|long vowels]] but omit short ones, so readers must utilize their knowledge of the language in order to supply the missing vowels. However, in the education system and particularly in classes on Arabic grammar these vowels are used since they are crucial to the grammar. An Arabic sentence can have a completely different meaning by a subtle change of the vowels. This is why in an important text such as the ''{{transl|ar|ALA|Qur’ān}}'' the three basic vowel signs (see below) are mandated, like the ''[[Arabic diacritics|ḥarakāt]]'' and all the other diacritics or other types of marks, for example the [[Cantillation|cantillation signs]].
+
+===Short vowels===
+{{Further|Arabic diacritics}}
+
+In the Arabic handwriting of everyday use, in general publications, and on street signs, short vowels are typically not written. On the other hand, copies of the ''{{transl|ar|ALA|Qur’ān}}'' cannot be endorsed by the religious institutes that review them unless the diacritics are included.  Children's books, elementary-school texts, and Arabic-language grammars in general will include diacritics to some degree.  These are known as "[[Arabic diacritics|vocalized]]" texts.
+
+Short vowels may be written with [[diacritic]]s placed above or below the consonant that precedes them in the syllable, called ''{{transl|ar|ALA|ḥarakāt}}''. All Arabic vowels, long and short, follow a consonant; in Arabic, words like "Ali" or "alif", for example, start with a consonant: ''{{transl|ar|‘Aliyy}}''<!--not DIN 31635 transliteration-->, ''{{transl|ar|ALA|alif}}''.
+
+{|class="wikitable"
+|-
+!Short vowels<br />(fully [[Arabic diacritics|vocalized]] text)
+!Name
+!Trans.
+!Value
+|- style="text-align:center;"
+|style="line-height:180%;padding:10px;"|<small>064E</small><br /><span style="font-size:190%;">{{script/Arabic|  َ  }}</span>
+|{{transl|ar|ALA|fatḥah}}
+|''{{transl|ar|ALA|a}}''
+|{{IPA|/a/}}
+|- style="text-align:center;"
+|style="line-height:180%;padding:10px;"|<small>064F</small><br /><span style="font-size:190%;">{{script/Arabic|  ُ  }}</span>
+|{{transl|ar|ALA|ḍammah}}
+|''{{transl|ar|ALA|u}}''
+|{{IPA|/u/}}
+|- style="text-align:center;"
+|style="line-height:180%;padding:10px;"|<small>0650</small><br /><span style="font-size:190%;">{{script/Arabic|  ِ  }}</span>
+|{{transl|ar|ALA|kasrah}}
+|''{{transl|ar|ALA|i}}''
+|{{IPA|/i/}}
+|}
+
+===Long vowels===
+In the fully [[Arabic diacritics|vocalized]] Arabic text found in texts such as [[Koran]], a long ''{{transl|ar|ALA|ā}}'' following a consonant other than a ''[[hamza|{{transl|ar|ALA|hamzah}}]]'' is written with a short ''{{transl|ar|ALA|a}}'' sign (''{{transl|ar|ALA|fatḥah}}'') on the consonant plus an ''{{transl|ar|ALA|alif}}'' after it; long ''{{transl|ar|ALA|ī}}'' is written as a sign for short ''{{transl|ar|ALA|i}}'' (''{{transl|ar|ALA|kasrah}}'') plus a {{transl|ar|ALA|''yā’''}}; and long ''{{transl|ar|ALA|ū}}'' as a sign for short ''{{transl|ar|ALA|u}}'' (''{{transl|ar|ALA|ḍammah}}'') plus a ''{{transl|ar|ALA|wāw}}''. Briefly, ''{{transl|ar|ᵃa}}'' = ''{{transl|ar|ALA|ā}}'', ''{{transl|ar|ⁱy}}'' = ''{{transl|ar|ALA|ī}}'' and ''{{transl|ar|ᵘw}}'' = ''{{transl|ar|ALA|ū}}''. Long ''{{transl|ar|ALA|ā}}'' following a ''{{transl|ar|ALA|hamzah}}'' may be represented by an ''{{transl|ar|ALA|alif maddah}}'' or by a free ''{{transl|ar|ALA|hamzah}}'' followed by an ''{{transl|ar|ALA|alif}}''.
+
+The table below shows vowels placed above or below a dotted circle replacing a primary consonant letter or a ''[[Shadda|{{transl|ar|ALA|shaddah}}]]'' sign. For clarity in the table, the primary letters on the left used to mark these long vowels are shown only in their isolated form. Please note that most consonants do connect to the left with ''{{transl|ar|ALA|alif}}'', ''{{transl|ar|ALA|wāw}}'' and ''{{transl|ar|ALA|yā’}}'' written then with their medial or final form. Additionally, the letter ''{{transl|ar|ALA|yā’}}'' in the last row may connect to the letter on its left, and then will use a medial or initial form. Use the table of primary letters to look at their actual glyph and joining types.
+
+{|class="wikitable"
+|-
+!Long vowels<br />(fully vocalized text)
+!Name
+!Trans.
+!Value
+|- style="text-align:center;"
+|style="line-height:180%;padding:10px;"|<small>064E 0627</small><br /><span style="font-size:190%;">{{script/Arabic|  َا  }}</span>
+|{{transl|ar|ALA|fatḥah alif}}
+|''{{transl|ar|ALA|ā}}''
+|{{IPA|/aː/}}
+|- style="text-align:center;"
+|style="line-height:180%;padding:10px;"|<small>064E 0649</small><br /><span style="font-size:190%;">{{script/Arabic|  َى  }}</span>
+|{{transl|ar|ALA|fatḥah alif maqṣūrah}}
+|''{{transl|ar|ā}}'' / ''{{transl|ar|ALA|á}}''
+|{{IPA|/aː/}}
+|- style="text-align:center;"
+|style="line-height:180%;padding:10px;"|<small>064F 0648</small><br /><span style="font-size:190%;">{{script/Arabic|  ُو  }}</span>
+|{{transl|ar|ALA|ḍammah wāw}}
+|''{{transl|ar|ALA|ū}}''
+|{{IPA|/uː/}}
+|- style="text-align:center;"
+|style="line-height:180%;padding:10px;"|<small>0650 064A</small><br /><span style="font-size:190%;">{{script/Arabic|  ِي  }}</span>
+|{{transl|ar|ALA|kasrah yā’}}
+|''{{transl|ar|ALA|ī}}''
+|{{IPA|/iː/}}
+|}
+
+In unvocalized text (one in which the short vowels are not marked), the long vowels are represented by the vowel in question: ''{{transl|ar|ALA|alif}}'', ''{{transl|ar|ALA|alif maqṣūrah}}'' (or ''{{transl|ar|ALA|ya’}}''), ''{{transl|ar|ALA|wāw}}'', or ''{{transl|ar|ALA|yā’}}''. Long vowels written in the middle of a word of unvocalized text are treated like consonants with a ''{{transl|ar|ALA|sukūn}}'' (see below) in a text that has full diacritics. Here also, the table shows long vowel letters only in isolated form for clarity.
+
+Combinations {{lang|ar|وا}} and {{lang|ar|يا}} are always pronounced ''{{transl|ar|ALA|wā}}'' and ''{{transl|ar|ALA|yā}}'' respectively. The exception is when {{lang|ar|وا}} is the verb ending, where {{transl|ar|ALA|alif}} is silent, resulting in ''{{transl|ar|ALA|ū}}''.
+
+{|class="wikitable"
+|-
+!Long vowels<br />(unvocalized text)
+!Name
+!Trans.
+!Value
+|- style="text-align:center;"
+|style="line-height:180%;padding:10px;"|<small>0627</small><br /><span style="font-size:190%;">{{lang|ar|ا}}</span>
+|(implied {{transl|ar|ALA|fatḥah}}) {{transl|ar|ALA|alif}}
+|''{{transl|ar|ALA|ā}}''
+|{{IPA|/aː/}}
+|- style="text-align:center;"
+|style="line-height:180%;padding:10px;"|<small>0649</small><br /><span style="font-size:190%;">{{lang|ar|ى}}</span>
+|(implied {{transl|ar|ALA|fatḥah}}) {{transl|ar|ALA|alif maqṣūrah}}
+|''{{transl|ar|ā}}'' / ''{{transl|ar|aỳ}}''
+|{{IPA|/aː/}}
+|- style="text-align:center;"
+|style="line-height:180%;padding:10px;"|<small>0648</small><br /><span style="font-size:190%;">{{lang|ar|و}}</span>
+|(implied {{transl|ar|ALA|ḍammah}}) {{transl|ar|ALA|wāw}}
+|''{{transl|ar|ALA|ū}}'' / ''{{transl|ar|uw}}''
+|{{IPA|/uː/}}
+|- style="text-align:center;"
+|style="line-height:180%;padding:10px;"|<small>064A</small><br /><span style="font-size:190%;">{{lang|ar|ي}}</span>
+|(implied {{transl|ar|ALA|kasrah}}) {{transl|ar|ALA|yā’}}
+|''{{transl|ar|ALA|ī}}'' / ''{{transl|ar|iy}}''
+|{{IPA|/iː/}}
+|}
+
+In addition, when transliterating names and loanwords, Arabic language speakers write out most or all the vowels as long (''{{transl|ar|ALA|ā}}'' with <big>{{lang|ar|[[ا]]}}</big> ''{{transl|ar|ALA|alif}}'', ''{{transl|ar|ALA|ē}}'' and ''{{transl|ar|ALA|ī}}'' with <big>{{lang|ar|[[ي]]}}</big> ''{{transl|ar|ALA|ya’}}'', and ''{{transl|ar|ALA|ō}}'' and ''{{transl|ar|ALA|ū}}'' with <big>{{lang|ar|[[و]]}}</big> ''{{transl|ar|ALA|wāw}}''), meaning it approaches a true alphabet.
+
+===Diphthongs===
+The [[diphthongs]] {{IPA|/aj/}} and {{IPA|/aw/}} are represented in vocalized text as follows:
+
+{|class="wikitable"
+|-
+!Diphthongs<br />(fully [[Arabic diacritics|vocalized]] text)
+!Name
+!Trans.
+!Value
+|- style="text-align:center;"
+|style="line-height:180%;padding:10px;"|<small>064E 064A</small><br /><span style="font-size:190%;">{{script/Arabic|  َي  }}</span>
+|{{transl|ar|ALA|fatḥah yā’}}
+|''{{transl|ar|ALA|ay}}''
+|{{IPA|/aj/}}
+|- style="text-align:center;"
+|style="line-height:180%;padding:10px;"|<small>064E 0648</small><br /><span style="font-size:190%;">{{script/Arabic|  َو  }}</span>
+|{{transl|ar|ALA|fatḥah wāw}}
+|''{{transl|ar|ALA|aw}}''
+|{{IPA|/aw/}}
+|}
+
+===Vowel omission===
+An Arabic [[syllable]] can be open (ending with a vowel) or closed (ending with a consonant):
+
+* open: CV [consonant-vowel] (long or short vowel)
+* closed: CVC (short vowel only)
+
+A normal text is composed only of a series of consonants plus vowel-lengthening letters; thus, the word ''qalb'', "heart", is written ''qlb'', and the word ''qalab'' "he turned around", is also written ''qlb''.
+
+To write ''qalab'' without this ambiguity, we could indicate that the ''l'' is followed by a short ''a'' by writing a ''fatḥah'' above it.
+
+To write ''qalb'', we would instead indicate that the ''l'' is followed by no vowel by marking it with a [[diacritic]] called ''sukūn'' ( {{script/Arabic|  ْ  }} &nbsp;), like this: {{lang|ar|قلْبْ}}).
+
+This is one step down from full vocalization, where the vowel after the ''q'' would also be indicated by a ''fatḥah'': {{lang|ar|قَلْبْ}}.
+
+The ''[[Qur’ān]]'' is traditionally written in full vocalization.
+
+The long ''i'' sound in some editions of the ''Qur’ān'' is written with a ''kasrah'' followed by a diacritic-less ''y'', and long ''u'' by a ''ḍammah'' followed by a bare ''w''. In others, these ''y'' and ''w'' carry a ''sukūn''. Outside of the ''Qur’ān'', the latter convention is extremely rare, to the point that ''y'' with ''sukūn'' will be unambiguously read as the [[diphthong]] {{IPA|/aj/}}, and ''w'' with ''sukūn'' will be read {{IPA|/aw/}}.
+
+For example, the letters ''{{transl|ar|m-y-l}}'' can be read like English ''meel'' or ''mail'', or (theoretically) also  like ''mayyal'' or ''mayil''. But if a ''sukūn'' is added on the ''y'' then the ''m'' cannot have a ''sukūn'' (because two letters in a row cannot be ''sukūn''ated), cannot have a ''ḍammah'' (because there is never an ''uy'' sound in Arabic unless there is another vowel after the ''y''), and cannot have a ''kasrah'' (because ''kasrah'' before ''sukūn''ated ''y'' is never found outside the ''Qur’ān''), so it ''must'' have a ''fatḥah'' and the only possible pronunciation is {{IPA|/majl/}} (meaning mile, or even e-mail). By the same token, m-y-t with a ''sukūn'' over the ''y'' can be ''mayt'' but not ''mayyit'' or ''meet'', and m-w-t with a ''sukūn'' on the ''w'' can only be ''mawt'', not ''moot'' (''iw'' is impossible when the ''w'' closes the syllable).
+
+Vowel marks are always written as if  the ''[[’I‘rab|i‘rāb]]'' vowels were in fact pronounced, even when they must be skipped in actual pronunciation. So, when writing the name ''Aḥmad'', it is optional to place a ''sukūn'' on the ''ḥ'', but a ''sukūn'' is forbidden on the ''d'', because it would carry a ''ḍammah'' if any other word followed, as in ''Aḥmadu zawjī'' "Ahmad is my husband".
+
+Another example: the sentence that in correct Arabic must be pronounced ''Aḥmadu zawjun sharrīr'' "Ahmad is a wicked husband", is usually mispronounced as ''Aḥmad zawj sharrīr''. Yet, for the purposes of Arabic grammar and orthography, is treated as if it were not mispronounced and as if yet another word followed it, i.e., if adding any vowel marks, they must be added as if the pronunciation were ''Aḥmadu zawjun sharrīrun'' with a ''tanwīn'' 'un' at the end. So, it is correct to add an ''un'' ''tanwīn'' sign on the final ''r'', but actually pronouncing it would be a hypercorrection. Also, it is never correct to write a ''sukūn'' on that ''r'', even though in actual pronunciation it is (and in correct Arabic MUST be) ''sukūn''ed.
+
+Of course, if the correct ''i‘rāb'' is a ''sukūn'', it may be optionally written.
+
+{|class="wikitable"
+|-
+!General<br />Unicode
+!Name
+!Translit.
+!Phonemic Value (IPA)
+|- style="text-align:center;"
+|style="line-height:180%;padding:10px;"|<small>0652</small><br /><span style="font-size:190%;">{{script/Arabic|  ْ  }}</span>
+|sukūn
+|(no vowel with this consonant letter or<br />diphthong with this long vowel letter)
+|{{unicode|∅}}
+|- style="text-align:center;"
+|style="line-height:180%;padding:10px;"|<small>0670</small><br /><span style="font-size:190%;">{{script/Arabic|  ٰ  }}</span>
+|alif above
+|''ā''
+|{{IPA|/aː/}}
+|}
+
+The ''sukūn'' is also used for transliterating words into the Arabic script. The Persian word {{lang|fa|ماسک}} (''mâsk'', from the English word "mask"), for example, might be written with a ''sukūn'' above the {{lang|fa|ﺱ}}  to signify that there is no vowel sound between that letter and the {{lang|fa|ک}}.
+
+==Additional letters==<!--If any are missing, please add them.-->
+<!-- This would look nicer in tables. -->
+
+===Regional variations===
+Some letters take a traditionally different form in specific regions:
+
+{|class="wikitable"
+! colspan="4" | Letter !! rowspan="2" | Explanation
+|-
+! Isolated !! Final !! Medial !! Initial
+|-style="text-align:center;"
+| style="font-size:190%;" | {{lang|ar|ڢ}}
+| style="font-size:190%;" | {{lang|ar|ـڢ}}
+| style="font-size:190%;" | {{lang|ar|ـڢـ}}
+| style="font-size:190%;" | {{lang|ar|ڢـ}}
+| style="text-align:left;" | A traditional [[Pe (letter)#Maghrebi variant|Maghrebi variant]] (except for Libya and Algeria) of ''{{transl|ar|ALA|fā’}}'' {{lang|ar|ف}}.
+|-style="text-align:center;"
+| style="font-size:190%;" | {{lang|ar|ڧ}}
+| style="font-size:190%;" | {{lang|ar|ـڧ}}
+| style="font-size:190%;" | {{lang|ar|ـڧـ}}
+| style="font-size:190%;" | {{lang|ar|ڧـ}}
+| style="text-align:left;" | A traditional [[Qoph#Maghrebi variant|Maghrebi variant]] (except for Libya and Algeria) of ''{{transl|ar|ALA|qāf}}'' {{lang|ar|ق}}. Generally dotless in isolated and final positions and dotted in the initial and medial forms.
+|-style="text-align:center;"
+| style="font-size:190%;" | {{lang|ar|ک}}
+| style="font-size:190%;" | {{lang|ar|ـک}}
+| style="font-size:190%;" | {{lang|ar|ـکـ}}
+| style="font-size:190%;" | {{lang|ar|کـ}}
+| style="text-align:left;" | An alternative version of ''{{transl|ar|ALA|kāf}}'' {{lang|ar|ك}} used especially in [[Maghrebi script|Maghrebi]] or [[Gulf Arabic|Gulf]] script.
+|-style="text-align:center;"
+| style="font-size:190%;" | {{lang|ar|ی}}
+| style="font-size:190%;" | {{lang|ar|ـی}}
+| style="font-size:190%;" |  {{lang|ar|ـیـ}}
+| style="font-size:190%;" | {{lang|ar|یـ}}
+| style="text-align:left;" | Notably in Egypt, Sudan and sometimes Maghreb, ''{{transl|ar|ALA|yā’}}'' {{lang|ar|ي}} is dotless in the isolated and final position. Visually identical to ''{{transl|ar|alif maqṣūrah}}'' {{lang|ar|ى}}.
+|}
+
+===Non-native letters===
+Some modified letters are used to represent non-native sounds of Arabic. These letters are used in transliterated names, loanwords and dialectal words.
+
+{|class="wikitable"
+! Letter !! Value !! Note
+|-
+|style="text-align:center;font-size:190%;" | {{lang|ar|[[Ve (Arabic letter)|ڤ]]}}</span>
+|style="text-align:center;" | {{IPAslink|v}}
+|Used in loanwords and dialectal words instead of ''{{transl|ar|fā’}}'' {{lang|ar|ف}}.<ref name=dialecttutorial>[http://www1.ccls.columbia.edu/~cadim/ArabicDialectTutorialAMTA2006.pdf Arabic Dialect Tutorial]</ref> Not to be confused with {{lang|ar|ڨ}}.
+|-
+|style="text-align:center;font-size:190%;" | {{lang|ar|[[Ve (Arabic letter)|ڥ]]}}</span>
+|style="text-align:center;" | {{IPAslink|v}}
+|Used in Tunisia and Algeria.
+|-
+|style="text-align:center;font-size:190%;" | {{lang|ar|[[Pe (Persian letter)|پ]]}}</span>
+|style="text-align:center;" | {{IPAslink|p}}
+|Sometimes used when transliterating foreign names and loanwords. Can be substituted with ''{{transl|ar|bā’}}'' {{lang|ar|ب}} and pronounced as such.
+|-
+|rowspan="3" style="text-align:center;font-size:190%;" | {{lang|ar|[[Che (Persian letter)|چ]]}}</span>
+|style="text-align:center;" | {{IPAslink|t͡ʃ}}
+|Sometimes used when transliterating foreign names and loanwords and in the [[Gulf Arabic|Gulf]] and [[Iraqi Arabic|Arabic]] dialects. The sequence ''{{transl|ar|ALA|tā’}}''-''{{transl|ar|ALA|shīn}}'' {{lang|ar|تش}} is usually preferred (e.g. {{lang|ar|تشاد}} for "[[Chad]]").
+|-
+|style="text-align:center;" | {{IPAslink|ʒ}}
+|Used in Egypt, where {{lang|ar|ج}} is pronounced {{IPAslink|g}}.
+|-
+|style="text-align:center;" | {{IPAslink|g}}
+|Used in Israel, for example on road signs.
+|-
+|style="text-align:center;font-size:190%;" | {{lang|ar|[[Ve (Arabic letter)#Similar-looking letter|ڨ]]}}</span>
+|style="text-align:center;" | {{IPAslink|g}}
+|Used in Tunisia and in Algeria for loanwords and for the dialectal pronunciation of ''{{transl|ar|qāf}}'' {{lang|ar|ق}} in some words.  Not to be confused with {{lang|ar|ڤ}}.
+|-
+|style="text-align:center;font-size:190%;" | {{lang|ar|[[Gaf#Gaf with three dots|ڭ]]}}</span>
+|style="text-align:center;" | {{IPAslink|g}}
+|Used in Morocco and sometimes in Algeria.
+|-
+|style="text-align:center;font-size:190%;" | {{lang|ar|[[Che (Persian letter)#Other uses|ڜ]]}}</span>
+|style="text-align:center;" | {{IPAslink|t͡ʃ}}
+|Used in Morocco.
+|-
+|style="text-align:center;font-size:190%;" | {{lang|ar|[[Che (Persian letter)#Other uses|ڠ]]}}</span>
+|style="text-align:center;" | {{IPAslink|g}}
+|Used sometimes in Algeria.
+|}
+
+Where {{IPAslink|g}} is not the usual pronunciation of {{lang|ar|ج}}, the letters ''{{transl|ar|kāf}}'' {{lang|ar|ك}}, ''{{transl|ar|qāf}}'' {{lang|ar|ق}} or ''{{transl|ar|ghayn}}'' {{lang|ar|غ}} are also used instead of the variants in the table above.
+
+===Used in languages other than Arabic===
+{{main|Arabic script}}
+
+==  Numerals  ==
+{| class="wikitable"  style="float:right; text-align:center;"
+|-
+! Western<br />(Maghreb, Europe) || Central<br />(Mideast) || colspan=2 | Eastern<br />(Persian, Urdu)
+|-
+| 0
+| <span style="font-size:large">{{lang|ar|٠}}</span>
+| <span style="font-size:large">{{lang|fa|۰}}</span>|| {{Urdu numeral||20}}
+|-
+| 1
+| <span style="font-size:large">{{lang|ar|١}}</span>
+| <span style="font-size:large">{{lang|fa|۱}}</span>|| {{Urdu numeral|1|20}}
+|-
+| 2
+| <span style="font-size:large">{{lang|ar|٢}}</span>
+| <span style="font-size:large">{{lang|fa|۲}}</span>|| {{Urdu numeral|2|20}}
+|-
+| 3
+| <span style="font-size:large">{{lang|ar|٣}}</span>
+| <span style="font-size:large">{{lang|fa|۳}}</span>|| {{Urdu numeral|3|20}}
+|-
+| 4
+| <span style="font-size:large">{{lang|ar|٤}}</span>
+| <span style="font-size:large">{{lang|fa|۴}}</span>|| {{Urdu numeral|4|20}}
+|-
+| 5
+| <span style="font-size:large">{{lang|ar|٥}}</span>
+| <span style="font-size:large">{{lang|fa|۵}}</span>|| {{Urdu numeral|5|20}}
+|-
+| 6
+| <span style="font-size:large">{{lang|ar|٦}}</span>
+| <span style="font-size:large">{{lang|fa|۶}}</span>|| {{Urdu numeral|6|20}}
+|-
+| 7
+| <span style="font-size:large">{{lang|ar|٧}}</span>
+| <span style="font-size:large">{{lang|fa|۷}}</span>|| {{Urdu numeral|7|20}}
+|-
+| 8
+| <span style="font-size:large">{{lang|ar|٨}}</span>
+| <span style="font-size:large">{{lang|fa|۸}}</span>|| {{Urdu numeral|8|20}}
+|-
+| 9
+| <span style="font-size:large">{{lang|ar|٩}}</span>
+| <span style="font-size:large">{{lang|fa|۹}}</span>|| {{Urdu numeral|9|20}}
+|-
+| 10
+| <span style="font-size:large">{{lang|ar|١٠}}</span>
+| <span style="font-size:large">{{lang|ar|۱۰}}</span>|| {{Urdu numeral|1|20}}{{Urdu numeral|0|20}}
+|}{{Urdu numeral|1|20}}
+{{Main|Western Arabic numerals|Eastern Arabic numerals}}
+
+There are two main kinds of numerals used along with Arabic text; [[Western Arabic numerals]] and [[Eastern Arabic numerals]]. In most of present-day North Africa, the usual Western Arabic numerals are used. Like Western Arabic numerals, in Eastern Arabic numerals, the units are always right-most, and the highest value left-most.
+
+===Letters as numerals===
+{{main|Abjad numerals}}
+
+In addition, the Arabic alphabet can be used to represent numbers ([[Abjad numerals]]). This usage is based on the ''{{transl|ar|abjadī}}'' order of the alphabet. {{lang|ar|ا}} ''{{transl|ar|alif}}'' is 1, {{lang|ar|ب}} ''{{transl|ar|ALA|bā’}}'' is 2, {{lang|ar|ج}} ''{{transl|ar|jīm}}'' is 3, and so on until {{lang|ar|ي}} ''{{transl|ar|ALA|yā’}}'' = 10, {{lang|ar|ك}} ''{{transl|ar|ALA|kāf}}'' = 20, {{lang|ar|ل}} ''{{transl|ar|ALA|lām}}'' = 30, …, {{lang|ar|ر}} ''{{transl|ar|ALA|rā’}}'' = 200, …, {{lang|ar|غ}} ''{{transl|ar|ALA|ghayn}}'' = 1000.  This is sometimes used to produce [[chronogram]]s.
+
+== History ==
+{{Main|History of the Arabic alphabet}}
+[[File:Arabic script evolution.svg|thumb|250px|Evolution of early Arabic calligraphy (9th–11th century). The ''{{transl|ar|ALA|[[Basmala]]}}'' is taken as an example, from [[Kufic]] ''{{transl|ar|ALA|[[Qur’ān]]}}'' manuscripts. (1) Early 9th century script used no dots or [[diacritic]] marks;<ref>[[commons:File:Basmala kufi.svg|File:Basmala kufi.svg - Wikimedia Commons]]</ref> (2) and (3) in the 9th–10th century during the Abbasid dynasty, [[Abu al-Aswad al-Du'ali|Abu al-Aswad]]'s system used red dots with each arrangement or position indicating a different short vowel. Later, a second system of black dots was used to differentiate between letters like ''{{transl|ar|ALA|fā’}}'' and ''{{transl|ar|ALA|qāf}}'';<ref name="wikimedia1">[[commons:File:Kufi.jpg|File:Kufi.jpg - Wikimedia Commons]]</ref><ref name="wikimedia1"/>  (4) in the 11th century, [[Al-Khalil ibn Ahmad al-Farahidi|al-Farāhīdī]]'s system) dots were changed into shapes resembling the letters to transcribe the corresponding long vowels. This system is the one used today.<ref>[[commons:File:Qur'an folio 11th century kufic.jpg|File:Qur'an folio 11th century kufic.jpg - Wikimedia Commons]]</ref>]]
+The Arabic alphabet can be traced back to the [[Nabataean alphabet]] used to write the [[Nabataean]] dialect of [[Aramaic]]. The first known text in the Arabic alphabet is a late 4th-century inscription from ''{{transl|ar|[[Jabal Ramm]]}}'' (50&nbsp;km east of ''{{transl|ar|ALA|[[Aqaba|‘Aqabah]]}}'') in [[Jordan]], but the first dated one is a trilingual inscription at [[Zebed]] in [[Syria]] from 512.  However, the [[epigraphy|epigraphic]] record is extremely sparse, with only five certainly [[pre-Islamic Arabic inscriptions]] surviving, though some others may be pre-Islamic. Later, dots were added above and below the letters to differentiate them.  (The Aramaic language had fewer phonemes than the Arabic, and some originally distinct Aramaic letters had become indistinguishable in shape, so that in the early writings 15 distinct letter-shapes had to do duty for 28 sounds; cf. the similarly ambiguous [[Book Pahlavi|Pahlavi]] alphabet.)  The first surviving document that definitely uses these dots is also the first surviving Arabic [[papyrus]] ([[PERF 558]]), dated April 643, although they did not become obligatory until much later. Important texts were and still are frequently memorized, especially in [[Hafiz (Qur'an)|Qur'an memorization]], a practice which probably arose partially from a desire to avoid the great ambiguity of the script.
+
+Later still, vowel marks and the ''{{transl|ar|ALA|hamzah}}'' were introduced, beginning some time in the latter half of the 7th century, preceding the first invention of [[Syriac alphabet|Syriac]] and [[Tiberian vocalization|Hebrew vocalization]].  Initially, this was done by a system of red dots, said to have been commissioned by an [[Umayyad]] governor of [[Iraq]], ''{{transl|ar|[[Hajjaj ibn Yusuf|Ḥajjaj ibn Yūsuf]]}}'': a dot above = ''{{transl|ar|ALA|a}}'', a dot below = ''{{transl|ar|ALA|i}}'', a dot on the line = ''{{transl|ar|ALA|u}}'', and doubled dots indicated [[nunation]].  However, this was cumbersome and easily confusable with the letter-distinguishing dots, so about 100 years later, the modern system was adopted.  The system was finalized around 786 by ''{{transl|ar|ALA|[[al-Farahidi|al-Farāhīdī]]}}''.
+
+=== Arabic printing presses ===
+Although [[Napoleon Bonaparte]] generally receives credit for introducing the printing press to [[Egypt]] during his invasion of that country in 1798, and though he did indeed bring printing presses and [[Arabic script]] presses to print the French occupation's official newspaper ''Al-Tanbiyyah'' ("The Courier"), printing in the Arabic language started several centuries earlier.
+
+Following [[Johannes Gutenberg|Gutenberg]]'s invention of the printing press in 1450, Gregorio de Gregorii, a Venetian, published in 1514 an entire prayer-book in Arabic script entitled ''Kitab Salat al-Sawa'i'' - intended for the eastern Christian communities.
+
+Famed type-designer [[Robert Granjon]], working for Cardinal [[Ferdinando I de' Medici, Grand Duke of Tuscany|Ferdinando de' Medici]], succeeded in designing (1580-1586) elegant Arabic typefaces, and the [[Medici Oriental Press|Medici press]] published many Christian prayer and scholarly Arabic texts in the late 16th century.
+
+[[Maronite]] monks at the Maar Quzhayy Monastery in [[Mount Lebanon]] published the first Arabic books to use movable type in the Middle East. The monks transliterated the Arabic language using [[Syriac]] script.
+
+A goldsmith (like Gutenberg) designed and implemented an Arabic-script movable-type printing-press in the Middle East. The [[Greek Orthodox]] monk [[Abd Allah Zakhir]] set up an [[Arabic language]] [[printing press]] using [[movable type]] at the monastery of Saint John at the town of [[Dhour El Shuwayr]] in Mount Lebanon, the first homemade press in Lebanon using Arabic script. He personally cut the type molds and did the founding of the elegant typeface. The first book came off his press in 1734; this press continued in use until 1899.<ref>[http://www.saudiaramcoworld.com/issue/198102/arabic.and.the.art.of.printing-a.special.section.htm Arabic and the Art of Printing – A Special Section], by Paul Lunde
+</ref>
+
+== Computers and the Arabic alphabet ==
+The Arabic alphabet can be encoded using several [[character set]]s, including [[ISO-8859-6]], [[Windows-1256]] and [[Unicode]] (see links in Infobox, above), in the latter thanks to the "Arabic segment", entries U+0600 to U+06FF. However, none of these sets indicate the form each character should take in context. It is left to the [[rendering (computer graphics)|rendering engine]] to select the proper [[glyph]] to display for each character.
+
+For compatibility with previous standards, initial, medial, final and isolated forms can be encoded separately in [[Unicode]]; however, they can also be inferred from their joining context, using the same encoding. The following table shows this common encoding, in addition to the compatibility encodings for their normally contextual forms (Arabic texts should be encoded today using only the common encoding, but the rendering must then infer the joining types to determine the correct glyph forms, with or without ligation).
+
+===Unicode===
+{{Main|Arabic characters in Unicode}}
+As of Unicode 7.0, the following ranges encode Arabic characters:
+*[[Arabic (Unicode block)|Arabic]] (0600-06FF)
+*[[Arabic Supplement]] (0750-077F)
+*[[Arabic Extended-A]] (08A0-08FF)
+*[[Arabic Presentation Forms-A]] (FB50-FDFF)
+*[[Arabic Presentation Forms-B]] (FE70-FEFF)
+*[[Arabic Mathematical Alphabetic Symbols]] 1EE00-1EEFF)
+*[[Rumi Numeral Symbols]] (10E60-10E7F)
+
+The basic Arabic range encodes the standard letters and diacritics, but does not encode contextual forms (U+0621-U+0652 being directly based on [[ISO 8859-6]]); and also includes the most common diacritics and [[Arabic-Indic digits]]. U+06D6 to U+06ED encode Qur'anic annotation signs such as "end of ''[[ayah]]''" {{unicode|۝&#x6d6;}} and "start of ''[[Rub El Hizb|rub el hizb]]''"  {{unicode|۞}}. The Arabic Supplement range encodes letter variants mostly used for writing African (non-Arabic) languages.  The Arabic Extended-A range encodes additional Qur'anic annotations and letter variants used for various non-Arabic languages. The Arabic Presentation Forms-A range encodes contextual forms and ligatures of letter variants needed for Persian, Urdu, Sindhi and Central Asian languages. The Arabic Presentation Forms-B range encodes spacing forms of Arabic diacritics, and more contextual letter forms.  The Arabic Mathematical Alphabetical Symbols block encodes characters used in Arabic mathematical expressions.
+
+See also the notes of the section on [[#Modified letters|modified letters]].
+
+===Keyboards===
+[[File:KB Arabic MAC.svg|thumb|450px|Arabic Mac keyboard layout]]
+[[File:KB Arabic.svg|thumb|450px|Arabic PC keyboard layout]]
+[[File:Intellark4qwerty.png|thumb|450px|[[Intellark]] imposed on a QWERTY keyboard layout.]]
+
+Keyboards designed for different nations have different layouts, so that proficiency in one style of keyboard such as Iraq's does not transfer to proficiency in another keyboard such as Saudi Arabia's.   Differences can include the location of non-alphabetic characters.
+
+All Arabic keyboards allow typing Roman characters, e.g., for the URL in a [[web browser]]. Thus, each Arabic keyboard has both Arabic and Roman characters marked on the keys. Usually the Roman characters of an Arabic keyboard conform to the [[QWERTY]] layout, but in [[North Africa]], where [[French language|French]] is the most common language typed using the Roman characters, the Arabic keyboards are [[AZERTY]].
+
+To encode a particular written form of a character, there are extra code points provided in Unicode which can be used to express the exact written form desired.  The range ''Arabic presentation forms A'' (U+FB50 to U+FDFF) contain ligatures while the range ''Arabic presentation forms B'' (U+FE70 to U+FEFF) contains the positional variants.  These effects are better achieved in Unicode  by using the ''[[zero-width joiner]]'' and ''[[zero-width non-joiner|non-joiner]]'', as these presentation forms are deprecated in Unicode, and should generally only be used within the internals of text-rendering software, when using Unicode as an intermediate form for conversion between character encodings, or for backwards compatibility with implementations that rely on the hard-coding of glyph forms.
+
+Finally, the Unicode encoding of Arabic is in ''logical order'', that is, the characters are entered, and stored in computer memory, in the order that they are written and pronounced without worrying about the direction in which they will be displayed on paper or on the screen. Again, it is left to the rendering engine to present the characters in the correct direction, using Unicode's [[bi-directional text]] features. In this regard, if the Arabic words on this page are written left to right, it is an indication that the Unicode rendering engine used to display them is out of date.<ref>For more information about encoding Arabic, consult the Unicode manual available at [http://www.unicode.org/ The Unicode website]</ref><ref>See also [http://www.lib.uchicago.edu/e/su/mideast/Multilingual_Computing_with_Arabic_and_Arabic_Transliteration.pdf Multilingual Computing with Arabic and Arabic Transliteration: Arabicizing Windows Applications to Read and Write Arabic & Solutions for the Transliteration Quagmire Faced by Arabic-Script Languages] and [http://www.lib.uchicago.edu/e/su/mideast/multilingual_computing_arabic.ppt A PowerPoint Tutorial (with screen shots and an English voice-over) on how to add Arabic to the Windows Operating System]. {{wayback|url=http://www.lib.uchicago.edu/e/su/mideast/Multilingual_Computing_with_Arabic_and_Arabic_Transliteration.pdf |date=20110911024303 }}</ref>
+
+There are competing on-line tools, e.g. [http://www.yamli.com/editor/ Yamli editor], which allow entry of Arabic letters without having Arabic support installed on a PC, and without knowledge of the layout of the Arabic keyboard.<ref>[http://www.yamli.com/press/ Yamli in the News]</ref>
+
+===Handwriting recognition===
+The first software program of its kind in the world that identifies Arabic handwriting in real time has been developed by researchers at [[Ben-Gurion University]] (BGU).
+
+The prototype enables the user to write Arabic words by hand on an electronic screen, which then analyzes the text and translates it into printed Arabic letters in a thousandth of a second. The error rate is less than three percent, according to Dr. Jihad El-Sana, from BGU's department of computer sciences, who developed the system along with master's degree student Fadi Biadsy.<ref>[http://www.israel21c.org/technology/arabic-handwriting-gets-computerized-thanks-to-israeli-innovation/ Israel 21c]</ref>
+
+== See also ==
+{{Commons category|Arabic alphabet}}
+*[[Arabic calligraphy]]
+*[[Arabic diacritics]] (pointed vowels and consonants)
+*[[Arabic numerals]]
+*[[Arabic script]] about other languages written in Arabic letters.
+*[[Arabic Unicode]]
+*[[Arabic Chat Alphabet]]
+*[[ArabTeX]] – provides Arabic support for [[TeX]] and [[LaTeX]]
+*[[Rasm]] (unpointed consonants)
+*[[Romanization of Arabic]]
+*[[South Arabian alphabet]]
+*[[Persian alphabet|Perso-Arabic script]]
+*[[Additional Arabic Letters]]
+*[[Arabic braille]]
+*[[Algerian braille]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [http://alifbaa.co.uk/ A Mobile Application to help teach the arabic alphabet ]
+* [http://vkboard.com/virtual-arabic-keyboard/ Arabic Keyboard ]
+* [https://quranforkids.org/qaida-lesson-1/ Quranic Arabic Lessons for Kids ]
+* [http://www.essentialilm.com/quran/quran-101-arabic-alphabet/ Free Arabic Alphabet Lessons ]
+* [http://arabicreadingcourse.com/ Test yourself on the Arabic alphabet ]
+* [https://www.youtube.com/watch?v=uDXQztbFx-4 A YouTube video about learning Arabic by Br. Wisam Sharieff]
+* [http://www.salaamarabic.com/lesson/plan/1490/isolated_consonants Interactive audio lesson for learning the Arabic alphabet]
+* [http://onlinelibrary.wiley.com/doi/10.1002/asi.21090/abstract Named Entity Recognition] – for a discussion of inconsistencies and variations of Arabic written text.
+* [http://arabetics.com/ Arabetics] – for a discussion of consistency and uniformization of Arabic written text.
+*[http://www.learnarabicwithsalah.com/2014/01/Arabic-alphabets-course-guide.html Arabic alphabet course videos guide]
+*[http://alefba.us/typography/free-arabic-persian-farsi-urdu-kurdish-fonts/ Open Source fonts for Arabic script]
+*[http://www.arab-clavier.com Arabic Keyboard (in French)]
+*[http://edition.cnn.com/2010/LIVING/09/06/arabic.difficulty.learning/ Why the right side of your brain doesn't like Arabic]
+
+<!--======================== {{No more links}} ============================
+    | PLEASE BE CAUTIOUS IN ADDING MORE LINKS TO THIS ARTICLE. Wikipedia  |
+    | is not a collection of links nor should it be used for advertising. |
+    |                                                                     |
+    |           Excessive or inappropriate links WILL BE DELETED.         |
+    | See [[Wikipedia:External links]] & [[Wikipedia:Spam]] for details.  |
+    |                                                                     |
+    | If there are already plentiful links, please propose additions or   |
+    | replacements on this article's discussion page, or submit your link |
+    | to the relevant category at the Open Directory Project (dmoz.org)   |
+    | and link back to that category using the {{dmoz}} template.         |
+    ======================= {{No more links}} =============================-->
+* {{dmoz|Science/Social_Sciences/Linguistics/Languages/Natural/Afro-Asiatic/Arabic/Online_Courses/|Arabic}}
+
+----
+''This article contains major sections of text from the very detailed article [[:fr:Alphabet arabe|Arabic alphabet]] from the French Wikipedia, which has been partially translated into English. Further translation of that page, and its incorporation into the text here, are welcomed.''
+
+{{Arabic alphabets}}
+{{Arabic language|state=collapsed}}
+{{list of writing systems}}
+{{Northwest Semitic abjad}}
+{{Authority control}}
+
+{{DEFAULTSORT:Arabic Alphabet}}
+[[Category:Arabic alphabets| ]]
+[[Category:Arabic orthography]]

@@ -1,0 +1,212 @@
+{{Use mdy dates|date=October 2012}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+ | name = Dan Simmons
+ | image = 
+ | imagesize =
+ | caption =
+ | pseudonym =
+ | birth_date = {{birth date and age|1948|4|4}}
+ | birth_place = [[Peoria, Illinois]]
+ | death_date =
+ | death_place =
+ | occupation = Novelist
+ | nationality = American
+ | period = 1983–present
+ | genre = [[Science fiction]], [[Horror fiction|horror]], [[fantasy]]
+ | subject =
+ | movement =
+ | notableworks = Novel: ''[[Song of Kali]]'' (1985) Novel: ''[[Hyperion (Simmons novel)|Hyperion]]'' (1989)
+ | influences = [[Harlan Ellison]], [[Jack Vance]]
+ | influenced = [[Iain Banks]] <!-- Infobox writer no longer supports these two fields -->
+ | signature =
+ | website    = {{URL|dansimmons.com}}
+ }}
+
+'''Dan Simmons''' (born April 4, 1948) is an American [[science fiction]] and [[Horror fiction|horror]] writer and author of the [[Hugo Award]]-winning science fiction series, the [[Hyperion Cantos]], and the [[Locus Awards|Locus]]-winning [[Ilium/Olympos]] cycle.
+
+His work spans the science fiction, horror and fantasy [[genres]], sometimes within a single novel: a typical example of Simmons' intermingling of genres is ''[[Song of Kali]]'' (1985), winner of [[World Fantasy Award]].<ref name="WWE-1986"/> He also writes mysteries and [[thriller (genre)|thriller]]s, some of which feature the continuing character Joe Kurtz.
+
+==Biography==
+Born in [[Peoria, Illinois]], Simmons received a B.A. in English from [[Wabash College]] in 1970, and, in 1971, a Masters in Education from [[Washington University in St. Louis]].
+
+He soon started to write short stories, although his career did not take off until 1982, when, through [[Harlan Ellison]]'s help, his short story "[[Prayers to Broken Stones#"The River Styx Runs Upstream"|The River Styx Runs Upstream]]" was published and awarded first prize in a ''[[Twilight Zone Magazine]]'' story competition. His first novel, ''Song of Kali'', was released in 1985.
+
+He worked in elementary education until 1989.
+
+==Horror fiction==
+''[[Summer of Night]]'' (1991) recounts the childhood of a group of pre-teens who band together in the 1960s to defeat a centuries-old evil that terrorizes their hometown of Elm Haven, [[Illinois]]. The novel, which was praised by [[Stephen King]]{{citation needed|date=April 2015}}, is similar to King's ''[[It (novel)|It]]'' in its focus on small town life, the corruption of innocence, the return of an ancient evil, and the responsibility for others that emerges with the transition from youth to adulthood.
+
+In the sequel to ''Summer of Night'', ''[[A Winter Haunting]]'', Dale Stewart (one of the first book's protagonists, and now an adult), revisits his boyhood home to come to grips with mysteries that have disrupted his adult life. ''[[Children of the Night (Simmons novel)|Children of the Night]]'', another loose sequel, features Mike O'Rourke, now much older and a Roman Catholic priest, who is sent on a mission to investigate bizarre events in a European city. Another ''Summer of Night'' character, Dale's younger brother, Lawrence Stewart, appears as a minor character in Simmons' thriller ''Darwin's Blade,'' while the adult Cordie Cooke appears in ''[[Fires of Eden]]''.
+
+Soon after ''[[Summer of Night]]'', Simmons, who had written mostly horror fiction, began to focus on writing science fiction, although in 2007 he returned with a work of [[historical fiction]] and horror, ''[[The Terror (novel)|The Terror]]''. In 2009 he also wrote a book, ''[[Drood (novel)|Drood]]'', based on the last years of [[Charles Dickens]]' life, those leading up to the writing of ''[[The Mystery of Edwin Drood]]'', which Dickens had partially completed at the time of his death.<ref name="st090215"/>
+
+==Historical fiction==
+
+''The Terror'' (2007) crosses the bridge between horror and historical fiction. It is a fictionalized account of Captain Sir John Franklin's expedition to find the Northwest Passage. The two ships ''HMS Erebus'' and ''HMS Terror'' become icebound the first winter, and the captains and crew struggle to survive while being stalked across an Arctic landscape by a monster.
+
+''The Abominable'' (2013) recounts a late 1920's attempt on Mount Everest by five climbers—two English, one French, one Sherpa, and one American, the narrator—to recover the body of the cousin of one of the English characters. What follows is a tale of the early days of mountain climbing, a history of the early assaults on Everest, intrigue, espionage, and human dedication and willpower.
+
+==Literary references==
+Simmons became famous in [[1989 in literature|1989]] for ''Hyperion'', winner of Hugo and [[Locus Award]]s for the best science fiction novel.<ref name="WWE-1990"/> This novel deals with a space war, and is inspired in its structure by [[Giovanni Boccaccio|Boccaccio's]] ''[[Decameron]]'' and [[Chaucer]]'s ''[[Canterbury Tales]]''.
+
+Many of his works have similarly strong ties with classic literature:{{citation needed|date=September 2011}}
+* ''[[Carrion Comfort]]'' derives its title and many of its themes from a poem by [[Gerard Manley Hopkins]]
+* ''Vanni Fucci Is Alive and Well and Living In Hell'', a 1988 short story lampooning [[televangelist]]s included in ''[[Prayers to Broken Stones]]'', is about a brief return to earth by the title character, an inhabitant of [[Dante]]'s ''[[The Divine Comedy|Inferno]]''
+* The ''[[Hyperion Cantos]]'' take their titles from poems by the English Romantic, [[John Keats]].
+* The basic structure of ''[[Hyperion (Simmons novel)|Hyperion]]'' is taken from the Middle-English cycle of stories ''[[The Canterbury Tales]]''. A varied group of individuals are on a pilgrimage to solicit a kind of demon-god called the Shrike on the planet Hyperion in a universe on the edge of the apocalypse. Each pilgrim tells his or her tale of why they are going to see the Shrike. ''The Fall of Hyperion'' is the conclusion to the story of the pilgrims rather than a stand-alone sequel. ''Hyperion'' and ''Fall of Hyperion'' are essentially one work in two volumes.
+* ''[[The Hollow Man (1992 novel)|The Hollow Man]]'' (1992) is influenced by Dante's ''Inferno'' and [[T. S. Eliot]]
+* A short story from [[1993 in literature|1993]], ''The Great Lover'', is inspired by the [[World War I]] [[War Poets]].
+* In ''[[The Fall of Hyperion (novel)|The Fall of Hyperion]]'', [[John Keats]] appears as one of the main characters, with references to characters in ''[[Forbidden Planet]]'' and ''[[The Time Machine]]''.
+* His ''[[Ilium/Olympos]]'' cycle is inspired by [[Homer]]'s works. Both Shakespeare and Proust are mentioned as well.
+* The character of Ada and her home Ardis Hall in the ''Ilium'' cycle are inspired by [[Vladimir Nabokov]]'s novel ''[[Ada or Ardor: A Family Chronicle|Ada or Ardor]]'', which was one of Nabokov's forays into the science fiction genre and alternate history.
+* His collection of short stories, ''Worlds Enough & Time'', takes its name from the first line of the poem ''[[His Coy Mistress|To His Coy Mistress]]'' by British poet Andrew Marvell: 'Had we but world enough, and time,'.
+* The detective in ''Flashback'' is named [[Nick Bottom]] after the character in Shakespeare's ''[[A Midsummer Night's Dream]]''.
+
+==Screen adaptations==
+In 2009, [[Scott Derrickson]] was set to direct ''"Hyperion Cantos"'' for [[Warner Bros.]] and Graham King, with Trevor Sands penning the script to blend the first two cantos "Hyperion" and "The Fall of Hyperion" into one film.<ref>{{cite web|last=Fleming|first=Michael|title=Scott Derrickson to direct 'Hyperion'|url=http://www.variety.com/article/VR1117999283?refCatId=13|publisher=[[variety.com]]|accessdate=2012-12-10|archiveurl=http://www.webcitation.org/6CoW8C7Fr|archivedate=2012-12-10|date=Jan 29, 2009}}</ref>  In 2011, actor [[Bradley Cooper]] expressed interest in taking over the adaptation.<ref>{{cite web|last=Falconer|first=Robert |title=Bradley Cooper Anxious to Adapt Dan Simmons’s Hyperion for the Screen|publisher=[[cinemaspy.com]]|url=http://www.cinemaspy.com/movie-news/bradley-cooper-anxious-to-adapt-dan-simmonss-hyperion-for-the-screen-7564|accessdate=2012-12-10|archiveurl=http://www.webcitation.org/6CoWkcEaJ|archivedate=2012-12-10|date=May 27, 2011}}</ref> It was recently announced that TV channel [[Syfy]] will produce a mini-series based on the Hyperion Cantos with the involvement of Cooper and King.<ref>{{cite web|last=Goldberg|first=Lesley |title=Bradley Cooper, Graham King, Todd Phillips Adapting Dan Simmons' 'Hyperion' for Syfy|url=http://www.hollywoodreporter.com/live-feed/bradley-cooper-graham-king-todd-801537|publisher=[[Hollywood Reporter]]|accessdate=2015-08-05|date=June 10, 2015}}</ref>
+
+==Works==
+
+===Hyperion Cantos===
+# ''[[Hyperion (Simmons novel)|Hyperion]]'' (1989) – [[Hugo Award|Hugo]] and [[Locus Award|Locus]] Awards winner, BSFA nominee, 1990;<ref name="WWE-1990"/> [[Arthur C. Clarke Award]] nominee, 1992<ref name="WWE-1992"/>
+# ''[[The Fall of Hyperion (novel)|The Fall of Hyperion]]'' (1990) – [[Nebula Award]] nominee, 1990;<ref name="WWE-1990"/> BSFA and Locus Awards winner, Hugo Award nominee, 1991;<ref name="WWE-1991"/>
+# ''[[Endymion (Simmons novel)|Endymion]]'' (1996) – Locus Award shortlist, 1997<ref name="WWE-1997"/>
+# ''[[The Rise of Endymion]]'' (1997) – Locus Award winner, Hugo Award nominee 1998<ref name="WWE-1998"/>
+
+===Ilium/Olympos===
+# ''[[Ilium (novel)|Ilium]]'' (2003) – Locus Award winner, Hugo Award nominee, 2004<ref name="WWE-2004"/>
+# ''[[Olympos (novel)|Olympos]]'' (2005) – Locus Award shortlist, 2006<ref name="WWE-2006"/>
+
+===Joe Kurtz===
+# ''[[Hardcase (novel)|Hardcase]]'' (2001)
+# ''[[Hard Freeze (novel)|Hard Freeze]]'' (2002)
+# ''[[Hard as Nails (novel)|Hard as Nails]]'' (2003)
+
+===Summer of Night===
+* ''[[Summer of Night]]'' (1991) – British Fantasy Award, 1992<ref name="WWE-1992"/>
+* ''[[Children of the Night (Simmons novel)|Children of the Night]]'' (1992) – [[Locus Award]] 1993 (Horror)
+* ''[[Fires of Eden (novel)|Fires of Eden]]'' (1994) - [[Locus Award]]
+* ''[[A Winter Haunting]]'' (2002) – Locus Award nominee, 2003<ref name="WWE-2003"/>
+
+===Other books===
+* ''[[Song of Kali]]'' (1985) – [[World Fantasy Award]] winner, 1986<ref name="WWE-1986"/>
+* ''[[Carrion Comfort]]'' (1989) – [[Bram Stoker Award]] winner 1989; British Fantasy Award winner, World Fantasy Award nominee, 1990<ref name="WWE-1990"/>
+* ''Phases of Gravity'' (1989)
+* ''Entropy's Bed at Midnight'' (1990)
+* ''[[Prayers to Broken Stones]]'' (1990, short story collection)
+* ''Summer Sketches'' (1992, short story collection)
+* ''Lovedeath'' (1993, short story collection)
+* ''[[The Hollow Man (1992 novel)|The Hollow Man]]'' (1992) – Locus Award nominee, 1993<ref name="WWE-1993"/>
+* ''[[The Crook Factory]]'' (1999)
+* ''[[Darwin's Blade]]'' (2000)
+* ''Worlds Enough & Time'' (2002, short story collection)
+* ''[[The Terror (novel)|The Terror]]'' (2007)<ref name="nyt070318"/> – British Fantasy Award nominee, 2008<ref name="WWE-2008"/>
+* ''[[Muse of Fire]]'' (2008, novella)
+* ''[[The Guiding Nose of Ulfänt Banderōz]]'' (2009, novella)
+* ''[[Drood (novel)|Drood]]'' (2009)
+* ''[[Black Hills (novel)|Black Hills]]'' (2010)
+* ''Flashback'' (2011)
+* ''[[The Abominable]]'' (2013)<ref name="abominablereveal">{{cite web|url=http://upcoming4.me/news/book-news/dan-simmons-the-abominable-cover-art-reveal|title=Dan Simmons The Abominable cover art reveal!|work=Upcoming4.me|date=14 March 2013|accessdate=14 March 2013}}</ref>
+* ''[[The Fifth Heart]]'' (2015) <ref name="thefifthheartreveal">{{cite web|url=http://www.kernelscorner.com/2014/03/dans-simmons-to-release-fifth-heart-his.html |title=Dan Simmons To Release 'The Fifth Heart', His Next Book After 'The Abominable' |work=Kernel's Corner |date=10 March 2014 |accessdate=6 April 2014 }}</ref>
+
+==Awards==
+
+===Wins===
+[[Bram Stoker Award]]
+*Best Collection (1992): ''Prayers to Broken Stones''
+*Best Novel (1990): ''Carrion Comfort''
+*Best Novellette (1994): "Dying in Bangkok"
+*Best Short Story (1993): "This Year's Class Picture"
+
+[[British Fantasy Society Award]]
+*Best Novel (1990): ''Carrion Comfort''<ref name="WWE-1990"/>
+
+[[British Science Fiction Award]]
+*Best Novel (1991): ''The Fall of Hyperion''<ref name="WWE-1991"/>
+
+[[Hugo Award]]
+*Best Novel (1990): ''Hyperion''<ref name="WWE-1990"/>
+
+[[International Horror Guild Award]]
+*Best Novel (2003): ''A Winter Haunting''
+
+[[Locus Award]]
+*Best Horror Novel (1990): ''Carrion Comfort''<ref name="WWE-1990"/>
+*Best Science Fiction Novel (1990): ''Hyperion''<ref name="WWE-1990"/>
+*Best Novelette (1991): "Entropy's Bed at Midnight"
+*Best Science Fiction Novel (1991): ''The Fall of Hyperion''<ref name="WWE-1991"/>
+*Best Horror/Dark Fantasy Novel (1992): ''Summer of Night''
+*Best Horror/Dark Fantasy Novel (1993): ''Children of the Night''
+*Best Novelette (1994): "Dying in Bangkok"
+*Best Horror/Dark Fantasy Novel (1995): ''Fires of Eden''
+*Best Science Fiction Novel (1998): ''The Rise of Endymion''<ref name="WWE-1998"/>
+*Best Novelette (2000): "Orphans of the Helix"
+*Best Science Fiction Novel (2004): ''Ilium''<ref name="WWE-2004"/>
+[[Nocte Award]]
+* Best Foreign Short Story (2010): “La foto de la clase de este año” (This Year's Class Picture).
+[[Seiun Award]]
+*Best Foreign Novel (1995): Hyperion
+*Best Novel (1996): ''The Fall of Hyperion'' (tied with ''Timelike Infinity'' by Stephen Baxter)
+*Best Foreign Short Story (1999): "This Year's Class Picture"
+[[World Fantasy Award]]
+*Best Novel (1986): ''Song of Kali''<ref name="WWE-1986"/>
+*Best Short story (1993): "This Year's Class Picture"
+
+===Nominations===
+Dan Simmons has been nominated on numerous occasions in a range of categories for his fiction, including the Arthur C. Clarke Award, Bram Stoker Award, British Fantasy Society Award, Hugo Award, Nebula Award, and World Fantasy Award.<ref>[http://www.worldswithoutend.com/author.asp?ID=38#books ''Works in the WWEnd Database''] for Dan Simmons.</ref>
+
+==References==
+{{Reflist|25em |refs=
+<ref name="nyt070318">{{cite news |first=Terrence |last=Rafferty |newspaper=The New York Times |title=Ice Men |url=http://query.nytimes.com/gst/fullpage.html?res=9803E3D61231F93BA25750C0A9619C8B63 |date=March 18, 2007 |accessdate=March 31, 2010}}</ref>
+<ref name="st090215">{{cite news |first=Mary Ann |last=Gwinn |url=http://seattletimes.nwsource.com/html/books/2008737263_drood15.html |title=Q&A: Dan Simmons, author of "Drood" |work=[[The Seattle Times]] |date=February 15, 2009}}</ref>
+<ref name="WWE-1986">{{cite web |url = http://www.worldswithoutend.com/books_year_index.asp?year=1986 |title = 1986 Award Winners & Nominees |work = Worlds Without End |accessdate=2009-07-16}}</ref>
+<ref name="WWE-1990">{{cite web |url = http://www.worldswithoutend.com/books_year_index.asp?year=1990 |title = 1990 Award Winners & Nominees |work = Worlds Without End |accessdate=2009-07-16}}</ref>
+<ref name="WWE-1991">{{cite web |url = http://www.worldswithoutend.com/books_year_index.asp?year=1991 |title = 1991 Award Winners & Nominees |work = Worlds Without End |accessdate=2009-07-16}}</ref>
+<ref name="WWE-1992">{{cite web |url = http://www.worldswithoutend.com/books_year_index.asp?year=1992 |title = 1992 Award Winners & Nominees |work = Worlds Without End |accessdate=2009-07-16}}</ref>
+<ref name="WWE-1993">{{cite web |url = http://www.worldswithoutend.com/books_year_index.asp?year=1993 |title = 1993 Award Winners & Nominees |work = Worlds Without End |accessdate=2009-07-16}}</ref>
+<ref name="WWE-1997">{{cite web |url = http://www.worldswithoutend.com/books_year_index.asp?year=1997 |title = 1997 Award Winners & Nominees |work = Worlds Without End |accessdate=2009-07-16}}</ref>
+<ref name="WWE-1998">{{cite web |url = http://www.worldswithoutend.com/books_year_index.asp?year=1998 |title = 1998 Award Winners & Nominees |work = Worlds Without End |accessdate=2009-07-16}}</ref>
+<ref name="WWE-2003">{{cite web |url = http://www.worldswithoutend.com/books_year_index.asp?year=2003 |title = 2003 Award Winners & Nominees |work = Worlds Without End |accessdate=2009-07-16}}</ref>
+<ref name="WWE-2004">{{cite web |url = http://www.worldswithoutend.com/books_year_index.asp?year=2004 |title = 2004 Award Winners & Nominees |work = Worlds Without End |accessdate=2009-07-16}}</ref>
+<ref name="WWE-2006">{{cite web |url = http://www.worldswithoutend.com/books_year_index.asp?year=2006 |title = 2006 Award Winners & Nominees |work = Worlds Without End |accessdate=2009-07-16}}</ref>
+<ref name="WWE-2008">{{cite web |url = http://www.worldswithoutend.com/books_year_index.asp?year=2008 |title = 2008 Award Winners & Nominees |work = Worlds Without End |accessdate=2009-07-16}}</ref>
+}}
+
+==External links==
+* {{official website }}
+* [http://www.dansimmons.com/writing_welll/archive/writing_index.htm Dan Simmons' On Writing Well]
+* [https://archive.org/details/BookBanterEpisode004-AnInterviewWithDanSimmons Interview by BookBanter]
+* [http://www.worldswithoutend.com/author.asp?ID=38 Dan Simmons] on Worlds Without End
+* {{isfdb name|170}}
+* {{IBList |type=author|id=327|name=Dan Simmons}}
+* {{OL author|OL235668A}}
+* {{LCAuth|n85026246|Dan Simmons|2|}}
+
+{{Dan Simmons}}
+{{Authority control}}
+
+{{Persondata
+|NAME=Simmons, Daniel
+|ALTERNATIVE NAMES= Simmons, Dan
+|SHORT DESCRIPTION= American novelist
+|DATE OF BIRTH = April 4, 1948
+|PLACE OF BIRTH= Peoria, Illinois, USA
+|DATE OF DEATH =
+|PLACE OF DEATH=
+}}
+{{DEFAULTSORT:Simmons, Dan}}
+[[Category:Dan Simmons| ]]
+[[Category:1948 births]]
+[[Category:Living people]]
+[[Category:20th-century American novelists]]
+[[Category:21st-century American novelists]]
+[[Category:American horror writers]]
+[[Category:American male novelists]]
+[[Category:American science fiction writers]]
+[[Category:American short story writers]]
+[[Category:Hugo Award winning writers]]
+[[Category:Writers from Peoria, Illinois]]
+[[Category:Wabash College alumni]]
+[[Category:Washington University in St. Louis alumni]]
+[[Category:World Fantasy Award winning writers]]
+[[Category:American male short story writers]]

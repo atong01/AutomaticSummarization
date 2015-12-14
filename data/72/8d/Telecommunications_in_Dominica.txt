@@ -1,0 +1,55 @@
+{{Context|date=December 2010}}
+
+'''[[Country calling code|Country Code]]: [[Area code 767|+1767]]'''<br>
+'''[[International Call Prefix]]: 011''' (outside NANP)
+
+Calls from Dominica to the US, Canada, and other NANP Caribbean nations, are dialed as 1 + NANP area code + 7-digit number. Calls from Dominica to non-NANP countries are dialed as 011 + country code + phone number with local area code.
+
+[[North American Numbering Plan#Dialing procedures|'''Number Format''']]: nxx-xxxx
+
+'''[[Telephone]]s - main lines in use:'''
+23,000 (2004)
+
+'''Telephones - [[mobile cellular]]:'''
+*Digicel
+*LIME
+
+'''Telephone system:'''
+*''Domestic:'' fully automatic network
+*''International:'' [[microwave]] radio relay and [[Super high frequency|SHF]] [[radiotelephone]] links to [[Martinique]] and [[Guadeloupe]]; [[VHF]] and [[Ultra high frequency|UHF]] radiotelephone links to [[Saint Lucia]]
+
+'''[[Radio]] [[Broadcasting|broadcast]] stations:'''
+[[AM broadcasting|AM]] 0, [[FM broadcasting|FM]] 15, [[shortwave]] 0 (2007)
+
+'''Radios:'''
+46,000 (1997)
+
+'''[[Television]] broadcast stations:'''
+0 (however, there are three cable television companies, [[Dominica Broadcast]], Marpin Telecoms [http://www.marpin.dm/] and Digicel Play - a merger of Digicel and SAT Telecommunications Ltd.<ref>http://dominicanewsonline.com/news/homepage/news/business/business-byte-sat-telecommunications-becomes-digicel-play/</ref>[http://www.sat.dm/]) (2004)
+
+'''Televisions:'''
+11,000 (2007)
+
+'''[[Internet Service Provider]]s (ISPs):'''
+Cable & Wireless Dominica Ltd (DSL)
+Marpin Telecoms (Cable)
+Digicel Play (Cable & FTTP)
+
+'''[[Internet code]]:''' DM
+
+'''[[Telephone code]]:''' 767
+
+==References==
+{{Reflist}}
+{{North America topic|Telecommunications in}}
+{{Telecommunications}}
+{{Use dmy dates|date=December 2010}}
+
+[[Category:Telecommunications by country|Dominica]]
+[[Category:Communications in Dominica|*]]
+[[Category:Internet by country|Dominica]]
+[[Category:Telecommunications in the Caribbean|Dominica]]
+
+
+{{Telecommunications-stub}}
+{{Dominica-stub}}

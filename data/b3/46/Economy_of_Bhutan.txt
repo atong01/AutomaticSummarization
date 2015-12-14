@@ -1,0 +1,125 @@
+{{Infobox economy
+|country = Bhutan
+|image = 
+|width = 
+|caption = 
+|currency = [[ngultrum]] (BTN); Indian rupee ([[Indian rupee|INR]])
+|year = 1 Jan - 31 December
+|organs = [[South Asian Free Trade Area|SAFTA]]
+|gdp rank = [[List of countries by GDP (nominal)|168th]] (nominal) / [[List of countries by GDP (PPP)|148th]] (PPP)
+|gdp = $5.867 billion (2014)
+|growth = 6.4% (2014)
+|per capita = $7,700 (2014)
+|sectors = agriculture: 14.4%, industry: 41.6%, services: 44% (2014)
+|inflation = 4.9% (2007 est.)
+|poverty =  12% (2012)
+|gini = 38.7 (2012)
+|edbr            = 125<ref name=" World Bank and International Financial Corporation ">{{cite web|url= http://www.doingbusiness.org/data/exploreeconomies/bhutan/|title= Doing Business in Bhutan 2012|publisher=[[World Bank]]|accessdate=2015-07-21}}</ref>
+|labor = 345,800 (2013) 
+|occupations = agriculture: 56%, industry: 22%, services: 22% (2013)
+|unemployment = 2.9% (2013)
+|industries = cement, wood products, processed fruits, alcoholic beverages, calcium carbide, tourism
+|exports = $650.3 million (2014)
+|export-goods = electricity (to India), cardamom, gypsum, timber, handicrafts, cement, fruit, precious stones, spices
+|export-partners = {{flag|India}} 83.9% <br> {{flag|Hong Kong}} 10.8% (2013)
+|imports = $980.6 million (2014)
+|import-goods = fuel and lubricants, grain, aircraft, machinery and parts, vehicles, fabrics, rice
+|import-partners = {{flag|India}} 72.3% <br> {{flag|South Korea}} 6% (2013)
+|debt = $713.3 million (2006)
+|revenue = $407.1 million (2014)
+|expenses = $614 million (the government of India finances nearly one-quarter of Bhutan's budget expenditures) (2014)
+|aid = $90.02 million (India) (2005)
+|cianame = bt
+|spelling = US
+}}
+
+The economy of [[Bhutan]], one of the world's smallest and least developed countries, is based on [[agriculture]] and [[forestry]], which provide the main livelihood for more than 60% of the population. Agriculture consists largely of [[subsistence farming]] and [[animal husbandry]]. Rugged mountains dominate the terrain and make the building of roads and other infrastructure difficult and expensive. 
+
+The economy is closely aligned with [[India]]'s through strong trade and monetary links and dependence on India's financial assistance. Most production in the industrial sector is of the cottage industry type. Most development projects, such as road construction, rely on Indian [[migrant labor]]. Model education, social, and environment programs are underway with support from multilateral development organizations. 
+
+Each economic program takes into account the government's desire to protect the country's environment and cultural traditions. For example, the government, in its cautious expansion of the tourist sector, encourages visits by upscale, environmentally conscientious tourists. Detailed controls and uncertain policies in areas such as industrial licensing, trade, labor, and finance continue to hamper foreign investment. [[Hydropower]] exports to India have boosted Bhutan's overall growth, even though [[GDP]] fell in 2008 as a result of a slowdown in India, its predominant export market.
+
+==Macro-economic trend==
+{{further|Energy in Bhutan}}
+
+This is a chart of trend of gross domestic product of Bhutan at market prices [http://www.imf.org/external/pubs/ft/weo/2007/01/data/weorept.aspx?sy=1980&ey=2008&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=37&pr1.y=8&c=514&s=NGDP_R%2CNGDP_RPCH%2CNGDP%2CNGDPD%2CNGDP_D%2CNGDPRPC%2CNGDPPC%2CNGDPDPC%2CPPPWGT%2CPPPPC%2CPPPSH%2CPPPEX%2CPCPI%2CPCPIPCH%2CLP%2CBCA%2CBCA_NGDPD&grp=0&a=|reported] by the [[International Monetary Fund]]:
+{| class="wikitable"
+|-
+! Year || GDP (millions of [[Bhutanese ngultrum|BTN]]) || GDP (millions of [[USD]])
+|-
+| 1985 || 2,166|| 175
+|-
+| 1990 || 4,877 || 279
+|-
+| 1995 || 9,531 || 294
+|-
+| 2000 || 20,060 || 460
+|-
+| 2005 || 36,915 || 828
+|-
+| 2008 ||        || 1280
+|}
+
+Bhutan's [[hydropower]] potential and its attraction for [[tourism|tourists]] are key resources. The Bhutanese Government has made some progress in expanding the nation's productive base and improving social welfare. Model education, social, and environment programs in Bhutan are underway with support from multilateral development organizations. Each economic program takes into account the government's desire to protect the country's environment and cultural traditions. For example, the government, in its cautious expansion of the tourist sector, encourages visits by upscale, environmentally conscientious tourists. Detailed controls and uncertain policies in such areas as industrial licensing, trade, labor, and finance continue to hamper foreign investment.
+
+In 2004, Bhutan became the first country in the world to ban smoking and the selling of tobacco.
+
+==Other statistics==
+[[File:Tree map export 2009 Bhutan.jpeg|thumb|450px|A proportional representation of Bhutan's exports.]]
+'''Industrial production growth rate:'''
+9.3% (1996 est.)
+
+'''Electricity:'''
+* ''production:'' 2 [[TWh]] (2005)
+* ''consumption:'' 380 [[GWh]] (2005)
+* ''exports:'' 1.5 TWh (2005) (exports electricity to India)
+* ''imports:'' 20 GWh (2005)
+
+'''Electricity - production by source:'''
+* ''fossil fuel:'' 0.39%
+* ''hydro:'' 99.61%
+* ''nuclear:'' 0%
+* ''other:'' 0% (1998)
+
+'''Oil:'''
+* ''production:'' {{convert|0|oilbbl/d}} (2005)
+* ''consumption:'' {{convert|1200|oilbbl/d}} (2005 est.)
+* ''exports:'' {{convert|0|oilbbl/d}} (2004)
+* ''imports:'' {{convert|1138|oilbbl/d}} (2004)
+
+'''Agriculture - products:'''
+rice, corn, root crops, citrus, foodgrains, dairy products, eggs
+
+'''Currency:'''
+1 [[Bhutanese ngultrum|ngultrum]] (BTN) = 100 chetrum; Indian rupee (INR)
+
+'''Historic exchange rates:'''
+:{| class=wikitable
+|-
+! &nbsp; !!2006 ||2005 ||2004 ||2003 ||2002 ||2001 ||1999 
+|- align="right"
+| align="left"|Ngultrum per US$1 || 45.279|| 44.101|| 45.317|| 46.583|| 48.61|| 47.186|| 43.055
+|}
+
+== See also ==
+* [[Agriculture in Bhutan]]
+* [[Banking in Bhutan]]
+* [[Mining in Bhutan]]
+* [[Fishing in Bhutan]]
+* [[Forestry in Bhutan]]
+* [[Bhutanese ngultrum]], currency
+
+==References==
+*{{CIA World Factbook}}
+*{{StateDept}}
+{{Reflist}}
+
+==External links==
+*[http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/SOUTHASIAEXT/0,,contentMDK:21160796~pagePK:146736~piPK:146830~theSitePK:223547,00.html Global Economic Prospects: Growth Prospects for South Asia] [[The World Bank]], December 13, 2006
+
+{{Bhutan topics}}
+{{Asia in topic|Economy of}}
+{{SAFTA}}
+
+{{DEFAULTSORT:Economy Of Bhutan}}
+[[Category:Economy of Bhutan| ]]

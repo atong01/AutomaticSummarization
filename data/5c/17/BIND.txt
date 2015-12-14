@@ -1,0 +1,143 @@
+{{About|DNS software||Bind (disambiguation){{!}}Bind}}
+
+{{Infobox Software
+|  name = BIND
+|  caption =
+|  developer = [[Internet Systems Consortium]]
+|  latest_release_version = 9.10.3
+|  latest_release_date = {{release date|2015|09|16}}<ref>{{cite web
+  | url=https://kb.isc.org/article/AA-01306
+  | title=BIND 9.10.3 Release Notes}}</ref>
+|  latest preview version = 
+|  latest preview date = 
+|  operating_system = [[Linux]], [[NetBSD]], [[FreeBSD]], [[OpenBSD]], [[OS X]], [[Microsoft Windows|Windows]]
+|  genre = [[DNS server]]
+|  license = [[ISC license]]
+|  website = https://www.isc.org/downloads/bind
+}}
+
+'''BIND''' {{IPAc-en|ˈ|b|aɪ|n|d}}, or '''named''' {{IPAc-en|ˈ|n|eɪ|m|d|iː}}, is the most widely used [[Domain Name System]] (DNS) software on the Internet.<ref>{{cite web
+| url=https://www.isc.org/downloads/bind/
+| title=BIND - The most widely used Name Server Software
+| publisher=[[Internet Systems Consortium]]
+| date=2015-09-08
+| accessdate=2015-09-17}}</ref><ref>{{cite web
+| url=http://mydns.bboy.net/survey/
+| title=DNS server survey
+| author=Don Moore
+| date=2004-05-23
+| accessdate=2015-09-17}}</ref>
+On [[Unix-like]] operating systems it is the [[De facto standard|''de facto'' standard]].
+
+The software was originally designed at the University of California Berkeley (UCB) in the early 1980s. The name originates as an acronym of ''Berkeley Internet Name Domain'',<ref name="Terry">{{cite web
+| url=http://www.eecs.berkeley.edu/Pubs/TechRpts/1984/5957.html
+| title=The Berkeley Internet Name Domain Server
+| author=Douglas B. Terry, Mark Painter, David W. Riggle and Songnian Zhou
+| date=May 1984
+| work=EECS Department, University of California, Berkeley, Technical Report No. UCB/CSD-84-182
+| accessdate=2015-09-17}}</ref> reflecting the application's use within UCB. The software consists, most prominently, of the DNS server component, called ''named'', a contracted form of ''name [[Daemon (computing)|daemon]]''. In addition the suite contains various administration tools, and a DNS resolver interface library. The latest version of BIND is BIND 9, first released in 2000. 
+
+Starting in 2009, the  [[Internet Software Consortium]] (ISC) developed a new software suite, initially called BIND10. With release version 1.2.0 the project was renamed ''Bundy'' to terminate ISC involvement in the project.
+
+==Database support==
+While earlier versions of BIND offered no mechanism to store and retrieve [[Zone file|zone data in anything other than flat text files]], in 2007 BIND 9.4<ref>{{cite web
+| url=https://lists.isc.org/pipermail/bind-announce/2007-February/000210.html
+| title=BIND 9.4.0 is now available.
+| author=Mark Andrews
+| date=2007-02-24
+| accessdate=2015-09-17}}</ref> [http://bind-dlz.sourceforge.net/ DLZ] provided a compile-time option for zone storage in a variety of database formats including [[LDAP]], [[Berkeley DB]], [[PostgreSQL]], [[MySQL]], and [[ODBC]].
+
+BIND 10 planned to make the data store modular, so that a variety of databases may be connected.<ref name="bind10-design">{{cite web
+| url=https://kea.isc.org/wiki/DesignOverview
+| title=Kea: Design overview
+| publisher=ISC
+| accessdate=2015-09-17}}</ref>
+
+==Security==
+The BIND 4 and BIND 8 releases both had serious security vulnerabilities. Their use is strongly discouraged.<ref>P. Hudson, A. Hudson, B. Ball, H. Duff: Red Hat Fedora 4 Unleashed, page 723. Sams Publishing, 2005 ISBN 0-672-32792-9</ref> BIND 9 was a [[Rewrite (programming)|complete rewrite]], in part to mitigate these ongoing security issues.
+
+BIND9.x has an error in the handling of TKEY queries that can be exploited by an attacker for use as a denial-of-service vector, as a constructed packet can use the defect to trigger a REQUIRE assertion failure, causing BIND to exit.<ref>{{cite web
+| url=https://www.isc.org/blogs/cve-2015-5477-an-error-in-handling-tkey-queries-can-cause-named-to-exit-with-a-require-assertion-failure/
+| title=CVE-2015-5477: An error in handling TKEY queries can cause named to exit with a REQUIRE assertion failure
+| first=Vicky
+| last=Risk
+| date=2015-07-28
+| publisher=Internet Systems Consortium
+| accessdate=2015-09-17}}</ref><ref>{{cite web
+| url=https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5477
+| title=CVE-2015-5477
+| work=[[Common Vulnerabilities and Exposures]]
+| accessdate=2015-09-17}}</ref>
+
+==History==
+Originally written by four [[graduate student]]s at the [[Computer Systems Research Group]] at the [[University of California, Berkeley]] (UCB), BIND was first released with [[Berkeley Software Distribution]] 4.3BSD. [[Paul Vixie]] started maintaining it in 1988 while working for [[Digital Equipment Corporation]]. {{As of | 2012}}, the [[Internet Systems Consortium]] maintains, updates, and writes new versions of BIND. 
+
+BIND was written by Douglas Terry, Mark Painter, David Riggle and Songnian Zhou in the early 1980s at the [[University of California, Berkeley]] as a result of a [[Defense Advanced Research Projects Agency|DARPA]] grant. The acronym ''BIND'' is for ''Berkeley Internet Name Domain'', from a technical paper published in 1984.<ref name="Terry"/>
+
+Versions of BIND through 4.8.3 were maintained by the Computer Systems Research Group (CSRG) at UC Berkeley.<ref name="history">{{cite web
+| url=https://www.isc.org/history-of-bind/
+| title=History of BIND
+| author=ISC
+| date=2015-01-20
+| accessdate=2015-09-17}}</ref>
+
+In the mid-1980s, Paul Vixie of [[Digital Equipment Corporation|DEC]] took over BIND development, releasing versions 4.9 and 4.9.1.  [[Paul Vixie]] continued to work on BIND after leaving DEC.  BIND Version 4.9.2 was sponsored by Vixie Enterprises.  Vixie eventually founded the [[Internet Software Consortium|ISC]], which became the entity responsible for BIND versions starting with 4.9.3.<ref name="history" />
+
+BIND 8 was released by ISC in May 1997.<ref name="history" />
+
+Version 9 was developed by [[Nominum]], Inc. under an ISC outsourcing contract, and the first version was released October 9, 2000.<ref>{{cite web
+| url=https://www.usenix.org/legacy/about/newsroom/press/archive/bind9.html
+| title=BIND 9 Authored by Nominum Development Team Now Available on Internet Software Consortium Site
+| date=2000-10-06
+| accessdate=2015-09-17}}</ref> It was written from scratch in part to address the architectural difficulties with [[Code audit|auditing]] the earlier BIND code bases, and also to support [[DNSSEC]] (DNS Security Extensions). Other important features of BIND 9 include: [[TSIG]], [[nsupdate]], [[IPv6]], rndc (remote name daemon control), views, multiprocessor support, and an improved portability architecture.  rndc uses a [[shared secret]] to provide encryption for local and remote terminals during each session. The development of BIND 9 took place under a combination of commercial and military contracts. Most of the features of BIND 9 were funded by UNIX vendors who wanted to ensure that BIND stayed competitive with Microsoft's DNS offerings;{{cn|date=May 2014}} the [[DNSSEC]] features were funded by the US military, which regarded DNS security as important.  BIND 9 was released in September 2000.<ref name="history" />
+
+In 2009, ISC started an effort to develop a new version of the software suite, called BIND10. In addition to DNS service, the BIND10 suite also included [[IPv4]] and [[IPv6]] DHCP server components.  In April 2014, with the BIND10 release 1.2.0 the ISC concluded its development work of the project and renamed the project ''Bundy'', moving the source code repository to [[GitHub]] for further development by outside public efforts.<ref>{{cite web
+| url=https://www.isc.org/downloads/platform/
+| title=BIND 10 Release 1.2 available
+| date=2014-04-17
+| accessdate=2015-09-17}}</ref> Bundy is community-supported at the web site <nowiki>http://bundy-dns.de/</nowiki>. ISC discontinued its involvement in the project due to cost-cutting measures.<ref>{{cite web
+| url=http://lwn.net/Articles/595347/
+| title=ISC releases BIND 10 1.2, renames it, and turns it over to community
+| date=2014-04-17
+| publisher=[[Linux Weekly News]]
+| accessdate=2015-09-17}}</ref> The development of DHCP components was split off to become a new  ''Kea'' project.
+
+==See also==
+{{Portal|Free software}}
+* [[Comparison of DNS server software]]
+* [[DNS management software]]
+* [[Zone file]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{cite book
+| title=DNS and BIND, 5th Edition
+| first1=Cricket
+| last1=Liu
+| first2=Paul
+| last2=Albitz
+| date=May 2006
+| url=http://shop.oreilly.com/product/9780596100575.do
+| isbn=978-0-596-10057-5}}
+* {{cite book
+| title=BIND 9 DNS Administration Reference Book: Name Server Operations and DNS Configuration using BIND
+| editor=Jeremy C. Reed
+| date=September 2007
+| url=http://www.reedmedia.net/books/bind-dns/
+| isbn=978-0-9790342-1-3}}
+
+==External links==
+* [https://www.isc.org/downloads/bind/ The official BIND site] at Internet Systems Consortium (ISC.org)
+* {{cite web
+| url=http://www.circleid.com/posts/cricket_liu_dns_and_bind_5th_edition/
+| title=Cricket Liu Interviewed: DNS and BIND, 5th Edition
+| date=2006-05-10}}
+* [https://www.isc.org/history-of-bind/ History of BIND]
+* [http://bundy-dns.de/ Bundy Project]
+* [http://www.zonefile.org/ Create new BIND zonefile]
+
+{{DEFAULTSORT:Bind}}
+[[Category:DNS software]]
+[[Category:Free network-related software]]

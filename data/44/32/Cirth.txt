@@ -1,0 +1,781 @@
+{{Infobox writing system
+| name = Cirth
+| sample = Cirth word.png
+| caption = The word "Cirth" written using the Cirth in the Angerthas Daeron mode
+| image_size = 180px
+| type = [[Alphabet]]
+| languages = [[Khuzdul]], [[Sindarin]], [[Quenya]], [[English language|English]]
+| creator = [[J.R.R. Tolkien]]
+| iso15924 = Cirt
+}}
+
+The '''Cirth''' ({{IPA|[ˈkirθ]}}; plural of '''certh''' {{IPA|[ˈkɛrθ]}}, in [[Sindarin]] meaning [[runes]]) are a semi-[[artificial script]], with letters shaped on those of actual [[runic alphabet]]s, invented by [[J.R.R. Tolkien]] for the [[constructed language]]s he devised and used in his works. ''Cirth'' is written with a capital letter when referring to the writing system; the runes themselves can be called ''cirth''.
+
+In the fictional history of [[Middle-earth]], the original '''''Certhas Daeron''''' was created by the [[Elf (Middle-earth)|elf]] [[Daeron]], and was later expanded into what was known as the '''''Angerthas Daeron'''''. Although the Cirth were later largely replaced by the [[Tengwar]], they were adopted by [[Dwarf (Middle-earth)|Dwarves]] to write down their [[Khuzdul]] language ('''''Angerthas Moria''''' and '''''Angerthas Erebor''''') because their straight lines were better suited to carving than the curved strokes of the Tengwar. Cirth was also adapted, in its oldest and simplest form, by various peoples as [[Man (Middle-earth)|Men]] and even [[Orc (Middle-earth)|Orcs]].
+
+==Earliest Cirth==
+During the Chaining of [[Melkor]], the [[Sindar]] of [[Beleriand]] began developing an [[alphabet]] for their language. Its letters were entirely made for carving on wood, stone or metal, hence their angular forms and straight lines. These letters were named ''cirth'' (sing. ''certh''). The corresponding [[Quenya]] words are ''certar'' ({{IPA|[ˈkɛrtɑr]}}) and ''certa'' ({{IPA|[ˈkɛrtɑ]}}).<ref name="Tolkien 1955">{{cite book |title=[[The Lord of the Rings]], Volume III - [[The Return of the King]], Appendix E|first=J.R.R. |last=Tolkien |authorlink=J.R.R. Tolkien |publisher=London: George Allen & Unwin. |year=1955}}</ref> The assignment of values was unsystematic. The form of a certh was consisted of a stem and a branch. The attachment of the branch was, if on one side only, usually made on the right side. The reverse was not infrequent, but had no phonetic significance.<br>Two basic principles were followed:
+* adding a stroke to a branch added [[Voiced consonant|voice]];
+* placing the branch on both sides of the stem added [[Nasal stop|voice and nasality]].
+The original display of Cirth should have been this:<ref name="Tolkien 1955"/>
+
+<center>
+{| class="wikitable"
+|- align="center"
+! '''''Certh'''''|| '''Translit.''' || '''[[International Phonetic Alphabet|IPA]]'''
+! '''''Certh'''''|| '''Translit.''' || '''[[International Phonetic Alphabet|IPA]]'''
+! '''''Certh'''''|| '''Translit.''' || '''[[International Phonetic Alphabet|IPA]]'''
+! '''''Certh'''''|| '''Translit.''' || '''[[International Phonetic Alphabet|IPA]]'''
+! '''''Certh'''''|| '''Translit.''' || '''[[International Phonetic Alphabet|IPA]]'''
+! '''''Certh'''''|| '''Translit.''' || '''[[International Phonetic Alphabet|IPA]]'''
+|- align="center"
+| [[Image:Certh 1.svg|20px]] || p || {{IPA|/p/}}
+| [[Image:Certh 8.svg|20px]] || t || {{IPA|/t/}}
+| [[Image:Certh 18.svg|20px]] || c || {{IPA|/k/}}
+| [[Image:Certh 29.svg|20px]] || r || {{IPA|/r/}}
+| [[Image:Certh 13.svg|20px]] || h<sup>3</sup> || {{IPA|/h/}}
+| [[Image:Certh 39.svg|20px]] || i || {{IPA|/i/}}
+|- align="center"
+| [[Image:Certh 2.svg|20px]] || b || {{IPA|/b/}}
+| [[Image:Certh 9.svg|20px]] || d || {{IPA|/d/}}
+| [[Image:Certh 19.svg|20px]] || g || {{IPA|/ɡ/}}
+| [[Image:Certh 31.svg|20px]] || l || {{IPA|/l/}}
+| [[Image:Certh 35.svg|20px]] || s<sup>3</sup> || {{IPA|/s/}}
+| [[Image:Certh 42.svg|20px]] || u, w<sup>?</sup> || {{IPA|/u/, /w/}}
+|- align="center"
+| [[Image:Certh 5.svg|20px]] || m<sup>1</sup> || {{IPA|/m/}}
+| [[Image:Certh 12.svg|20px]] || n || {{IPA|/n/}}
+| [[Image:Certh 22.svg|20px]] || ng || {{IPA|/ŋ/}}
+|colspan="3"|
+| [[Image:Certh 36.svg|20px]] || <sup>4</sup> ||
+| [[Image:Certh 46.svg|20px]] || e || {{IPA|/ɛ/}}
+|- align="center"
+| [[Image:Certh 6.svg|20px]] || <sup>2</sup> ||
+|colspan="3"|
+|colspan="3"|
+|colspan="3"|
+|colspan="3"|
+| [[Image:Certh 50.svg|20px]] || o || {{IPA|/ɔ/}}
+|}
+</center>
+
+===Notes===
+
+# The original value of this certh wasn’t given by Tolkien, but he mentions that it took the value "hw" after [[Image:Certh 6.svg|15px]] became "m" while he doesn't give us the early certh for "m". We can infer that this was the certh for "m" judging by both its 'labial' shape, and the symmetrical shape used for nasals.
+# This certh will later have the value "m". Its original value can’t be guessed, but judging from the 'labial' shape, it could be "w".
+# The sound of these cirth was interchangeable.
+# This certh will later have the value "ss". It must had another unknown value before.
+
+The known ancient cirth don’t cover all the sounds of Sindarin, since we are missing "rh", "lh", "mh", "y", "œ". Perhaps they were used for the Old Sindarin tongue, and many of the above mentioned sounds indeed didn’t exist in that language. However still frequent sounds "w" and "a" are missing. This indicates that some ancient, unknown cirth could have existed, but didn’t make it to the later systems; a fuller table therefore can't be reconstructed.<br>As for the vowel usage, perhaps the certh for "u" possibly was used for "w" (like in early latin orthography). The certh for "a" can’t be guessed, so maybe this sound was meant (like in some Tengwar Modes for Quenya). More possibly it was one of some other cirth that did not survive.<br>Long vowels were evidently indicated by doubling.<ref>[http://tolkiengateway.net/wiki/Cirth#Structure "Structure"] on Tolkien Gateway wiki.</ref><br>In its earliest form, the Cirth became known to many peoples of Middle-earth like Men, Dwarves or Orcs. The people of [[Dale (Middle-earth)|Dale]] and the [[Rohirrim]] maintained a simple form of these characters.
+
+==Certhas Daeron==
+The [[Elf (Middle-earth)|elf]] [[Daeron]], [[minstrel]] of king [[Thingol]] of [[Doriath]] reorganised the cirth and added new ones, being somehow inspired by [[Fëanor]]'s [[Tengwar]] (therefore this mustn't had occurred before the return of the [[Noldor]]) and made the extension of the cirth known as '''''Certhas Daeron''''' (where "Certhas" means "runic alphabet"<ref>[http://www.tolkiengateway.net/wiki/Certhas "Certhas"] on Tolkien Gateway wiki.</ref>), used for inscribing names in [[Menegroth]]. The [[Dwarf (Middle-earth)|Dwarves]] working for Thingol liked them and adopted them, making them known also in the East.<br>Unlike the previous system, the reversal of the certh had a phonemic significance: reversed cirth were softer versions of their originals. This also gives us another information: perhaps [[Lenition|lenited]] consonants must have started to occur in Sindarin around that time.<br>We know that at one time a sign for the sound "mh" was needed and the most appropriate solution was to revert the certh for "m" to indicate its softening, but it could not be reverted ([[Image:Certh 5.svg|15px]]); therefore "m" was given to the reversible [[Image:Certh 6.svg|15px]] (which until then had a value unknown to us), "mh" to [[Image:Certh 7.svg|15px]], and the certh [[Image:Certh 5.svg|15px]] got the value of "hw".<ref name="Tolkien 1955"/><ref>[http://tolkiengateway.net/wiki/Certhas_Daeron "Certhas Daeron"] on Tolkien Gateway wiki.</ref>
+
+<center>
+{| class="wikitable"
+|- align="center"
+! '''''Certh'''''|| '''Translit.''' || '''[[International Phonetic Alphabet|IPA]]'''
+! '''''Certh'''''|| '''Translit.''' || '''[[International Phonetic Alphabet|IPA]]'''
+! '''''Certh'''''|| '''Translit.''' || '''[[International Phonetic Alphabet|IPA]]'''
+! '''''Certh'''''|| '''Translit.''' || '''[[International Phonetic Alphabet|IPA]]'''
+! '''''Certh'''''|| '''Translit.''' || '''[[International Phonetic Alphabet|IPA]]'''
+|- align="center"
+| [[Image:Certh 1.svg|20px]] || p || {{IPA|/p/}}
+| [[Image:Certh 8.svg|20px]] || t || {{IPA|/t/}}
+| [[Image:Certh 18.svg|20px]] || c || {{IPA|/k/}}
+| [[Image:Certh 29.svg|20px]] || r || {{IPA|/r/}}
+| [[Image:Certh 13.svg|20px]] || h || {{IPA|/h/}}
+|- align="center"
+| [[Image:Certh 2.svg|20px]] || b || {{IPA|/b/}}
+| [[Image:Certh 9.svg|20px]] || d || {{IPA|/d/}}
+| [[Image:Certh 19.svg|20px]] || g || {{IPA|/ɡ/}}
+| [[Image:Certh 30.svg|20px]] || rh || {{IPA|/r̥/}}
+| [[Image:Certh 35.svg|20px]] || s || {{IPA|/s/}}
+|- align="center"
+| [[Image:Certh 3.svg|20px]] || f || {{IPA|/f/}}
+| [[Image:Certh 10.svg|20px]] || th || {{IPA|/θ/}}
+| [[Image:Certh 20.svg|20px]] || ch || {{IPA|/x/}}
+| [[Image:Certh 31.svg|20px]] || l || {{IPA|/l/}}
+| [[Image:Certh 36.svg|20px]] || ss || {{IPA|/ss/}}
+|- align="center"
+| [[Image:Certh 4.svg|20px]] || v || {{IPA|/v/}}
+| [[Image:Certh 11.svg|20px]] || dh || {{IPA|/ð/}}
+| [[Image:Certh 21.svg|20px]] || gh || {{IPA|/ɣ/}}
+| [[Image:Certh 32.svg|20px]] || lh || {{IPA|/ɬ/}}
+|colspan="3"|
+|- align="center"
+| [[Image:Certh 5.svg|20px]] || hw || {{IPA|/ʍ/}}
+| [[Image:Certh 12.svg|20px]] || n || {{IPA|/n/}}
+| [[Image:Certh 22.svg|20px]] || ng || {{IPA|/ŋ/}}
+|colspan="3"|
+|colspan="3"|
+|- align="center"
+| [[Image:Certh 6.svg|20px]] || m || {{IPA|/m/}}
+|colspan="3"|
+|colspan="3"|
+|colspan="3"|
+|colspan="3"|
+|- align="center"
+| [[Image:Certh 7.svg|20px]] || mh || {{IPA|/ṽ/}}
+|colspan="3"|
+|colspan="3"|
+|colspan="3"|
+|colspan="3"|
+|- align="center"
+| colspan="15" |
+|- align="center"
+| [[Image:Certh 39.svg|20px]] || i || {{IPA|/i/, /j/}}
+| [[Image:Certh 42.svg|20px]] || u || {{IPA|/u/}}
+| [[Image:Certh 46.svg|20px]] || e || {{IPA|/ɛ/}}
+| [[Image:Certh 48.svg|20px]] || a || {{IPA|/ɑ/}}
+| [[Image:Certh 50.svg|20px]] || o || {{IPA|/ɔ/}}
+|- align="center"
+|colspan="3"|
+| [[Image:Certh 43.svg|20px]] || ú || {{IPA|/uː/}}
+| [[Image:Certh 47.svg|20px]] || é || {{IPA|/ɛː/}}
+| [[Image:Certh 49.svg|20px]] || á || {{IPA|/ɑː/}}
+| [[Image:Certh 51.svg|20px]] || ó || {{IPA|/ɔː/}}
+|- align="center"
+|colspan="3"|
+| [[Image:Certh 44.svg|20px]] || w || {{IPA|/w/}}
+|colspan="3"|
+|colspan="3"|
+| [[Image:Certh 52.svg|20px]] || œ || {{IPA|/œ/}}
+|- align="center"
+|colspan="3"|
+| [[Image:Certh 45.svg|20px]] || y || {{IPA|/y/}}
+|colspan="3"|
+|colspan="3"|
+|colspan="3"|
+|}
+</center>
+
+==Angerthas Daeron==
+Daeron's alphabet was originally used by the Grey Elves (Sindar) in Beleriand. Later the [[Noldor]] in [[Eregion]] adopted the Cirth, added several more runes to the system and created the '''''Angerthas Daeron''''' (where "Angerthas" means "long rune-rows"<ref>[http://www.tolkiengateway.net/wiki/Angerthas "Angerthas"] on Tolkien Gateway wiki.</ref>) sometimes also referred to as '''''Angerthas Eregion'''''. These additional letters were used to represent sounds not found in Sindarin, but present in the tongues of other peoples. The Angerthas Daeron was used primarily for carved inscriptions. For most other forms of written communication the Tengwar were used.<br>Here the Cirth are grouped according to their phonetic features:
+* the cirth #1-7 are [[labial consonant]]s;
+* the cirth #8-12 are [[dental consonant]]s;
+* the cirth #13-17 are [[palatal consonant]]s and are inventions of the Noldor;
+* the cirth #18-22;33 are [[velar consonant]]s;
+* the cirth #23-28 are [[Labialization|labialized consonant]]s, introduced by the Noldor;
+* the cirth #29-32 are [[liquid consonant]]s;
+* the cirth #34-36 are [[sibilant|hissing sibilants]];
+* the cirth #39;42-52 are [[vowel]]s and [[semi-vowel]]s.
+
+<center>
+{| cellpadding="4" cellspacing="0"  class="wikitable"
+|- align="center"
+!'''''Certh'''''||'''No.'''||'''Translit.'''||'''[[International Phonetic Alphabet|IPA]]'''
+!'''''Certh'''''||'''No.'''||'''Translit.'''||'''[[International Phonetic Alphabet|IPA]]'''
+!'''''Certh'''''||'''No.'''||'''Translit.'''||'''[[International Phonetic Alphabet|IPA]]'''
+!'''''Certh'''''||'''No.'''||'''Translit.'''||'''[[International Phonetic Alphabet|IPA]]'''
+|- align="center"
+|[[Image:Certh 1.svg|20px]]||1||p||{{IPA|/p/}}
+|[[Image:Certh 16.svg|20px]]||16||zh||{{IPA|/ʒ/}}
+|[[Image:Certh 31.svg|20px]]||31||l||{{IPA|/l/}}
+|[[Image:Certh 46.svg|20px]]||46||e||{{IPA|/ɛ/}}
+|- align="center"
+|[[Image:Certh 2.svg|20px]]||2||b||{{IPA|/b/}}
+|[[Image:Certh 17.svg|20px]]||17||nj||{{IPA|/ndʒ/}}
+|[[Image:Certh 32.svg|20px]]||32||lh||{{IPA|/ɬ/}}
+|[[Image:Certh 47.svg|20px]]||47||ê||{{IPA|/ɛː/}}
+|- align="center"
+|[[Image:Certh 3.svg|20px]]||3||f||{{IPA|/f/}}
+|[[Image:Certh 18.svg|20px]]||18||k||{{IPA|/k/}}
+|[[Image:Certh 33.svg|20px]]||33||ng||{{IPA|/ŋɡ/}}
+|[[Image:Certh 48.svg|20px]]||48||a||{{IPA|/ɑ/}}
+|- align="center"
+|[[Image:Certh 4.svg|20px]]||4||v||{{IPA|/v/}}
+|[[Image:Certh 19.svg|20px]]||19||g||{{IPA|/ɡ/}}
+|[[Image:Certh 34.svg|20px]]||34||rowspan="2"|s||rowspan="2"|{{IPA|/s/}}
+|[[Image:Certh 49.svg|20px]]||49||â||{{IPA|/ɑː/}}
+|- align="center"
+|[[Image:Certh 5.svg|20px]]||5||hw||{{IPA|/ʍ/}}
+|[[Image:Certh 20.svg|20px]]||20||kh||{{IPA|/x/}}
+|[[Image:Certh 35.svg|20px]]||35
+|[[Image:Certh 50.svg|20px]]||50||o||{{IPA|/ɔ/}}
+|- align="center"
+|[[Image:Certh 6.svg|20px]]||6||m||{{IPA|/m/}}
+|[[Image:Certh 21.svg|20px]]||21||gh||{{IPA|/ɣ/}} 
+|[[Image:Certh 36.svg|20px]]||36||ss-z<sup>2</sup>||{{IPA|/ss/-/z/}}
+|[[Image:Certh 51.svg|20px]]&nbsp;or&nbsp;[[Image:Certh 51a.svg|20px]]||51||ô||{{IPA|/ɔː/}}
+|- align="center"
+|[[Image:Certh 7.svg|20px]]||7||mh||{{IPA|/ṽ/}}
+|[[Image:Certh 22.svg|20px]]||22||ŋ||{{IPA|/ŋ/}}
+|colspan="4"|
+|[[Image:Certh 52.svg|20px]]&nbsp;or&nbsp;[[Image:Certh 52a.svg|20px]]||52||ö||{{IPA|/œ/}}
+|- align="center"
+|[[Image:Certh 8.svg|20px]]||8||t||{{IPA|/t/}}
+|[[Image:Certh 23.svg|20px]]||23||kw||{{IPA|/kʷ/}}
+|[[Image:Certh 38.svg|20px]]&nbsp;or&nbsp;[[Image:Certh 38a.svg|20px]]||38||nd||{{IPA|/nd/}}
+|colspan="4"|
+|- align="center"
+|[[Image:Certh 9.svg|20px]]||9||d||{{IPA|/d/}}
+|[[Image:Certh 24.svg|20px]]||24||gw||{{IPA|/ɡʷ/}}
+|[[Image:Certh 39.svg|20px]]||39||i,&nbsp;y||{{IPA|/i/,&nbsp;/j/}}
+|[[Image:Certh 54.svg|20px]]||54||h<sup>3</sup>||{{IPA|/h/}}
+|- align="center"
+|[[Image:Certh 10.svg|20px]]||10||th||{{IPA|/θ/}}
+|[[Image:Certh 25.svg|20px]]||25||khw||{{IPA|/xʷ/}}
+|colspan="4"|
+|colspan="4"|
+|- align="center"
+|[[Image:Certh 11.svg|20px]]||11||dh||{{IPA|/ð/}}
+|[[Image:Certh 26.svg|20px]]||26||ghw||{{IPA|/ɣʷ/}}
+|colspan="4"|
+|colspan="4"|
+|- align="center"
+|[[Image:Certh 12.svg|20px]]||12||n||{{IPA|/n/}}
+|[[Image:Certh 27.svg|20px]]||27||ngw||{{IPA|/ŋɡʷ/}}
+|[[Image:Certh 42.svg|20px]]||42||u||{{IPA|/u/}}
+|colspan="4"|
+|- align="center"
+|[[Image:Certh 13.svg|20px]]||13||ch<sup>1</sup>||{{IPA|/tʃ/}}
+|[[Image:Certh 28.svg|20px]]||28||nw||{{IPA|/ŋʷ/}}→{{IPA|/nʷ/}}
+|[[Image:Certh 43.svg|20px]]||43||û||{{IPA|/uː/}}
+|colspan="4"|
+|- align="center"
+|[[Image:Certh 14.svg|20px]]||14||j||{{IPA|/dʒ/}}
+|[[Image:Certh 29.svg|20px]]||29||r||{{IPA|/r/}}
+|[[Image:Certh 44.svg|20px]]||44||w||{{IPA|/w/}}
+|colspan="4"|
+|- align="center"
+|[[Image:Certh 15.svg|20px]]||15||sh||{{IPA|/ʃ/}}
+|[[Image:Certh 30.svg|20px]]||30||rh||{{IPA|/r̥/}}
+|[[Image:Certh 45.svg|20px]]&nbsp;or&nbsp;[[Image:Certh 45a.svg|20px]]||45||ü||{{IPA|/y/}}
+|colspan="4"|
+|}
+</center>
+
+===Notes===
+
+# The certh  [[Image:Certh 13.svg|16px]] (previously used for {{IPA|/h/}}) was chosen for "ch" {{IPA|/tʃ/}}, as its shape looked intermediate between the cirth [[Image:Certh 8.svg|16px]] and [[Image:Certh 18.svg|16px]], and it occurred phonologically between sounds {{IPA|/t/}} and {{IPA|/k/}}. Not to be confused with Sindarin "ch" pronounced {{IPA|/x/}} and here transliterated with "kh".
+# Tolkien gives the value {{IPA|/z/}} to this certh (maybe in alien systems), but notes it was {{IPA|/ss/}} when used in Quenya and Sindarin.
+# This new certh was made for the value of {{IPA|/h/}}, similar in shape to the former [[Image:Certh 13.svg|16px]] (and to the tengwa ''hyarmen'').
+
+For the transliteration of this alphabet, meant to be used for more than one language (for Quenya and Sindarin, at least) and needing a bigger set of sounds, Tolkien thought up to a kind of ''general Middle-earth languages phonetic transcription'', here used.
+
+==Angerthas Moria==
+Dwarves first came to know the runes of the Noldor during the beginning of the [[Second Age]]. They modified them to suit the specific needs of their language, Khuzdul. The Dwarves spread their revised alphabet to [[Moria (Middle-earth)|Moria]], where it came to be known as '''''Angerthas Moria'''''. The Dwarves developed both carved and pen-written forms of the runes. Travelling for trading, they spread their alphabet throughout Middle-earth: as a result, variations of Angerthas Moria were employed by other races for their languages.
+
+Many cirth here stand for sounds not occuring in Khuzdul (at least in published words of Khuzdul: of course, our corpus is very limited to judge the necessity or not, of these sounds). Here they are marked with a black star (<sup>★</sup>).
+
+<center>
+{| cellpadding="4" cellspacing="0"  class="wikitable"
+|- align="center"
+!'''''Certh'''''||'''No.'''||'''Translit.'''||'''[[International Phonetic Alphabet|IPA]]'''
+!'''''Certh'''''||'''No.'''||'''Translit.'''||'''[[International Phonetic Alphabet|IPA]]'''
+!'''''Certh'''''||'''No.'''||'''Translit.'''||'''[[International Phonetic Alphabet|IPA]]'''
+!'''''Certh'''''||'''No.'''||'''Translit.'''||'''[[International Phonetic Alphabet|IPA]]'''
+|- align="center"
+|[[Image:Certh 1.svg|20px]]||1||p||{{IPA|/p/}}<sup>★</sup>
+|colspan="4"|
+|[[Image:Certh 31.svg|20px]]||31||l||{{IPA|/l/}}
+|[[Image:Certh 46.svg|20px]]||46||e||{{IPA|/e/}}
+|- align="center"
+|[[Image:Certh 2.svg|20px]]||2||b||{{IPA|/b/}}
+|[[Image:Certh 17.svg|20px]]||17||z||{{IPA|/z/}}
+|[[Image:Certh 32.svg|20px]]||32||lh||{{IPA|/ɬ/}}<sup>★</sup>
+|[[Image:Certh 47.svg|20px]]||47||ê||{{IPA|/eː/}}
+|- align="center"
+|[[Image:Certh 3.svg|20px]]||3||f||{{IPA|/f/}}
+|[[Image:Certh 18.svg|20px]]||18||k||{{IPA|/k/}}
+|[[Image:Certh 33.svg|20px]]||33||nd||{{IPA|/nd/}}
+|[[Image:Certh 48.svg|20px]]||48||a||{{IPA|/a/}}
+|- align="center"
+|[[Image:Certh 4.svg|20px]]||4||v||{{IPA|/v/}}<sup>★</sup>
+|[[Image:Certh 19.svg|20px]]||19||g||{{IPA|/ɡ/}}
+|[[Image:Certh 34.svg|20px]]||34||h<sup>1</sup>||{{IPA|/h/}}
+|[[Image:Certh 49.svg|20px]]||49||â||{{IPA|/aː/}}
+|- align="center"
+|[[Image:Certh 5.svg|20px]]||5||hw||{{IPA|/ʍ/}}<sup>★</sup>
+|[[Image:Certh 20.svg|20px]]||20||kh||{{IPA|/x/}}<sup>★</sup>
+|[[Image:Certh 35.svg|20px]]||35||<big><span style="font-family:Times New Roman">'''ʻ'''</span></big>||{{IPA|/ʔ/}}
+|[[Image:Certh 50.svg|20px]]||50||o||{{IPA|/o/}}
+|- align="center"
+|[[Image:Certh 6.svg|20px]]||6||m||{{IPA|/m/}}
+|[[Image:Certh 21.svg|20px]]||21||gh||{{IPA|/ɣ/}}<sup>★</sup>
+|[[Image:Certh 36.svg|20px]]||36||ŋ||{{IPA|/ŋ/}}<sup>★</sup>
+|[[Image:Certh 51.svg|20px]]&nbsp;or&nbsp;[[Image:Certh 51a.svg|20px]]||51||ô||{{IPA|/oː/}}
+|- align="center"
+|[[Image:Certh 7.svg|20px]]||7||mb||{{IPA|/mb/}}
+|[[Image:Certh 22.svg|20px]]||22||n||{{IPA|/n/}}
+|[[Image:Certh 37.svg|20px]]||22||ng||{{IPA|/ŋɡ/}}
+|[[Image:Certh 52.svg|20px]]&nbsp;or&nbsp;[[Image:Certh 52a.svg|20px]]||52||ö||{{IPA|/œ/}}<sup>★</sup>
+|- align="center"
+|[[Image:Certh 8.svg|20px]]||8||t||{{IPA|/t/}}
+|[[Image:Certh 23.svg|20px]]||23||kw||{{IPA|/kʷ/}}<sup>★</sup>
+|[[Image:Certh 38.svg|20px]]&nbsp;or&nbsp;[[Image:Certh 38a.svg|20px]]||38||nj||{{IPA|/ndʒ/}}<sup>★</sup>
+|[[Image:Certh 53.svg|20px]]||53||n||{{IPA|/n/}}
+|- align="center"
+|[[Image:Certh 9.svg|20px]]||9||d||{{IPA|/d/}}
+|[[Image:Certh 24.svg|20px]]||24||gw||{{IPA|/ɡʷ/}}<sup>★</sup>
+|[[Image:Certh 39.svg|20px]]||39||i||{{IPA|/i/}}
+|[[Image:Certh 54.svg|20px]]||54||s||{{IPA|/s/}}
+|- align="center"
+|[[Image:Certh 10.svg|20px]]||10||th||{{IPA|/θ/}}<sup>★</sup>
+|[[Image:Certh 25.svg|20px]]||25||khw||{{IPA|/xʷ/}}<sup>★</sup>
+|[[Image:Certh 40.svg|20px]]||40||y||{{IPA|/j/}}
+|[[Image:Certh 55.svg|20px]]&nbsp;or&nbsp;[[Image:Certh 55a.svg|20px]]||55||∗<sup>2</sup>||{{IPA|/ə/}}
+|- align="center"
+|[[Image:Certh 11.svg|20px]]||11||dh||{{IPA|/ð/}}<sup>★</sup>
+|[[Image:Certh 26.svg|20px]]||26||ghw||{{IPA|/ɣʷ/}}<sup>★</sup>
+|[[Image:Certh 41.svg|20px]]||41||hy||{{IPA|/j̊/}} or {{IPA|/ç/}}<sup>★</sup>
+|[[Image:Certh 56.svg|20px]]&nbsp;or&nbsp;[[Image:Certh 56a.svg|20px]]||56||∗<sup>2</sup>||{{IPA|/ʌ/}}
+|- align="center"
+|[[Image:Certh 12.svg|20px]]||12||r||{{IPA|/ʁ/}}
+|[[Image:Certh 27.svg|20px]]||27||ngw||{{IPA|/ŋɡʷ/}}<sup>★</sup>
+|[[Image:Certh 42.svg|20px]]||42||u||{{IPA|/u/}}
+|colspan="4"|
+|- align="center"
+|[[Image:Certh 13.svg|20px]]||13||ch||{{IPA|/tʃ/}}<sup>★</sup>
+|[[Image:Certh 28.svg|20px]]||28||nw||{{IPA|/ŋʷ/}}→{{IPA|/nʷ/}}<sup>★</sup>
+|[[Image:Certh 43.svg|20px]]||43||û||{{IPA|/uː/}}
+|colspan="4"|
+|- align="center"
+|colspan="4"|
+|[[Image:Certh 29.svg|20px]]||29||j||{{IPA|/dʒ/}}<sup>★</sup>
+|[[Image:Certh 44.svg|20px]]||44||w||{{IPA|/w/}}<sup>★</sup>
+|[[Image:Certh 59.svg|20px]]||||+h<sup>3</sup>||{{IPA|/◌ʰ/}}
+|- align="center"
+|[[Image:Certh 15.svg|20px]]||15||sh||{{IPA|/ʃ/}}
+|[[Image:Certh 30.svg|20px]]||30||zh||{{IPA|/ʒ/}}<sup>★</sup>
+|[[Image:Certh 45.svg|20px]]&nbsp;or&nbsp;[[Image:Certh 45a.svg|20px]]||45||ü||{{IPA|/y/}}<sup>★</sup>
+|[[Image:Certh 60.svg|20px]]||||&||
+|}
+</center>
+
+===Notes===
+
+[[File:Balin zg2.PNG|thumb|right|300px|Runes in the upper inscription of [[Balin (Middle-earth)|Balin]]'s tomb use Angerthas Moria, reading left-to-right:<br>
+<center>"Balin<br>
+[[List_of_Middle-earth_Dwarves#Fundin|Fu[nd]in]]&#8203;ul<br>
+Uzbad&#8203;[[Moria (Middle-earth)|Kʰazaddûmu]]"</center>]]
+# The Dwarves had two [[glottal consonant]]s: {{IPA|/h/}} and {{IPA|/ʔ/}}, the latter being the [[glottal stop|glottal]] beginning of a word with an initial vowel. Thus, in need of a reversible cirth to represent these sounds, they switched [[Image:Certh 54.svg|16px]] and [[Image:Certh 34.svg|16px]], giving the first the value {{IPA|/s/}} and using the second for {{IPA|/h/}} and its reversed counterpart [[Image:Certh 35.svg|16px]] for {{IPA|/ʔ/}}.
+# These cirth where a halved form of [[Image:Certh 46.svg|16px]], used for vowels like those in the word "b''u''tt''e''r". [[Image:Certh 55.svg|16px]] represented a schwa sound {{IPA|/ə/}} in unstressed sillables, while [[Image:Certh 56.svg|16px]] represented {{IPA|/ʌ/}}, a sound similar to the schwa, only in stressed syllables. When weak they were reduced to a stroke without a stem ([[Image:Certh 55a.svg|16px]],[[Image:Certh 56a.svg|16px]]).
+# This sign is to denote [[Aspirated consonant|aspiration]] in voiceless stops, occurring frequently in Khuzdul.
+
+* For unknown reasons, the Dwarves also dropped the cirth [[Image:Certh 14.svg|16px]] {{IPA|/dʒ/}}, [[Image:Certh 16.svg|16px]] {{IPA|/ʒ/}} and for those sounds they substituted [[Image:Certh 29.svg|16px]] and [[Image:Certh 30.svg|16px]] which the Elves used for {{IPA|/r/}} and {{IPA|/r̥/}}.
+* Subsequently, the Dwarves used [[Image:Certh 12.svg|16px]] for {{IPA|/ʁ/}} which had the value of {{IPA|/n/}} by the Elves; then for the sound of {{IPA|/n/}}, they chose the certh [[Image:Certh 22.svg|16px]] which the Elves used for the sound {{IPA|/ŋ/}}, useless in Khuzdul.
+* They also invented the new certh [[Image:Certh 53.svg|16px]], used as an alternative, simplified (and, maybe, weaker) form of [[Image:Certh 22.svg|16px]]. Inspired by the visual relation of those two letters, they gave [[Image:Certh 17.svg|16px]] the value of {{IPA|/z/}} to relate better with [[Image:Certh 54.svg|16px]] that had, by then, the value {{IPA|/s/}}.<ref>[http://tolkiengateway.net/wiki/Angerthas_Moria "Angerthas Moria"] on Tolkien Gateway wiki.</ref>
+
+==Angerthas Erebor==
+According to [[Tolkien's legendarium]], after the [[Second Age]], the Cirth were obsoleted by the [[Tengwar]] among the western races and remained in use only by Dwarves and Men. The Dwarves developed even pen-written cursive forms, since they used them exclusively in any form of writing communication, even in paper. At the beginning of the [[Third Age]], the Dwarves were driven out of Moria. Some migrated to the [[Ered Mithrin|Grey Mountains]], some to the [[Iron Hills]] and [[Thráin I]] came to [[Lonely Mountain|Erebor]]. There he and founded his Dwarf-kingdom. There the ''Angerthas Moria'' was modified further and some new cirth were added, but some reverted back to their Elvish usage, thus creating the '''''Angerthas Erebor''''' variation. This mode was used in [[Westron]] by Dwarves.<ref name="Angerthas Erebor">[http://tolkiengateway.net/wiki/Angerthas_Erebor "Angerthas Erebor"] on Tolkien Gateway wiki.</ref>
+
+Many cirth here stand for sounds not occuring in Khuzdul (at least in published words of Khuzdul: of course, our corpus is very limited to judge the necessity or not, of these sounds). Here they are marked with a black star (<sup>★</sup>).
+
+<center>
+{| cellpadding="4" cellspacing="0"  class="wikitable"
+|- align="center"
+!'''''Certh'''''||'''No.'''||'''Translit.'''||'''[[International Phonetic Alphabet|IPA]]'''
+!'''''Certh'''''||'''No.'''||'''Translit.'''||'''[[International Phonetic Alphabet|IPA]]'''
+!'''''Certh'''''||'''No.'''||'''Translit.'''||'''[[International Phonetic Alphabet|IPA]]'''
+!'''''Certh'''''||'''No.'''||'''Translit.'''||'''[[International Phonetic Alphabet|IPA]]'''
+|- align="center"
+|[[Image:Certh 1.svg|20px]]||1||p||{{IPA|/p/}}<sup>★</sup>
+|[[Image:Certh 16.svg|20px]]||16||zh||{{IPA|/ʒ/}}
+|[[Image:Certh 31.svg|20px]]||31||l||{{IPA|/l/}}
+|[[Image:Certh 46.svg|20px]]||46||e||{{IPA|/e/}}
+|- align="center"
+|[[Image:Certh 2.svg|20px]]||2||b||{{IPA|/b/}}
+|[[Image:Certh 17.svg|20px]]||17||ks||{{IPA|/ks/}}
+|colspan="4"|
+|||||||
+|- align="center"
+|[[Image:Certh 3.svg|20px]]||3||f||{{IPA|/f/}}
+|[[Image:Certh 18.svg|20px]]||18||k||{{IPA|/k/}}
+|[[Image:Certh 33.svg|20px]]||33||nd||{{IPA|/nd/}}
+|[[Image:Certh 48.svg|20px]]||48||a||{{IPA|/a/}}
+|- align="center"
+|[[Image:Certh 4.svg|20px]]||4||v||{{IPA|/v/}}<sup>★</sup>
+|[[Image:Certh 19.svg|20px]]||19||g||{{IPA|/ɡ/}}
+|[[Image:Certh 34.svg|20px]]||34||rowspan="2"|s||rowspan="2"|{{IPA|/s/}}
+|colspan="4"|
+|- align="center"
+|[[Image:Certh 5.svg|20px]]||5||hw||{{IPA|/ʍ/}}<sup>★</sup>
+|[[Image:Certh 20.svg|20px]]||20||kh||{{IPA|/x/}}<sup>★</sup>
+|[[Image:Certh 35.svg|20px]]||35
+|[[Image:Certh 50.svg|20px]]||50||o||{{IPA|/o/}}
+|- align="center"
+|[[Image:Certh 6.svg|20px]]||6||m||{{IPA|/m/}}
+|[[Image:Certh 21.svg|20px]]||21||gh||{{IPA|/ɣ/}}<sup>★</sup>
+|[[Image:Certh 36.svg|20px]]||36||ŋ||{{IPA|/ŋ/}}<sup>★</sup>
+|||||||
+|- align="center"
+|[[Image:Certh 7.svg|20px]]||7||mb||{{IPA|/mb/}}
+|[[Image:Certh 22.svg|20px]]||22||n||{{IPA|/n/}}
+|[[Image:Certh 37.svg|20px]]||37||ng||{{IPA|/ŋɡ/}}
+|[[Image:Certh 52.svg|20px]]&nbsp;or&nbsp;[[Image:Certh 52a.svg|20px]]||52||ö||{{IPA|/œ/}}<sup>★</sup>
+|- align="center"
+|[[Image:Certh 8.svg|20px]]||8||t||{{IPA|/t/}}
+|[[Image:Certh 23.svg|20px]]||23||kw||{{IPA|/kʷ/}}<sup>★</sup>
+|colspan="4"|
+|[[Image:Certh 53.svg|20px]]||53||n||{{IPA|/n/}}
+|- align="center"
+|[[Image:Certh 9.svg|20px]]||9||d||{{IPA|/d/}}
+|[[Image:Certh 24.svg|20px]]||24||gw||{{IPA|/ɡʷ/}}<sup>★</sup>
+|[[Image:Certh 39.svg|20px]]||39||i||{{IPA|/i/}}
+|[[Image:Certh 54.svg|20px]]||54||h||{{IPA|/h/}}
+|- align="center"
+|[[Image:Certh 10.svg|20px]]||10||th||{{IPA|/θ/}}<sup>★</sup>
+|[[Image:Certh 25.svg|20px]]||25||khw||{{IPA|/xʷ/}}<sup>★</sup>
+|[[Image:Certh 40.svg|20px]]||40||y||{{IPA|/j/}}
+|[[Image:Certh 55.svg|20px]]&nbsp;or&nbsp;[[Image:Certh 55a.svg|20px]]||55||∗||{{IPA|/ə/}}
+|- align="center"
+|[[Image:Certh 11.svg|20px]]||11||dh||{{IPA|/ð/}}<sup>★</sup>
+|[[Image:Certh 26.svg|20px]]||26||ghw||{{IPA|/ɣʷ/}}<sup>★</sup>
+|[[Image:Certh 41.svg|20px]]||41||hy||{{IPA|/j̊/}} or {{IPA|/ç/}}<sup>★</sup>
+|[[Image:Certh 56.svg|20px]]&nbsp;or&nbsp;[[Image:Certh 56a.svg|20px]]||56||∗||{{IPA|/ʌ/}}
+|- align="center"
+|[[Image:Certh 12.svg|20px]]||12||r||{{IPA|/ʁ/}}
+|[[Image:Certh 27.svg|20px]]||27||ngw||{{IPA|/ŋɡʷ/}}<sup>★</sup>
+|[[Image:Certh 42.svg|20px]]||42||u||{{IPA|/u/}}
+|[[Image:Certh 57.svg|20px]]||57||ps||{{IPA|/ps/}}
+|- align="center"
+|[[Image:Certh 13.svg|20px]]||13||ch||{{IPA|/tʃ/}}<sup>★</sup>
+|[[Image:Certh 28.svg|20px]]||28||nw||{{IPA|/ŋʷ/}}→{{IPA|/nʷ/}}<sup>★</sup>
+|[[Image:Certh 43.svg|20px]]||43||z||{{IPA|/z/}}
+|[[Image:Certh 58.svg|20px]]||58||ts||{{IPA|/ts/}}
+|- align="center"
+|[[Image:Certh 14.svg|20px]]||14||j||{{IPA|/dʒ/}}<sup>★</sup>
+|[[Image:Certh 29.svg|20px]]||29||g||{{IPA|/ɡ/}}
+|[[Image:Certh 44.svg|20px]]||44||w||{{IPA|/w/}}<sup>★</sup>
+|[[Image:Certh 59.svg|20px]]||||+h||{{IPA|/◌ʰ/}}
+|- align="center"
+|[[Image:Certh 15.svg|20px]]||15||sh||{{IPA|/ʃ/}}
+|[[Image:Certh 30.svg|20px]]||30||gh||{{IPA|/ɣ/}}<sup>★</sup>
+|[[Image:Certh 45.svg|20px]]&nbsp;or&nbsp;[[Image:Certh 45a.svg|20px]]||45||ü||{{IPA|/y/}}<sup>★</sup>
+|[[Image:Certh 60.svg|20px]]||||&||
+|}
+</center>
+
+[[Combining diacritic]]s occur in Angerthas Erebor as well: a [[circumflex accent]] [[Image:Certh Circumflex.png|16px]] used to denote [[gemination|long consonants]], a [[macron below]] [[Image:Certh Macron below.png|16px]] to indicate a [[long vowel]] sound, and an [[dot (diacritic)#Underdot|underdot]] [[Image:Certh Underdot.png|16px]] to mark cirth used as [[numerical digits|numerals]]<sup>1</sup>.
+
+# On Tolkien's replica pages of the [[List of Middle-earth objects#Book of Mazarbul|Book of Mazarbul]] some cirth are also used as numerals: [[Image:Certh 39.svg|16px]] for 1, [[Image:Certh 50.svg|16px]] for 2, [[Image:Certh 52.svg|16px]] for 3, [[Image:Certh dotless numeral 4.png|16px]] for 4, [[Image:Certh 22.svg|16px]] for 5.
+
+===Use for English===
+
+[[File:Balin sp2.PNG|thumb|right|400px|Runes in the bottom inscription of [[Balin (Middle-earth)|Balin]]'s tomb use Angerthas Erebor for English, reading left-to-right: "Balin sʌn ov Fu[nd]in lord ov Moria"]]
+Tolkien used Angerthas Erebor mode to write English with Cirth at least twice in ''[[The Lord of the Rings]]'':
+* in the upper inscription of the title page, where it reads "''[dh]ə&#183;&#8203;lord&#183;&#8203;ov&#183;&#8203;[dh]ə&#183;&#8203;riŋs&#183;&#8203;translatᵊd&#183;&#8203;from&#183;&#8203;[dh]ə&#183;&#8203;[[Red Book of Westmarch|red&#183;&#8203;b[oo]k]]''" (the sentence follows in the bottom inscription, written in Tengwar);
+* in the bottom inscription of [[Balin (Middle-earth)|Balin]]'s tomb, being the translation of the upper inscription, written in Khuzdul using Angerthas Moria mode.
+
+The [[Book of Mazarbul]] shows that additional cirth were introduced in this mode (for a double "l" [[Typographic ligature|ligature]], for the [[Article (grammar)#Definite article|definite article]] and for the representation of six [[diphthong]]s).<ref name="Angerthas Erebor"/> These were probably only to be used with English language:
+
+<center>
+{| cellpadding="4" cellspacing="0"  class="wikitable"
+|- align="center"
+!'''''Certh'''''||'''Translit.'''
+|- align="center"
+|[[Image:Certh LL.png|20px]]||ll
+|- align="center"
+|[[Image:Certh Article.png|20px]]||the
+|- align="center"
+|[[Image:Certh AI.png|20px]]||ai, ay
+|- align="center"
+|[[Image:Certh AU.png|20px]]||au, aw
+|- align="center"
+|[[Image:Certh EA.png|20px]]||ea
+|- align="center"
+|[[Image:Certh 38a.svg|20px]]||eu, ew
+|- align="center"
+|[[Image:Certh OA.png|20px]]||oa
+|- align="center"
+|[[Image:Certh 38.svg|20px]]||ou, ow
+|}
+</center>
+
+Additionally, [[Image:Certh 47.svg|16px]] is used for English {{angle bracket|ee}} and [[Image:Certh 51.svg|16px]] for {{angle bracket|oo}}.
+
+==Other Middle-earth Runes==
+The Cirth is not the only runic writing system devised by Tolkien for Middle Earth. In fact, he invented a great number of runic alphabets, of wich only a few others have been published. Many of them were included in the "Appendix on Runes" in [[The History of Middle-Earth]], vol. VII, [[The Treason of Isengard]], edited by [[Christopher Tolkien]].
+
+===Runes from ''The Hobbit''===
+<!-- Commented out: [[File:Hobbit cover.JPG|thumb|right|150px|Runes around the edges of the cover of ''The Hobbit'' are a transliteration of English, giving information on the book.]] -->
+It is speculated that the runes used in ''[[The Hobbit]]'' are indeed the form of Cirth used by the Men of Dale, although Tolkien himself wrote that the letters used for [[Thror]]'s Map are a form of [[Fuþorc|our ancient runes]] used to [[Transliteration|transliterate]] actual Dwarf-runes.<ref>{{cite book |title=[[The Hobbit]]|first=J.R.R. |last=Tolkien |authorlink=J.R.R. Tolkien |publisher=London: George Allen & Unwin. |year=1937}}</ref>
+
+These runes – used only to write in [[English language|English]] – are indeed nearly identical to those of Fuþorc but their sound may change according to their position, just as the [[Latin alphabet|Latin]] letters do. And, in fact, Tolkien's writing mode is mainly orthographic.<br>It has one rune for each letter, regardless of pronunciation (for example the rune [[Image:Tolkien'sFuthorc C.jpg|10px]] "C" can sound {{IPAc-en|k}} in the word "''c''at" or {{IPAc-en|s}} in the word "''c''ellar" or even {{IPAc-en|ʃ}} in the word "deli''c''ious" and {{IPAc-en|tʃ}} in the digraph [[Image:Tolkien'sFuthorc C.jpg|10px]][[Image:Tolkien'sFuthorc H.jpg|10px]] "CH").<br>A few sounds are instead written with the same rune regardless of the letter (e.g. the sound {{IPAc-en|ɔː}} is always written with the rune [[Image:Tolkien'sFuthorc O.jpg|10px]] "O" either if in English it is written "o" as in "n''o''rth", "a" as in "f''a''ll", or "oo" as in "d''oo''r"). The letters that are subject to this phonemic spelling are "a" and "o".<br>In addition, there are also some runes which stand for a particular English digraph or diphthong.
+
+Here the runes used in ''The Hobbit'' are represented along with their English transliteration:
+
+<center>
+{| class="wikitable"
+|-
+! '''Rune'''
+| <center>[[Image:Tolkien'sFuthorc A.jpg|16px]]</center> || <center>[[Image:Tolkien'sFuthorc Æ.jpg|16px]]</center> || <center>[[Image:Tolkien'sFuthorc B.jpg|16px]]</center> || <center>[[Image:Tolkien'sFuthorc C.jpg|16px]]</center> || <center>[[Image:Tolkien'sFuthorc D.jpg|16px]]</center> || <center>[[Image:Tolkien'sFuthorc E.jpg|16px]]</center> || <center>[[Image:Tolkien'sFuthorc F.jpg|16px]]</center> || <center>[[Image:Tolkien'sFuthorc G.jpg|16px]]</center> || <center>[[Image:Tolkien'sFuthorc H.jpg|16px]]</center> || <center>[[Image:Tolkien'sFuthorc I.jpg|5px]]</center> || <center>[[Image:Tolkien'sFuthorc K.jpg|16px]]</center> || <center>[[Image:Tolkien'sFuthorc L.jpg|16px]]</center> || <center>[[Image:Tolkien'sFuthorc M.jpg|16px]]</center> || <center>[[Image:Tolkien'sFuthorc N.jpg|11px]]</center> || <center>[[Image:Tolkien'sFuthorc O.jpg|16px]]</center>
+|-
+! '''Translit.'''
+| colspan="2" | <center>a</center> || <center>b</center> || <center>c</center> || <center>d</center> || <center>e</center> || <center>f</center> || <center>g</center> || <center>h</center> || <center>i, j</center> || <center>k</center> || <center>l</center> || <center>m</center> || <center>n</center> || <center>o</center>
+|-
+! '''Rune'''
+| <center>[[Image:Tolkien'sFuthorc P.jpg|16px]]</center> || <center>[[Image:Tolkien'sFuthorc R.jpg|16px]]</center> || <center>[[Image:Tolkien'sFuthorc S.jpg|16px]]</center> || <center>[[Image:Tolkien'sFuthorc T.jpg|16px]]</center> || <center>[[Image:Tolkien'sFuthorc V.jpg|16px]]</center> || <center>[[Image:Tolkien'sFuthorc W.jpg|16px]]</center> || <center>[[Image:Tolkien'sFuthorc X.jpg|16px]]</center> || <center>[[Image:Tolkien'sFuthorc Y.jpg|16px]]</center> || <center>[[Image:Tolkien'sFuthorc Z.jpg|16px]]</center> || <center>[[Image:Tolkien'sFuthorc TH.jpg|16px]]</center> || <center>[[Image:Tolkien'sFuthorc EA.jpg|16px]]</center> || <center>[[Image:Tolkien'sFuthorc ST.jpg|16px]]</center> || <center>[[Image:Tolkien'sFuthorc EE.jpg|16px]]</center> || <center>[[Image:Tolkien'sFuthorc NG.jpg|16px]]</center> || <center>[[Image:Tolkien'sFuthorc EO.jpg|16px]]</center>
+|-
+! '''Translit.'''
+| <center>p</center> || <center>r</center> || <center>s</center> || <center>t</center> || <center>u, v</center> || <center>w</center> || <center>x</center> || <center>y</center> || <center>z</center> || <center>th</center> || <center>ea</center> || <center>st</center> || <center>ee</center> || <center>ng</center> || <center>eo</center>
+|}
+</center>
+
+Two other runes, not attested in ''The Hobbit'', were added by Tolkien in order to represent additional English sounds:
+<center>
+{| class="wikitable"
+|-
+! '''Rune'''
+| <center>[[Image:Certh 5.svg|21px]]</center> || <center>[[Image:Certh 41.svg|21px]]</center>
+|-
+! '''Translit.'''
+| <center>oo</center> || <center>sh</center>
+|}
+</center>
+
+====Notes====
+
+It must be noticed that Tolkien always wrote the English digraph "wh" (representing the sound {{IPA|/ʍ/}}, or {{IPAc-en|hw}}, like in "''wh''ain") in runes as [[Image:Tolkien'sFuthorc H.jpg|10px]][[Image:Tolkien'sFuthorc W.jpg|10px]] "HW".<br>There is no rune to transliterate "q": the digraph "qu" (representing the sound {{IPA|/kw/}}, like in "''qu''estion") is always rendered in runes as [[Image:Tolkien'sFuthorc C.jpg|10px]][[Image:Tolkien'sFuthorc W.jpg|10px]] "CW".
+
+This table could be helpful for the transcription of "a" and "o" in runes:<ref>[http://www.forodrim.org/daeron/runes-eng.pdf "Tolkien English Runes"]</ref>
+
+<center>
+{| class="wikitable"
+|- align="center"
+! '''English letter(s)'''
+! '''Sound in [[International Phonetic Alphabet|IPA]]'''
+!'''Rune'''
+|- align="center"
+| rowspan="3" | a 
+| {{IPAc-en|æ}}
+| [[Image:Tolkien'sFuthorc Æ.jpg|16px]]
+|- align="center"
+| {{IPAc-en|ɔː}}
+| [[Image:Tolkien'sFuthorc O.jpg|16px]]
+|- align="center"
+| every other sound
+| [[Image:Tolkien'sFuthorc A.jpg|16px]]
+|- align="center"
+| o
+| every sound
+| rowspan="2" | [[Image:Tolkien'sFuthorc O.jpg|16px]]
+|- align="center"
+| rowspan="2" | oo
+| {{IPAc-en|ɔː}}
+|- align="center"
+| every other sound
+| [[Image:Certh 5.svg|21px]]
+|}
+</center>
+
+===Gondolinic Runes===
+Not all the runes mentioned in ''The Hobbit'' are Dwarf-runes. The swords found in the [[Troll (Middle-earth)|Troll]]s' cave (which were from the ancient kingdom of [[Gondolin]]) bore runes that [[Gandalf]] could not read. In fact, being the swords [[List of Middle-earth weapons and armour#Glamdring|Glamdring]] and [[List of Middle-earth weapons and armour#Orcrist|Orcrist]] forged in Gondolin, they bore a type of letters known as '''''Gondolinic runes'''''. They seem to have been obsoleted and forgotten by the [[Third Age]], and this is supported by the fact that only [[Elrond]] could read the inscriptions of the swords.<br>
+Tolkien devised this runic alphabet in a very early stage of his shaping of Middle-earth, but they are known to us only from a slip of paper written by J.R.R. Tolkien, a photocopy of which [[Christopher Tolkien]] sent to Paul Nolan Hyde in February 1992, who published it, together with an extensive analysis, in the 1992 Summer issue of [[Mythlore]], no. 69.
+The system provides sounds not found in the known Elven languages of the First Age, but perhaps it was designed for notating a variety of languages. However, the consonants seem to be, more or less, the same found in [[Welsh phonology]], a theory supported by the fact that Tolkien was heavily influenced by [[Welsh language|Welsh]] when creating Elven languages.<ref>[http://www.bbc.com/news/uk-wales-south-east-wales-13472344 BBC article] on Tolkien's Welsh influences.</ref>
+
+<center>
+{|class="wikitable"
+|- align="center"
+|+ Consonants
+!rowspan=2|
+!colspan=3|<small>[[Labial consonant|Labial]]</small>
+!colspan=9|<small>[[Dental consonant|Dentals]]</small>
+!colspan=3|<small>[[Palatal consonant|Palatal]]</small>
+!colspan=3|<small>[[Dorsal consonant|Dorsal]]</small>
+!colspan=3|<small>[[Glottal consonant|Glottal]]</small>
+|- align="center"
+!colspan=2|<small>'''Rune'''</small>||<small>'''[[International Phonetic Alphabet|IPA]]'''</small>
+!colspan=2|<small>'''Rune'''</small>||<small>'''[[International Phonetic Alphabet|IPA]]'''</small>
+!colspan=2|<small>'''Rune'''</small>||<small>'''[[International Phonetic Alphabet|IPA]]'''</small>
+!colspan=2|<small>'''Rune'''</small>||<small>'''[[International Phonetic Alphabet|IPA]]'''</small>
+!colspan=2|<small>'''Rune'''</small>||<small>'''[[International Phonetic Alphabet|IPA]]'''</small>
+!colspan=2|<small>'''Rune'''</small>||<small>'''[[International Phonetic Alphabet|IPA]]'''</small>
+!colspan=2|<small>'''Rune'''</small>||<small>'''[[International Phonetic Alphabet|IPA]]'''</small>
+|- align="center"
+! rowspan=2|<small>[[Stop consonant|Plosive]]</small>
+|[[Image:Gondolin rune p.png|14px]]||p||{{IPA|/p/}}
+|colspan=3|
+|[[Image:Gondolin rune t.png|14px]]||t||{{IPA|/t/}}
+|colspan=3|
+|colspan=3|
+|[[Image:Gondolin rune k.png|14px]]||k (c)||{{IPA|/k/}}
+|colspan=3|
+|- align="center"
+|[[Image:Gondolin rune b.png|16px]] [[Image:Gondolin rune b2.png|21px]]||b||{{IPA|/b/}}
+|colspan=3|
+|[[Image:Gondolin rune d.png|14px]]||d||{{IPA|/d/}}
+|colspan=3|
+|colspan=3|
+|[[Image:Gondolin rune g.png|14px]]||g||{{IPA|/ɡ/}}
+|colspan=3|
+|- align="center"
+! rowspan=2|<small>[[fricative consonant|Fricative]]</small>
+|[[Image:Gondolin rune f.png|14px]]||f||{{IPA|/f/}}
+|[[Image:Gondolin rune th.png|14px]]||þ||{{IPA|/θ/}}
+|[[Image:Gondolin rune s.png|14px]]||s||{{IPA|/s/}}
+|[[Image:Gondolin rune sh.png|14px]]||š||{{IPA|/ʃ/}}
+|colspan=3|
+|[[Image:Gondolin rune x.png|14px]]||χ||{{IPA|/χ/}}
+|[[Image:Gondolin rune h.png|14px]]||h||{{IPA|/h/}}
+|- align="center"
+|[[Image:Gondolin rune v.png|18px]] [[Image:Gondolin rune v2.png|14px]]||v||{{IPA|/v/}}
+|[[Image:Gondolin rune dh.png|14px]]||ð||{{IPA|/ð/}}
+|[[Image:Gondolin rune z.png|14px]]||z||{{IPA|/z/}}
+|[[Image:Gondolin rune zh.png|14px]]||ž||{{IPA|/ʒ/}}
+|colspan=3|
+|colspan=3|
+|colspan=3|
+|- align="center"
+! rowspan=2|<small>[[affricate consonant|Affricate]]</small>
+|colspan=3|
+|colspan=3|
+|colspan=3|
+|[[Image:Gondolin rune ch.png|14px]]||tš (ch)||{{IPA|/t͡ʃ/}}
+|colspan=3|
+|colspan=3|
+|colspan=3|
+|- align="center"
+|colspan=3|
+|colspan=3|
+|colspan=3|
+|[[Image:Gondolin rune j.png|14px]]||dž (j)||{{IPA|/d͡ʒ/}}
+|colspan=3|
+|colspan=3|
+|colspan=3|
+|- align="center"
+! rowspan=2|<small>[[nasal consonant|Nasal]]</small>
+|[[Image:Gondolin rune m.png|14px]]||m||{{IPA|/m/}}
+|colspan=3|
+|[[Image:Gondolin rune n.png|14px]]||n||{{IPA|/n/}}
+|colspan=3|
+|colspan=3|
+|[[Image:Gondolin rune ŋ.png|14px]]||ŋ||{{IPA|/ŋ/}}
+|colspan=3|
+|- align="center"
+|([[Image:Gondolin rune mh.png|14px]]||mh||{{IPA|/m̥/}})
+|colspan=3|
+|[[Image:Gondolin rune nx.png|14px]]||χ&#771;||{{IPA|/n̥/}}<sup>?</sup>
+|colspan=3|
+|colspan=3|
+|([[Image:Gondolin rune ŋh.png|14px]] [[Image:Gondolin rune ŋh2.png|14px]]||ŋh||{{IPA|/ŋ̊/}})
+|colspan=3|
+|- align="center"
+! rowspan=2|<small>[[Trill consonant|Trill]]</small>
+|colspan=3|
+|colspan=3|
+|[[Image:Gondolin rune r.png|14px]]||r||{{IPA|/r/}}
+|colspan=3|
+|colspan=3|
+|colspan=3|
+|colspan=3|
+|- align="center"
+|colspan=3|
+|colspan=3|
+|[[Image:Gondolin rune rh.png|14px]]||rh||{{IPA|/r̥/}}
+|colspan=3|
+|colspan=3|
+|colspan=3|
+|colspan=3|
+|- align="center"
+! rowspan=2|<small>[[Lateral consonant|Lateral]]</small>
+|colspan=3|
+|colspan=3|
+|[[Image:Gondolin rune l.png|14px]]||l||{{IPA|/l/}}
+|colspan=3|
+|colspan=3|
+|colspan=3|
+|colspan=3|
+|- align="center"
+|colspan=3|
+|colspan=3|
+|[[Image:Gondolin rune lh.png|14px]] [[Image:Gondolin rune lh2.png|14px]] [[Image:Gondolin rune lh3.png|14px]]||lh||{{IPA|/ɬ/}}
+|colspan=3|
+|colspan=3|
+|colspan=3|
+|colspan=3|
+|- align="center"
+! rowspan=2|<small>[[Approximant consonant|Approximant]]</small>
+|colspan=3|
+|colspan=3|
+|colspan=3|
+|colspan=3|
+|[[Image:Gondolin rune y (consonant).png|14px]] [[Image:Gondolin rune y2 (consonant).png|14px]] [[Image:Gondolin rune y3 (consonant).png|14px]]||j (i̯)||{{IPA|/j/}}
+|[[Image:Gondolin rune w.png|14px]]||w (u̯)||{{IPA|/w/}}
+|colspan=3|
+|- align="center"
+|colspan=3|
+|colspan=3|
+|colspan=3|
+|colspan=3|
+|colspan=3|
+|[[Image:Gondolin rune hw.png|14px]]||ƕ||{{IPA|/ʍ/}}
+|colspan=3|
+|}
+</center>
+
+<center>
+{|class="wikitable"
+|+ Vowels
+|- align="center"
+!<small>'''Rune'''</small>||<small>'''Translit.'''</small>||<small>'''[[International Phonetic Alphabet|IPA]]'''</small>
+!<small>'''Rune'''</small>||<small>'''Translit.'''</small>||<small>'''[[International Phonetic Alphabet|IPA]]'''</small>
+!<small>'''Rune'''</small>||<small>'''Translit.'''</small>||<small>'''[[International Phonetic Alphabet|IPA]]'''</small>
+!<small>'''Rune'''</small>||<small>'''Translit.'''</small>||<small>'''[[International Phonetic Alphabet|IPA]]'''</small>
+!<small>'''Rune'''</small>||<small>'''Translit.'''</small>||<small>'''[[International Phonetic Alphabet|IPA]]'''</small>
+|- align="center"
+|[[Image:Gondolin rune a.png|14px]]||a||{{IPA|/ɑ/}}
+|[[Image:Gondolin rune e.png|14px]]||e||{{IPA|/ɛ/}}
+|[[Image:Gondolin rune i.png|14px]]||i||{{IPA|/i/}}
+|[[Image:Gondolin rune o.png|14px]]||o||{{IPA|/ɔ/}}
+|[[Image:Gondolin rune u.png|14px]]||u||{{IPA|/u/}}
+|- align="center"
+|[[Image:Gondolin rune a-.png|14px]]||ā||{{IPA|/ɑː/}}
+|[[Image:Gondolin rune e-.png|14px]] [[Image:Gondolin rune e-2.png|14px]]||ē||{{IPA|/eː/}}
+|[[Image:Gondolin rune i-.png|14px]]||ī||{{IPA|/iː/}}
+|[[Image:Gondolin rune o-.png|14px]] [[Image:Gondolin rune o-2.png|14px]]||ō||{{IPA|/oː/}}
+|[[Image:Gondolin rune u-.png|14px]] [[Image:Gondolin rune u-2.png|28px]]||ū||{{IPA|/uː/}}
+|- align="center"
+|[[Image:Gondolin rune æ.png|14px]][[Image:Gondolin rune æ2.png|14px]]||æ||{{IPA|/æ/}}
+|colspan="3"|
+|colspan="3"|
+|[[Image:Gondolin rune œ.png|14px]]||œ||{{IPA|/œ/}}
+|[[Image:Gondolin rune y.png|14px]] [[Image:Gondolin rune y2.png|14px]]||y||{{IPA|/y/}}
+|- align="center"
+|[[Image:Gondolin rune æ-.png|14px]] [[Image:Gondolin rune æ-2.png|14px]]||ǣ||{{IPA|/æː/}}
+|colspan="3"|
+|colspan="3"|
+|[[Image:Gondolin rune œ-.png|14px]]||œ&#772;||{{IPA|/œː/}}
+|[[Image:Gondolin rune y-.png|28px]] [[Image:Gondolin rune y-2.png|14px]] [[Image:Gondolin rune y-3.png|14px]] [[Image:Gondolin rune y-4.png|14px]]||ȳ||{{IPA|/yː/}}
+|}
+</center>
+
+==Concept and creation==
+Many letters have shapes also found in the historical [[Fuþark]], but their sound values are only similar in a few of the vowels. Rather, the system of assignment of sound values is much more systematic in the Cirth than in the historical runes (e.g., voiced variants of a voiceless sound are expressed by an additional stroke). A similar system has been proposed for a few historical runes but is in any case much more obscure.<ref>[http://www.http://tolkiengateway.net/wiki/Cirth#Inspiration "Inspiration"] on Tolkien Gateway wiki.</ref>
+
+The division between the older Cirth of Daeron and their adaptation by Dwarves and Men has been interpreted as a parallel drawn by Tolkien to the development of the Fuþorc to the [[Younger Fuþark]].<ref>{{cite book |title=Mittelerde: Tolkien und die germanische Mythologie |trans_title=Middle-earth: Tolkien and Germanic Mythology |first=Rudolf |last=Simek |language=German |authorlink=Rudolf Simek |pages=155–156 |publisher=C. H. Beck |year=2005 |isbn=3-4065-2837-6}}</ref> The original Elvish Cirth "as supposed products of a superior culture" are focused on logical arrangement and a close connection between form and value whereas the adaptations by mortal races introduced irregularities. Similar to the Germanic tribes who had no written literature and used only simple runes before their conversion to Christianity, the Sindar Elves of Beleriand with their Cirth were introduced to the more elaborate Tengwar of Fëanor when the Noldor Elves returned to Middle-earth from the lands of the divine [[Valar]].<ref>{{cite conference  |booktitle=Semiotics Around the World: Synthesis in Diversity. Proceedings of the Fifth Congress of the International Association for Semiotic Studies, Berkeley, 1994 |editor-first=Irmengard |editor-last=Rauch |editor-link=Irmengard Rauch |editor2-first=Gerald F. |editor2-last=Carr |title=The semiotics of the writing systems of Tolkien's Middle-earth |first=Arden R. |last=Smith |authorlink=Arden R. Smith |pages=1239–1242 |volume=1 |publisher= [[Walter de Gruyter]] |year=1997 |isbn=3-1101-2223-5}}</ref>
+
+==Unicode==
+Equivalents for most but not all cirth can be found in the [[Runic (Unicode block)|Runic block]] of Unicode.
+
+Three J. R. R. Tolkien-specific letters were added in June, 2014 with the release of Unicode 7.0:
+*{{unichar|16F1|RUNIC LETTER K}}
+*{{unichar|16F2|RUNIC LETTER SH}}
+*{{unichar|16F3|RUNIC LETTER OO}}
+
+A formal Unicode proposal to encode Cirth as a separate script was made in September 1997 by Michael Everson.<ref>{{cite web|url= http://std.dkuug.dk/JTC1/SC2/WG2/docs/n1642/n1642.htm|title=N1642: Proposal to encode Cirth in Plane 1 of ISO/IEC 10646-2 | first = Michael | last = Everson | publisher=Working Group Document, ISO/IEC JTC1/SC2/WG2 and UTC|date=1997-09-18|accessdate=2015-08-08}}</ref>
+No action was taken by the Unicode Technical Committee (UTC) but Cirth appears in the Roadmap to the SMP.<ref name="roadmapsmp">{{cite web|url=http://www.unicode.org/roadmaps/smp/ |title=Roadmap to the SMP |publisher=Unicode.org |date=2015-06-03 |accessdate=2015-08-08}}</ref>
+
+===ConScript Unicode Registry===
+Unicode [[Private Use Areas|Private Use Area]] layouts for Cirth are defined at the '''[[ConScript Unicode Registry]]''' (CSUR)<ref>{{cite web|url=http://www.evertype.com/standards/csur/ |title=ConScript Unicode Registry |publisher=Evertype.com | accessdate=2015-08-08}}</ref> and the '''Under-ConScript Unicode Registry''' (UCSUR).<ref>{{cite web|url=http://www.kreativekorp.com/ucsur/ |title=Under-ConScript Unicode Registry | accessdate=2015-08-08}}</ref>
+
+Two different layouts are defined by the CSUR/UCSUR:
+* 1997-11-03 proposal<ref>{{cite web|url=http://www.evertype.com/standards/csur/cirth.html |title=Cirth: U+E080&ndash;U+E0FF|publisher=ConScript Unicode Registry|date=1997-11-03|accessdate=2015-08-08}}</ref> implemented by fonts like [[GNU Unifont]]<ref>{{cite web|url=http://unifoundry.com/unifont.html|title=GNU Unifont|publisher=Unifoundry.com |accessdate=2015-07-24}}</ref> and Code2000
+* 2000-04-22 discussion paper<ref>{{cite web|url=http://www.evertype.com/standards/iso10646/pdf/cirth.pdf |title=X.X Cirth 1xx00–1xx7F|first=Michael|last=Everson|date=2000-04-22|accessdate=2015-08-08}}</ref><ref>{{cite web|url=http://www.kreativekorp.com/ucsur/charts/PDF/UE080.pdf|title=Cirth, Range: E080–E0FF|date=2008-04-14|publisher=Under-ConScript Unicode Registry|accessdate=2015-08-08}}</ref> implemented by fonts like [http://www.kreativekorp.com/software/fonts/constructium.shtml Constructium] and [http://www.kreativekorp.com/software/fonts/constructium.shtml#fairfax Fairfax]
+
+Without proper rendering support, you may see [[Specials (Unicode block)#Replacement character|question marks, boxes, or other symbols]] below instead of Cirth.
+
+{{CSUR chart Cirth}}
+
+==References==
+{{Reflist}}
+
+{{Languages of Middle-earth}}
+{{Middle-earth}}
+
+[[Category:Middle-earth writing systems]]
+[[Category:Alphabets]]
+[[Category:Runology]]
+[[Category:Scripts not encoded in Unicode]]

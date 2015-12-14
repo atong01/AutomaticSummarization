@@ -1,0 +1,153 @@
+{{prose|date=November 2015}}
+{{Infobox video game
+|title = Bubble Bobble
+|image = [[Image:Bubble bobble.jpg|256px|Bubble Bobble flyer]]
+|caption = Promotional US flyer for the original arcade iteration of ''Bubble Bobble''
+|developer = [[Taito Corporation|Taito]]
+|publisher = Taito and [[Romstar]]
+|designer = [[Fukio Mitsuji]]
+|composer = Tadashi Kimijima
+|released = August {{vgy|1986}}<ref>{{cite web |url=http://www.arcade-history.com/?n=bubble-bobble&page=detail&id=343 |title=Bubble Bobble The Arcade Video Game by Taito Corp. |publisher=Arcade History.com}}</ref>
+|genre = [[Arcade game#Arcade genre|Arcade]], [[Platform game#Comical action game|comical action platformer]]
+|modes = One player or 2 players simultaneously
+|series = [[:Category:Bubble Bobble|Bubble Bobble]]
+|cabinet = Upright
+|arcade system = Main [[Central processing unit|CPUs]]: 2x [[Z80]] (6Mhz), Z80 (3Mhz), [[Motorola 6800|M6801]] (1Mhz)
+|display = [[Raster graphics|Raster]], standard resolution 256×224 (horizontal), 256 colors
+|sound = Sound CPU: [[YM2203]] (3Mhz), [[YM3526]] (3Mhz)
+|platforms = [[Arcade game|Arcade]], [[#Ports|Various]]
+}}
+
+{{Nihongo|'''''Bubble Bobble'''''|バブルボブル|Baburu Boburu}} is an [[Arcade game#Arcade genre|arcade]] [[Platform game#Comical action game|comical action platformer]] [[video game]] by [[Taito Corporation|Taito]], first released in 1986 <ref name = "klov">{{cite web|url=http://www.arcade-museum.com/game_detail.php?game_id=7222 |title=Bubble Bobble Video Game by Taito (1986)| publisher=The International Arcade Museum|accessdate=2009-10-04 }}</ref> and later [[porting|ported]] to numerous [[home computer]]s and [[Video game console|game console]]s.<ref>{{cite web | url=http://www.mobygames.com/game-group/bubble-bobble-rainbow-islands-games | title=Bubble Bobble & Rainbow Islands games | publisher=mobygames.com | accessdate=2014-06-06 }}</ref> The game, starring the twin Bubble Dragons {{nihongo|'''Bub''' ''(Bubblun)''|バブルン|Baburun}} and {{nihongo|'''Bob''' ''(Bobblun)''|ボブルン|Boburun}}, in which players travel through one hundred different stages, blowing and bursting [[Liquid bubble|bubbles]], dodging enemies and collecting a variety of items.<ref name = "klov"/> The game became popular and led to a long series of sequels and spin-offs. The main goal of the game is to rescue Bub and Bob's girlfriends from the Cave of Monsters. It is an early example of an action game with [[multiple endings]], which depend on the player's performance and discovery of secrets.<ref name = "rgamer08">{{citation | title=Bubble Trouble | journal='''Retro Gamer''' | issue=8 | pages=36–41 | url=http://www.adamdawes.com/retrogaming/rg_08_bubblebobble.html | first=Adam | last=Dawkes | date= September 2004 |publisher = [[Imagine Publishing]]| accessdate=2013-01-11 }}</ref>
+
+==Gameplay==
+[[File:Bubblebobble.png|thumb|320px|left|Arcade screenshot]]
+In the game's plot, "Baron Von Blubba" has kidnapped the brothers Bubby and Bobby's girlfriends and turned the brothers into Bubble Dragons, Bub and Bob.  Bub and Bob have to finish 100 levels in the Cave of Monsters in order to rescue them.<ref name = "rgamer95">{{citation | title=Bubble Memories | journal='''Retro Gamer''' | issue=95 | pages=26–35 | date= October 2011 |publisher = [[Imagine Publishing]] }}</ref>
+
+In the game, each player controls one of the two dragons. Players can move along platforms, fall to lower ones, and jump to higher ones and over gaps. Each level is limited to a single screen, with no scrolling; however, if a screen has gaps in its bottom edge, players can fall through these and reappear at the top.{{Citation needed|date=November 2015}} Each level has a certain number of enemies that must be defeated in order to advance. The players must blow bubbles to trap the enemies, then burst these bubbles by colliding with them. Each enemy defeated in this manner turns into a food item that can be picked up for extra points. Defeating multiple enemies at once awards higher scores and causes more valuable food items to appear. All bubbles will float for a certain length of time before bursting on their own; players can jump on these and ride them to otherwise inaccessible areas.<ref name = "rgamer08"/> Magic items appear from time to time and grant special abilities and advantages when picked up. Special bubbles occasionally appear that can be burst to attack enemies with fire, water, or lightning. Furthermore, if a player collects letter bubbles to form the word EXTEND, he/she earns a bonus life and both players immediately advance to the next level.{{Citation needed|date=November 2015}} 
+
+A player loses one life upon touching any free enemies or their projectiles (rocks, fireballs, lasers, bottles).  Enemies turn "angry"—turning pink in color and moving faster—if they escape from a bubble after being left too long or the players spend a certain amount of time on the current level. They return to normal if either player loses a life. After a further time limit expires, an additional invincible enemy appears for each player, actively chasing them using only vertical and horizontal movements. These disappear once the level is cleared, or when a player loses a life. When there is only one enemy left, it immediately becomes angry and remains in this state until defeated.{{Citation needed|date=November 2015}}
+
+In the 100th and final level, players face a [[Boss (video gaming)|boss]].<ref name = "rgamer08"/><ref name = "rgamer95"/><ref name = "rgamer28">{{citation | title=The Definitive - Bubble Bobble | journal='''Retro Gamer''' | issue=28 | pages=58–68 | date= July 2006 | first = Stuart | last = Campbell | publisher = [[Imagine Publishing]] }}</ref> This game was one of the first to feature multiple endings. Completing Level 100 in single-player mode reveals a message stating that the game has not truly ended and a hint to the player: "Come here with your friend." If two players complete the game, they see a "Happy End," in which the brothers are transformed to their human selves and reunited with their girlfriends. This ending also includes a code that, when deciphered, allows the game to be played in the faster and more difficult "Super" mode. If this mode is completed with two players, a second "Happy End" is displayed in which Super Drunk is revealed to be the brothers' parents under the control of some outside influence. The brothers return to normal and are reunited with their parents and girlfriends.<ref name = "rgamer95"/>
+
+==Development==
+[[File:Bubble Bobble Famicom Disk System disk.jpg|thumb|right|''Bubble Bobble'' for the [[Famicom Disk System]].]]
+The popularity of ''Bubble Bobble'' led Taito (or its licensees) to [[porting|port]] the game to many [[home computer]]s and [[video game console]]s. Ports of the game were released for the [[Commodore 64]], [[Sinclair ZX Spectrum]], [[Amiga]], [[Atari ST]], [[MSX2]], [[Amstrad CPC]], [[Sharp X68000]], [[Personal computer|PC]] ([[DOS]], 1989 and 1996), [[Apple II series|Apple II]], [[FM Towns Marty]], [[Sega Master System]], [[Game Boy]], [[Game Boy Color]], [[PlayStation (console)|PlayStation]], [[Sega Saturn]], [[Nintendo Entertainment System]], [[Family Computer Disk System|Famicom Disk System]], [[Sega Game Gear]], [[mobile phone]] ([[Sprint Nextel|Sprint PCS]]) and [[UltraCade Technologies|UltraCade]]'s Taito Arcade Classics. The Sega Master System version is noted for having two hundred levels (in effect the normal and super modes consecutively) and is considered one of the best conversions available.<ref name = "rgamer28"/> Of the original 8 and 16 bit ports, the NES and Game Boy ones were made by Taito themselves. Sega converted Bubble Bobble for the Master System (although this version was not released in North America). The Commodore 64 and Spectrum versions were published by UK-based [[Firebird Software]], and most of the other computer ports by US-based [[Novalogic]].
+
+Commodore 64 coder Steve Ruddy recalled in [[Retro Gamer]]: {{quote|It wasn't daunting originally, as it looked like a fairly straightforward [[platform game|platform]] and [[Sprite (computer graphics)|sprite]] game. However, once you start playing you noticed how the bubbles followed air flow patterns and how they all gathered in fixed places - lots of sprites on the same line meant a [[sprite multiplexing|sprite multiplexer]] wasn't suitable. Fortunately, having worked on the [[BBC Micro]] and ''Mystery of the Nile'', I wasn't averse to using software sprites. ... We didn't understand all of the secrets so we just implemented the game to mimic what we did notice. So how the pick-ups appear isn't the same as the arcade on the C64, but it should be very similar to how the pickups appear after the machine is powered up.<ref>{{cite news | last = Bevan | first= Mike | date = December 2013 | title = Bubbles, Baseball and Buzz Saws - Software Creations | journal = '''Retro Gamer''' | issue = 122 | pages = 74–79 | publisher = [[Imagine Publishing]]}}</ref>}}
+
+The X68000 version of Bubble Bobble includes a secret "Sybubblun" mode, which contains 20 incredibly difficult levels with the characters changed to those from [[Syvalion]], another game designed by Fukio Mitsuji.<ref>[http://mamedev.emulab.it/haze/2015/09/04/sybubblun-in-mame/ Sybubblun in MAME]</ref>
+
+In 1996, [[Taito Corporation|Taito]] announced that they lost the original source code.<ref>{{cite web|url=http://www.arcade-history.com/?n=bubble-bobble&page=detail&id=343 |title=Bubble Bobble The [Coin-Op] Arcade Video Game by Taito Corp. (1986)| publisher=arcade-history.com|accessdate=2009-10-04 }}</ref> As [[Acclaim Cheltenham|Probe Entertainment]] was in charge of the home conversions, [[Taito Corporation|Taito]] sent them a ''Bubble Bobble'' [[arcade game|arcade]] [[Printed circuit board|PCB]] so they could play the original game and reproduce its mechanics. This led to the release of ''Bubble Bobble also featuring [[Rainbow Islands]]'' for [[Sega Saturn|Saturn]], [[PlayStation (console)|PlayStation]] and [[Personal computer|PC]] ([[DOS]]) in 1996.
+
+In the [[Game Boy]] and [[Game Boy Color]] versions, since the Game Boy is in its nature a single player device, the storyline involves Bub looking for "Moon Water" to cure his brother, they are known as ''Bubble Bobble'', and ''Classic Bubble Bobble'' respectively.<ref name = "rgamer28"/>
+
+In October 2005, a version was released for the [[Xbox (console)|Xbox]], [[PlayStation 2]], and [[Personal computer|PC]] as part of the ''[[Taito Legends]]'' compilation of [[retrogaming|classic arcade games]].
+
+At the end of 2006, a new port for mobile phones in Europe and Japan was released.
+
+On December 31, 2007, the NES version of ''Bubble Bobble'' was released on Nintendo's [[Virtual Console]] service for the [[Wii]]. It costs 500 [[Nintendo Points|Wii Points]], the equivalent of [[United States dollar|US$]]5.
+
+The Famicom version of ''Bubble Bobble'' was also released for the [[Nintendo eShop]] on October 16, 2013 for the [[Nintendo 3DS]] and on January 29, 2014 for the [[Wii U]].
+
+The game's music was written by Japanese team [[Zuntata]]. Ports for home computer versions were made by Peter Clarke (Commodore 64), [[David Whittaker (video game composer)|David Whittaker]] (Amiga) and [[Tim Follin]] (Atari ST, ZX Spectrum). The music is based upon a popular folk song called "Sing Jemima Sing". {{citation needed|reason=Your explanation here|date=May 2015}}
+
+=== Clones and remakes ===
+The Arcade version of Bubble Bobble was widely [[Counterfeit|bootlegged]] in its day, but due to a security chip installed by Taito (known as the PS4, based on a [[Motorola 6800]]) none of the bootlegs played exactly like the original. Through a technique called "decapping" the [[MAME|MAMEDEV]] team has been able to reverse engineer the workings of the chip and emulate it perfectly.<ref>{{cite web|url=http://mamelife.blogspot.com/2006/08/completed-at-last.html | title=Completed, at Last| first = Nicola | last = Salmoria | archiveurl=https://web.archive.org/web/20130508005148/http://mamelife.blogspot.com/2006/08/completed-at-last.html| archivedate = 2013-05-08 | accessdate=2014-06-25 }}</ref> Following that, project Bubble Bobble REDUX has been able to implement an exact version of Bubble Bobble on bootleg boards.<ref>{{cite web|url=http://www.jammarcade.net/bubble-bobble-redux/ | title=Bubble Bobble REDUX |  archiveurl=http://web.archive.org/web/20130830034548/http://www.jammarcade.net/bubble-bobble-redux/| archivedate = 2013-08-30 }}</ref>
+
+A version also exists for the [[BBC Micro]] in the [[public domain]] though never officially released. According to one of the creators it was coded by them independently in 1988 as a clone of the C64 version, but when they approached publishers it was deemed that it would not be financially viable to release a licensed product for the BBC micro at that time.<ref>{{cite web|url=http://www.stairwaytohell.com/lostandfound/index.html?page=homepage |title=Lost and Found| publisher=stairwaytohell.com|accessdate=2014-06-24 }}</ref>
+
+In 2002 a [[Homebrew (video games)|homebrew]] version for the [[Texas Instruments]] [[TI-83 series|TI-8x series]] of [[graphing calculator|calculators]] was released. {{Computing_platform requirements| OS_name=TI-83&4 series| CPU_name=Zilog Z80| this_software_genre=games}}<ref>{{cite web|url=http://www.dwedit.org/bubblebobble/ | title=Bubble Bobble 8x Project Page| publisher=Dwedit.org | accessdate=2009-07-18 }}</ref>
+
+During Christmas of 2011, a new version for the [[Amstrad CPC]], entitled ''Bubble Bobble 4 CPC'' or ''BB4CPC'' was released for free by programmer CNGSoft, as an update to the original/official CPC version.
+
+In 2012 a pair of "hackers" released the ''Bubble Bobble: Lost Cave'' project where they have created a new version of ''Bubble Bobble'' with 100 new levels that runs on the original arcade hardware. The levels are not created from scratch though, they have been selected as the cream of the crop from the various official ports of the game, since Taito granted almost every ''Bubble Bobble'' version some kind of unique content.<ref>{{cite web|url=http://lostcave.wordpress.com/about/ | title=Bubble Bobble: Lost Cave Project Page | publisher=Lost Cave Project | accessdate=2014-06-24 }}</ref>
+
+==Reception==
+{{Video game reviews
+| Allgame = {{Rating|4.5|5}} <small>(NES)</small><ref>{{cite web |last=Couper |first=Chris|title=Bubble Bobble-Review|publisher=[[Allgame]] |accessdate=April 12, 2013 |url=http://allgame.com/game.php?id=263&tab=review |archiveurl=http://web.archive.org/web/20141115151433/http://www.allgame.com/game.php?id=263&tab=review |archivedate=November 15, 2014}}</ref>
+| CVG = 27/30<ref>{{cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue072/Pages/CVG07200015.jpg |title=Bubble Bobble Review |journal='''C+VG''' | issue=72 | pages=14–15 |date= October 1987 |accessdate=2012-08-10}}</ref>
+| CRASH = 90%<ref>{{citation |url=http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue45/Pages/Crash4500132.jpg |title=Bubble Bobble Review |journal='''Crash''' |date = October 1987 | issue = 45 | pages = 132–133 | archiveurl=http://www.crashonline.org.uk/45/bubble.htm | archivedate = 2006| accessdate=2012-08-10}}</ref>
+| EGM = 7.75/10 <small>(GG)</small><ref name="EGM63"/>
+| SUser = 8/10<ref name = "suser">{{cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=SinclairUser/Issue068/Pages/SinclairUser06800050.jpg |title=Bubble Bobble Review |journal='''Sinclair User'''|date = October 1987 | issue = 68 | pages = 50 | accessdate=2012-08-10}}</ref>
+| YSinclair = 90%<ref>{{citation |url=http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue69/Pages/YourSinclair6900056.jpg |title=Bubble Bobble Review |journal='''Your Sinclair''' | date= September 1991 | issue = 69 | pages = 56 | archiveurl=http://www.ysrnry.co.uk/articles/bubblebobble-69.htm | archivedate = 2006 | accessdate=2012-08-10}}</ref>
+| rev1 = ''[[The Games Machine]]''
+| rev1Score = 93%<ref>{{cite web|url=http://www.worldofspectrum.org/showmag.cgi?mag=TheGamesMachine/Issue01/Pages/TheGamesMachine0100066.jpg |title=Bubble Bobble Review |journal='''The Games Machine'''| issue=1 | pages=66 |date= November 1987 |accessdate=2012-08-10}}</ref>
+| rev2 = ''[[Zzap!64]]''
+| rev2Score = 97% <small>(C64)</small><ref>{{citation | journal = '''Zzap!64''' |url=http://www.zzap64.co.uk/cgi-bin/displaypage.pl?issue=030&amp;page=012&amp;thumbstart=0&amp;magazine=zzap |title = Bubble Bobble Review | publisher= [[Newsfield Publications]] |date = October 1987  |accessdate=2014-06-23 | issue = 30 | pages = 12 }}</ref>
+| award1Pub = Zzap!64
+| award1 = Gold Medal
+}}
+[[Mean Machines]] gave the Game Boy port of the game a score of 91%, noting that while some changes had been made, the game played identical to the original arcade port and "provides much addiction and challenge".<ref>{{cite journal |date=August 1992 |title=Bubble Bobble Review |journal='''Mean Machines''' |issue=23|url=http://www.meanmachinesmag.co.uk/pdf/bubblebobblegb.pdf | archiveurl=http://www.meanmachinesmag.co.uk/review/386/bubble-bobble.php | archivedate = 2006 | accessdate=2009-06-04}}</ref> The four reviewers of ''[[Electronic Gaming Monthly]]'' stated that the Game Gear version is a faithful conversion of the original which works well in portable form. They particularly praised the simplicity of the gameplay concept and the graphics, and the two-player link option.<ref name="EGM63">{{cite journal|last= |first= |title=Review Crew: Bubble Bobble|journal=[[Electronic Gaming Monthly]]|issue=63|publisher=[[Ziff Davis]]|date=October 1994|page=42}}</ref>
+
+The Spectrum version was voted number 58 in the ''[[Your Sinclair]] Readers' Top 100 Games of All Time''.<ref>{{citation |date=September 1993 |title=Let the People Decide |journal='''Your Sinclair''' |issue=93 |pages=11 |url=ftp://ftp.worldofspectrum.org/pub/sinclair/magazines/YourSinclair/Issue93/Pages/YourSinclair9300058.jpg | accessdate = 2014-06-24| archiveurl= http://www.worldofspectrum.org/ystop100.html | archivedate= 16 August 2006 }}</ref> [[GamesRadar]] ranked it the 24th best NES game ever made. The staff praised its advancements over other platform games of its time and its use of multiple endings.<ref>{{citation |title=Best NES Games of all time |url=http://www.gamesradar.com/best-nes-games-all-time/ |journal ='''GamesRadar''' |date=2012-04-16 |accessdate=2013-12-05}}</ref>
+
+The creator of Bubble Bobble Fukio Mitsuji (MTJ) went on to create other classics such as Rainbow Islands, Syvalion & Volfied. He died on December 11, 2008.
+
+==Legacy==
+[[File:Bubble Bobble Series chart.png|320px|thumb|Chronological chart of all Bubble Bobble and related games.]]
+''Bubble Bobble'' inspired many sequels, including:
+*''[[Rainbow Islands: The Story of Bubble Bobble 2]]'' (1987)
+*''[[Rainbow Islands: The Story of Bubble Bobble 2#Extra version|Rainbow Islands Extra Version]]'' (1988)
+*''[[Parasol Stars]]'' (1991 originally released for PC-Engine/TurboGrafx-16, converted for NES (Europe only), Amiga, Atari ST, and Game Boy (Europe only)
+*''[[Bubble Bobble Part 2]]'' (1993 Nintendo Famicom, Nintendo Entertainment System, Game Boy)
+*''[[Bubble Symphony|Bubble Bobble II]]'' (World) / ''[[Bubble Symphony]]'' (Europe, Japan, U.S.) (1994 Arcade, [[Sega Saturn]] (Japan only))
+*''[[Bubble Memories|Bubble Memories - The Story of Bubble Bobble III]]'' (1995 Arcade)
+* ''Packy's Treasure Slot'' (1997 Medal Game)
+* ''Bubble'n Roulette'' (1998 Medal Game)
+* ''Bubblen No KuruKuru Jump!'' (1999 Medal Game)
+*''Rainbow Islands - Putty's Party'' (2000 Bandai Wonderswan)
+*''Bubble Bobble Old & New''* ([[Video game remake|Remake]], 2002 Game Boy Advance)
+*''[[Bubble Bobble Revolution]]'' (2005 [[Nintendo DS]]) a.k.a. ''Bubble Bobble DS'' in Japan
+*''[[Rainbow Islands Revolution]]'' (2005 [[Nintendo DS]])
+*''[[Bubble Bobble Evolution]]'' (2006 [[PlayStation Portable]])
+*''[[Rainbow Islands Evolution]]'' (2007 [[PlayStation Portable]])
+*''[[Bubble Bobble Plus!]]'' (2009 [[WiiWare]] on the Wii) a.k.a. ''[[Bubble Bobble Neo!]]'' (2009 [[Xbox Live Arcade]] on Xbox 360)
+*''[[Rainbow Islands: Towering Adventure]]'' (2009 [[WiiWare]], [[Xbox Live Arcade]])
+*''Bubble Bobble Double'' (2010 iOS)
+*''Bubble Bobble for Kakao'' (iOS, Android) - 2015 (Notes: This game was published for KakaoTalk messaging app and fully Taito licensed)
+*Many of the characters and musical themes of ''Bubble Bobble'' were used by Taito in a [[tile-matching video game]] ''[[Puzzle Bobble]]'' (a.k.a. ''Bust-a-Move'') and its sequels.
+
+== Other Media ==
+* The ''Bubble Bobble'' Characters was made cameos for adapted on manga titled ''Gamest Nª49: Gasmest Island Mokushiroku''<ref>[http://www.arcade-gear.com/Press/Gamest/Gamest.htm#Gamest79]</ref> on October 1992 created by Shinseisha.
+
+* Bubblun, from ''Bubble Bobble'' and Chack, from ''Chack'n'Pop'', was adapted a the second manga like fans, as titled {{Nihongo|'''''Cha Kurun Desu'''''|ちゃくるんです}}<ref>[http://ameblo.jp/ssatoloux-1987/entry-10262265689.html ''ちゃくるんです（ちゃっくんぽっぷ＋バブルボブル）TAITOのゲーム''] ''Ameblo''</ref> on May 2009.
+
+==References==
+{{Reflist|35em}}
+
+==External links==
+*{{KLOV game|7222}}
+*{{Arcade History|id=343}}
+*{{StrategyWiki}}
+*[http://www.adamdawes.com/retrogaming/bbguide/ ''Bubble Bobble Level Guide''] A detailed level guide (arcade version).
+
+{{Bubble Bobble series}}
+
+[[Category:1986 video games]]
+[[Category:Amiga games]]
+[[Category:Amstrad CPC games]]
+[[Category:Apple II games]]
+[[Category:Arcade games]]
+[[Category:Atari ST games]]
+[[Category:Commodore 64 games]]
+[[Category:Cooperative video games]]
+[[Category:DOS games]]
+[[Category:Famicom Disk System games]]
+[[Category:Game Boy Color games]]
+[[Category:Game Boy games]]
+[[Category:Game Boy platform games]]
+[[Category:Sega Game Gear games]]
+[[Category:Mobile games]]
+[[Category:MSX games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Platform games]]
+[[Category:PlayStation games]]
+[[Category:Master System games]]
+[[Category:Sharp X68000 games]]
+[[Category:Taito games]]
+[[Category:Virtual Console games]]
+[[Category:Virtual Console games for Wii U]]
+[[Category:ZX Spectrum games]]
+[[Category:Bubble Bobble]]
+[[Category:Video games developed in Japan]]

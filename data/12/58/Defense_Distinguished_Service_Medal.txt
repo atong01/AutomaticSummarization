@@ -1,0 +1,59 @@
+{{Infobox military award
+|name=Defense Distinguished Service Medal
+|image=[[Image:Defense Distinguished Service Medal.png|150px]]
+|caption=Obverse of the Defense Distinguished Service Medal
+|awarded_by= the [[United States Secretary of Defense|Secretary of Defense]]
+|type=[[Military decoration]]
+|eligibility=United States military personnel
+|for=Exceptionally distinguished performance of duty contributing to [[National security]] or defense of the [[United States]].
+|status=Currently awarded
+|description=
+|clasps=[[Oak leaf cluster]]s for subsequent awards
+|established=July 9, 1970
+|first_award= General [[Earle Wheeler]] (1970)
+|last_award=
+|total=
+|posthumous=
+|recipients=
+|individual=
+|higher=Army - [[Distinguished Service Cross (United States)|Distinguished Service Cross]] <br/> Navy & Marine Corps - [[Navy Cross]] <br/> Air Force - [[Air Force Cross (United States)|Air Force Cross]] <br/> Coast Guard - [[Coast Guard Cross]]
+|same=[[Homeland Security Distinguished Service Medal]] <br/> [[Department of Commerce Gold Medal]]
+|lower=Army - [[Army Distinguished Service Medal]] <br/> Navy & Marine Corps - [[Navy Distinguished Service Medal]]<br/> Air Force - [[Air Force Distinguished Service Medal]] <br/> Coast Guard -   <br/> Public Health Service - [[Public Health Service Distinguished Service Medal]]
+|image2=[[Image:Defense Distinguished Service ribbon.svg|100px|border]]
+|caption2=Defense Distinguished Service Medal ribbon
+}}
+The '''Defense Distinguished Service Medal''' is a [[Awards and decorations of the United States military|United States military award]] which is presented for exceptionally distinguished performance of duty contributing to [[National security]] or defense of the [[United States]]. The medal was created on July 9, 1970 by President [[Richard Nixon]] in {{ExecutiveOrder|11545}}.<ref>[http://www.afpc.af.mil/library/factsheets/factsheet.asp?id=7727 Air Force Personnel Center Defense Distinguished Service Medal]</ref>
+
+==Criteria==
+It is the [[United States]]'s highest non-combat related military award and it is the highest joint service decoration. The Defense Distinguished Service Medal is awarded only while assigned to a joint activity. Normally, such responsibilities deserving of the Defense Distinguished Service Medal are held by the most senior officers such as the [[Chairman of the Joint Chiefs of Staff|Chairman]] and [[Vice Chairman of the Joint Chiefs of Staff]], the Chiefs and Vice Chiefs of the Services, and Commanders and Deputy Commanders of the [[Combatant Command]]s, the [[Director of the Joint Staff]] etc., whose duties bring them frequently into direct contact with the [[United States Secretary of Defense|Secretary of Defense]], the [[United States Deputy Secretary of Defense|Deputy Secretary of Defense]], and other senior government officials. In addition, the medal may also be awarded to other service members whose direct and individual contributions to National security or National defense are recognized as being so exceptional in scope and value as to be equivalent to contributions normally associated with positions encompassing broader responsibilities.<ref>[http://www.tioh.hqda.pentagon.mil/Awards/defense_distinguished.aspx Institute of Heraldry Defense Distinguished Service Medal]</ref>
+
+This decoration takes precedence over the Distinguished Service Medals of the separate services and is not to be awarded to any individual for a period of service for which an [[Army Distinguished Service Medal|Army]], [[Navy Distinguished Service Medal|Navy]], [[Air Force Distinguished Service Medal|Air Force]] or [[Coast Guard Distinguished Service Medal]] is awarded.
+
+==Appearance==
+The medal is [[gold]] in color and on the obverse it features a medium blue [[Vitreous enamel|enameled]] pentagon (point up). Superimposed on this is an [[Bald eagle|American bald eagle]] with wings outspread facing left grasping three crossed arrows in its talons and on its breast is a shield of the United States. The pentagon and eagle are enclosed within a gold pieced circle consisting, in the upper half of 13 five-pointed stars and in the lower half, a wreath of [[Bay laurel|laurel]] on the left and [[olive]] on the right. At the top is a suspender of five graduated gold rays. The reverse of the medal has the inscription "''For Distinguished Service''" at the top in raised letters, and within the pentagon the inscription "''From The Secretary of Defense To,''" all in raised letters.
+
+Additional awards of the Defense Distinguished Service Medal are denoted by oak leaf clusters.
+
+==Notable recipients==
+*[[Grace Hopper]]<ref>{{Cite news|work=[[Detroit Free Press]] |date=15 August 1986 |page= 4A |url=http://www.waterholes.com/~dennette/1996/hopper/860815.htm |title=Computer Whiz Retires from Navy |author=[[United Press International|UPI]]}}</ref>
+*[[Charles R. Larson]]<ref>{{cite web|url=http://nimitz.berkeley.edu/pastspeaker-2000.html |title=2000 ADM Larson |publisher=Nimitz.berkeley.edu |date= |accessdate=2013-09-26}}</ref>
+*[[Carl Epting Mundy, Jr.]]<ref>https://slsp.manpower.usmc.mil/GOSA/Biographies/rptBiography.asp?PERSON_ID=244&PERSON_TYPE=General</ref>[[File:DSM presented to Guy Phillipe, Haitian commander, 2004.jpg|thumb|right| Medal presented to Haitian Major Guy Phillipe for leading element that forced President Jean-Bertrand Aristide into exile, February, 2004.]]
+*[[Carlisle Trost]]<ref>{{cite web|url=http://www.naany.org/Carl%20Trost%20event.htm |title=Carl Trost is set for March 2 |publisher=Naany.org |date= |accessdate=2012-10-28}}</ref>
+*[[Earle Wheeler]]<ref>{{cite web|url=http://usafeenlistedheritage.org/distinguished/decorated/criteria/?id=11 |title=Defense Distinguished Service Medal Criteria, History and Recipients |publisher=Usafeenlistedheritage.org |date=1970-07-09 |accessdate=2013-09-26}}</ref>
+*[[Anthony Zinni]]<ref>{{cite web|url=http://www.marinecorpsmuseum.org/tohonor/aczinni.html |title=General Anthony C. Zinni, Usmc |publisher=Marinecorpsmuseum.org |date= |accessdate=2012-10-28}}</ref>
+*[[Colin Powell]]
+*[[Norman Schwarzkopf, Jr.]]
+*[[James Mattis]]
+*[[William McRaven]]
+*[[Ronald Burgess]]
+
+*[[Daniel James, Jr.]]<ref>{{cite web |url=http://valor.militarytimes.com/recipient.php?recipientid=45297 |title=Daniel James , Jr., Awards and Citations|author= |date= |website=Hall of Valor |publisher=Military Times |accessdate=4 June 2015}}</ref>
+
+==References==
+{{reflist}}
+
+{{US interservice decorations}}
+
+[[Category:Awards and decorations of the United States Department of Defense|Awards and decorations of the United States Department of Defense]]
+[[Category:Awards established in 1970]]
+[[Category:Recipients of the Defense Distinguished Service Medal|Recipients of the Defense Distinguished Service Medal]]

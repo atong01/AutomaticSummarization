@@ -1,0 +1,148 @@
+{{Refimprove|date=January 2009}}
+{{trade bloc}}
+
+An '''economic and monetary union''' is a type of [[trade bloc]] which is composed of an [[economic union]] ([[common market]] and [[customs union]]) with a [[monetary union]]. It is to be distinguished from a mere [[monetary union]] (e.g. the [[Latin Monetary Union]] in the 19th century), which does not involve a common market.  This is the sixth stage of [[economic integration]]. EMU is established through a currency-related [[trade pact]]. An intermediate step between pure EMU and a [[complete economic integration]] is the [[fiscal union]].
+
+==List of economic and monetary unions==
+<!-- listed below are 'economic and monetary unions' only – see respective articles for lists of customs unions; monetary unions; common markets; economic unions; customs and monetary unions -->
+* [[Economic and Monetary Union of the European Union]] (1999/2002) with the [[Euro]] for the [[Eurozone]] members of the [[European Union]]
+* ''de facto'' the [[Organisation of Eastern Caribbean States|OECS]] [[Eastern Caribbean Currency Union]] with the [[East Caribbean dollar]] in the [[CARICOM Single Market and Economy|CSME]] (2006)<ref>The states participating in both initiatives are [[Antigua and Barbuda]], [[Dominica]], [[Grenada]], [[Saint Kitts and Nevis]], [[Saint Lucia]], [[Saint Vincent and the Grenadines]].</ref>
+* ''de facto'' [[Liechtenstein–Switzerland relations#Cooperation|Switzerland–Liechtenstein]]<ref>[[Common market]] in [[European Free Trade Association|EFTA]], [[Customs union]] since 1924, informal [[Currency union]] since 1920.</ref>
+
+Additionally the [[List of autonomous areas by country|autonomous]] and [[dependent territory|dependent]] territories, such as some of the [[Special Member State territories and the European Union|EU member state special territories]], are sometimes treated as separate [[customs territory]] from their mainland state or have varying arrangements of formal or de facto [[customs union]], [[common market]] and [[currency union]] (or combinations thereof) with the mainland and in regards to third countries through the [[trade pact]]s signed by the mainland state.<ref>EU [[Overseas Countries and Territories|Overseas countries]] and some other territories participate partially in the EU single market per [http://eur-lex.europa.eu/en/treaties/dat/12002E/htm/C_2002325EN.003301.html part four of the Treaty Establishing the European Community]; Some EU Outermost regions and other territories use the [[Euro]] of the [[currency union]], others are part of the [[European Union Customs Union|customs union]]; some participate in both unions and some in neither.<br>[[Territories of the United States]], [[Australian External Territories]] and [[Realm of New Zealand]] territories share the [[currency union|currency]] and mostly also the [[single market|market]] of their respective mainland state, but are generally not part of its [[customs territory]].</ref>
+
+===Proposed===
+{| class="wikitable sortable"
+|-
+! Community
+! Currency
+! Region
+! Target date
+! width=30%| Notes
+|-
+|[[Economic and Monetary Community of Central Africa]] (CEMAC)
+|[[Central African CFA franc]]
+|Africa <!--{{flag|Cameroon}}<br />{{flag|Central African Republic}}<br />{{flag|Chad}}<br />{{flag|Republic of the Congo}}<br />{{flag|Equatorial Guinea}}<br />{{flag|Gabon}}-->
+|
+|not yet functioning [[common market]]
+|-
+|[[West African Economic and Monetary Union]] (UEMOA)
+|[[West African CFA franc]]
+|Africa <!--{{flag|Benin}}<br />{{flag|Burkina Faso}}<br />{{flag|Côte d'Ivoire}}<br />{{flag|Guinea-Bissau}}<br />{{flag|Mali}}<br />{{flag|Niger}}<br />{{flag|Senegal}}<br />{{flag|Togo}}-->
+|
+|not yet functioning [[common market]]
+|-
+| [[Cooperation Council for the Arab States of the Gulf|Gulf Cooperation Council]] (GCC)
+| [[Khaleeji (currency)|Khaleeji]]
+| Middle East<!---these are broad regions to help the sort function-->
+| 
+| Possibly gold backed, but postponed due to the [[Global financial crisis of 2008–2009|financial crisis]].
+|-
+| [[East African Community]] (EAC)
+| [[East African shilling]]
+| Africa<!---these are broad regions to help the sort function-->
+| 2015
+| To be used by the future [[East African Federation]]
+|-
+| [[Caribbean Single Market and Economy]] (as part of the [[CARICOM]])
+|
+| Latin America<br />/Caribbean<!---these are broad regions to help the sort function-->
+| 2015
+| To supplement the [[Organisation of Eastern Caribbean States|OECS]] [[Eastern Caribbean Currency Union]]
+|-
+| [[Southern African Customs Union]] (SACU)
+| [[South African Rand]]
+| Africa<!---these are broad regions to help the sort function-->
+| 2015
+| de facto for the [[Common Monetary Area|CMA]] member when the [[Southern African Development Community|SADC]] [[economic union]] is established
+|-
+| [[Southern African Development Community]] (SADC)
+| [[South African Rand]]<br />(interim proposal)
+| Africa<!---these are broad regions to help the sort function-->
+| 2016
+| To supplement or succeed the [[Common Monetary Area|CMA]] and [[Southern Africa Customs Union]]
+|-
+| [[South Asian Association for Regional Cooperation]]
+|
+| South Asia<!---these are broad regions to help the sort function-->
+| 2016{{Citation needed|date=August 2010}}
+|
+|-
+| [[Union of South American Nations]] (UNASUR)
+| Latino<ref>Proposed by Ecuador's President Rafael Correa on December 15, 2007</ref>
+| Latin America<br />/Caribbean<!---these are broad regions to help the sort function-->
+| 2019
+|
+|-
+| [[Economic Community of Central African States]] (ECCAS)
+|
+| Africa
+|
+| To supplement the [[Economic and Monetary Community of Central Africa]] (CEMAC)
+|-
+| [[Economic Community of West African States]] (ECOWAS)
+|
+| Africa
+|
+| To succeed [[West African Economic and Monetary Union|UEMOA]] and [[West African Monetary Zone|WAMZ]]
+|-
+| [[African Economic Community]]
+|
+| Africa<!---these are broad regions to help the sort function-->
+| 2028
+| See [[African Monetary Union]]
+|-
+| [[Union State]] of [[Russia]] and [[Belarus]]
+| [[Russian ruble]]
+| Europe
+|
+|
+|-
+| [[Arab League]]
+| [[Dinar|Arab Dinar]]
+| Arab states
+|
+| Arab Dinar has been proposed ever since the creation of the [[Arab Monetary Fund]], expected for serious plans of doing so, after the creation of the proposed [[Arab Union]].
+|}
+
+===Previous===
+{{world economic integration}}
+* [[Belgium–Luxembourg Economic Union|Belgium–Luxembourg Monetary Union]] (1922–2002), superseded by the [[Economic and Monetary Union of the European Union|European EMU]]
+
+==See also==
+* [[North American Union]] and [[North American Currency Union]] (Amero)<ref>Not currently on any political agenda, based mostly off conspiracy theories.</ref>
+* [[Pacific Union]] (one proposal for [[Australian dollar]])
+
+==References==
+{{Reflist|2}}
+
+==Further reading==
+* [[Nicola Acocella|Acocella, N.]] and Di Bartolomeo, G. and Tirelli, P. [2007], ‘''Fiscal leadership and coordination in the EMU''’, in: ‘''Open Economies Review''’, 18(3): 281-9.
+* {{cite encyclopedia |last1= Bergin |first1=Paul  |editor= [[David R. Henderson]] (ed.) |encyclopedia=[[Concise Encyclopedia of Economics]] |title=Monetary Union |url=http://www.econlib.org/library/Enc/MonetaryUnion.html |year=2008 |edition= 2nd |publisher=[[Library of Economics and Liberty]] |location=Indianapolis |isbn=978-0865976658 |oclc=237794267}}
+
+==External links==
+* [http://news.bbc.co.uk/1/hi/business/1723943.stm African monetary union inches closer]
+* [http://news.bbc.co.uk/1/hi/world/africa/871612.stm United States of Southern Africa?]
+* [http://news.bbc.co.uk/1/hi/world/africa/543582.stm East Africa's first steps towards union]
+* [http://news.bbc.co.uk/1/hi/world/africa/721707.stm West Africa opts for currency union]
+* [http://news.bbc.co.uk/1/hi/business/2313847.stm Gulf States push for single currency]
+* [http://news.bbc.co.uk/1/hi/business/2622003.stm 'Limited gains' from Gulf single currency]
+* [http://mitglied.lycos.de/mercosur/ Do the Mercosur Countries Form an Optimum Currency Area?]
+* [http://news.bbc.co.uk/1/hi/business/the_economy/260395.stm Argentina plans monetary union]
+* [http://www.quadrant.org.au/php/archive_details_list.php?article_id=503 Quadrant Magazine article on the Pacific]
+* [http://www.economist.com/displayStory.cfm?story_id=393224 Economist – Antipodean currencies (Australia and New Zealand)]
+* [http://www.rba.gov.au/PublicationsAndResearch/Conferences/2001/coleman.pdf Three Perspectives on an Australasian Monetary Union]
+* [http://www.case.com.pl/upload/publikacja_plik/3460035_058e.pdf Reasons for the collapse of the Rouble Zone]
+* [http://www.okno.com/ewltr/archive/vol1/ru-ruble-v1n3.pdf In Search of the "Ruble Zone"]
+* [http://www.oecd.org/dataoecd/52/15/23381692.pdf OECD Development Centre – the Rand Zone]
+* [http://www.africasia.co.uk/africanbusiness/ab.php?ID=890&back_month=57 A single African currency in our time?]
+* [http://www.nomadtours.co.za/article_2006-4-23_5.html South Africa proposes adoption of the rand as provisional SADC common currency]
+
+{{Economic integration}}
+
+{{DEFAULTSORT:Economic And Monetary Union}}
+[[Category:Trade blocs]]
+[[Category:Currency unions|*]]
+[[Category:Macroeconomics]]
+[[Category:Proposed currencies]]
+[[Category:Economic integration]]

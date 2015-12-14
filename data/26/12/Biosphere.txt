@@ -1,0 +1,106 @@
+{{other uses}}
+
+[[File:Seawifs global biosphere.jpg|thumb|360px|A [[false-color]] composite of global oceanic and terrestrial photoautotroph abundance, from September 1997 to August 2000. Provided by the [[SeaWiFS]] Project, [[NASA]]/[[Goddard Space Flight Center]] and [[ORBIMAGE]].{{citation needed|date=April 2012}}]]
+
+The '''biosphere''' is the global sum of all [[ecosystem]]s. It can also be termed as the zone of [[life]] on [[Earth]], a closed system (apart from solar and cosmic radiator  and heat from the interior 
+of the Earth), and largely self-regulating.<ref name = "ColumbiaEncyc">
+{{Cite encyclopedia
+  | encyclopedia = The Columbia Encyclopedia, Sixth Edition 
+  | publisher = Columbia University Press
+  | year = 2004
+  | accessdate = 2010-11-12
+  | url = http://www.questia.com/library/encyclopedia/biosphere.jsp
+}}</ref> By the most general [[Geophysiology|biophysiological]] definition, the biosphere is the global [[ecology|ecological]] system integrating all living beings and their relationships, including their interaction with the elements of the [[lithosphere]], [[geosphere]], [[hydrosphere]], and [[Earth's atmosphere|atmosphere]]. The biosphere is postulated to have [[evolution|evolved]], beginning with a process of [[origin of life|biopoesis]] (life created naturally from non-living matter such as simple organic compounds) or [[biogenesis]] (life created from living matter), at least some 3.5 billion years ago.<ref name="Campbell 2006">{{cite book | last = Campbell | first = Neil A. | authorlink = |author2=Brad Williamson |author3=Robin J. Heyden | title = Biology: Exploring Life | publisher = Pearson Prentice Hall | year = 2006 | location = Boston, Massachusetts | pages = | url = http://www.phschool.com/el_marketing.html | isbn = 0-13-250882-6 }}</ref><ref name="NYT-20131003">{{cite news |last=Zimmer |first=Carl |authorlink=Carl Zimmer |title=Earth’s Oxygen: A Mystery Easy to Take for Granted |url=http://www.nytimes.com/2013/10/03/science/earths-oxygen-a-mystery-easy-to-take-for-granted.html |date=3 October 2013 |work=[[New York Times]] |accessdate=3 October 2013 }}</ref> The earliest evidence for [[life on Earth]] includes [[Biogenic substance|biogenic]] [[graphite]] found in 3.7 billion-year-old [[Metasediment|metasedimentary rocks]] from [[Western Greenland]]<ref name="NG-20131208">{{cite web |url =http://www.nature.com/ngeo/journal/vaop/ncurrent/full/ngeo2025.html|authors= Yoko Ohtomo, Takeshi Kakegawa, Akizumi Ishida, Toshiro Nagase, Minik T. Rosing| title =Evidence for biogenic graphite in early Archaean Isua metasedimentary rocks |publisher =''[[Nature Geoscience]]''|doi=10.1038/ngeo2025|date=8 December 2013| accessdate =9 Dec 2013 }}</ref> and [[microbial mat]] [[fossils]] found in 3.48 billion-year-old [[sandstone]] from [[Western Australia]].<ref name="AP-20131113">{{cite news |last=Borenstein |first=Seth |title=Oldest fossil found: Meet your microbial mom |url=http://apnews.excite.com/article/20131113/DAA1VSC01.html |date=13 November 2013 |work=[[AP News]] |accessdate=15 November 2013 }}</ref><ref name="AST-20131108">{{cite journal |last1=Noffke |first1=Nora|last2=Christian |first2=Daniel |last3=Wacey |first3=David |last4=Hazen |first4=Robert M. |title=Microbially Induced Sedimentary Structures Recording an Ancient Ecosystem in the ca. 3.48 Billion-Year-Old Dresser Formation, Pilbara, Western Australia |url=http://online.liebertpub.com/doi/abs/10.1089/ast.2013.1030 |date=8 November 2013 |journal=[[Astrobiology (journal)]] |doi=10.1089/ast.2013.1030 |accessdate=15 November 2013 |pmid=24205812 |pmc=3870916 |volume=13 |issue=12 |pages=1103–24}}</ref>  More recently, in 2015, "remains of [[Biotic material|biotic life]]" were found in 4.1 billion-year-old rocks in Western Australia.<ref name="AP-20151019">{{cite news |last=Borenstein |first=Seth |title=Hints of life on what was thought to be desolate early Earth |url=http://apnews.excite.com/article/20151019/us-sci--earliest_life-a400435d0d.html |date=19 October 2015 |work=[[Excite]] |location=Yonkers, NY |publisher=[[Mindspark Interactive Network]] |agency=[[Associated Press]] |accessdate=2015-10-20}}</ref><ref name="PNAS-20151014-pdf">{{cite journal |last1=Bell |first1=Elizabeth A. |last2=Boehnike |first2=Patrick |last3=Harrison |first3=T. Mark |last4=Mao |first4=Wendy L. |display-authors=3 |date=19 October 2015 |title=Potentially biogenic carbon preserved in a 4.1 billion-year-old zircon |url=http://www.pnas.org/content/early/2015/10/14/1517557112.full.pdf |format=PDF |journal=Proc. Natl. Acad. Sci. U.S.A. |location=Washington, D.C. |publisher=National Academy of Sciences |doi=10.1073/pnas.1517557112 |issn=1091-6490 |accessdate=2015-10-20}} Early edition, published online before print.</ref> According to one of the researchers, "If life arose relatively quickly on Earth ... then it could be common in the [[universe]]."<ref name="AP-20151019" /> 
+
+In a general sense, biospheres are any closed, self-regulating systems containing ecosystems. This includes artificial biospheres such as [[Biosphere 2]] and [[BIOS-3]], and potentially ones on other planets or moons.<ref name = "webdictionary.co.uk">{{cite web
+  | title = Meaning of biosphere
+  | work = WebDictionary.co.uk
+  | publisher = WebDictionary.co.uk
+  | url = http://www.webdictionary.co.uk/definition.php?query=biosphere
+  | accessdate = 2010-11-12}}
+</ref>
+
+== Origin and use of the term ==
+<!-- This section is linked from [[Oceanography]] --->
+
+The term "biosphere" was coined by geologist [[Eduard Suess]] in 1875, which he defined as the place on Earth's surface where life dwells.<ref>Seuss, E. (1875) ''Die Entstehung Der Alpen'' [''The Origin of the Alps'']. Vienna: W. Braunmuller.</ref>
+
+While the concept has a geological origin, it is an indication of the effect of both [[Charles Darwin]] and [[Matthew F. Maury]] on the [[Earth sciences]]. The biosphere's ecological context comes from the 1920s (see [[Vladimir I. Vernadsky]]), preceding the 1935 introduction of the term "[[ecosystem]]" by Sir [[Arthur Tansley]] (see [[Ecology (history)|ecology history]]). Vernadsky defined [[ecology]] as the science of the biosphere. It is an [[interdisciplinary]] concept for integrating [[astronomy]], [[geophysics]], [[meteorology]], [[biogeography]], [[evolution]], [[geology]], [[geochemistry]], [[hydrology]] and, generally speaking, all life and Earth sciences.
+
+=== Narrow definition ===
+[[Image:90 mile beach.jpg|thumb|A [[beach]] scene on Earth, simultaneously showing the lithosphere (ground), hydrosphere (ocean) and atmosphere (air)]]
+
+Geochemists define the biosphere as being the total sum of living organisms (the "[[biomass (ecology)|biomass]]" or "[[Biota (ecology)|biota]]" as referred to by biologists and ecologists).{{citation needed|date=December 2013}} In this sense, the biosphere is but one of four separate components of the geochemical model, the other three being ''[[lithosphere]]'', ''[[hydrosphere]]'', and ''[[Earth's atmosphere|atmosphere]]''.  The word ''ecosphere'', coined during the 1960s, encompasses both biological and physical components of the planet.{{citation needed|date=December 2013}}
+
+The Second International Conference on Closed Life Systems defined ''biospherics'' as the science and technology of analogs and [[model (abstract)|models]] of [[Earth]]'s biosphere; i.e., artificial Earth-like biospheres.{{citation needed|date=December 2013}} Others may include the creation of artificial non-Earth biospheres&mdash;for example, human-centered biospheres or a native [[Mars|Martian]] biosphere&mdash;as part of the topic of biospherics.{{citation needed|date=December 2013}}
+
+== Extent of Earth's biosphere ==
+[[File:The Earth seen from Apollo 17.jpg|left|thumb|[[Water]] covers 71% of the Earth's surface. Image is the [[Blue&nbsp;Marble]] photographed from [[Apollo&nbsp;17]].]]
+
+Every part of the planet, from the [[polar region|polar]] ice caps to the [[equator]], features life of some kind. Recent advances in [[microbiology]] have demonstrated that microbes live deep beneath the Earth's terrestrial surface, and that the total mass of [[microbial]] life in so-called "uninhabitable zones" may, in [[Biomass (ecology)|biomass]], exceed all animal and plant life on the surface. The actual thickness of the biosphere on earth is difficult to measure. Birds typically fly at altitudes of 650 to 1,800 metres, and fish that live deep underwater can be found down to -8,372 metres in the [[Puerto Rico Trench]].<ref name="Campbell 2006" />
+
+There are more extreme examples for life on the planet: [[Rüppell's vulture]] has been found at [[altitude]]s of 11,300 metres; [[bar-headed goose|bar-headed geese]] migrate at altitudes of at least 8,300 metres; [[yak]]s live at elevations between 3,200 to 5,400 metres above sea level; [[mountain goat]]s live up to 3,050 metres. Herbivorous animals at these elevations depend on lichens, grasses, and herbs.
+
+Microscopic organisms live at such extremes that, taking them into consideration, the thickness of the biosphere is much greater. Culturable microbes have been found in the Earth's upper atmosphere as high as {{convert|41|km|0|abbr=on}}.<ref>Wainwright et al, (2003). "Microorganisms cultured from stratospheric air samples obtained at 41 km." ''FEMS Microbiology Letters'' '''218''', 161-165.</ref> It is unlikely, however, that microbes are active at such altitudes, where temperatures and air pressure are extremely minor and [[ultraviolet radiation]] very intense. More likely, these microbes were brought into the upper atmosphere by winds or possibly [[volcanic eruption]]s. [[Piezophile|Barophilic]] marine microbes have been found at more than {{convert|10|km|0|abbr=on}} depth in the [[Mariana Trench]].<ref>Takamia et al (1997). "Microbial flora in the deepest sea mud of the Mariana Trench." ''FEMS Microbiology Letters'' '''152''' (2), 279-285.</ref> In fact, single-celled life forms have been found in the deepest part of the Mariana Trench, Challenger Deep, at depths of 36,201 feet (11,034 meters).<ref>[http://news.nationalgeographic.com/news/2005/02/0203_050203_deepest.html National Geographic, 2005]</ref> Microbes are not limited to the air, water or the Earth's surface. Culturable thermophilic microbes have been extracted from cores drilled more than {{convert|5|km|0|abbr=on}} into the [[Earth's crust]] in Sweden,<ref name="Szewzyketal1994">{{cite journal | last1 = Szewzyk | first1 = U | last2 = Szewzyk | first2 = R | last3 = Stenstrom | first3 = TR. | year = 1994 | title = Thermophilic, anaerobic bacteria isolated from a deep borehole in granite in Sweden | url = | journal = Proceedings of the National Academy of Sciences of the USA | volume = 91 | issue = 5| pages = 1810–1813 | doi=10.1073/pnas.91.5.1810 | pmid=11607462 | pmc=43253}}</ref> from rocks between 65-75&nbsp;°C.
+
+Temperature [[geothermal gradient|increases with increasing depth]] into the [[Earth's crust]]. The rate at which the temperature increases depends on many factors, including type of crust (continental vs. oceanic), rock type, geographic location, etc. The greatest known temperature at which microbial life can exist is 122&nbsp;°C (''[[Methanopyrus kandleri]]'' Strain 116), and it is likely that the limit of life in the "deep biosphere" is defined by temperature rather than absolute depth.
+
+{{Clarify|text=Our biosphere is divided into a number of [[biome]]s, inhabited by fairly similar [[flora (plants)|flora]] and [[fauna (animals)|fauna]]. On land, biomes are separated primarily by [[latitude]]. Terrestrial biomes lying within the [[Arctic Circle|Arctic]] and [[Antarctic Circle]]s are relatively barren of [[plant]] and [[animal]] life, while most of the more populous biomes lie near the [[equator]]. Terrestrial organisms in temperate and Arctic biomes have relatively small amounts of total biomass, smaller energy requirements, and display prominent adaptations to cold, including world-spanning migrations, social adaptations, [[homeothermy]], [[estivation]] and multiple layers of insulation.|reason=Strong citation needed, misguided information: "fairly similar flora and fauna" a lot of diversity between each biome unique to it, "Antarctic Circle are relatively barren of plant and animal life" The tundra has seasonal periods of "bloom" with high diversity from each Domain. Rest unclear.|date=February 2015}}
+
+== Specific biospheres ==
+For this list, if a word is followed by a number, it is usually referring to a specific system or number. Thus:
+
+* Biosphere 1, the planet [[Earth]].
+* [[Biosphere 2]], laboratory in [[Arizona]], United States, which contains 3.15 acres (13,000 m<sup>2</sup>) of closed ecosystem.
+* [[BIOS-3]], a closed ecosystem at the Institute of Biophysics in [[Krasnoyarsk]], [[Siberia]], in what was then the [[Soviet Union]].
+* Biosphere J (CEEF, Closed Ecology Experiment Facilities), an experiment in [[Japan]].<ref>{{cite journal | last1 = Nakano | year = 1998 | title = Dynamic Simulation of Pressure Control System for the Closed Ecology Experiment Facility | url = http://ci.nii.ac.jp/naid/110002396764/| journal = Transactions of the Japan Society of Mechanical Engineers | volume = 64 | issue = | pages = 107–114 | doi=10.1299/kikaib.64.107|display-authors=etal}}</ref><ref>{{cite web|url=http://www.ies.or.jp/index_e.html |title=Institute for Environmental Sciences |publisher=Ies.or.jp |accessdate=2011-11-08}}</ref>
+
+==Extraterrestrial biospheres==
+No biospheres have been detected beyond the Earth; therefore, the existence of extraterrestrial biospheres remains hypothetical. The [[rare Earth hypothesis]] suggests they should be very rare, save ones composed of [[microbe|microbial]] life only.<ref>P. Ward, D.E. Brownlee. 2000. ''Rare Earth: Why Complex Life Is Uncommon in the Universe''</ref> On the other hand, [[Earth analog]]s may be quite numerous, at least in the [[Milky Way]] galaxy.<ref>[http://www.space.com/11188-alien-earths-planets-sun-stars.html Space.com]</ref> Given limited understanding of [[abiogenesis]], it is currently unknown what percentage of these planets actually develop biospheres.
+
+It is also possible that artificial biospheres will be created during the future, for example on [[Terraforming of Mars|Mars]].<ref>R. Zubrin. 1996. ''The Case for Mars: The Plan to Settle the Red Planet and Why We Must''</ref> The process of creating an uncontained system that mimics the function of Earth's biosphere is called [[terraforming]].<ref name="Fogg1998">{{cite journal|last1=Fogg|first1=M.J.|title=Terraforming Mars: A review of current research|journal=Advances in Space Research|volume=22|issue=3|year=1998|pages=415–420|issn=02731177|doi=10.1016/S0273-1177(98)00166-5}}</ref>
+
+== See also ==
+{{Portal|Environment|Ecology|Earth sciences|Sustainable development}}
+
+{{columns-list|2|
+* [[Biosphere reserve]]
+* [[Closed ecological system]]
+* [[Cryosphere]]
+* [[Ecosystem]]
+* [[Geosphere]]
+* [[Habitable zone]]
+* [[Homeostasis]]
+* [[Life support system]]
+* [[Montreal Biosphère]]
+* [[Noosphere]]
+* [[Shadow biosphere]]
+* [[Simple biosphere model]]
+* [[Soil biomantle]]
+* [[Thomas Gold]]
+* [[Wardian case]]
+* [[Winogradsky column]]
+}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{wiktionary}}
+* [http://www.intechopen.com/books/the-biosphere Biosphere Definition]
+* [http://www.eoearth.org/article/Biosphere Article on the Biosphere at Encyclopedia of Earth]
+* [http://www.globio.info/ GLOBIO.info], an ongoing programme to map the past, current and future impacts of human activities on the biosphere
+* [http://www.vega.org.uk/video/programme/111 Paul Crutzen Interview], freeview video of Paul Crutzen Nobel Laureate for his work on decomposition of ozone talking to Harry Kroto Nobel Laureate by the Vega Science Trust.
+* [http://www.sage.wisc.edu/atlas/ Atlas of the Biosphere]
+
+{{Nature nav}}
+{{Environmental science}}
+{{Sustainability}}
+{{biological organisation}}
+{{Natural resources}}
+
+[[Category:Oceanography]]
+[[Category:Superorganisms]]
+[[Category:Biological systems]]
+
+[[he:אקולוגיה#הביוספרה]]

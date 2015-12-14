@@ -1,0 +1,648 @@
+{{Use dmy dates|date=January 2015}}
+{{EngvarB|date=June 2014}}
+{{Infobox military unit
+|unit_name=British Army
+|image=[[File:British Army Logo.png|center|x150px]]
+|country={{flag|United Kingdom}}{{efn|{{unbulleted list|[[English overseas possessions|English Empire]]<small> (1660–1707)</small>|[[British Empire]]<small> (1707–19th century)</small>}}}}
+|allegiance= [[Elizabeth II]]
+|type=[[Army]]
+|role=[[Ground warfare|Land warfare]]
+|size=89,860 Regular{{efn|Including the 2,720 strong [[Brigade of Gurkhas]].}}<br />25,010 [[Army Reserve (United Kingdom)|Army Reserve]]<br />30,030 [[Regular Reserve (United Kingdom)|Regular Reserve]]{{efn|Since April 2013, MoD publications no longer report the entire strength of the [[Regular Reserve (United Kingdom)|Regular Reserve]], instead, only Regular Reserves serving under a fixed-term reserve contract are counted. These contracts are similar in nature to the [[Army Reserve (United Kingdom)|Army Reserve]].}}
+|command_structure =
+|garrison=
+|garrison_label=
+|nickname=
+|patron= Elizabeth II
+|motto=
+|colours=
+|colours_label=
+|march=
+|mascot=
+|equipment=
+|equipment_label=
+|website=[https://www.army.mod.uk/ www.army.mod.uk]
+|battles=
+|anniversaries=
+|decorations=
+|battle_honours=
+<!-- Commanders -->
+|commander1=[[Nick Carter (British Army officer)|General Sir Nick Carter]] {{nowrap|{{post-nominals|country=GBR|KCB|CBE|DSO}}}}
+|commander1_label=[[Chief of the General Staff (United Kingdom)|Chief of the General Staff]]
+|commander2=[[Glenn Haughton|W01 Glenn Haughton]]
+|commander2_label=[[Army Sergeant Major]]
+|commander3=
+|commander3_label=
+|notable_commanders=
+<!-- Insignia -->
+|identification_symbol=[[File:Flag of the United Kingdom (3-5).svg|centre|border|100px]]
+|identification_symbol_label={{nowrap|[[War flag]]}}{{efn|[[File:Union flag 1606 (Kings Colors).svg|none|thumb|100px|1707–1800]]}}
+|identification_symbol_2=[[File:BritishArmyFlag2.svg|centre|border|100px]]
+|identification_symbol_2_label=Non-ceremonial flag
+}}
+The '''British Army''' is the principal [[Army|land warfare force]] of the [[United Kingdom|United Kingdom of Great Britain and Northern Ireland]]. The force was initially administered by the [[War Office]] from London, which in 1964 was subsumed into the [[Ministry of Defence (United Kingdom)|Ministry of Defence]]. The professional head of the British Army is the [[Chief of the General Staff (United Kingdom)|Chief of the General Staff]].
+
+The full-time element of the British Army is referred to as the ''Regular Army'' and has been since the creation of the reservist ''[[Territorial Force]]'' in 1908. All members of the British Army swear (or affirm) allegiance to the [[Monarchy of the United Kingdom|monarch]] as [[commander-in-chief]]. However, the [[Bill of Rights 1689|Bill of Rights of 1689]] requires Parliamentary consent for [[The Crown]] to maintain a [[standing army]] in peacetime. Parliament approves the continued existence of the Army by passing an [[Armed Forces Act]] at least once every five years. In contrast to the [[Royal Navy]], [[Royal Marines]] and [[Royal Air Force]], the British Army does not include ''Royal'' in its title because, after a [[English Civil War|historic struggle]] between Parliament and monarchy, the British Army has always been answerable to Parliament rather than the Monarch.<ref>{{cite web|url=http://www.nam.ac.uk/about-us |title=National Army Museum: about us |publisher=Nam.ac.uk |date=8 September 2011 |accessdate=13 September 2013}}</ref> Many of the Army's constituent regiments and corps have been granted the "Royal" prefix and have members of the [[British Royal Family|Royal Family]] occupying senior honorary positions within some regiments.
+
+Throughout its history, the British Army has seen action in a number of major wars involving the world's [[great power]]s, including the [[Seven Years' War]], the [[Napoleonic Wars]], the [[Crimean War]], the [[World War I|First World War]] and [[World War II|Second World War]]. Repeatedly emerging victorious from these decisive wars allowed Britain to influence world events with its policies and establish itself as one of the world's leading military and economic powers. Since the end of the [[Cold war]], the British Army has been deployed to many conflict zones, often as part of an [[Expeditionary warfare|expeditionary force]] or a [[United Nations peacekeeping]] operation. Additionally, the British Army maintains several [[British Army#Permanent overseas postings|permanent overseas postings]].
+[[File:Soldiers Trooping the Colour, 16th June 2007.jpg|thumb|Men of the [[Welsh Guards]] [[Trooping the Colour]] 2007.]]
+
+== History ==
+{{Main|History of the British Army}}
+[[File:John Churchill Marlborough porträtterad av Adriaen van der Werff (1659-1722).jpg|thumb|[[John Churchill, 1st Duke of Marlborough]], was one of the first generals in the British Army, fighting campaigns in the [[War of the Spanish Succession]].]]
+
+The English Army was first established as a standing military force in 1660.<ref>Mallinson, p.2</ref> In 1707 many regiments of the English and Scottish armies were already combined under one operational command and stationed in the Netherlands fighting in the [[War of Spanish Succession]]. Consequently, although the regiments were now part of the new British military establishment, they remained under the same operational command, and so not only were the regiments of the old armies transferred ''in situ'' to the new army so too was the institutional ethos, customs, and traditions, of the old standing armies that had been created shortly after the [[restoration (England)|restoration of the monarchy]] 66 years earlier. The order of seniority of the most senior line regiments in the British Army is based on the order of seniority in the English army. Scottish and Irish regiments were only allowed to take a rank in the English army from the date of their arrival in England or the date when they were first placed on the English establishment. For example, in 1694 a board of general officers was convened to decide the rank of English, Irish and Scots regiments serving in the Netherlands; the regiment that became known as the [[Scots Greys]] were designated as the 4th Dragoons because there were three English regiments raised prior to 1688 when the Scots Greys were first placed on the English establishment. In 1713, when a new board of general officers was convened to decide upon the rank of several regiments, the seniority of the Scots Greys was reassessed and based on their entry into England in June 1685. At that time there was only one English regiment of dragoons, and so after some delay the Scots Greys obtained the rank of 2nd Dragoons in the British Army.{{sfn|Royal Scots Greys|1840|pp=56–57}}
+
+Following William and Mary's accession to the throne, England involved itself in the [[War of the Grand Alliance]], primarily to prevent a French invasion restoring Mary's father, [[James II of England|James II]].<ref>{{harvnb|Miller|2000|p=144}}</ref> Following the [[Acts of Union 1707|union of England and Scotland]] in 1707, and the creation of the [[United Kingdom of Great Britain and Ireland]] in 1801, British foreign policy on the continent was to contain expansion by its competitor powers such as France and Spain. Spain, in the previous two centuries, had been the dominant global power, and the chief threat to England's early transatlantic ambitions, but was now waning. The territorial ambitions of the French, however, led to the [[War of the Spanish Succession]]<ref>{{harvnb|Mallinson|2009|p=50}}.</ref> and the [[Napoleonic Wars]].<ref name=ma165/> Russian activity led to the [[Crimean War]].<ref name=ma195/> After 1745, recruits were increasingly drawn from Scotland; by the mid-1760s between one fifth and one third of officers were from Scotland.<ref>''The Oxford Illustrated History of the British Army'' (1994) p. 103 {{full|date=September 2014}}</ref>
+
+From the time of the end of the [[Seven Years' War]] in 1763, Great Britain, and its successor, the United Kingdom, was one of the leading military and [[Economic history of the United Kingdom|economic powers]] of the world.{{sfn|Aptheker|1960|p=26}}
+
+=== Early British Empire ===
+[[File:The Battle of Culloden.jpg|thumb|The extinction of the [[Scottish clan]] system came with the defeat of the clansmen at the [[Battle of Culloden]] in 1746]]
+The [[British Empire]] expanded in this time to include colonies, [[protectorate]]s, and [[Dominion]]s throughout the Americas, Africa, Asia and [[Australasia]]. Although the [[Royal Navy]] is widely regarded as having been vital for the rise of the [[British Empire]], and British dominance of the world, the British Army played an important role in the colonisation of India and other regions.<ref>{{harvnb|Mallinson|2009|p=104}}.</ref> Typical tasks included [[garrison]]ing the colonies, capturing strategically important territories, and participating in actions to pacify colonial borders, provide support to allied governments, suppress Britain's rivals, and protect against foreign powers and hostile natives.
+
+[[File:Benjamin West 005.jpg|thumb|left|The death of [[James Wolfe|General Wolfe]] during the [[Battle of the Plains of Abraham]]; the campaigns of the [[French and Indian War]] resulted in British control of modern Canada.]]
+British soldiers also helped capture strategically important territories, allowing the empire to expand. The army was also involved in numerous wars to pacify the borders, or to prop up friendly governments, and thereby keep other, competitive, empires away from the British Empire's borders. Among these actions were the [[Seven Years' War]],<ref name=ma106>{{harvnb|Mallinson|2009|p=106}}.</ref> the [[American Revolutionary War]],<ref>{{harvnb|Mallinson|2009|p=129}}.</ref> the [[Napoleonic Wars]],<ref name=ma165>{{harvnb|Mallinson|2009|p=165}}.</ref> the [[First Opium War|First]] and [[Second Opium War]]s,<ref name=ma102>{{harvnb|Mallinson|2009|p=102}}.</ref> the [[Boxer Rebellion]],<ref name=boxer>{{harvnb|Bates|2010|p=25}}.</ref> the [[New Zealand wars]],<ref name=nz>{{cite web|url=http://www.army.mil.nz/culture-and-history/nz-army-history/historical-chronology/1827.htm |title=New Zealand Army: Timeline |publisher=Army.mil.nz |date=19 December 2008 |accessdate=28 March 2011}}</ref> the [[Sepoy Rebellion of 1857]],<ref name=ma210>{{harvnb|Mallinson|2009|p=210}}.</ref> the [[First Boer War|First]] and [[Second Boer War]]s,<ref name=ma257>{{harvnb|Mallinson|2009|p=257}}.</ref> the [[Fenian raids]],<ref name=fenian>{{cite web|url=http://www.doyle.com.au/fenian_raids.htm |title=The Fenian Raids |publisher=Doyle.com.au |date=15 September 2001 |accessdate=28 March 2011}}</ref> the [[Irish War of Independence]],<ref name=ma102>{{harvnb|Mallinson|2009|p=282}}.</ref> its serial interventions into [[Afghanistan]] (which were meant to maintain a friendly [[buffer state]] between British India and the [[Russian Empire]]),<ref>{{harvnb|Mallinson|2009|p=203}}.</ref> and the [[Crimean War]] (to keep the Russian Empire at a safe distance by coming to Turkey's aid).<ref name=ma195>{{harvnb|Mallinson|2009|p=195}}.</ref>
+
+As had its predecessor, the [[English Army]], the British Army fought Spain, France, and the [[Netherlands]] for supremacy in North America and the [[West Indies]]. With native and provincial assistance, the Army conquered [[New France]] in the [[French and Indian War|North American theatre]] of the [[Seven Years' War]]<ref name=ma106/> and subsequently suppressed a [[Indigenous peoples of the Americas|Native American]] uprising in [[Pontiac's War]].<ref>[http://www.umbc.edu/che/tahlessons/pdf/Pontiacs_War(PrinterFriendly).pdf Pontiac’s War] Baltimore County Public Schools</ref> The British Army suffered defeat in the [[American War of Independence]], losing the [[Thirteen Colonies]] but holding on to Canada.<ref>{{harvnb|Mallinson|2009|p=110}}.</ref>
+
+{{See also|British Army during the Napoleonic Wars|British Army during the Victorian Era}}
+[[File:Battle of Waterloo 1815.PNG|thumb|230px|The [[Arthur Wellesley, 1st Duke of Wellington|Duke of Wellington's]] and [[Field Marshal von Blücher]]'s triumph over [[Napoleon I of France|Napoleon Bonaparte]] at the [[Battle of Waterloo]]]]
+The British Army was heavily involved in the [[Napoleonic Wars]] and served in multiple campaigns across Europe (including continuous deployment in the [[Peninsular War]]), the [[Caribbean]], North Africa and later in [[War of 1812|North America]]. The war between the British and the [[First French Empire]] of [[Napoleon Bonaparte]] stretched around the world and at its peak, in 1813, the regular army contained over 250,000 men. A Coalition of Anglo-Dutch and Prussian Armies under the [[Duke of Wellington]] and [[Field Marshal von Blücher]] defeated Napoleon at the [[Battle of Waterloo]] in 1815.<ref>{{harvnb|Mallinson|2009|p=177}}.</ref>
+
+The English had been involved, both politically and militarily, in Ireland since being given the [[Lordship of Ireland]] by the Pope in 1171. The campaign of the English republican Protector, [[Oliver Cromwell]], involved uncompromising treatment of the Irish towns (most notably [[Drogheda]] and [[Wexford]]) that had supported the Royalists during the English Civil War. The English Army (and subsequently the British Army) stayed in Ireland primarily to suppress numerous Irish revolts and campaigns for independence. In addition to its ongoing conflict with ethnic Irish nationalists, it was faced with the prospect of battling Anglo-Irish and [[Ulster-Scots|Ulster Scots]] peoples in Ireland, angered primarily by unfavourable taxation of Irish produce imported into Britain, who, alongside other Irish groups, had raised their own volunteer army and threatened to emulate the American colonists if their conditions were not met. Having learnt from their experience in America, the British government sought a political solution. The British Army found itself fighting Irish rebels, both Protestant and Catholic, primarily in [[Ulster]] and [[Leinster]] ([[Theobald Wolfe Tone|Wolfe Tone's]] [[United Irishmen]]) in the [[Irish Rebellion of 1798|1798 rebellion]].<ref>[http://www.bbc.co.uk/history/british/empire_seapower/irish_reb_01.shtml The 1798 Irish Rebellion] BBC</ref>
+
+[[File:Alphonse de Neuville - The defence of Rorke's Drift 1879 - Google Art Project.jpg|left|thumb|The [[Battle of Rorke's Drift]] in 1879 saw a small British force repel an overwhelming attack by Zulu forces; eleven [[Victoria Cross]]es were awarded for the defence.]]
+In addition to battling the armies of other European Empires (and of its former colonies, the United States, in the [[American War of 1812]]),<ref>{{cite web|url=http://www.loc.gov/rr/program/bib/1812/ |title=Guide to the War of 1812 |publisher=Loc.gov |date=30 July 2010 |accessdate=28 March 2011}}</ref> in the battle for global supremacy, the British Army fought the Chinese in the [[First Opium War|First]] and [[Second Opium War]]s,<ref name=ma102/> and the [[Boxer Rebellion]],<ref name=boxer/> [[Māori people|Māori]] tribes in the first of the [[New Zealand Wars]],<ref name=nz/> Nawab Shiraj-ud-Daula's forces and [[British East India Company]] mutineers in the [[Indian Rebellion of 1857|Sepoy Rebellion of 1857]],<ref name=ma257/> the Boers in the [[First Boer War|First]] and [[Second Boer War]]s,<ref name=ma257/> Irish [[Fenians]] in Canada during the [[Fenian raids]]<ref name=fenian/> and [[Irish Republican Army|Irish separatists]] in the [[Anglo-Irish War]].<ref name=ma102/>
+The vastly increasing demands of imperial expansion, and the inadequacies and inefficiencies of the underfunded, post-Napoleonic Wars British Army, and of the [[Militia (United Kingdom)|Militia]], [[Yeomanry]], and [[Volunteer Force (Great Britain)|Volunteer Force]], led to the [[Cardwell Reforms|Cardwell]] and [[Childers Reforms]] of the late 19th century, which gave the British Army its modern shape, and redefined its [[regimental system]].<ref>{{London Gazette|issue=24992|supp=|startpage=3300|date=1 July 1881|accessdate=13 December 2010}}</ref> The [[Haldane Reforms]] of 1907 formally created the [[Territorial Force]] as the Army's volunteer reserve component by merging and reorganising the Volunteer Force, Militia, and Yeomanry.<ref>{{harvnb|Cassidy|2006|p=79}}.</ref>
+
+=== World wars ===
+{{main|British Army during World War I|British Army during the Second World War}}
+[[File:British Mark I male tank Somme 25 September 1916.jpg|right|thumb|British [[Mark I tank]] during the [[World War I|First World War]]. Note the guidance wheels behind the main body which were later scrapped as they were unnecessary. Armoured vehicles of this time still required much infantry and artillery support and still do to a lesser extent today. The photo was taken by [[Ernest Brooks (photographer)|Ernest Brooks]].]]
+
+Great Britain's dominance of the world had been challenged by numerous other powers; in the 20th century, most notably [[German Empire|Germany]]. A century before, it was still vying with Napoleonic France for pre-eminence in Europe and around the world, and Hannoverian Britain's natural allies were the various Kingdoms and principalities of [[Northern Germany]]. By the middle of the 19th century, Britain and France were allied in preventing Russia's appropriation of the [[Ottoman Empire]] (although it was the fear of French invasion that led, shortly after, to the creation of the [[Volunteer Force (Great Britain)|Volunteer Force]]). By the first decade of the 20th century, however, the United Kingdom was allied with France (by the [[Entente Cordiale]]) and Russia (which had its own secret agreement with France of mutual support in any war against the [[Prussia]]n-led [[German Empire]] and the [[Austro-Hungarian Empire]]), and when the [[World War I|First World War]] broke out in 1914, the British Army sent the [[British Expeditionary Force (World War I)|British Expeditionary Force]] (BEF) to [[Western Front (World War I)|France and Belgium]] to prevent Germany from occupying these countries.<ref>{{harvnb|Ensor|1980|pp=525–526}}.</ref> The British Army created the [[Mediterranean Expeditionary Force]] in Egypt and sent it to [[Gallipoli Campaign|Gallipoli]] in an unsuccessful attempt to capture [[Constantinople]] and secure a sea route to [[Russian Empire|Russia]].{{sfn|Chisholm|1911|p=3}} After the retreat from Gallipoli nearly 400,000 men in 13 divisions from the Mediterranean Expeditionary Force and the Force in Egypt formed a strategic reserve in Egypt called the Egyptian Expeditionary Force.<ref>Keogh 1955, p. 32</ref><ref>Wavell 1968, p. 41</ref> With most of the strategic reserve sent to the [[Western Front (World War I)|Western Front]], an Egyptian Expeditionary Force of two British infantry and one Australian and [[New Zealand]] mounted division in the Eastern Force, successfully defend the [[Suez Canal]] and [[Battle of Romani|Romani]] in 1916 from [[German Empire|German]] and [[Ottoman Empire|Ottoman]] incursions.<ref>Powles 1922, p. 50</ref><ref>Falls 1930 Vol. 1, pp. 380–406</ref> This force captured the [[Sinai]] and garrisoned the extended [[lines of communication]], but in early 1917 their advance was stopped at [[Gaza City|Gaza]] until towards the end of the year when a greatly enlarged force of infantry and mounted troops captured [[Battle of Beersheba (1917)|Beersheba]], [[Battle of Mughar Ridge|most of southern Palestine]] and [[Battle of Jerusalem|Jerusalem]]. Allenby's force, now including [[British Indian Army|Indian Army]] units which replaced a number of British units sent to the Western Front, captured the southern [[Jordan Valley (Middle East)|Jordan Valley]] in 1918 and carried out two major, but unsuccessful attacks to [[First Transjordan attack on Amman (1918)|Amman]] and [[Second Transjordan attack on Shunet Nimrin and Es Salt (1918)|Es Salt]] and [[Occupation of the Jordan Valley (1918)|occupied]] part of the Jordan Valley, during preparations for his final successful assault in September at the [[Battle of Megiddo (1918)|Battle of Megiddo]]. As a result of the Egyptian Expeditionary Force's capture of two Ottoman armies, an armistice with the Ottoman Empire was signed on 31 October 1918.<ref>Carver 2003 pp. 194–244</ref>
+[[File:El Alamein 1942 - British infantry.jpg|thumb|left|The [[Second Battle of El Alamein]] reversed German ambitions in North Africa, and is often cited as one of the turning points of the [[World War II|Second World War]].]]
+
+The First World War was the most devastating in [[Military history of the United Kingdom|British military history]], with nearly 800,000 men killed and over 2&nbsp;million wounded. In the early part of the war, the professional force of the BEF was virtually destroyed and, by turns, a [[Kitchener's Army|volunteer]] (and then [[Conscription in the United Kingdom|conscripted]]) force replaced it. Major battles included the [[Battle of the Somme]] and the [[Battle of Passchendaele]].<ref>{{harvnb|Mallinson|2009|p=310}}.</ref> Advances in technology saw advent of the [[tank]],<ref>{{cite web|url=http://www.bbc.co.uk/history/worldwars/wwone/nonflash_tank.shtml |archiveurl=https://web.archive.org/web/20071014050900/http://www.bbc.co.uk/history/worldwars/wwone/nonflash_tank.shtml |archivedate=14 October 2007 |title=Mark I tank |publisher=Web.archive.org |date= |accessdate=28 March 2011}}</ref> with the creation of the [[Royal Tank Regiment]], and advances in aircraft design, with the creation of the [[Royal Flying Corps]], which were to be decisive in future battles.<ref>{{cite web|url=http://www.rafmuseum.org.uk/milestones-of-flight/british_military/1914_3.cfm |title=British Military Aviation in 1914 |publisher=Rafmuseum.org.uk |date= |accessdate=28 March 2011}}</ref> [[Trench warfare]] dominated strategy on the [[Western Front (World War I)|Western Front]], and the use of chemical and poison gases added to the devastation.<ref>{{cite web|author=Michael Duffy |url=http://www.firstworldwar.com/weaponry/gas.htm |title=Weapons of War: Poison Gas |publisher=Firstworldwar.com |date=22 August 2009 |accessdate=28 March 2011}}</ref>
+
+The [[World War II|Second World War]] broke out in September 1939 with the German [[invasion of Poland]].<ref name=ma335>{{harvnb|Mallinson|2009|p=335}}.</ref> British assurances to the Polish led the [[British Empire]] to declare war on [[Nazi Germany|Germany]]. Again an [[British Expeditionary Force (World War II)|Expeditionary Force]] (BEF) was sent to France,<ref name=ma335/> only to be hastily evacuated as the German forces swept through the [[Low Countries]] and across France in May 1940.<ref name=ma342>{{harvnb|Mallinson|2009|p=342}}.</ref> Only the [[Dunkirk evacuation]] saved the entire BEF from capture.<ref name=ma342/> Later, however, the British would have spectacular success defeating the Italians and Germans at the [[Second Battle of El Alamein|Battle of El Alamein]] in [[North African Campaign|North Africa]] from 1942–1943, [[Italian Campaign (World War II)|Italy]]{{sfn|Taylor|1976|p=157}} and in the [[Normandy landings|D-Day invasion of Normandy]] in June 1944 with the help of American, Canadian, Australian, New Zealand, Indian and Free French forces.<ref>{{cite web|url=http://www.ddaymuseum.co.uk/faq.htm#casualties |title=D-Day and the Battle of Normandy |publisher=Ddaymuseum.co.uk |date= |accessdate=28 March 2011}}</ref> Almost half of the [[Allies of World War II|Allied]] soldiers on D-Day were British.{{sfn|Gilbert|2005|p=301}} In the [[South-East Asian theatre of World War II|Far East]], the British Army battled the Japanese in the [[Burma Campaign]].{{sfn|Taylor|1976|p=210}} The Second World War saw the British Army develop its [[Special Air Service]], [[British Commandos|Commando]] units and the [[Parachute Regiment (United Kingdom)|Parachute Regiment]].<ref>{{harvnb|Mallinson|2009|p=371}}.</ref>
+
+=== Postcolonial era ===
+[[File:Argentine POWs guarded by 2 Para.jpg|thumb|right|Soldiers from the [[Parachute Regiment (United Kingdom)|Parachute Regiment]] guard [[Argentina|Argentine]] [[prisoners of war]] during the [[Falklands War]].]]
+After the end of the Second World War, the British Army was significantly reduced in size, although [[National Service]] continued until 1960.<ref name="M 384">{{harvnb|Mallinson|2009|p=384}}.</ref> This period also saw the process of [[decolonisation]] commence with the [[partition of India|partition]] and [[Indian independence movement|independence]] of India and Pakistan, followed by the independence of British colonies in Africa and Asia. Accordingly, the army's strength was further reduced, in recognition of Britain's reduced role in world affairs, outlined in the [[1957 Defence White Paper]].<ref>{{cite news|title=Merged regiments and new brigading – many famous units to lose separate identity|newspaper=The Times |date=25 July 1957}}{{full|date=September 2014}}</ref> This was despite major actions in [[1st Commonwealth Division|Korea]] in the early 1950s<ref name="M 384"/> and [[Suez Crisis|Suez]] in 1956.<ref>{{harvnb|Mallinson|2009|p=407}}.</ref> A large force of [[British Army of the Rhine|British troops]] also remained in Germany, facing the threat of Soviet invasion.<ref>{{harvnb|Mallinson|2009|p=440}}.</ref> The [[British Army of the Rhine]] was the Germany garrison formation, with the main fighting force being [[I Corps (United Kingdom)|I (BR) Corps]]. The [[Cold War]] saw significant technological advances in warfare and the Army saw more technologically advanced weapons systems come into service.<ref>{{harvnb|Mallinson|2009|p=442}}.</ref>
+
+Despite the decline of the [[British Empire]], the Army was still deployed around the world, fighting wars in [[Aden Emergency|Aden]],<ref name=ma401>{{harvnb|Mallinson|2009|p=401}}.</ref> [[Indonesia–Malaysia confrontation|Indonesia]], [[EOKA|Cyprus]],<ref name=ma401/> [[Mau Mau Uprising|Kenya]]<ref name=ma401/> and [[Malayan Emergency|Malaya]].<ref>{{harvnb|Mallinson|2009|p=402}}.</ref> In 1982 the British Army, alongside the [[Royal Marines]], helped to recapture the [[Falkland Islands]] during the [[Falklands War|Falklands conflict]] against [[Argentina]].<ref>{{cite web|url=http://www.britains-smallwars.com/Museum/Falklands/falkSurrenderDocument.html |title=Falklands Surrender Document |publisher=Britains-smallwars.com |date=14 June 1982 |accessdate=28 March 2011}}</ref>
+
+In the three decades following 1969, the Army was heavily deployed in [[Northern Ireland]], to support the [[Royal Ulster Constabulary]] (later the [[Police Service of Northern Ireland]]) in their conflict with republican paramilitary groups, called [[Operation Banner]].<ref>{{harvnb|Mallinson|2009|p=411}}.</ref> The locally recruited [[Ulster Defence Regiment]] was formed, later becoming home service battalions in the [[The Royal Irish Regiment (27th (Inniskilling) 83rd and 87th and Ulster Defence Regiment)|Royal Irish Regiment]] in 1992, before being disbanded in 2006. Over 700 soldiers were killed during the [[The Troubles|Troubles]]. Following the [[Provisional Irish Republican Army|IRA]] ceasefires between 1994 and 1996 and since 1997, demilitarisation has taken place as part of the peace process, reducing the military presence from 30,000 to 5,000 troops.<ref>[http://news.bbc.co.uk/1/hi/northern_ireland/6923342.stm Army ending its operation in NI] BBC News, 31 July 2007</ref> On 25 June 2007, the Second Battalion Princess of Wales's Royal Regiment vacated the Army complex at Bessbrook Mill in Armagh. This is part of the 'normalisation' programme in Northern Ireland in response to the IRA's declared end to its activities.<ref>[http://www.operationbanner.com/news.asp?StotyID=60 Troops pull out of Bessbrook] Operation Banner News, 25 June 2007</ref>
+
+== Today ==
+
+=== Personnel ===
+[[File:Cavalry Trooping the Colour, 16th June 2007.jpg|right|thumb|Troopers of the [[Blues and Royals]].]]
+The British Army is purely a professional force since [[National service]] came to an end. The full-time element of the British Army is referred to as the ''Regular Army'' since the creation of the reservist ''[[Territorial Force]]'' in 1908.
+
+The size and structure of the British Army is continually evolving. Accordingly, the Ministry of Defence publishes monthly reports on personnel.<ref>PA - [http://www.skynews.com.au/news/world/europe/2015/07/29/british-army-sheds-more-than-20-000-early.html article: 07.29.2015] published by ''Sky News'' 12:18 pm, Wednesday, 29 July 2015 [Retrieved 2015-07-29]</ref> Figures reported on 29 July 2015 reveal there is 81,700 full-time army service personnel (according to the same report, during 2010, there were 102,260).<ref>Emma Atkinson - [http://www.bbc.co.uk/news/uk-33638492 article (29.07.2015)] published by British Broadcasting Corporation  [Retrieved 2015-07-29]</ref> Figures for 1 January 2015 show; 87,140 Regulars, 2,720 [[Brigade of Gurkhas|Gurkhas]]<ref name="Regular & Gurkha">[https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/402652/MPR_January_2015.pdf gov.uk MoD - regular personnel], table 2-page 8. 1 January 2015.</ref> and 25,010 [[Army Reserve (United Kingdom)|Army Reservists]]<ref>[https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/402633/quarterly_personnel_report_jan15.pdf gov.uk MoD - quarterly personnel report], table 3 page 8. 1 January 2015.</ref> for a combined component strength of 114,870 personnel. Of those Regulars and Gurkhas; 80,590 and 2,650 were trained, respectively.<ref name="Regular & Gurkha"/>
+
+The future transformation of the British Army is referred to as "[[Future of the British Army (Army 2020)|Army 2020]]", which is the result of the [[Strategic Defence and Security Review]] (SDSR) in October 2010 and a number of following reviews and modifications thereafter. According to the Ministry of Defence, Army 2020 will "ensure that the British Army remains the most capable Army in its class" and enable "it to better meet the security challenges of the 2020s and beyond".<ref>[http://www.army.mod.uk/documents/general/Army2020_brochure.pdf Transforming The British Army] July 2012</ref> Initially, the SDSR outlined a reduction of the Regular British Army by 7,000 to a trained strength of 95,000 personnel by 2015.<ref>{{cite web|url=http://www.direct.gov.uk/prod_consum_dg/groups/dg_digitalassets/@dg/@en/documents/digitalasset/dg_191634.pdf?CID=PDF&PLA=furl&CRE=sdsr |title=October 2010 SDSR |date= |accessdate=17 August 2012}}</ref> However, following a further independent review on the future structure of the British Army, "Future Reserves 2020",<ref>{{cite web|url=http://www.army.mod.uk/documents/general/88_FutureReserves_2020_(1).pdf |title=Future Reserves 2020 – The Independent Commission to review the United Kingdom's Reserve Forces |format=PDF |date=18 July 2011 |accessdate=17 August 2012}}</ref> it was announced that the Regular Army will be reduced to a trained strength of 82,000 while the Army Reserve will be increased to a trained strength of around 30,000 personnel.<ref>{{cite web |url=http://www.independent.co.uk/news/uk/home-news/army-cuts-hundreds-more-soldiers-to-lose-jobs-9079073.html |title=Army cuts: Hundreds more soldiers to lose jobs |newspaper=The Independent |date= 23 January 2014 |author=Emma Clark |accessdate= 12 November 2014}}</ref> There will of course be an added margin for soldiers in training. This reform will bring the ratio of regular and part-time personnel of the British Army in line with US and Canadian allies.<ref>{{citation|title=Future Reserves 2020|url=http://www.mod.uk/NR/rdonlyres/263D5F71-30CE-45BC-9442-398B1DC12C93/0/futurereserves_2020.pdf |date=July 2011|location=London, UK|publisher=Ministry of Defence|accessdate=13 May 2012}}</ref>{{sfn|Taylor|Brooke-Holland|2012}} Perhaps the most important aspect of Army 2020 is that the Army Reserve will become "fully integrated" with the Regular Army and "better prepared" for overseas deployments and operations.<ref>{{cite web|url=http://www.army.mod.uk/news/24316.aspx |title=TAs train in Italy for future operations |publisher=Army.mod.uk |date=25 July 2012 |accessdate=17 August 2012}}</ref>
+
+In addition to the active elements of the British Army (Regular and Army Reserve), all ex-Regular Army personnel remain liable to be recalled for duty in [[Total war|a time of need]], this is known as the [[Regular Reserve (United Kingdom)|Regular Reserve]].<ref name="Ragular-Reserve">[http://www.army.mod.uk/reserve/31789.aspx British Army: Regular Reserve], 27 January 2014</ref> The Regular Reserve is separated into two categories: A and D. Category A is mandatory, with the length of time serving in category A depending on time spent in Regular service. Category D is voluntary and consists of personnel who are no-longer required to serve in category A. Regular Reserves in both category A and D serve under a fixed-term reserve contract and are liable to report for training or service overseas and at home.<ref name="Ragular-Reserve"/> These contracts are similar in nature to those of the Army Reserve.<ref>[http://www.dasa.mod.uk/publications/personnel/military/reserves-and-cadets-strengths/2013-04-01/2013.pdf dasa.mod – reserves and cadet strengths], table 3-page 13 – read note 2. April 2013.</ref> The Long Term  reserve is also part of the Regular Reserve but excludes personnel serving in categories A and D. Unlike the other reserves the Long Term  reserve do not serve under a contract of any sort, instead they retain a "statutory liability for service" and may be recalled to service under Section 52 of the Reserve Forces Act (RFA) 1996 (until the age of 55).<ref name="Ragular-Reserve"/> In 2007 there were 121,800 Regular Reserves of the British Army, of which, 33,760 served in categories A and D.<ref>[http://www.dasa.mod.uk/publications/personnel/military/reserves-and-cadets-strengths/2012-04-01/2012-revised.pdf dasa.mod – reserves and cadet strengths], table 3-page 5. April 2012.</ref>
+
+Publications since April 2013 no longer report the entire strength of the Regular Reserve, instead they only give a figure for the Regular Reserves serving in categories A and D only. They had a reported strength of 30,030 personnel in 2014.<ref name="DASA-Reserves">[https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/314795/uk_reserve_force_cadets_2014.pdf gov.uk MoD – reserves and cadet strengths], table 3-page 12. April 2014.</ref>
+
+The table below shows historical personnel trends of the British Army from 1750 to 2014. The Army Reserve – or Territorial Army, as it was known then – did not come into existence until 1908.<ref>[http://www.parliament.uk/briefing-papers/RP00-99.pdf Defence personnel statistics], (Library House of Commons) Page 8.</ref>{{sfn|Summers|2011}}{{sfn|SMH Military correspondent|1939|p=5}}<ref>[http://hansard.millbanksystems.com/commons/1950/mar/20/territorial-army-recruitment Hansard 20 March 1950] Size of the Territorial Army 1950.</ref><ref>[http://hansard.millbanksystems.com/lords/1960/jul/20/the-territorial-army Hansard, THE TERRITORIAL ARMY] 20 July 1960.</ref><ref>[http://hansard.millbanksystems.com/commons/1970/mar/12/army-estimates-1970-71-vote-a Hansard, ARMY ESTIMATES] March 1970.</ref><ref>[http://www.parliament.uk/documents/commons/lib/research/rp98/rp98-120.pdf Defence Statistics 1998] Table 7, years 1980 and 1990.</ref><ref>[http://www.dasa.mod.uk/publications/personnel/military/reserves-and-cadets-strengths/2012-04-01/2012-revised.pdf UK Reserve Forces Strengths, years 1995–2000] (Download PDF).</ref><ref>[http://webarchive.nationalarchives.gov.uk/20140116142443/http://www.dasa.mod.uk/publications/personnel/military/monthly-personnel-report/2009-05-01-1-may-2009-to-1-october-2011-compendium/1-may-2009-to-1-october-2011-compendium.pdf UK Armed Forces Revised Monthly Personnel Compendium: 1 May 2009 to 1 October 2011 (Archive)], dasa.mod.uk</ref>
+
+{| class="wikitable" style="margin:auto; width:100%;"
+|+ '''Historical personnel trends of the British Army'''
+|- valign="top"
+!  style="width:50px; text-align:center;" rowspan="2"|
+! style="text-align:center;" colspan="2"| [[File:Union flag 1606 (Kings Colors).svg|25px]]<br><small>[[Kingdom of Great Britain|(1707–1800)]]</small>
+! style="text-align:center;" colspan="6"| [[File:Flag of the United Kingdom.svg|25px]]<br><small>[[United Kingdom of Great Britain and Ireland|(1801–1921)]]</small>
+! style="text-align:center;" colspan="12"| [[File:Flag of the United Kingdom.svg|25px]]<br><small>[[United Kingdom of Great Britain and Northern Ireland|(1921– Present)]]</small>
+|- valign="top"
+!1750
+!1800
+!1817{{ref|a|a}}
+!1850
+!1883{{ref|b|b}}
+!1900
+!1901{{ref|c|c}}
+!1918{{ref|d|d}}
+!1939{{ref|e|e}}
+!1945{{ref|f|f}}
+!1950
+!1960{{ref|h|h}}
+!1970
+!1978
+!1980
+!1990{{ref|i|i}}
+!2000
+!2010{{ref|j|j}}
+!2020{{ref|k|k}}
+|- style="text-align:center;"
+||'''Regular'''
+||78,900
+||80,300
+||92,000
+||99,100
+||124,000
+||301,500
+||430,000
+||3,818,292
+||230,000
+||3,120,000
+||364,100
+||315,000
+||174,000
+||163,000
+||159,000
+||152,800
+||110,100
+||108,900
+||82,000
+|-
+|  style="border-bottom:1px solid black; text-align:center;"|'''Army&nbsp;Reserve'''
+|  style="text-align:center; border-bottom:1px solid black; text-align:right; background:gray;"|
+|  style="text-align:center; border-bottom:1px solid black; text-align:right; background:gray;"|
+|  style="text-align:center; border-bottom:1px solid black; text-align:right; background:gray;"|
+|  style="text-align:center; border-bottom:1px solid black; text-align:right; background:gray;"|
+|  style="text-align:center; border-bottom:1px solid black; text-align:right; background:gray;"|
+|  style="text-align:center; border-bottom:1px solid black; text-align:right; background:gray;"|
+|  style="text-align:center; border-bottom:1px solid black; text-align:right; background:gray;"|
+|  style="border-bottom:1px solid black; text-align:center;"|{{ref|g|g}}
+|  style="border-bottom:1px solid black; text-align:center;"|270,000
+|  style="border-bottom:1px solid black; text-align:center;"|{{ref|g|g}}
+|  style="border-bottom:1px solid black; text-align:center;"|82,500
+|  style="border-bottom:1px solid black; text-align:center;"|120,000
+|  style="border-bottom:1px solid black; text-align:center;"|80,000
+|  style="border-bottom:1px solid black; text-align:center;"|65,100
+|  style="border-bottom:1px solid black; text-align:center;"|63,300
+|  style="border-bottom:1px solid black; text-align:center;"|72,500
+|  style="border-bottom:1px solid black; text-align:center;"|44,840
+|  style="border-bottom:1px solid black; text-align:center;"|27,410
+|  style="border-bottom:1px solid black; text-align:center;"|30,000
+|- style="text-align:center;"
+|  style="border-top:1px solid black; "|'''Total'''
+|  style="border-top:1px solid black; "|'''78,900'''
+|  style="border-top:1px solid black; "|'''80,300'''
+|  style="border-top:1px solid black; "|'''92,000'''
+|  style="border-top:1px solid black; "|'''99,100'''
+|  style="border-top:1px solid black; "|'''124,000'''
+|  style="border-top:1px solid black; "|'''301,500'''
+|  style="border-top:1px solid black; "|'''430,000'''
+|  style="border-top:1px solid black; "|'''3,818,292'''
+|  style="border-top:1px solid black; "|'''500,000'''
+|  style="border-top:1px solid black; "|'''3,120,000'''
+|  style="border-top:1px solid black; "|'''446,600'''
+|  style="border-top:1px solid black; "|'''435,000'''
+|  style="border-top:1px solid black; "|'''254,000'''
+|  style="border-top:1px solid black; "|'''228,100'''
+|  style="border-top:1px solid black; "|'''222,300'''
+|  style="border-top:1px solid black; "|'''225,300'''
+|  style="border-top:1px solid black; "|'''154,940'''
+|  style="border-top:1px solid black; "|'''136,310'''
+|  style="border-top:1px solid black; "|'''112,000'''
+|}
+[[File:Soldiers with 1st Royal Regiment of Fusiliers MOD 45156526.jpg|thumb|Soldiers of the [[Royal Regiment of Fusiliers]] during a training exercise in 2014]]
+;Notes:
+<small>
+:a {{note|a}} After the [[Napoleonic Wars]]. However, during the Wars, the British Army expanded from 40,000 men in 1793<ref name="Chappell8">Chappell, p. 8</ref> to a peak of 250,000 men in 1813.<ref name="Oxford132">Chandler & Beckett, p. 132</ref>
+:b {{note|b}} After the [[First Boer War]].
+:c {{note|c}} During the [[Second Boer War]].
+:d {{note|d}} End of the [[First World War]].
+:e {{note|e}} Start of the [[Second World War]].
+:f {{note|f}} End of the Second World War.
+:g {{note|g}} Reserve forces included in the figure above for regular personnel (In 1945, approximately 540,000 of the men serving in the British Army were Reservists).
+:h {{note|h}} National Service ends in that year.
+:i {{note|i}} End of the [[Cold War]].
+:j {{note|j}} Figure represented in table is total strength; trained and untrained.
+:k {{note|k}} Figure is an estimation per the 2010 SDSR and represents trained personnel only.</small>
+
+=== Equipment ===
+{{main|Modern equipment of the British Army}}
+
+'''Infantry'''
+The basic infantry weapon of the British Army is the [[SA80|L85A2]] assault rifle, sometimes equipped with an [[L17A2 UGL|L17A2]] underbarrel grenade launcher. The rifle has several variants, such as the [[L86 LSW|L86A2]], the Light Support Weapon (LSW), and the L22A2 carbine issued to tank crews. Support fire is provided by the [[FN Minimi]] light machine gun and the [[L7 (machine gun)|L7 General Purpose Machine Gun]] (GPMG); indirect fire by [[British 51&nbsp;mm Mortar|51]] and [[L16 81mm Mortar|81&nbsp;mm mortars]]. Sniper rifles used include the [[L118A1]]&nbsp;7.62&nbsp;mm, the [[L115A3]] and the [[AW50F]], all produced by [[Accuracy International]]. Some units use the [[M82 Barrett rifle|L82A1]]&nbsp;.50 calibre Barrett sniper rifle. More recently, the [[L128A1]] (Benelli M4) 'combat shotgun' has been adopted, and is intended for close quarters combat in Afghanistan.<ref>{{cite web|url=http://www.army.mod.uk/equipment/support-weapons/17927.aspx |title=Combat Shotgun – British Army Website |publisher=Army.mod.uk |date= |accessdate=22 October 2010|archiveurl = http://www.webcitation.org/5uKgzKZWI |archivedate = 18 November 2010|deadurl=no}}</ref><ref>{{cite web|url=http://www.thefirearmblog.com/blog/2009/04/10/british-armys-new-combat-shotgun/ |title=British Army's new combat shotgun |publisher=The Firearm Blog |date=10 April 2009 |accessdate=22 October 2010|archiveurl = http://www.webcitation.org/5uKgzjJBU |archivedate = 18 November 2010|deadurl=no}}</ref>
+
+'''Armour'''
+The British Army's [[main battle tank]] is the [[Challenger 2]].<ref>[http://www.baesystems.com/ProductsServices/l_and_a_ls_challenger.html Challenger 2] BA Systems</ref><ref>[http://www.dasa.mod.uk/publications/equipment/CFE-vehicles-and-aircraft/2013/2013.pdf "UKDS 2013"]</ref> Other armoured vehicles include the [[MWMIK|Supacat "Jackal" MWMIK]] and the [[Iveco LMV|Iveco "Panther" CLV]].<ref>{{cite web|url=http://www.defense-update.com/products/m/MLV.htm |title=Multi-role Light Vehicle |publisher=Defense-update.com |date=26 July 2006 |accessdate=28 March 2011}}</ref> The [[Warrior Infantry Fighting Vehicle]] is the primary [[armoured personnel carrier]], although many variants of the [[Combat Vehicle Reconnaissance (tracked)]] are used too, as well as the [[Saxon APC]] and the [[FV430 series]], which is now having its engines and armour replaced and returned to front-line service as the [[Bulldog APC|Bulldog]].<ref>{{cite web|url=http://www.sloppyjalopy.com/fv432.htm |title=FV 432 |publisher=Sloppyjalopy.com |date= |accessdate=28 March 2011}}</ref> The British Army commonly uses the [[Land Rover Wolf]] and [[Land Rover Defender]].<ref>{{cite web|url=http://www.landrover.com/gb/en/lr/defender/ |title=Land Rover Defender |publisher=Landrover.com |date= |accessdate=28 March 2011}}</ref>
+
+'''Artillery'''
+The Army uses three main artillery systems: the [[MLRS|Multi Launch Rocket System]] (MLRS), [[AS-90]] and [[L118]]. The MLRS was first used operationally in [[Operation Granby]] and has a range of {{convert|70|km|0|abbr=on}}.<ref>[http://www.army.mod.uk/equipment/artillery-air-defence/1512.aspx GMLRS] British Army</ref> The AS-90 is a 155&nbsp;mm self-propelled gun.<ref>{{cite web|url=http://www.armedforces.co.uk/army/listings/l0046.html |title=AS-90 |publisher=Armedforces.co.uk |date= |accessdate=28 March 2011}}</ref> The L118 Light Gun is a 105&nbsp;mm towed gun used primarily in support of 16 Air Assault Brigade, 19 Light Brigade and 3 Commando Brigade ([[Royal Marines]]).<ref>[http://www.baesystems.com/ProductsServices/l_and_a_ls_105mm_light_gun.html 105 mm Light Gun] BAe Systems</ref> The [[Rapier (missile)|Rapier FSC Missile System]] is the Army's primary battlefield air defence system, widely deployed since the [[Falklands War]]<ref>{{cite web|url=http://www.armedforces-int.com/projects/rapier_missile.html |title=Rapier missile |publisher=Armedforces-int.com |date= |accessdate=28 March 2011}}</ref> and the [[Starstreak (missile)|Starstreak HVM]] (High Velocity Missile) is a surface-to-air weapon, launched either by a single soldier or from a vehicle-mounted launcher.<ref>[http://www.janes.com/events/exhibitions/dsei2007/sections/daily/day1/starstreak-ii-sighted.shtml Starstreak II sighted] Janes</ref>
+
+'''Army Aviation'''
+The [[British Army Air Corps|Army Air Corps]] (AAC) provides direct aviation support for the Army, although the RAF also contributes by providing support helicopters. The primary attack helicopter is the [[Westland WAH-64 Apache]], a licence-built, modified version of the US [[AH-64 Apache]], which replaced the Westland Lynx AH7 in the anti-tank role.<ref>{{cite web|url=http://www.army.mod.uk/equipment/aircraft/1531.aspx |title=Apache |publisher=Army.mod.uk |date= |accessdate=28 March 2011}}</ref> The [[Westland Lynx|Lynx]] remains in service as an armed escort, surveillance and light utility helicopter. Other types are used in specialised roles e.g. the [[Westland Gazelle]] as a light surveillance aircraft<ref>[http://www.army.mod.uk/equipment/aircraft/1533.aspx Gazelle] British Army</ref> and the [[Bell 212]] for support in specific Jungle / 'hot and high' environments<ref>{{cite web|url=http://www.vectorsite.net/avhuey.html |title=Bell Huey |publisher=Vectorsite.net |date= |accessdate=28 March 2011}}</ref> The [[Eurocopter Dauphin|Eurocopter AS 365N Dauphin]] is used for Special Operations Aviation{{sfn|Ripley|2008|p=10}} and the [[Britten-Norman Islander]] is a light fixed-wing aircraft used for airborne reconnaissance and command and control.<ref>{{cite web|url=http://www.britten-norman.com/products/bn2b/ |title=Islander |publisher=Britten-norman.com |date= |accessdate=28 March 2011}}</ref>
+
+<gallery class="center" widths="210px" heights="140px">
+File:Challenger Main Battle Tank with Improved Armour MOD 45149015.jpg|[[Challenger 2|Challenger II]] [[main battle tank]].
+File:MCV-80.jpg|[[Warrior IFV]].
+File:Apache WAH64D Helicopter MOD 45149194.jpg|[[AgustaWestland Apache]] [[attack helicopter]].
+File:Soldier from A Company 1 Royal Anglian Checking his Gun in Afghanistan MOD 45154068.jpg|Soldier checking his [[SA80|L85A2]] Assault Rifle.
+</gallery>
+
+== Recent and current conflicts ==
+
+=== Persian Gulf War ===
+{{Main|Gulf War|Operation Granby}}
+[[File:An APC of the 7th Brigade Royal Scots.JPEG|thumb|Wrecked and abandoned vehicles along [[Highway of Death]] in April 1991.]]
+The ending of the [[Cold War]] saw a significant cut in manpower, as outlined in the [[Options for Change]] review.<ref>[http://hansard.millbanksystems.com/commons/1990/jul/25/defence-options-for-change Defence (Options for Change)] Hansard, 25 July 1990</ref> Despite this, the Army has been deployed in an increasingly global role, and contributed 50,000 troops to the coalition force that fought [[Iraq]] in the [[Gulf War|Persian Gulf War]].<ref>{{cite web|url=http://www.guardian.co.uk/world/2004/jun/11/iraq.military|title=50,000 troops in Gulf illness scare|work=The Guardian|date=11 June 2004}}</ref> British forces were put in control of [[Kuwait]] after it was liberated.
+47 British Military personnel died during the Persian Gulf War.<ref>{{cite web|url=http://www.thefreelibrary.com/SUPREME+SACRIFICE%3B+British+soldier+killed+in+Iraq+was+unemployed+TA...-a0107281788 |title=Supreme sacrifice: British soldier killed in Iraq was unemployed TA man |publisher=Thefreelibrary.com |date=28 August 2003 |accessdate=28 March 2011}}</ref>
+
+=== Balkans conflicts ===
+{{Main|Yugoslav wars}}
+The British Army was deployed to [[Yugoslavia]] in 1992; initially this force formed part of the [[United Nations Protection Force]].<ref>{{harvnb|Mallinson|2009|p=446}}.</ref> In 1995 command was transferred to [[IFOR]] and then to [[SFOR]].<ref>{{harvnb|Mallinson|2009|p=447}}.</ref> Currently troops are under the command of [[EUFOR]]. Over 10,000 troops were sent. In 1999 British forces under the command of SFOR were sent to [[Kosovo]] during the conflict there. Command was subsequently transferred to [[Kosovo Force|KFOR]].<ref>{{harvnb|Mallinson|2009|p=448}}.</ref> Between early 1993 and June 2010, 72 British military personnel died on operations in the former Yugoslavian countries of Bosnia, Kosovo and Macedonia.<ref>[http://www.mod.uk/defenceinternet/factsheets/operationsfactsheets/balkansbritishfatalities.htm Operations in the Balkans: British Fatalities] Defence factsheet</ref>
+
+=== War in Afghanistan ===
+{{Main|War in Afghanistan (2001–present)|Operation Herrick|Operation Toral}}
+[[File:3royalanglianafghan.JPG|thumb|[[Royal Anglian Regiment]] in [[Helmand Province]]. ]]
+In November 2001 the United Kingdom, as a part of [[Operation Enduring Freedom]] with the United States, invaded [[Afghanistan]] to topple the [[Taliban]].<ref>{{harvnb|Mallinson|2009|p=452}}.</ref> The [[3rd Division (United Kingdom)|3rd Division]] were deployed in [[Kabul]], to assist in the liberation of the troubled capital. The Royal Marines' [[3 Commando Brigade]] (part of the [[Royal Navy]] but including a number of Army units), also swept the mountains.<ref>[http://www.mod.uk/DefenceInternet/FactSheets/OperationsInAfghanistanChronologyOfEventsSeptember2001December2002.htm Operations in Afghanistan: Chronology of Events, September 2001 – December 2002] Defence factsheet</ref> The British Army concentrated on fighting [[Taliban]] forces and bringing security to [[Helmand province]] with around 9,500 British troops (including marines, airmen and sailors) at its peak<ref>{{cite web|url=http://www.army.mod.uk/operations-deployments/22713.aspx|title=Why we are in Afghanistan|publisher=Ministry of Defence (MoD)|accessdate=7 November 2014}}</ref> making it the second largest force after the United States.<ref>[http://news.bbc.co.uk/1/hi/8305922.stm UK sends 500 more to Afghanistan] BBC News, 15 October 2009</ref> In December 2012, Prime Minister [[David Cameron]] announced that 3,800 troops – almost half of the force serving in [[Helmand Province]] – would be withdrawn during 2013 with numbers to fall to approximately 5,200.<ref name=ukwithdrawal>[http://www.bbc.co.uk/news/uk-20778561 UK to withdraw 3,800 troops from Afghanistan during 2013] BBC, 19 December 2012</ref> By March 2014, troop levels had fallen to 4,000.<ref>{{cite web|url=http://www.bbc.co.uk/news/uk-26605303|title=Saying goodbye to Camp Bastion|date= 17 March 2014|accessdate= 18 March 2014}}</ref> Between 2001 and 26 April 2014 a total of 453 British military personnel died on operations in Afghanistan.<ref>{{cite web|url=https://www.gov.uk/government/fields-of-operation/afghanistan|title=British fatalities in Afghanistan|publisher=MoD|accessdate=7 November 2014}}</ref> Operation Herrick officially ended with the handover of [[Camp Bastion]] on 26 October 2014.<ref>{{cite web|url=http://www.bbc.co.uk/news/uk-29776544|title=UK ends Afghan combat operations|publisher=BBC|date=26 October 2014|accessdate=26 October 2014}}</ref> The British Army maintains a deployment of 500 personnel in Afghanistan as part of [[Operation Toral]].<ref>{{cite web|url=http://www.dailymail.co.uk/news/article-2808240/Britain-s-war-Afghanistan-comes-end-13-years-flag-lowered-Camp-Bastion.html|title=Britain's war in Afghanistan comes to an end after 13 years as flag is lowered over Camp Bastion|date=26 October 2014|publisher=Daily Mail|accessdate=12 October 2015}}</ref>
+
+=== Iraq War ===
+{{Main|Iraq War|Operation Telic}}
+[[File:1 RRF engage Iraqi Army positions with their 81mm Mortars. Iraq. 26-03-2003 MOD 45142764.jpg|thumb|British soldiers engage Iraqi Army positions with their [[81mm mortar]]s [[Battle of Basra (2003)|south of Basra]], 26 March 2003.]]
+In 2003 the United Kingdom was a major contributor to the [[2003 invasion of Iraq|invasion of Iraq]], sending a force that would reach 46,000 military personnel.<ref>[http://www.mod.uk/DefenceInternet/FactSheets/OperationsFactsheets/OperationsInIraqFactsandFigures.htm Operations in Iraq: Facts and figures] Defence factsheet</ref> The British Army controlled the southern regions of Iraq and maintained a peace-keeping presence in the city of [[Basra]] until their withdrawal on 30 April 2009. 179 British Military personnel have died on operations in Iraq.<ref>[http://www.mod.uk/DefenceInternet/FactSheets/OperationsFactsheets/OperationsInIraqBritishFatalities.htm Operations in Iraq: British Fatalities] Defence factsheet</ref> All of the remaining British troops were fully withdrawn from Iraq after the Iraqi government refused to extend their mandate.<ref>{{cite web|url=http://www.rferl.org/content/British_Troops_Leave_Iraq_As_Mandate_Ends/1789785.html |title=British Troops Leave Iraq As Mandate Ends |publisher=Rferl.org |date=31 July 2009 |accessdate=22 October 2010|archiveurl = http://www.webcitation.org/5uKgu40Rs |archivedate = 18 November 2010|deadurl=no}}</ref>
+
+=== The Troubles ===
+{{Main|Operation Banner}}
+Although having permanent garrisons there, the British Army was initially deployed in a peacekeeping role – codenamed "Operation Banner" – in [[Northern Ireland]] in the wake of Unionist attacks on Nationalist communities in [[Derry]]<ref>[[Kenneth Bloomfield|Bloomfield, K]] Stormont in Crisis (Belfast 1994) p 114</ref> and [[Belfast]]<ref>[[Public Record Office of Northern Ireland|PRONI]]: Cabinet conclusions file CAB/4/1460</ref> and to prevent further Loyalist attacks on Catholic communities, under [[Operation Banner]] between 1969 and 2007 in support of the [[Royal Ulster Constabulary]] (RUC) and its successor, the [[Police Service of Northern Ireland]] (PSNI).{{sfn|McKernan|2005|p=17}} There has been a steady reduction in the number of troops deployed in Northern Ireland since the [[Good Friday Agreement]] was signed in 1998.<ref>[http://news.bbc.co.uk/1/hi/northern_ireland/859388.stm Army dismantles NI post] BBC News, 31 July 2000</ref> In 2005, after the [[Provisional Irish Republican Army]] announced an end to its armed conflict in Northern Ireland, the British Army dismantled posts and withdrew many troops, and restored troop levels to that of a peace-time garrison.<ref>[http://www.skyscrapernews.com/news.php?ref=391 Army To Dismantle Tower Block Post] Skyscrapernews, 2 August 2005</ref>
+
+Operation Banner ended at midnight on 31 July 2007, bringing to an end some 38 years of continuous deployment, making it the longest in the British Army's history.<ref name=analysis>{{cite web|url=http://www.patfinucanecentre.org/misc/opbanner.pdf|title=Operation Banner: An analysis of military operations in Northern Ireland|publisher=[[Ministry of Defence (United Kingdom)|Ministry of Defence]]|year=2006|accessdate=21 March 2008|format=PDF |archiveurl = https://web.archive.org/web/20080227094451/http://www.patfinucanecentre.org/misc/opbanner.pdf |archivedate = 27 February 2008}}</ref> An internal British Army document released in 2007 stated that the British Army had failed to defeat the IRA but had made it impossible for them to win through the use of violence. Operation Helvetic replaced Operation Banner in 2007 maintaining fewer servicemen in a much more benign environment.<ref name=analysis/><ref name=BBC>{{cite news|url=http://news.bbc.co.uk/1/hi/northern_ireland/6276416.stm|title=Army paper says IRA not defeated|publisher=BBC News|date=6 July 2007|accessdate=21 March 2008|archiveurl = http://www.webcitation.org/5uKgvm8RR |archivedate = 18 November 2010|deadurl=no}}</ref> From 1971 to 1997 a total of 763 British military personnel were killed during the "Troubles".<ref>[http://www.bbc.co.uk/news/uk-11743727 Remembrance Day: Where they fell] BBC News, 13 November 2010</ref> Some 300 deaths during the conflict were attributed to the British Army, including paramilitary and civilians.<ref>{{cite web|url=http://cain.ulst.ac.uk/sutton/tables/index.html |title=Tabulations (Tables) of Basic Variables |publisher=Cain.ulst.ac.uk |date= |accessdate=28 March 2011}}</ref> A total of 303 RUC officers were killed in the same time period. In March 2009, two soldiers and a Police Officer were killed in separate dissident republican attacks in Northern Ireland.<ref>[http://news.bbc.co.uk/1/hi/7933990.stm Policeman shot dead in N Ireland] BBC News, 10 March 2009</ref>
+
+<gallery class="center" widths="210px" heights="140px">
+File:BritishPatrolHelmand01.jpg|British soldiers in May 2007, during the [[War in Afghanistan (2001–present)|War in Afghanistan]].
+File:3 Para Helmand 2007.jpg|3 Para in combat in Helmand Province, Afghanistan
+File:Land Rover Defender 110 patrol vehicles.jpg|British soldiers in March 2003, during the [[2003 invasion of Iraq|invasion of Iraq]].
+File:South Belfast 1981.jpg|British Army patrol in South Belfast during [[the Troubles]].
+</gallery>
+
+== Current deployments ==
+
+=== Low intensity operations ===
+{| class="wikitable" style="margin:auto; width:100%;"
+|-
+! style="text-align:left; width:9%;"|Location
+! style="text-align:left; width:5%;"|Date
+! style="text-align:left; width:21%;"|Deployment
+! style="text-align:left; width:65%;"|Details
+|-
+! [[Cyprus]]
+| 1964 ||183-strong contingent responsible for Sector 2 of the UN's Buffer Zone. 25-strong Royal Military Police unit part of the UN's Force Military Police Unit. 50-strong unit part of the UN's Mobile Force Reserve. || British forces have been deployed under Operation TOSCA as [[United Nations Peacekeeping Force in Cyprus|UN peacekeeping forces on Cyprus]] since 1964.
+|-
+! [[Sierra Leone]]
+| 1999 || Minimal || The British Army were deployed to Sierra Leone for [[Operation Palliser]] in 1999 to aid the government in quelling violent uprisings by militiamen, under United Nations resolutions. Troops remain in the region to provide military support and training to the Sierra Leonean government.<ref>[http://www.dailymail.co.uk/news/article-130269/British-troops-withdraw-Sierra-Leone.html British troops withdraw from Sierra Leone] Daily Mail, 2002</ref><ref>[http://www.army.mod.uk/operations-deployments/overseas-deployments/932.aspx The International Military Assistance Training Team (IMATT (SL)) in Sierra Leone] {{wayback|url=http://www.army.mod.uk/operations-deployments/overseas-deployments/932.aspx |date=20150717153700 }}</ref>
+|-
+! [[Afghanistan]]
+| 2015 || 500 personnel || The British Army maintains a deployment of 500 personnel in support of NATO's [[Resolute Support Mission]]. The British code name for this operation is [[Operation Toral]].
+|}
+
+=== Permanent overseas postings ===
+{| class="wikitable" style="margin:auto; width:100%;"
+|-
+! style="text-align:left; width:9%;"|Location
+! style="text-align:left; width:5%;"|Date
+! style="text-align:left; width:21%;"|Deployment
+! style="text-align:left; width:65%;"|Details
+|-
+! [[Belize]]
+| 1949 || Ten soldiers.
+||British troops were based in [[Belize]] from 1949 until 1994. Belize's neighbour, [[Guatemala]], claimed the territory and there were numerous border disputes. At the request of the Belizean government, British troops remained in Belize after independence in 1981 to provide a defence force.<ref>[http://www.army.mod.uk/operations-deployments/overseas-deployments/924.aspx Belize] Ministry of Defence</ref> The [[RAF Belize|main training unit]] was mothballed in 2011, following the [[Strategic Defence and Security Review]].<ref name="Belize return">{{cite web | url=http://belizean.com/belize-asks-for-return-of-british-army-1571/ | title=Belize Asks For Return of British Army | work=Belizean | date=12 February 2013 | accessdate=2 March 2013}}</ref> However, in 2015, it was reported that the training unit was seeing increased usage.<ref>{{cite news|title=New Lease of Life for British Army Base in Belize|url=http://forces.tv/85677232|accessdate=7 April 2015|date=7 April 2015}}</ref>
+|-
+! [[Bermuda]]
+| 1701 || 609 soldiers
+||British troops have been based in Bermuda since 1701.<ref>{{cite web|url=http://www.bermuda-online.org/britarmy.htm|title=British Army in Bermuda from 1701 to 1977|publisher=Bermuda On Line|accessdate=22 July 2015}}</ref> Home defence in this overseas territory is now carried out by the [[Royal Bermuda Regiment]].<ref>{{cite web|url=https://www.gov.uk/government/news/royal-anglian-soldiers-boost-bermuda-regiment|title=Royal Anglian soldiers boost Bermuda Regiment|publisher=Ministry of Defence|accessdate=22 July 2015}}</ref>
+|-
+! [[Brunei]]
+| 1962 || One battalion from the [[Royal Gurkha Rifles]], [[British Military Garrison Brunei|British Garrison]], [[British Army Jungle Warfare Training School|Training Team Brunei (TTB)]] and [[7 Flight AAC]] ||A Gurkha battalion has been maintained in Brunei since the [[Brunei Revolt]] in 1962 at the request of [[List of Sultans of Brunei|Sultan]] [[Omar Ali Saifuddin III]]. The Training Team Brunei (TTB) is the Army's jungle warfare school, while the small number of garrison troops support the battalion. 7 Flight AAC provides helicopter support to both the Gurkha battalion and the TTB.<ref name="Brunei">{{cite web | url=http://www.army.mod.uk/operations-deployments/22792.aspx | title=The British Army in Brunei | accessdate=2 March 2013}}</ref>
+|-
+! [[Cyprus]]
+| 1960 || Two resident infantry battalions, [[Royal Engineers]], [[16 Flight AAC]] and Joint Service Signals Unit at [[Ayios Nikolaos Station|Ayios Nikolaos]] as a part of [[British Forces Cyprus]]||The UK retains two [[Sovereign Base Areas]] on Cyprus after the rest of the island's independence. The bases serve as forward bases for deployments in the Middle East. Principal facilities are Alexander Barracks at Dhekelia and Salamanca Barracks at Episkopi.<ref>[http://hansard.millbanksystems.com/written_answers/2001/mar/26/somme-barracks-cyprus Somme Barracks (Cyprus)] Hansard, 26 March 2001</ref>
+|-
+! [[Canada]]
+| 1972 || [[British Army Training Unit Suffield]] and [[29 (BATUS) Flight AAC]]|| A training centre in the [[Alberta]] prairie which is provided for the use of British Army and [[Canadian Forces]] under agreement with the [[government of Canada]]. British forces conduct regular, major armoured training exercises here every year, with helicopter support provided by 29 (BATUS) Flight [[Army Air Corps (United Kingdom)|AAC]].<ref>{{cite web | url=http://www.army.mod.uk/operations-deployments/22727.aspx | title=The British Army in Canada | accessdate=2 March 2013}}</ref><ref name="29 BATUS AAC">{{cite web | url=https://www.army.mod.uk/aviation/30332.aspx | title=29 (BATUS) Flight Army Air Corps | accessdate=2 March 2013}}</ref>
+|-
+! [[Falkland Islands]]
+| 1982 || An infantry company group and an Engineer Squadron as part of [[British Forces South Atlantic Islands]] || Previously a platoon-sized [[Royal Marines]] Naval Party acted as the military presence. After the war in 1982 between Argentina and the UK, the garrison was enlarged and bolstered with an RAF base at [[RAF Mount Pleasant|Mount Pleasant]] on [[East Falkland]].<ref name="falklandnews.com">[http://www.falklandnews.com/public/story.cfm?get=3878&source=7 Falklands Forces Have A Vital Role To Play] Falkland Islands News Network, 3 May 2006</ref>
+|-
+! [[Germany]]
+| 1945–2020 || 1st (UK) Armoured Division as part of [[British Forces Germany]]||British forces remained in Germany after the end of the [[Second World War]]. Forces declined considerably after the end of the [[Cold War]], and in October 2010 the Prime Minister, [[David Cameron]], announced large cuts in defence with all UK troops currently in Germany to leave by 2020.<ref name="Defence review: Cameron unveils armed forces cuts">[http://www.bbc.co.uk/news/uk-politics-11570593 Defence review: Cameron unveils armed forces cuts], BBC News Retrieved 19 October 2010.</ref>
+|-
+! [[Gibraltar]]
+| 1704 || One infantry battalion, Joint Provost and Security Unit as a part of [[British Forces Gibraltar]] || British Army garrison is provided by an indigenous regiment, the [[Royal Gibraltar Regiment]].<ref>[http://www.mod.uk/DefenceInternet/DefenceNews/TrainingAndAdventure/RoyalGibraltarRegimentTrainsInTheUk.htm Royal Gibraltar Regiment trains in the UK] Defence News, 13 May 2010</ref>
+|-
+! [[Kenya]]
+| 2010 || British Army Training Unit Kenya|| The Army has a training centre in Kenya, under agreement with the Kenyan government. It provides training facilities for three infantry battalions per year<ref name="Africa">{{cite web | url=http://www.army.mod.uk/operations-deployments/22724.aspx | title=The British Army in Africa | accessdate=2 March 2013}}</ref>
+|}
+
+== Formation and structure ==
+{{British Army Arms}}
+{{Main|Structure of the British Army}}
+
+The structure of the British Army is complex, due to the different origins of its various constituent parts. It is broadly split into the Regular Army (full-time Officers/soldiers and units) and the [[Army Reserve (United Kingdom)|Army Reserve]] (Spare-time Officers/soldiers and units).
+
+In terms of its military structure, it has two parallel organisations, one administrative and one operational.
+
+'''Administrative'''
+* Regiments and Corps. These are listed below (in the template to the right), ranging from the [[Household Cavalry]] to the [[Army Physical Training Corps]] and the [[Royal Logistic Corps]]. Uniquely and somewhat confusingly, the Infantry, which is not a corps but a collection of separate regiments, is administered by 'Divisions' of infantry – [[Guards Division]], [[Queen's Division]], [[Scottish Division]] and so on.<ref>{{harvnb|Heyman|2009|p=105}}.</ref>
+
+'''Operational'''
+* The major operational command is based at [[Andover, Hampshire|Andover]] and is known as "[[Army Headquarters (United Kingdom)|Army Headquarters]]".<ref name=intel>[http://www.dmilt.com/index.php?option=com_content&view=article&id=2506:uk-army-command-reorganization&catid=1:europe&Itemid=57 Army Command reorganization] Defence Marketing Intelligence, 10 November 2011</ref><ref>{{cite web|url=http://www.army.mod.uk/structure/142.aspx |title=Higher Command |publisher=Army.mod.uk |date=1 November 2011 |accessdate=17 August 2012}}</ref> It is split into divisions and subordinate units ranging from regiments to squadrons.
+* [[Division (military)|Divisions]] (1 Div. based in [[Herford]] in Germany and 3 Div. based in [[Bulford]])<ref>{{harvnb|Heyman|2009|p=92}}.</ref>
+** [[Brigade]]s, both fighting and in a non-fighting regional capacity within HQ LF (for example, 43 (Wessex) [[Brigade]] based in [[Bulford]]).
+
+=== Structure of units ===
+
+The standard operational units are structured as follows, although various units have their own structure, conventions, names and sizes:<ref name="SAS">{{cite web | title = British Army Formation & Structure | publisher = WhoDaresWins.com | year = 2011 | url = http://www.whodareswins.com/british-army-formation-structure-setup.html | accessdate = 15 April 2011}}
+</ref>
+
+{| class="wikitable"
+|-
+!Type of Unit
+![[Division (military)|Division]]
+![[Brigade]]
+![[Battalion]] / Regiment
+![[Company (military unit)|Company]]&nbsp;/ [[Squadron (cavalry)|Squadron]]
+![[Platoon]] / [[Troop]]
+![[Section (military unit)|Section]]
+![[Fireteam|Fire Team]]
+|-
+!Contains
+|2–3 Brigades
+|3–5 Battalions
+|5–7 Companies
+|3 Platoons
+|3 Sections
+|2 Fire Teams
+|4 Individuals
+|-
+!Personnel
+|10,000
+|5,000
+|550–750
+|100
+|30
+|8–10
+|4
+|-
+!Commanded by
+|[[Major-General (United Kingdom)|Maj-Gen]]
+|[[Brigadier (United Kingdom)|Brig]]
+|[[Lieutenant Colonel (United Kingdom)|Lt Col]]
+|[[Major (United Kingdom)|Maj]]
+|[[Captain (British Army and Royal Marines)|Capt]], [[Lieutenant|Lt]] or [[2nd Lieutenant#United Kingdom and Commonwealth|2nd Lt]]
+|[[Corporal#United Kingdom|Cpl]]
+|[[Chosen man|LCpl]]
+|}
+
+[[Corps]] are made up of two or more divisions, but now are rarely deployed as a purely national formation due to the size of the British Army.<ref name="SAS"/>
+
+In place of a Battalion, a task-specific [[Battlegroup (army)|Battlegroup]] may be formed. A battlegroup is grown around the core of either an armoured regiment or infantry battalion, and has other units added or removed from it as necessary for its purpose. It results in a mixed formation of armour, infantry, artillery, engineers and support units, typically consisting of between 600 and 700 soldiers under the command of a Lieutenant Colonel.<ref name="SAS"/>
+
+A number of elements of the British Army use alternative terms for battalion, company and platoon. These include the [[Royal Armoured Corps]], [[Corps of Royal Engineers]], [[Royal Logistic Corps]], and the [[Royal Corps of Signals]] who use regiment (battalion), [[Squadron (cavalry)|squadron]] (company) and [[troop]] (platoon). The [[Royal Artillery]] are unique in using the term regiment in place of both [[corps]] and [[battalion]], they also replace company with [[artillery battery|battery]] and platoon with troop.<ref name="SAS"/>
+
+=== Divisions ===
+
+The British Army currently has two operational divisions.<ref>{{harvnb|Heyman|2009|pp=92–93}}</ref>
+
+{| class="wikitable"
+|-
+!Name !! Headquarters !! Subunits
+|-
+|[[File:1ukdiv.svg|50px]] '''[[1st (United Kingdom) Division]]'''
+|[[Herford]], Germany
+|In the future, seven infantry brigades and one logistics brigade.
+|-
+|[[File:British 3rd Infantry Division2.svg|50px]] '''[[3rd Division (United Kingdom)|3rd (United Kingdom) Division]]'''
+|[[Bulford]], [[Salisbury]]
+|Two, in the future, three armoured infantry brigades and one logistics brigade.
+|}
+
+Brigades which are not under 1st (UK) Division at any one time report directly into [[Support Command (United Kingdom)|Support Command]].<ref>[http://www.army.mod.uk/structure/2082.aspx Support Command] Ministry of Defence</ref>
+
+=== Rapid Reaction Force ===
+[[16 Air Assault Brigade]] forms the bulk of the Army's rapid reaction force.
+
+=== Combat support ===
+[[Force Troops Command]], or FTC, forms the basis of the Army's Combat support, containing units ranging from artillery to military police.<ref>[http://www.army.mod.uk/structure/25417.aspx Ministry of Defence: Structure]</ref>
+
+=== Aviation components ===
+
+The British Army operates alongside the [[Royal Air Force]] and the [[Fleet Air Arm]] as part of [[Joint Helicopter Command]], but the army also has its own [[Army Air Corps (United Kingdom)|Army Air Corps]].  Military helicopters of all three services are commanded by Joint Helicopter Command, a joint 2 star headquarters operating under HQ Land Forces.<ref>[http://webarchive.nationalarchives.gov.uk/+/http://www.mod.uk/issues/sdr/jhc.htm Joint Helicopter Command] Strategic Defence Review</ref>
+
+=== Special forces ===
+[[File:uk-sas.svg|150px|right|thumb|alt=SAS winged dagger/flaming sword cap badge with "Who Dares Wins" motto|The SAS [[Cap Badge]].]]
+
+The British Army contributes two of the three [[special forces]] formations within the [[United Kingdom Special Forces]] directorate: [[Special Air Service#22 SAS Regiment|22 Special Air Service Regiment]] and the [[Special Reconnaissance Regiment]].<ref name="PPUK">{{cite web|accessdate=26 March 2010|publisher=[[Parliament of the United Kingdom]]|title=Special Reconnaissance Regiment|url=http://www.publications.parliament.uk/pa/cm200405/cmhansrd/vo050405/wmstext/50405m01.htm#50405m01.html_sbhd5}}</ref>
+
+The [[Special Air Service]] overall comprises one regular regiment and two [[Army Reserve (United Kingdom)|Army Reserve]] regiments.<ref>{{cite web|accessdate=26 March 2010 |publisher=[[Defence Analytical Services Agency]] |title=UK Defence Statistics 2009 |url=http://www.dasa.mod.uk/publications/UK-defence-statistics-compendium/2009/2009.pdf |deadurl=yes |archiveurl=https://web.archive.org/20140201230645/http://www.dasa.mod.uk/publications/UK-defence-statistics-compendium/2009/2009.pdf |archivedate=1 February 2014 }}</ref> The regular regiment, 22 SAS, has its headquarters and depot located in [[Hereford]] and consists of five squadrons: A, B, D, G and Reserve with a training wing.<ref>{{harvnb|Fremont-Barnes|2009|p=62}}</ref> The two reserve regiments, [[Artists Rifles|21 SAS]] and 23 SAS (collectively, the Special Air Service (Reserve) (SAS(R))) are no longer part of the UK's special forces and now form part of [[1st Intelligence, Surveillance and Reconnaissance Brigade]].<ref>Army Briefing Note 120/14, Newly formed Force Troops Command Specialist Brigades: "It commands all of the Army’s Intelligence, Surveillance and Electronic Warfare assets, and is made up of units specifically from the former 1 Military Intelligence Brigade and 1 Artillery Brigade, as well as 14 Signal Regiment, 21 and 23 SAS®."</ref>
+
+The [[Special Reconnaissance Regiment]] (SRR), formed in 2005 from existing assets, undertakes close reconnaissance and special surveillance tasks.<ref name="PPUK"/> The [[Special Forces Support Group]] was formed around 1st Battalion the [[Parachute Regiment (United Kingdom)|Parachute Regiment]], with attached [[Royal Marines]] and [[RAF Regiment]] assets, the unit is also open to any member of the HM Armed Forces. The [[Special Forces Support Group]] are under the Operational Control of Director Special Forces to provide operational manoeuvre support to the elements of United Kingdom Special Forces.<ref>{{cite web|accessdate=26 March 2010|publisher=[[Parliament of the United Kingdom]]|title=Special Forces Support Group|url=http://www.publications.parliament.uk/pa/cm200506/cmhansrd/vo060420/wmstext/60420m01.htm}}</ref>
+
+=== British Overseas Territories military units ===
+Numerous military units were raised historically in British territories, including self-governing and Crown colonies, and protectorates. Whereas the old [[Dominion|Commonwealth Dominions]], such as [[Canada]] and [[Australia]], had their own armies before achieving complete independence, units raised in those territories which remained part of the realm of the UK were, and are, ultimately under the control of the UK government, and do not constitute separate armies. The UK retains responsibility for the defence of all of the fourteen remaining [[British Overseas Territories]]. Although the [[Cayman Islands]] premier has stated the desire to raise a Cayman Islands Defence Force<ref>{{cite web|url=http://www.caymannewsservice.com/crime/2012/03/09/bush-wants-ci-defence-force |title=''Bush wants CI defence force'' |publisher=Cayman News Service |date=13 March 2012 |accessdate=13 September 2013}}</ref> when it can be afforded (it currently has only the [[Cayman Islands Cadet Corps]]),<ref>{{cite web|url=http://www.cicadetcorps.ky/ |title=Cayman Islands Cadet Force |publisher=Cicadetcorps.ky |date=8 June 2013 |accessdate=13 September 2013}}</ref> becoming the fifth, only four of the remaining British Overseas Territories retain locally raised regiments:
+* [[Royal Bermuda Regiment]]<ref>[http://www.mod.uk/DefenceInternet/DefenceNews/TrainingAndAdventure/RoyalAnglianSoldiersBoostBermudaRegiment.htm DefenceNews ArticleRoyal Anglian soldiers boost Bermuda Regiment] Defence News, 19 January 2011,</ref>
+* [[Royal Gibraltar Regiment]]<ref>[http://www.mod.uk/DefenceInternet/DefenceNews/TrainingAndAdventure/RoyalGibraltarRegimentTrainsInUk.htm Royal Gibraltar Regiment trains in UK] Defence News, 12 May 2011</ref>
+* [[Falkland Islands Defence Force]]<ref>[http://www.falklands.info/history/histarticle24.html Falkland Islands Defence Force: 150 years of Voluntary Service] Falklands Info, November 2004</ref>
+* [[Royal Montserrat Defence Force]]<ref>{{cite web|url=http://www.official-documents.gov.uk/document/cm83/8374/8374.pdf |title=UK Government White Paper on Overseas Territories, June, 2012. Page 23. |format=PDF |date= |accessdate=13 September 2013}}</ref>
+
+<gallery class="center" widths="210px" heights="140px">
+Image:Falklandsdf.jpg|Falkland Islands Defence Force on parade in June 2013.
+File:Detachment of Falkland Islands Defence Force.jpg|A detachment of the Falkland Islands Defence Force in ceremonial dress.
+File:Bermuda Regiment PNCO Cadre Promotion Parade.jpg|Royal Bermuda Regiment on parade
+File:Bermuda Regiment.JPG|Royal Bermuda Regiment Soldiers in [[Barbados]] for Cricket World Cup 2007
+File:Changing of the Guard duo - Royal Gibraltar Regiment.jpg|Changing of the Guard - Royal Gibraltar Regiment in 2012.
+File:21 Gun Salute in Gibraltar marking the birth of Prince George of Cambridge 02.jpg|21 Gun Salute in Gibraltar marking the birth of [[Prince George of Cambridge]], 2013.
+</gallery>
+
+=== Royal Navy and RAF ground units ===
+The other armed services have their own infantry units which are not part of the British Army. The [[Royal Marines]] are amphibious [[light infantry]] forming part of the [[Naval Service (United Kingdom)|Naval Service]], and the [[Royal Air Force]] has the [[RAF Regiment]] used for airfield defence, force protection duties and Forward Air Control.<ref>{{cite web|url=http://www.raf.mod.uk/rafregiment/ |title=RAF Regiment |publisher=Raf.mod.uk |date=23 September 2011 |accessdate=28 March 2011}}</ref>
+
+== Recruitment ==
+{{Main|Recruitment in the British Army}}
+The Army mainly recruits within the United Kingdom; it normally has a recruitment target of around 12,000 soldiers per year.<ref>[http://news.bbc.co.uk/1/hi/uk/5261834.stm Army recruitment increases by 9%] BBC News, 18 August 2006</ref> Low unemployment in Britain has resulted in the Army having difficulty in meeting its target. In the early years of the 21st century there has been a marked increase in the number of recruits from other (mostly [[Commonwealth of Nations|Commonwealth]]) countries. In 2006 overseas recruitment, mostly in Commonwealth countries, generated more than 6,000 soldiers from 54 nations; together with the 3,000 Gurkhas, 10% of the British Army are foreign nationals.<ref>[http://www.newstatesman.com/politics/2007/02/british-army-recruitment-iraq Britain's child army] ''New Statesman'', 5 February 2007</ref>
+
+The [[Ministry of Defence (United Kingdom)|Ministry of Defence]] now caps the number of recruits from Commonwealth countries, although this will not affect the Gurkhas. If the trend continues 10% of the army will be from Commonwealth countries before 2012. The cap is in place as some fear the army's [[Britishness|British character]] is being diluted, and employing too many could make the army seen as employing [[mercenaries]].{{sfn|Norton-Taylor|2008}} The minimum recruitment age is 16&nbsp;years (after the end of [[GCSE]]s), although soldiers may not serve on operations below 18&nbsp;years; the maximum recruitment age was raised in January 2007 from 26 to 33&nbsp;years. The normal term of engagement is 22&nbsp;years, and, once enlisted, soldiers are not normally permitted to leave until they have served at least 4&nbsp;years.{{sfn|BBC staff|2007}}
+
+There has been a strong and continuing tradition of recruiting from Ireland including what is now the [[Republic of Ireland]].{{efn|"Army recruitment in Northern Ireland has just revealed that 16 per cent of all those enlisting since April were from south of the border. That figure is up from 10.5 per cent last year – which was in itself more than double for 2006" {{harv|Sharrock|2008}}. }}{{efn|"Between 2005 and 2006, just 3% of recruits entering the military through its recruitment centres in Northern Ireland came from the Republic.  The figure so far this year is 14%, and officers believe it will rise further" {{harv|Buchanan|2008}}.}}{{efn|"There has been a seven-fold increase in Irish recruits to the British armed forces since the recession began. Figures obtained by Fine Gael TD Brian Hayes revealed 10 people with addresses in the Republic of Ireland joined the British military between 2007 and 2008. From 2009 to 2010 this number rose to 85" {{harv|McGarrigle|2010}}. }}{{sfn|Holmes2002|pp=48,55–57,59–65,177–8}} Over 200,000 Irish soldiers fought in the First World War.<ref>{{cite web|url=http://www.qub.ac.uk/sites/irishhistorylive/IrishHistoryResources/ArticlesandLectures/IrelandandtheFirstWorldWar/|title=Ireland and the First World War: the Historical Context.|publisher=School of History and Anthropology}}</ref>{{efn|"Eager to place themselves in the best possible light after the war was over – six months at the most was a common reckoning – Irish Unionist and Nationalist politicians called on their followers to do their duty for their respective causes and enlist. Estimates suggest that up to 200,000 Irishmen of all persuasions eventually fought in the British army between 1914 and 1918. Perhaps as many as 49,000 died" ({{cite web|url=http://www.historytimes.com/fresh-perspectives-in-history/british-and-irish-history/486-remembering-irish-soldiers-in-world-war-i|title=Remembering Irish soldiers in World War I|publisher=History Times}} {{dead link|date=September 2014}})}} More than 60,000 Irishmen from what was then the [[Irish Free State]]{{efn|"Ian Malone's decision also had a long historical precedent. Almost 150,000 Irish soldiers fought in the First World War; 49,000 died. More than 60,000 Irishmen – more than from loyal Ulster – also saw action in the Second World War; like their compatriots in the Great War, all were volunteers. As one of 400 or more men from the republic then serving in the British Army, some of them stationed in Northern Ireland, Ian Malone was part of a familiar Irish story of economic emigration – he was seeking work abroad when there was little at home. And never having left the country, he was no doubt seeking travel and adventure, too" {{harv|Watson|2004}}.}} (now the Republic of Ireland) and 38,000 from [[Northern Ireland]] served in the Second World War,{{sfn|Connolly|p=505}} all volunteered.
+
+=== Oath of allegiance ===
+[[File:Queens.guard.buck.palace.arp.jpg|thumb|right|Troops of the [[Grenadier Guards]] on guard at [[Buckingham Palace]]. Various army regiments supply troops to guard the Royal residences.]]
+
+All soldiers must take an oath of allegiance upon joining the Army, a process known as ''attestation''. Those who wish to swear by [[God in Abrahamic religions|God]] use the following words:
+
+{{quote|I, [soldier's name], swear by Almighty God that I will be faithful and bear true allegiance to [[Elizabeth II|Her Majesty Queen Elizabeth II]], her heirs and successors and that I will as in duty bound honestly and faithfully defend Her Majesty, her heirs and successors in person, [[British Crown|crown]] and dignity against all enemies and will observe and obey all orders of Her Majesty, her heirs and successors and of the generals and officers set over me.<ref>{{cite web|url=http://www.whodareswins.com/british-army-oath-of-allegiance.html#selfless |title=British Army Oath of Allegiance |publisher= |date= |accessdate=29 November 2010}}</ref>}}
+
+Others replace the words "swear by Almighty God" with "solemnly, sincerely and truly declare and affirm".<ref>{{cite web|url=http://www.army.mod.uk/documents/general/v_s_of_the_british_army.pdf |title=Values and Standards of the British Army |format=PDF |date= |accessdate=28 March 2011}}</ref> Under the reign of another monarch, the name of the monarch and all pronouns with gender are replaced appropriately.
+
+=== Training establishments ===
+{{see also|List of British Army installations|Selection and Training in the British Army}}
+[[File:Oldcollegesandhurst2.jpg|thumb|right|The [[Royal Military Academy Sandhurst]] is the home of British Army officer training]]
+* [[Royal Military Academy Sandhurst]] (RMAS) is the officer training establishment. All officers, regular and reserve, attend RMAS at some point in their training.
+* [[Royal School of Artillery]] (RSA) trains the [[Royal Artillery]].
+* [[Royal School of Military Engineering]] (RSME) trains the Corps of [[Royal Engineers]] as well as personnel from across the Armed Forces and other Government Departments in a variety of general engineering and specialist skills.
+* Army Training Units:
+** [[Army Training Regiment|ATR Winchester]]
+** [[Army Training Centre, Pirbright|ATC Pirbright]]
+* Infantry Training Centres:
+** [[Infantry Training Centre (British Army)|Infantry Training Centre, Catterick]]
+** [[Infantry Battle School]], Brecon
+** Support Weapons School, Warminster
+* [[Army Foundation College]] (Harrogate)
+* [[Regional training centre]]s
+* [[Welbeck Defence Sixth Form College]]
+
+== Flags and ensigns ==
+[[File:Royal Corps Transport Vessel, Arezzo.jpg|thumb|An Army landing craft of the [[Royal Logistic Corps]]]]
+The British Army does not have its own specific ensign for the whole Army, unlike the Royal Navy, which uses the [[White Ensign]], and the RAF, which uses the [[Royal Air Force Ensign]]. Instead, the Army has different flags and ensigns, some for the entire army and many for the different regiments and corps. The official flag of the Army as a whole is the [[Union Flag]], flown in a ratio of 3:5. A non-ceremonial flag also exists, which is used at recruiting events, military events and exhibitions. It also flies from the Ministry of Defence building in Whitehall.<ref>{{cite web|url=http://www.britishflags.net/British%20Army.html |title=British Army (non-ceremonial) |publisher=britishflags.net |date= |accessdate=22 October 2010|archiveurl = http://www.webcitation.org/5uKh1taVz |archivedate = 18 November 2010|deadurl=no}}</ref>
+
+Whilst at war, the Union Flag is always used, and this flag represents the Army on [[The Cenotaph, Whitehall|The Cenotaph]] at [[Whitehall]] in London (the UK's memorial to its war dead).<ref>{{cite web|url=http://www.webcitation.org/5kwQhSm7w |title=Whitehall Cenotaph |publisher=Webcitation.org |date= |accessdate=28 March 2011}}</ref>
+
+The British Army has throughout its history operated ships, ports and myriad boats. [[Rigid Raider|boats]], [[landing craft]] and [[Marchwood Military Port|ports]] are still operated by the Army and ensigns exists for vessels commanded by the Army. The [[Royal Logistic Corps]] operates a large fleet of vessels from its base at Marchwood near [[Southampton]].<ref>{{cite web|url=http://www.army.mod.uk/rlc/regiments/17957.aspx |title=17 Port & Maritime Regiment RLC |publisher=Army.mod.uk |date= |accessdate=28 March 2011}}</ref> The [[Royal Engineers]] has had fleets since the introduction of diving in 1838 and was granted an ensign following the foundation of the [[Royal Engineers]] Submarine Mining Service in 1871, where it operated [[sea mine]] laying ships, before transfer of the trade to the [[Royal Navy]]. The Corps maintains a [[Blue Ensign]] defaced by the crest of the [[Board of Ordnance]] from where the Corps developed, which it flies from its fleet and shore establishments that routinely operate boats.<ref>{{cite web|url=http://www.fotw.net/flags/gb%5Erets.html |title=Royal Engineers Ensign |publisher=Fotw.net |date= |accessdate=28 March 2011}}</ref>
+
+Each [[Foot Guards]] and line regiment (excluding [[The Rifles]] and [[Royal Gurkha Rifles]] (RGR)) also has its own flags, known as [[Colours, standards and guidons|Colours]]—normally a Regimental Colour and a Queen's Colour. The design of different Regimental Colours vary but typically the colour has the Regiment's badge in the centre. The RGR carry the [[Queen's Truncheon]] in place of Colours.<ref>{{cite web|url=http://www.thegurkhamuseum.co.uk/Research/History_And_Facts/The_Queens_Truncheon/27 |title=The Queen's Truncheon |publisher=Thegurkhamuseum.co.uk |date= |accessdate=28 March 2011}}</ref>
+
+<gallery class="center" widths="210px" heights="140px">
+File:Flag of the United Kingdom (3-5).svg|Flag Ratio: 3:5. The official flag of the Army.
+File:BritishArmyFlag2.svg|The non-ceremonial flag of the British Army. Sometimes the word ''Army'' in gold letters appears below the badge.
+File:British Army Ensign01.svg|Ensign for general use by the [[Royal Logistic Corps]]
+File:British Army Ensign00.svg|Ensign flown by the [[Royal Logistic Corps]] from vessels commanded by commissioned officers
+File:Royal Engineers Ensign.png|Ensign of the Corps of [[Royal Engineers]]
+</gallery>
+
+== Ranks, specialisms and insignia ==
+{{main|British Army ranks}}
+{| style="border:1px solid #8888aa; background:#f7f8ff; padding:5px; font-size:95%; margin:0 12px 12px 0;" style="margin:auto; width:100%;"
+{{Ranks and Insignia of NATO Armies/OF/Blank}}
+{{Ranks and Insignia of NATO Armies/OF/United Kingdom}}
+|- style="text-align:center;"
+|Abbreviation:||FM||Gen||Lt Gen||Maj Gen||Brig||Col||Lt Col||Maj||Capt||Lt||2Lt||OCdt||
+|-
+|colspan = 5|
+* <sup>1</sup>[[Abeyance|Rank in abeyance]].
+|}
+{| style="border:1px solid #8888aa; background:#f7f8ff; padding:5px; font-size:95%; margin:0 12px 12px 0;" style="margin:auto; width:100%;"
+{{Ranks and Insignia of NATO Armies/OR/Blank}}
+{{Ranks and insignia of NATO armies/OR/United Kingdom}}
+|- style="text-align:center;"
+|Abbreviation:||colspan=3|Cdr||colspan=3|WO1||colspan=2|WO2||colspan=2|S/Sgt /<br>C/Sgt||colspan=6|Sgt||colspan=6| ||colspan=2|Cpl /<br>Bdr||colspan=2|L/Cpl /<br>L/Bdr||colspan=7|Pte
+|}
+
+Every regiment and corps has its own distinctive insignia, such as [[cap badge]], [[beret]], [[tactical recognition flash]] and [[stable belt]].
+
+Throughout the army there are many official specialisms. They do not affect rank, but they do affect pay bands:
+{{Div col |cols=2}}
+* [[Royal Irish Regiment (1992)|Ranger]]
+* Paratrooper
+* Guardsman
+* Musician
+* Drummer
+* Piper
+* [[Royal Engineers|Survey Technician]]
+* Farrier
+* Biomedical Scientist
+* Driver Tank Transporter
+* Registered General Nurse
+* Radar Operator
+* Telecom Op (Special)
+* Meteorologist
+* Aircraft Technician
+* [[Royal Engineers|Military Engineer Bomb Disposal]]
+* [[Special Air Service]] Soldier
+* Telecom Op (Linguist)
+* [[Ammunition Technician]]
+* Operator Special Intelligence
+* [[Royal Engineers|Construction Materials Technician]]
+* Driver Specialist
+* [[Royal Engineers|Armoured Engineer]]
+* Royal Armoured Corps Crewman
+* [[Royal Engineers|Army Diver]]
+* Sapper
+{{Div col end}}
+
+== Tommy Atkins and other nicknames ==
+{{further2|[[List of nicknames of British Army regiments]]}}
+A long established nickname for a British soldier has been ''[[Tommy Atkins]]'' or ''Tommy'' for short. The origins are obscure but most probably derive from a specimen army form circulated by the Adjutant-General Sir Harry Calvert to all units in 1815 where the blanks had been filled in with the particulars of a Private Thomas Atkins, No 6 Company, 23rd Regiment of Foot. German soldiers in both [[world war]]s would usually refer to their British opponents as ''Tommys''. Present-day British soldiers are often referred to as ''Toms'' or just ''Tom''. The British Army magazine ''Soldier'' has a regular cartoon strip, ''Tom'', featuring the everyday life of a British soldier. Outside the services, soldiers are generally known as ''squaddies'' by the [[Red tops|British popular press]], and the general public.{{sfn|Burnside|2010}}
+
+Another nickname which applies only to soldiers in Scottish regiments is ''Jock'', derived from the fact that in Scotland the common Christian name John is often changed to Jock in the vernacular.
+Welsh soldiers are occasionally referred to as ''Taffy'' or just ''Taff''. This may only apply to those from the Taff-Ely Valley in [[South Wales]], where a large portion of men, left unemployed from the decline of the coal industry in the area, enlisted during the First and Second World Wars. Alternatively, it is derived from the supposed Welsh pronunciation of ''Dafydd''<ref>The Concise Oxford Dictionary ISBN 978-0-19-861131-8</ref>—the vernacular form of Dave or Davey, the patron Saint of Wales being Saint David.<ref>''Collins English Dictionary'' ISBN 0-00-716334-7</ref> As a nickname for the Welsh it has existed since 1699.{{sfn|OED Taffy|2013}}
+
+
+Junior officers in the army, especially those from a privileged background, are sometimes known as ''Ruperts'' by the [[Other ranks (UK)|Other ranks]].{{sfn|OED Rupert|2013}} This nickname is believed to have been derived from the children's comic book character [[Rupert Bear]] who epitomises traditional public school values and from the purported preponderance of that particular forename amongst young men from a public school background.{{sfn|Beevor|1990|p={{page needed|date=September 2014}} }}
+
+== See also ==
+{{Portal|British Army}}
+* [[Army Cadet Force]] (ACF)
+* [[ArmyNET]]
+* [[British Army order of precedence]]
+* [[British Army Uniform]]
+* [[British campaign medals]]
+* [[British military history]]
+* [[Future of the British Army (Army 2020)]]
+* [[Jankers]] (army punishments)
+* [[List of British Army installations]]
+* [[Ministry of Defence (United Kingdom)|Ministry of Defence]]
+* [[Modern equipment of the British Army]]
+* [[Red coat (British army)|Redcoat]]
+* [[Royal Air Force]]
+* [[Royal Navy]]
+* [[Sexual orientation and military service]]
+* [[Army Reserve (United Kingdom)]]
+* [[United Kingdom Special Forces]]
+* [[Volunteer Force]]
+
+== Notes ==
+{{notelist|4}}
+
+== References ==
+{{Reflist|30em}}
+
+== Bibliography ==
+* {{cite book |ref=harv |last=Aptheker |first=Herbert |year=1960 |title=The American Revolution, 1763–1783: a history of the American people: an interpretation |publisher=International Publishers Co |series=History of the American people |volume=2 |page=26  |url=https://books.google.com/?id=gSzhKlXUhmIC |isbn=0-7178-0005-9}}
+* {{cite book|ref=harv  |last=Bates |first=Gill |year=2010 |title=Rising Star: China's New Security Diplomacy |publisher=Brookings Institution Press |page=[https://books.google.com/?id=lXkvEIUmg68C&pg=PA25&dq=%22nationalist+Boxers%22#v=onepage&q=%22nationalist%20Boxers%22&f=false 25] |isbn=978-0-8157-0453-9}}
+* {{cite news|ref=harv |author=BBC staff  |date=6 January 2007 |title=Recruitment Age for Army Raised | publisher=BBC News |url=http://news.bbc.co.uk/1/hi/uk/6236345.stm  |archiveurl=http://www.webcitation.org/5uKh1JTZ7 |archivedate=18 November 2010 |deadurl=no}}
+* {{cite book|ref=harv |last=Beevor |first=Antony |authorlink=Antony Beevor |year=1990 |title=Inside the British Army |location=London |publisher=Chatto & Windus |isbn= 0-7011-3466-6}}
+* {{cite news|ref=harv |last=Buchanan |first=Michael |date=27 November 2008 |url=http://news.bbc.co.uk/1/hi/uk/7749793.stm|title=Irish swell ranks of UK military |publisher=BBC}}
+* {{cite news|ref=harv |last=Burnside |first=Iain |date=19 May 2010 |url=http://www.guardian.co.uk/stage/2010/may/19/war-musical-lads-in-their-hundreds |title=Songs for squaddies: the war musical Lads in Their Hundreds |publisher=[[The Guardian]]}}
+* {{cite book|ref=harv |last=Cassidy |first=Robert M |year=2006 |title=Counterinsurgency and the global war on terror: military culture and irregular war |publisher=Greenwood Publishing Group |isbn=0-275-98990-9}}
+* {{cite EB1911 |ref=harv |title="Constantinople, the capital of the Turkish Empire|volume=7 |page=3 |url=http://www.gutenberg.org/files/30935/30935-h/30935-h.htm}}
+* {{cite book|ref=harv |last=Connolly  |first=Sean J. |title=The Oxford Companion to Irish history|date=1998|publisher=Oxford University Press|location=Oxford|page=505|isbn=9780192116956}}
+* {{cite book|ref=harv |last=Ensor |first=(Sir) Robert |year=1980 |origyear=1936  |title=England: 1870–1914. (The Oxford History of England) |volume=XIV |publisher=Oxford University Press|location=Oxford |isbn=0-19-821705-6 |edition=Revised}}
+* {{cite book|ref=harv |last=Fremont-Barnes |first=Gregory |year=2009 |title=Who Dares Wins&nbsp;– The SAS and the Iranian Embassy Siege 1980 |publisher=Osprey Publishing |isbn=1-84603-395-0}}
+* {{cite book|ref=harv |last=Gilbert |first=Martin |year=2005 |title=Churchill and America |publisher=[[Simon and Schuster]] |page=[https://books.google.com/?id=vF7wGAzgwfQC&pg=PA301&dq=normandy+landings+british+american+61,715#v=onepage&q=normandy%20landings%20british%20american%2061%2C715&f=false 301] |isbn=0-7432-9122-0}}
+* {{cite book|ref=harv |last=Heyman |first=Charles  |year=2009 |title=The Armed Forces of the United Kingdom 2010–2011|publisher=Pen & Sword |isbn=978-1-84884-084-3}}
+* {{cite book|ref=harv |last=Holmes |first=Richard  |year=2002 |title=Redcoat: The British soldier in the Age of Horse and Musket |publisher=HarperCollins  |pages=48,55–57,59–65,177–8 |isbn=978-0-00-653152-4}}
+* {{cite book|ref=harv |last=Mallinson |first=Allan |year=2009 |title=The Making of the British Army |publisher=Bantam Press |isbn=978-0-593-05108-5}}
+* {{cite news|ref=harv |last=McGarrigle |first=Heather |date=6 December 2010 |url=http://www.belfasttelegraph.co.uk/news/local-national/uk/british-army-sees-more-irish-recruits-15022631.html |title=British army sees more Irish recruits |newspaper=[[Belfast Telegraph]]}}
+* {{cite book|ref=harv |last=McKernan |first=Michael | year = 2005 |title=Northern Ireland in 1897–2004 Yearbook 2005 |publisher=Stationery Office  |page=17 | isbn=978-0-9546284-2-0}}
+* {{cite book|ref=harv |last=Miller |first=John |year=2000 |title=James II |publisher=Yale University Press  |isbn=978-0-300-08728-4}}
+* {{cite news|ref=harv |last=Norton-Taylor  |first=Richard  |date= 5 April 2008 |url=http://www.guardian.co.uk/uk/2008/apr/05/military.defence |title=Commonwealth recruitment caps & current commonwealth troop levels.| newspaper=[[The Guardian]] |location=London |archiveurl=http://www.webcitation.org/5uKh00P9q |archivedate=18 November 2010 |deadurl=no}}
+* {{cite book|ref={{harvid|OED Rupert|2013}} |author=OED staff |chapter=Rupert, n. |date=June 2013 |title=Oxford English Dictionary |edition=Online |publisher=Oxford University Press |url=http://www.oed.com/view/Entry/269065?redirectedFrom=rupert}}
+* {{cite book|ref={{harvid|OED Taffy|2013}} |author=OED staff |chapter=Taffy, n.2 |date=June 2013 |title=Oxford English Dictionary |edition=Online |publisher=Oxford University Press |url=http://www.oed.com/view/Entry/197006?rskey=1LEQ6y&result=2&isAdvanced=false}}
+* {{cite journal|ref=harv |last=Ripley  |first=Tim |date=10 December 2008 |title=UK Army Air Corps received Dauphins |journal=Jane's Defence Weekly |volume=45 |issue=50|page=10}}
+* {{cite book|ref=harv |author=Royal Scots Greys |year=1840 |title=Historical record of the Royal regiment of Scots dragoons: now the Second, or Royal North British dragoons, commonly called the Scots greys, to 1839 |page=[https://books.google.com/books?id=8UEIAAAAQAAJ&pg=PA56#v=onepage&q&f=false 56]-57}}
+* {{cite news|ref=harv |last=Sharrock |first=David |date=10 September 2008 |url=http://www.timesonline.co.uk/tol/news/uk/article4724617.ece|title=Irish recruits sign up for British Army in cross-border revolution |location=London |publisher=The Times}}
+* {{cite news|ref=harv |author=SMH Military correspondent |date=26 October 1939 |title=British Army Expansion|url=https://news.google.co.uk/newspapers?id=lE4RAAAAIBAJ&sjid=KJUDAAAAIBAJ&pg=7292,3736980&dq=army+britain+number&hl=en |accessdate=18 June 2010 |newspaper=The Sydney Morning Herald |page=5}}
+* {{cite news|ref=harv |last=Summers |first=Chris |date=22 July 2011 |url=http://www.bbc.co.uk/news/magazine-14218909 |title=The time when the British army was really stretched |publisher=BBC  |accessdate=17 August 2012}}
+* {{cite book|ref=harv |last=Taylor |first=AJP |authorlink=A.J.P. Taylor |year=1976 |title=The Second World War an illustrated history |publisher=Penguin books |isbn=0-14-004135-4}}
+* {{cite web|ref=harv |last=Taylor |first=Claire |last2=Brooke-Holland |first2=Louisa |date=28 February 2012 |title=Armed Forces Redundancies |url=http://www.parliament.uk/briefing-papers/SN05951.pdf |publisher=House of Commons |accessdate=13 May 2012}}
+* {{cite news|ref=harv  |last=Watson |first=Philip |date=19 March 2004|title=Ian's death brought people together |url=http://www.telegraph.co.uk/culture/3614016/Ians-death-brought-people-together.htm | location=London |newspaper=[[The Daily Telegraph]]}}
+
+== Further reading ==
+* {{cite book|last=Holmes|first=Richard|authorlink=Richard Holmes (military historian)|title=Soldiers: Army Lives and Loyalties from Redcoat to Dusty Warriors|publisher=HarperCollins|year=2011}}
+* {{cite book |title=The Oxford History of the British Army |editor-first=David |editor-last=Chandler |editor2-first=Ian |editor2-last=Beckett |publisher=Oxford Paperbacks |year=2003}}
+
+== External links ==
+{{Commons category|British Army}}
+* [http://www.army.mod.uk/ British Army Website]
+
+{{United Kingdom Ministry of Defence}}
+{{Armies in Europe}}
+{{ModernUKInfWeaponsNav}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:British Army}}
+[[Category:1707 establishments in Great Britain]]
+[[Category:British Armed Forces|Army]]
+[[Category:British Army| ]]
+[[Category:Ministry of Defence (United Kingdom)]]
+[[Category:Military of the United Kingdom]]
+[[Category:Military units and formations established in 1707]]
+[[Category:Wars involving the United Kingdom]]

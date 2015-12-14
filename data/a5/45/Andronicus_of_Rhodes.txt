@@ -1,0 +1,42 @@
+'''Andronicus of Rhodes''' ({{lang-el|Ἀνδρόνικος ο Ρόδιος}}, ''Andrónikos o Rhódios''; {{lang-la|Andronicus Rhodius}}; {{fl.|{{c.|60}}}}&nbsp;BC) was a [[Greek philosophy|Greek philosopher]] from [[Rhodes]] who was also the head ([[scholarch]]) of the [[Peripatetic school]]. He is most famous for publishing a new edition of the works of [[Aristotle]] that forms the basis of the texts that survive today.
+<ref>{{cite journal|last1=Falcon|first1=Andrea|last2= Zalta|first2=Edward N.|title=Commentators on Aristotle|journal=The Stanford Encyclopedia of Philosophy|publisher=[[Stanford University]]|volume=Summer 2012|url=http://plato.stanford.edu/archives/sum2012/entries/aristotle-commentators/|accessdate=2013-03-03}}</ref>
+{{TOClimit|2}}
+==Life==
+Little is known about his life. He is reported to have been the eleventh [[scholarch]] of the Peripatetic school.<ref>Ammonius, ''In de Int.'' 5.24</ref> He taught in [[Rome]], about 58 BC, and was the teacher of [[Boethus of Sidon]], with whom [[Strabo]] studied.<ref>Strabo, xiv.; Ammonius, ''in Aristot. Categ.''.</ref>
+
+==Works of Aristotle==
+Andronicus is of special interest in the history of philosophy, from the statement of [[Plutarch]],<ref>Plutarch, ''Sulla'' c. 26</ref> that he published a new edition of the works of [[Aristotle]] and [[Theophrastus]], which formerly belonged to the library of [[Apellicon]], and were brought to [[Rome]] by [[Lucius Cornelius Sulla|Sulla]] with the rest of Apellicon's library in 84 BC. [[Tyrannion of Amisus|Tyrannion]] commenced this task, but apparently did not do much towards it.<ref>Comp. Porphyry, ''Vit. Plotin.'' c. 24; Boethius, ''ad Aristot. de Interpret.''</ref> The arrangement which Andronicus made of Aristotle's writings seems to be the one which forms the basis of our present editions and we are probably indebted to him for the preservation of a large number of Aristotle's works.{{sfnp|Smith|1870}}
+
+==Writings==
+Andronicus wrote a work upon Aristotle, the fifth book of which contained a complete list of the philosopher's writings, and he also wrote commentaries upon the ''Physics'', ''Ethics'', and ''Categories''.  None of these works is extant.  Two treatises are sometimes erroneously attributed to him, one ''On Emotions'', the other a commentary on Aristotle's ''Ethics'' (really by [[Constantine Palaeocapa]] in the 16th century, or by [[John Callistus]] of Thessalonica).{{sfnp|EB|1911}}
+
+==References==
+===Citations===
+{{reflist}}
+===Bibliography===
+* [[Jonathan Barnes]], ''Roman Aristotle'', in:  Jonathan Barnes  & Miriam Griffin: ''Philosophia Togata II. Plato and Aristotle at Rome'', New York: Oxford University Press, 1997, pp. 1-69 (on Andronicus, 24–44).
+* Ingemarg Düring, ''Aristotle in the Ancient Biographical Tradition'' Göteborg, 1957 (reprint Garland 1987).
+* {{citation |contribution=[[s:Encyclopædia Britannica, Ninth Edition/Andronicus of Rhodes|Andronicus of Rhodes]] |title=''[[s:Encyclopædia Britannica, Ninth Edition|''Encyclopædia Britannica'', 9th ed.]], [[s:Encyclopædia Britannica, Ninth Edition/Volume II|Vol.&nbsp;II]]'' |editor-last=Baynes |editor-first=Thomas Spencer |display-editors=0 |publisher=Charles Scribner's Sons |location=New York |date=1878 |ref={{harvid|EB|1878}} |p=23 }}.
+* {{citation |contribution=[[s:1911 Encyclopædia Britannica/Andronicus of Rhodes|Andronicus of Rhodes]] |title=''[[s:1911 Encyclopædia Britannica|''Encyclopædia Britannica'', 11th ed.]], [[s:1911 Encyclopædia Britannica/Volume I|Vol.&nbsp;I]]'' |editor-last=Chisholm |editor-first=Hugh |editor2-last=Phillips |editor2-first=Walter Alison |display-editors=0 |publisher=Cambridge University Press |location=[[Cambridge, England|Cambridge]] |date=1911 |ref={{harvid|EB|1911}} |p=976}}.
+* Friedrich von Littig, ''Andronikos von Rhodos'', t. I München,1890, t. II Erlangen, 1894, t. III Erlangen, 1895.
+* [[:de:Paul Moraux|Paul Moraux]], ''Les listes anciennes des ouvrages d'Aristote'', Louvain, 1951.
+* Paul Moraux, ''Der Aristotelismus bei den Griechen von Andronikos bis Alexander von Aphrodisias''. Bd. 1: ''Die Renaissance des Aristotelismus im 1. Jahrhundert vor Christus''. Berlin, New York: de Gruyter, 1973, pp. 45-141.
+*{{SmithDGRBM|wstitle=Andronicus of Rhodes}}
+
+==External links==
+{{Wikisource1911Enc}}
+{{wikisource|Dictionary of Greek and Roman Biography and Mythology/Andronicus of Rhodes|Andronicus of Rhodes<br/>in<br/>Dictionary of Greek and Roman Biography and Mythology}}
+* [http://www.ontology.co/corpus-aristotelicum.htm The Rediscovery of the Corpus Aristotelicum] with an annotated bibliography
+
+{{Peripatetics}}
+
+{{Authority control}}
+{{DEFAULTSORT:Andronicus Of Rhodes}}
+[[Category:1st-century BC Greek people]]
+[[Category:1st-century BC philosophers]]
+[[Category:Commentators on Aristotle]]
+[[Category:Hellenistic-era philosophers]]
+[[Category:Roman-era Peripatetic philosophers]]
+[[Category:Roman-era philosophers in Rome]]
+[[Category:Roman-era Rhodian philosophers]]
+[[Category:Greek ethicists]]

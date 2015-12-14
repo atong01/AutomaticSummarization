@@ -1,0 +1,37 @@
+{{refimprove|date=April 2014}}
+
+[[Image:Confluence point 53N 0.jpg|thumb|upright|right|A GPS unit at confluence 53N 0, in [[Lincolnshire]], [[England]]]]
+The '''Degree Confluence Project''' is a [[World Wide Web]]-based, all-volunteer project which aims to have people visit each of the [[integer]] [[Degree (angle)|degree]] intersections of [[latitude]] and [[longitude]] on [[Earth]], posting [[photograph]]s and a narrative of each visit online. The project describes itself as "an organized [[Sampling (statistics)|sampling]] of the [[Earth|world]]".
+
+==Requirements==
+The precise location of each degree confluence uses the [[WGS 84]] horizontal datum, and visitors to degree confluences almost always make use of [[Global Positioning System|GPS]] receivers. For a ''successful visit'', the visitor must get within 100 metres of the confluence point, and post a narrative and several photographs to the project website. A visit, or attempted visit, which does not conform to these rules may still be recorded on the website as an ''incomplete visit''. The project encourages visits to degree confluences which have been visited previously, and many confluence points in [[North America]] and [[Europe]] have been visited several times.
+
+The total number of degree confluences is 64,442,<ref>Latitude lines 89°N to 89°S (179), multiplied by 360° of longitude (360), plus the two poles (2) = 179 &times; 360 + 2 = 64,442.</ref> of which 21,543 are on land, 38,409 on water, and 4,490 on the [[Antarctic]] and [[Arctic]] ice caps.<ref>[http://www.confluence.org/infoconf.php#location Classifications as of August 4, 2007]</ref> The project categorizes degree confluences as either ''primary'' or ''secondary''. A confluence is primary only if it is on land or within sight of land. In addition, at higher [[latitude]]s only some points are designated primary, because confluences crowd together near the [[Geographic pole|poles]].<ref>[http://www.confluence.org/infoconf.php#poles Poles Problem]</ref> Both primary and secondary confluences may be visited and recorded.
+
+== History ==
+The project was started by Alex Jarrett in February 1996 because he "liked the idea of visiting a location represented by a round number such as [[43rd parallel north|43°00'00"N]] [[72nd meridian west|72°00'00"W]]. What would be there? Would other people have recognized this as a unique spot?"<ref>[http://www.confluence.org/infodcp.php#history Project History]</ref>
+
+As of July 2014, 6,298 (38.53%) of 16,347 primary confluences have been visited, covering 188 countries and territories.<ref>http://confluence.org/projectstats.php</ref>  The project's website is hosted by [[ibiblio]].
+
+== Milestones ==
+* First degree confluence visit posted to the website: {{coord|43|N|72|W|name=First DCP entry}} in New Hampshire, USA by Alex Jarrett (project founder) and Peter Cline on February 20, 1996. (Note that some degree confluence visits that pre-date this visit have since been posted on the project's website.)
+* Highest confluence:  {{coord|33|N|80|E|name=Highest confluence}} in Kuba, Tibet at 19,143&nbsp;feet (5,835&nbsp;m), first visited by [[Greg Michaels]] and Robert Whitfield on May 29, 2005.
+* Lowest confluence:  {{coord|30|N|27|E|name=Lowest confluence}} in Matrūh, Egypt at -255&nbsp;feet (-78&nbsp;m), first visited by Dave Morrison, Steve Price and Tony Carlisle on December 4, 2004.
+
+== See also ==
+* [[Geocaching]]
+* [[Geograph British Isles project]]
+* [[Geo-wiki]]
+
+== Notes ==
+{{Reflist}}
+
+== External links ==
+* [http://www.confluence.org/ Degree Confluence Project website]
+* [http://grist.org/list/the-confluence-project-is-photographing-every-latitudelongitude-intersection-on-earth/ Grist article on project 2 Oct. 2012]
+
+{{geographical coordinates}}
+
+[[Category:Photography websites]]
+[[Category:Global Positioning System]]
+[[Category:Outdoor locating games]]

@@ -1,0 +1,485 @@
+{{good article}}
+{{Taxobox
+| name = Canids<ref name=msw3>{{MSW3 Wozencraft | pages = | id = 14000691}}</ref>
+| fossil_range =
+{{Fossil range|39.75|0}}Late [[Eocene]]-[[Holocene]]
+| image = Familia Canidae.jpg
+| image_caption = Major extant canid genera left-to-right, top-to-bottom: ''[[Canis]]'', ''[[Cuon]]'', ''[[Lycaon (genus)|Lycaon]]'', ''[[Cerdocyon]]'', ''[[Chrysocyon]]'', ''[[Speothos]]'', ''[[Vulpes]]'', ''[[Nyctereutes]]'', ''[[Otocyon]]'' and ''[[Urocyon]]''
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| classis = [[Mammal]]ia
+| ordo = [[Carnivora]]
+| subordo = [[Caniformia]]
+| familia = '''Canidae'''
+| familia_authority = [[Johann Fischer von Waldheim|G. Fischer de Waldheim]], 1817
+| subdivision_ranks = Genera and species
+| subdivision = See text
+}}
+
+The [[family (biology)|biological family]] '''Canidae''' {{IPAc-en|ˈ|k|æ|n|ɨ|d|iː}}
+<ref>Canidae. Dictionary.com. The American Heritage Stedman's Medical Dictionary. Houghton Mifflin Company. http://dictionary.reference.com/browse/Canidae (accessed: February 16, 2009).</ref> is a lineage of [[carnivoran]]s that includes [[dog|domestic dog]]s, [[gray wolf|wolves]], [[fox]]es, [[jackal]]s, [[coyote]]s, and many other [[Extant taxon|extant]] and [[Extinction|extinct]] dog-like mammals. A member of this family is called a '''canid''' ({{IPAc-en|ˈ|k|æ|n|ɨ|d}}, {{IPAc-en|ˈ|k|eɪ|n|ɨ|d}}).<ref>Canid [http://www.merriam-webster.com/dictionary/canid Merriam-Webster.com. Canid definition] Merriam-Webster. Retrieved 2014-05-27</ref> The Canidae family is divided into two [[Tribe (biology)|tribes]]: the Canini (dogs, wolves, jackals, and some South American "foxes") and the Vulpini (true foxes).
+
+Canids have a long evolutionary history. In the [[Eocene]], about 50 million years ago, the carnivorans split into two lineages, the [[Caniformia|caniforms]] (dog-like) and [[Feliformia|feliforms]] (cat-like). By the [[Oligocene]], some ten million years later, the first proper canids had appeared and the family had split into three subfamilies, [[Hesperocyoninae]], [[Borophaginae]], and [[Caninae]]. Only the last of these has survived until the present day.
+
+Canids are found on all continents except Antarctica and vary in size from the 2-m-long (6&nbsp;ft 7 in) [[gray wolf]] to the 24-cm-long (9.4&nbsp;in) [[fennec fox]]. The body forms of canids are similar, typically having long muzzles, upright ears, teeth adapted for cracking bones and slicing flesh, long legs, and bushy tails. They are mostly social animals, living together in family units or small groups and behaving cooperatively. Typically, only the dominant pair in a group breeds, and a litter of young is reared annually in an underground den. Canids communicate by scent signals and by vocalizations. One canid, the domestic dog (including the dingo), long ago entered into a partnership with humans and today remains one of the most widely kept domestic animals.
+
+==Phylogenetic relationships==
+[[File:MSU V2P1a - Vulpes, Nyctereutes, Cuon & Canis skulls.png|left|thumb|Skulls of various Canid genera; ''[[Vulpes]]'' ([[corsac fox]]), ''[[Nyctereutes]]'' ([[raccoon dog]]), ''[[Cuon]]'' ([[dhole]]) and ''[[Canis]]'' ([[golden jackal]])]]
+Within the Canidae, the results of [[allozyme]] and [[chromosome]] analyses have previously suggested several [[Phylogenetics|phylogenetic]] divisions:
+# The wolf-like canids, (genus ''Canis'', ''Cuon'' and ''Lycaon'') including the dog, [[gray wolf]] (''Canis lupus''), [[red wolf]] (''Canis rufus''), [[eastern wolf]] (''Canis lycaon''), [[coyote]] (''Canis latrans''), [[golden jackal]] (''Canis aureus''), [[Ethiopian wolf]] (''Canis simensis''), [[black-backed jackal]] (''Canis mesomelas''), [[side-striped jackal]] (''Canis adustus''), [[dhole]] (''Cuon alpinus''), and [[African wild dog]] (''Lycaon pictus'').<ref name=wayne1993/>
+# The fox-like canids, which include the [[kit fox]] ("Vulpes aelox"), [[red fox]] (''Vulpes vulpes''), [[Cape fox]] (''Vulpes chama''), [[Arctic fox]] (''Vulpes lagopus''), and [[fennec fox]] (''Vulpes zerda'').<ref name=wayne1993/>
+# The South American canids, including the [[bush dog]] (''Speothos venaticus''), [[hoary fox]] (''Lycalopex uetulus''), [[crab-eating fox]] (''Cerdocyon thous'') and [[maned wolf]].<ref name=wayne1993/>
+# Various [[monotypic taxon|monotypic taxa]], including the [[bat-eared fox]] (''Otocyon megalotis''), [[gray fox]] (''Urocyon cinereoargenteus''), and [[raccoon dog]] (''Nycteruetes procyonoides'').<ref name=wayne1993/>
+
+{{Cladogram|title=Canidae family|align=left
+|caption=Cladogram of Canidae from Lindblad-Toh (2005)<ref name="lindblad-toh">{{Cite journal | last1 = Lindblad-Toh | first1 = K. | last2 = Wade | first2 = C. M. | last3 = Mikkelsen | first3 = T. S. | last4 = Karlsson | first4 = E. K. | last5 = Jaffe | first5 = D. B. | last6 = Kamal | first6 = M. | last7 = Clamp | first7 = M. | last8 = Chang | first8 = J. L. | last9 = Kulbokas | first9 = E. J. | last10 = Zody | doi = 10.1038/nature04338 | first10 = M. C. | last11 = Mauceli | first11 = E. | last12 = Xie | first12 = X. | last13 = Breen | first13 = M. | last14 = Wayne | first14 = R. K. | last15 = Ostrander | first15 = E. A. | last16 = Ponting | first16 = C. P. | last17 = Galibert | first17 = F. | last18 = Smith | first18 = D. R. | last19 = Dejong | first19 = P. J. | last20 = Kirkness | first20 = E. | last21 = Alvarez | first21 = P. | last22 = Biagi | first22 = T. | last23 = Brockman | first23 = W. | last24 = Butler | first24 = J. | last25 = Chin | first25 = C. W. | last26 = Cook | first26 = A. | last27 = Cuff | first27 = J. | last28 = Daly | first28 = M. J. | last29 = Decaprio | first29 = D. | last30 = Gnerre | first30 = S. | title = Genome sequence, comparative analysis and haplotype structure of the domestic dog | journal = Nature | volume = 438 | issue = 7069 | pages = 803–819 | year = 2005 | pmid =  16341006| pmc = | url =| bibcode = 2005Natur.438..803L | display-authors = 29 }}</ref>
+|clade={{clade |style=font-size:75%; line-height:75%
+|label1=Canidae
+|1={{clade
+ |1={{clade
+  |1=[[Island fox]]
+  |2=[[Gray fox]] }}
+ |2={{clade
+  |1={{clade
+   |1={{clade
+    |1={{clade
+     |1=[[African wild dog]]
+     |2={{clade
+      |1=[[Dhole]]
+      |2={{clade
+       |1=[[Ethiopian wolf]]
+       |2={{clade
+        |1={{clade
+         |1=[[Coyote]]
+         |2={{clade
+          |1=[[Gray wolf]]
+          |2=[[Dog]] }} }}
+        |2=[[Golden jackal]] }} }} }} }}
+    |2={{clade
+     |1=[[Black-backed jackal]]
+     |2=[[Side-striped jackal]] }} }}
+   |2={{clade
+    |1={{clade
+     |1=[[Bush dog]]
+     |2=[[Maned wolf]] }}
+    |2={{clade
+     |1={{clade
+      |1={{clade
+       |1={{clade
+        |1=[[Hoary fox]]
+        |2={{clade
+         |1=[[Darwin's fox]]
+         |2={{clade
+          |1={{clade
+           |1=[[South American gray fox|Chilla]]
+           |2=[[Pampas fox]] }}
+          |2={{clade
+           |1=[[Culpeo fox]]
+           |2=[[Sechuran fox]] }} }} }} }}
+       |2=[[Crab-eating fox]] }}
+      |2=[[Short-eared dog]] }}
+     |2={{clade
+      |1=[[Bat-eared fox]]
+      |2={{clade
+       |1=[[Raccoon dog]]
+       |2={{clade
+        |1={{clade
+         |1=[[Fennec fox]]
+         |2=[[Blanford's fox]] }}
+        |2={{clade
+         |1=[[Cape fox]]
+         |2={{clade
+          |1={{clade
+           |1={{clade
+            |1=[[Red fox]]
+            |2=[[Ruppell's fox]] }}
+           |2=[[Corsac fox]] }}
+          |2={{clade
+           |1=[[Kit fox]]
+           |2=[[Arctic fox]] }} }} }} }} }} }} }} }} }} }} }} }} }}
+
+[[DNA]] analysis shows that the first three form [[Monophyly|monophyletic]] [[cladistics|clades]]. The wolf-like canids and the fox-like canids together form the tribe Canini.<ref>{{cite book |title=The Behavioural Biology of Dogs |last=Jensen |first=Per |year=2007 |publisher=CABI |isbn=978-1-84593-188-9 |pages=11–13 |url=http://books.google.com/?id=SpkSd__EdKYC&pg=PA3&dq=Tribe+Canini+Vulpini }}</ref> Molecular data imply a North American origin of living Canidae some ten million years ago and an African origin of wolf-like canines (''Canis'', ''Cuon'', and ''Lycaon''), with the jackals being the most [[Basal (phylogenetics)|basal]] of this group. The South American clade is rooted by the maned wolf and bush dog, and the fox-like canids by the fennec fox and Blanford's fox. The grey fox and island fox are basal to the other clades, however this topological difference is not strongly supported.<ref name=Lindblad-toh2005>{{cite  doi| 10.1038/nature04338}}</ref>
+
+==Evolution==
+The Canidae today includes a diverse group of some 34 species ranging in size from the [[maned wolf]] with its long limbs to the short-legged [[bush dog]]. Modern canids inhabit forests, tundra, savannahs and deserts throughout tropical and temperate parts of the world. The evolutionary relationships between the species have been studied in the past using [[Morphology (biology)|morphological]] approaches but more recently, molecular studies have enabled the investigation of [[Phylogenetics|phylogenetic relationships]]. In some species, [[genetic divergence]] has been suppressed by the high level of [[gene flow]] between different populations and where the species have hybridized, large [[hybrid zone]]s exist.<ref name=Wayne>{{cite web |url=http://wooferhouse.net/Links/MolecularEvolutionOfTheDogFamily/MolecularEvolutionOfTheDogFamily.htm |title=Molecular evolution of the dog family |author=Wayne, Robert K. |accessdate=2014-05-27}}</ref>
+
+===Eocene epoch===
+[[Carnivoran]]s evolved from [[miacoid]]s about 55 million years ago ([[Mya (unit)|Mya]]) during the late [[Paleocene]].<ref>{{cite web|url=http://paleodb.org/cgi-bin/bridge.pl?action=checkTaxonInfo&taxon_no=57534&is_real_user=1 |title=The Paleobiology Database |publisher=Paleodb.org |accessdate=2012-06-12}}</ref> Some five million years later, the carnivorans split into two main divisions: [[caniforms]] (dog-like) and [[feliforms]] (cat-like). By 40 Mya, the first member of the dog family proper had arisen. Called ''[[Prohesperocyon wilsoni]]'', its fossilized remains have been found in what is now the southwestern part of Texas. The chief features which identify it as a canid include the loss of the upper third molar (part of a trend toward a more shearing bite), and the structure of the middle ear which has an enlarged [[Auditory bulla|bulla]] (the hollow bony structure protecting the delicate parts of the ear). ''Prohesperocyon'' probably had slightly longer limbs than its predecessors, and also had parallel and closely touching toes which differ markedly from the splayed arrangements of the digits in bears.<ref name=Wang-Tedford>{{cite journal| last = Wang| first = Xiaoming| year = 2008| title = How Dogs Came to Run the World| journal = Natural History Magazine| volume = July/August| url = http://www.naturalhistorymag.com/features/15771/how-dogs-came-to-run-the-world| accessdate = 2014-05-24 }}</ref>
+
+The canid family soon subdivided into three subfamilies, each of which diverged during the Eocene: [[Hesperocyoninae]] (about 39.74-15 Mya), [[Borophaginae]] (about 34-2 Mya), and [[Caninae]] (about 34-0 Mya). Caninae is the only surviving subfamily and all present-day canids including wolves, foxes, coyotes, jackals, and domestic dogs belong to it. Members of each subfamily showed an [[cope's rule|increase in body mass with time]], and some exhibited specialised [[hypercarnivorous]] diets that made them prone to extinction.<ref>{{cite journal | first1 = B.| last2 = Wang| last1 = Van Valkenburgh | first2 = X. | first3 = J. | title=Cope's Rule, Hypercarnivory, and Extinction in North American Canids| last3 = Damuth | journal=Science | volume=306| issue = 5693 | pages=101–104 | date=Oct 2004 | issn = 0036-8075| pmid = 15459388 | doi=10.1126/science.1102417|bibcode = 2004Sci...306..101V }}</ref>{{rp|Fig. 1}}
+
+{{Clear right}}
+{{Canidae graphical timeline}}
+
+===Oligocene epoch===
+By the Oligocene, all three subfamilies of canids (Hesperocyoninae, Borophaginae, and Caninae) had appeared in the fossil records of North America. The earliest and most primitive branch of the Canidae was the Hesperocyoninae lineage, which included the coyote-sized ''[[Mesocyon]]'' of the Oligocene (38-24 Mya). These early canids probably evolved for the fast pursuit of prey in a grassland habitat; they resembled modern [[civet]]s in appearance. Hesperocyonines eventually became extinct in the middle Miocene. One of the early members of the Hesperocyonines, the genus ''[[Hesperocyon]]'', gave rise to ''[[Archaeocyon]]'' and ''[[Leptocyon]]''. These branches led to the borophagine and canine [[evolutionary radiation|radiations]].<ref name=Gittleman>Martin, L.D. 1989. Fossil history of the terrestrial carnivora. Pages&nbsp;536–568 in J.L. Gittleman, editor. Carnivore Behavior, Ecology, and Evolution, Vol. 1. Comstock Publishing Associates: Ithaca.</ref>
+
+===Miocene epoch===
+Around 9–10 Mya during the [[Late Miocene]], ''[[Canis]]'', ''[[Urocyon]]'', and ''[[Vulpes]]'' genera expanded from southwestern [[North America]], where the canine radiation began. The success of these canines was related to the development of lower [[carnassial]]s that were capable of both [[mastication]] and shearing.<ref name=Gittleman/> Around 8 Mya, the [[Beringia]]n land bridge allowed members of the genus ''[[Eucyon]]'' a means to enter Asia and they continued on to colonise Europe.<ref name=Perini>{{cite journal |author=Perini, F. A.; Russo, C. A. M.; Schrago, C. G. |year=2010 |title=The evolution of South American endemic canids: a history of rapid diversification and morphological parallelism |journal=Journal of Evolutionary Biology |volume=23 |issue=2 |pages=311–322 |doi=10.1111/j.1420-9101.2009.01901.x |pmid=20002250}}</ref>
+
+===Pliocene epoch===
+During the [[Pliocene]], around 4–5 Mya, ''[[Johnston's Coyote|Canis lepophagus]]'' appeared in North America. This was small and sometimes coyote-like. Others were wolf-like in characteristics.''Canis latrans'' (the coyote) is theorized to have descended from ''Canis lepophagus''.<ref>Nowak, R.M. 1979. North American Quaternary Canis. Monograph of the Museum of Natural History, University of Kansas 6:1 – 154.</ref>
+
+The formation of the [[Isthmus of Panama]], about 3 Mya, joined [[South America]] to North America, allowing canids to [[Great American Interchange|invade South America]], where they diversified. However the most recent common ancestor of the South American canids lived in North America some 4 Mya and the likelihood is that there were more than one incursion across the new land bridge. One of the resulting lineages consisted of the [[gray fox]] (''Urocyon cinereoargentus'') and the now extinct [[dire wolf]] (''Canis dirus''). The other lineage consisted of the so-called South American endemic species, the maned wolf (''Chrysocyon brachyurus''), the short-eared dog (''Atelocynus microtis''), the bush dog (''Speothos venaticus''), the crab-eating fox (''Cerdocyon thous'') and the [[South American fox]]es (''Lycalopex'' spp.). The monophyly of this group has been established by molecular means.<ref name=Perini/>
+
+===Pleistocene epoch===
+During the [[Pleistocene]], the North American wolf line appeared, with ''[[Canis edwardii]]'', clearly identifiable as a wolf, and ''[[Canis rufus]]'' appeared, possibly a direct descendent of ''Canis edwardii''. Around 0.8 Mya, ''[[Canis ambrusteri]]'' emerged in North America. A large wolf, it was found all over North and Central America, and was eventually supplanted by its descendant, the dire wolf, which then spread into South America during the late Pleistocene.<ref name=Larson>{{cite web |url=http://exhibits.museum.state.il.us/exhibits/larson/canis.html |title=Wolves, coyotes and dogs (Genus ''Canis'') |author=Larson, Robert |work=The Midwestern United States 16,000 years ago |publisher=Illinois State Museum |accessdate=2014-06-07}}</ref>
+
+By 0.3 Mya, a number of subspecies of the gray wolf (''Canis lupus'') had developed and had spread throughout Europe and northern Asia.<ref>Nowak, R. 1992. Wolves: The great travelers of evolution. International Wolf 2(4):3 – 7.</ref> The gray wolf colonized North America during the late [[Rancholabrean]] era across the Bering land bridge, there being at least three separate invasions, with each one consisting of one or more different Eurasian gray wolf [[clade]]s.<ref name=Chambers>{{cite journal |title=An account of the taxonomy of North American wolves from morphological and genetic analyses |authors=Chambers, S. M.; Fain, S. R.; Fazio, B.; Amaral, M. |year=2012 |journal=North American Fauna |volume=77 |pages=1–67 |doi=10.3996/nafa.77.0001}}</ref> MtDNA studies have shown that there are at least four extant ''C. lupus'' lineages.<ref name="gaubert">{{Cite journal|author=Gaubert, P.; Bloch, C.; Benyacoub, S.; Abdelhamid, A.; Pagani, P.|year=2012|title= Reviving the African Wolf ''Canis lupus lupaster'' in North and West Africa: A Mitochondrial Lineage Ranging More than 6,000&nbsp;km Wide|journal=PLoS ONE|volume=7 |issue=8 |page=e42740 |doi=10.1371/journal.pone.0042740 |pmid=22900047 |pmc=3416759 |display-authors=etal}}</ref> The dire wolf shared its habitat with the gray wolf but became extinct in a large-scale extinction event that occurred around 11,500 years ago. It may have been more of a scavenger than a hunter; its molars appear to be adapted for crushing bones and it may have died out as a result of the extinction of the large herbivorous animals on whose carcases it relied.<ref name=Larson/>
+
+In 2015, a study of mitochondrial genome sequences and whole genome nuclear sequences of African and Eurasian canids indicated that extant wolf-like canids have colonised Africa from Eurasia at least 5 times throughout the Pliocene and Pleistocene, which is consistent with fossil evidence suggesting that much of African canid fauna diversity resulted from the immigration of Eurasian ancestors, likely coincident with Plio-Pleistocene climatic oscillations between arid and humid conditions. When comparing the African and Eurasian golden jackals, the study concluded that the African specimens represented a distinct monophyletic lineage that should be recognized as a separate species, ''[[Canis anthus]]'' (African golden wolf). According to a phylogeny derived from nuclear sequences, the Eurasian golden jackal (''Canis aureus'') diverged from the wolf/coyote lineage 1.9 million years ago but the African golden wolf separated 1.3 million years ago. Mitochondrial genome sequences indicated the Ethiopian wolf diverged from the wolf/coyote lineage slightly prior to that.<ref>{{cite doi|10.1016/j.cub.2015.06.060}}</ref>{{rp|S1}}
+
+==Characteristics==
+[[File:MSU V2P1a - Canis lupus, Canis aureus & Cuon alpinus paws.png|thumb|Comparative illustration of the paws of [[grey wolf]], [[golden jackal]] and [[dhole]] by A. N. Komarov]]
+Wild canids are found on every continent except Antarctica, and inhabit a wide range of different habitats, including [[deserts]], [[mountains]], [[forests]], and [[grassland]]s. They vary in size from the fennec fox, which may be as little as {{convert|24|cm|in|abbr=on}} in length and weigh {{convert|0.6|kg|lb|abbr=on }},<ref>{{cite book|author=Marc Tyler Nobleman|title=Foxes|url=http://books.google.com/books?id=bwZx2t3D4ukC|year=2007|publisher=Marshall Cavendish|isbn=978-0-7614-2237-2 |page=35}}</ref> to the [[gray wolf]], which may be up to {{convert|160|cm|ft|abbr=on }} long, and can weigh up to {{convert|79|kg|lb|abbr=on }}.<ref name="heptner1998">Heptner, V. G.; Naumov, N. P. (1998), [https://archive.org/details/mammalsofsov211998gept Mammals of the Soviet Union Vol.II Part 1a, Sirenia and Carnivora (Sea cows; Wolves and Bears)], Science Publishers, Inc. USA., pp.&nbsp;166–176, ISBN 1-886106-81-9</ref> Only a few species are [[arboreal locomotion|arboreal]] – the North American gray fox, the closely related Channel Island fox,<ref>{{cite web|url=http://animaldiversity.ummz.umich.edu/site/accounts/information/Urocyon_littoralis.html |title=ADW: ''Urocyon littoralis'': Information |publisher=Animaldiversity.ummz.umich.edu |date=1999-11-28 |accessdate=2012-06-12}}</ref> and the raccoon dog habitually climb trees.<ref>Kauhala, K.; Saeki, M. (2004). Raccoon Dog«. Canid Species Accounts. IUCN/SSC Canid Specialist Group. Pridobljeno 15.4.2009.</ref><ref>{{cite journal | title = Old dogs, new tricks: Asia's raccoon dog, a venerable member of the canid family is pushing into new frontiers | author = Ikeda, Hiroshi | journal = Natural History | volume = 95 | issue = 8 | pages = p40,44 | date = August 1986}}</ref><ref>[http://www.waza.org/en/zoo/visit-the-zoo/dogs-and-hyenas/nyctereutes-procyonoides. Raccoon dog – ''Nyctereutes procyonoides''. WAZA – World Association of Zoos and Aquariums.]</ref>
+
+All canids have a similar basic form, as exemplified by the grey wolf, although the relative length of muzzle, limbs, ears and tail vary considerably between species. With the exceptions of the bush dog, raccoon dog, and some [[dog breed|domestic breeds of ''Canis lupus'']], canids have relatively long legs and lithe bodies, adapted for chasing prey. The tails are bushy and the length and quality of the pelage varies with the season. The muzzle portion of the skull is much more elongated than that of the cat family. The [[zygomatic arch]]es are wide, there is a transverse [[lambdoidal|lambdoidal ridge]] at the rear of the [[cranium]] and in some species, a [[sagittal crest]] running from front to back. The bony orbits around the eye never form a complete ring and the auditory bullae are smooth and rounded.<ref name=Mivart>{{cite book |title=Dogs, Jackals, Wolves, and Foxes: A Monograph of the Canidae |last=Mivart |first=St George Jackson |year=1890 |pages=xiv–xxxvi |url=https://archive.org/details/dogsjackalswolv00keulgoog }}</ref>
+
+All canids are [[digitigrade]], meaning they walk on their toes. The [[Rhinarium|tip of the nose]] is always naked, as are the cushioned pads on the soles of the feet. These latter consist of a single pad behind the tip of each toe and a more-or-less three-lobed central pad under the roots of the digits. Hairs grow between the pads and in the Arctic fox, the sole of the foot is densely covered with hair at some times of year. With the exception of the four-toed [[Lycaon pictus|African hunting dog]] (''Lycaon pictus''), there are five toes on the forefeet but the pollex (thumb) is reduced and does not reach the ground. On the hind feet, there are four toes, but in some domestic dogs, a fifth vestigial toe, known as a [[dewclaw]], is sometimes present but has no anatomical connection to the rest of the foot. The slightly curved nails are non-retractile and more or less blunt.<ref name=Mivart/>
+
+[[Canine penis|The penis in male canids]] is supported by a bone called the [[baculum]]. It also contains a structure at the base called the [[bulbus glandis]] which helps to create a [[copulatory tie]] during mating, locking the animals together for up to an hour.<ref name="Ewer1973">{{cite book|author=Ewer, R. F. |title=The Carnivores|url=http://books.google.com/books?id=IETMd3-lSlkC&printsec=frontcover#v=onepage&q=canidae|year=1973|publisher=Cornell University Press|isbn=978-0-8014-8493-3}}</ref> Young canids are born blind, with their eyes opening a few weeks after birth.<ref>{{cite book |author=Macdonald, D.|year=1984 |title= The Encyclopedia of Mammals|publisher= Facts on File|location=New York|page= 57|isbn= 0-87196-871-1}}</ref> All living canids (Caninae) have a ligament analogous to the [[nuchal ligament]] of [[ungulates]] used to maintain the posture of the head and neck with little active muscle exertion; this ligament allows them to conserve energy while running long distances following scent trails with their nose to the ground.<ref name="Wang 2008. pp.97-8">Wang, Xiaoming; Tedford, Richard H. Dogs: Their Fossil Relatives and Evolutionary History. New York: Columbia University Press, 2008. pp.&nbsp;97–8</ref> However, based on skeletal details of the neck, at least some Borophaginae (such as ''[[Aelurodon]]'') are believed to have lacked this ligament.<ref name="Wang 2008. pp.97-8"/>
+
+===Dentition===
+[[File:Lupocranio.jpg|thumb|right|[[Eurasian wolf]] skull]] Most canids have 42 [[tooth|teeth]], with a [[dentition|dental formula]] of: {{DentalFormula|upper=3.1.4.2|lower=3.1.4.3}}. The bush dog has only one upper molar with two below, the dhole has two above and two below, and the bat-eared fox has three or four upper molars and four lower ones.<ref name=Mivart/> As in other members of [[Carnivora]], the upper fourth [[premolar]] and lower first [[Molar (tooth)|molar]] are adapted as carnassial teeth for slicing flesh, although the bat-eared fox differs in this respect, being largely insectivorous. The molar teeth are strong in most species, allowing the animals to crack open bone to reach the [[bone marrow|marrow]]. The deciduous, or baby teeth, formula in canids is {{DentalFormula|upper=3.1.3|lower=3.1.3}}, molars being completely absent.<ref name=Mivart/>
+
+==Social behavior==
+[[File:2012-bandipur-dhole-sambar.jpg|left|thumb|[[Dhole]]s attacking a [[sambar (deer)|sambar]], [[Bandipur National Park]]]]
+{{see also|Gray wolf#Behaviour|Dog behavior|Red fox#Behaviour|African Wild Dog#Social structure}}
+Almost all canids are social animals and live together in groups. In general, they are territorial or have a home range and sleep in the open, using their dens only for breeding and sometimes in bad weather.<ref>{{Cite book |last1=Harris |first1=Stephen |last2=Yalden |first2=Derek |title=Mammals of the British Isles|publisher=Mammal Society|edition=4th Revised |year=2008 |isbn=0-906282-65-9 |page=413 }}</ref>  In most foxes, and in many of the true dogs, a [[breeding pair|male and female pair]] work together to hunt and to raise their young. Gray wolves and some of the other larger canids live in larger groups called [[pack (canine)|packs]]. African wild dogs have packs which may consist of twenty to forty animals, and packs of fewer than about seven individuals may be incapable of successful reproduction.<ref>{{cite web |url=https://www.patriciamcconnell.com/theotherendoftheleash/comparative-canid-behavior |title=Comparative canid behaviour |author=McConnell, Patricia B. |date=2009-08-31 |work=The other end of the leash |accessdate=2014-06-12}}</ref> Hunting in packs has the advantage that larger prey items can be tackled. Some species form packs or live in small family groups depending on the circumstances, including the type of available food. In most species, some individuals live on their own. Within a canid pack, there is a system of dominance so that the strongest, most experienced animals lead the pack. In most cases, the dominant male and female are the only pack members to breed.<ref name=ADW>{{cite web | title = Canidae: Coyotes, dogs, foxes, jackals, and wolves | work = Animal Diversity Web | publisher =University of Michigan| url = http://animaldiversity.ummz.umich.edu/accounts/Canidae/ | accessdate = 2014-06-13}}</ref>
+
+Canids communicate with each other by [[scent marking|scent signals]], by visual clues and gestures, and by vocalizations such as growls, barks, and howls. In most cases, groups have a home territory from which they drive out other [[conspecific]]s. The territory is [[Raised-leg urination|marked by leaving urine scent marks]], which warn trespassing individuals.<ref>Nowak, R. M.; Paradiso, J. L. 1983. Walker's Mammals of the World. Baltimore, Maryland: The Johns Hopkins University Press. ISBN 0-8018-2525-3.</ref> Social behaviour is also mediated by secretions from glands on the upper surface of the tail near its root and from the [[anal gland]]s.<ref name=ADW/>
+
+==Reproduction==
+{{see also|Canine reproduction}}
+{{multiple image
+| align = right
+| footer    =
+[[Wolves mating|Gray wolves]] and [[Red fox#Reproduction and development|red foxes mating]]
+| image1    = Korean wolves mating (cropped).jpg
+| image2    = Red foxes mating (2).jpg
+}}
+[[File:Wilde huendin am stillen.jpg|thumb|right|A wild dog from Sri Lanka nursing her puppies]]
+Canids as a group exhibit several reproductive traits that are uncommon among mammals as a whole. They are typically [[Monogamy|monogamous]], provide paternal care to their offspring, have reproductive cycles with lengthy [[Estrous cycle#Proestrus|proestral]] and [[Estrous cycle#Metestrus or diestrus|dioestral]] phases and have a copulatory tie during mating. They also retain adult offspring in the social group, suppressing the ability of these to breed while making use of the [[Alloparenting|alloparental care]] they can provide to help raise the next generation of offspring.<ref name=Asa>{{cite book |title=A review of Small Canid Reproduction: in The Swift Fox: Ecology and Conservation of Swift Foxes in a Changing World |last=Asa |first=Cheryl S. |last2=Valdespino |first2=Carolina |last3=Carbyn, Ludwig N.; Sovada, Marsha Ann (eds.) |year=2003 |publisher=University of Regina Press |isbn=978-0-88977-154-3 |pages=117–123 |url=http://books.google.com/?id=Er1di1OqnlAC&pg=PA117 }}</ref>
+
+During the proestral period, increased levels of [[oestradiol]] make the female attractive to the male. There is a rise in [[progesterone]] during the oestral phase and the female is now receptive. Following this, the level of oestradiol fluctuates and there is a lengthy dioestrous phase during which the female is pregnant. Pseudo-pregnancy frequently occurs in canids that have ovulated but failed to conceive. A period of [[Estrous cycle#anestrus|anoestrus]] follows pregnancy or [[false pregnancy|pseudo-pregnancy]], there being only one oestral period during each breeding season. Small and medium-sized canids mostly have a [[gestation]] period of fifty to sixty days while larger species average sixty to sixty-five days. The time of year in which the breeding season occurs is related to the length of day, as has been demonstrated in the case of several species that have been translocated across the equator to the other hemisphere and experiences a six-month shift of phase. Domestic dogs and certain small canids in captivity may come into oestrus more frequently, perhaps because the [[photoperiod]] stimulus breaks down under conditions of artificial lighting.<ref name=Asa/>
+
+The size of a litter varies,with from one to sixteen or more pups being born. The young are born small, blind and helpless and require a long period of parental care. They are kept in a den, most often dug into the ground, for warmth and protection.<ref name=Mivart/> When the young begin eating solid food, both parents, and often other pack members, bring food back for them from the hunt. This is most often vomited up from the adult's stomach. Where such pack involvement in the feeding of the litter occurs, the breeding success rate is higher than is the case where females split from the group and rear their pups in isolation.<ref>{{cite book |title=The Behavioural Biology of Dogs |last=Jensen |first=Per (ed.) |year=2007 |publisher=CABI |isbn=978-1-84593-188-9 |pages=158–159 |url=http://books.google.com/?id=SpkSd__EdKYC&pg=PA3&dq=Tribe+Canini+Vulpini }}</ref> Young canids may take a year to mature and learn the skills they need to survive.<ref>Voelker, W. 1986. ''The Natural History of Living Mammals''. Medford, New Jersey: Plexus Publishing. ISBN 0-937548-08-1</ref> In some species, such as the African wild dog, male offspring usually remain in the natal pack, while females disperse as a group, and join another small group of the opposite sex to form a new pack.<ref>{{cite web |url=http://www.animalinfo.org/species/carnivor/lycapict.htm |title=''Lycaon pictus'' |date=2005-11-26 |work=Animal Info: Endangered animals of the world |accessdate=2014-06-11}}</ref>
+
+==Canids and humans==
+[[Image:BedaleHunt2005.jpg|thumb|Traditional English [[fox hunt]]]]
+{{further|domestic dog}}
+
+One canid, the [[Origin of the domestic dog|domestic dog]], entered into a partnership with humans a long time ago. This partnership is documented as far back as 26,000 years ago, when the footprints of a young boy aged about eight to ten was found in [[Chauvet Cave]] in southern France, walking alongside what was identified as a large dog or wolf.<ref>{{cite news| last = Derr| first = Mark| title = From the Cave to the Kennel| newspaper = The Wall Street Journal| date = 2011-10-29| url = http://online.wsj.com/news/articles/SB10001424052970203554104577001843790269560| accessdate = 2012-12-02| archiveurl = http://web.archive.org/web/20131122165950/http://online.wsj.com/news/articles/SB10001424052970203554104577001843790269560 | archivedate = 2013-11-22}}</ref> The earliest recorded fossil of a dog was found to be around 36,000 years ago in Goyet Cave in Belgium.<ref>{{cite journal| last = Shipman| first = Pat.| year = 2009| title = The Woof at the Door.| journal = American Scientist| url = http://www.psychologytoday.com/files/attachments/72276/woofatthedoor09.pdf| format=PDF| accessdate = 2012-12-02| archiveurl = http://web.archive.org/web/20131204182451/http://www.psychologytoday.com/files/attachments/72276/woofatthedoor09.pdf | archivedate = 2013-12-04}}</ref>  Even earlier, wolves were found fossilized in the same locations as humans at sites that date back 300,000 years, showing how far back humans and wolves had interactions with one another.<ref name=Galibert>{{cite journal| last = Galibert| first = F.| year = 2011| title = Toward understanding dog evolutionary and domestication history| journal = Comptes Rendus Biologies| volume = 334| issue = 3| pages = 190–196| url = http://www.popgen.su.se/hund/dokument/Galibert_et_al_2011.pdf| format=PDF| accessdate = 2012-12-02| last2 = Quignon| first2 = P.| last3 = Hitte| first3 = C.| last4 = Andre| first4 = C.| archiveurl = http://web.archive.org/web/20131204142437/http://www.popgen.su.se/hund/dokument/Galibert_et_al_2011.pdf | archivedate = 2013-12-04| doi=10.1016/j.crvi.2010.12.011| pmid = 21377613}}</ref> The fact that wolves are pack animals with cooperative social structures may have been the reason that the relationship developed. Humans benefited from the canid's loyalty, cooperation, teamwork, alertness and tracking abilities while the wolf may have benefited from the use of weapons to tackle larger prey and the sharing of food. Humans and dogs may have evolved together.<ref>{{cite journal |author=Schleidt, Wolfgang M.; Shalter, Michael D. |year=2003 |title=Co-evolution of Humans and Canids: An Alternative View of Dog Domestication: Homo Homini Lupus? |journal=Evolution and Cognition |volume=9 |issue=1 |pages=57–72 |url=https://www.uwsp.edu/psych/s/275/Science/Coevolution03.pdf }}</ref> The bond between humans and dogs can be seen in the burial of dogs with their owners as early as 11,000 years ago in the Americas and 8,500 years ago in Europe.<ref name=Galibert/>
+
+Among canids, only the gray wolf has widely been known to prey on humans.<ref>Kruuk, H. 2002. Hunter and Hunted: Relationships between Carnivores and People. Cambridge, UK: Cambridge University Press. ISBN 0-521-81410-3.</ref> Nonetheless, at least [[Coyote attacks on humans|two records]] have coyotes killing humans,<ref name="AOH">{{cite web | title = Coyote Attacks: An Increasing Suburban Problem | work = | publisher = | url = http://www.co.san-diego.ca.us/awm/docs/coyoteattacks.pdf | accessdate = 2007-08-19 |archiveurl = http://web.archive.org/web/20060224153601/http://www.co.san-diego.ca.us/awm/docs/coyoteattacks.pdf |archivedate = 2006-02-24}}</ref> and two have golden jackals killing children.<ref name="CWC">{{cite web | title = ''Canis aureus'' | work = Animal Diversity Web | publisher = University of Michigan| url = http://animaldiversity.ummz.umich.edu/site/accounts/information/Canis_aureus.html | accessdate = 2007-07-31}}</ref> Human beings have trapped and hunted some canid species for their fur and, especially the gray wolf, coyote and the red fox, for sport.<ref>{{cite news |title=Fox hunting worldwide |url=http://news.bbc.co.uk/1/hi/uk/428122.stm |newspaper=BBC News |date=1999-09-16 |accessdate=2014-06-16}}</ref> Canids such as the dhole are now [[Endangered species|endangered]] in the wild because of persecution, habitat loss, a depletion of ungulate prey species and transmission of diseases from domestic dogs.<ref>{{IUCN2013.2 |assessors=Durbin, L.S.; Hedges, S.; Duckworth, J.W.; Tyson, M.; Lyenga, A.; Venkataraman, A. |year=2008 |version=2013.2 |id=5953 |title=Cuon alpinus |downloaded=2014-06-16}}</ref>
+
+==Extant and recently extinct species==
+[[File:Canis.jpg|thumb|right|The genus ''[[Canis]]'': [[Gray wolf]], [[coyote]], [[African golden wolf]], [[Ethiopian wolf]], [[golden jackal]], [[black-backed jackal]] and [[side-striped jackal]]]]
+[[File:Genus pseudalopex.jpg|thumb|right|The genus ''[[Lycalopex]]'': [[Culpeo]], [[pampas fox]], [[South American gray fox|chilla]] and [[Darwin's fox]]]]
+[[File:Genus vulpes.jpg|thumb|right|The genus ''[[Vulpes]]'': [[red fox]], [[Rüppell's fox]], [[corsac fox]], [[Bengal fox]], [[Arctic fox]], [[Blanford's fox]], [[Cape fox]] and [[fennec fox]]]]
+
+[[Image:Cuon.alpinus-ZOO.Olomouc.jpg|thumb|right|[[Dhole]]]]
+[[Image:Lycaon pictus pg.jpg|thumb|right|[[African hunting dog]]]]
+[[Image:Short-eared Dog.jpg|thumb|right|[[Short-eared dog]]]]
+[[Image:ZooManedWolf.jpg|thumb|right|[[Maned wolf]]]]
+[[Image:Bush dog.JPG|thumb|right|[[Bush dog]]]]
+[[Image:Urocyon cinereoargenteus.jpg|thumb|right|[[Gray fox]]]]
+[[Image:Otocyon megalotis (Namibia).jpg|thumb|right|[[Bat-eared fox]]]]
+[[Image:Tanuki01 960.jpg|thumb|right|[[Raccoon dog]]]]
+
+All extant species of family Canidae are in subfamily Caninae.
+
+===Subfamily Caninae===
+* '''True dogs''' – Tribe Canini
+** ''Genus [[Canis]]'' (see also [[List of Canis species and subspecies]] which also includes some varieties)
+*** [[Gray wolf]], ''Canis lupus'' 2.723 Mya to present)
+**** [[dog|Domestic dog]], ''Canis lupus familiaris''
+**** [[Dingo]], most often classified as ''Canis lupus dingo'' (sometimes considered a separate taxon)
+**** [[Subspecies of Canis lupus|many other subspecies]]
+*** [[Red wolf]], ''Canis rufus'' (sometimes considered a subspecies of Gray wolf, but including several subtaxa of its own including the [[Canis rufus floridanus|Florida black wolf]])
+*** [[Coyote]], ''Canis latrans'' (also called prairie wolf)
+*** [[African golden wolf]], ''Canis anthus''
+*** [[Golden jackal]], ''Canis aureus''
+*** [[Ethiopian wolf]], ''Canis simensis'' (also called Abyssinian wolf, simien fox and simien jackal)
+*** [[Side-striped jackal]], ''Canis adustus''
+*** [[Black-backed jackal]], ''Canis mesomelas''
+** ''Genus Cuon''
+*** [[Dhole]], ''Cuon alpinus'' or ''Canis alpinus'' (also called Asian wild dog)
+** ''Genus [[Lycaon (genus)|Lycaon]]''
+*** [[African wild dog]], ''Lycaon pictus'' (also called African hunting dog)
+** ''Genus Atelocynus''
+*** [[Short-eared dog]], ''Atelocynus microtis''
+** ''Genus Cerdocyon''
+*** [[Crab-eating fox]], ''Cerdocyon thous''
+** ''Genus Dusicyon'' [[extinction|†]]
+*** [[Falkland Island wolf|Falklands wolf]], ''Dusicyon australis'' [[extinction|†]]
+** ''Genus [[Lycalopex]] (Pseudalopex)''
+*** [[Culpeo]], ''Lycalopex culpaeus''
+*** [[Darwin's fox]], ''Lycalopex fulvipes''
+*** [[South American gray fox]], ''Lycalopex griseus''
+*** [[Pampas fox]], ''Lycalopex gymnocercus''
+*** [[Sechura fox]], ''Lycalopex sechurae''
+*** [[Hoary fox]], ''Lycalopex vetulus''
+** ''Genus Chrysocyon''
+*** [[Maned wolf]], ''Chrysocyon brachyurus''
+** ''Genus Speothos''
+*** [[Bush dog]], ''Speothos venaticus''
+* '''True foxes''' – Tribe [[Vulpini]]
+** ''Genus [[Vulpes]]''
+*** [[Arctic fox]], ''Vulpes lagopus''
+*** [[Red fox]], ''Vulpes vulpes'' (1 Mya to present) including a [[domesticated silver fox]]
+*** [[Swift fox]], ''Vulpes velox''
+*** [[Kit fox]], ''Vulpes macrotis''
+*** [[Corsac fox]], ''Vulpes corsac''
+*** [[Cape fox]], ''Vulpes chama''
+*** [[Pale fox]], ''Vulpes pallida''
+*** [[Bengal fox]], ''Vulpes bengalensis''
+*** [[Tibetan sand fox]], ''Vulpes ferrilata''
+*** [[Blanford's fox]], ''Vulpes cana''
+*** [[Rüppell's fox]], ''Vulpes rueppelli''
+*** [[Fennec fox]], ''Vulpes zerda''
+** ''Genus [[Urocyon]]'' (2 Mya to present)
+*** [[Gray fox]], ''Urocyon cinereoargenteus''
+*** [[Island fox]], ''Urocyon littoralis''
+*** [[Cozumel fox]], ''Urocyon sp.''
+* '''Basal Caninae'''
+** ''Genus Otocyon'' (probably a vulpine close to ''Urocyon'')
+*** [[Bat-eared fox]], ''Otocyon megalotis''
+** ''Genus [[Nyctereutes]]''
+*** [[Raccoon dog]], ''Nyctereutes procyonoides''
+[[File:Canidae Species Divesity.png|thumb|320px|right|Fluctuation of species within Canidae over 40 million years]]
+
+==Prehistoric Canidae==
+Except where otherwise stated, the following classification is based on a 1994 paper by Xiaoming Wang, curator of terrestrial mammals at the [[Natural History Museum of Los Angeles County]] on the [[systematics]] of the subfamily Hesperocyoninae,<ref name=Hesperocyoninae>{{cite journal| last = Wang| first = Xiaoming| year = 1994 |title = Phylogenetic systematics of the Hesperocyoninae| journal = Bulletin of the American Museum of Natural History| volume = 221| pages= 1–207| id = {{hdl|2246/829}}}}</ref> a 1999 paper by Wang, together with the zoologists Richard H. Tedford and Beryl E. Taylor on the subfamily Borophaginae,<ref name=Borophaginae>{{cite journal| last1 = Wang| first1 = Xiaoming|last2= Tedford| first2= Richard H. |last3=Taylor |first3=Beryl E. |year = 1999 | title = Phylogenetic systematics of the Borophaginae| journal = Bulletin of the American Museum of Natural History| volume = 243| pages= 1–391| id = {{hdl|2246/1588}} }}</ref> and a 2009 paper by Tedford, Wang and Taylor on the North American fossil Caninae.<ref name="Tedford 2009 1–218">{{cite journal | title = Phylogenetic systematics of the North American fossil Caninae (Carnivora: Canidae) | journal = Bulletin of the American Museum of Natural History | year = 2009 | first = Richard | last = Tedford |last2= Wang| first2=Xiaoming |last3=Taylor |first3=Beryl E. | volume = 325 | pages = 1–218 | doi = 10.1206/574.1}}</ref>
+
+===Subfamily Caninae===
+* '''Tribe Canini'''<ref name="Tedford 2009 1–218"/>
+** ''Genus [[Canis]]''
+*** ''Canis adoxus'' [[extinction|†]]
+*** ''Canis ameghinoi'' [[extinction|†]]
+***''[[Canis apolloniensis]]'' ({{Mya|1.8-0.7|mya}}) [[extinction|†]]
+***''[[Canis armbrusteri]]'' ({{Mya|1.8-0.3|mya}}) [[extinction|†]]
+*** ''[[Canis arnensis]]'' (3.4 Mya, [[extinction|†]])
+*** ''Canis cautleyi '' [[extinction|†]]
+*** ''[[Canis cedazoensis]]'' ({{Mya|4.9-0.3|mya}}) [[extinction|†]]
+*** ''[[Canis dirus]]'' (Dire wolf), ({{Mya|1.8-0.11|mya}}) [[extinction|†]]
+*** ''Canis donnezani'' (4.0–3.1 Ma [[extinction|†]], probably ancestor of wolves)
+*** ''[[Canis edwardii]]'' ({{Mya|4.9-0.3|mya}}) [[extinction|†]], first species of wolf in North America)
+*** ''Canis (Eucyon) cipio'' (8.2 Mya [[extinction|†]], probably first species of ''Canis'' genus)
+*** ''Canis etruscus'' (3.4 Mya [[extinction|†]])
+*** ''[[Canis ferox]]'' ({{Mya|10.3-5.3|mya}}) [[extinction|†]]
+*** ''Canis gezi'' [[extinction|†]]
+*** ''[[Canis lepophagus]]'' ({{Mya|10-2|mya}})[[extinction|†]]
+*** ''Canis michauxi '' [[extinction|†]]
+*** ''[[Canis mosbachensis]]'' (0.787 Mya [[extinction|†]])
+*** ''[[Canis nehringi]]'' [[extinction|†]]
+** ''Genus [[Cynotherium]]'' [[extinction|†]]
+*** [[Sardinian dhole]], ''Cynotherium sardous'' [[extinction|†]]
+** ''Genus [[Theriodictis]]'' ({{Mya|1.2-0.01|mya}})[[extinction|†]]
+*** ''Theriodictis platensis'' (1.8 Mya [[extinction|†]])
+*** ''Theriodictis tarijensis'' (1.8 Mya [[extinction|†]])
+*** ''Theriodictis (Canis) proplatensis'' (2.1 Ma [[extinction|†]] )
+** ''Genus [[Protocyon]]'' [[extinction|†]]
+*** ''Protocyon orcesi'' [[extinction|†]]
+*** ''Protocyon scagliarum'' [[extinction|†]]
+*** ''Protocyon troglodytes'' [[extinction|†]]
+** ''Genus [[Dusicyon]]'' [[extinction|†]]
+*** ''Dusicyon avus'' [[extinction|†]]
+** ''Genus [[Cerdocyon]]''
+*** ''[[Cerdocyon avius]]'' [[extinction|†]]
+*** ''Cerdocyon ensenadensis'' [[extinction|†]]
+** ''Genus [[Speothos]]''
+*** ''[[Speothos pacivorus]]'' [[extinction|†]]
+** ''Genus [[Nurocyon]]'' [[extinction|†]]
+*** ''Nurocyon chonokhariensis'' [[extinction|†]]
+** ''Genus [[Xenocyon]]'' [[extinction|†]]
+*** ''Xenocyon falconeri'' (2.6 Mya [[extinction|†]])
+*** ''[[Xenocyon lycaonoides]]'' ({{Mya|1.81-0.12|mya}}) [[extinction|†]]
+* '''Tribe Vulpini'''
+** ''Genus [[Vulpes]]'' (7 Mya to present)
+*** ''Vulpes alopecoides'' (2.6 Mya [[extinction|†]])
+*** ''Vulpes cf. alopecoides'' (2.6 Mya [[extinction|†]])
+*** ''Vulpes cf. vulpes'' (0.1275 Mya [[extinction|†]])
+*** ''Vulpes galaticus'' (4.2 Mya [[extinction|†]])
+*** ''[[Vulpes riffautae]]'' (7 Mya [[extinction|†]])
+* '''Basal Caninae'''
+** ''Genus [[Nyctereutes]]'' (7.1 Mya to present)
+*** ''Nyctereutes cf. donnezani'' (7.1 Mya [[extinction|†]])
+*** ''Nyctereutes cf. megamastoides'' (3.158 Mya [[extinction|†]])
+*** ''[[Nyctereutes donnezani]]'' (3.4 Mya [[extinction|†]])
+*** ''Nyctereutes megamostoides'' (2.6 Mya [[extinction|†]])
+*** ''Nyctereutes sinensis'' (3.4 Mya [[extinction|†]])
+* '''First Caninae'''
+** ''Genus [[Eucyon]]'' (8 Mya †)
+*** ''Eucyon davisi'' (8.3 Mya [[extinction|†]], probably ancestor of ''Canis'')
+*** ''Eucyon minor'' (8 Mya [[extinction|†]])
+*** ''Eucyon zhoui'' (8 Mya [[extinction|†]])
+*** ''Eucyon monticinensis''(8 Mya [[extinction|†]])
+*** ''Eucyon odessanus'' †
+** ''Genus [[Leptocyon]]'' (24&ndash;16 Mya †)
+*** ''Leptocyon vafer'' (16 Mya [[extinction|†]])
+*** ''Leptocyon vulpinus'' (24 Mya [[extinction|†]])
+
+===Subfamily Borophaginae===
+[[extinction|†]] ([[Annum|Mya]] = million years ago) (million years = in existence)
+** ''Genus [[Archaeocyon]]'' ({{Mya|33.3-26.3|million years}}) [[extinction|†]]
+*** ''Archaeocyon falkenbachi'' ({{Mya|30.8-20.6|million years}}) [[extinction|†]]
+*** ''Archaeocyon leptodus'' ({{Mya|33.3-26.3|million years}}) [[extinction|†]]
+*** ''Archaeocyon pavidus'' ({{Mya|33.3-26.3|million years}}) [[extinction|†]]
+** ''Genus [[Otarocyon]]'' ({{Mya|33.9-26.3|million years}}) [[extinction|†]]
+*** ''Otarocyon cooki'' ({{Mya|30.8-26.3|million years}}) [[extinction|†]]
+*** ''Otarocyon macdonaldi'' ({{Mya|33.9-33.3|million years}}) [[extinction|†]]
+** ''Genus [[Oxetocyon]]'' ({{Mya|33.3-30.8|million years}}) [[extinction|†]]
+*** ''Oxetocyon cuspidatus'' ({{Mya|33.3-30.8|million years}}) [[extinction|†]]
+** ''Genus [[Rhizocyon]]'' (30 Mya)
+*** ''Rhizocyon oregonensis'' (30 Mya)
+* '''Tribe [[Phlaocyonini]]''' ({{Mya|30.8-3.6|million years}}) [[extinction|†]]
+** ''Genus [[Cynarctoides]]'' ({{Mya|33.3-16.6|million years}}) [[extinction|†]]
+*** ''[[Cynarctoides acridens]]'' ({{Mya|24.6-13.6|million years}}) [[extinction|†]]
+*** ''[[Cynarctoides emryi]]'' ({{Mya|20.6-16.6|million years}}) [[extinction|†]]
+*** ''[[Cynarctoides gawnae]]'' ({{Mya|20.6-16.6|million years}}) [[extinction|†]]
+*** ''[[Cynarctoides harlowi]]'' ({{Mya|24.6-20.6|million years}}) [[extinction|†]]
+*** ''[[Cynarctoides lemur]]'' (30 Mya) [[extinction|†]]
+*** ''[[Cynarctoides luskensis]]'' ({{Mya|24.8-20.6|million years}}) [[extinction|†]]
+*** ''[[Cynarctoides roii]]'' ({{Mya|30.8-26.3|million years}}) [[extinction|†]]
+** ''Genus [[Phlaocyon]]'' (30&ndash;19 Mya)
+*** ''[[Phlaocyon achoros]]''
+*** ''[[Phlaocyon annectens]]'' (22 Mya)
+*** ''[[Phlaocyon latidens]]'' (30 Mya)
+*** ''Phlaocyon leucosteus'' (22 Mya)
+*** ''[[Phlaocyon mariae]]''
+*** ''Phlaocyon marslandensis'' (19 Mya)
+*** ''Phlaocyon minor'' (30 Mya)
+*** ''Phlaocyon multicuspus''
+*** ''Phlaocyon taylori''<ref name=Hayes>{{cite journal| last = Hayes| first = F.G.| year = 2000 |title = The Brooksville 2 local fauna (Arikareean, latest Oligocene) Hernando County, Florida| journal = Bulletin of the Florida Museum of Natural History| volume = 43| issue = 1| pages= 1–47}}</ref>
+*** ''Phlaocyon yakolai'' (19 Mya)
+* '''Tribe [[Borophagini]]''' ({{Mya|33.3-16.6|million years}}) [[extinction|†]]
+**''Genus [[Cormocyon]]'' ({{Mya|30.8-20.6|million years}}) [[extinction|†]]
+*** ''Cormocyon copei'' ({{Mya|30.8-20.6|million years}}) [[extinction|†]]
+*** ''Cormocyon haydeni'' ({{Mya|24.8-20.6|million years}}) [[extinction|†]]
+**''Genus [[Desmocyon]]'' ({{Mya|25-16|million years}}) [[extinction|†]]
+*** ''Desmocyon matthewi'' ({{Mya|20.6-16.3|million years}}) [[extinction|†]]
+*** ''Desmocyon thompsoni'' [[extinction|†]]
+** ''Genus [[Metatomarctus]]'' ({{Mya|20.6-16.3|million years}}) [[extinction|†]]
+*** ''Metatomarctus canavus'' ({{Mya|20.6-16.3|million years}}) [[extinction|†]]
+*** ''Metatomarctus sp. A'' (16 Mya)
+*** ''Metatomarctus sp. B'' (16 Mya)
+** ''Genus [[Eulopocyon]]'' (18&ndash;16 Mya)
+*** ''Eulopocyon brachygnathus'' (16 Mya)
+*** ''Eulopocyon spissidens'' (18 Mya)
+** ''Genus [[Psalidocyon]]'' (16 Mya)
+*** ''Psalidocyon marianae'' (16 Mya)
+** ''Genus [[Microtomarctus]]'' ({{Mya|20.6-16.6|million years}}) [[extinction|†]]
+*** ''Microtomarctus conferta'' ({{Mya|23.0-5.33|million years}}) [[extinction|†]]
+** ''Genus [[Protomarctus]]'' (18 Mya)
+*** ''Protomarctus optatus'' (18 Mya)
+** ''Genus [[Tephrocyon]]'' (16 Mya)
+*** ''Tephrocyon rurestris'' (16 Mya)
+**Subtribe [[Cynarctina]] [[extinction|†]]
+*** ''Genus [[Paracynarctus]]'' ({{Mya|20.3-13.6|million years}}) [[extinction|†]]
+**** ''Paracynarctus kelloggi'' ({{Mya|20.3-13.6|million years}}) [[extinction|†]]
+**** ''Paracynarctus sinclairi'' ({{Mya|20.6-13.6|million years}}) [[extinction|†]]
+*** ''Genus [[Cynarctus]]'' ({{Mya|15.9-10.3|million years}}) [[extinction|†]]
+**** ''Cynarctus crucidens'' ({{Mya|11.6-10.3|million years}}) [[extinction|†]]
+**** ''Cynarctus galushai'' ({{Mya|16.3-13.6|million years}}) [[extinction|†]]
+**** ''Cynarctus marylandica'' ({{Mya|15.9-13.6|million years}}) [[extinction|†]]
+**** ''Cynarctus saxatilis'' ({{Mya|16.3-13.6|million years}}) [[extinction|†]]
+**** ''Cynarctus voorhiesi'' ({{Mya|13.6-10.3|million years}}) [[extinction|†]]
+**Subtribe [[Aelurodontina]] ({{Mya|20-5|million years}}) [[extinction|†]]
+***''Genus [[Tomarctus]]'' ({{Mya|20.6-13.6|million years}}) [[extinction|†]]
+**** ''Tomarctus brevirostris'' ({{Mya|20.4-13.6|million years}}) [[extinction|†]]
+**** ''Tomarctus hippophaga'' ({{Mya|20.6-13.6|million years}}) [[extinction|†]]
+*** ''Genus [[Aelurodon]]'' ({{Mya|20.6-4.9|million years}}) [[extinction|†]]
+**** ''Aelurodon asthenostylus'' ({{Mya|20.6-13.6|million years}}) [[extinction|†]]
+**** ''Aelurodon ferox'' ({{Mya|16.3-10.3|mya}}) [[extinction|†]]
+**** ''Aelurodon mcgrewi'' ({{Mya|16.3-13.6|mya}}) [[extinction|†]]
+**** ''Aelurodon montanensis'' ({{Mya|16.3-13.6|mya}}) [[extinction|†]]<ref name=Aelurodon>{{cite journal| last = Wang| first = Xiaoming| year = 2004| title = A new species of ''Aelurodon'' (Carnivora, Canidae) from the Barstovian of Montana| journal = Journal of Vertebrate Paleontology| volume = 24| issue = 2| pages = 445–452| url = http://www.nhm.org/expeditions/rrc/wang/documents/Wangetal2004MontanaAelurodon.pdf|format=PDF| accessdate = 2007-07-08| doi = 10.1671/2493| last2 = Wideman| first2 = Benjamin C.| last3 = Nichols| first3 = Ralph| last4 = Hanneman| first4 = Debra L. |archiveurl = http://web.archive.org/web/20070930021020/http://www.nhm.org/expeditions/rrc/wang/documents/Wangetal2004MontanaAelurodon.pdf |archivedate = September 30, 2007}}</ref>
+**** ''Aelurodon stirtoni'' ({{Mya|16.3-10.3|million years}}) [[extinction|†]]
+**** ''Aelurodon taxoides'' ({{Mya|13.6-5.3|million years}}) [[extinction|†]]
+**Subtribe [[Borophagina]] ({{Mya|20.6-3.6|million years}}) [[extinction|†]]
+*** ''Genus [[Paratomarctus]]'' ({{Mya|16.3-10.3|million years}}) [[extinction|†]]
+**** ''Paratomarctus euthos'' (13 Mya)
+**** ''Paratomarctus temerarius'' (16 Mya)
+*** ''Genus [[Carpocyon]]'' ({{Mya|33.3-13.6|million years}}) [[extinction|†]]
+**** ''Carpocyon compressus'' ({{Mya|16.3-13.6|million years}}) [[extinction|†]]
+**** ''Carpocyon limosus'' ({{Mya|10.3-5.3|million years}}) [[extinction|†]]
+**** ''Carpocyon robustus'' ({{Mya|13.6-10.3|million years}}) [[extinction|†]]
+**** ''Carpocyon webbi'' ({{Mya|16.3-10.3|million years}}) [[extinction|†]]
+*** ''Genus [[Protepicyon]]'' (16 Mya)
+**** ''Protepicyon raki'' (16 Mya)
+*** ''Genus [[Epicyon]]'' ({{Mya|12-10|million years}}) [[extinction|†]]
+**** ''Epicyon aelurodontoides'' ({{Mya|10.3-4.9|million years}}) [[extinction|†]]
+**** ''Epicyon haydeni'' ({{Mya|10.3-4.9|million years}}) [[extinction|†]]
+**** ''Epicyon saevus'' ({{Mya|16.3-4.9|million years}}) [[extinction|†]]
+*** ''Genus [[Borophagus]]'' ({{Mya|12-5|million years}}) [[extinction|†]]
+**** ''[[Borophagus diversidens]]'' (5 Mya) [[extinction|†]]
+**** ''[[Borophagus dudleyi]]'' ({{Mya|5.3-3.6|million years}}) [[extinction|†]]
+**** ''[[Borophagus hilli]]'' ({{Mya|10.3-3.6|million years}}) [[extinction|†]]
+**** ''[[Borophagus littoralis]]'' ({{Mya|13.6-10-3|million years}}) [[extinction|†]]
+**** ''[[Borophagus orc]]'' ({{Mya|5.3-4.9|million years}}) [[extinction|†]]
+**** ''[[Borophagus parvus]]'' ({{Mya|10.3-4.9|million years}}) [[extinction|†]]
+**** ''[[Borophagus pugnator]]'' ({{Mya|13.6-5.3|million years}}) [[extinction|†]]
+**** ''[[Borophagus secundus]]'' ({{Mya|13.6-5.3|million years}}) [[extinction|†]]
+
+===Subfamily Hesperocyoninae===
+[[extinction|†]] (Mya = million years ago)
+** ''Genus [[Cynodesmus]]'' (32&ndash;29 Mya)
+*** ''Cynodesmus martini'' (29 Mya)
+*** ''Cynodesmus thooides'' (32 Mya)
+** ''?Genus [[Caedocyon]]''
+*** ''Caedocyon tedfordi''
+** ''Genus [[Ectopocynus]]'' (32&ndash;19 Mya)
+*** ''Ectopocynus antiquus'' (32 Ma)
+*** ''Ectopocynus intermedius'' (29 Mya)
+*** ''Ectopocynus siplicidens'' (19 Mya)
+** ''Genus [[Enhydrocyon]]'' (29&ndash;25 Mya)
+*** ''[[Enhydrocyon basilatus]]'' (25 Mya)
+*** ''Enhydrocyon crassidens'' (25 Mya)
+*** ''Enhydrocyon pahinsintewkpa'' (29 Mya)
+*** ''Enhydrocyon stenocephalus'' (29 Mya)
+** ''Genus [[Hesperocyon]]'' (39.74&ndash;34 Mya)
+*** ''Hesperocyon coloradensis''
+*** ''Hesperocyon gregarius'' (37 Mya)
+** ''Genus [[Mesocyon]]'' (34&ndash;29 Mya)
+*** ''Mesocyon brachyops'' (29 Mya)
+*** ''Mesocyon coryphaeus'' (29 Mya)
+*** ''Mesocyn temnodon''
+** ''Genus [[Osbornodon]]'' (32&ndash;18 Mya)
+*** ''Osbornodon brachypus''
+*** ''Osbornodon fricki'' (18 Mya)
+*** ''[[Osbornodon iamonensis]]'' (21 Mya)
+*** ''Osbornodon renjiei'' (33 Mya)
+*** ''Osbornodon scitulus''<ref name=Osbornodon>{{cite journal| last = Wang| first = Xiaoming| year = 2003 |title = New Material of ''Osbornodon'' from the Early Hemingfordian of Nebraska and Florida| journal = Bulletin of the American Museum of Natural History| volume = 279| issue = | pages= 163–176| url = http://digitallibrary.amnh.org/dspace/bitstream/2246/447/19/B279a08.pdf|format=PDF| doi = 10.1206/0003-0090(2003)279<0163:C>2.0.CO;2}}</ref>
+*** ''Osbornodon sesnoni'' (32 Mya)
+*** ''Osbornodon wangi''<ref name=Hayes/>
+** ''Genus [[Paraenhydrocyon]]'' (30&ndash;25 Mya)
+*** ''[[Paraenhydrocyon josephi]]'' (30 Mya)
+*** ''Paraenhydrocyon robustus'' (25 Mya)
+** ''Genus [[Philotrox]]'' (29 Mya)
+*** ''Philotrox condoni'' (29 Mya)
+** ''Genus [[Prohesperocyon]]'' (36 Mya)
+*** ''Prohesperocyon wilsoni'' (36 Mya)
+** ''Genus [[Sunkahetanka]]'' (29 Mya)
+*** ''Sunkahetanka geringensis'' (29 Mya)
+
+==References==<!-- SystBioi46:622. ZoolScripta33:311. -->
+{{reflist|2|refs=
+<ref name=wayne1993>{{cite journal | last=Wayne | first=Robert K. | date=June 1993| title=Molecular evolution of the dog family | journal=Trends in Genetics| volume=9| issue=6 | pages=218–224| pmid=8337763 | url=http://wooferhouse.net/Links/MolecularEvolutionOfTheDogFamily/MolecularEvolutionOfTheDogFamily.htm | doi=10.1016/0168-9525(93)90122-x}}</ref>
+}}
+
+==General references==
+*Xiaoming Wang, Richard H. Tedford, Mauricio Antón, ''Dogs: Their Fossil Relatives and Evolutionary History'', New York : Columbia University Press, 2008; ISBN 978-0-231-13528-3
+
+==External links==
+{{wikispecies}}
+{{commons category|Canidae}}
+* {{NCBI|9608}}
+*[http://www.awdconservancy.org/ African Wild Dog Conservancy]
+
+{{Carnivora|Ca.}}
+
+{{Authority control}}
+
+[[Category:Canids| ]]
+[[Category:Mammal families]]
+[[Category:Bartonian first appearances]]

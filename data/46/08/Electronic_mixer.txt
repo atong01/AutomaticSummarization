@@ -1,0 +1,39 @@
+{{for|the kitchen utensil|Electric mixer}}
+{{Unreferenced|date=December 2009}}
+[[File:Passive Mixer.jpg|right|thumb|250px|A simple three-channel passive additive mixer. More channels can be added by simply adding more input jacks and mix resistors.]]
+[[File:Virtual Ground Active Mixer.jpg|right|thumb|250px|A "virtual ground" active additive mixer. The buffer amplifiers serve to reduce crosstalk and distortion.]]
+
+An '''electronic mixer''' is a device that combines two or more electrical or [[electronics|electronic]] [[signal (information theory)|signals]] into one or two composite output signals. There are two basic circuits that both use the term ''mixer'', but they are very different types of circuits: additive mixers and multiplicative mixers.
+
+Simple additive mixers use [[Kirchhoff's circuit laws]] to add the currents of two or more signals together, and this terminology ("mixer") is only used in the realm of [[audio electronics]] where [[audio mixer]]s are used to add together [[audio signals]] such as voice signals, music signals, and sound effects.
+
+Multiplicative mixers multiply  together two time-varying input signals [[instantaneous]]ly (instant-by-instant).  If the two input signals are both [[Sine wave|sinusoid]]s of specified [[frequencies]] f<sub>1</sub> and f<sub>2</sub>, then the output of the mixer will contain two new sinsoids that have the sum f<sub>1</sub> + f<sub>2</sub> frequency and the difference frequency [[absolute value]] |f<sub>1</sub> -  f<sub>2</sub>|.
+
+Note: Any nonlinear electronic block driven by two signals with frequencies f<sub>1</sub> and f<sub>2</sub> would generate intermodulation (mixing) products. A multiplier (which is a nonlinear device) will generate ideally only the sum and difference frequencies, whereas an arbitrary nonlinear block would generate also signals at e.g. 2·f<sub>1</sub>-3·f<sub>2</sub>, etc. Therefore, in the past often more or less normal nonlinear amplifiers or just single diodes have been used as mixers, instead of a more complex multiplier. A multiplier has usually the advantage of rejecting - at least partly - undesired higher-order intermodulations and larger conversion gain.
+
+==Additive mixers==
+{{see also|Mixing console}}
+Additive mixers [[superposition principle|add two or more signals]], giving out a composite signal that contains the frequency components of each of the source signals.  The simplest additive mixers are simple resistor networks, and thus purely [[passivity (engineering)|passive]], while more complex [[matrix mixer]]s employ [[passivity (engineering)|active]] components such as [[buffer amplifiers]] for [[impedance matching]] and better isolation.
+
+==Multiplicative mixers==
+{{Main|Frequency mixer}}
+
+Ideal multiplicative mixers produce an output signal equal to the product of the two input signals. Multiplicative mixers are often used in conjunction with an [[Electronic oscillator|oscillator]] in the communications field to modulate signal frequencies. Multiplicative mixers can be coupled with a filter to either up-convert or down-convert an input signal frequency, but they are more commonly used to down-convert to a lower frequency to allow for simpler filter designs, as done in [[superheterodyne receiver]]s. In many typical circuits, the single output signal actually contains multiple waveforms, namely those at the sum and difference of the two input frequencies and harmonic waveforms. The output signal may be obtained by removing the other signal components with a filter. (''see'' [[intermediate frequency]])
+
+Multiplicative mixers have been implemented in a wide variety of ways. The most popular are [[Gilbert cell]] mixers, [[diode]] mixers, diode ring mixers ([[ring modulation]]) and switching mixers. Diode mixers take advantage of the non-linearity of diode devices to produce the desired multiplication in the squared term. It is a very inefficient method as most of the power output is in other unwanted terms which need filtering out. Inexpensive AM radios still use diode mixers.
+
+Electronic mixers are usually made with [[transistor]]s and/or [[diode]]s arranged in a [[balanced circuit]] or even a double-balanced circuit. These are readily manufactured by using the technology of either [[monolithic integrated circuit]]s or [[hybrid integrated circuit]]s. These are designed for a wide variety of [[frequency]] ranges, and they are [[mass produced]] to tight tolerances by the hundreds of thousands, making them relatively cheap components.
+
+These double-balanced mixers are very widely used in [[microwave communication]] systems, [[satellite communication]] systems, and [[ultrahigh frequency]] (UHF) communications [[transmitter]]s and [[Receiver (radio)|receiver]]s, and in [[radar system]]s transmitters and receivers.
+
+''Gilbert cell'' mixers are just an arrangement of transistors that multiplies the two signals. The switching mixers (below) pass more power and usually insert less distortion.
+
+''switching mixers'' use arrays of [[field effect transistor]]s or (in older days) [[vacuum tube]]s.  These are used as electronic switches, to permit the signal to go one direction, then the other. They are controlled by the signal being mixed. They are especially popular with digitally controlled radios.
+
+{{DEFAULTSORT:Electronic Mixer}}
+[[Category:Analog circuits]]
+[[Category:Audio mixing]]
+
+[[da:Lydmikser]]
+[[ja:ミキサー]]
+[[pl:Mieszacz]]

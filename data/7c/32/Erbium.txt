@@ -1,0 +1,97 @@
+{{infobox erbium}}
+'''Erbium''' is a [[chemical element]] in the [[lanthanide]] series, with symbol '''Er''' and [[atomic number]] 68. A silvery-white solid metal when artificially isolated, natural erbium is always found in chemical combination with other elements on Earth. As such, it is a [[rare earth element]] which is associated with several other rare elements in the [[mineral]] [[gadolinite]] from [[Ytterby]] in [[Sweden]], where [[yttrium]], [[ytterbium]], and [[terbium]] were discovered.
+
+Erbium's principal uses involve its pink-colored Er<sup>3+</sup> ions, which have optical fluorescent properties particularly useful in certain laser applications. Erbium-doped glasses or crystals can be used as optical amplification media, where erbium (III) ions are optically pumped at around 980 or {{val|1480|u=nm}} and then radiate light at {{val|1530|u=nm}} in stimulated emission. This process results in an unusually mechanically simple [[laser]] [[optical amplifier]] for signals transmitted by fiber optics. The {{val|1550|u=nm}} wavelength is especially important for [[optical communications]] because standard single mode [[optical fibers]] have minimal loss at this particular wavelength.
+
+In addition to optical fiber amplifier-lasers, a large variety of medical applications (i.e. dermatology, dentistry) rely on the erbium ion's {{val|2940|u=nm}} emission (see [[Er:YAG laser]]), which is highly absorbed in water in tissues, making its effect very superficial. Such shallow tissue deposition of laser energy is helpful in [[laser surgery]], and for the efficient production of steam which produces enamel ablation by common types of [[dental laser]].
+
+== Characteristics ==
+
+===Physical properties===
+[[Image:Erbium(III)chloride sunlight.jpg|thumb|left|Erbium(III)chloride in sunlight, showing some pink fluorescence of Er<sup>+3</sup> from natural ultraviolet.]]
+A [[valence (chemistry)|trivalent]] element, pure erbium [[metal]] is malleable (or easily shaped), soft yet stable in air, and does not [[oxidation|oxidize]] as quickly as some other [[rare-earth metals]]. Its [[Salt (chemistry)|salts]] are rose-colored, and the element has characteristic sharp [[absorption spectra]] bands in [[visible light]], [[ultraviolet]], and near [[infrared]]. Otherwise it looks much like the other rare earths. Its [[sesquioxide]] is called [[erbia]]. Erbium's properties are to a degree dictated by the kind and amount of impurities present. Erbium does not play any known biological role, but is thought to be able to stimulate [[metabolism]].<ref name=emsley>{{cite book | title = Nature's Building Blocks: An A-Z Guide to the Elements  | last = Emsley | first = John | publisher = Oxford University Press | date = 2001 | location = Oxford, England, UK | isbn = 0-19-850340-7 | chapter = Erbium | pages = 136–139 | url = http://books.google.com/?id=j-Xu07p3cKwC}}</ref>
+
+Erbium is [[ferromagnetic]] below 19&nbsp;K, [[antiferromagnetic]] between 19 and 80 K and [[paramagnetic]] above 80&nbsp;K.<ref>{{cite journal| author =Jackson, M. | title =Magnetism of Rare Earth| url =http://www.irm.umn.edu/quarterly/irmq10-3.pdf | journal = The IRM quarterly | volume =10| issue = 3| page = 1| date = 2000}}</ref>
+
+Erbium can form propeller-shaped atomic clusters Er<sub>3</sub>N, where the distance between the erbium atoms is 0.35&nbsp;nm. Those clusters can be isolated by encapsulating them into [[fullerene]] molecules, as confirmed by [[transmission electron microscopy]].<ref>{{cite journal| title = Structures of ''D''<sub>5</sub>''<sub>d</sub>''-C<sub>80</sub> and ''I''<sub>h</sub>''-Er''<sub>3</sub>N@C<sub>80</sub> Fullerenes and Their Rotation Inside Carbon Nanotubes Demonstrated by Aberration-Corrected Electron Microscopy| date = 2007| journal = Nano Letters| volume = 7| page = 3704|bibcode = 2007NanoL...7.3704S| issue = 12 |doi =10.1021/nl0720152|last1 = Sato|first1 = Yuta| last2 = Suenaga| first2 = Kazu| last3 = Okubo| first3 = Shingo| last4 = Okazaki| first4 = Toshiya| last5 = Iijima| first5 = Sumio}}</ref>
+
+===Chemical properties===
+Erbium metal tarnishes slowly in air and burns readily to form [[erbium(III) oxide]]:
+:4 Er + 3 O<sub>2</sub> → 2 Er<sub>2</sub>O<sub>3</sub>
+
+Erbium is quite electropositive and reacts slowly with cold water and quite quickly with hot water to form erbium hydroxide:
+:2 Er (s) + 6 H<sub>2</sub>O (l) → 2 Er(OH)<sub>3</sub> (aq) + 3 H<sub>2</sub> (g)
+
+Erbium metal reacts with all the halogens:
+:2 Er (s) + 3 F<sub>2</sub> (g) → 2 ErF<sub>3</sub> (s) [pink]
+:2 Er (s) + 3 Cl<sub>2</sub> (g) → 2 ErCl<sub>3</sub> (s) [violet]
+:2 Er (s) + 3 Br<sub>2</sub> (g) → 2 ErBr<sub>3</sub> (s) [violet]
+:2 Er (s) + 3 I<sub>2</sub> (g) → 2 ErI<sub>3</sub> (s) [violet]
+
+Erbium dissolves readily in dilute [[sulfuric acid]] to form solutions containing hydrated Er(III) ions, which exist as rose red [Er(OH<sub>2</sub>)<sub>9</sub>]<sup>3+</sup> hydration complexes:<ref>{{cite web| url =https://www.webelements.com/erbium/chemistry.html| title =Chemical reactions of Erbium| publisher=Webelements| accessdate=2009-06-06}}</ref>
+
+:2 Er (s) + 3 H<sub>2</sub>SO<sub>4</sub> (aq) → 2 Er<sup>3+</sup> (aq) + 3 {{chem|SO|4|2-}} (aq) + 3 H<sub>2</sub> (g)
+
+=== Isotopes ===
+{{main|Isotopes of erbium}}
+Naturally occurring erbium is composed of 6 stable [[isotope]]s, {{SimpleNuclide|Er|162}}, {{SimpleNuclide|Er|164}}, {{SimpleNuclide|Er|166}}, {{SimpleNuclide|Er|167}}, {{SimpleNuclide|Er|168}}, and {{SimpleNuclide|Er|170}} with {{SimpleNuclide|Er|166}} being the most abundant (33.503% [[natural abundance]]). 29 [[radioisotope]]s have been characterized, with the most stable being {{SimpleNuclide|Er|169}} with a [[half-life]] of {{val|9.4|u=days}}, {{SimpleNuclide|Er|172}} with a half-life of {{val|49.3|u=hours}}, {{SimpleNuclide|Er|160}} with a half-life of {{val|28.58|u=hours}}, {{SimpleNuclide|Er|165}} with a half-life of {{val|10.36|u=hours}}, and {{SimpleNuclide|Er|171}} with a half-life of {{val|7.516|u=hours}}. All of the remaining [[radioactive]] isotopes have half-lives that are less than {{val|3.5|u=hours}}, and the majority of these have half-lives that are less than 4 minutes. This element also has 13 [[meta state]]s, with the most stable being {{SimpleNuclide|Er|167|m}} with a half-life of {{val|2.269|u=seconds}}.<ref name="NUBASE">{{cite journal| first = Audi| last = Georges | title = The NUBASE Evaluation of Nuclear and Decay Properties| journal = Nuclear Physics A| volume = 729| pages = 3–128| publisher = Atomic Mass Data Center| date = 2003| doi=10.1016/j.nuclphysa.2003.11.001| bibcode=2003NuPhA.729....3A| last2 = Bersillon| first2 = O.| last3 = Blachot| first3 = J.| last4 = Wapstra| first4 = A.H.}}</ref>
+
+The isotopes of erbium range in [[atomic weight]] from {{val|142.9663|ul=u}} ({{SimpleNuclide|Er|143}}) to {{val|176.9541|u=u}} ({{SimpleNuclide|Er|177}}). The primary [[decay mode]] before the most abundant stable isotope, {{SimpleNuclide|Er|166}}, is [[electron capture]], and the primary mode after is [[beta decay]]. The primary [[decay product]]s before {{SimpleNuclide|Er|166}} are element 67 ([[holmium]]) isotopes, and the primary products after are element 69 ([[thulium]]) isotopes.<ref name="NUBASE"/>
+
+== History ==
+Erbium (for [[Ytterby]], a village in [[Sweden]]) was [[discovery of the chemical elements|discovered]] by [[Carl Gustaf Mosander]] in 1843.<ref>{{cite journal|author=Mosander, C. G. |date=1843|url=http://books.google.com/books?id=CJEOAAAAIAAJ&pg=PA241|title=On the new metals, Lanthanium and Didymium, which are associated with Cerium; and on Erbium and Terbium, new metals associated with Yttria|journal=Philosophical Magazine|volume= 23|issue=152| pages =241–254|doi=10.1080/14786444308644728}} Note: The first part of this article, which does NOT concern erbium, is a translation of: C. G. Mosander (1842) [http://books.google.com/books?id=XK4tAAAAcAAJ&pg=387 "Något om Cer och Lanthan"] [Some (news) about cerium and lanthanum], ''[[Scandinavian Scientist Conference|Förhandlingar vid de Skandinaviske naturforskarnes tredje möte (Stockholm)]]'' [Transactions of the Third Scandinavian Scientist Conference (Stockholm)], vol. 3, pp. 387–398.</ref> Mosander separated "yttria" from the mineral [[gadolinite]] into three fractions which he called [[yttria]], [[erbia]], and [[terbia]]. He named the new element after the village of Ytterby where large concentrations of yttria and erbium are located. Erbia and terbia, however, were confused at this time. After 1860, terbia was renamed erbia and after 1877 what had been known as erbia was renamed terbia. Fairly pure Er<sub>2</sub>[[oxygen|O]]<sub>3</sub> was independently isolated in 1905 by [[Georges Urbain]] and [[Charles James (chemist)|Charles James]]. Reasonably pure metal wasn't produced until 1934 when Klemm and Bommer reduced the [[anhydrous]] [[chloride]] with [[potassium]] vapor. It was only in the 1990s that the price for Chinese-derived erbium oxide became low enough for erbium to be considered for use as a colorant in art glass.<ref>{{cite book| pages =378–379| url =http://books.google.com/?id=34KwmkU4LG0C&pg=PA377| title = The development of modern chemistry| last= Ihde |first= Aaron John | publisher = Courier Dover Publications| date = 1984| isbn =0-486-64235-6}}</ref><!-- http://www.informaworld.com/smpp/ftinterface?content=a910855554&rt=0&format=pdf -->
+
+== Occurrence ==
+[[File:MonaziteUSGOV.jpg|thumb|left|Monazite sand]]
+The concentration of erbium in the Earth crust is about 2.8&nbsp;mg/kg and in the sea water 0.9&nbsp;ng/L.<ref name=patnaik>{{cite book | last =Patnaik | first =Pradyot | date = 2003 | title =Handbook of Inorganic Chemical Compounds | publisher = McGraw-Hill | pages = 293–295| isbn =0-07-049439-8 | url= http://books.google.com/?id=Xqj-TTzkvTEC&pg=PA293 | accessdate = 2009-06-06}}</ref> This concentration is enough to make erbium about 45th in [[Abundance of elements in Earth's crust|elemental abundance in the Earth's crust]].
+
+Like other rare earths, this element is never found as a free element in nature but is found bound in [[monazite]] sand ores. It has historically been very difficult and expensive to separate rare earths from each other in their ores but [[ion-exchange]] chromatography methods <ref>Early paper on the use of displacement ion-exchange chromatography to separate rare earths: {{cite journal | last1 = Spedding | first1 = F.H. | last2 = Powell | first2 = J.E. | date = 1954 | title = A practical separation of yttrium group rare earths from gadolinite by ion-exchange | journal = Chemical Engineering Progress | volume = 50 | pages = 7–15 }}</ref> developed in the late 20th century have greatly brought down the cost of production of all rare-earth metals and their [[chemical compound]]s.
+
+The principal commercial sources of erbium are from the minerals [[xenotime]] and [[euxenite]], and most recently, the ion adsorption clays of southern China; in consequence, China has now become the principal global supplier of this element. In the high-yttrium versions of these ore concentrates, yttrium is about two-thirds of the total by weight, and erbia is about 4–5%. When the concentrate is dissolved in acid, the erbia liberates enough erbium ion to impart a distinct and characteristic pink color to the solution. This color behavior is similar to what Mosander and the other early workers in the lanthanides would have seen in their extracts from the gadolinite minerals of Ytterby.
+
+==Production==
+Crushed minerals are attacked by hydrochloric or [[sulfuric acid]] that transforms insoluble rare-earth oxides into soluble chlorides or sulfates. The acidic filtrates are partially neutralized with caustic soda (sodium hydroxide) to pH 3–4. [[Thorium]] precipitates out of solution as hydroxide and is removed. After that the solution is treated with [[ammonium oxalate]] to convert rare earths into their insoluble [[oxalate]]s. The oxalates are converted to oxides by annealing. The oxides are dissolved in [[nitric acid]] that excludes one of the main components, [[cerium]], whose oxide is insoluble in HNO<sub>3</sub>. The solution is treated with [[magnesium nitrate]] to produce a crystallized mixture of [[double salt]]s of rare-earth metals. The salts are separated by [[ion exchange]]. In this process, rare-earth ions are sorbed onto suitable ion-exchange resin by exchange with hydrogen, ammonium or cupric ions present in the resin. The rare earth ions are then selectively washed out by suitable complexing agent.<ref name=patnaik/> Erbium metal is obtained from its oxide or salts by heating with [[calcium]] at {{val|1450|u=°C}} under argon atmosphere.<ref name=patnaik/>
+
+== Applications ==
+[[File:Erbium-glass.jpg|thumb|Erbium-colored glass]]
+Erbium's everyday uses are varied. It is commonly used as a [[filter (photography)|photographic filter]], and because of its resilience it is useful as a metallurgical additive. Other uses:
+* Used in [[Nuclear power|nuclear]] technology in neutron-absorbing [[control rod]]s.<ref name=emsley/><ref>{{cite book | isbn = 978-0-7923-5593-9 | chapter = Use of UraniumErbium and PlutoniumErbium Fuel in RBMK Reactors | pages = 121–125 | editor= Parish, Theodore A. | editor2= Khromov, Vyacheslav V. | editor3= Carron, Igor | date = 1999 | publisher = Kluwer | location = CBoston | title = Safety issues associated with Plutonium involvement in the nuclear fuel cycle | url = http://books.google.com/?id=aamn7uifb3gC}}</ref>
+* When added to [[vanadium]] as an [[alloy]], erbium lowers hardness and improves workability.<ref name=CRC>{{cite book| last= Hammond |first= C. R. |title = The Elements, in Handbook of Chemistry and Physics |edition = 81st| publisher =CRC press| date = 2000| isbn = 0-8493-0481-4}}</ref>
+* [[Erbium oxide]] has a pink color, and is sometimes used as a colorant for [[glass]], [[cubic zirconia]] and [[porcelain]]. The glass is then often used in [[sunglasses]] and cheap [[jewelry]].<ref name=CRC/>
+* Erbium-doped [[optical fibers|optical silica-glass fibers]] are the active element in [[erbium-doped fiber amplifier]]s (EDFAs), which are widely used in [[optical communications]].<ref>{{cite book | isbn = 978-0-12-084590-3 | url = http://books.google.com/?id=uAOq75yt5CcC | last1 = Becker|first1= P.C. | last2 = Olsson|first2= N.A. | last3 = Simpson| first3 =  J.R.  | date = 1999 | publisher = Academic Press | location = San Diego | title = Erbium-doped fiber amplifiers fundamentals and technology}}</ref> The same fibers can be used to create fiber [[lasers]]. In order to work efficiently, erbium-doped fiber is usually co-doped with glass modifiers/homogenizers, often aluminum or phosphorus.  These dopants help prevent clustering or Er-ions and transfer the energy more efficiently between the Er ions and the signal. Co-doping of optical fiber with Er and Yb is used in [[high-power Er/Yb fiber lasers]]. Erbium can also be used in [[erbium-doped waveguide amplifier]]s.<ref name=emsley/>
+* An erbium-[[nickel]] alloy Er<sub>3</sub>Ni has an unusually high specific heat capacity at liquid-helium temperatures and is used in [[cryocoolers]]; a mixture of 65% Er<sub>3</sub>[[cobalt|Co]] and 35% Er<sub>0.9</sub>[[Ytterbium|Yb]]<sub>0.1</sub>Ni by volume improves the specific heat capacity even more.<ref>{{cite book | title= Advances in Cryogenic Engineering | volume= 39a | editor=Kittel, Peter }}</ref><ref>{{cite book | title= Cryogenic Regenerative Heat Exchangers | first = Robert A. | last = Ackermann | publisher = Springer | date = 1997 | isbn = 978-0-306-45449-3 | page = 58 | url = http://books.google.com/?id=nIzviZ_-_NsC}}</ref>
+* A large variety of medical applications (i.e. dermatology, dentistry) utilize erbium ion's {{val|2940|u=nm}} emission (see [[Er:YAG laser]]), which is highly absorbed in water ([[Attenuation coefficient|absorption coefficient]] about {{val|12000|up=cm}}). Such shallow tissue deposition of laser energy is necessary for laser surgery, and the efficient production of steam for laser enamel ablation in dentistry.
+
+==Biological role==
+Erbium does not have a biological role, but erbium salts can stimulate [[metabolism]]. Humans consume 1 milligram of erbium a year on average. The highest concentration of erbium in humans is in the [[bone]]s, but there is also erbium in the human [[kidneys]] and [[liver]].<ref name=emsley/>
+
+===Toxicity===
+Erbium is slightly toxic if ingested, but erbium compounds are not toxic.<ref name=emsley/> Metallic erbium in dust form presents a fire and explosion hazard.<ref>{{cite journal|last1=Haley|first1= T. J.|last2=Koste|first2= L|last3= Komesu|first3= N|last4= Efros|first4= M|last5= Upham|first5= H. C. |year=1966 |title=Pharmacology and toxicology of dysprosium, holmium, and erbium chlorides |journal=Toxicology and applied pharmacology |volume=8 |issue=1 |pages=37–43 |doi=10.1016/0041-008x(66)90098-6 |pmid=5921895 }}</ref><ref>{{cite journal |author=Haley, T. J. |year=1965 |title=Pharmacology and toxicology of the rare earth elements |journal=Journal of Pharmaceutical Sciences |volume=54 |issue=5 |pages=663–70 |doi=10.1002/jps.2600540502 |pmid=5321124}}</ref><ref>{{cite journal |last1=Bruce|first1= D. W.|last2= Hietbrink|first2= B. E.|last3= Dubois|first3= K. P. |year=1963 |title=The acute mammalian toxicity of rare earth nitrates and oxides |journal=Toxicology and Applied Pharmacology |volume=5 |issue=6 |page=750 |doi=10.1016/0041-008X(63)90067-X}}</ref>
+
+== See also ==
+* [[:Category:Erbium compounds|Erbium compounds]]
+* [[Terbium]]
+* [[Ytterbium]]
+* [[Yttrium]]
+
+== References ==
+{{reflist|30em}}
+
+==Further reading==
+* ''Guide to the Elements – Revised Edition'', Albert Stwertka (Oxford University Press; 1998), ISBN 0-19-508083-1.
+
+== External links ==
+{{Commons|Erbium}}
+{{wiktionary|erbium}}
+* [http://www.webelements.com/webelements/elements/text/Er/index.html WebElements.com – Erbium] (also used as a reference)
+* [http://education.jlab.org/itselemental/ele068.html It's Elemental – Erbium]
+{{clear}}
+{{Compact periodic table}}
+{{Erbium compounds}}
+{{Chemical elements named after places}}
+
+{{Authority control}}
+[[Category:Chemical elements]]
+[[Category:Lanthanides]]
+[[Category:Erbium]]
+[[Category:Reducing agents]]

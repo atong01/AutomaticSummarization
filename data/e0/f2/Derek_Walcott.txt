@@ -1,0 +1,280 @@
+{{Use dmy dates|date=March 2015}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name         = Derek Walcott
+| image        = Derek Walcott.jpg
+| caption      = Walcott at an honorary dinner in Amsterdam, 20 May 2008
+| pseudonym    =
+| birth_name   = Derek Alton Walcott
+| birth_date   = {{birth date and age|1930|1|23|df=yes}}
+| birth_place  = [[Castries]], [[Saint Lucia]]
+| death_date   = 
+| death_place  = 
+| occupation   = Poet, playwright, professor
+| nationality  = [[Saint Lucia]]n
+| period       =
+| genre        = Poetry and plays
+| subject      = 
+| notableworks = ''[[Omeros]]''
+| spouse       = <!-- Notable only see [[:WP:Notable]] -->
+| children     = Peter Walcott, Elizabeth Walcott-Hackshaw, Anna Walcott-Hardy  
+| relatives    =
+| awards       = {{awd|[[Nobel Prize in Literature]]|1992}} {{awd|[[T. S. Eliot Prize]]|2011}}
+| influences   = [[Hart Crane]], [[Robert Lowell]], [[Elizabeth Bishop]]
+| influenced   = [[Glyn Maxwell]], [[Edward Baugh]], [[Adam Kirsch]]
+| signature    = Firma-Derek-Walcott.png
+| website      =
+}}
+'''Derek Alton Walcott''', [[Officer of the Order of the British Empire|OBE]] [[Order of the Caribbean Community|OCC]] (born 23 January 1930) is a [[Saint Lucia]]n- [[Trinidadian]] poet and playwright. He received the 1992 [[Nobel Prize in Literature]].<ref>{{cite web|url=http://nobelprize.org/nobel_prizes/literature/laureates/1992/walcott-bio.html|title=Derek Walcott – Biographical|work=nobelprize.org}}</ref> He is currently Professor of Poetry at the [[University of Essex]]. His works include the [[Homeric]] [[Epic poetry|epic poem]] ''[[Omeros]]'' (1990), which many critics view "as Walcott's major achievement."<ref name="poetryfoundation.org">{{cite web|url=http://www.poetryfoundation.org/bio/derek-walcott|title=Derek Walcott|work=poetryfoundation.org}}</ref><ref Name="Poetry Found"/> In addition to having won the Nobel, Walcott has won many literary awards over the course of his career, including an [[Obie Award]] in 1971 for his play ''[[Dream on Monkey Mountain]]'', a [[MacArthur Foundation]] "genius" award, a [[Royal Society of Literature]] Award, the [[Queen's Gold Medal for Poetry|Queen's Medal for Poetry]], the inaugural [[OCM Bocas Prize for Caribbean Literature]]<ref>[http://www.trinidadexpress.com/news/Derek_Walcott_wins_OCM_Bocas_Prize-121040233.html "Derek Walcott wins OCM Bocas Prize"], ''Trinidad Express Newspapers'', 30 April 2011.</ref> and the 2011 [[T. S. Eliot Prize]] for his book of poetry ''White Egrets''.<ref Name="Eliot">Charlotte Higgins, [http://www.guardian.co.uk/books/2011/jan/24/ts-eliot-prize-derek-walcott "TS Eliot prize goes to Derek Walcott for 'moving and technically flawless' work"], ''The Guardian'', 24 January 2011.</ref>
+
+==Early life and education==
+Walcott was born and raised in [[Castries]], [[Saint Lucia]], in the [[West Indies]] with a twin brother, the future playwright [[Roderick Walcott]], and a sister, Pamela Walcott. His family is of African and European descent, reflecting the complex colonial history of the island which he explores in his poetry. His mother, a teacher, loved the arts and often recited poetry around the house.<ref Name="Paris Review">[http://www.theparisreview.org/interviews/2719/the-art-of-poetry-no-37-derek-walcott "Derek Walcott, The Art of Poetry No. 37"], ''The Paris Review'' Winter 1986</ref> His father, who painted and wrote poetry, died at age 31 from [[mastoiditis]] while his wife was pregnant with the twins Derek and Roderick, who were born after his death.<ref name="Paris Review" /> Walcott's family was part of a minority Methodist community, who felt overshadowed by the dominant Catholic culture of the island established during French colonial rule.
+
+As a young man Walcott trained as a painter, mentored by [http://www.stluciafolk.org/folkPersonalities/view/18  Harold Simmons], whose life as a professional artist provided an inspiring example for him.  Walcott greatly admired [[Cézanne]] and [[Giorgione]] and sought to learn from them.<ref name="Paris Review" /> Walcott's painting was later exhibited at the [[Anita Shapolsky Gallery]] in New York City, along with the art of other writers, in a 2007 exhibition named "The Writer's Brush: Paintings and Drawing by Writers".<ref>{{cite web|url=http://www.cbsnews.com/news/the-writers-brush/|title=The Writer's Brush|date=16 December 2007|work=CBS News}}</ref><ref>{{cite web|url=http://www.anitashapolskygallery.com/past_exhibits_writers.html|title=The Writer's Brush; September 11th – October 27th, 2007 |work=Anita Shapolsky Gallery NYC}}</ref>
+
+He studied as a writer, becoming “an elated, exuberant poet madly in love with English” and strongly influenced by modernist poets such as [[T. S. Eliot]] and [[Ezra Pound]].<ref Name="Poetry Found">[http://www.poetryfoundation.org/bio/derek-walcott "Derek Walcott"], Poetry Foundation.</ref> Walcott had an early sense of a vocation as a writer. In the poem "Midsummer" (1984), he wrote: 
+<poem>
+Forty years gone, in my island childhood, I felt that 
+the gift of poetry had made me one of the chosen, 
+that all experience was kindling to the fire of the Muse.<ref name="Paris Review" />
+</poem>
+At 14, Walcott published his first poem, a [[John Milton|Miltonic]], religious poem in the newspaper, ''The Voice of St Lucia.'' An English Catholic priest condemned the Methodist-inspired poem as blasphemous in a response printed in the newspaper.<ref name="Paris Review" /> By 19, Walcott had self-published his two first collections with the aid of his mother, who paid for the printing: ''25 Poems'' (1948) and ''Epitaph for the Young: XII Cantos'' (1949).  He sold copies to his friends and covered the costs.<ref Name="Academy">[http://www.poets.org/poet.php/prmPID/220 "Derek Walcott"], Academy of American poets</ref> He later commented, <blockquote>I went to my mother and said, 'I’d like to publish a book of poems, and I think it’s going to cost me two hundred dollars.' She was just a seamstress and a schoolteacher, and I remember her being very upset because she wanted to do it. Somehow she got it—a lot of money for a woman to have found on her salary. She gave it to me, and I sent off to [[Trinidad]] and had the book printed. When the books came back I would sell them to friends. I made the money back.<ref name="Paris Review" /></blockquote>The influential Bajan poet [[Frank Collymore]] critically supported Walcott's early work.<ref name="Paris Review" />
+
+With a scholarship, he studied at the [[University College of the West Indies]] in [[Kingston, Jamaica]].<ref Name="British Council">{{cite web|url=http://www.contemporarywriters.com/authors/?p=authC2D9C28A0a4dc1BE88LsX2F7F9A1|title=Derek Walcott – British Council Literature|author=British Council|work=contemporarywriters.com}}</ref>
+
+==Personal life==
+Derek Walcott married Fay Moston, a secretary, but the marriage lasted only a few years and ended in divorce. Walcott married a second time to Margaret Maillard, who worked as an almoner in a hospital, but that also ended in divorce. In 1976, Walcott then married to Norline Metivier, which just like the previous two, ended in a breakup.
+
+Walcott is also known for his passion for traveling to different countries around the world. He splits his time between New York, Boston, and St. Lucias, where he incorporates the influences of different areas into his pieces of work.
+
+==Career==
+After graduation, Walcott moved to Trinidad in 1953, where he became a critic, teacher and journalist.<ref Name="British Council"/> Walcott founded the [[Trinidad Theatre Workshop]] in 1959 and remains active with its Board of Directors.<ref Name="Academy"/>
+
+Exploring the Caribbean and its history in a colonialist and post-colonialist context, his collection ''In a Green Night: Poems 1948–1960'' (1962) attracted international attention.<ref Name="Poetry Found"/> His play ''[[Dream on Monkey Mountain]]'' (1970) was produced on NBC-TV in the United States the year it was published. In 1971 it was produced by the [[Negro Ensemble Company]] off-Broadway in New York City; it won an [[Obie Award]] that year for "Best Foreign Play".<ref>[http://www.infoplease.com/ipa/A0153558.html Obie Award Listing: ''Dream on Monkey Mountain''], InfoPlease</ref> The following year, Walcott won an [[OBE]] from the British government for his work.<ref name="Oxford University">[http://www.ox.ac.uk/about_the_university/university_year/encaenia/past_five_years/honorary06.html Oxford University]</ref>
+
+He was hired as a teacher by [[Boston University]] in the United States, where he founded the [[Boston Playwrights' Theatre]] in 1981. That year he also received a [[MacArthur Foundation Fellowship]] in the United States.  Walcott taught literature and writing at Boston University for more than two decades, publishing new books of poetry and plays on a regular basis and retiring in 2007. He became friends with other poets, including the Russian [[Joseph Brodsky]], who lived and worked in the US after being exiled in the 1970s, and the Irish [[Seamus Heaney]], who also taught in Boston.
+
+His epic poem, ''[[Omeros]]'' (1990), which loosely echoes and refers to characters from ''[[The Iliad]]'', has been critically praised "as Walcott's major achievement."<ref name="poetryfoundation.org"/> The book received praise from publications such as ''The Washington Post'' and ''The New York Times Book Review'', which chose the book as one of its "Best Books of 1990".
+
+Walcott was awarded the [[Nobel Prize in Literature]] in 1992, the second Caribbean writer to receive the honor after [[Saint-John Perse]], who was born in [[Guadeloupe]], received the award in 1960. The Nobel committee described Walcott's work as “a poetic oeuvre of great luminosity, sustained by a historical vision, the outcome of a multicultural commitment.”<ref Name="Poetry Found"/> He won an [[Anisfield-Wolf Book Award]]<ref name="anisfield-wolf.org"/> for Lifetime Achievement in 2004.
+
+His later poetry collections include ''Tiepolo’s Hound'' (2000), illustrated with copies of his watercolors;<ref>[http://www.poets.org/viewmedia.php/prmMID/5936 "Derek Walcott's ''Tiepolo’s Hound''"], essay, Academy of American Poets</ref> ''The Prodigal'' (2004), and ''White Egrets'' (2010), which received the T.S. Eliot Prize.<ref Name="Poetry Found"/><ref Name="British Council"/>
+
+In 2009, Walcott began a three-year distinguished scholar-in-residence position at the [[University of Alberta]].  In 2010, he became Professor of Poetry at the [[University of Essex]].<ref>{{cite web|url=http://www.essex.ac.uk/news/event.aspx?e_id=1156|title=Nobel Laureate Derek Walcott is new Professor of Poetry|date=11 December 2009|accessdate=10 January 2010|publisher=''[[University of Essex]]''}}</ref>
+
+===Oxford Professor of Poetry candidacy===
+In 2009, Walcott was a leading candidate for the position of [[Oxford Professor of Poetry]]. He withdrew his candidacy after reports of documented accusations against him of sexual harassment from 1981 and 1996.<ref>{{cite book
+|title=The Lecherous Professor: Sexual Harassment on Campus
+|first= Billie Wright 
+|last=Dziech
+|author2=Linda Weiner
+|edition= second
+|publisher=University of Illinois Press
+|location=Urbana. IL
+|year= 1990
+|ISBN=0-252-06118-7
+|url=http://books.google.com/books?id=Cy9g0huofa0C
+|pages=29–31
+}}
+</ref> (The latter case was settled by Boston University out of court.)<ref>Jack Grimston and Sian Griffiths, [http://www.timesonline.co.uk/tol/news/uk/article6256746.ece "Sex Pest File Gives Oxford Poetry Race a Nasty Edge."], in ''[[The Sunday Times]]'', 10 May 2009.</ref> When the media learned that pages from an American book on the topic were sent anonymously to a number of Oxford academics, this aroused their interest in the university decisions.<ref name="Woods">{{cite news|url=http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/poetry/article6350589.ece|title=Call for Oxford poet to resign after sex row|date=24 May 2009|accessdate=25 May 2009|publisher=''The Sunday Times'' | location=London | first=Richard | last=Woods}}</ref><ref name="Ch4News">{{cite web|url=http://www.channel4.com/news/articles/arts_entertainment/poetic+justice+as+padel+steps+down/3169662|title=Poetic justice as Padel steps down|date=26 May 2009|accessdate=26 May 2009|publisher=[[Channel 4 News]]}}</ref>
+
+[[Ruth Padel]], also a leading candidate, was elected to the post. Within days, ''[[The Daily Telegraph]]'' reported that she had alerted journalists to the harassment cases.<ref name="Khan">{{cite news|url=http://www.telegraph.co.uk/education/educationnews/5378474/Ruth-Padel-under-pressure-to-resign-Oxford-post-over-emails-about-rival-poet-Derek-Walcott.html|title=Ruth Padel under pressure to resign Oxford post over emails about rival poet Derek Walcott|date=24 May 2009|accessdate=24 May 2009|publisher=''[[Daily Telegraph]]'' | location=London | first1=Urmee | last1=Khan | first2=Richard | last2=Eden}}</ref><ref name="Padel">{{cite news|author=Press Association |url=http://www.guardian.co.uk/books/2009/may/25/ruth-padel-oxford-poetry-resigns |title=Oxford professor of poetry Ruth Padel resigns |publisher=''The Guardian'' |date= 25 May 2009|accessdate=20 September 2010 | location=London}}</ref>  Under severe media and academic pressure, Padel resigned.<ref name="Khan"/><ref name="Hay festival diary">{{cite news|url=http://www.guardian.co.uk/books/video/2009/may/26/hay-festival-ruth-padel|title=Hay festival diary: Ruth Padel talks about the poetry professorship scandal|date=26 May 2009|accessdate=26 May 2009|publisher=''The Guardian'' | location=London | first=Rebecca | last=Lovell}}</ref> Padel was the first woman to be elected to the Oxford post, and journalists including [[Libby Purves]], [[Yasmin Alibhai-Brown]], the American Macy Halford and the Canadian Suzanne Gardner attributed the criticism of her to misogyny<ref>[http://www.thetimes.co.uk/tto/opinion/columnists/libbypurves/article2043191.ece Libby Purves, "A familiar reek of misogyny and mistrust"], ''The Times'', 18 May 2009.</ref><ref>{{cite news| url=http://www.independent.co.uk/opinion/commentators/yasmin-alibhai-brown/yasmin-alibhaibrown-a-male-poet-wouldnt-have-been-blamed-for-rough-tactics-1690430.html | title= A Male Poet Wouldn't Have Been Blamed for Rough Tactics| last=Alibhai Brown | first=Yasmin |location=| work=The Independent | date=25 May 2009}}</ref> and a gender war at Oxford. They said that a male poet would not have been so criticized, as she had reported published information, not rumour.<ref>{{cite web|last=Halford |first=Macy |url=http://www.newyorker.com/online/blogs/books/2009/05/oxfords-gender-trouble.html |title=The Book Bench: Oxford’s Gender Trouble |publisher=''The New Yorker'' |date=7 January 2009 |accessdate=20 September 2010}}</ref><ref>{{cite web |last=Gardner |first=Suzanne |url=http://www.quillandquire.com/blog/index.php/2009/05/26/ruth-padel-resigns-but-the-gender-war-rages-on/ |title=Ruth Padel resigns, but the "gender war" rages on; Quillblog &#124 |work= Quill and Quire |date=26 May 2009 |accessdate=20 September 2010}}</ref>
+
+Numerous respected poets, including [[Seamus Heaney]] and [[Al Alvarez]], published a letter of support for Walcott in ''[[The Times Literary Supplement]],'' and criticized the press furore.<ref>[[Al Alvarez]], [[Alan Brownjohn]], [[Carmen Bugan]], [[David Constantine]], [[Elizabeth Cook (writer)|Elizabeth Cook]], [[Robert Conquest]], [[Jonty Driver]], [[Seamus Heaney]], [[Jenny Joseph]], [[Grevel Lindop]], [[Patrick McGuinness (writer)|Patrick McGuinness]], [[Lucy Newlyn]], [[Bernard O’Donoghue]], [[Michael Schmidt (poet)|Michael Schmidt]], [[Jon Stallworthy]], [[Michael Suarez]], [[D. M. Thomas|Don Thomas]], [[Anthony Thwaite]], "Oxford Professor of Poetry," ''[[Times Literary Supplement]]'', 3 June 2009, p. 6.</ref> Other commentators suggested that both poets were casualties of the media interest in an internal university affair, because the story "had everything, from sex claims to allegations of character assassination".<ref name="enotes">[http://www.enotes.com/topic/Oxford_Professor_of_Poetry "Oxford Professor of Poetry"], ENotes</ref> [[Simon Armitage]] and other poets expressed regret at Padel's resignation.<ref>{{cite web|url=http://www.bbc.co.uk/blogs/newsnight/fromthewebteam/2009/05/ |title=Newsnight: From the web team |publisher=BBC |accessdate=10 September 2010}}</ref><ref>{{cite news|author=[[Robert McCrum]] |url=http://www.guardian.co.uk/books/2009/may/31/ruth-padel-derek-walcott-oxford-professor-poetry |title=Who dares to follow in Ruth Padel's footsteps? |publisher= ''The Observer'' |date= 31 May 2009|accessdate=18 September 2010 | location=London}}</ref>
+
+==Writing==
+[[File:Derek Walcott - Omeros.jpg|{{largethumb}}|[[Wall poems in Leiden|Wall poem ''Omeros'' in Leiden]] ]]
+[[File:WallPoemTheHagueDerekWalcott.JPG|{{largethumb}}|Wall poem ''Midsummer, Tobago'' in The Hague]]
+
+===Themes===
+[[Methodism]] and spirituality have played a significant role from the beginning in Walcott's work. He commented, "I have never separated the writing of poetry from prayer. I have grown up believing it is a [[vocation]], a religious vocation." Describing his writing process, he wrote, "the body feels it is melting into what it has seen… the 'I' not being important. That is the ecstasy...Ultimately, it’s what [[Yeats]] says: 'Such a sweetness flows into the breast that we laugh at everything and everything we look upon is blessed.' That’s always there. It’s a benediction, a transference. It’s gratitude, really. The more of that a poet keeps, the more genuine his nature."<ref name="Paris Review" /> He also notes, "if one thinks a poem is coming on...you do make a retreat, a withdrawal into some kind of silence that cuts out everything around you. What you’re taking on is really not a renewal of your identity but actually a renewal of your anonymity."<ref name="Paris Review" />
+
+===Influences===
+Walcott has said his writing was influenced by the work of the American poets, [[Robert Lowell]] and [[Elizabeth Bishop]], who were also friends.<ref name="Paris Review" />
+
+===Playwriting===
+He has published more than twenty plays, the majority of which have been produced by the [[Trinidad Theatre Workshop]] and have also been widely staged elsewhere. Many of them address, either directly or indirectly, the liminal status of the West Indies in the post-colonial period. Through poetry he also explores the paradoxes and complexities of this legacy.
+
+===Essays===
+In his 1970 essay "What the Twilight Says: An Overture", discussing art and theatre in his native region (from ''Dream on Monkey Mountain and Other Plays''), Walcott reflects on the West Indies as colonized space.  He discusses the problems for an artist of a region with little in the way of truly [[Indigenous peoples of the Americas|indigenous]] forms, and with little national or nationalist identity. He states: “We are all strangers here... Our bodies think in one language and move in another". The epistemological effects of colonization inform plays such as ''Ti-Jean and his Brothers''. Mi-Jean, one of the eponymous brothers, is shown to have much information, but to truly know nothing. Every line Mi-Jean recites is rote knowledge gained from the coloniser; he is unable to synthesize it or apply it to his life as a colonised person.
+
+Walcott notes of growing up in West Indian culture:<blockquote>"What we were deprived of was also our privilege. There was a great joy in making a world that so far, up to then, had been undefined... My generation of West Indian writers has felt such a powerful elation at having the privilege of writing about places and people for the first time and, simultaneously, having behind them the tradition of knowing how well it can be done—by a [[Daniel Defoe|Defoe]], a [[Dickens]], a [[Henry Handel Richardson|Richardson]]."<ref name="Paris Review" /></blockquote>Walcott identifies as "absolutely a Caribbean writer", a pioneer, helping to make sense of the legacy of deep colonial damage.<ref name="Paris Review" /> In such poems as "The Castaway" (1965) and in the play ''[[Pantomime (Walcott play)|Pantomime]]'' (1978), he uses the metaphors of shipwreck and [[Robinson Crusoe|Crusoe]] to describe the culture and what is required of artists after colonialism and slavery: both the freedom and the challenge to begin again, salvage the best of other cultures and make something new. These images recur in later work as well. He writes, "If we continue to sulk and say, Look at what the slave-owner did, and so forth, we will never mature. While we sit moping or writing morose poems and novels that glorify a non-existent past, then time passes us by."<ref name="Paris Review" />
+
+===''Omeros''===
+Walcott's epic book-length poem ''[[Omeros]]'' was published in 1990 to critical acclaim. The poem very loosely echoes and references [[Homer]] and some of his major characters from ''[[The Iliad]]''. Some of the poem's major characters include the island fishermen Achille and Hector, the retired English officer Major Plunkett and his wife Maud, the housemaid Helen, the blind man Seven Seas (who symbolically represents Homer), and the author himself.
+
+Although the main narrative of the poem takes place on the island of St. Lucia, where Walcott was born and raised, Walcott also includes scenes from [[Brookline, Massachusetts]] (where Walcott was living and teaching at the time of the poem's composition), and the character Achille imagines a voyage from Africa onto a slave ship that is headed for the Americas; also, in Book Five of the poem, Walcott narrates some of his travel experiences in a variety of cities around the world, including [[Lisbon]], London, [[Dublin]], Rome, and Toronto.
+ 
+Composed in a variation on ''[[terza rima]]'', the work explores the themes that run throughout Walcott's oeuvre: the beauty of the islands, the colonial burden, the fragmentation of Caribbean identity, and the role of the poet in a post-colonial world.<ref name="Bixby">Patrick Bixby, [http://www.english.emory.edu/Bahri/Walcott.html "Derek Walcott"], essay: Spring 2000, Emory University, accessed 30 March 2012.</ref>
+
+===Criticism and praise===
+Walcott's work has received praise from major poets including [[Robert Graves]], who wrote that Walcott "handles English with a closer understanding of its inner magic than most, if not any, of his contemporaries",<ref>Robert D. Hamner, [http://books.google.co.uk/books?id=CkNTOawGMjwC&pg=PA1&lpg=PA1&dq=&source=bl&ots=t6XBMMi0rR&sig=b1kkPUT2Dxvp3yj5E75Xm8qmjFg&hl=en&sa=X&ei=6ZpJVLeLF8P3apG4gOAH&ved=0CDoQ6AEwBA#v=snippet&q=handles%20English&f=false "Introduction", ''Critical Perspectives on Derek Walcott''] (Three Continents, 1993), Lynne Rienner, 1997, p. 1.</ref> and [[Joseph Brodsky]], who praised Walcott's work, writing: "For almost forty years his throbbing and relentless lines kept arriving in the English language like tidal waves, coagulating into an archipelago of poems without which the map of modern literature would effectively match wallpaper. He gives us more than himself or 'a world'; he gives us a sense of infinity embodied in the language."<ref>{{cite web|url=http://www.poets.org/poet.php/prmPID/220|title=Derek Walcott|work=poets.org}}</ref> Walcott noted that he, Brodsky, and the Irish poet [[Seamus Heaney]], who all taught in the United States, were a band of poets "outside the American experience".
+
+The poetry critic William Logan critiqued Walcott's work in a ''New York Times'' book review of Walcott's ''Selected Poems''. While he praised Walcott's writing in ''Sea Grapes'' and ''The Arkansas Testament'', he had mostly negative things to say about Walcott's poetry, calling ''Omeros'' "clumsy" and ''Another Life'' "pretentious.".<ref>[http://www.nytimes.com/2007/04/08/books/review/Logan.t.html? Logan, William. The Poet of Exile. New York Times. April 8, 2007]</ref> Finally, he concluded with the faint praise that "No living poet has written verse more delicately rendered or distinguished than Walcott, though few individual poems seem destined to be remembered."
+
+Most reviews of Walcott's work are more positive. For instance, in ''[[The New Yorker]]'' review of ''The Poetry of Derek Walcott'', Adam Kirsch had high praise for Walcott's oeuvre, describing his style in the following manner:<blockquote>By combining the grammar of vision with the freedom of metaphor, Walcott produces a beautiful style that is also a philosophical style. People perceive the world on dual channels, Walcott’s verse suggests, through the senses and through the mind, and each is constantly seeping into the other. The result is a state of perpetual magical thinking, a kind of ''Alice in Wonderland'' world where concepts have bodies and landscapes are always liable to get up and start talking.<ref>[http://www.newyorker.com/magazine/2014/02/03/full-fathom-five-2 Kirsch, Adam. "Full Fathom Five." The New Yorker. 3 February 2014]</ref></blockquote> He calls ''Another Life'' Walcott's "first major peak" and analyzes the painterly qualities of Walcott's imagery from his earliest work through to later books like ''Tiepolo's Hound''. He also explores the post-colonial politics in Walcott's work, calling him "the postcolonial writer par excellence." He calls the early poem "A Far Cry from Africa" a turning point in Walcott's development as a poet. Like Logan, Kirsch is critical of ''Omeros'' which he believes Walcott fails to successfully sustain over its entirety. Although ''Omeros'' is the volume of Walcott's that usual receives the most critical praise, Kirsch, instead believes that ''Midsummer'' is his best book.
+
+==Awards and honours==
+* 1969   [[Cholmondeley Award]]
+* 1971   [[Obie Award]] for Best Foreign Play (for ''Dream on Monkey Mountain'')
+* 1972   [[Officer of the Order of the British Empire]]<ref name="Oxford University"/>
+* 1981 MacArthur Foundation Fellowship ("genius award")
+* 1988   [[Queen's Gold Medal for Poetry]]
+* 1990   [[Arts Council of Wales]] International Writers Prize
+* 1990   [[W. H. Smith Literary Award]] (for poetry ''Omeros'')
+* 1992   [[Nobel Prize in Literature]]
+* 2004   [[Anisfield-Wolf Book Award|Anisfield-Wolf Book Award for Lifetime Achievement]]<ref name="anisfield-wolf.org">[http://www.anisfield-wolf.org/books/lifetime-derek-walcott/?sortby=year "Derek Walcott, 2004 – Lifetime Achievement"], Winners – Anisfield-Wolf Book Award.</ref>
+* 2008 Honorary doctorate from the [[University of Essex]]
+* 2011   [[T. S. Eliot Prize]] (for poetry collection ''White Egrets'')<ref Name="Eliot"/>
+* 2011   [[OCM Bocas Prize for Caribbean Literature]] (for ''White Egrets'')
+* 2015   [[Griffin Poetry Prize|Griffin Trust For Excellence In Poetry]] Lifetime Recognition Award
+
+==List of works==
+* {{worldcat subject|lccn-n79-149058}}
+* {{OL_author|OL32247A}}
+{{refbegin|30em}}
+
+;Poetry collections
+* 1948 ''25 Poems''
+* 1949 ''Epitaph for the Young: Xll Cantos''
+* 1951 ''Poems''
+* 1962 ''In a Green Night: Poems 1948—60''
+* 1964 ''Selected Poems''
+* 1965 ''The Castaway and Other Poems''
+* 1969 ''The Gulf and Other Poems''
+* 1973 ''Another Life''
+* 1976 ''Sea Grapes''
+* 1979 ''The Star-Apple Kingdom''
+* 1981 ''Selected Poetry''
+* 1981 ''The Fortunate Traveller''
+* 1983 ''The Caribbean Poetry of Derek Walcott and the Art of Romare Bearden''
+* 1984 ''Midsummer''
+* 1986 ''Collected Poems, 1948–1984'', featuring "[[Love After Love (poem)|Love After Love]]"
+* 1987 "Central America"
+* 1987 ''The Arkansas Testament''
+* 1990 ''[[Omeros]]''
+* 1997 ''The Bounty''
+* 2000 ''Tiepolo's Hound,'' includes Walcott's watercolors
+* 2004 ''The Prodigal''
+* 2007 ''Selected Poems'' (edited, selected, and with an introduction by [[Edward Baugh]])
+* 2010 ''White Egrets''
+* 2014 ''The Poetry of Derek Walcott 1948–2013''
+
+;Plays
+* (1950) ''[[Henri Christophe: A Chronicle in Seven Scenes]]''
+* (1951) ''[[Harry Dernier: A Play for Radio Production]]''
+* (1953) ''[[Wine of the Country]]''
+* (1954) ''[[The Sea at Dauphin: A Play in One Act]]''
+* (1957) ''[[Ione (play)|Ione]]''
+* (1958) ''[[Drums and Colours: An Epic Drama]]''
+* (1958) ''[[Ti-Jean and His Brothers]]''
+* (1966) ''[[Malcochon: or, Six in the Rain]]''
+* (1967) ''[[Dream on Monkey Mountain]]''
+* (1970) ''[[In a Fine Castle]]''
+* (1974) ''[[The Joker of Seville (Walcott)|The Joker of Seville]]''
+* (1974) ''[[The Charlatan (play)|The Charlatan]]''
+* (1976) ''[[O Babylon!]]''
+* (1977) ''[[Remembrance (play)|Remembrance]]''
+* (1978) ''[[Pantomime (Walcott play)]]''
+* (1980) ''[[The Joker of Seville and O Babylon!: Two Plays]]''
+* (1982) ''[[The Isle Is Full of Noises]]''
+* (1984) "The Haitian Earth"
+* (1986) Three Plays ''[[The Last Carnival]]'', ''[[Beef, No Chicken]]'', and ''A Branch of the Blue Nile'')
+* (1991) ''[[Steel (play)|Steel]]''
+* (1993) ''[[Odyssey: A Stage Version]]''
+* (1997) ''[[The Capeman]]'' (book and lyrics, both in collaboration with [[Paul Simon]])
+* (2002) ''[[Walker and The Ghost Dance]]''
+* (2011) ''Moon-Child''
+* (2014) ''O Starry Starry Night''
+
+;Other books
+* (1950) ''Henri Christophe: A Chronicle in Seven Scenes'', Barbados Advocate (Barbados)
+* (1990) ''The Poet in the Theatre'', Poetry Book Society (London)
+* (1993) ''The Antilles: Fragments of Epic Memory'' Farrar, Straus (New York)
+* (1996) ''Conversations with Derek Walcott'', University of Mississippi (Jackson, MS)
+* (1996) (With Joseph Brodsky and Seamus Heaney) ''Homage to Robert Frost'', Farrar, Straus (New York)
+* (1998) ''What the Twilight Says'' (essays), Farrar, Straus (New York, NY)
+* (2002) ''Walker and Ghost Dance'', Farrar, Straus (New York, NY)
+* (2004) ''Another Life: Fully Annotated'', Lynne Rienner Publishers (Boulder, CO)
+{{refend}}
+
+==Further reading==
+* [[William Baer (poet)|Baer, William]], ed. ''Conversations with Derek Walcott''. Jackson: University Press of Mississippi, 1996.
+* Baugh, Edward, ''Derek Walcott: Memory as Vision:'' Another Life. London: Longman, 1978.
+* Baugh, Edward, ''Derek Walcott''. Cambridge: Cambridge University Press, 2006.
+* Breslin, Paul, ''Nobody's Nation: Reading Derek Walcott''. Chicago: University of Chicago Press, 2001. ISBN 0-226-07426-9
+* [[Stewart Brown|Brown, Stewart]], ed., ''The Art of Derek Walcott''. Chester Springs, PA.: Dufour, 1991; Bridgend: Seren Books, 1992.
+* Burnett, Paula, ''Derek Walcott: Politics and Poetics''. Gainesville: University Press of Florida, 2001.
+* Fumagalli, Maria Cristina, ''The Flight of the Vernacular: Seamus Heaney, Derek Walcott and the Impress of Dante''. Amsterdam-New York: Rodopi, 2001.
+*Fumagalli, Maria Cristina, ''Agenda'' 39:1–3 (2002–03), Special Issue on Derek Walcott. Includes Derek Walcott's ''Epitaph for the Young'' (1949) republished here in its entirety.
+* Fumagalli, Maria Cristina and Patrick, Peter, "Two Healing Narratives: Suffering, Reintegration, and the Struggle of Language", ''Small Axe'' 20 10:2 (2006), pp.&nbsp;61–79.
+*Fumagalli, Maria Cristina, "Brushing History Against the Grain: Derek Walcott's ''Tiepolo's Hound''", in ''Caribbean Perspectives on Modernity: Returning Medusa's Gaze''. Charlottesville: University of Virginia Press, 2009.
+* Gazzoni, Andrea, ''Epica dell'arcipelago. Il racconto della tribù, Derek Walcott, "Omeros"''. Firenze: Le Lettere, 2009. ISBN 88-6087-288-X
+* Hamner, Robert D., ed. ''Critical Perspectives on Derek Walcott''. Washington, D.C.: Three Continents, 1993. ISBN 0-89410-142-0
+* Hamner, Robert D., ''Derek Walcott''. Updated Edition. Twayne's World Authors Series. TWAS 600. New York: Twayne, 1993.
+* Heaney, Seamus, "The Murmur of Malvern", in ''The Government of the Tongue: The 1986 T. S. Eliot Memorial Lectures and Other Critical Writings''. London: Faber and Faber, 1988, pp.&nbsp;23–29.
+* King, Bruce, ''Derek Walcott and West Indian Drama: "Not Only a Playwright But a Company": The Trinidad Theatre Workshop 1959–1993''. Oxford: Clarendon Press, 1995.
+* King, Bruce, ''Derek Walcott, A Caribbean Life''. Oxford: Oxford University Press, 2000.
+* [[John Lennard|Lennard, John]], "Derek Walcott", in Jay Parini, ed., ''World Writers in English''. 2 vols, New York & London: Charles Scribner’s Sons, 2004, II.721–46.
+* [[Mervyn Morris|Morris, Mervyn]], "Derek Walcott", in Bruce King, ed., ''West Indian Literature'', Macmillan, 1979, pp.&nbsp;144–60.
+* Parker, Michael and Roger Starkey, eds. ''New Casebooks: Postcolonial Literatures: Achebe, Ngugi, Desai, Walcott''. Houndmills, Basingstoke, Hampshire: Macmillan, 1995. ISBN 0-333-60801-1
+* Sinnewe, Dirk, ''Divided to the Vein? Derek Walcott’s Drama and the Formation of Cultural Identities''. Saarbrücken: Königshausen und Neumann, 2001 [Reihe Saarbrücker Beiträge 17]. ISBN 3-8260-2073-1
+* Terada, Rei, ''Derek Walcott’s Poetry: American Mimicry''. Boston: Northeastern University Press, 1992.
+* Thieme, John, ''Derek Walcott''. Manchester and New York: Manchester University Press, 1999.
+* Walcott, Derek, ''Dream on Monkey Mountain and Other Plays''. New York: Farrar, 1970. ISBN 0-374-50860-7
+
+==See also==
+*[[Black Nobel Prize laureates]]
+* "[[Love After Love (poem)|Love After Love]]", a poem by Derek Walcott
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{wikiquote|Derek Walcott}}
+* [http://www.contemporarywriters.com/authors/?p=authC2D9C28A0a4dc1BE88LsX2F7F9A1 British Council writers' profile], works listing, critical review
+* [http://www.poetryarchive.org/poetryarchive/singlePoet.do?poetId=7830 Poetry Archive] profile, poems written and audio
+* [http://www.poetryfoundation.org/bio/derek-walcott Poetry Foundation profile and poems]
+* [http://www.poets.org/poet.php/prmPID/220 Poetry of American Poets profile, poems audio and written]
+* [http://www.english.emory.edu/Bahri/Walcott.html Profile and analysis], Emory University
+* [http://www.pwf.cz/en/authors-archive/derek-walcott/ Profile, interviews, articles, archive]. [[Prague Writers' Festival]]
+* [http://igg.me/at/walcottfilm/x/2899560 ''Poetry is an island, Derek Walcott''] – a feature documentary film about the life and times of Derek Walcott set to be released in 2013 with the help of crowd funding on [[Indiegogo]]
+* [http://www.theparisreview.org/interviews/2719/the-art-of-poetry-no-37-derek-walcott "Derek Walcott, The Art of Poetry No. 37"], ''The Paris Review'', Winter 1986
+* [http://www.lannan.org/events/derek-walcott-with-glyn-maxwell Lannan Foundation Reading and Conversation With Glyn Maxwell]. November 2002 (audio).
+* [http://www.thefamouspeople.com/profiles/derek-walcott-110.php], personal life
+* Biography available in [http://www.amazon.com/dp/B00MNEGJEC  Saint Lucians and the Order of CARICOM]
+
+{{Derek Walcott plays}}
+{{Nobel Prize in Literature Laureates 1976-2000}}
+{{1992 Nobel Prize winners}}
+
+{{Authority control}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Walcott, Derek
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Poet 
+| DATE OF BIRTH     = 23 January 1930
+| PLACE OF BIRTH    = [[Castries]], [[Saint Lucia]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Walcott, Derek}}
+[[Category:1930 births]]
+[[Category:Living people]]
+[[Category:Boston University faculty]]
+[[Category:Formalist poets]]
+[[Category:Harvard University people]]
+[[Category:MacArthur Fellows]]
+[[Category:Nobel laureates in Literature]]
+[[Category:Officers of the Order of the British Empire]]
+[[Category:Recipients of the Order of Merit (Jamaica)]]
+[[Category:People from Castries Quarter]]
+[[Category:People from Greenwich Village]]
+[[Category:Saint Lucian dramatists and playwrights]]
+[[Category:Saint Lucian Nobel laureates]]
+[[Category:Saint Lucian poets]]
+[[Category:Trinidad and Tobago dramatists and playwrights]]
+[[Category:University of the West Indies alumni]]
+[[Category:20th-century dramatists and playwrights]]
+[[Category:21st-century dramatists and playwrights]]
+[[Category:Guggenheim Fellows]]

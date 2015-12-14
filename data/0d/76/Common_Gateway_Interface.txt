@@ -1,0 +1,152 @@
+{{About|software interface between the Web server and programs|other uses|CGI (disambiguation)|}}
+
+'''Common Gateway Interface''' ('''CGI''') is a standard [[Environment variable|environment]] for [[web server]]s to interface with executable [[program (programming)|program]]s installed on a server that [[Dynamic web page|generate web pages dynamically]].
+Such programs are known as ''CGI scripts'' or simply ''CGIs''; they are usually written in a [[scripting language]], but can be written in any [[programming language]].
+
+== History ==
+[[File:CGIlogo.gif|thumbnail|The official CGI logo from the spec announcement]]
+In 1993 the [[National Center for Supercomputing Applications]] (NCSA) team wrote the specification for calling command line executables on the www-talk mailing list;<ref>[http://1997.webhistory.org/www.lists/www-talk.1993q4/0485.html ''Server Scripts'', by Rob McCool, ''www-talk'' mailing list, Sun, 14 Nov 1993 19:24:47 -0600]</ref> however, NCSA no longer hosts the specification.<ref>{{Citation |title=The Common Gateway Interface |url=http://hoohoo.ncsa.uiuc.edu/cgi/ |archiveurl=http://web.archive.org/web/20100127161358/http://hoohoo.ncsa.illinois.edu/cgi/ |archivedate=2010-01-27}}</ref><ref>[http://www.w3.org/CGI/ CGI: Common Gateway Interface] at w3.org</ref> The other Web server developers adopted it, and it has been a standard for Web servers ever since. A work group chaired by [[Ken Coar]] started in November 1997 to get the NCSA definition of CGI more formally defined.<ref>[http://ken.coar.org/cgi/ Common Gateway Interface RFC Project Page]</ref> This work resulted in RFC 3875, which specified CGI Version 1.1. Specifically mentioned in the RFC are the following contributors:<ref>[http://tools.ietf.org/html/rfc3875 RFC3875: The Common Gateway Interface (CGI) Version 1.1]</ref>
+
+* [[Rob McCool]] (author of the [[NCSA HTTPd]] [[HTTP Server|Web Server]])
+* John Franks (author of the GN Web Server)
+* [[Ari Luotonen]] (the developer of the [[CERN httpd]] Web Server)
+* Tony Sanders (author of the Plexus Web Server)
+* George Phillips (Web server maintainer at the [[University of British Columbia]])
+
+== Overview ==
+Each [[Web server]] runs [[HTTP]] server software, which responds to requests from Web browsers. Generally, the HTTP server has a directory (folder), which is designated as a document collection — files that can be sent to Web browsers connected to this server.<ref>[http://httpd.apache.org/docs/2.2/urlmapping.html Mapping URLs to Filesystem Locations Apache HTTP Server Version 2.2]</ref> For example, if the Web server has the domain name <code>example.com</code>, and its document collection is stored at <code>/usr/local/apache/htdocs</code> in the local file system, then the Web server will respond to a request for <code><nowiki>http://example.com/index.html</nowiki></code> by sending out the (pre-written) file at <code>/usr/local/apache/htdocs/index.html</code>.
+
+CGI extends this system by allowing the owner of the Web server to designate a directory within the document collection as containing executable scripts (or binary files) instead of pre-written pages; this is known as a CGI directory. For example, <code>/usr/local/apache/htdocs/cgi-bin</code> could be designated as a CGI directory on the Web server. If a Web browser requests a URL that points to a file within the CGI directory (e.g., <code><nowiki>http://example.com/cgi-bin/printenv.pl</nowiki></code>), then, instead of simply sending that file (<code>/usr/local/apache/htdocs/cgi-bin/printenv.pl</code>) to the Web browser, the HTTP server runs the specified script and passes the output of the script to the Web browser. That is, anything that the script sends to [[standard output]] is passed to the Web client instead of being shown on-screen in a terminal window.
+
+The CGI system also allows the Web browser to send information to the script via the URL or an HTTP POST request. If a slash and additional directory name(s) are appended to the URL immediately after the name of the script, then that path is stored in the <code>PATH_INFO</code> [[environment variable]] before the script is called. If parameters are sent to the script via an [[HTTP GET]] request (a question mark appended to the URL, followed by param=value pairs), then those parameters are stored in the <code>QUERY_STRING</code> environment variable before the script is called. If parameters are sent to the script via an [[HTTP POST]] request, they are passed to the script's [[standard input]]. The script can then read these environment variables and adapt to the Web browser's request.
+
+== Syntax ==
+The following [[Perl]] program shows all the environment variables passed by the Web server:
+
+<source lang="perl">
+#!/usr/bin/perl
+
+=head1 DESCRIPTION
+
+printenv — a CGI program that just prints its environment
+
+=cut
+print "Content-type: text/plain\r\n\r\n";
+
+for my $var ( sort keys %ENV ) {
+ printf "%s = \"%s\"\r\n", $var, $ENV{$var};
+}
+</source>
+
+If a Web browser issues a request for the environment variables at <code><nowiki>http://example.com/cgi-bin/printenv.pl/foo/bar?var1=value1&var2=with%20percent%20encoding</nowiki></code>, a 64-bit [[Microsoft Windows]] web server running [[cygwin]] returns the following information:
+
+<source lang="ini">
+ COMSPEC="C:\Windows\system32\cmd.exe"
+ DOCUMENT_ROOT="C:/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs"
+ GATEWAY_INTERFACE="CGI/1.1"
+ HOME="/home/SYSTEM"
+ HTTP_ACCEPT="text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+ HTTP_ACCEPT_CHARSET="ISO-8859-1,utf-8;q=0.7,*;q=0.7"
+ HTTP_ACCEPT_ENCODING="gzip, deflate"
+ HTTP_ACCEPT_LANGUAGE="en-us,en;q=0.5"
+ HTTP_CONNECTION="keep-alive"
+ HTTP_HOST="example.com"
+ HTTP_USER_AGENT="Mozilla/5.0 (Windows NT 6.1; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0"
+ PATH="/home/SYSTEM/bin:/bin:/cygdrive/c/progra~2/php:/cygdrive/c/windows/system32:..."
+ PATHEXT=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"
+ PATH_INFO="/foo/bar"
+ PATH_TRANSLATED="C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\foo\bar"
+ QUERY_STRING="var1=value1&var2=with%20percent%20encoding"
+ REMOTE_ADDR="127.0.0.1"
+ REMOTE_PORT="63555"
+ REQUEST_METHOD="GET"
+ REQUEST_URI="/cgi-bin/printenv.pl/foo/bar?var1=value1&var2=with%20percent%20encoding"
+ SCRIPT_FILENAME="C:/Program Files (x86)/Apache Software Foundation/Apache2.2/cgi-bin/printenv.pl"
+ SCRIPT_NAME="/cgi-bin/printenv.pl"
+ SERVER_ADDR="127.0.0.1"
+ SERVER_ADMIN="(server admin's email address)"
+ SERVER_NAME="127.0.0.1"
+ SERVER_PORT="80"
+ SERVER_PROTOCOL="HTTP/1.1"
+ SERVER_SIGNATURE=""
+ SERVER_SOFTWARE="Apache/2.2.19 (Win32) PHP/5.2.17"
+ SYSTEMROOT="C:\Windows"
+ TERM="cygwin"
+ WINDIR="C:\Windows"
+</source>
+
+From the environment, it can be seen that the Web browser is [[Firefox]] running on a [[Windows 7]] PC, the Web server is [[Apache HTTP server|Apache]] running on a system that emulates [[Unix]], and the CGI script is named <code>cgi-bin/printenv.pl</code>.
+
+The program could then generate any content, write that to [[Standard streams#Standard output .28stdout.29|standard output]], and the Web server will transmit it to the browser.
+
+The following are [[environment variable]]s passed to CGI programs:
+*'''Server specific variables:'''
+** <code>SERVER_SOFTWARE</code>: <var>name</var>/<var>version</var> of [[HTTP server]].
+** <code>SERVER_NAME</code>: [[host name]] of the server, may be [[dot-decimal notation|dot-decimal]] IP address.
+** <code>GATEWAY_INTERFACE</code>: CGI/<var>version</var>.
+*'''Request specific variables:'''
+** <code>SERVER_PROTOCOL</code>: HTTP/<var>version</var>.
+** <code>SERVER_PORT</code>: [[TCP port]] (decimal).
+** <code>REQUEST_METHOD</code>: name of HTTP method (see above).
+** <code>PATH_INFO</code>: path suffix, if appended to URL after program name and a slash.
+** <code>PATH_TRANSLATED</code>: corresponding [[full path]] as supposed by server, if <code>PATH_INFO</code> is present.
+** <code>SCRIPT_NAME</code>: relative path to the program, like <code>/cgi-bin/script.cgi</code>.
+** <code>QUERY_STRING</code>: the part of URL after [[question mark|<span style="background-color:#FFFFCC; padding: 2px">?</span>]] character. The [[query string]] may be composed of *<var>name</var>=<var>value</var> pairs separated with [[ampersand]]s (such as <var>var1</var>=<var>val1</var>'''&amp;'''<var>var2</var>=<var>val2</var>...) when used to submit [[form (web)|form]] data transferred via GET method as defined by HTML [[application/x-www-form-urlencoded]].
+** <code>REMOTE_HOST</code>: host name of the client, unset if server did not perform such lookup.
+** <code>REMOTE_ADDR</code>: [[IP address]] of the client (dot-decimal).
+** <code>AUTH_TYPE</code>: identification type, if applicable.
+** <code>REMOTE_USER</code> used for certain <code>AUTH_TYPE</code>s.
+** <code>REMOTE_IDENT</code>: see [[ident protocol|ident]], only if server performed such lookup.
+** <code>CONTENT_TYPE</code>: [[Internet media type]] of input data if PUT or POST method are used, as provided via HTTP header.
+** <code>CONTENT_LENGTH</code>: similarly, size of input data (decimal, in [[octet (computing)|octets]]) if provided via HTTP header.
+**Variables passed by user agent (<code>HTTP_ACCEPT</code>, <code>HTTP_ACCEPT_LANGUAGE</code>, <code>HTTP_USER_AGENT</code>, <code>HTTP_COOKIE</code> and possibly others) contain values of corresponding [[HTTP headers]] and therefore have the same sense.
+
+The program returns the result to the Web server in the form of standard output, beginning with a header and a [[Line (text file)|blank line]].
+
+The header is encoded in the same way as an [[List of HTTP headers|HTTP header]] and must include the [[MIME type]] of the document returned.<ref>[http://www.citycat.ru/doc/CGI/overview/primer.html CGI Primer (Mirror at citycat.ru)]</ref> The headers, supplemented by the Web server, are generally forwarded with the response back to the user.
+
+== Deployment ==
+A Web server that supports CGI can be configured to interpret a [[Uniform Resource Locator|URL]] that it serves as a reference to a CGI script. A common convention is to have a <code>cgi-bin/</code> [[Directory (computing)|directory]] at the base of the directory tree and treat all executable files within this directory (and no other, for security) as CGI scripts. Another popular convention is to use [[filename extension]]s; for instance, if CGI scripts are consistently given the extension <code>.cgi</code>, the web server can be configured to interpret all such files as CGI scripts. While convenient, and required by many prepackaged scripts, it opens the server to attack if a remote user can upload executable code with the proper extension.{{Citation needed|date=April 2014}}
+
+In the case of [[HTTP#Request methods|HTTP PUT or POSTs]], the user-submitted data are provided to the program via the [[standard input]]. The Web server creates a subset of the [[environment variable]]s passed to it and adds details pertinent to the HTTP environment.
+
+== Uses ==
+An example of a CGI program is one implementing a [[Wiki]]. The user agent requests the name of an entry; the Web server executes the CGI; the CGI program retrieves the source of that entry's page (if one exists), transforms it into [[HTML]], and prints the result. The web server receives the input from the CGI and transmits it to the user agent. If the "Edit this page" link is clicked, the CGI populates an HTML <code>textarea</code> or other editing control with the page's contents, and saves it back to the server when the user submits the form in it.
+
+== Alternatives ==
+Calling a command generally means the invocation of a newly created [[Process (computing)|process]] on the server. Starting the process can consume much more time and memory than the actual work of generating the output, especially when the program still needs to be [[interpret]]ed or [[compiler|compiled]].
+If the command is called often, the resulting workload can quickly overwhelm the server.
+
+The [[computational overhead|overhead]] involved in interpretation may be reduced by using compiled CGI programs, such as those in [[C (programming language)|C]]/[[C++]], rather than using [[Perl]] or other interpreted languages. The overhead involved in process creation can be reduced by techniques such as [[FastCGI]] that "prefork" interpreter processes, or by running the application code entirely within the web server, using extension modules such as mod_php.
+
+Several approaches can be adopted for remedying this:
+
+* The popular Web servers developed their own extension mechanisms that allows third-party software to run inside the web server itself, such as [[Apache modules]], [[Netscape Server Application Programming Interface|NSAPI]] plugins and [[ISAPI]] plugins.
+* [[Simple Common Gateway Interface]] or SCGI
+* [[FastCGI]] allows a single, long-running process to handle more than one user request while keeping close to the CGI programming model, retaining the simplicity while eliminating the overhead of creating a new process for each request. Unlike converting an application to a web server plug-in, FastCGI applications remain independent of the web server.
+* Replacement of the architecture for dynamic websites can also be used. This is the approach taken by [[Java EE]], which runs Java code in a Java servlet container in order to serve dynamic content and optionally static content. This approach replaces the overhead of generating and destroying processes with the much lower overhead of generating and destroying [[Thread (computer science)|threads]], and also exposes the programmer to the library that comes with [[Java Platform, Standard Edition]] on which the version of Java EE in use is based.
+
+The optimal configuration for any Web application depends on application-specific details, amount of traffic, and complexity of the transaction; these tradeoffs need to be analyzed to determine the best implementation for a given task and time budget.
+
+== See also ==
+* [[CGI.pm]]
+* [[FastCGI]]
+* [[Perl Web Server Gateway Interface]]
+* [[Rack (web server interface)]]
+* [[Web Server Gateway Interface]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://www.gnu.org/software/cgicc/ GNU cgicc], a C++ class library for writing CGI applications
+* [https://metacpan.org/pod/CGI CGI], a standard Perl module for CGI request parsing and HTML response generation
+* [http://www.cgi101.com/learn/ CGI Programming 101: Learn CGI Today!], a CGI tutorial
+
+{{Web interfaces}}
+
+{{Use dmy dates|date=July 2012}}
+
+[[Category:Servers (computing)]]
+[[Category:Web technology]]
+[[Category:World Wide Web]]

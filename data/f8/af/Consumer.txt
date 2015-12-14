@@ -1,0 +1,62 @@
+{{About|consumers in social systems}}
+[[File:People are buying fruits.jpg|thumb|Consumers buying fruit in [[Nanjing]], China]]
+A '''consumer''' is a person or organization that uses [[Service (economics)|economic services]] or [[Commodity|commodities]].<ref>{{cite web|url=http://dictionary.reference.com/browse/consumer|title=Consumer - Define Consumer at Dictionary.com|work=Dictionary.com}}</ref>
+
+In [[economic system]]s ''consumers'' are [[Utility|utilities]] expressed in the decision to [[trade]] or not.
+
+==Economics and marketing==
+The ''consumer'' is the one who pays to consume goods and services produced. As such, ''consumers'' play a vital role in the [[economic system]] of a [[nation]]. Without [[consumer demand]], [[Production (economics)|producers]] would lack one of the key motivations to produce: [[Sales|to sell]] to consumers. The ''consumer'' also forms part of the [[Distribution (economics)|chain of distribution]].
+
+Recently in [[marketing]] instead of marketers generating broad [[demographic profile]]s and [[Psychographic|psycho-graphic profiles]] of [[market segment]]s, marketers have started to engage in [[personalized marketing]], [[permission marketing]], and [[mass customization]].<ref>{{cite book|last=Cross|first=Robert G.|title=Revenue management: hard-core tactics for market domination|publisher=Broadway Books|year=1997|pages=66–71|ISBN=978-0-553-06734-7}} 
+</ref>
+
+==Law and politics==
+The law primarily uses the notion of the consumer in relation to [[consumer protection]] laws, and the definition of consumer is often restricted to living persons (i.e. not corporations or businesses) and excludes commercial users.<ref>{{cite book |author=Krohn, Lauren |title=Consumer protection and the law: a dictionary |publisher=ABC-CLIO |year=1995 |isbn=978-0-87436-749-2}}</ref>  A typical legal rationale for protecting the consumer is based on the notion of policing market failures and inefficiencies, such as inequalities of bargaining power between a consumer and a business.<ref>{{cite web |url=http://law.vanderbilt.edu/journals/journal/35-01/overby.htm|title=An Institutional Analysis of Consumer Law|accessdate=2007-01-29|publisher=Vanderbilt Journal of Transnational Law |archiveurl = http://web.archive.org/web/20070302211417/http://law.vanderbilt.edu/journals/journal/35-01/overby.htm |archivedate = March 2, 2007}}</ref>  As of all potential voters are also consumers, consumer protection takes on a clear political significance.
+
+Concern over the interests of consumers has also spawned activism, as well as incorporation of consumer education into school curricula.{{Citation needed|date=March 2010}} There are also various non-profit publications, such as ''[[Which?]]'', ''[[Consumer Reports]]'' and ''[[Choice Magazine]]'', dedicated to assist in consumer education and decision making.
+
+In India, [[Consumer Protection Act, 1986|the Consumer Protection Act 1986]] differentiates the consummation of a commodity or service for personal use or to earn a livelihood. Only consumers are protected as per this act and any person, entity or organization purchasing a commodity for commercial reasons are exempted from any benefits of this act.<ref>{{cite web
+| url = http://www.consumerdaddy.com/a-23-consumer-customer.htm '''and also consumers are people that buy goods'''| title=Consumer vs Customer|publisher=Consumerdaddy.com
+| accessdate = 2010-03-10
+| quote = The consumer protection act 1986 of India, is a little more generous with the word 'Consumer'. According to this law, consumer is not only a person who uses the product for domestic personal use, but also one who uses the product to earn his daily livelyhood.
+}}
+</ref>
+
+==Public reaction==
+While use of the term ''consumer'' is widespread among governmental, business and media organisations, many individuals and groups find the label objectionable because it assigns a limited and passive role to their activities.<ref>{{cite web | title = Words to Avoid (or Use with Care). Because They Are Loaded or Confusing | url = http://www.gnu.org/philosophy/words-to-avoid.html#Consumer | accessdate = 2012-02-18}}</ref><ref>{{cite web | title = Quotes on being a "Consumer" | url = http://www.mail-archive.com/www-archive@w3.org/msg04217.html | accessdate = 2012-02-18}}</ref><ref>{{cite web | title = Consumer. I hate the word: why Mediation is adding {{not a typo|it's}} voice to the call for a banning of the word Consumer| url = http://chrisstephenson.typepad.com/chrisstephenson/2009/07/consumer-i-hate-the-word-why-mediation-is-adding-its-voice-to-the-call-for-a-banning-of-the-word-con.html | accessdate = 2012-02-18}}</ref>
+
+==See also==
+{{div col|colwidth=30em}}
+* [[Alpha consumer]]
+* [[Consumer debt]]
+* [[Consumer leverage ratio]]
+* [[Consumer theory]]
+* [[Consumerism]]
+* [[Consumers' cooperative]]
+* [[Consumption (economics)|Consumption]]
+* [[Coolhunting]]
+* [[Mass customization]]
+* [[Media consumption]]
+* [[Mental health consumer]]
+* [[Consumer reporting agency]]
+* [[Consumer protection]]
+* [[Consumer organization]]
+* [[Consumer Direct]]
+* [[National Consumer Agency]] (NCA)
+* [[Informed consumer]]
+* [[Consumer forum]]
+* [[Perplexity consumer]]
+{{div col end}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{wikibooks|Category:Consumer}}
+*[http://www.ncpw.gov U.S. Government National Consumer Protection Week]
+
+{{Consumerism}}
+
+{{Authority control}}
+[[Category:Economics terminology]]
+[[Category:Consumer theory]]

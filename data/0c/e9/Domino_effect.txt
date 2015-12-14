@@ -1,0 +1,32 @@
+{{other uses|Domino Effect (disambiguation)}}
+[[Image:Domino 01.jpg|thumb|Domino effect events]]
+[[Image:Domino effect.jpg|thumb|(Top) Dominoes are standing. (Bottom) Dominoes are in motion.]]
+A '''domino effect''' or '''[[chain reaction]]''' is the cumulative effect produced when one event sets off a chain of similar events.<ref>{{cite web|title=domino effect|url=http://www.thefreedictionary.com/domino+effect|website=The Free Dictionary|publisher=Farlex, Inc.|accessdate=29 September 2014}}</ref> The term is best known as a mechanical effect, and is used as an [[analogy]] to a [[Domino show|falling row]] of [[dominoes]]. It typically refers to a linked sequence of events where the time between successive events is relatively small. It can be used literally (an observed series of actual collisions) or metaphorically (causal linkages within systems such as global finance or politics).
+
+==See also==
+*[[Rube Goldberg machine]]
+
+Relevant physical theory:
+*[[Butterfly effect]]
+*[[Cascading failure]]
+*[[Causality]]
+*[[Chain reaction]]
+*[[Snowball effect]]
+
+Mathematical theory
+*[[Mathematical induction]]
+
+Political theory
+*[[Domino theory]]
+
+==Appearances in media==
+*''[[Domino Day]]''  – world record attempt for the highest number of toppling domino stones.
+
+==References==
+{{Reflist}}
+{{commons category}}
+*''Impact Mechanics'', W. J. Stronge, Cambridge University Press, 2004, ISBN 0-521-60289-0, ISBN 978-0-521-60289-1
+
+{{DEFAULTSORT:Domino Effect}}
+[[Category:Metaphors referring to objects]]
+[[Category:Causality]]

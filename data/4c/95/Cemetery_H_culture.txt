@@ -1,0 +1,59 @@
+[[File:Rigvedic geography.jpg|thumb|320px|Geography of the Rigveda, with [[Rigvedic rivers|river names]]; the extent of the [[Swat culture|Swat]] and Cemetery H cultures are  indicated.]]
+{{HistoryOfSouthAsia}}
+
+The '''Cemetery H culture''' was a Bronze Age culture in the Punjab, north-western India, from about 1900 BCE until about 1300 BCE. It has been related to both the late phase of the [[Harappan civilisation|Harappan]] (Indus Valley) civilisation, and the [[Indo-Aryan migrations]].
+
+==Origins==
+The Cemetery H culture was located in and around the [[Punjab region]] in present-day [[India]] and [[Pakistan]]. It was named after a cemetery found in "area H" at [[Harappa]]. Remains of the culture have been dated from about 1900 BCE until about 1300 BCE.
+
+According to Rafique Mughal, the Cemetery H culture developed out of the northern part of the [[Indus Valley Civilization]] around 1700 BCE, being part of the Punjab Phase,<ref>M Rafiq Mughal Lahore Museum Bulletin, off Print, vol.III, No.2, Jul-Dec. 1990 [http://www.rafiquemughal.com/MUGHAL_1990_Decline-of-the-Indus_Lahore-Mus-Bulletin.pdf]</ref> one of three cultural phases that developed in the [[Localization Era]] or "Late Harappan phase" of the [[Indus Valley Tradition]].{{sfn|Kenoyer|1991a}}{{sfn|Shaffer|1992}} According to Kenoyer, the Cemetery H culture "may only reflect a change in the focus of settlement organization from that which was the pattern of the earlier Harappan phase and not cultural discontinuity, urban decay, invading aliens, or site abandonment, all of which have been suggested in the past."{{sfn|Kenoyer|1991b|p=56}} According to Kennedy and Mallory & Adams, the Cemetery H culture also "shows clear biological affinities" with the earlier population of Harappa.{{sfn|Kennedy|2000|p=312}} {{sfn|Mallory|Adams|1997|pp=103, 310}}
+
+Some traits of the Cemetery H culture have been associated with the [[Gandhara Grave cuture|Swat culture]], which has been regarded as evidence of the Indo-Aryan movement toward the Indian subcontinent.{{sfn|Mallory|Adams|1997|p=103}} According to Parpola, the Cemetery H culture represents a first wave of [[Indo-Aryan migration theory|Indo-Aryan migration]] from as early as 1900 BCE, which was followed by a migration to the Punjab c. 1700-1400 BCE.{{sfn|Parpola|1998}} According to Kochhar, the Swat IV co-founded the Harappan Cemetery H phase in Punjab (2000-1800 BCE), while the Rigvedic Indo-Aryans of Swat V later absorbed the Cemetery H people and gave rise to the Painted Grey Ware culture (to 1400 BCE).{{sfn|Kochhar|2000|pp=185-186}}
+
+Together with the [[Gandhara grave culture]] and the [[Ochre Coloured Pottery culture]], the Cemetery H culture is considered by some scholars as a factor in the formation of the [[Vedic civilization]].{{sfn|Kochhar|2000|pp=185-186}}
+
+==Features==
+The distinguishing features of this culture include:<ref>http://pubweb.cc.u-tokai.ac.jp/indus/english/3_1_02.html</ref>
+* The use of [[cremation]] of human remains. The bones were stored in painted pottery burial urns. This is completely different from the Indus civilization where bodies were buried in wooden coffins. The urn burials and the "grave skeletons" were nearly contemporaneous.{{sfn|Sarkar|1964}}
+* Reddish pottery, painted in black with [[antelope]]s, [[peacock]]s etc., [[sun]] or [[star]] motifs, with different surface treatments to the earlier period.
+* Expansion of settlements into the east.
+* [[Rice]] became a main crop.
+* Apparent breakdown of the widespread trade of the Indus civilization, with materials such as marine shells no longer used.
+* Continued use of mud brick for building.
+
+==Archeology==
+Cremation in India is first attested in the Cemetery H culture, which is coincidentally referred to in the [[Vedas]]. The [[Rigveda]] contains a reference to the emerging practice, in [[Mandala 10|RV 10]].15.14, where the forefathers "both cremated (''agnidagdhá-'') and uncremated (''ánagnidagdha-'')" are invoked.<ref>Dudi, Amar Singh. Ancient India History. Neha Publishers and Distributors (January 10, 2012). Ch. 9. Vedic Religion, Rituals. ISBN 978-93-80318-16-5.</ref><ref>Sabir, N. Heaven Hell OR??. Publisher: Xlibris (October 7, 2010). P. 155. ISBN 1-4535-5011-9.</ref>
+
+==See also==
+*[[Indus Valley Tradition]]
+*[[Painted Grey Ware]]
+*[[Copper Hoard Culture]]
+
+==References==
+{{reflist|2}}
+
+==Sources==
+{{Refbegin}}
+* {{Citation |last=Kennedy |first=Kenneth A. R. |authorlink=Kenneth A. R. Kennedy |year=2000 |title=[[God-Apes and Fossil Men|God-Apes and Fossil Men: Palaeoanthropology of South Asia]] |location=Ann Arbor |publisher=University of Michigan Press}}
+* {{Citation |last=Kenoyer |first=Jonathan Mark |authorlink=Jonathan Mark Kenoyer |title=The Indus Valley tradition of Pakistan and Western India |journal=Journal of World Prehistory |year=1991a |volume=5 |issue=4 |pages=1–64 |doi=10.1007/BF00978474}}
+* {{Citation |last=Kenoyer |first=Jonathan Mark |authorlink=Jonathan Mark Kenoyer |year=1991b |chapter=Urban Process in the Indus Tradition: A preliminary model from Harappa |editor=Meadow, R. H. |title=Harappa Excavations 1986-1990: A multidiscipinary approach to Third Millennium urbanism |location=Madison, WI |publisher=Prehistory Press |pages=29–60}}
+* {{Citation |last=Kochhar |first=Rajesh |title=The Vedic People: Their History and Geography |publisher=Sangam Books |year=2000 |ref=harv}}
+* {{Citation |last=Mallory |first=J. P. |last2=Adams |first2=D. Q. |year=1997 |title=Encyclopedia of Indo-European Culture |publisher=Fitzroy-Dearborn |location=London and Chicago |isbn=1-884964-98-2}}
+* {{Citation |last1=Parpola |first1=Asko |author1-link=Asko Parpola |year=1998 |chapter=Aryan Languages, Archaeological Cultures, and Sinkiang: Where Did Proto-Iranian Come into Being and How Did It Spread? |editor1-last=Mair |editor1-first=Victor H. |title=The Bronze Age and Early Iron Age Peoples of Eastern and Central Asia |publisher=Institute for the Study of Man |place=Washington, D.C. |isbn=0-941694-63-1 |ref=harv}}
+* {{Citation |last=Sarkar |first=Sasanka Sekhar |year=1964 |title=Ancient Races of Baluchistan, Panjab, and Sind}}
+* {{Citation |last=Shaffer |first=Jim G. |authorlink=Jim G. Shaffer |year=1992 |chapter=The Indus Valley, Baluchistan and Helmand Traditions: Neolithic Through Bronze Age |editor-first=R. W. |editor-last=Ehrich |title=Chronologies in Old World Archaeology |edition=Second |location=Chicago |publisher=University of Chicago Press |pages=I:441–464, II:425–446}}
+{{refend}}
+
+==External links==
+* [http://www.harappa.com http://www.harappa.com harappa.com]
+* [http://pubweb.cc.u-tokai.ac.jp/indus/english/3_1_01.html http://pubweb.cc.u-tokai.ac.jp/indus/english/3_1_01.html journal]
+
+{{Indus Valley Civilization}}
+
+[[Category:Archaeological cultures of South Asia]]
+[[Category:Bronze Age Asia]]
+[[Category:Ancient history of Pakistan]]
+[[Category:Prehistoric India]]
+[[Category:History of Punjab]]
+[[Category:Indus Valley Civilization]]
+[[Category:Societal collapse|Indus]]

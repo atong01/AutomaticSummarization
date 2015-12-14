@@ -1,0 +1,50 @@
+{{other uses}}
+{{multiple image
+   | direction = vertical
+   | width     = 240
+   | header    = Two pictures by [[Wenceslaus Hollar]]
+   | footer    = 
+   | image1    = Wenceslas Hollar - Abimelech rebuking Abraham (State 2).jpg
+   | alt1      = Abraham
+   | caption1  = Abimelech rebuking [[Abraham]]
+   | image2    = Wenceslas Hollar - Isaac and Abimelech (State 2).jpg
+   | alt2      = Isaac
+   | caption2  = [[Isaac]] and Abimelech
+  }}
+
+'''Abimelech''' (also spelled '''Abimelek''' or '''Avimelech'''; {{Hebrew Name 2|אֲבִימֶלֶךְ|אֲבִימָלֶךְ|Avimélekh|Avimálekh|ʼĂḇîméleḵ|ʼĂḇîmāleḵ|"father/leader of a king; my father/leader, a king"}}) was the name of multiple [[Philistine]] [[monarch|kings]] mentioned in the [[Hebrew Bible]].
+
+==Etymology==
+Abimelech's name is thought to mean ''my father is king'', and could be simply a generic title given to a [[crown prince]].  However, it appears it could also refer to a ruling king, as described in the ''[[Haggada]]'' when "Benmelech" ("son of the king"), son of Abimelech, changes his own name to Abimelech when he becomes king.
+
+At the time of the [[Amarna tablets]] (mid-14th century BC), there was an Egyptian governor of [[Tyre, Lebanon|Tyre]] similarly named [[Abimilki]], who is sometimes speculated to be connected with one or more of the biblical Abimelechs.
+
+==Abimelech of Gerar==
+
+Abimelech was most prominently the name of a polytheistic<ref>{{cite book|last=Benamozegh|first=Elia|title=Israel and Humanity|year=1995|publisher=Paulist Press International|isbn=978-0809135417|author2=Maxwell Luria|page=104}}</ref><ref>{{cite book|last=Hamilton|first=Victor P.|title=Exodus: An Exegetical Commentary|year=2012|publisher=Baker Academic|isbn=978-0801031830|url=http://books.google.com/?id=vUry0cGNR_IC&pg=PT1003&lpg=PT1003&dq=Abimelech{{!}}Abimilek+polytheism#v=onepage&q=Abimelech{{!}}Abimilek%20polytheism&f=false}}</ref> king of [[Gerar]] who is mentioned in two of the three [[wife-sister narratives in Genesis]], in connection with both [[Abraham]] (chap. 20) and [[Isaac]] (chap. 26).  The ''[[Haggada]]'' identifies them as references to separate people, the second being the first Abimelech's son, and that his original name was Benmelech ("son of the King") but changed his name to his father's.
+
+King Abimelech of Gerar also appears in an extra-biblical tradition recounted in texts such as the [[Clementine literature|''Kitab al-Magall'']], the ''[[Cave of Treasures]]'' and the ''[[Conflict of Adam and Eve with Satan]]'', as one of 12 regional kings in Abraham's time said to have built the city of [[Jerusalem]] for [[Melchizedek]].
+
+==Other people with this name==
+
+Apart from the king (or kings) of Gerar, the Bible also records this name for:
+*[[Abimelech (Judges)]], proclaimed king after the death of his father Gideon ({{bibleverse||Judges|9:1-6|HE}}).
+*The son of [[Abiathar]], and [[List of High Priests of Israel|high priest]] in the time of David ({{bibleverse|1|Chronicles|18:16|HE}}). In the parallel passage, {{bibleverse|2|Samuel|8:17|HE}}, the name is given as [[Ahimelech]]; most authorities consider this the more correct reading.
+*The king of [[Gath (city)|Gath]] better known as [[Achish]], referred to as Abimelech or Achimelech in the title of {{bibleverse||Psalm|34|HE}}.
+
+Other literary references include:
+*Abimélech, [[Satrap]] of [[Gaza City|Gaza]] is a character (baritone) in [[Camille Saint-Saëns|Saint-Saëns]]' opera ''[[Samson and Delilah (opera)|Samson and Delilah]]'' (Weimar, 1877)
+
+==See also==
+*[[Abimelech (oratorio)]]
+
+==References==
+{{Commons category|Abimelech}}
+{{reflist}}
+
+{{eastons|Abimelech}}
+
+[[Category:Torah monarchs]]
+[[Category:Hebrew Bible people]]
+[[Category:Bible-related lists of people]]
+[[Category:Vayeira]]

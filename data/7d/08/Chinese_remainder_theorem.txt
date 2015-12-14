@@ -1,0 +1,436 @@
+[[File:Disqvisitiones-800.jpg|thumb|The Chinese remainder theorem was proved by [[Carl Friedrich Gauss|Gauss]] with his 1801 book ''[[Disquisitiones Arithmeticae]]''.<ref name="Gauss1801.loc=32-36">{{Harvtxt|Gauss|Clarke|1986|loc=Art. 32-36}}</ref>]]
+The '''Chinese remainder theorem''' is a result about [[modular arithmetic|congruences]] in [[number theory]] and its generalizations in [[abstract algebra]]. It was first published in the 3rd to 5th centuries by the Chinese mathematician [[Sun Tzu (mathematician)|Sun Tzu]].
+
+In its basic form, the Chinese remainder theorem will determine a number ''n'' that, when divided by some given divisors, leaves given remainders. For example, what is the lowest number ''n'' that when divided by 3 leaves a remainder of 2, when divided by 5 leaves a remainder of 3, and when divided by 7 leaves a remainder of 2?
+
+== Theorem statement ==
+The original form of the theorem, which is contained in the 5th-century book ''[[Sunzi's Mathematical Classic]]'' ({{lang|zh|孫子算經}}) by the Chinese mathematician [[Sun Tzu (mathematician)|Sun Tzu]] and later generalized with a complete solution called ''Dayanshu'' ({{lang|zh|大衍術}}) in [[Qin Jiushao]]'s 1247 ''[[Mathematical Treatise in Nine Sections]]'' ({{lang|zh|數書九章}}, ''Shushu Jiuzhang''), is a statement about simultaneous congruences.
+
+Suppose {{math|''n''<sub>1</sub>, ..., ''n<sub>k</sub>''}} are positive [[integer]]s that are [[pairwise coprime]]. Then, for any given sequence of integers {{math|''a''<sub>1</sub>, ..., ''a<sub>k</sub>''}}, there exists an integer {{mvar|x}} solving the following system of simultaneous congruences.
+
+:<math>\begin{cases} x \equiv a_1 & \pmod{n_1} \\ \quad \cdots \\ x \equiv a_k &\pmod{n_k} \end{cases}</math>
+
+Furthermore, all solutions {{mvar|x}} of this system are congruent modulo the product, {{math|''N'' {{=}} ''n''<sub>1</sub> ... ''n<sub>k</sub>''}}. Hence
+
+:<math>x \equiv y \pmod{n_i}, \quad 1 \leq i \leq k \qquad \Longleftrightarrow \qquad x \equiv y \pmod{N}.</math>
+
+Sometimes, the simultaneous congruences can be solved even if the {{math|''n<sub>i</sub>''}} are not pairwise coprime. A solution {{mvar|x}} exists if and only if:
+
+:<math>a_i \equiv a_j \pmod{\gcd(n_i,n_j)} \qquad \text{for all }i\text{ and }j</math>
+
+All solutions {{mvar|x}} are then congruent modulo the [[least common multiple]] of the {{math|''n<sub>i</sub>''}}.
+
+Sun Tzu's work contains neither a proof nor a full algorithm. What amounts to an algorithm for solving this problem was described by [[Aryabhata]] (6th century; see {{harvnb|Kak|1986}}). Special cases of the Chinese remainder theorem were also known to [[Brahmagupta]] (7th century), and appear in [[Fibonacci]]'s [[Liber Abaci]] (1202).
+
+A modern restatement of the theorem in algebraic language is that for a positive integer with [[prime factorization]]
+
+:<math>n = p_1^{r_1}\cdots p_k^{r_k}</math>
+
+we have the [[isomorphism]] between a [[ring (mathematics)|ring]] and the [[direct product]] of its prime power parts:
+
+:<math>\mathbf{Z}/n\mathbf{Z} \cong \mathbf{Z}/p_1^{r_1}\mathbf{Z} \times \cdots \times \mathbf{Z}/p_k^{r_k}\mathbf{Z}</math>
+
+The theorem can also be restated in the language of [[combinatorics]] as the fact that the infinite [[arithmetic progression]]s of integers form a [[Helly family]] {{harv|Duchet|1995}}.
+
+== Existence and uniqueness==
+The existence and uniqueness of the solution can easily be seen through a non-constructive argument:
+
+There are {{math|''N'' {{=}} ''n''<sub>1</sub>·…·''n<sub>k</sub>''}} different {{mvar|k}}-[[tuples]] of remainders. Let us call this set {{mvar|R}}. On the other hand {{math|''N'' {{=}} #{1, ..., ''N''},}} and each element of {{math|{1, ..., ''N''} }} corresponds to an element of {{mvar|R}}. Can two numbers {{math|''a'', ''b'' ∈ {1, ..., ''N''},}} correspond to the same member of {{mvar|R}}? That is, can they have the same set of remainders when divided by {{math|''n''<sub>1</sub>, ..., ''n<sub>k</sub>''}}? If they did then {{math|''a'' − ''b''}} would be divisible by each {{mvar|n<sub>i</sub>}}. Since the {{mvar|n<sub>i</sub>}} are relatively prime, {{math|''a'' − ''b''}} would be divisible by their product: {{mvar|N}}. But, as {{math| 0 < {{!}} ''a'' − ''b'' {{!}} < ''N''}}, this can't be, so this function {{math|{1, ..., ''N''} → ''R''}} is one-to-one. Since {{math|#{1, ..., ''N''} {{=}} #''R''}}, it must be onto as well. Thus we have established the existence of a [[bijection]].
+
+Existence can be seen by an explicit construction of {{mvar|x}}. Let {{math|[''a''<sup>−1</sup>]<sub>''b''</sub>}} denote the [[Modular multiplicative inverse|multiplicative inverse]] of {{math|''a'' (mod ''b'')}} given by the [[Extended Euclidean algorithm]]. It is defined exactly when {{mvar|a}} and {{mvar|b}} are coprime; the following construction explains why this condition is needed.
+
+=== Case of two equations ({{math|''k'' {{=}} 2}}) ===
+Consider the system:
+
+:<math>\begin{cases} x \equiv a_1 & \pmod{n_1} \\ x \equiv a_2 & \pmod{n_2} \end{cases}</math>
+
+Since {{math|gcd(''n''<sub>1</sub>, ''n''<sub>2</sub>) {{=}} 1}}, [[Bézout's identity]] implies:
+
+:<math>n_2 \left [n_2^{-1} \right ]_{n_1} + n_1 \left [n_1^{-1} \right ]_{n_2} = 1</math>
+
+This is true because we are using the inverses provided by the Extended Euclidean algorithm; for any other inverses, this would not necessarily be true, but still be valid {{math|(mod ''n''<sub>1</sub>''n''<sub>2</sub>)}}.
+
+Multiplying both sides by {{mvar|x}}, we get
+
+:<math>x = x n_2 \left [n_2^{-1} \right ]_{n_1} + x n_1 \left [n_1^{-1} \right ]_{n_2}</math>
+
+If we take the congruence modulo {{math|''n''<sub>1</sub>}} for the right-hand-side expression, it is readily seen that
+
+:<math>x \underbrace{n_2 \left [n_2^{-1} \right ]_{n_1}}_1 + x \underbrace{n_1}_0 \left [n_1^{-1} \right ]_{n_2} \equiv x \times 1 + x \times 0 \times \left [n_1^{-1} \right ]_{n_2} \equiv x \pmod {n_1}</math>
+
+But we know that {{math|''x'' ≡ ''a''<sub>1</sub> (mod ''n''<sub>1</sub>)}}, thus this suggests that the coefficient of the first term on the right-hand-side expression can be replaced by {{math|''a''<sub>1</sub>}}. Similarly, we can show that the coefficient of the second term can be substituted by {{math|''a''<sub>2</sub>}}. We can now define the value
+
+:<math>x \equiv a_1 n_2 \left [n_2^{-1} \right ]_{n_1} + a_2 n_1 \left [n_1^{-1} \right ]_{n_2}</math>
+
+and it is seen to satisfy both congruences, for example:
+
+:<math>a_1 n_2 \left [n_2^{-1} \right ]_{n_1} + a_2 n_1 \left [n_1^{-1} \right ]_{n_2} \equiv a_1 \times 1 + a_2 \times 0 \times \left [n_1^{-1} \right ]_{n_2} \equiv a_1 \pmod {n_1}</math>
+
+=== General case ===
+The same type of construction works in the general case of {{mvar|k}} congruence equations. Let {{math|''N'' {{=}} ''n''<sub>1</sub> ... ''n<sub>k</sub>''}} be the product of every modulus then define
+
+:<math>x := \left[\sum_{i} a_i \frac{N}{n_i} \left[\left(\frac{N}{n_i}\right)^{-1}\right]_{n_i}\right]_{N}</math>
+
+and this is seen to satisfy the system of congruences by a similar calculation as before.
+
+== Finding the solution with basic algebra and modular arithmetic ==
+For example, consider the problem of finding an integer {{mvar|x}} such that
+
+:<math>\begin{cases} x \equiv 2 \pmod{3} \\ x \equiv 3 \pmod{4} \\ x \equiv 1 \pmod{5} \end{cases}</math>
+
+===Brute-force approach===
+A brute-force approach converts these congruences into sets and writes the elements out to the product of {{math|3×4×5 {{=}} 60}} (the solutions modulo 60 for each congruence):
+
+:{{math|''x'' ∈ {2, 5, 8, '''11''', 14, 17, 20, 23, 26, 29, 32, 35, 38, 41, 44, 47, 50, 53, 56, 59, 62, 65, 68, '''71''', 74, ...} }}
+:{{math|''x'' ∈ {3, 7, '''11''', 15, 19, 23, 27, 31, 35, 39, 43, 47, 51, 55, 59, 63, 67, '''71''', 75, 79, ...} }}
+:{{math|''x'' ∈ {1, 6, '''11''', 16, 21, 26, 31, 36, 41, 46, 51, 56, 61, 66, '''71''', 76, 81, 86, 91, 96, ...} }}
+
+To find an x that satisfies all three congruences, intersect the three sets to get:
+
+:{{math|''x'' ∈ {11, 71, ...} }}
+
+Which can be expressed as
+
+:<math>x \equiv 11 \pmod{60}</math>
+
+===Algebraic approach===
+Another way to find a solution is with basic algebra, modular arithmetic, and stepwise substitution.
+
+We start by translating these congruences into equations for some {{mvar|t, s}}, and {{mvar|u}}:
+
+:<math>\begin{cases}x = 2 + 3t \\ x = 3 + 4s \\ x = 1 + 5u \end{cases}</math>
+
+Start by substituting the {{mvar|x}} from the first equation into the second congruence:
+
+:<math>\begin{align}
+  2 + 3t &\equiv 3 &&\pmod{4} \\
+      3t &\equiv 1 && \pmod{4} \\
+       t &\equiv (3)^{-1} \equiv 3 &&\pmod{4}
+\end{align}</math>
+
+meaning that {{math|''t'' {{=}} 3 + 4''s''}} for some integer {{mvar|s}}. Substitute {{mvar|t}} into the first equation:
+
+:<math>x = 2 + 3t = 2 + 3(3 + 4s) = 11 + 12s</math>
+
+Substitute this {{mvar|x}} into the third congruence:
+
+:<math> \begin{align}
+11 + 12s &\equiv 1 && \pmod{5} \\
+  1 + 2s &\equiv 1 &&\pmod{5} \\
+      2s &\equiv 0 &&\pmod{5}
+\end{align}</math>
+
+meaning that {{math|''s'' {{=}} 0 + 5''u''}} for some integer {{mvar|u}}. Finally,
+
+:<math>x = 11 + 12s = 11 + 12(5u) = 11 + 60u</math>
+
+So, we have solutions {{math|{11, 71, 131, 191, ...}.}}
+
+Notice that 60 = lcm(3,4,5). If the moduli are pairwise [[coprime]] (as they are in this example), the solutions will be congruent modulo their product.
+
+== A constructive algorithm to find the solution ==
+The following algorithm only applies if the {{math|''n<sub>i</sub>''}} are pairwise coprime. (For simultaneous congruences when the moduli are not pairwise coprime, the [[method of successive substitution]] can often yield solutions.)
+
+Suppose, as above, that a solution is required for the system of congruences:
+
+:<math>x \equiv a_i \pmod{n_i}, \qquad i = 1, \cdots, k.</math>
+
+Define: {{math|''N'' {{=}} ''n''<sub>1</sub> ... ''n<sub>k</sub>''}}. For each {{mvar|i}}, the integers {{math|''n<sub>i</sub>''}} and {{math|{{sfrac|''N''|''n<sub>i</sub>''}}}} are coprime. Using the [[extended Euclidean algorithm]] we can find {{math|''r<sub>i</sub>'', ''s<sub>i</sub>'' ∈ '''Z'''}} such that {{math|''r<sub>i</sub>n<sub>i</sub>'' + {{sfrac|''s<sub>i</sub>N''|''n<sub>i</sub>''}} {{=}} 1}}. Substitute {{math|''e<sub>i</sub>''}} for {{math|{{sfrac|''s<sub>i</sub>N''|''n<sub>i</sub>''}},}} to arrive at: {{math|''r<sub>i</sub>n<sub>i</sub>'' + ''e<sub>i</sub>'' {{=}} 1.}} So the remainder of {{math|''e<sub>i</sub>''}} divided by {{math|''n<sub>i</sub>''}} is {{math|1}}. On the other hand, {{math|''e<sub>i</sub>'' {{=}} {{sfrac|''s<sub>i</sub>N''|''n<sub>i</sub>''}},}} guarantees that {{math|''n<sub>j</sub>''}} divides {{math|''e<sub>i</sub>''}} for {{math|''j'' ≠ ''i''}}. To summarize:
+
+:<math>e_i \equiv \begin{cases} 1 \pmod{n_i} \\ 0 \pmod{n_j} &  j \ne i \end{cases}</math>
+
+Because of this, and the multiplication rules allowed in congruences, one solution to the system of simultaneous congruences is:
+
+:<math>x = \sum_{i=1}^k a_i e_i</math>
+
+For example, consider the problem of finding an integer {{mvar|x}} such that
+
+:<math>\begin{cases} x \equiv 2 & \pmod{3} \\ x \equiv 3 & \pmod{4} \\ x \equiv 1 & \pmod{5} \end{cases}</math>
+
+Using the extended Euclidean algorithm, for {{mvar|x}} modulo 3 and 20 [4 × 5], we find {{math|(−13) × 3 + 2 × 20 {{=}} 1}}; i.e., {{math|''e''<sub>1</sub> {{=}} 40}}. For {{mvar|x}} modulo 4 and 15 [3 × 5], we get {{math|(−11) × 4 + 3 × 15 {{=}} 1}}, i.e. {{math|''e''<sub>2</sub> {{=}} 45}}. Finally, for {{mvar|x}} modulo 5 and 12 [3 × 4], we get {{math|5 × 5 + (−2) × 12 {{=}} 1}}, i.e. {{math|''e''<sub>3</sub> {{=}} −24}}. A solution {{mvar|x}} is therefore {{math|2 × 40 + 3 × 45 + 1 × (−24) {{=}} 191}}. All other solutions are congruent to 191 modulo 60, [3 × 4 × 5], which means they are all congruent to 11 modulo 60.
+
+Or in words: 
+# Find a number {{math|''e''<sub>i</sub>}} that gives modulo 1 for a particular divisor, but is divisible by all other divisors (coprime, in this case). 
+# Multiply the remainder (of the original number N to this particular divisor). Repeat with all the divisors. 
+# Sum all these products together.
+# Divide the sum by the [[Lowest common multiple|LCM]] of all the divisors. N shares the modulo with the final remainder.
+
+Thus, we have {{math|''e''<sub>i</sub>}} values of ''40'' (divisible by 4 and 5; gives 1 for mod 3), ''45'' (for mod 4) and ''36'' (for mod 5). Multiplying by the given remainders 2, 3 and 1 yields 80, 135 and 36 respectively. The sum, 251, is then divided by 60, yielding remainder '''11'''.
+
+:<small>'''Note''': There are multiple implementations of the extended Euclidean algorithm which will yield different sets of {{math|''e''<sub>1</sub> {{=}} −20, ''e''<sub>2</sub> {{=}} −15}}, and {{math|''e''<sub>3</sub> {{=}} −24}}. These sets however will produce the same solution; i.e., {{math|(−20)2 + (−15)3 + (−24)1 {{=}} −109 ≡ 11 (mod 60)}}.</small>
+
+Using the same principle, the answer to Sun Tzu's original question is therefore '''23''', using {{math|''e''<sub>i</sub>}} values of ''70'', ''21'' and ''15'' for divisors 3, 5, 7: {{math|(70)2 + (21)3 + (15)2 {{=}} 233 ≡ 23 (mod 105)}}.
+
+== Statement for principal ideal domains ==
+:'''Chinese Remainder Theorem for [[principal ideal domain|Principal Ideal Domains]].''' Let {{mvar|R}} be [[principal ideal domain]]. If {{math|''u''<sub>1</sub>, ..., ''u<sub>k</sub>''}} are [[pairwise coprime]] elements of {{mvar|R}} where {{math|''u'' {{=}} ''u''<sub>1</sub>...''u<sub>k</sub>''}}, then the [[quotient ring]] {{math|''R/uR''}} and the [[product of rings|product ring]] {{math|''R/u''<sub>1</sub>''R'' × ... × ''R/u<sub>k</sub>R''}} are isomorphic via the following map:
+::<math>\begin{align}
+    f: R/uR &\to R/u_1R \times \cdots \times R/u_k R \\
+  f(x + uR) &= (x + u_1R, \ldots, x + u_kR)
+\end{align}</math>
+
+This statement is a straightforward generalization of the above theorem about integer congruences: [[integer|{{math|'''Z'''}}]] is a principal ideal domain, the [[surjective|surjectivity]] of the map ''f'' shows that every system of congruences of the form
+
+:<math>x \equiv a_i \pmod{u_i} \qquad 1 \leq i \leq k</math>
+
+can be solved for {{mvar|x}}, and the [[injective|injectivity]] of the map ''f'' shows that all the solutions {{mvar|x}} are congruent modulo {{mvar|u}}.
+
+'''Proof.''' This map is well-defined and a homomorphism of rings. An inverse homomorphism can be constructed as follows, showing that it is in fact an isomorphism. For each {{mvar|i}}, the elements {{math|''u<sub>i</sub>''}} and {{math|''u/u<sub>i</sub>''}} are coprime, and therefore there exist elements {{mvar|r}} and {{mvar|s}} in {{mvar|R}} with
+
+:<math>r u_i + s u/u_i = 1</math>
+
+Set {{math|''e<sub>i</sub>'' {{=}} ''su/u<sub>i</sub>''}}. Then it is clear that
+
+:<math>e_i \equiv \delta_{ij} \pmod{u_jR}.</math>
+
+Thus the inverse of ''f'' is the map
+
+:<math>\begin{align}
+  g: R/u_1R \times \cdots \times R/u_kR &\to R/uR \\
+      g(a_1 + u_1R, \ldots, a_k + u_kR) &= \sum_{i=1}^k a_i e_i  + uR
+\end{align}</math>
+
+== Statement for general rings ==
+The general form of the Chinese remainder theorem, which implies all the statements given above, can be formulated for commutative [[ring (algebra)|rings]] and [[ring ideal|ideals]].
+
+'''Chinese Remainder Theorem for Commutative Rings.''' If {{mvar|R}} is a commutative ring and {{math|''I''<sub>1</sub>, ..., ''I<sub>k</sub>''}} are ideals of ''R'' that are pairwise [[Coprime#Coprimality_in_ring_ideals|coprime]] (meaning {{math|''I<sub>i</sub>'' + ''I<sub>j</sub>'' {{=}} ''R''}} for all {{math|''i'' ≠ ''j''}}), then the product {{mvar|I}} of these ideals is equal to their intersection, and the [[quotient ring]] {{math|''R/I''}} is isomorphic to the [[product of rings|product ring]] {{math|''R''/''I''<sub>1</sub> × ... × ''R''/''I<sub>k</sub>''}} via the [[ring homomorphism|isomorphism]]
+::<math>\begin{align}
+    f\colon R/I &\to R/I_1 \times \cdots \times R/I_k \\
+  f(x + I) &= (x + I_1, \cdots, x + I_k)
+\end{align}</math>
+
+Here is a version of the theorem where ''R'' is not required to be commutative:
+
+'''Chinese Remainder Theorem for Noncommutative Rings.''' Let {{mvar|R}} be any ring with 1 (not necessarily commutative) and {{math|''I''<sub>1</sub>, ..., ''I<sub>k</sub>''}} be pairwise coprime {{math|2}}-sided ideals. Then the canonical ring homomorphism {{math|''R'' → ''R''/''I''<sub>1</sub> × ... × ''R''/''I<sub>k</sub>''}} is onto, with kernel {{math|''I''<sub>1</sub> ∩ ... ∩ ''I<sub>k</sub>''}}. Hence, <math>\scriptstyle R/(I_1 \,\cap\, \cdots \,\cap\, I_k) \,\simeq\, R/I_1 \,\times\, \cdots \,\times\, R/I_k</math>.
+
+== Applications ==
+
+===Sequence numbering===
+The Chinese remainder theorem can be used to construct an elegant [[Gödel numbering for sequences]], which is needed to prove [[Gödel's incompleteness theorems]].
+
+===Fast Fourier transform===
+The Good-Thomas [[fast Fourier transform]] algorithm exploits a re-indexing of the data based on the Chinese remainder theorem. The [[Prime-factor FFT algorithm]] contains an implementation.
+
+===Encryption===
+The Chinese remainder theorem can also be used in [[secret sharing]], which consists of distributing a set of shares among a group of people who, all together (but no one alone), can recover a certain secret from the given set of shares. Each of the shares is represented in a congruence, and the solution of the system of congruences using the Chinese remainder theorem is the secret to be recovered. [[Secret Sharing using the Chinese Remainder Theorem]] uses, along with the Chinese remainder theorem, special sequences of integers that guarantee the impossibility of recovering the secret from a set of shares with less than a certain [[cardinality]].
+
+===Hermite interpolation===
+'''The General [[Hermite interpolation|Hermite Interpolation]] Problem.''' Given {{mvar|r}} complex points ("interpolation nodes") {{math|''λ''<sub>1</sub>, …, ''λ<sub>r</sub>''}} and complex data {{math|{''a<sub>j,k</sub>'': 1 ≤ ''j'' ≤ ''r'', 0 ≤ ''k'' < ''ν<sub>j</sub>''},}} find {{math|''P''(''x'') ∈ '''C'''[''x'']}} such that:
+:<math>P^{(k)}(\lambda_j) = a_{j, k}\qquad 1 \leq j \leq r, \quad  0 \leq k < \nu_j.</math>
+
+'''Solution.''' Introducing the polynomials
+:<math>A_j(x) := \sum_{k=0}^{\nu_j - 1}\frac{a_{j, k}}{k!}(x - \lambda_j)^k</math>
+
+the problem may be equivalently reformulated as a system of {{mvar|r}} simultaneous congruences:
+:<math>P(x) \equiv A_j(x) \pmod {(x - \lambda_j)^{\nu_j}}, \qquad 1 \leq j \leq r</math>
+
+By the Chinese remainder theorem in the principal ideal domain {{math|'''C'''[''x'']}}, there is a unique polynomial {{math|''P''(''x'')}} such that:
+:<math>\deg(P) < n := \sum_j\nu_j.</math>
+
+A direct construction, in analogy with the above proof for the integer number case, can be performed as follows. Define the polynomials
+:<math>\begin{align}
+    Q &= \prod_{i=1}^{r}(x - \lambda_i)^{\nu_i} \\
+  Q_j &= \frac{Q}{(x - \lambda_j)^{\nu_j}}
+\end{align}</math>
+
+The [[partial fraction decomposition]] of {{math|{{sfrac|1|''Q''}}}} gives {{mvar|r}} polynomials {{math|''S<sub>j</sub>''}} with degrees {{math|deg(''S<sub>j</sub>'') < ''ν<sub>j</sub>''}} such that
+:<math>\frac{1}{Q} = \sum_{i=1}^{r} \frac{S_i}{(x - \lambda_i)^{\nu_i}}</math>
+
+so that
+:<math>1 = \sum_{i=1}^{r}S_i Q_i.</math>
+
+Then a solution of the simultaneous congruence system is given by the polynomial
+:<math>\sum_{i=1}^r A_i S_i Q_i = A_j + \sum_{i=1}^{r}(A_i - A_j) S_i Q_i \equiv A_j\pmod{(x - \lambda_j)^{\nu_j}}\qquad 1 \leq j \leq r</math>
+
+and the minimal degree solution is this one reduced modulo {{mvar|Q}}, that is the unique with degree less than {{mvar|n}}.
+
+===Dedekind's theorem===
+'''Dedekind's Theorem on the Linear Independence of Characters.''' Let {{mvar|M}} be a [[monoid]] and {{mvar|k}} an [[integral domain]], viewed as a monoid by considering the multiplication on {{mvar|k}}. Then any finite family {{math|(&nbsp;''f<sub>i</sub>''&nbsp;)<sub>''i''∈''I''</sub>}} of distinct monoid homomorphisms {{math|&nbsp;''f<sub>i</sub>'' : ''M'' → ''k''}} is linearly independent. In other words every family {{math|(''α<sub>i</sub>'')<sub>''i''∈''I''</sub>}} of elements {{math|''α<sub>i</sub>'' ∈ ''k''}} satisfying 
+:<math>\sum_{i \in I}\alpha_i f_i = 0</math> 
+
+must be equal to the family {{math|(0)<sub>''i''∈''I''</sub>}}.
+
+'''Proof.''' First assume that {{mvar|k}} is a field, otherwise, replace the integral domain {{mvar|k}} by its quotient field, and nothing will change. We can linearly extend the monoid homomorphisms {{math|&nbsp;''f<sub>i</sub>'' : ''M'' → ''k''}} to {{mvar|k}}-algebra homomorphisms {{math|''F<sub>i</sub>'' : ''k''[''M''] → ''k''}}, where {{math|''k''[''M'']}} is the [[monoid ring]] of {{mvar|M}} over {{mvar|k}}. Then, by linearity, the condition
+:<math>\sum_{i\in I}\alpha_i f_i = 0,</math>
+
+yields
+:<math>\sum_{i \in I}\alpha_i F_i = 0.</math>
+
+Next, for {{math|''i'', ''j'' ∈ ''I''; ''i'' ≠ ''j''}} the two {{mvar|k}}-linear maps {{math|''F<sub>i</sub>'' : ''k''[''M''] → ''k''}} and {{math|''F<sub>j</sub>'' : ''k''[''M''] → ''k''}} are not proportional to each other. Otherwise {{math|&nbsp;''f<sub>i</sub>''&nbsp;}} and {{math|&nbsp;''f<sub>j</sub>''&nbsp;}} would also be proportional, and thus equal since as monoid homomorphisms they satisfy: {{math|&nbsp;''f<sub>i</sub>''&nbsp;(1) {{=}} 1 {{=}} &nbsp;''f<sub>j</sub>''&nbsp;(1)}}, which contradicts the assumption that they are distinct.
+
+Therefore the kernels {{math|Ker ''F<sub>i</sub>''}} and {{math|Ker ''F<sub>j</sub>''}} are distinct. Since {{math|''k''[''M'']/Ker ''F<sub>i</sub>'' ≅ ''F<sub>i</sub>''(''k''[''M'']) {{=}} ''k''}} is a field, {{math|Ker ''F<sub>i</sub>''}} is a maximal ideal of {{math|''k''[''M'']}} for every {{math|''i'' ∈ ''I''}}. Because they are distinct and maximal the ideals {{math|Ker ''F<sub>i</sub>''}} and {{math|Ker ''F<sub>j</sub>''}} are coprime whenever {{math|''i'' ≠ ''j''}}. The Chinese Remainder Theorem (for general rings) yields an isomorphism:
+:<math>\begin{align}
+  \phi: k[M] / K &\to \prod_{i \in I}k[M] / \mathrm{Ker} F_i \\
+     \phi(x + K) &= \left(x + \mathrm{Ker} F_i\right)_{i \in I}
+\end{align}</math>
+
+where
+:<math>K = \prod_{i \in I}\mathrm{Ker} F_i = \bigcap_{i \in I}\mathrm{Ker} F_i.</math>
+
+Consequently, the map
+:<math>\begin{align}
+  \Phi: k[M] &\to \prod_{i \in I}k[M]/ \mathrm{Ker} F_i \\
+     \Phi(x) &= \left(x + \mathrm{Ker} F_i\right)_{i \in I}
+\end{align}</math>
+
+is surjective. Under the isomorphisms {{math|''k''[''M'']/Ker ''F<sub>i</sub>'' → ''F<sub>i</sub>''(''k''[''M'']) {{=}} ''k'',}} the map {{math|Φ}} corresponds to:
+:<math>\begin{align}
+  \psi: k[M] &\to \prod_{i \in I}k \\
+     \psi(x) &= \left[F_i(x)\right]_{i \in I}
+\end{align}</math>
+
+Now,
+:<math>\sum_{i \in I}\alpha_i F_i = 0</math>
+
+yields
+:<math>\sum_{i \in I}\alpha_i u_i = 0</math>
+
+for every vector {{math|(''u<sub>i</sub>'')<sub>''i''∈''I''</sub>}} in the image of the map {{mvar|ψ}}. Since {{mvar|ψ}} is surjective, this means that
+:<math>\sum_{i \in I}\alpha_i u_i = 0</math>
+
+for every vector
+:<math>\left(u_i\right)_{i \in I} \in \prod_{i \in I}k.</math>
+
+Consequently, {{math|(''α<sub>i</sub>'')<sub>''i''∈''I''</sub> {{=}} (0)<sub>''i''∈''I''</sub>}}. QED.
+
+== Non-commutative case: a caveat ==
+Sometimes in the commutative case, the conclusion of the Chinese Remainder Theorem is stated as {{math|''R''/(''I''<sub>1</sub> ... ''I<sub>k</sub>'') ≅ ''R''/''I''<sub>1</sub> × ... × ''R''/''I<sub>k</sub>''}}. This version does not hold in the non-commutative case, since {{math|''I''<sub>1</sub> ∩ ... ∩ ''I<sub>k</sub>'' ≠ ''I''<sub>1</sub> ... ''I<sub>k</sub>''}}, as can be seen from the following case:
+
+:'''Proposition.''' Let {{mvar|R}} be the ring of non-commutative real polynomials in {{mvar|x}} and {{mvar|y}}. Let {{mvar|I}} be the principal two-sided ideal generated by {{mvar|x}} and {{mvar|J}} the principal two-sided ideal generated by {{math|''xy'' + 1}}. Then {{math|''I'' + ''J'' {{=}} ''R''}} but {{math|''I'' ∩ ''J'' ≠ ''IJ''}}.
+
+'''Proof.''' Observe that {{mvar|I}} is formed by all polynomials with an {{mvar|x}} in every term and that every polynomial in {{mvar|J}} vanishes under the substitution {{math|''y'' {{=}} − {{sfrac|1|''x''}}}}. Then clearly {{math|''p'' {{=}} (''xy'' + 1)''x'' ∈ ''I'' ∩ ''J''}}. Define a "term in {{mvar|R}}", as an element of the multiplicative monoid of {{mvar|R}} generated by {{mvar|x}} and {{mvar|y}}, and its degree as the usual degree of the term after the substitution {{math|''y'' {{=}} ''x''}}. On the other hand, suppose {{math|''q'' ∈ ''J''}}. Observe that a term in {{mvar|q}} of maximum degree depends on {{mvar|y}} otherwise {{mvar|q}} under the substitution {{math|''y'' {{=}} − {{sfrac|1|''x''}}}} can not vanish. The same happens then for an element {{math|''q'' ∈ ''IJ''}}. Note that the last {{mvar|y}}, from left to right, in a term of maximum degree in an element of {{mvar|IJ}} is preceded by more than one {{mvar|x}}. (We are counting here all the preceding {{mvar|x}}s. E.g., in {{math|''x''<sup>2</sup>''yxyx''<sup>5</sup>}} the last {{mvar|y}} is preceded by three {{mvar|x}}s.) This proves that {{math|''p'' {{=}} (''xy'' + 1)''x'' ∉ ''IJ''}} since the last {{mvar|y}} in the term of maximum degree in {{mvar|p}} ({{mvar|xyx}}) is preceded by only one {{mvar|x}}. Hence {{math|''I'' ∩ ''J'' ≠ ''IJ''}}.
+
+However, it is true in general that {{math|''I'' + ''J'' {{=}} ''R''}} implies {{math|''I'' ∩ ''J'' {{=}} ''IJ'' + ''JI''}}. To see this, note that {{math|''I'' ∩ ''J'' {{=}} (''I'' ∩ ''J'')(''I'' + ''J'') ⊂ ''IJ'' + ''JI''}}, while the opposite inclusion is obvious. Also, we have in general that, provided {{math|''I''<sub>1</sub>, ..., ''I<sub>m</sub>''}} are pairwise coprime two-sided ideals in {{mvar|R}}, the natural map
+
+:<math>R / (I_1 \cap \cdots \cap I_m) \to R/I_1 \oplus \cdots \oplus R/I_m</math>
+
+is an isomorphism. Note that {{math|''I''<sub>1</sub> ∩ ... ∩ ''I<sub>m</sub>''}} can be replaced by a sum over all orderings of {{math|''I''<sub>1</sub>, ..., ''I<sub>m</sub>''}} of their product (or just a sum over enough orderings, using inductively that {{math|''I'' ∩ ''J'' {{=}} ''IJ'' + ''JI''}} for coprime ideals {{math|''I'', ''J'' ⊂ ''R''}}).
+
+== See also ==
+* [[Covering system]]
+* [[Hasse principle]]
+* [[Residue number system]]
+* [[Secret sharing using the Chinese remainder theorem]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+{{nofootnotes|date=February 2015}}
+*{{citation
+ | last1 = Cormen
+ | first1 = Thomas H.
+ | authorlink1 = Thomas H. Cormen
+ | last2 = Leiserson
+ | first2 = Charles E.
+ | authorlink2 = Charles E. Leiserson
+ | last3 = Rivest
+ | first3 = Ronald L.
+ | authorlink3 = Ronald L. Rivest
+ | last4 = Stein
+ | first4 = Clifford
+ | authorlink4 = Clifford Stein
+ | year = 2001
+ | title = [[Introduction to Algorithms]]
+ | edition = Second
+ | publisher = [[MIT Press]] and McGraw-Hill
+ | isbn = 0-262-03293-7
+}}. See Section 31.5: The Chinese remainder theorem, pp.&nbsp;873–876.
+*{{citation
+ | title = Chinese Remainder Theorem: Applications in Computing, Coding, Cryptography
+ | last1 = Ding
+ | first1 = Cunsheng
+ | last2 = Pei
+ | first2 = Dingyi
+ | last3 = Salomaa
+ | first3 = Arto
+ | publisher = World Scientific Publishing
+ | year = 1996
+ | isbn = 981-02-2827-9
+ | url = http://www.worldscientific.com/worldscibooks/10.1142/3254
+ | pages = 1–213
+}}
+*{{citation
+ | last = Duchet
+ | first = Pierre
+ | editor1-last = Graham | editor1-first = R. L.
+ | editor2-last = Grötschel | editor2-first = M.
+ | editor3-last = Lovász | editor3-first = L.
+ | contribution = Hypergraphs
+ | location = Amsterdam
+ | mr = 1373663
+ | pages = 381–432
+ | publisher = Elsevier
+ | title = Handbook of combinatorics, Vol. 1, 2
+ | year = 1995
+}}. See in particular Section 2.5, "Helly Property", [http://books.google.com/books?id=5Y9NCwlx63IC&pg=PA393 pp.&nbsp;393–394].
+* {{citation
+  | last1 = Gauss  | first1 = Carl Friedrich
+  | last2 = Clarke | first2 = Arthur A. (translator into English) 
+  | title = Disquisitiones Arithemeticae
+  | edition = Second, corrected
+  | publisher = [[Springer Science+Business Media|Springer]]
+  | location = New York
+  | year = 1986
+  | isbn = 978-0-387-96254-2
+  | url = http://www.springer.com/mathematics/algebra/book/978-0-387-96254-2
+}}
+*{{citation
+ | title = Algebra
+ | last = Hungerford
+ | first = Thomas W.
+ | authorlink = Thomas W. Hungerford
+ | publisher = Springer-Verlag
+ | series = Graduate Texts in Mathematics, Vol. 73
+ | year = 1974
+ | isbn = 978-1-4612-6101-8
+ | url = http://www.springer.com/mathematics/algebra/book/978-0-387-90518-1
+ | pages = 131–132
+}}
+*{{citation
+ | last = Kak
+ | first = Subhash
+ | authorlink = Subhash Kak
+ | issue = 1
+ | journal = Indian Journal of History of Science
+ | pages = 62–71
+ | title = Computational aspects of the Aryabhata algorithm
+ | url = http://www.ece.lsu.edu/kak/AryabhataAlgorithm.pdf
+ | volume = 21
+ | year = 1986
+}}
+*{{citation
+ | last = Knuth
+ | first = Donald
+ | authorlink = Donald Knuth
+ | year = 1997
+ | title = [[The Art of Computer Programming]]
+ | volume = Volume 2: ''Seminumerical Algorithms''
+ | edition = Third
+ | publisher = Addison-Wesley
+ | isbn = 0-201-89684-2
+}}. See Section 4.3.2 (pp.&nbsp;286–291), exercise 4.6.2–3 (page 456).
+*{{citation
+ | title = Fibonacci's Liber Abaci
+ | author1 = [[Leonardo Pisano]]
+ | last2 = Sigler
+ | first2 = Laurence E. (translator into English)
+ | publisher = Springer-Verlag
+ | year = 2002
+ | isbn = 0-387-95419-8
+ | url = http://www.springer.com/mathematics/book/978-0-387-40737-1
+ | pages = 402–403
+}}
+
+== External links ==
+* {{springer |title = Chinese remainder theorem |id = p/c022120}}
+* [http://demonstrations.wolfram.com/ChineseRemainderTheorem/ "Chinese Remainder Theorem"] by [[Ed Pegg, Jr.]], [[Wolfram Demonstrations Project]], 2007.
+* {{MathWorld |urlname = ChineseRemainderTheorem |title = Chinese Remainder Theorem}}
+* [http://www.codeproject.com/KB/recipes/CRP.aspx C# program and discussion] at [[codeproject]]
+* [http://www.math.hawaii.edu/~lee/courses/Chinese.pdf University of Hawaii System] CRT by Lee Lady
+* [http://ctext.org/sunzi-suan-jing Full text of the Sunzi Suanjing] (Chinese) &mdash; [[Chinese Text Project]]
+
+[[Category:Articles containing proofs]]
+[[Category:Chinese mathematical discoveries|Sun, Master]]
+[[Category:Commutative algebra]]
+[[Category:Modular arithmetic]]
+[[Category:Theorems in number theory]]

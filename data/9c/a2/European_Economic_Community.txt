@@ -1,0 +1,348 @@
+{{About|one of the three European communities|the collective of European communities that existed from 1952 until 2009|European Communities|the modern organisation that incorporated the European communities in 1993|European Union|other uses|EEC (disambiguation)|and|Common Market (disambiguation)}}
+{{Use British English|date=March 2013}}
+{{Infobox former country
+|conventional_long_name = European Economic Community
+{{Name in official languages
+|font-size = 65%
+|name = <small>(later, European Community¹)</small>
+|da = Europæiske Økonomiske Fællesskab
+|nl = Europese Economische Gemeenschap
+|fr = Communauté économique européenne
+|de = Europäische Wirtschaftsgemeinschaft
+|el = Ευρωπαϊκή Οικονομική Κοινότητα
+|it = Comunità Economica Europea
+|pt = Comunidade Económica Europeia
+|es = Comunidad Económica Europea
+}}
+|common_name = EEC/ECM
+|_noautocat  = yes
+|status          = [[Economic union]]
+|continent   = Europe
+|era       = Cold War
+|s1          = European Union
+|flag_s1     = Flag of Europe.svg
+|flag        = Flag of Europe
+|image_flag  = Flag of Europe.svg{{!}}border
+|image_map   = European Economic Community (orthographic projection).svg
+|image_map_caption = EEC in 1993
+|image_map_size = 220px
+|capital     = [[Brussels]]<br />[[Luxembourg (city)|Luxembourg]]<br />[[Strasbourg]]²
+|common_languages = {{Collapsible list|titlestyle = background:transparent;text-align:left;font-weight:normal;|title=[[Languages of the European Union|9]] (1993)|[[Danish language|Danish]] |[[Dutch language|Dutch]] |[[English language|English]] |[[French language|French]] |[[German language|German]] |[[Greek language|Greek]] |[[Italian language|Italian]] |[[Portuguese language|Portuguese]] |[[Spanish language|Spanish]]}}
+|national_anthem        = "[[Anthem of Europe|Ode to Joy]]" {{small|(orchestral)}}
+[[File:Anthem of Europe (US Navy instrumental short version).ogg|center]]
+|currency               = {{Collapsible list |titlestyle=font-weight:normal; background:transparent; text-align:left;|title=13 currencies|[[European Unit of Account|EUA]]/[[European Currency Unit|ECU]] (accounting)|[[Belgian franc]]|[[Danish krone]]|[[French franc]]|[[Deutsche Mark|German mark]]|[[Greek drachma]]|[[Irish pound]]|[[Italian lira]]|[[Luxembourgish franc]]|[[Dutch guilder]]|[[Portuguese escudo]]|[[Spanish peseta]]|[[Pound sterling]]}}
+|title_leader = [[President of the European Commission|Commission President]]
+|leader1      = Walter Hallstein
+|year_leader1 = 1958–1967
+|leader2      = [[Jean Rey (politician)|Jean Rey]]
+|year_leader2 = 1967–1970
+|leader3      = François-Xavier Ortoli
+|year_leader3 = 1973–1977
+|leader4      = Roy Jenkins
+|year_leader4 =1977–1981
+|leader5      = Gaston Thorn
+|year_leader5 = 1981–1985
+|leader6      = Jacques Delors
+|year_leader6 = 1985–1993
+|legislature            = [[Council of the European Union|Council of Ministers]]<br>[[European&nbsp;Parliament]]
+|life_span              = 1958–1993/2009
+|event_pre              = [[Treaty of Rome|Treaty signed]]
+|date_pre               = 25 March 1957
+|event_start            = [[Treaty of Rome|Established]]
+|year_start             = 1958
+|date_start             = 1 January
+|event1                 = [[Merger Treaty|European Communities]]
+|date_event1            = 1 July 1967
+|event2                 = [[Internal market|Single market]]
+|date_event2            = 1 January 1993
+|event_end              = [[Maastricht Treaty|Communities become a pillar of the EU]]
+|year_end               = 1993
+|date_end               = 1 November
+|event_post             = [[Treaty of Lisbon|Pillar abolished]]
+|date_post              = 1 December 2009
+|today = {{nowrap|{{flag|European Union}}}}
+|footnotes    = ¹ The information in this infobox covers the EEC's time as an independent organisation. It does not give details of post-1993 operation within the EU as that is explained in greater length in the [[European Union]] and [[European Communities]] articles.<br />² ''De facto'' only, these cities hosted the main institutions but were not titled as capitals due to the EEC being primarily an international organisation.
+|width = 270px
+}}
+{{EU history}}
+The '''European Economic Community''' ('''EEC''') was a [[regional organisation]] which aimed to bring about [[economic integration]] between its member states. It was created by the [[Treaty of Rome]] of 1957.<ref>Today the largely rewritten treaty continues in force as the ''Treaty on the functioning of the European Union'', as renamed by the Lisbon Treaty.</ref> Upon the formation of the [[European Union]] (EU) in 1993, the EEC was incorporated and renamed as the '''European Community''' ('''EC'''). In 2009 the EC's institutions were absorbed into the EU's wider framework and the community ceased to exist.
+
+The Community's initial aim was to bring about economic integration, including a [[common market]] and [[customs union]], among its [[Inner Six|six founding members]]: [[Belgium]], [[France]], [[Italy]], [[Luxembourg]], the [[Netherlands]] and [[West Germany]]. It gained a common set of [[Institutions of the European Union|institutions]] along with the [[European Coal and Steel Community]] (ECSC) and the [[European Atomic Energy Community]] (EURATOM) as one of the [[European Communities]] under the 1965 [[Merger Treaty]] (Treaty of Brussels). In 1993, a complete [[single market]] was achieved, known as the [[internal market]], which allowed for the free movement of goods, capital, services, and people within the EEC. In 1994, the internal market was formalised by the EEA agreement. This agreement also extended the internal market to include most of the member states of the [[European Free Trade Association]], forming the [[European Economic Area]] covering 15 countries.
+
+Upon the entry into force of the [[Maastricht Treaty]] in 1993, the EEC was renamed the ''European Community'' to reflect that it covered a wider range than economic policy. This was also when the three European Communities, including the EC, were collectively made to constitute the first of the [[three pillars of the European Union]], which the treaty also founded. The EC existed in this form until it was abolished by the 2009 [[Treaty of Lisbon]], which incorporated the EC's institutions into the EU's wider framework and provided that the EU would "replace and succeed the European Community".
+
+The EEC was also known as the ''Common Market'' in the English-speaking world and sometimes referred to as the ''European Community'' even before it was officially renamed as such in 1993.
+
+==History==
+{{Further|History of the European Union}}
+
+===Background===
+In 1951, the [[Treaty of Paris (1951)|Treaty of Paris]] was signed, creating the [[European Coal and Steel Community]] (ECSC). This was an international community based on [[supranationalism]] and international law, designed to help the [[Economy of the European Union|economy of Europe]] and prevent future war by [[European integration|integrating]] its [[Member state of the European Union|members]].
+
+In the aim of creating a [[federal Europe]] two further communities were proposed: a [[European Defence Community]] and a [[European Political Community]]. While the treaty for the latter was being drawn up by the [[European Parliament|Common Assembly]], the ECSC parliamentary chamber, the proposed defence community was rejected by the [[French Parliament]]. ECSC President [[Jean Monnet]], a leading figure behind the communities, resigned from the High Authority in protest and began work on alternative communities, based on economic integration rather than political integration.<ref>Raymond F. Mikesell, ''The Lessons of Benelux and the European Coal and Steel Community for the European Economic Community'', The American Economic Review, Vol. 48, No. 2, Papers and Proceedings of the Seventieth Annual Meeting of the American Economic Association (May 1958), pp. 428–441</ref> After the [[Messina Conference]] in 1955, [[Paul Henri Spaak]] was given the task to prepare a report on the idea of a [[customs union]]. The so-called [[Spaak Report]] of the [[Spaak Committee]] formed the cornerstone of the intergovernmental negotiations at Val Duchesse castle in 1956.<ref>[http://aei.pitt.edu/995/ Spaak report]</ref> Together with the [[Ohlin Report]] the Spaak Report would provide the basis for the [[Treaty of Rome]].
+
+In 1956, [[Paul Henri Spaak]] led the [[Intergovernmental Conference on the Common Market and Euratom]] at the [[Castle of the Valley of the Duchess|Val Duchesse]] castle, which prepared for the [[Treaty of Rome]] in 1957. The conference led to the signature, on 25 March 1957, of the [[Treaty of Rome]] establishing a European Economic Community.
+
+===Creation and early years===
+The resulting communities were the European Economic Community (EEC) and the [[Euratom|European Atomic Energy Community]] (EURATOM or sometimes EAEC). These were markedly less supranational than the previous communities,{{citation needed|date=December 2012}} due to protests from some countries that their [[sovereignty]] was being infringed (however there would still be concerns with the behaviour of the [[Hallstein Commission]]). The first formal meeting of the [[Hallstein Commission]], was held on 16 January 1958 at the [[Castle of the Valley of the Duchess|Chateau de Val-Duchesse]]. The EEC (direct ancestor of the modern Community) was to create a [[customs union]] while Euratom would promote co-operation in the [[nuclear power]] sphere. The EEC rapidly became the most important of these and expanded its activities. One of the first important accomplishments of the EEC was the establishment (1962) of common price levels for agricultural products. In 1968, internal tariffs (tariffs on trade between member nations) were removed on certain products.
+
+Another crisis was triggered in regard to proposals for the financing of the [[Common Agricultural Policy]], which came into force in 1962. The transitional period whereby decisions were made by unanimity had come to an end, and majority-voting in the Council had taken effect. Then-[[French President]] [[Charles de Gaulle]]'s opposition to supranationalism and fear of the other members challenging the CAP led to an "empty chair policy" whereby French representatives were withdrawn from the European institutions until the French veto was reinstated. Eventually, a compromise was reached with the [[Luxembourg compromise]] on 29 January 1966 whereby a [[gentlemen's agreement]] permitted members to use a veto on areas of national interest.<ref>[http://news.bbc.co.uk/1/hi/world/europe/6453889.stm Fifty years of fraternal rivalry] news.bbc.co.uk 19/03/07</ref><ref>[http://www.cvce.eu/obj/the_empty_chair_policy-en-f6d19361-9a7a-4e39-ae93-0f898e652d85.html The 'empty chair' policy]</ref>
+
+On 1 July 1967 when the [[Merger Treaty]] came into operation, combining the institutions of the ECSC and Euratom into that of the EEC, they already shared a [[European Parliament|Parliamentary Assembly]] and [[European Court of Justice|Courts]]. Collectively they were known as the ''[[European Communities]]''. The Communities still had independent personalities although were increasingly integrated. Future treaties granted the community new powers beyond simple economic matters which had achieved a high level of integration. As it got closer to the goal of political integration and a peaceful and united Europe, what [[Mikhail Gorbachev]] described as a ''[[Common European Home]]''.
+
+===Enlargement and elections===
+[[File:De Gaulle-OWI.jpg|thumb|[[French President]] [[Charles de Gaulle]] vetoed British membership, held back the development of Parliament's powers and was at the centre of the 'empty chair crisis' of 1965]]
+The 1960s saw the first attempts at [[Enlargement of the European Union|enlargement]]. In 1961, [[Denmark]], [[Republic of Ireland|Ireland]], [[Norway]] and the [[United Kingdom]] applied to join the three Communities. However, President Charles de Gaulle saw British membership as a [[Trojan horse]] for U.S. influence and vetoed membership, and the applications of all four countries were suspended.
+
+The four countries resubmitted their applications on 11 May 1967 and with [[Georges Pompidou]] succeeding Charles de Gaulle as French president in 1969, the veto was lifted. Negotiations began in 1970 under the pro-European government of [[Edward Heath]], who had to deal with disagreements relating to the [[Common Agricultural Policy]] and the UK's relationship with the [[Commonwealth of Nations]]. Nevertheless, two years later the accession treaties were signed and all but Norway acceded to the Community ([[Norway and the European Union|Norway rejected membership]] in a [[referendum]]) from 1 January 1973.
+
+The [[Treaties of Rome]] had stated that the [[European Parliament]] must be directly elected, however this required the [[Council of the European Union|Council]] to agree on a common voting system first. The Council procrastinated on the issue and the Parliament remained appointed,<ref name="Hoskyns">{{Cite book| last = Hoskyns | first = Catherine |author2=Michael Newman | title = Democratizing the European Union: Issues for the twenty-first Century (Perspectives on Democratization) | publisher = [[Manchester University Press]] | year = 2000 | isbn = 978-0-7190-5666-6 }}</ref> French President Charles de Gaulle was particularly active in blocking the development of the Parliament, with it only being granted [[Budgetary treaties of the European Communities|Budgetary powers]] following his resignation.
+
+Parliament pressured for agreement and on 20 September 1976 the Council agreed part of the necessary instruments for election, deferring details on electoral systems which remain varied to this day.<ref name="Hoskyns"/> During the tenure of [[Roy Jenkins|President Jenkins]], in June 1979, the elections were held in all the then-members (see [[European Parliament election, 1979]]).<ref name="Veil election">[http://www.europarl.europa.eu/news/expert/background_page/008-1806-015-01-03-901-20070109BKG01804-15-01-2007-2007-false/default_p001c006_en.htm Election of the President of the European Parliament], [[Europa (web portal)|European Parliament]]</ref> The new Parliament, galvanised by direct election and new powers, started working full-time and became more active than the previous assemblies.<ref name="Hoskyns"/>
+
+Shortly after its election, Parliament became the first Community institution to propose that the Community adopt the [[flag of Europe]].<ref name="COE page">{{Cite web|last=|first=|title=Council of Europe's Emblems|publisher=[[Council of Europe]]|url=http://www.coe.int/T/E/Com/About_Coe/flag.asp|accessdate=2007-08-16 |archiveurl = https://web.archive.org/web/20070807045151/http://www.coe.int/T/E/Com/About_Coe/flag.asp <!-- Bot retrieved archive --> |archivedate = 7 August 2007}}</ref> The [[European Council]] agreed to this and adopted the [[Symbols of Europe]] as those of the Community in 1984.<ref name="ENA page">{{Cite web|last=|first=|title=The European flag: questions and answers|publisher=CVCE|url=http://www.cvce.eu/obj/le_drapeau_europeen_questions_et_reponses_2005-fr-39d51e24-2e68-4497-b81e-7a08e09ee0d7.html|accessdate=2013-04-26}}</ref> The European Council, or European summit, had developed since the 1960s as an informal meeting of the Council at the level of heads of state. It had originated from then-[[French President]] [[Charles de Gaulle]]'s resentment at the domination of supranational institutions (e.g. the Commission) over the integration process. It was mentioned in the treaties for the first time in the [[Single European Act]] (see below).<ref name="Dragoman">{{Cite web|last=Stark|first=Christine|authorlink=|title=Evolution of the European Council: The implications of a permanent seat|work=|publisher=Dragoman.org|url=http://www.dragoman.org/ec/belfast-2002.pdf|format=PDF|doi=|accessdate=2007-07-12}}</ref>
+
+[[File:Enlargement of the European Union 77.gif|thumb|Enlargement, 1957 to 2013<br />{{legend|blue|Community enlargement}}{{legend|green|Since 1995}}]]
+
+===Towards Maastricht===
+[[Greece]] applied to join the community on 12 June 1975, following the restoration of democracy, and joined on 1 January 1981.<ref>[http://www.cvce.eu/obj/the_accession_of_greece-en-61a2a7a5-39a9-4b06-91f8-69ae77b41515.html The accession treaty with Greece]</ref> Following on from Greece, and after their own democratic restoration, [[Spain]] and [[Portugal]] applied to the communities in 1977 and joined together on 1 January 1986.<ref>[http://www.cvce.eu/obj/the_accession_of_spain_and_portugal-en-b1dd040b-7463-4e67-88f2-4890f5b8fac6.html The Accession Treaties with Spain and Portugal] on CVCE website</ref> In 1987 [[Turkey]] formally applied to join the Community and began the longest application process for any country.
+
+With the prospect of further enlargement, and a desire to increase areas of co-operation, the [[Single European Act]] was signed by the foreign ministers on the 17 and 28 February 1986 in [[Luxembourg (city)|Luxembourg]] and the [[Hague]] respectively. In a single document it dealt with reform of institutions, extension of powers, foreign policy cooperation and the single market. It came into force on 1 July 1987.<ref>[http://www.cvce.eu/obj/the_provisions_of_the_single_european_act-en-243555aa-d219-4525-9978-34325bb5e17a.html Single European Act]</ref> The act was followed by work on what would be the [[Maastricht Treaty]], which was agreed on 10 December 1991, signed the following year and coming into force on 1 November 1993 establishing the European Union.
+
+===European Community===
+
+The EU absorbed the European Communities as one of its [[three pillars of the European Union|three pillars]]. The EEC's areas of activities were enlarged and were renamed the ''European Community'', continuing to follow the [[supranational]] structure of the EEC. The EEC institutions became those of the EU, however the Court, Parliament and Commission had only limited input in the new pillars, as they worked on a more [[intergovernmental organization|intergovernmental]] system than the European Communities. This was reflected in the names of the institutions, the Council was formally the "Council of the ''European Union''" while the Commission was formally the "Commission of the ''European Communities''".
+
+However, after the Treaty of Maastricht, Parliament gained a much bigger role. Maastricht brought in the [[codecision procedure]], which gave it equal legislative power with the Council on Community matters. Hence, with the greater powers of the supranational institutions and the operation of [[Qualified Majority Voting]] in the Council, the Community pillar could be described as a far more [[Federalism|federal]] method of decision making.
+
+The [[Treaty of Amsterdam]] transferred responsibility for free movement of persons (e.g., [[Visa (document)|visas]], [[illegal immigration]], [[Right of asylum|asylum]]) from the Justice and Home Affairs (JHA) pillar to the European Community (JHA was renamed [[Police and Judicial Co-operation in Criminal Matters]] (PJCC) as a result).<ref name="Folk">[http://www.eu-oplysningen.dk/euo_en/spsv/all/12/ What are the three pillars of the EU?], Folketingets EU-Oplysning</ref> Both Amsterdam and the [[Treaty of Nice]] also extended [[codecision procedure]] to nearly all policy areas, giving Parliament equal power to the Council in the Community.
+
+In 2002, the [[Treaty of Paris (1951)|Treaty of Paris]] which established the ECSC expired, having reached its 50-year limit (as the first treaty, it was the only one with a limit). No attempt was made to renew its mandate; instead, the [[Treaty of Nice]] transferred certain of its elements to the [[Treaty of Rome]] and hence its work continued as part of the EC area of the European Community's remit.
+
+After the entry into force of the [[Treaty of Lisbon]] in 2009 the pillar structure ceased to exist. The European Community, together with its [[legal person]]ality, was absorbed into the newly consolidated European Union which merged in the other two pillars (however Euratom remained distinct). This was originally proposed under the [[Treaty establishing a Constitution for Europe|European Constitution]] but that treaty failed ratification in 2005.
+
+==Aims and achievements==
+{{Expand section|date=December 2007}}
+The main aim of the EEC, as stated in its preamble, was to "preserve peace and liberty and to lay the foundations of an ever closer union among the peoples of Europe". Calling for balanced economic growth, this was to be accomplished through:<ref name="ENA EEC achievements">{{Cite web|title=The achievements of the EEC|publisher=CVCE|url=http://www.cvce.eu/obj/report_by_the_eec_commission_on_the_implementation_of_the_treaty_of_rome_january_1958_january_1962-en-a757255d-b121-4d44-842f-1aa861a5f018.html|accessdate=2013-04-26}}</ref>
+
+# The establishment of a [[customs union]] with a [[common external tariff]]
+# Common policies for [[Common Agricultural Policy|agriculture]], [[Common Transport Policy|transport]] and trade, including [[standardization]] (for example, the [[CE marking]] designates standards compliance)
+# [[Enlargement of the European Union|Enlargement of the EEC]] to the rest of Europe
+
+For the customs union, the treaty provided for a 10% reduction in custom duties and up to 20% of global import quotas. Progress on the customs union proceeded much faster than the twelve years planned. However, France faced some setbacks due to their [[Algerian War|war with Algeria]].<ref name="ENA Customs">{{Cite web|title=The European Customs Union|publisher=CVCE|url=http://www.cvce.eu/obj/the_european_customs_union-en-08ef3b37-2ab4-4349-aec8-819809c59a9d.html|accessdate=2013-04-26}}</ref>
+
+==Members==
+{{Further|Member state of the European Union|Enlargement of the European Union}}
+
+The six states that founded the EEC and the other two Communities were known as the "[[Inner Six|inner six]]" (the "outer seven" were those countries who formed the [[European Free Trade Association]]). The six were France, West Germany, Italy and the three [[Benelux]] countries: Belgium, the Netherlands and Luxembourg. The first enlargement was in 1973, with the accession of Denmark, Ireland and the United Kingdom. Greece, Spain and Portugal joined in the 1980s. The former [[East Germany]] became part of the EEC upon German reunification in 1990. Following the creation of the EU in 1993, it has enlarged to include an additional sixteen countries by 2013.
+
+[[File:Expansion of the European Communities 1973-1992.png|thumb|300px|{{Legend|darkgreen|Founding members of EEC}}{{Legend|darkblue|Later members of EEC}}]]
+
+{| class="wikitable sortable"
+! class="unsortable" | Flag
+! [[Member State of the European Union|State]]
+! [[List of European Union member states by accession|Accession]]
+! class="unsortable" | Language(s)
+! Currency
+! Population<br />(1990)<ref>Data from [http://www.populstat.info/ Populstat.info]</ref>
+|-
+| {{Flagdeco|Belgium}}
+| [[Belgium]]
+| style="text-align:right" | {{dts|format=dmy|1957|3|25}}
+| [[Dutch language|Dutch]], [[French language|French]] and [[German language|German]]
+| [[Belgian franc]]<ref name="Francs">The Belgian and Luxembourgish francs were 1:1 and theoretically interchangeable as a single currency.</ref>
+| {{Nts|10016000}}
+|-
+| {{Flagdeco|Denmark}}
+| [[Denmark]]
+| style="text-align:right" | {{dts|format=dmy|1973|1|1}}
+| [[Danish language|Danish]]
+| [[Danish krone]]
+| {{Nts|5146500}}
+|-
+| {{Flagdeco|France}}
+| [[France]]
+| style="text-align:right" | {{dts|format=dmy|1957|3|25}}
+| French
+| [[French franc]]
+| {{Nts|56718000}}
+|-
+| {{Flagdeco|Germany}}
+| [[Germany]]<ref group="note">[[German reunification]] took place in 1990</ref>
+| style="text-align:right" | {{dts|format=dmy|1957|3|25}}
+| German
+| [[Deutsche Mark|German mark]]
+| {{Nts|63254000}}<ref>Including [[East Germany]]: 80,274,200</ref>
+|-
+| {{Flagdeco|Greece}}
+| [[Greece]]
+| style="text-align:right" | {{dts|format=dmy|1981|1|1}}
+| [[Greek language|Greek]]
+| [[Greek drachma]]
+| {{Nts|10120000}}
+|-
+| {{Flagdeco|Ireland}}
+| [[Republic of Ireland|Ireland]]
+| style="text-align:right" | {{dts|format=dmy|1973|1|1}}
+| [[Irish language|Irish]] and [[English language|English]]
+| [[Irish pound]]
+| {{Nts|3521000}}
+|-
+| {{Flagdeco|Italy}}
+| [[Italy]]
+| style="text-align:right" | {{dts|format=dmy|1957|3|25}}
+| [[Italian language|Italian]]
+| [[Italian lira]]
+| {{Nts|56762700}}
+|-
+| {{Flagdeco|Luxembourg}}
+| [[Luxembourg]]
+| style="text-align:right" | {{dts|format=dmy|1957|3|25}}
+| French, German and [[Luxembourgish language|Luxembourgish]]
+| [[Luxembourgish franc]]<ref name="Francs"/>
+| {{Nts|384400}}
+|-
+| {{Flagdeco|Netherlands}}
+| [[Kingdom of the Netherlands|Netherlands]]
+| style="text-align:right" | {{dts|format=dmy|1957|3|25}}
+| Dutch
+| [[Dutch guilder]]
+| {{Nts|14892300}}
+|-
+| {{Flagdeco|Portugal}}
+| [[Portugal]]
+| style="text-align:right" | {{dts|format=dmy|1986|1|1}}
+| [[Portuguese language|Portuguese]]
+| [[Portuguese escudo]]
+| {{Nts|9862500}}
+|-
+| {{Flagdeco|Spain}}
+| [[Spain]]
+| style="text-align:right" | {{dts|format=dmy|1986|1|1}}
+| [[Spanish language|Spanish]]<ref group="note">And recognised regional languages: [[Aranese language|Aranese]], [[Galician language|Galician]], [[Basque language|Basque]] and [[Catalan language|Catalan]]</ref>
+| [[Spanish peseta]]
+| {{Nts|38993800}}
+|-
+| {{Flagdeco|United Kingdom}}
+| [[United Kingdom]]
+| style="text-align:right" | {{dts|format=dmy|1973|1|1}}
+| English
+| [[Pound sterling]]
+| {{Nts|57681000}}
+|}
+
+Member states are represented in some form in each institution. The [[Council of the European Union|Council]] is also composed of one national minister who represents their national government. Each state also has a right to one [[European Commissioner]] each, although in the [[European Commission]] they are not supposed to represent their national interest but that of the Community. Prior to 2004, the larger members (France, Germany, Italy and the United Kingdom) have had two Commissioners. In the [[European Parliament]], members are [[Apportionment in the European Parliament|allocated a set number seats]] related to their population, however these ([[European Parliament election, 1979|since 1979]]) have been directly elected and they sit according to political allegiance, not national origin. Most other institutions, including the [[European Court of Justice]], have some form of national division of its members.
+
+==Institutions==
+{{Further|Institutions of the European Union}}
+There were three political institutions which held the executive and legislative power of the EEC, plus one judicial institution and a fifth body created in 1975. These institutions (except for the auditors) were created in 1957 by the EEC but from 1967 onwards they applied to all three Communities. The Council represents governments, the Parliament represents citizens and the Commission represents the European interest.<ref name="Europa Institutions Commission">{{Cite web|last=|first=|authorlink=|title=Institutions: The European Commission|work=|publisher=[[Europa (web portal)]]|url=http://europa.eu/institutions/inst/comm/index_en.htm|doi=|accessdate=2007-06-25}}</ref> Essentially, the Council, Parliament or another party place a request for legislation to the Commission. The Commission then drafts this and presents it to the Council for approval and the Parliament for an opinion (in some cases it had a veto, depending upon the [[European Union legislative procedure|legislative procedure]] in use). The Commission's duty is to ensure it is implemented by dealing with the day-to-day running of the Union and taking others to Court if they fail to comply.<ref name="Europa Institutions Commission"/> After the Maastricht Treaty in 1993, these institutions became those of the European Union, though limited in some areas due to the pillar structure. Despite this, Parliament in particular has gained more power over legislation and security of the Commission. The Court was the highest authority in the law, settling legal disputes in the Community, while the Auditors had no power but to investigate.
+
+===Background===
+[[File:Luxembourg0080.JPG|thumb|The High Authority had more executive powers than the Commission which replaced it]]
+The EEC inherited some of the [[European Coal and Steel Community#Institutions|Institutions of the ECSC]] in that the [[European Parliament|Common Assembly]] and [[European Court of Justice|Court of Justice]] of the ECSC had their authority extended to the EEC and Euratom in the same role. However the EEC, and Euratom, had different executive bodies to the ECSC. In place of the ECSC's Council of Ministers was the [[Council of the European Union|Council of the European Economic Community]], and in place of the [[High Authority of the European Coal and Steel Community|High Authority]] was the [[European Commission|Commission of the European Communities]].
+
+There was greater difference between these than name: the French government of the day had grown suspicious of the supranational power of the High Authority and sought to curb its powers in favour of the intergovernmental style Council. Hence the Council had a greater executive role in the running of the EEC than was the situation in the ECSC. By virtue of the [[Merger Treaty]] in 1967, the executives of the ECSC and Euratom were merged with that of the EEC, creating a single institutional structure governing the three separate Communities. From here on, the term ''European Communities'' were used for the institutions (for example, from ''Commission of the European Economic Community'' to the ''Commission of the European Communities''.<ref name="ENA Merger">{{Cite web|title = Merging of the executives|publisher=CVCE|url=http://www.cvce.eu/obj/merging_the_executives-en-575850b6-f472-406a-936d-8c08a9e0db32.html|accessdate=2013-04-26}}</ref><ref name="ENA Council">{{Cite web|publisher = CVCE|title = Council of the European Union|url=http://www.cvce.eu/obj/the_council_of_the_european_union-en-de23700c-e50a-4e0e-a7de-80665e4caf9f.html|accessdate = 2013-04-26}}</ref><ref name="ENA Commission">{{Cite web|title = European Commission|publisher=CVCE|url=http://www.cvce.eu/obj/european_commission-en-281a3c0c-839a-48fd-b69c-bc2588c780ec.html|accessdate=2013-04-26}}</ref>
+
+===Council===
+[[File:Bundesarchiv B 145 Bild-F078267-0023, Bonn, Ministerpräsidenten mit EU-Kommissar Delors-CROPPED.jpg|thumb|[[President of the European Commission|President]] [[Jacques Delors]] the last EEC Commission President.]]
+
+The [[Council of the European Union|Council of the European Communities]] was a body holding legislative and executive powers and was thus the main decision making body of the Community. Its [[Presidency of the Council of the European Union|Presidency]] rotated between the [[European Union member state|member states]] every six months and it is related to the [[European Council]], which was an informal gather of national leaders (started in 1961) on the same basis as the Council.<ref name="Europa Institutions Council">{{Cite web|last=|first=|authorlink=|title=Institutions: The Council of the European Union|work=|publisher=[[Europa (web portal)]]|url=http://europa.eu/institutions/inst/council/index_en.htm|doi=|accessdate=2007-06-25}}</ref>
+
+The Council was composed of one national [[Minister (government)|minister]] from each member state. However the Council met in various forms depending upon the topic. For example, if agriculture was being discussed, the Council would be composed of each national minister for agriculture. They represented their governments and were accountable to their national political systems. Votes were taken either by majority (with votes allocated according to population) or unanimity. In these various forms they share some legislative and budgetary power of the Parliament.<ref name="Europa Institutions Council"/> Since the 1960s the Council also began to meet informally at the level of national leaders; these [[European Council|European summits]] followed the same presidency system and secretariat as the Council but was not a formal formation of it.
+
+===Commission===
+The [[European Commission|Commission of the European Communities]] was the [[Executive (government)|executive arm]] of the community, drafting [[law of the European Union|Community law]], dealing with the day to running of the Community and upholding the [[Treaties of the European Union|treaties]]. It was designed to be independent, representing the Community interest, but was composed of national representatives (two from each of the larger states, one from the smaller states). One of its members was the [[President of the European Commission|President]], appointed by the Council, who chaired the body and represented it.
+
+===Parliament===
+[[File:Pleniere.JPG|thumb|The [[European Parliament]] held its first elections in 1979, slowly gaining more influence over Community decision making.]]
+
+Under the Community, the [[European Parliament]] (formerly the European Parliamentary Assembly) had an advisory role to the Council and Commission. There were a number of [[European Union legislative procedure|Community legislative procedures]], at first there was only the [[consultation procedure]], which meant Parliament had to be consulted, although it was often ignored. The [[Single European Act]] gave Parliament more power, with the [[assent procedure]] giving it a right to veto proposals and the [[cooperation procedure]] giving it equal power with the Council if the Council was not unanimous.
+
+In 1970 and 1975, the [[Budgetary treaties of the European Communities|Budgetary treaties]] gave Parliament power over the [[Budget of the European Union|Community budget]]. The Parliament's members, up-until 1980 were national MPs serving part-time in the Parliament. The Treaties of Rome had required elections to be held once the Council had decided on a voting system, but this did not happen and elections were delayed until 1979 (see [[European Parliament election, 1979]]). After that, Parliament was elected every five years. In the following 20 years, it gradually won co-decision powers with the Council over the adoption of legislation, the right to approve or reject the appointment of the Commission President and the Commission as a whole, and the right to approve or reject international agreements entered into by the Community.
+
+===Court===
+The [[European Court of Justice|Court of Justice of the European Communities]] was the [[supreme court|highest court]] of on matters of [[Law of the European Union|Community law]] and was composed of one judge per state with a president elected from among them. Its role was to ensure that Community law was applied in the same way across all states and to settle legal disputes between institutions or states. It became a powerful institution as Community law overrides national law.
+
+===Auditors===
+The fifth institution is the ''[[European Court of Auditors]]'', which despite its name had no judicial powers like the Court of Justice. Instead, it ensured that [[taxpayer]] funds from the [[budget of the European Union|Community budget]] have been correctly spent. The court provided an [[audit report]] for each financial year to the Council and Parliament and gives opinions and proposals on financial legislation and anti-fraud actions. It is the only institution not mentioned in the original treaties, having been set up in 1975.<ref name="Europa Institutions Auditors">{{Cite web|last=|first=|authorlink=|title=Institutions: Court of Auditors|work=|publisher=[[Europa (web portal)]]|url=http://europa.eu/institutions/inst/auditors/index_en.htm|doi=|accessdate=2007-06-25}}</ref>
+
+==Policy areas==
+{{Further|Three pillars of the European Union}}
+At the time of its abolition, the European Community pillar covered the following areas;<ref name="Folk"/>
+{|
+|-
+| valign=top |
+* [[Right of asylum|Asylum policy]]
+* [[Border control]]
+* [[Common Agricultural Policy]]
+* [[Common Fisheries Policy]]
+* [[European Community competition law|Competition]]
+* [[Consumer protection]]
+* [[Customs Union]] and [[Single market]]
+| valign=top |
+* [[Economic and monetary union]]
+* Education and Culture
+* Employment
+* [[Environmental law]]
+* [[Citizenship of the European Union|EU Citizenship]]
+* Healthcare
+| valign=top |
+* [[Immigration policy]]
+* Research
+* [[Schengen treaty]]
+* [[Social policy]]
+* [[International trade|Trade policy]]
+* [[Trans-European Networks]]
+|}
+
+==See also==
+* [[Economy of the European Union]]
+* [[Brussels and the European Union]]
+* [[Delors Commission]]
+* [[European Commission]]
+* [[European Customs Information Portal (ECIP)]]
+* [[European Institutions in Strasbourg]]
+* [[History of the European Communities (1958-1972)]]
+* [[History of the European Communities (1973-1993)]]
+* [[Location of European Union institutions]]
+
+==Notes and references==
+
+===Notes===
+{{Reflist|group="note"}}
+
+===References===
+{{Reflist|2}}
+
+==Further reading==
+{{refbegin}}
+* [[Nicola Acocella|Acocella, Nicola]] (1992), ‘''Trade and direct investment within the EC: The impact of strategic considerations''’, in: Cantwell, John (ed.), ‘''Multinational investment in modern Europe''’, E. Elgar, Cheltenham, ISBN 978-1-8527-8421-8.
+* Balassa, Bela (1962). ''The Theory of Economic Integration''
+* {{cite encyclopedia |last1=Eichengreen |first1=Barry |authorlink=Barry Eichengreen |editor= [[David R. Henderson]] (ed.) |encyclopedia=[[Concise Encyclopedia of Economics]] |title=European Economic Community |url=http://www.econlib.org/library/Enc1/EuropeanEconomicCommunity.html |year=1992 |edition= 1st |publisher=[[Library of Economics and Liberty]] }} {{OCLC|317650570|50016270|163149563}}
+* Hallstein, Walter (1962). ''A New Path to Peaceful Union''
+* Monnet, Jean (1959). ''Prospect for a New Europe''
+* Spaak, Paul-Henri (1971). ''The Continuing Battle: Memories of a European''
+{{refend}}
+
+==External links==
+{{Spoken Wikipedia|European Economic Community.ogg|2012-03-26}}
+{{Commons category|European Economic Community}}
+* [http://europa.eu/index_en.htm European Union website]
+* [http://archives.eui.eu/en/fonds/ Documents] of the European Economic Community are consultable at the [http://www.eui.eu/Research/HistoricalArchivesOfEU/Index.aspx Historical Archives of the EU] in Florence
+* [http://www.cvce.eu/obj/treaty_establishing_the_european_economic_community_rome_25_march_1957-en-cca6ba28-0bf3-4ce6-8a76-6b0b3252696e.html Treaty establishing the European Economic Community] on CVCE website
+* [http://www.cvce.eu/recherche/unit-content/-/unit/3cb9e142-6ac4-4184-8794-fc3cf619cf33 History of the Rome Treaties] on CVCE website
+* [http://eisenhower.archives.gov/Research/Finding_Aids/S.html Papers of J. Robert Schaetzel, ambassador to European Economic Community, 1966–1972, Dwight D. Eisenhower Presidential Library]
+* [http://ec.europa.eu/ecip/index_en.htm European Customs Information Portal (ECIP)]
+
+{{EU evolution timeline}}
+
+{{European Union topics}}
+{{Use dmy dates|date=March 2013}}
+
+{{Authority control}}
+
+[[Category:European Economic Community]]
+[[Category:History of the European Union]]
+[[Category:Organizations established in 1958]]
+[[Category:Organizations disestablished in 1993]]
+[[Category:Former international organizations]]

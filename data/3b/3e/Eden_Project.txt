@@ -1,0 +1,171 @@
+{{Distinguish2|[[Project Eden (disambiguation)|Project Eden]]}}
+{{EngvarB|date=September 2013}}
+{{Use dmy dates|date=September 2013}}
+{{Infobox building
+|name                = The Eden project
+|image               = Eden project.JPG
+|building_type       = Multiple Greenhouse Complex
+|architectural_style = Inspired by [[J. Baldwin]]'s Pillow Dome<ref>{{cite web|last=Baldwin|first=Jay|title=The Pillow Dome|url=http://www.thegreencenter.net/pdf/dome1985.pdf|work=Engineering|publisher=The Buckminster Fuller Institute|accessdate=9 February 2014}}</ref> 
+|structural_system   = Steel frame and thermoplastic
+|location            = [[St Blazey]], Cornwall, UK
+|completion_date     = May 2000
+|opened              = 17 March 2001
+|main_contractors    =
+|architect           = [[Nicholas Grimshaw]]
+|structural_engineer = Anthony Hunt and Associates
+|services_engineer   = [[Arup Group Limited|Arup]]
+|coordinates         = {{Coord|50|21|43|N|4|44|41|W|region:GB_type:landmark|display=inline,title}}
+}}
+The '''Eden Project''' ({{lang-kw|Edenva}}) is a visitor attraction in [[Cornwall]], England, United Kingdom. Inside the artificial biodomes are plants that are collected from all around the world. The project is located in a reclaimed [[Kaolinite]] [[clay pit|pit]], located {{convert|2|km|abbr=on}} from the town of [[St Blazey]] and {{convert|5|km|mi|0}} from the larger town of [[St Austell]], Cornwall.<ref name="osexp1">Ordnance Survey (2005). ''OS Explorer Map 107 – Fowey, Looe & Lostwithiel''. ISBN 0-319-23708-7.</ref>
+
+The complex is dominated by two huge enclosures consisting of adjoining domes that house thousands of plant [[species]],<ref>{{cite web | url = http://www.edenproject.com/come-and-visit/whats-here/rainforest-biome/index.php | title = Rainforest Biome | publisher = Eden project | accessdate = 11 October 2011 }}</ref> and each enclosure emulates a natural [[biome]]. The domes consist of hundreds of [[hexagonal]] and [[pentagonal]], inflated, plastic cells supported by steel frames. The first dome simulates a tropical environment, and the second a [[Mediterranean climate|Mediterranean]] environment.
+
+The name ''Eden Project'' stems from the 1994 TV series [[Earth 2 (TV series)|Earth 2]]{{Citation Needed|date=October 2015}}.
+
+==Design and construction==
+The project was conceived by [[Tim Smit]] and designed by architect [[Nicholas Grimshaw]] and engineering firm Anthony Hunt and Associates (now part of [[Sinclair Knight Merz]]). [[Davis Langdon]] carried out the project management, [[Sir Robert McAlpine]] and [[Alfred McAlpine]]<ref>{{cite web | url = http://www.edenproject.com/whats-it-all-about/behind-the-scenes/our-history/index.php | title = Our history | publisher = Eden project | accessdate = 27 September 2010 }}</ref> did the construction, [[Mero-schmidlin|MERO]] designed and built the biomes, and [[Arup Group Limited|Arup]] was the services engineer, economic consultant, environmental engineer and transportation engineer. [[Land use]] consultants led the masterplan and landscape design. The project took 2½ years to construct and opened to the public on 17 March 2001.
+
+==Site==
+[[Image:Eden Project geodesic domes panorama.jpg|thumb|360px|Panoramic view of the geodesic biome domes at the Eden Project]]
+
+===Layout===
+[[Image:The bee.JPG|thumb|''The Bee'']]
+Once into the attraction, there is a meandering path with views of the two biomes, planted landscapes, including vegetable gardens, and sculptures that include a giant [[bee]] and towering [[robot]] created from old electrical appliances.
+
+===Biomes===
+At the bottom of the pit are two covered [[biome]]s:
+
+The Tropical Biome, covers {{convert|1.56|ha|acre|1}} and measures {{convert|55|m|ft|0}} high, {{convert|100|m|ft|0}} wide, and {{convert|200|m|ft|0}} long. It is used for tropical plants, such as fruiting banana trees, [[Coffea|coffee]], rubber and giant [[bamboo]], and is kept at a tropical temperature and moisture level.
+[[File:The Tropical Biome.jpg|thumb|The Tropical Biome]]
+
+The [[Mediterranean climate|Mediterranean]] Biome covers {{convert|0.654|ha|acre|1}} and measures {{convert|35|m|ft|0}} high, {{convert|65|m|ft|0}} wide, and {{convert|135|m|ft|0}} long. It houses familiar warm [[temperate]] and [[arid]] plants such as [[olive]]s and grape [[vine]]s and various sculptures.
+
+The Outdoor Biome (which is not covered) represents the temperate regions of the world with plants such as tea, [[lavender]], [[hops]], [[hemp]] and [[sunflower]]s.
+
+The covered biomes are constructed from a tubular steel (hex-tri-hex) with mostly hexagonal external cladding panels made from the thermoplastic [[ETFE]]. Glass was avoided due to its weight and potential dangers. The cladding panels themselves are created from several layers of thin [[Ultraviolet|UV]]-transparent ETFE [[Tensile structure|film]], which are sealed around their [[perimeter]] and inflated to create a large cushion. The resulting cushion acts as a thermal blanket to the structure. The ETFE material is resistant to most stains, which simply wash off in the rain. If required, cleaning can be performed by [[abseil]]ers. Although the ETFE is susceptible to punctures, these can be easily fixed with ETFE tape. The structure is completely self-supporting, with no internal supports, and takes the form of a [[geodesic dome|geodesic]] structure. The panels vary in size up to {{convert|9|m|ft|1}} across, with the largest at the top of the structure.
+
+The ETFE technology was supplied and installed by the firm [[Vector Foiltec]], which is also responsible for ongoing maintenance of the cladding. The steel spaceframe and cladding package (with Vector Foiltec as ETFE subcontractor) was designed, supplied and installed by [[Mero-schmidlin|MERO]] (UK) PLC, who also jointly developed the overall scheme geometry with the architect, [[Nicholas Grimshaw]] & Partners.
+
+The entire build project was managed by McAlpine Joint Venture.
+
+<gallery widths="200px" heights="150px">
+Image:Eden Project Winter 2008 showing Bruce Munro field of Light.JPG|The Biomes and Link building showing [[Field of Light]] installation by [[Bruce Munro]]
+Image:Eden project tropical biome.jpg|Inside the tropical Biome
+File:The Eden Project, Cornwall.JPG|The Biomes (or eco domes) at The Eden Project in Cornwall.
+Image:EdenProjectRoof.jpg|The hexangle structure looking from the inside
+</gallery>
+
+===The Core===
+[[Image:The core.JPG|thumb|The Core]]
+The Core is the latest addition to the site and opened in September 2005. It provides the Eden Project with an education facility, incorporating classrooms and exhibition spaces designed to help communicate Eden's central message about the relationship between people and plants. Accordingly, the building has taken its inspiration from plants, most noticeable in the form of the soaring timber roof, which gives the building its distinctive shape.
+
+Grimshaw developed the geometry of the copper-clad roof in collaboration with a sculptor, Peter Randall-Page, and Mike Purvis of structural engineers [[Sinclair Knight Merz|SKM Anthony Hunts]]. It is derived from [[phyllotaxis]], which is the mathematical basis for nearly all plant growth; the "opposing spirals" found in many plants such as the seeds in a [[sunflower]]'s head, [[pine cone]]s and [[pineapple]]s. The copper was obtained from traceable sources, and the Eden Project is working with [[Rio Tinto Group|Rio Tinto]] to explore the possibility of encouraging further traceable supply routes for metals, which would enable users to avoid metals mined unethically. The services and [[Acoustics|acoustic]], mechanical and electrical engineering design was carried out by [[Buro Happold]].
+
+====Art at The Core====
+[[File:The Seed at Eden Project.jpg|thumbnail|right|upright=0.6|''Seed'' by Peter Randall-Page]]
+The Core is also home to art exhibitions throughout the year. A permanent installation entitled ''Seed'', by [[Peter Randall-Page]], occupies the anteroom. ''Seed'' is a large, egg-shaped stone installation displaying a complex pattern of protrusions that are based upon the [[Fibonacci number#In nature|geometric and mathematical principles that underlie plant growth]].
+
+==Environmental aspects==
+[[Image:Cornwall, eden project tropical.jpg|thumb|left|Inside the tropical Biome]]
+The domes provide diverse growing conditions, and many plants are on display.
+
+The Eden Project includes [[environmental education]] focusing on the interdependence of plants and people; plants are labelled with their medicinal uses. The massive amounts of water required to create the humid conditions of the Tropical Biome, and to serve the toilet facilities, are all sanitised rain water that would otherwise collect at the bottom of the quarry. The only [[Public utility|mains]] water used is for hand washing and for cooking. The complex also uses Green Tariff Electricity – the energy comes from one of the many [[wind turbines]] in Cornwall, which were among the first in Europe.
+
+Controversially, one of the companies the Eden Project currently partners with is the British mining company [[Rio Tinto Group]].<ref>[http://www.edenproject.com/media/mining-book-pr.php Mentioned by the official web site.]</ref>
+
+In December 2010 the Eden Project received permission to build a [[geothermal electricity]] plant which will generate approx 4MWe, enough to supply Eden and about 5000 households.<ref name="BBC Geotherm">{{cite news|url=http://www.bbc.co.uk/news/uk-england-cornwall-12026753|title=BBC News – Eden Project geothermal plant plans to go ahead |publisher=[[BBC News]]|accessdate=18 December 2010|date=18 December 2010}}</ref>
+{{-}}
+
+==History==
+[[Image:Equus eden.jpg|thumb|Driftwood sculpture of a horse by Heather Jansch,<ref>[http://www.heatherjansch.com/index.php Heather Jansch – Sculptor – Bronze & Driftwood Horse Sculptures<!-- Bot generated title -->]</ref> from the main entrance]]
+[[File:Eden Project sculpture Made from the detritus of modern living - the teeth are computer mouses.JPG|thumb|Eden Project sculpture Made from the detritus of modern living—the teeth are computer mice]]
+[[Image:Grasswoman eden.jpg|thumb|''Eve'', by Sue and Pete Hill, shaped from the soil]]
+
+The clay pit in which the project is sited was in use for over 160 years.<ref>http://www.edenproject.com/whats-it-all-about/behind-the-scenes/about-us/our-story</ref> In 1981, the pit was used by the BBC as the planet surface of Magrathea in the 1981 TV series of ''[[The Hitchhiker's Guide to the Galaxy (TV series)|the Hitchhiker's Guide to the Galaxy]]''.<ref>{{cite news| url=http://www.guardian.co.uk/books/2009/oct/03/hitchhikers-guide-galaxy-douglas-adams | location=London | work=The Guardian | first=Jenny | last=Turner | title=Does the Hitchhiker's Guide to the Galaxy still answer the ultimate question? | date=3 October 2009}}</ref> By the mid-1990s the pit was all but exhausted.<ref name="edenproject.com">http://www.edenproject.com/whats-it-all-about/behind-the-scenes/10th-birthday/10th-birthday-timeline</ref>
+
+The initial idea for the project dates back to 1996, with construction beginning in 1998. The work was hampered by torrential rain in the first few months of the project, and parts of the pit flooded as it sits 15m below the water table.<ref name="edenproject.com"/>
+
+The first part of the Eden Project, the visitor centre, opened to the public in May 2000. The first plants began arriving in September of that year,<ref name="edenproject.com"/> and the full site opened on 17 March 2001.
+
+The Eden Project was used as a filming location for the 2002 [[James Bond]] film, ''[[Die Another Day]]'' (starring [[Pierce Brosnan]]). On 2 July 2005 The Eden Project hosted the [[Live 8 concert, Eden Project|"Africa Calling" concert]] of the [[Live 8]] concert series.  It has also provided some plants for the [[British Museum]]'s Africa garden.
+
+In 2005, the Project launched "A Time of Gifts" for the winter months, November to February. This features an ice rink covering the lake, with a small café/bar attached, as well as a Christmas market. Cornish choirs regularly perform in the biomes.
+
+On 6 December 2007, the Eden Project invited people all over Cornwall to try to break the [[world record]] for the biggest ever [[pub quiz]] as part of its campaign to bring £50 million of [[lottery]] funds to Cornwall.<ref>[http://www.edenproject.com/about/3200.html The Eden Project – Eden raises the bar for the Edge in the world’s biggest-ever pub quiz<!-- Bot generated title -->]</ref>
+
+In December 2007, the project failed in its bid for £50 million of funding, after the [[Big Lottery Fund]] popular vote,<ref>{{cite news | url= http://news.bbc.co.uk/1/hi/uk/7140621.stm | publisher= BBC News | date= 12 December 2007 | title= Routes scheme tops lottery vote | accessdate= 3 February 2008}}</ref>
+when it received just 12.07% of the votes, the lowest for the four projects being considered.<ref>{{cite web | url= http://www.biglotteryfund.org.uk/prog_the_peoples_50_million.htm | publisher= The Big Lottery Fund | title= The People's 50 Million – Sustrans' Connect2 wins £50 million prize | accessdate= 3 February 2008}}</ref> Eden wanted the money for Edge, a proposed [[desert]] biome.{{Citation needed|date=November 2009}}.
+
+In December 2009, much of the project, including both greenhouses, became available to navigate through [[Google Street View]].
+
+The Eden Trust revealed a trading loss of £1.3 million for 2012-13,on a turnover of £25.4 million. The Eden Project had posted a surplus of £136,000 for the previous year. In 2014 Eden accounts showed a surplus of £2 million.<ref>http://www.cornishguardian.co.uk/St-Austell-8217-s-Eden-Project-black/story-21239280-detail/story.html#ixzz3df3N6sV2</ref>
+
+==Eden Sessions==
+Since 2002, the Project has hosted a series of musical performances, called the Eden Sessions. Artists have included [[Amy Winehouse]], [[James Morrison (singer)|James Morrison]], [[Muse (band)|Muse]], [[Lily Allen]], [[Snow Patrol]], [[Pulp (band)|Pulp]], [[Brian Wilson]] and [[The Magic Numbers]]. 2008's summer headliners were: [[The Verve]], [[Kaiser Chiefs]], and [[KT Tunstall]]. [[Oasis (band)|Oasis]] were also set to play in the summer of 2008, but the concert was postponed because [[Noel Gallagher]] was unable to perform after breaking three ribs in a stage invasion incident several weeks before. The concert was instead played in the summer of 2009.<ref>[http://www.edenproject.com/media/archive/2008/oasisrescheduled.php Eden Project press release on the Oasis rescheduling]</ref> 2010 saw performances from artists including [[Mika (singer)|Mika]], [[Jack Johnson (musician)|Jack Johnson]], [[Mojave 3]], [[Doves]], [[Paolo Nutini]], [[Mumford & Sons]], and [[Martha Wainwright]].
+
+The 2011 sessions were headlined by [[The Flaming Lips]], [[Primal Scream]], [[Pendulum (band)|Pendulum]], [[Fleet Foxes]] and [[Brandon Flowers]] with support from [[The Horrors]], [[The Go! Team]], [[OK Go]], [[Villagers (band)|Villagers]], and [[The Bees (UK band)|The Bees]].<ref>[http://www.edenproject.com/sessions/line-up/index.php Line-up of bands for the 2012 Eden Sessions festivals at the Eden Project, Cornwall<!-- Bot generated title -->]</ref>
+
+The 2012 Eden sessions were headlined by: [[Tim Minchin]], [[Example (musician)|Example]], [[Frank Turner]], [[Chase & Status]], [[Plan B (musician)|Plan B]], [[Blink-182]], [[Noah and the Whale]], and [[The Vaccines]].<ref>[http://www.edenproject.com/sessions/line-up/index.php]</ref>
+
+The 2013 Eden Sessions were headlined by:<ref>[http://www.edensessions.com/line-up/previous-line-ups]</ref> [[Kaiser Chiefs]], [[Jessie J]], [[Eddie Izzard]], [[Sigur Rós]], and [[The xx]].
+
+The 2014 Eden Sessions were headlined by: [[Dizzee Rascal]], [[Skrillex]], [[Pixar]] in Concert, [[Ellie Goulding]] and [[Elbow (band)|Elbow]]
+
+The 2015 Eden Sessions were headlined by: [[Paolo Nutini]], [[Elton John]], [[Paloma Faith]], [[Motörhead]], The Strangers, [[Spandau Ballet]] and [[Ben Howard]]
+
+==In the media==
+* Robin Kewell (Ed.): ''Eden: The Inside Story''. St Austell n.d.: The Eden Project. DVD.
+* ''The Eden Radio Project''. Every Thursday between 5:30 and 7 p.m. on [[Radio St Austell Bay]].
+* ''[[Die Another Day]]'': Graves' diamond mine
+
+==See also==
+{{Portal |Ecology|Sustainable development|Gardening}}
+{{div col|colwidth=35em}}
+* [[BIOS-3]]
+* [[Biosphere 2]]
+* [[Closed ecological system]]
+* [[Integrated biotectural system]]
+* [[Montreal Biodome]]
+* [[Montreal Biosphère]]
+* [[Mitchell Park Horticultural Conservatory]] ("The Domes" of Milwaukee)
+* [[Ecosystem]]
+* [[Vivarium]]
+* The [[Lost Gardens of Heligan]]
+* [[List of topics related to Cornwall]]
+* [[Earthpark]]
+* [[Richard Carew Pole|Sir Richard Carew Pole]]
+* [[Thin-shell structure]]
+* [[List of thin shell structures]]
+{{div col end}}
+{{-}}
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+* Philip McMillan Browse, Louise Frost, Alistair Griffiths: ''Plants of Eden (Eden Project)''. Penzance 2001: Alison Hodge.
+* [[Richard Mabey]]: ''Fencing Paradise: Exploring the Gardens of Eden'' London 2005: Eden Project Books. ISBN 1-903919-31-2
+* Hugh Pearman, Andrew Whalley: ''The Architecture of Eden''. With a foreword by Sir Nicholas Grimshaw. London 2003: Eden Project Books. ISBN 1-903919-15-0
+* Eden Team (Ed.): ''Eden Project: The Guide 2008/9.'' London 2008: Eden Project Books.
+* Tim Smit: ''Eden''. London 2001: Bantam Press.
+* Paul Spooner: ''The Revenge of the Green Planet: The Eden Project Book of Amazing Facts About Plants''. London 2003: Eden Project Books.
+* [[Alan Titchmarsh]]: ''The Eden Project''. United Kingdom: Acorn Media, 2006. {{OCLC|225403941}}.
+
+==External links==
+<!--Please note - All links that are of dubious quality WILL be removed within days. Please remember that any one can just type into Google Image Search the Eden Project if they want to see pictures. Also this not the place for advertising-->
+{{Commons category}}
+* {{Official site|http://www.edenproject.com/}}
+* [http://sessions.edenproject.com/ Eden Sessions Website]—Official site for live gigs
+* [http://www.bbc.co.uk/cornwall/content/webcams/eden_webcam.shtml Webcam of the Eden Project]—BBC
+
+[[Category:Buildings and structures completed in 2000]]
+[[Category:Nicholas Grimshaw buildings]]
+[[Category:High-tech architecture]]
+[[Category:Botanical gardens in Cornwall]]
+[[Category:Building engineering]]
+[[Category:Buildings and structures in Cornwall]]
+[[Category:Ecological experiments]]
+[[Category:Environmental design]]
+[[Category:Geodesic domes]]
+[[Category:Greenhouses]]
+[[Category:Visitor attractions in Cornwall]]

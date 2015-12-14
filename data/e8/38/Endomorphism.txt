@@ -1,0 +1,60 @@
+{{About|the mathematical concept||Endomorphic (disambiguation){{!}}Endomorphic}}
+
+[[File:Orthogonal projection.svg|frame|right|[[Orthogonal projection]] onto a line ''m'' is a [[linear operator]] on the plane. This is an example of an endomorphism that is not an [[automorphism]].]]
+
+In [[mathematics]], an '''endomorphism''' is a [[morphism]] (or [[homomorphism]]) from a [[mathematical object]] to itself.  For example, an endomorphism of a [[vector space]] ''V'' is a [[linear map]] {{nowrap|''f'': ''V'' → ''V''}}, and an endomorphism of a [[group (mathematics)|group]] ''G'' is a [[group homomorphism]] {{nowrap|''f'': ''G'' → ''G''}}. In general, we can talk about endomorphisms in any [[category theory|category]]. In the [[category of sets]], endomorphisms are functions from a set ''S'' to itself.
+
+In any category, the [[function composition|composition]] of any two endomorphisms of ''X'' is again an endomorphism of ''X''.  It follows that the set of all endomorphisms of ''X'' forms a [[monoid]], denoted End(''X'') (or End<sub>''C''</sub>(''X'') to emphasize the category ''C'').
+
+==Automorphisms==
+{{main|Automorphism}}
+An [[inverse element|invertible]] endomorphism of ''X'' is called an [[automorphism]].  The set of all automorphisms is a [[subset]] of End(''X'') with a [[group (mathematics)|group]] structure, called the [[automorphism group]] of ''X'' and denoted Aut(''X'').  In the following diagram, the arrows denote implication:
+{| border="0"
+|-
+| align="center" width="42%" | [[automorphism]]
+| align="center" width="16%" | ⇒
+| align="center" width="42%" | [[isomorphism]]
+|-
+| align="center" | ⇓
+|
+| align="center" | ⇓
+|-
+| align="center" | endomorphism
+| align="center" | ⇒
+| align="center" | [[homomorphism|(homo)morphism]]
+|}
+
+==Endomorphism ring==
+{{main|Endomorphism ring}}
+Any two endomorphisms of an [[abelian group]] ''A'' can be added together by the rule {{nowrap|1=(''f'' + ''g'')(''a'') = ''f''(''a'') + ''g''(''a'')}}.  Under this addition, the endomorphisms of an abelian group form a [[ring (mathematics)|ring]] (the [[endomorphism ring]]).  For example, the set of endomorphisms of '''Z'''<sup>''n''</sup> is the ring of all {{nowrap|''n'' × ''n''}} matrices with integer entries.  The endomorphisms of a vector space or [[module (mathematics)|module]] also form a ring, as do the endomorphisms of any object in a [[preadditive category]].  The endomorphisms of a nonabelian group generate an algebraic structure known as a [[near-ring]]. Every ring with one is the endomorphism ring of its [[regular module]], and so is a subring of an endomorphism ring of an abelian group,<ref>Jacobson (2009), p. 162, Theorem 3.2.</ref> however there are rings which are not the endomorphism ring of any abelian group.
+
+==Operator theory==
+In any [[concrete category]], especially for [[vector space]]s, endomorphisms are maps from a set into itself, and may be interpreted as [[unary operator]]s on that set, [[action (group theory)|acting]] on the elements, and allowing to define the notion of [[orbit (group theory)|orbit]]s of elements, etc.
+
+Depending on the additional structure defined for the category at hand ([[topology]], [[metric (mathematics)|metric]], ...), such operators can have properties like [[continuous function (topology)|continuity]], [[Bounded function|boundedness]], and so on.  More details should be found in the article about [[operator theory]].
+
+==Endofunctions==
+
+An '''endofunction''' is a [[function (mathematics)|function]] whose [[domain of a function|domain]] is equal to its [[codomain]]. A [[homomorphism|homomorphic]] endofunction is an endomorphism.
+
+Let ''S'' be an arbitrary set. Among endofunctions on ''S'' one finds [[permutation]]s of ''S'' and constant functions associating to each {{nowrap|''x'' ∈ ''S''}} a given {{nowrap|''c'' ∈ ''S''}}.  Every permutation of ''S'' has the codomain equal to its domain and is [[bijection|bijective]] and invertible. A constant function on ''S'', if ''S'' has more than 1 element, has a codomain that is a proper subset of its domain, is not bijective (and non invertible). The function associating to each natural integer ''n'' the floor of ''n''/2 has its codomain equal to its domain and is not invertible.
+
+Finite endofunctions are equivalent to [[directed pseudoforest]]s. For sets of size ''n'' there are ''n''<sup>''n''</sup> endofunctions on the set.
+
+Particular bijective endofunctions are the [[Involution (mathematics)|involution]]s, i.e. the functions coinciding with their inverses.
+
+==See also==
+*[[Adjoint endomorphism]]
+*[[Frobenius endomorphism]]
+
+==Notes==
+<references />
+
+==References==
+* {{Citation| last=Jacobson| first=Nathan| author-link=Nathan Jacobson| year=2009| title=Basic algebra| edition=2nd| volume = 1 | series= | publisher=Dover| isbn = 978-0-486-47189-1}}
+
+==External links==
+* {{springer|title=Endomorphism|id=p/e035600}}
+* {{planetmath reference|id=7462|title=Endomorphism}}
+
+[[Category:Morphisms]]

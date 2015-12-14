@@ -1,0 +1,76 @@
+{{Infobox product
+| title            = Bovril
+| image            = [[File:Bovril 250g.jpg|240px]]
+| image_size       = 50
+| caption          = Bovril in the 250 gram jar.
+| inventor         = John Lawson Johnston (1870)
+| creation year    = 
+| launch year      = 1889
+| company          = Bovril Company 
+| current supplier = Unilever
+| notes            =
+}}
+'''Bovril''' is the trademarked name of a thick, salty [[meat extract]], developed in the 1870s by [[John Lawson Johnston]].  It is sold in a distinctive, bulbous jar.  Bovril is made in [[Burton upon Trent]], [[Staffordshire]]; owned and distributed by [[Unilever]] UK.
+
+Bovril can be made into a drink by diluting with hot water, or less commonly, with milk.<ref>{{cite news | url=http://news.google.com/newspapers?nid=1302&dat=19310701&id=CV0RAAAAIBAJ&sjid=P5YDAAAAIBAJ&pg=3083,128400 |title=Try Bovril and milk (advert), |newspaper=[[The Sydney Mail]] |date=1 July 1931 |page= 23}}</ref>  It can be used as a flavouring for soups, stews or porridge, or spread on bread, especially toast.{{citation needed|date=June 2015}}
+
+==Etymology==
+The first part of the product's name comes from [[Latin]] ''bovem'', meaning "ox".  Johnston took the ''-vril'' suffix from [[Edward George Bulwer-Lytton|Bulwer-Lytton]]'s then-popular novel, ''[[The Coming Race]]'' (1870), whose plot revolves around a superior race of people, the Vril-ya, who derive their powers from an electromagnetic substance named "Vril". Therefore, Bovril indicates
+great strength obtained from an ox.<ref name="patent-law-42">{{cite book | last=Thompson| first=William Phillips| title=Handbook of patent law of all countries| publisher=Stevens| location=London| year=1920| page=42| url=http://www.archive.org/details/handbookofpatent00thomiala| accessdate=2009-08-05}}</ref>
+
+==History==
+[[File:Bovril poster c1900.jpg|thumb|right|180pxr|Poster for Bovril, about 1900 [[V&A Museum]] no. E.163-1973]]
+[[File:The Pope and Bovril.jpg|thumb|right|240px|"Two [[Papal infallibility|Infallible Powers]]: The Pope & Bovril"; Poster for Bovril, circa 1900]]
+In 1870, in the [[Franco-Prussian War]], [[Napoleon III]] ordered one million cans of beef to feed his troops. The task of providing all this beef went to a [[Scotsman]] living in Canada named [[John Lawson Johnston]]. Large quantities of beef were available across the British Dominions and South America, but its transport and storage were problematic. Therefore, Johnston created a product known as 'Johnston's Fluid Beef', later called Bovril, to meet the needs of Napoleon III.<ref name="uni">{{cite web | title=Bovril| url=http://www.unilever.co.uk/brands-in-action/detail/Bovril/293591/| work=Unilever.co.uk| accessdate=12 October 2015}}</ref> By 1888, over 3,000 [[United Kingdom of Great Britain and Ireland|UK]] [[public house]]s, grocers and [[dispensing chemist]]s were selling Bovril. In 1889, the Bovril Company was formed.{{citation needed|date=June 2015}}
+
+Bovril continued to function as a "war food" in [[World War I]] and was frequently mentioned in the 1930 account ''Not So Quiet... Stepdaughters of War'' by Helen Zenna Smith ([[Evadne Price]]). One account from the book describes it being prepared for the casualties at [[Mons,_Belgium#Battle_of_Mons|Mons]] where "the orderlies were just beginning to make Bovril for the wounded, when the bearers and ambulance wagons were shelled as they were bringing the wounded into the hospital".<ref name="ramc-99">{{cite book|last=Vivian|first=Evelyn Charles|title=With the Royal army medical corps (R.A.M.C.) at the front|publisher=Hodder and Stoughton|year=1914|page=99|url=http://www.archive.org/details/withroyalarmymed00vivirich}}</ref>
+
+A thermos of ''beef tea'' was the favoured way to fend off the chill of winter matches for generations of British  [[Association football|football]] enthusiasts; to this day, Bovril dissolved in hot water is sold in stadiums all over the [[United Kingdom]]. Bovril ''beef tea'' was the main warm drink that [[Ernest Shackleton]]'s team had to drink when they were marooned on [[Elephant Island]] during the [[Imperial Trans-Antarctic Expedition|Endurance Expedition]].<ref>{{cite news|url=http://query.nytimes.com/mem/archive-free/pdf?res=9504E1DF1F3FE233A25752C1A96F9C946796D6CF|title=Shackleton's men kept hope of rescue high; Marooned Scientists, Living on Penguin and Seaweed, Watched Daily for Relief.|date=1916-09-11|publisher=The New York Times|accessdate=2009-05-11 | format=PDF}}</ref>
+
+When John Lawson Johnston died, his son [[George Lawson Johnston, 1st Baron Luke|George Lawson Johnston]] inherited and took over the Bovril business. In 1929, George Lawson Johnston was created [[Baron Luke]], of Pavenham, in the county of Bedford.
+
+Bovril's instant beef stock was launched in 1966 and its "King of Beef" range of instant flavours for stews, casseroles and gravy in 1971.{{citation needed|date=June 2015}} In 1971, [[Cavenham Foods]] acquired the Bovril Company but then sold most of its dairies and [[South America]]n operations to finance further take-overs.<ref>[http://ketupa.net/goldsmith.htm Goldsmith]</ref> The brand is now owned by [[Unilever]].<ref name="uni"/>
+
+Bovril holds the unusual position of having been advertised with a [[Pope]]. An advertising campaign of the early 20th century in Britain depicted  [[Pope Leo XIII]] seated on his throne, bearing a mug of Bovril. The campaign slogan read: ''The Two Infallible Powers – The Pope & Bovril.''
+
+==Licensed production==
+Bovril is also produced in [[South Africa]] by the Bokomo division of Pioneer Foods<ref>{{cite web |url=http://www.pioneerfoods.co.za |title=Pioneer Foods |publisher=pioneerfoods.co.za}}</ref>
+
+During the [[Siege of Ladysmith]] in the [[Second Boer War]], a Bovril-like paste was produced from horse meat within the garrison. Nicknamed ''Chevril'' (formed by replacing Bo- (Latin ''bos''='ox') with Chev- (French ''cheval''='horse') in the Bovril name) it was produced by [[boiling down]] horse or [[mule]] meat to a jelly paste and serving it as a ''beef tea''.<ref>{{cite journal|last=Watt|first=S|title=Intombi Military Hospital and Cemetery|journal=Military History Journal|publisher=Die Suid-Afrikaanse Krygshistoriese Vereniging|volume=5|issue=6|url=http://samilitaryhistory.org/vol056sw.html}}</ref><ref>{{cite book|last=Jacson|first=M|title=The Record of a Regiment of the Line|publisher=Hutchinson & Co. |year=1908 |page=88 |chapter=II |url=http://www.gutenberg.org/ebooks/15972}}</ref>
+
+==Recipe changes==
+In November 2004, the manufacturers, [[Unilever]], announced that the composition of Bovril was being changed from beef extract to a [[yeast extract]], claiming it was to make the product suitable for vegetarians and [[vegan]]s; at that time, fear of [[bovine spongiform encephalopathy]] (BSE) may have been a factor.{{citation needed|date=June 2015}}
+
+However, it now makes Bovril using beef extract and a chicken variety using chicken extract,<ref>{{cite web |url=http://www.unilever.co.uk/brands/foodbrands/bovril.aspx |title=Bovril Unilever food brands}}</ref> although the vegetarian formula is still sold in some areas, such as Australia and Hong Kong.{{citation needed|date=June 2015}}
+
+==Cultural significance==
+[[File:Clarence Pier, Southsea, ca. 1914.png|thumb|300px|Advertisement for Bovril at [[Southsea]], ''ca''. 1914]]
+[[File:Bovril 1897 token with 'VR'.JPG|thumb|left|250px|Bovril advertising token issued for the Diamond Jubilee of Queen Victoria.]]
+Since its invention, Bovril has become an [[cultural icon|icon]] of [[culture of the United Kingdom|British culture]]. It is commonly associated with [[football culture]], since during the winter British football fans in stadium terraces often drink it from [[thermos]]es (or disposable cups in Scotland, where thermoses are [[Criminal Law (Consolidation) (Scotland) Act 1995#Part II - Sporting Events: Control of Alcohol etc.|banned]] from football stadiums).<ref>{{cite web | url=http://www.scotsman.com/news/scotland/top-stories/bovril-it-s-a-drink-a-spread-even-a-crisp-flavouring-and-it-was-created-in-edinburgh-1-814491 | title=Bovril: It's a drink, a spread, even a crisp flavouring, and it was created in Edinburgh | work=[[The Scotsman]] | date=8 June 2010 | accessdate=20 October 2013}}</ref><ref>{{cite web | url=http://www.deadlinenews.co.uk/2009/08/07/8176-1549/ | title=Tribute to Scots Bovril inventor | work=Deadline News | date=7 August 2009 | accessdate=20 October 2013 | author=Alexander Lawrie}}</ref>
+
+During a 2011 episode of ''[[Top Gear (current format)|Top Gear]]'', [[James May]] drank from an urn of Bovril while driving a snowplough in [[Norway]] and commented: "We all know that when it's snowing and it's cold you have Bovril.  That's a rule of life."<ref>{{cite web|url=http://www.bbc.co.uk/programmes/b00x31w1/episodes/2011 |title=Top Gear: series 16, episode 5 |publisher=BBC |date= |accessdate=2011-12-29}}</ref>
+Bovril reappeared in another episode of ''Top Gear'' in the form of [[Jeremy Clarkson]]'s V8 Food Blender, wherein it was used to make a "Man's V8 Smoothie" complete with raw beef and brick. [[James May]] was the only presenter who actually drank the disgusting smoothie.{{citation needed|date=June 2015}}
+
+==See also==
+*[[Bovril boats]]; informal name for sewage transport vessels
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{Commons category|Bovril}}
+*[http://www.bovril.co.uk/ Official Bovril Website]
+*[http://www.unilever.co.uk/ Unilever Website]
+* Unilever [http://www.unilever.co.uk/ourbrands/cookingandeating/bovrilbeefsup.asp explains] the reintroduction of beef to Bovril.
+*[http://news.bbc.co.uk/1/hi/england/staffordshire/4023239.stm BBC: No beef over Bovril's veggie move]
+*[http://www.medianet.ca/bovril/bovril.htm The Bovril Shrine]
+
+{{Unilever}}
+{{Use dmy dates|date=February 2011}}
+
+[[Category:Food brands of the United Kingdom]]
+[[Category:Scottish inventions]]
+[[Category:Unilever brands]]
+[[Category:Umami enhancers]]
+[[Category:1888 introductions]]
+[[Category:Brand name beverage products]]

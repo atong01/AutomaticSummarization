@@ -1,0 +1,83 @@
+{{Infobox official post
+|post = Chief Minister
+|body = the Northern Territory
+|flag = 
+|flagsize = 
+|flagcaption = 
+|insignia = 
+|insigniasize = 
+|insigniacaption =  
+|image =
+|incumbent = [[Adam Giles]]
+|incumbentsince = 14 March 2013
+|department = 
+|style = [[The Honourable]]
+|member_of = 
+|reports_to = 
+|residence = 
+|seat = 
+|appointer = [[Administrator of the Northern Territory]]
+|appointer_qualified = 
+|termlength = [[At Her Majesty's pleasure]]
+|termlength_qualified = 
+|formation = 1974
+|inaugural = 
+|salary = 
+|website = 
+}}
+
+The '''Chief Minister of the Northern Territory''' is the [[head of government]] of the [[Northern Territory]].  The office is the equivalent of a [[Premiers of the Australian states|Premier]] in a state.  
+
+The Chief Minister is formally appointed by the [[Administrator of the Northern Territory of Australia|Administrator]], who in normal circumstances will appoint the head of whichever party holds the majority of seats in the [[Legislative Assembly of the Northern Territory]]. In times of constitutional crisis, the Administrator can appoint someone else as Chief Minister, however, this has never occurred.
+
+The incumbent Chief Minister of the Northern Territory is [[Adam Giles]], representing the [[Country Liberal Party]]. On 2 February 2015, the CLP elected [[Willem Westra van Holthe]] as its leader, who hoped to replace Giles as Chief Minister.<ref name=wwvh>{{cite news|last1=Dunlevie|first1=James|title=Adam Giles dumped as NT chief minister in late-night coup, Willem Westra van Holthe elected leader|url=http://www.abc.net.au/news/2015-02-03/adam-giles-replaced-as-northern-territory-chief-minister/6064564|accessdate=3 February 2015|work=ABC News|date=3 February 2015}}</ref> On 3 February, Giles refused to resign as Chief Minister, and the swearing-in of Westra van Holthe which had been scheduled for 11:00 local time (01:30 UTC), was delayed.<ref>http://www.abc.net.au/news/2015-02-03/nt-chief-minister-giles-refuses-to-quit-after-leadership-coup/6065200</ref> After a party room meeting, Giles announced that he would stay on as leader, with Westra van Holthe as his deputy.<ref name=sbsnews>{{cite news|title=Adam Giles remains NT chief minister|url=http://www.sbs.com.au/news/article/2015/02/03/adam-giles-remains-nt-chief-minister|accessdate=3 February 2015|work=SBS News|date=3 February 2015}}</ref>
+
+== List of Chief Ministers of the Northern Territory ==
+{| border="1" cellpadding="4" cellspacing="0" style="border:1px solid #aaa; border-collapse:collapse"
+|- bgcolor="#cccccc"
+!
+! '''Chief Minister'''
+! '''Party'''
+! '''Period in office'''
+|-
+| {{Australian politics/party colours/CLP}}|&nbsp; || Dr [[Goff Letts]] <ref>While the [[Northern Territory Legislative Assembly]] was created in 1974, self-government was not granted until 1978. As a result, members of the executive in the first parliament (1974–1977) and the first eighteen months of the second were known by alternative titles. While Dr [[Goff Letts]] and his successor [[Paul Everingham]] were officially known as Majority Leaders, their function was effectively the same as that of a Chief Minister from 1978.</ref> || [[Country Liberal Party|Country Liberal]] || 1974–1977
+|-
+| {{Australian politics/party colours/CLP}}|&nbsp; || [[Paul Everingham]] || [[Country Liberal Party|Country Liberal]] || 1977–1984
+|-
+| {{Australian politics/party colours/CLP}}|&nbsp; || [[Ian Tuxworth]] || [[Country Liberal Party|Country Liberal]] || 1984–1986
+|-
+| {{Australian politics/party colours/CLP}}|&nbsp; || [[Stephen Hatton]] || [[Country Liberal Party|Country Liberal]] || 1986–1988
+|-
+| {{Australian politics/party colours/CLP}}|&nbsp; || [[Marshall Perron]] || [[Country Liberal Party|Country Liberal]] || 1988–1995
+|-
+| {{Australian politics/party colours/CLP}}|&nbsp; || [[Shane Stone]] || [[Country Liberal Party|Country Liberal]] || 1995–1999
+|-
+| {{Australian politics/party colours/CLP}}|&nbsp; || [[Denis Burke (Australian politician)|Denis Burke]] || [[Country Liberal Party|Country Liberal]] || 1999–2001
+|-
+| {{Australian politics/party colours/Labor}}|&nbsp; || [[Clare Martin]] || [[Australian Labor Party|Labor]] || 2001–2007
+|-
+| {{Australian politics/party colours/Labor}}|&nbsp; || [[Paul Henderson (politician)|Paul Henderson]] || [[Australian Labor Party|Labor]] || 2007–2012
+|-
+| {{Australian politics/party colours/CLP}}|&nbsp; || [[Terry Mills (Australian politician)|Terry Mills]] || [[Country Liberal Party|Country Liberal]] || 2012–2013
+|-
+| {{Australian politics/party colours/CLP}}|&nbsp; || [[Adam Giles]] || [[Country Liberal Party|Country Liberal]] || 2013–present
+|-
+|}
+
+==See also==
+* [[List of Chief Ministers of the Northern Territory by time in office]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.nt.gov.au/lant/members-of-parliament/OFFICE%20HOLDERS%201ST-11TH.pdf Legislative Assembly of the Northern Territory 1974–2012 – Office Holders]
+
+{{Australian premiers}}
+{{Government of the Northern Territory}}
+{{Politics of the Northern Territory}}
+
+[[Category:Chief Ministers of the Northern Territory|*]]
+[[Category:Lists of heads of government of Australian states and territories|Northern Territory]]
+[[Category:Northern Territory-related lists]]
+[[Category:Northern Territory ministries]]

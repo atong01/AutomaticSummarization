@@ -1,0 +1,356 @@
+{{Other uses}}
+{{distinguish|Alderaan|Alderaan (astronomy)}}
+{{Starbox begin 
+| name = Aldebaran
+}}
+{{Starbox image 
+| image = [[File:Taurus constellation map.svg|250px]]
+| caption = The position of Aldebaran in the Taurus constellation.
+}}
+{{Starbox observe 
+| epoch = [[J2000.0]]
+| constell = [[Taurus (constellation)|Taurus]] 
+| ra={{RA|04|35|55.239}}<ref name="SIMBAD"/>
+| dec = {{DEC|+16|30|33.49}}<ref name="SIMBAD" />
+| appmag_v = 0.86<ref name=ducati>{{cite journal|bibcode=2002yCat.2237....0D|title=VizieR Online Data Catalog: Catalogue of Stellar Photometry in Johnson's 11-color system|journal=CDS/ADC Collection of Electronic Catalogues|volume=2237|pages=0|author1=Ducati|first1=J. R.|date=2002}}</ref> (0.75-0.95)<ref name=var /> 
+}}
+{{Starbox character 
+| class = K5III<ref name="SIMBAD" /> 
+| appmag_1_passband = [[J band|J]]
+| appmag_1 = -2.10<ref name="SIMBAD" />
+| b-v = 1.54 
+| u-b = 1.90 
+| variable = LB<ref name=var /> 
+}}
+{{Starbox astrometry 
+| radial_v = {{val|+54.26|0.03}}<ref name="SIMBAD" />
+| prop_mo_ra = {{val|62.78|0.89}}<ref name="SIMBAD" />
+| prop_mo_dec = {{val|−189.35|0.58}}<ref name="SIMBAD" />
+| parallax = 49.97
+| p_error = 0.75
+| parallax_footnote = <ref name="Gatewood2008"/>
+| absmag_v = {{val|−0.641|0.034}}<ref name="Gatewood2008"/>
+}}
+{{Starbox detail
+| metal_fe = –0.34<ref name=aaa526_A100/>
+| mass = {{val|1.5|0.3}}<ref name="Ohnaka2013"/>
+| radius = {{val|44.2|0.9}}<ref name="aldiam"/>
+| luminosity = {{val|518|32}}<ref name=aaa526_A100/>
+| temperature = 3,910<ref name=aaa526_A100/>
+| gravity = 1.59<ref name=aaa526_A100/>
+| rotation = 643&nbsp;days<ref name=mnras374_1_220/>
+}}
+{{Starbox catalog 
+| names = [[Flamsteed designation|87 Tauri]], [[Bayer designation|Alpha Tauri]], [[Bonner Durchmusterung|BD]] +16°629, [[Gliese Catalogue of Nearby Stars|GJ]] 171.1, [[Gliese Catalogue of Nearby Stars|GJ]] 9159, [[Henry Draper catalogue|HD]] 29139, [[Hipparcos catalogue|HIP]] 21421, [[Harvard Revised catalogue|HR]] 1457, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 94027.
+}}
+{{Starbox reference
+| Simbad = HD+29139
+| ARICNS = 00382
+}}
+{{Starbox end}}
+
+'''Aldebaran''' {{IPAc-en|æ|l|ˈ|d|ɛ|b|ər|ən}}<ref>[http://oxforddictionaries.com/definition/english/Aldebaran?q=aldebaran Oxford Dictionary: Aldebaran]</ref><ref>[http://www.merriam-webster.com/dictionary/aldebaran Merriam-Webster: Aldebaran]</ref> (α Tau, α Tauri, [[alpha (letter)|Alpha]] Tauri) is an orange giant [[star]] located about 65 [[light year]]s away in the [[zodiac]] [[constellation]] of [[Taurus (constellation)|Taurus]]. With an average [[apparent magnitude]] of 0.87 it is the brightest star in the constellation and is [[list of brightest stars|one of the brightest stars]] in the nighttime sky. The name ''Aldebaran'' is [[Arabic language|Arabic]] ('''{{lang|ar|[[wikt:الدبران|الدبران]]}}''' ''{{transl|ar|al-dabarān}}'') and means "the Follower", presumably because it rises near and soon after the [[Pleiades]].<ref name=Kaler>{{cite web | url=http://stars.astro.illinois.edu/sow/aldebaran.html | title=Aldebaran | work=Stars | first1=James B. | last1=Kaler | date=May 22, 2009 | accessdate=2009-12-20| archiveurl= http://web.archive.org/web/20100110013758/http://stars.astro.illinois.edu/sow/aldebaran.html| archivedate= 10 January 2010 <!--DASHBot-->| deadurl= no}}</ref>
+
+In 1993 a [[Substellar object|substellar]] companion was reported. Subsequent observations did not confirm this claim, but a paper accepted for publication in [[Astronomy and Astrophysics]] in 2015 shows evidence for a planetary companion.
+
+The planetary exploration probe [[Pioneer 10]] is currently heading in the general direction of the star and should make its closest approach in about two million years.<ref name=cp48_1_41/>
+
+==Observation history==
+
+In March of 509&nbsp;CE, a lunar occultation of Aldebaran was observed in [[Athens, Greece]]. English astronomer [[Edmund Halley]] studied the timing of this event, and in 1718 concluded that Aldebaran must have changed position since that time, moving several minutes of arc further to the north. This, as well as observations of the changing positions of stars [[Sirius]] and [[Arcturus]], led to the discovery of [[proper motion]]. Based on present day observations, the position of Aldebaran has shifted 7′ in the last 2000 years; roughly a quarter the diameter of the full Moon.<ref>{{cite book
+ | first1=Robert | last1=Burnham
+ | title=Burnham's Celestial Handbook: An Observer's Guide to the Universe Beyond the Solar System
+ | page=1810 | volume=3 | isbn=0486236730 | publisher=Courier Corporation
+ | url=https://books.google.com/books?id=tBQoCSRdLAAC&pg=PA1810
+}}</ref>
+
+English astronomer [[William Herschel]] discovered a faint companion to Aldebaran in 1782;<ref name=CD/> an 11th magnitude star at an [[angular separation]] of 117[[arc second|″]]. This star was shown to be itself a close [[double star]] by [[Sherburne Wesley Burnham|S. W. Burnham]] in 1888, and he discovered an additional 14th magnitude companion at an angular separation of 31″. Follow on measurements of proper motion showed that Herschel's companion was diverging from Aldebaran, and hence they were not physically connected. However, the companion discovered by Burnham had almost exactly the same proper motion as Aldebaran, suggesting that the two formed a wide [[binary star]] system.<ref>{{citation
+ | first1=John Ellard | last1=Gore
+ | title=Studies in astronomy | pages=107−109
+ | chapter=Stellar Satellites
+ | publisher=Chatto & Windus | year=1904
+ | url=https://books.google.com/books?id=zAs6AAAAMAAJ&pg=PA107
+}}</ref>
+
+Working at his private observatory in [[Tulse Hill]], England, in 1864 [[William Huggins]] performed the first studies of the spectrum of Aldebaran, where he was able to identify the lines of nine elements, including iron, sodium, calcium, and magnesium. In 1886, [[Edward Charles Pickering|Edward C. Pickering]] at the [[Harvard College Observatory]] used a photographic plate to capture fifty [[absorption line]]s in the spectrum of Aldebaran. This became part of the [[Henry Draper Catalogue|Draper Catalogue]], published in 1890. By 1887, the photographic technique had improved to the point that it was possible to measure a star's [[radial velocity]] from the amount of [[Doppler shift]] in the spectrum. By this means, the recession velocity of Aldebaran was estimated as {{nowrap|30 miles per second}} (48&nbsp;km/s), using measurements performed at [[Potsdam Observatory]] by [[Hermann Carl Vogel|Hermann C. Vogel]] and his assistant [[Julius Scheiner]].<ref>{{citation
+ | first1=Agnes Mary | last1=Clerke
+ | title=A Popular History of Astronomy During the Nineteenth Century
+ | pages=381−382, 385, 406 | edition=4th | year=1908
+ | publisher=Adam and Charles Black
+ | url=https://books.google.com/books?hl=en&lr=&id=J3PvAAAAMAAJ
+}}</ref>
+
+The [[angular diameter]] of this star was measured for the first time in 1921 using an interferometer attached to the [[Hooker Telescope]] at the [[Mount Wilson Observatory]]. The result was 0.0237″, which was in close agreement with the estimated values of the time.<ref>{{citation
+ | last1=Pease | first1=F. G. 
+ | title=The Angular Diameter of a Bootis by the Interferometer 
+ | journal=Publications of the Astronomical Society of the Pacific
+ | volume=33 | issue=193 | page=171 | date=June 1921
+ | doi=10.1086/123068 
+ | bibcode=1921PASP...33..171P
+}}</ref>
+
+== Physical properties ==
+[[File:Aldebaran-Sun comparison-en.svg|thumb|left|200px|Size comparison between Aldebaran and the [[Sun]].]]
+
+Aldebaran is [[stellar classification|classified]] as a type K5III star, which indicates it is an orange giant star that has moved off the [[main sequence]] line of the [[Hertzsprung–Russell diagram]] after exhausting the [[hydrogen]] at its core. Compression from gravity increased the temperature and pressure at the core until it passed through a [[helium flash]] stage, when it began the generation of energy through the [[Triple-alpha process|triple-alpha fusion process of helium]].<ref name=apj618_493/> Additional energy is being produced through [[hydrogen fusion]] along a [[Stellar Evolution|shell surrounding the helium core]]. As a result of the increase in the core temperature, the star has expanded to a diameter of 44.2 times the diameter of the [[Sun]],<ref name="aldiam"/><ref>Richichi & Roccatagliata (2005) derived an angular diameter of 20.58±0.03 milliarcsec, which given a distance of 65 light years yields a diameter of 61 million km.</ref> approximately 61 million kilometres (see [[10 gigametres]] for similar sizes).
+
+Measurements by the [[Hipparcos]] satellite and other sources put Aldebaran around {{convert|65.3|ly|pc|abbr=off}} away.<ref name="Gatewood2008"/> Stellar models predict it only has about 50% more mass than the Sun, yet it shines with 425 times the Sun's luminosity due to the expanded radius.<ref name=Kaler/> Aldebaran is a slightly [[variable star]], of the [[slow irregular variable]] type ''LB''. It varies by about 0.2 in apparent magnitude from 0.75 to 0.95.<ref name=var>{{cite web | title=Query= alf Tau | url=http://www.sai.msu.su/gcvs/cgi-bin/search.cgi?search=alf+Tau | publisher=[[Centre de Données astronomiques de Strasbourg]] | work=[[General Catalogue of Variable Stars]] | accessdate=2009-12-16}}</ref> With a near-[[infrared]] [[J band]] [[Magnitude (astronomy)|magnitude]] of −2.1,<ref name="SIMBAD" /> only [[Betelgeuse]] (−2.9), [[R Doradus]] (−2.6), and [[Arcturus]] (−2.2) are brighter.{{cn|date=July 2015|reason=Among all stars everywhere? What is the source of this statement?}}
+
+The [[photosphere]] shows abundances of carbon, oxygen, and nitrogen that suggest the giant has gone through its first [[dredge-up]] stage—a normal step in the evolution of a star into a red giant during which material from deep within the star is brought up to the surface by [[Convection zone|convection]].<ref name="Ohnaka2013"/> With its slow rotation, Aldebaran lacks a [[Dynamo theory|dynamo]] needed to generate a [[corona]] and hence is not a source of [[X-ray astronomy|hard X-ray emission]]. However, small scale [[Stellar magnetic field|magnetic fields]] may still be present in the lower atmosphere, resulting from convection turbulence near the surface. (The measured strength of the magnetic field on Aldebaran is 0.22&nbsp;[[Gauss (unit)|G]].<ref name=aa574_A90_30/>) Any resulting soft X-ray emissions from this region may be attenuated by the [[chromosphere]], although ultraviolet emission has been detected in the spectrum.<ref name=apj598_1_610/> The star is currently losing mass at a rate of {{nowrap|(1–1.6) × 10<sup>−11</sup> M<sub>⊙</sub> yr<sup>−1</sup>}} with a velocity of {{nowrap|30 km s<sup>−1</sup>}}.<ref name="Ohnaka2013"/> This [[stellar wind]] may be generated by the weak magnetic fields in the lower atmosphere.<ref name=apj598_1_610/>
+
+Beyond the chromosphere of Aldebaran is an extended [[molecular outer atmosphere]] (MOLsphere) where the temperature is cool enough for molecules of gas to form. This region lies between 1.2 and 2.8 times the radius of the star, with temperatures of 1,000−2,000&nbsp;K. The spectrum reveals lines of [[carbon monoxide]], water, and [[titanium oxide]].<ref name="Ohnaka2013"/> Past this radius, the modest outflow of the stellar wind itself declines in temperature to about 7,500&nbsp;K at a distance of 1&nbsp;[[Astronomical Unit]] (AU)−the distance of the Earth from the Sun. The wind continues to expand until it reaches the [[termination shock]] boundary with the hot, ionized [[interstellar medium]] that dominates the [[Local Bubble]], forming a roughly spherical [[astrosphere]] with a radius of around 1,000&nbsp;AU, centered on Aldebaran.<ref name=Wood2007/>
+
+== Visibility ==
+[[File:Occultation.jpg|thumb|right|200px|In this predawn occultation, Aldebaran has just reappeared on the dark limb of the waning crescent Moon (July 1997 still frame captured from video).]]
+
+Aldebaran is one of the easiest stars to find in the [[night sky]], partly due to its brightness and partly due to its spatial relation to one of the more noticeable [[asterism (astronomy)|asterisms]] in the sky. If one follows the three stars of [[Orion (constellation)|Orion]]'s belt from left to right (in the Northern Hemisphere) or right to left (in the Southern), the first bright star found by continuing that line is Aldebaran.
+
+Since the star is located (by chance) in the line of sight between the Earth and the Hyades, it has the appearance of being the brightest member of the more scattered [[Hyades (star cluster)|Hyades]] [[open star cluster]] that makes up the bull's-head-shaped asterism; however, the star cluster is actually more than twice as far away, at about 150 light years.
+
+Aldebaran is close enough to the [[ecliptic]] to be [[Occultation|occulted]] by the [[Moon]]. Such occultations occur when the Moon's [[ascending node]] is near the [[autumnal equinox]]. A number of such events occur every revolution of the Moon starting at 29 Jan 2015 and ending at 3 Sep 2018. Each event is visible from a different location on Earth, but always in the northern hemisphere (or southern close to the equator). That means that people from Australia or South Africa never can observe an Aldebaran occultation. This is due to the fact that Aldebaran is slightly too far south of the ecliptic. A reasonably accurate estimate for the diameter of Aldebaran was obtained during the September 22, 1978 occultation.<ref>{{cite journal | title=Lunar occultation of the Hyades and diameters of Alpha Tauri and Theta-1 Tauri | last1=White | first1=N. M. | journal=[[The Astronomical Journal]] | volume=84 | date=June 1979 | pages=872–876 | doi=10.1086/112489 | bibcode=1979AJ.....84..872W }}</ref> Aldebaran is in [[Conjunction (astronomy and astrology)|conjunction]] with the Sun around June 1 of each year.<ref name="LASCO"/>
+
+==Double star==
+{| class="wikitable floatright sortable" style="text-align: center;"
+|+ WDS 04359+1631 Table Entry<ref name=WDSC2014>{{citation
+ | display-authors=1
+ | last1=Mason | first1=B. D.
+ | last2=Wycoff | first2=G. L.
+ | last3=Hartkopf | first3=W. I.
+ | last4=Douglass | first4=G. G.
+ | last5=Worley | first5=C. E.
+ | title=The Washington Visual Double Star Catalog
+ | year=2014 | bibcode=2001AJ....122.3466M
+ | url=http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=B/wds
+ | accessdate=2015-07-22
+|doi = 10.1086/323920 }}</ref>
+! α&nbsp;Tau
+! [[Apparent magnitude|Apparent<br>Magnitude]]
+! [[Angular separation|Angular<br>Separation]]
+! [[Position angle|Position<br>Angle]]
+! Year
+|-
+! B
+| 13.60
+| 31.60″
+| 113°
+| 2007
+|-
+! C
+| 11.30
+| 129.50″
+| 32°
+| 2011
+|-
+! D
+| 13.70
+| —
+| —
+| —
+|-
+! E
+| 12.00
+| 36.10″
+| 323°
+| 2000
+|-
+! F
+| 13.60
+| 255.70″
+| 121°
+| 2000
+|}
+Five faint stars are positioned so that they appear close to Aldebaran. These [[double stars]] were given alphabetic secondary star designations more or less in the order of their discovery, with the letter A reserved for the primary star. Some of the characteristics of these components, including their position relative to Aldebaran, are listed in the table at right.
+
+Some surveys have indicated that Alpha Tauri B may have about the same [[proper motion]] and [[parallax]] as Aldebaran and thus may be a [[binary star|physical binary]] system. However these measurements are difficult to make because the dim B component appears so close to the bright primary star. The resulting margin of error is too large to positively establish (or exclude) a physical relationship between the two stars. So far neither the B component, nor anything else, has been unambiguously shown to be physically associated with Aldebaran.<ref>{{cite journal | title=Statistical studies of visual double and multiple stars. II. A catalogue of nearby wide binary and multiple systems | journal=Revista Mexicana de Astronomia y Astrofisica | volume=28 | pages=43–89 | date=April 1994 | bibcode=1994RMxAA..28...43P | display-authors=1 | issue=1 | last1=Poveda | first1=A. | last2=Herrera | first2=M. A. | last3=Allen | first3=C. | last4=Cordero | first4=G. | last5=Lavalley | first5=C.}}</ref>
+
+Alpha Tauri CD is a [[binary star|binary system]] with the C and D component stars gravitationally bound to and co-orbiting each other. These co-orbiting stars have been shown to be located far beyond Aldebaran and are members of the Hyades star cluster. As with the rest of the stars in the cluster they do not physically interact with Aldebaran in any way.<ref name=CD>{{cite journal | title=Alpha Tauri CD - A well-known Hyades binary | last1=Griffin | first1=R. F. | journal=[[Astronomical Society of the Pacific]], Publications | issn=0004-6280 | volume=97 | date=September 1985 | pages=858–859 | doi=10.1086/131616 | bibcode=1985PASP...97..858G}}</ref>
+
+== Claims of a planetary system ==
+{{Main|Aldebaran b}}
+<!--[[File:Aldebaran_b_Planet.png|thumb|left|200px|Artistic rendering of Aldebaran b]]
+What features is this image meant to represent? Does anyone know what an 11mj planet would even look like? The planet is not even confirmed.-->
+
+In 1993, radial velocity measurements of Aldebaran, [[Arcturus]] and [[Pollux (star)|Pollux]] showed that Aldebaran exhibited a long-period radial velocity oscillation, which could be interpreted as a ''substellar companion''. The measurements for Aldebaran implied a companion with a minimum mass 11.4 times that of [[Jupiter]] in a 643-day orbit at a separation of {{convert|2.0|AU|Gm|abbr=on}} in a mildly [[Eccentricity (orbit)|eccentric]] orbit. However, all three stars surveyed showed similar oscillations yielding similar companion masses, and the authors concluded that the variation was likely to be intrinsic to the star rather than due to the gravitational effect of a companion.<ref name=Kgiants>{{cite journal|bibcode=1993ApJ...413..339H
+ | doi = 10.1086/173002|title=Long-period radial velocity variations in three K giants|last1=Hatzes |first1=A.|last2=Cochran |first2=W.|journal=[[The Astrophysical Journal]]|volume=413|issue=1|pages=339–348|date=1993}}</ref> Subsequent observations have not confirmed any substellar companions in orbit around Aldebaran.<ref>{{cite journal|bibcode=1998MNRAS.293..469H|title=On the nature of the radial velocity variability of Aldebaran - A search for spectral line bisector variations|last1=Hatzes |first1=A.|last2=Cochran |first2=W.|journal=[[Monthly Notices of the Royal Astronomical Society]]|volume=293|issue=4|pages=469–478|date=1998|doi=10.1046/j.1365-8711.1998.01186.x|arxiv = astro-ph/9712312 }}</ref>
+
+A paper accepted for publication in the journal Astronomy and Astrophysics in 2015 says that analysis of observations shows evidence for both a planetary companion and stellar activity.<ref>{{cite web|last1=Hatzes|first1=A. P.|last2=Cochran|first2=W. D.|title=Long-lived, long-period radial velocity variations in Aldebaran: A planetary companion and stellar activity|arxiv=1505.03454|display-authors=etal}}</ref>
+<!--
+{{PlanetboxOrbit begin}}
+{{PlanetboxOrbit speculation
+| exoplanet = b
+| mass = 11.4
+| period = 653.8
+| semimajor = 2.0<ref name=Kgiants />
+| eccentricity = 0.182
+}}
+{{PlanetboxOrbit end}}
+Let's leave this after the planet has been shown to exist and that it is a planet and not a brown dwarf.-->
+
+==Etymology==
+
+From Arabic الدبران (al-dabarān), meaning "the follower" (of the Pleiades)
+
+==Names in other languages==
+
+In [[Persia]] it was known as Tascheter.
+
+The [[Ancient Rome|Romans]] called it ''{{lang|la|[[Parilia|Palilicium]]}}''.
+
+In the Middle Ages it was sometimes called Cor Tauri (the Heart of the Bull/Taurus).
+
+[[Gower]] <ref>[[Confessio Amantis]] VII.1310</ref>refers to it as Aldeboran.
+
+In [[Chinese language|Chinese]] it is known as {{lang|zh|[[:zh:畢宿五|畢宿五]]}} (''{{lang|zh-Latn|Bìxiùwŭ}}'', the Fifth Star of the Net).
+
+In [[Hindu astronomy]] it is identified as the [[Rohini (nakshatra)|lunar mansion Rohini]] ("the red one") and as one of the twenty-seven daughters of [[Daksha]] and the wife of the god [[Chandra]](moon).
+
+==Mythology==
+This easily seen and striking star in its suggestive asterism is a popular subject for ancient and modern myths.
+
+* Mexican culture: For the [[Seri people|Seris]] of northwestern Mexico, this star is providing light for the seven women giving birth ([[Pleiades]]). It has three names: ''{{lang|sei-Latn|Hant Caalajc Ipápjö}}'', ''{{lang|sei-Latn|Queeto}}'', and ''{{lang|sei-Latn|Azoj Yeen oo Caap}}'' ("star that goes ahead"). The lunar month corresponding to October is called ''{{lang|sei-Latn|Queeto yaao}}'' "Aldebaran's path".<ref>{{cite book |last1=Moser |first1=Mary B. |first2=Stephen A. |last2=Marlett |title=Comcáac quih yaza quih hant ihíip hac: Diccionario seri-español-inglés |url=http://lengamer.org/admin/language_folders/seri/user_uploaded_files/links/File/DiccionarioSeri2005.pdf |format=PDF|date=2005 |publisher=Universidad de Sonora and Plaza y Valdés Editores |location=Hermosillo, Sonora and Mexico City |language=Spanish, English}}</ref>
+* Aboriginal culture: In the Clarence River of northeastern [[New South Wales]], this star is the Ancestor ''Karambal'', who stole another man's wife.  The woman's husband tracked him down and burned the tree in which he was hiding.  It is believed that he rose to the sky as smoke and became the star Aldebaran.<ref>{{citation | page=30 | url=http://books.google.com/books?id=BrQdF-uBCXgC |title=Aboriginal People and Their Plants | first1=Philip A. |last1=Clarke | publication-place=New South Wales |publisher=Rosenberg Publishing Pty Ltd | year=2007 }}</ref>
+* In Hindu mythology Aldebaran is known by the name Rohini and is the fourth of the 27 daughters of Daksha given to God Chandra(moon) as wives. The Moon God enamoured by the beauty of Rohini started spending all his time with her neglecting the others. (This amounts to moon not going round the constellations of zodiac and remaining in one place!). Daksha got angry and cursed him to suffer by slow desiccation. After pleading to the lord [[Shiva]] the curse was held at bay and the moon was rejuvenated by shiva's grace for 15 days and desiccated for another 15 days thus waning and waxing to make a lunar month.{{cn|date=September 2015}}
+
+== See also ==
+* [[Stars in astrology#Aldebaran|Aldebaran in astrology]]
+* [[Aldebaran in fiction]]
+* [[Iota Draconis]]
+* [[Pollux (star)|Pollux]]
+
+== References ==
+{{reflist|colwidth=30em|refs=
+
+<ref name=aaa526_A100>{{citation | display-authors=1 | last1=Piau | first1=L. | last2=Kervella | first2=P. | last3=Dib | first3=S. | last4=Hauschildt | first4=P. | title=Surface convection and red-giant radius measurements | journal=Astronomy and Astrophysics | volume=526 | page=A100 |date=February 2011 | doi=10.1051/0004-6361/201014442 | bibcode=2011A&A...526A.100P | arxiv=1010.3649 }}</ref>
+
+<ref name="aldiam">{{Cite journal | last=Richichi | first=A. | last2=Roccatagliata | first2=V. | title=Aldebaran's angular diameter: How well do we know it? | journal=Astronomy & Astrophysics | volume=433 | issue=1 | date=2005 | pages=305–312 | doi=10.1051/0004-6361:20041765 | quote=We derive an average value of 19.96±0.03 milliarcsec for the uniform disk diameter. The corresponding limb-darkened value is 20.58±0.03 milliarcsec, or {{Solar radius|44.2±0.9}}. | bibcode=2005A&A...433..305R| arxiv=astro-ph/0502181 }}</ref>
+
+<ref name=mnras374_1_220>{{citation | last1=Koncewicz | first1=R. | last2=Jordan | first2=C. | title=OI line emission in cool stars: calculations using partial redistribution | journal=Monthly Notices of the Royal Astronomical Society | volume=374 | issue=1 | pages=220–231 |date=January 2007 | doi=10.1111/j.1365-2966.2006.11130.x | bibcode=2007MNRAS.374..220K }}</ref>
+
+<ref name="SIMBAD">{{cite web | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=HD+29139 | title =V* alf Tau  -- Variable Star | publisher=[[Centre de Données astronomiques de Strasbourg]] | work=[[SIMBAD]] | accessdate=2009-12-16 }}</ref>
+
+<ref name="LASCO">{{cite web
+  |date=2008
+  |title=LASCO Star Maps (identify objects in the field of view for any day of the year)
+  |publisher=Large Angle and Spectrometric Coronagraph Experiment (LASCO)
+  |author=Star Maps created using XEphem
+  |url=http://lasco-www.nrl.navy.mil/index.php?p=sky/starmap
+  |accessdate=2012-06-01}} [http://sohowww.nascom.nasa.gov/data/REPROCESSING/Completed/2012/c3/20120601/20120601_0930_c3_1024.jpg 2012 (with Venus and Mercury)] and [http://sohowww.nascom.nasa.gov/data/REPROCESSING/Completed/2011/c3/20110601/20110601_0006_c3_1024.jpg 2011]</ref>
+
+<ref name="Ohnaka2013">{{citation
+ | last1=Ohnaka | first1=K. 
+ | title=Spatially resolved, high-spectral resolution observation of the K giant Aldebaran in the CO first overtone lines with VLTI/AMBER 
+ | journal=Astronomy & Astrophysics
+ | volume=553 | id=A3 | pages=8 | date=May 2013
+ | doi=10.1051/0004-6361/201321207 
+ | bibcode=2013A&A...553A...3O 
+|arxiv = 1303.4763 }}</ref>
+
+<ref name="Gatewood2008">{{citation
+ | last1=Gatewood | first1=George 
+ | title=Astrometric Studies of Aldebaran, Arcturus, Vega, the Hyades, and Other Regions 
+ | journal=The Astronomical Journal
+ | volume=136 | issue=1 | pages=452−460
+ | date=July 2008
+ | doi=10.1088/0004-6256/136/1/452 
+ | bibcode=2008AJ....136..452G 
+}}</ref>
+
+<ref name=apj598_1_610>{{citation
+ | last1=Ayres | first1=Thomas R.
+ | last2=Brown | first2=Alexander
+ | last3=Harper | first3=Graham M. 
+ | title=Buried Alive in the Coronal Graveyard 
+ | journal=The Astrophysical Journal
+ | volume=598 | issue=1 | pages=610-625
+ | date=November 2003
+ | doi=10.1086/378699 
+ | bibcode=2003ApJ...598..610A 
+}}</ref>
+
+<ref name=cp48_1_41>{{citation
+ | last1=Nieto | first1=Michael Martin
+ | last2=Anderson | first2=John D. 
+ | title=Search for a solution of the Pioneer anomaly 
+ | journal=Contemporary Physics
+ | volume=48 | issue=1 | pages=41−54 
+ | date=January 2007
+ | doi=10.1080/00107510701462061 
+ | bibcode=2007ConPh..48...41N 
+|arxiv = 0709.3866 }}</ref>
+
+<ref name=apj618_493>{{citation
+ | first1=Thomas R. | last1=Ayres 
+ | title=X-Rays from Hybrid Stars
+ | journal=The Astrophysical Journal
+ | volume=618 | issue=1 | pages=493−501 | date=January 2005
+ | doi=10.1086/425891
+ | bibcode=2005ApJ...618..493A
+}}</ref>
+
+<ref name=Wood2007>{{citation
+ | display-authors=1
+ | last1=Wood | first1=Brian E.
+ | last2=Harper | first2=Graham M.
+ | last3=Müller | first3=Hans-Reinhard
+ | last4=Heerikhuisen | first4=Jacob
+ | last5=Zank | first5=Gary P. 
+ | title=The Wind-ISM Interaction of alpha Tauri 
+ | journal=The Astrophysical Journal
+ | volume=655 | issue=2 | pages=946–957 | date=February 2007
+ | doi=10.1086/510404 
+ | bibcode=2007ApJ...655..946W 
+}}</ref>
+
+<ref name=aa574_A90_30>{{citation
+ | display-authors=1
+ | last1=Aurière | first1=M.
+ | last2=Konstantinova-Antova | first2=R.
+ | last3=Charbonnel | first3=C.
+ | last4=Wade | first4=G. A.
+ | last5=Tsvetkova | first5=S.
+ | last6=Petit | first6=P.
+ | last7=Dintrans | first7=B.
+ | last8=Drake | first8=N. A.
+ | last9=Decressin | first9=T.
+ | last10=Lagarde | first10=N.
+ | last11=Donati | first11=J.-F.
+ | last12=Roudier | first12=T.
+ | last13=Lignières | first13=F.
+ | last14=Schröder | first14=K.-P.
+ | last15=Landstreet | first15=J. D.
+ | last16=Lèbre | first16=A.
+ | last17=Weiss | first17=W. W.
+ | last18=Zahn | first18=J.-P. 
+ | title=The magnetic fields at the surface of active single G-K giants 
+ | journal=Astronomy & Astrophysics
+ | volume=574 | id=A90 | pages=30
+ | date=February 2015
+ | doi=10.1051/0004-6361/201424579 
+ | bibcode=2015A&A...574A..90A 
+|arxiv = 1411.6230 }}</ref>
+
+}}
+
+== External links ==
+
+{{commons category-inline|Aldebaran}}
+* {{cite web |url=http://www.solstation.com/stars2/aldebaran.htm |title=Aldebaran 2 |accessdate=14 November 2005 |work=SolStation| archiveurl= http://web.archive.org/web/20051125055412/http://www.solstation.com/stars2/aldebaran.htm| archivedate= 25 November 2005 <!--DASHBot-->| deadurl= no}}
+* [http://www.constellation-guide.com/aldebaran/ Aldebaran at Constellation Guide]
+
+{{Sky|04|35|55.2|+|16|30|33|65}}
+{{Nearest bright star systems|7}}
+{{Stars of Taurus}}
+
+[[Category:Aldebaran| ]]
+[[Category:Arabic words and phrases]]
+[[Category:Bayer objects|Tauri, Alpha]]
+[[Category:Flamsteed objects|Tauri, 087]]
+[[Category:Henry Draper Catalogue objects|029139]]
+[[Category:Hipparcos objects|021421]]
+[[Category:HR objects|1457]]
+[[Category:Hypothetical planetary systems]]
+[[Category:Irregular variables]]
+[[Category:K-type giants]]
+[[Category:Stars with proper names]]
+[[Category:Taurus (constellation)]]
+[[Category:Planetary systems]]

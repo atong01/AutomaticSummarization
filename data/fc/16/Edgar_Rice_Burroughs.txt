@@ -1,0 +1,280 @@
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Edgar Rice Burroughs
+| image       = E-R-Burroughs.jpg
+| alt         = Edgar Rice Burroughs
+| caption     = Edgar Rice Burroughs <!-- in YYYY (need date at least) -->
+| birth_date  = {{birth date|1875|9|1|mf=y}}
+| birth_place = [[Chicago|Chicago, Illinois]], U.S.
+| death_date  = {{death date and age|1950|3|19|1875|9|1|mf=y}}
+| death_place = [[Encino, California]], U.S.
+| resting_place = [[Tarzana, Los Angeles|Tarzana, California]], U.S.
+| occupation  = Novelist
+| nationality = American
+| period      = 1911–50
+| genre       = [[Adventure novel]], [[fantasy]], [[Lost world (genre)|lost world]], [[sword and planet]], [[planetary romance]], [[soft science fiction]], [[Western (genre)|Western]]
+| notableworks = {{plainlist|
+* [[Tarzan]] series
+* [[Barsoom]] series}}
+| influences  = [[Edwin Lester Arnold]], [[Arthur Conan Doyle]], [[Camille Flammarion]],<ref>[http://gutenberg.net.au/ebooks06/0600591.txt Skeleton Men of Jupiter (1942)] "Long ago, I believed with Flammarion that Mars was habitable and inhabited;"</ref> [[Henry Rider Haggard|H. Rider Haggard]], [[Rudyard Kipling]], [[Jules Verne]], [[H. G. Wells]]
+| influenced  = [[Ray Bradbury]], [[Leigh Brackett]], [[Lin Carter]], [[Arthur C. Clarke]], [[Edmond Hamilton]],<ref>{{Citation | publisher = Tangent on line | url = http://www.tangentonline.com/interviews-columnsmenu-166/1270-classic-leigh-brackett-a-edmond-hamilton-interview | title = Classic Leigh Brackett & Edmond Hamilton Interview | quote = We sort of grew up on Edgar Rice Burroughs. I had read much other science fiction; I totally admired H. G. Wells. But Burroughs seemed to be the one we all tried to model after.}}</ref> [[Robert A. Heinlein]], [[Robert E. Howard]], [[Philip José Farmer]], [[Otis Adelbert Kline]], [[A. Merritt]], [[John Norman]],  [[Michael Moorcock]], [[Carl Sagan]], [[James Cameron]]
+| signature   = Edgar Rice Burrous signature.svg}}
+'''Edgar Rice Burroughs''' (September 1, 1875 – March 19, 1950) was an [[American people|American]] writer best known for his creations of the jungle hero [[Tarzan]] and the heroic Mars adventurer [[John Carter of Mars|John Carter]], although he produced works in many genres.
+
+==Biography==
+
+===Early life===
+Burroughs was born on September 1, 1875, in [[Chicago]], [[Illinois]] (he later lived for many years in the suburb of [[Oak Park, Illinois|Oak Park]]), the fourth son of businessman and [[American Civil War|Civil War]] veteran Major George Tyler Burroughs (1833–1913) and his wife Mary Evaline (Zieger) Burroughs (1840–1920). His middle name is from his paternal grandmother, Mary Rice Burroughs (1802–c.1870).<ref>{{Citation | publisher = [[Edmund Rice (1638)]] Association | year = 2010 | title = Descendants of Edmund Rice: The First Nine Generations}}.</ref><ref>{{cite web |url= http://www.edmund-rice.org/era5gens/ |title=Edmund Rice Six-Generation Database Online | publisher= Edmund Rice (1638) Association | accessdate= January 27, 2011}}</ref><ref>{{Citation | last = Schneider | first = Jerry L | year = 2004 | title = The Ancestry of Edgar Rice Burroughs | publisher = [http://www.erbvillepress.com/ ERBville] | ISBN = 978-1-4357-4972-6 | url = http://books.google.com/books?id=ZcBg6irPpVcC&printsec=frontcover#v=onepage&q&f=false | format = Google Books}}, 296 pp.</ref>
+
+Burroughs was educated at a number of local schools, and during the Chicago [[influenza]] epidemic in 1891, he spent a half year at his brother's ranch on the [[Raft River]] in [[Idaho]]. He then attended the [[Phillips Academy]] in [[Andover, Massachusetts]], and then the [[Michigan Military Academy]]. Graduating in 1895, and failing the entrance exam for the [[United States Military Academy]] (West Point), he ended up as an enlisted soldier with the [[7th U.S. Cavalry]] in [[Fort Grant, Arizona|Fort Grant]], [[Arizona Territory]]. After being diagnosed with a heart problem and thus ineligible to serve, he was discharged in 1897.<ref name = "slotkin">{{Cite book | last = Slotkin | first = Richard | author-link = Richard Slotkin | title = Gunfighter Nation | publisher = University of Oklahoma Press | page = 196 | ISBN = 0-8061-3031-8| year = 1998}}</ref>
+
+[[File:Bookplate of Edgar Rice Burroughs.jpg|thumb|right|Bookplate of Edgar Rice Burroughs showing Tarzan holding the planet Mars, surrounded by other characters from Burroughs' stories and symbols relating to his personal interests and career]]
+[[File:Letter from Edgar Rice Burroughs to Ruthven Deane 1922.jpg|thumb|right|Typsescript letter, with Tarzana Ranch letterhead, from Edgar Rice Burroughs to [[Ruthven Deane]], explaining the design and significance of his bookplate.]]
+
+===Adulthood===
+After his discharge, Burroughs worked a number of different jobs. He drifted and worked on a ranch in [[Idaho]]. Then, Burroughs found work at his father's firm in 1899. He married his childhood sweetheart Emma Hulbert (1876-1944) in January 1900. In 1904, he left his job and worked less regularly, first in Idaho, then in Chicago.{{Sfn | Holtsmark | 1986 | pp = [http://books.google.com/books?ei=_CNJT-jKGqbW0QHeuPykDg&id=MP4OAQAAMAAJ&dq=Erling+B.+Holtsmark&q=%22Idaho+and+his+father+in+Chicago%22#search_anchor 3]–[http://books.google.com/books?ei=_CNJT-jKGqbW0QHeuPykDg&id=MP4OAQAAMAAJ&dq=Erling+B.+Holtsmark&q=Emma#search_anchor 4]}}
+
+By 1911, after seven years of low wages, he was working as a pencil-sharpener wholesaler and began to write fiction. By this time, Burroughs and Emma had two children, Joan (1908–72), who would later marry Tarzan film actor [[James Pierce]], and Hulbert (1909–91).{{Sfn | Holtsmark | 1986 | p = 5}} During this period, he had copious spare time and he began reading many [[pulp magazine|pulp fiction magazines]]. In 1929 he recalled thinking that
+{{Quote | ...if people were paid for writing rot such as I read in some of those magazines, that I could write stories just as rotten. As a matter of fact, although I had never written a story, I knew absolutely that I could write stories just as entertaining and probably a whole lot more so than any I chanced to read in those magazines.<ref>{{cite web|first=Edgar Rice|last=Burroughs |date=October 27, 1929|url= http://www.erbzine.com/mag0/0052.html |title= How I Wrote the Tarzan Stories| work = [[The Washington Post]], The [[New York World]] (Sunday supplement) | publisher = ERBZine.com}}</ref>}}
+
+In 1913, Burroughs and Emma had their third and last child, [[John Coleman Burroughs]] (1913–79).{{Citation needed|date=February 2012}}
+
+In the 1920s Burroughs became a pilot, purchasing an [[Security Airster S-1]], encourages his family to learn to fly.<ref>{{cite journal|magazine=AOPA Pilot|date=May 2014|title=A Plane-Crazy America}}</ref><ref>{{cite web|title=Joan Burroughs|url=http://www.erbzine.com/mag11/1104.html|accessdate=14 February 2015}}</ref>
+
+Burroughs divorced Emma in 1934, and in 1935 he married former actress [[Florence Gilbert|Florence Gilbert Dearholt]], the former wife of his friend, [[Ashton Dearholt]]. Burroughs adopted the Dearholts' two children. He and Florence divorced in 1942.{{Sfn | Holtsmark | 1986 | pp = 12–13}}
+
+Burroughs was in his late 60s and was in [[Honolulu]] at the time of the Japanese [[attack on Pearl Harbor]].<ref>{{cite book |last=Toland |first=John |date=1970 |title=The Rising Sun |publisher=Random House |edition=2003 Modern Library Paperback|page=220 |access-date=23 September 2015 |isbn=0-8129-6858-1}}</ref> Despite his age, he applied for and received permission to become a [[war correspondent]], becoming one of the oldest U.S. war correspondents during [[World War II]]. This period of his life is mentioned in [[William Brinkley]]'s bestselling novel ''[[Don't Go Near the Water (novel)|Don't Go Near the Water]]''.
+
+===Death===
+After the war ended, Burroughs moved back to [[Encino, California]], where, after many health problems, he died of a heart attack on March 19, 1950, having written almost 80 novels. He is buried at Tarzana Los Angeles County in California, USA{{Sfn | Holtsmark | 1986 | pp = 13–15}}
+
+American film director [[Wes Anderson]] is Burroughs' great-grandson.<ref>{{cite news| last= Wells|first = Jeffrey | title= Lost in Filmland? These Guys Sure Found The Way|url= http://articles.latimes.com/1993-11-07/entertainment/ca-54065_1_bottle-rocket |newspaper= The Los Angeles Times|date=November 7, 1993}}</ref>
+
+American actor [[Reid Markel]] is Burroughs' great-great- grandson.
+
+The [[EMP Museum#Science Fiction and Fantasy Hall of Fame|Science Fiction Hall of Fame]] inducted Burroughs in 2003.<ref name = SFAwards/><ref name=sfhof-old />
+
+==Literary career==
+Aiming his work at the pulps, Burroughs had his first story, ''[[Under the Moons of Mars]]'', serialized by [[Frank Munsey]] in the February to July 1912 issues of ''[[The All-Story]]''<ref name=isfdb/><ref name = "moonsofmars">{{Citation | newspaper = ERBzine | url = http://www.erbzine.com/mag4/0419.html | volume = 4 | issue = 19 | title = A Virtual Visit to The Nell Dismukes McWhorter Memorial Edgar Rice Burroughs Collection}}, with photographs.</ref><ref name= robinson>{{Citation | last = Robinson | first = Frank M | url = http://www.all-story.com/issues.cgi?action=show_story&story_id=69 | title = The Story Behind the Original All-Story | volume = 4 | issue = 1 | newspaper = American Zoetrope | accessdate = April 8, 2013}}.</ref> – under the name "Norman Bean" to protect his reputation.<ref name= robinson />{{efn|name=pseud |One poem by Burroughs had been published October 15, 1910, in ''The Chicago Tribune'' as "by Normal Bean" and the ''Tribune'' published two more in 1914 and 1915.<ref name = isfdb /> "Norman" was an ''All-Story'' typesetter's presumptive correction of "Normal".<ref name =robinson /> He used his own name otherwise.<ref name= isfdb/>}} ''Under the Moons of Mars'' inaugurated the [[Barsoom]] series and earned Burroughs [[United States dollar|US]]$400 (${{Inflation|US|400|1912|fmt=c}} today). It was first published as a book by [[A. C. McClurg]] of Chicago in 1917, entitled ''[[A Princess of Mars]]'', after three Barsoom sequels had appeared as serials, and McClurg had published the first four serial [[Tarzan]] novels as books.<ref name=isfdb />
+
+Burroughs soon took up writing full-time and by the time the run of ''Under the Moons of Mars'' had finished he had completed two novels, including ''[[Tarzan of the Apes]]'', published from October 1912 and one of his most successful series.
+
+Burroughs also wrote popular [[science fiction]] and fantasy stories involving Earthly adventurers transported to various planets (notably [[Barsoom]], Burroughs's fictional name for [[Mars]], and [[Venus series|Amtor]], his fictional name for [[Venus]]), lost islands, and into the interior of the [[Hollow Earth|hollow earth]] in his ''[[Pellucidar]]'' stories, as well as westerns and historical romances. Along with ''All-Story'', many of his stories were published in ''[[Argosy (magazine)|The Argosy]]'' magazine.
+
+[[Tarzan]] was a cultural sensation when introduced. Burroughs was determined to capitalize on Tarzan's popularity in every way possible. He planned to exploit Tarzan through several different media including a syndicated Tarzan [[comic strip]], [[film|movies]] and merchandise. Experts in the field advised against this course of action, stating that the different media would just end up competing against each other. Burroughs went ahead, however, and proved the experts wrong – the public wanted Tarzan in whatever fashion he was offered. Tarzan remains one of the most successful fictional characters to this day and is a [[cultural icon]].
+
+In either 1915 or 1919, Burroughs purchased a large ranch north of [[Los Angeles]], California, which he named "Tarzana." The citizens of the community that sprang up around the ranch voted to adopt that name when their community, [[Tarzana, California]] was formed in 1927.<ref>{{Citation | publisher = NOAA | url = http://www.nwfsc.noaa.gov/research/divisions/sd/communityprofiles/California/Tarzana_CA.pdf | format = [[PDF]] | place = US | title = Tarzana Community Profile | accessdate = July 4, 2012}}.</ref> Also, the unincorporated community of [[Tarzan, Texas]], was formally named in 1927 when the [[US Postal Service]] accepted the name,<ref name="holtsmark9-10">{{Harvnb | Holtsmark | 1986 | pp = 9–10}}.</ref> reputedly coming from the popularity of the first (silent) ''[[Tarzan of the Apes (film)|Tarzan of the Apes]]'' film, starring [[Elmo Lincoln]], and an early "Tarzan" comic strip.
+
+In 1923 Burroughs set up his own company, [[Edgar Rice Burroughs, Inc.]], and began printing his own books through the 1930s.
+
+==Reception and criticism==
+In a ''[[Paris Review]]'' interview, [[Ray Bradbury]] said of Burroughs that "Edgar Rice Burroughs never would have looked upon himself as a social mover and shaker with social obligations. But as it turns out – and I love to say it because it upsets everyone terribly – Burroughs is probably the most influential writer in the entire history of the world."<ref>[http://www.theparisreview.org/interviews/6012/the-art-of-fiction-no-203-ray-bradbury Paris Review]</ref> Bradbury continued that "By giving romance and adventure to a whole generation of boys, Burroughs caused them to go out and decide to become special."
+
+Few critical books have arisen concerning Burroughs. From an academic standpoint, the most helpful are Erling Holtsmark's two books: ''Tarzan and Tradition''<ref>Holtsmark, Erling B. ''Tarzan and Tradition: Classical Myth in Popular Literature''. Westport, CT: Greenwood, 1981.</ref> and ''Edgar Rice Burroughs'';<ref>Holtsmark, Erling B. ''Edgar Rice Burroughs''. Twayne's United States Author Series. Boston: Twayne, 1986.</ref> Stan Galloway's ''The Teenage Tarzan: A Literary Analysis of Edgar Rice Burroughs' ''Jungle Tales of Tarzan;<ref>Galloway, Stan. ''The Teenage Tarzan: A Literary Analysis of Edgar Rice Burroughs' ''Jungle Tales of Tarzan. Jefferson, NC: McFarland, 2010.</ref> and Richard Lupoff's two books: ''Master of Adventure: Edgar Rice Burroughs''<ref>Lupoff, Richard. Master of Adventure: Edgar Rice Burroughs. Lincoln: University of Nebraska Press, 2005.</ref> and ''Barsoom: Edgar Rice Burroughs and the Martian Vision''.<ref>Lupoff, Richard. ''Barsoom: Edgar Rice Burroughs and the Martian Vision.'' Baltimore: Mirage Press, 1976.</ref> Galloway was identified by [[James Gunn (author)]] as "one of the half-dozen finest Burroughs scholars in the world";<ref>Gunn, James. Foreword. The Teenage Tarzan by Stan Galloway. Jefferson, NC: McFarland, 2010. p. 3.</ref> Galloway called Holtsmark his "most important predecessor."<ref>Preface. p. 5.</ref>
+
+==Selected works==
+{{Main |Edgar Rice Burroughs bibliography}}
+
+===''Barsoom'' series===
+{{Main |Barsoom}}
+* ''[[A Princess of Mars]]'' (1912)
+* ''[[The Gods of Mars]]'' (1914)
+* ''[[The Warlord of Mars]]'' (1918)
+* ''[[Thuvia, Maid of Mars]]'' (1920)
+* ''[[The Chessmen of Mars]]'' (1922)
+* ''[[The Master Mind of Mars]]'' (1928)
+* ''[[A Fighting Man of Mars]]'' (1931)
+* ''[[Swords of Mars]]'' (1936)
+* ''[[Synthetic Men of Mars]]'' (1940)
+* ''[[Llana of Gathol]]'' (1948)
+* ''[[John Carter of Mars (collection)|John Carter of Mars]]'' (1964)
+** {{Citation | first = John Coleman | last = Burroughs | title = [[John Carter and the Giant of Mars]] | year = 1940 | author-link = John Coleman Burroughs}}.
+** "[[Skeleton Men of Jupiter]]" (1942)
+
+===''Tarzan'' series===
+{{Main |Tarzan}}
+* ''[[Tarzan of the Apes]]'' (1912)
+* ''[[The Return of Tarzan]]'' (1913)
+* ''[[The Beasts of Tarzan]]'' (1914)
+* ''[[The Son of Tarzan]]'' (1914)
+* ''[[Tarzan and the Jewels of Opar]]'' (1916)
+* {{Citation | title = [[Jungle Tales of Tarzan]] | origyear = 1916 | year = 1917}}.
+* {{Citation | title = [[Tarzan the Untamed]] | origyear = 1919 | year = 1921}}.
+* ''[[Tarzan the Terrible]]'' (1921)
+* {{Citation | title = [[Tarzan and the Golden Lion]] | origyear = 1922 | year = 1923}}.
+* ''[[Tarzan and the Ant Men]]'' (1924)
+* {{Citation | title = [[Tarzan, Lord of the Jungle (novel)|Tarzan, Lord of the Jungle]] | origyear = 1927 | year = 1928}}.
+* ''[[Tarzan and the Lost Empire]]'' (1928)
+* ''[[Tarzan at the Earth's Core]]'' (1929)
+* ''[[Tarzan the Invincible]]'' (1930–31).
+* ''[[Tarzan Triumphant]]'' (1931)
+* ''[[Tarzan and the City of Gold]]'' (1932)
+* {{Citation | title = [[Tarzan and the Lion Man]] | origyear = 1933 | year = 1934}}.
+* ''[[Tarzan and the Leopard Men]]'' (1935)
+* {{Citation | title = [[Tarzan's Quest]] | origyear = 1935 | year = 1936}}.
+* {{Citation | title = [[Tarzan the Magnificent (novel)|Tarzan the Magnificent]] | origyear = 1936 | year = 1937}}.
+* ''[[Tarzan and the Forbidden City]]'' (1938)
+* ''[[Tarzan and the Foreign Legion]]'' (1947)
+* ''[[Tarzan and the Tarzan Twins]]'' (1963, for younger readers)
+* ''[[Tarzan and the Madman]]'' (1964)
+* ''[[Tarzan and the Castaways]]'' (1965)
+* ''[[Tarzan: the Lost Adventure]]'' [1995] (written with [[Joe R. Lansdale]])
+
+===''Pellucidar'' series===
+{{Main |Pellucidar}}
+* ''[[At the Earth's Core (novel)|At the Earth's Core]]'' (1914)
+* ''[[Pellucidar (novel)|Pellucidar]]'' (1923)
+* ''[[Tanar of Pellucidar]]'' (1928)
+* ''[[Tarzan at the Earth's Core]]'' (1929)
+* ''[[Back to the Stone Age]]'' (1937)
+* ''[[Land of Terror]]'' (1944)
+* ''[[Savage Pellucidar]]'' (1963)
+
+===''Venus'' series===
+{{Main |Venus series}}
+* ''[[Pirates of Venus]]'' (1934)
+* ''[[Lost on Venus]]'' (1935)
+* ''[[Carson of Venus]]'' (1939)
+* ''[[Escape on Venus]]'' (1946)
+* ''[[The Wizard of Venus]]'' (1970)
+
+===''Caspak'' series===
+* ''[[The Land That Time Forgot (novel)|The Land That Time Forgot]]'' (1918)
+* ''[[The People That Time Forgot (novel)|The People That Time Forgot]]'' (1918)
+* ''[[Out of Time’s Abyss]]'' (1918)
+
+===''Moon'' series===
+* ''[[The Moon Maid]]'' (1926; ''The Moon Men'')
+** ''Part I: The Moon Maid''
+** ''Part II: The Moon Men''
+** ''Part III: The Red Hawk''
+These three texts have been published by various houses in one or two volumes. Adding to the confusion, some editions have the original (significantly longer) introduction to Part I from the first publication as a magazine serial, and others have the shorter version from the first book publication, which included all three parts under the title ''The Moon Maid''.<ref>{{Citation | url = http://www.erbzine.com/mag7/0767.html | title = ERBzine}}.</ref>
+
+===''Mucker'' series===
+* ''[[The Mucker (novel)|The Mucker]]'' (1914)
+* ''[[The Return of the Mucker]]'' (1916)
+* ''[[The Oakdale Affair]]'' (1917)
+
+===Other science fiction===
+* ''[[Beyond the Farthest Star (novel)|Beyond the Farthest Star]]'' (1941)
+* ''[[Beyond Thirty|The Lost Continent]]'' (1916; a.k.a. ''Beyond Thirty'')
+* ''[[The Monster Men]]'' (1929)
+* ''[[The Resurrection of Jimber-Jaw]]'' (1937)
+
+===Jungle adventure novels===
+* ''[[The Man-Eater]]'' (1915)
+* ''[[The Cave Girl]]'' (1925)
+* ''[[The Eternal Lover]]'' (1925; a.k.a. ''The Eternal Savage'')
+* ''[[Jungle Girl (novel)|Jungle Girl]]'' (1932; a.k.a. ''Land of the Hidden Men'')
+* ''[[The Lad and the Lion]] (1938)
+
+===Western novels===
+* ''[[The Bandit of Hell's Bend]]'' (1926)
+* ''[[The War Chief (novel)|The War Chief]]'' (1927)
+* ''[[Apache Devil]]'' (1933)
+* ''[[The Deputy Sheriff of Comanche County]]'' (1940)
+
+===Historical novels===
+* ''[[I am a Barbarian]]'' (1967)
+* ''[[The Outlaw of Torn]]'' (1927)
+
+===Other works===
+* ''[[The Efficiency Expert (novel)|The Efficiency Expert]]'' (1921)
+* ''[[Forgotten Tales of Love and Murder]]'' (2001)
+* ''[[The Girl from Farris's]]'' (1916)
+* ''[[The Girl from Hollywood]]'' (1923)
+* ''[[The Mad King]]'' (1926)
+* ''[[Marcia of the Doorstep]]'' (1924)
+* ''[[Minidoka: 937th Earl of One Mile Series M]]'' (1998)
+* ''[[Pirate Blood]]'' (1970)
+* ''[[The Rider]]'' (1937)
+* ''[[You Lucky Girl!]]'' (1927)
+
+==Books on Edgar Rice Burroughs==
+* ''[[Master of Adventure: The Worlds of Edgar Rice Burroughs]]'' by [[Richard A. Lupoff]]
+* ''Tarzan Forever: The Life of Edgar Rice Burroughs, Creator of Tarzan'' by [[John Taliaferro (author)|John Taliaferro]]
+* ''Golden Anniversary Bibliography of Edgar Rice Burroughs'' by [[Henry Hardy Heins|the Rev. Henry Hardy Heins]]
+* ''[[Tarzan Alive]]'' by [[Philip Jose Farmer]]
+* ''Burroughs's Science Fiction'' by Robert R. Kudlay and Joan Leiby
+* ''Tarzan and Tradition'' and ''Edgar Rice Burroughs'' by Erling B. Holtsmark
+* ''Edgar Rice Burroughs'' by Irwin Porges
+* ''Edgar Rice Burroughs'' by Robert B. Zeuschner
+* ''The Burroughs Cyclopædia'' ed. by Clark A. Brady
+* ''A Guide to Barsoom'' by John Flint Roy
+* ''Tarzan: the Centennial Celebration'' by [[Scott Tracy Griffin]]
+
+==See also==
+{{Portal|Biography |Speculative fiction |United States Army}}
+* [[Edgar Rice Burroughs, Inc.]]
+* [[Mars in fiction]]
+* [[Otis Adelbert Kline]]
+* [[Sword and planet]]
+
+==Notes==
+{{notelist |64em}}
+
+==References==
+{{Reflist |32em |refs =
+<ref name=isfdb>{{isfdb name |143}} ('''ISFDB'''). Retrieved April 8, 2013. Select a title to see its linked publication history and general information. Select a particular edition (title) for more data at that level, such as a front cover image or linked contents.</ref>
+
+<!-- awards refs -->
+<ref name=SFAwards>[http://www.locusmag.com/SFAwards/Db/NomLit20.html#711 "Burroughs, Edgar Rice"]. ''The Locus Index to SF Awards: Index of Literary Nominees''. [[Locus Publications]]. Retrieved April 8, 2013.</ref>
+<ref name=sfhof-old>{{Citation | url = http://www.midamericon.org/halloffame/ | title = Science Fiction and Fantasy Hall of Fame | publisher = Mid American Science Fiction and Fantasy Conventions | accessdate = 2013-03-22 | type = official website of the hall of fame to 2004}}.</ref>}}
+
+==Bibliography==
+* {{Citation | last = Holtsmark| first = Erling B | title = Edgar Rice Burroughs | publisher = Twain | location = Boston | year = 1986 | ISBN = 0-8057-7459-9}}
+
+==External links==
+{{sister project links|author=yes|wikt=no|n=no|b=no|v=no|d=Q148234}}
+* {{official website |http://www.edgarriceburroughs.com/}}
+
+===Bibliography===
+* {{Gutenberg author |id=Burroughs,+Edgar+Rice | name=Edgar Rice Burroughs}}
+** [http://gutenberg.net.au/plusfifty-a-m.html#burroughs Works by Edgar Rice Burroughs] at [http://gutenberg.net.au Project Gutenberg Australia] and at [http://www.gutenberg.org The Gutenberg Project] for free; the latter books are listed at [http://www.gutenberg.org/browse/authors/b#a48 Edgar Rice Burroughs at The Gutenberg Project]
+* {{Internet Archive author |sname=Edgar Rice Burroughs}}
+* {{Librivox author |id=698}}
+* [http://scifan.com/writers/bb/BurroughsEdgar.asp Bibliography] on [[SciFan]]
+* {{isfdb name|143}}
+* [[wikilivres:Edgar Rice Burroughs|Works by Edgar Rice Burroughs]]
+* {{Citation | url = https://sites.google.com/site/erburroughsuk1steditions/ | title = ER Burroughs 1st UK editions list with pictures of the books | publisher = Google}}.
+
+===Other===
+* {{sfhof |1061 |Edgar Rice Burroughs}}
+* Free podcasts of the Mars books at ''[http://marsbooks.libsyn.com/ The Fantastic Worlds of Edgar Rice Burroughs]''
+* [http://www.tarzan.com/ Tarzan.com]
+* [http://www.tarzan.org/ Tarzan.org]
+* [http://www.ERBzine.com/ ERBzine.com]
+* [http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=152 Edgar Rice Burroughs] at [[Find A Grave]]
+
+{{Burroughs (books)|state=expanded}}
+{{Tarzan}}
+{{Barsoom}}
+{{Caspak trilogy}}
+
+{{Authority control}}
+
+{{Persondata
+| NAME              = Burroughs, Edgar Rice
+| ALTERNATIVE NAMES = Bean, Normal (pseud.); Bean, Norman (pseud.)
+| SHORT DESCRIPTION = American novelist
+|DATE OF BIRTH    = September 1, 1875
+|PLACE OF BIRTH   = Chicago, Illinois, USA
+|DATE OF DEATH    = March 19, 1950
+|PLACE OF DEATH   = Encino, California, USA
+}}
+{{DEFAULTSORT:Burroughs, Edgar Rice}}
+[[Category:Edgar Rice Burroughs| ]]
+[[Category:1875 births]]
+[[Category:1950 deaths]]
+[[Category:People from Tarzana, Los Angeles]]
+[[Category:American fantasy writers]]
+[[Category:American science fiction writers]]
+[[Category:Writers from California]]
+[[Category:Writers from Oak Park, Illinois]]
+[[Category:Phillips Academy alumni]]
+[[Category:Pulp fiction writers]]
+[[Category:Science Fiction Hall of Fame inductees]]
+[[Category:United States Army soldiers]]
+[[Category:Writers from Chicago, Illinois]]
+[[Category:American people of English descent]]
+[[Category:20th-century American novelists]]
+[[Category:American male novelists]]

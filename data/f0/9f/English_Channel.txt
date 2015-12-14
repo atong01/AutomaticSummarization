@@ -1,0 +1,509 @@
+{{Redirect|La Manche}}
+{{For|the racehorse|English Channel (horse)}}
+{{Use British English|date=August 2013}}
+{{Use dmy dates|date=August 2013}}
+{{Infobox body of water
+|name = English&nbsp;Channel
+|image = EnglishChannel.jpg
+|caption =
+|image_bathymetry =
+|caption_bathymetry=
+|location = [[Atlantic&nbsp;Ocean]]
+|coords =
+|type =
+|inflow = [[River&nbsp;Exe]], [[River&nbsp;Seine]], [[River&nbsp;Test]], [[River&nbsp;Tamar]], [[River&nbsp;Somme]]
+|outflow =
+|catchment =
+|basin_countries = [[United Kingdom]]<br>[[France]]<br>[[Guernsey]]<br>[[Jersey]]
+|length_km=560
+|width_km=240
+|area_km2=75000
+|depth_m=63
+|max-depth = {{convert|174|m|ft|abbr=on}} <br/> at [[Hurd's Deep]]
+|volume_km3=
+|residence_time =
+|temperature_high_C=15
+|temperature_low_C=5
+|salinity =3.4–3.5%
+|shore =
+|islands = [[Île&nbsp;de&nbsp;Bréhat]], [[Île&nbsp;de&nbsp;Batz]], [[Chausey]], [[Tatihou]], [[Îles Saint-Marcouf]], [[Isle&nbsp;of&nbsp;Wight]], [[Jersey]], [[Guernsey]], [[Alderney]], [[Sark]], [[Herm]]
+|cities = [[Bournemouth]], [[Brighton]], [[Plymouth]], [[Portsmouth]], [[Poole]], [[Le&nbsp;Havre]]
+|trenches =
+|benches =
+|frozen =
+|reference=
+}}
+
+The '''English Channel''' ({{lang-fr|Manche}}, "Sleeve"; {{lang-br|Mor Breizh}}, "Bretons Sea"; {{lang-kw|Mor Bretannek}}, "British Sea"), also called simply '''the Channel''', is the body of water that separates southern [[England]] from northern [[France]], and joins the southern part of the [[North Sea]] to the [[Atlantic Ocean]]. The name "English Channel" is mostly used in English-speaking countries and on English-language charts.
+
+It is about {{convert|560|km|abbr=on}} long and varies in width from {{convert|240|km|abbr=on}} at its widest to {{convert|33.1|km|abbr=on}} in the [[Strait of Dover]].<ref name="Columbia">"English Channel". ''The Columbia Encyclopedia'', 2004.</ref> It is the smallest of the shallow seas around the continental shelf of Europe, covering an area of some {{convert|75000|km2|abbr=on}}.<ref name="eb">"English Channel." ''Encyclopædia Britannica'' 2007.</ref>
+
+== Geography ==
+[[File:English Channel.jpg|thumb|Map of the English Channel]]
+{{anchor|Bay of the Seine}} <!-- term redirect to section -->
+The [[International Hydrographic Organization]] defines the limits of the English Channel as follows:<ref name=IHO>{{cite web|url=http://www.iho-ohi.net/iho_pubs/standard/S-23/S23_1953.pdf|title=Limits of Oceans and Seas, 3rd edition + corrections|year=1971|publisher=International Hydrographic Organization|accessdate=25 September 2010|pages=42 [corrections to page 13] and 6}}</ref>
+
+::''On the West.'' A line joining [[Isle Vierge]] ({{Coord|48|38|23|N|4|34|13|W|display=inline}}) to [[Land's End|Lands End]] ({{Coord|50|04|N|5|43|W|display=inline}}).
+::''On the East.'' The Southwestern limit of the [[North Sea]].
+
+The IHO defines the southwestern limit of the North Sea as "a line joining the Walde 
+Lighthouse (France, 1°55'E) and Leathercoat Point (England, 51°10'N)".<ref name=IHO/> The Walde Lighthouse is 6&nbsp;km east of [[Calais]] ({{Coord|50|59|06|N|1|55|00|E|display=inline}}), and Leathercoat Point is at the north end of [[St Margaret's Bay, Kent]] ({{Coord|51|10|00|N|1|24|00|E|display=inline}}).
+
+The [[Strait of Dover]] (French: ''Pas de Calais''), at the Channel's eastern end is its narrowest point, while its widest point lies between [[Lyme Bay]] and the Gulf of [[Saint Malo]] near its midpoint.<ref name="Columbia"/> It is relatively shallow, with an average depth of about {{convert|120|m|ft|abbr=on}} at its widest part, reducing to a depth of about {{convert|45|m|ft|abbr=on}} between [[Dover]] and [[Calais]]. Eastwards from there the adjoining North Sea reduces to about {{convert|26|m|ft|abbr=on}} in the [[Broad Fourteens]] where it lies over the watershed of the former land bridge between [[East Anglia]] and the [[Low Countries]]. It reaches a maximum depth of {{convert|180|m|ft|abbr=on}} in the submerged valley of [[Hurds Deep]], {{convert|48|km|mi|abbr=on}} west-northwest of [[Guernsey]].<ref>"English Channel." ''The Hutchinson Unabridged Encyclopedia including Atlas.'' 2005.</ref>
+{{anchor|Bay of the Seine2}} <!-- term redirect to section -->
+The eastern region along the French coast between [[Cherbourg]] and the mouth of the [[Seine river]] at [[Le Havre]] is frequently referred to as the ''Bay of the Seine ({{lang-fr|link=no|Baie de Seine}})''.<ref>[[:File:Allied Invasion Force.jpg]] + [[commons:File:Carte de la Manche.png|French map of Channel]]</ref>
+
+[[File:Three French river mouths.JPG|thumb|Three French river mouths. Top to bottom: the [[River Somme|Somme]], the [[Authie (river)|Authie]] and the [[Canche]]]]
+There are several major islands in the Channel, the most notable being the [[Isle of Wight]] off the English coast, and the [[Channel Islands]], British [[Crown Dependencies]] off the coast of France. The [[Isles of Scilly]] off the far southwest coast of England are not generally counted as being in the Channel. The coastline, particularly on the French shore, is deeply indented; several small islands close to the coastline, including [[Chausey]] and [[Mont Saint-Michel]], are within French jurisdiction. The [[Cotentin Peninsula]] in France juts out into the Channel, whilst on the English side there is a small parallel channel known as the [[Solent]] between the Isle of Wight and the mainland. The [[Celtic Sea]] is to the west of the Channel.
+
+The Channel is of geologically recent origins, having been dry land for most of the [[Pleistocene]] period. It is thought to have been created between 450,000 and 180,000&nbsp;years ago by two catastrophic [[glacial lake outburst flood]]s caused by the breaching of the [[Weald–Artois anticline]], a ridge that held back a large [[proglacial lake]] in the [[Doggerland]] region, now submerged under the North Sea. The flood would have lasted for several months, releasing as much as one million cubic metres of water per second. The cause of the breach is not known but may have been an earthquake or the build-up of [[water pressure]] in the lake. The flood carved a large bedrock-floored valley down the length of the Channel, leaving behind streamlined islands and longitudinal erosional grooves characteristic of catastrophic [[megaflood]] events.{{r|Gupta Nature}}{{r|PhysToday}} It destroyed the isthmus that connected Britain to continental Europe, although a land bridge across the southern [[North Sea]] would have existed intermittently at later times after periods of [[glaciation]] resulted in lowering of sea levels.<ref>{{cite web |url=http://humanities.exeter.ac.uk/archaeology/research/projects/title,89282,en.html |title=The Doggerland project |author=Professor Bryony Coles |publisher=University of Exeter |accessdate=3 January 2011}}</ref>
+
+The Channel acts as a funnel that amplifies the tidal range from less than a metre as observed at sea to more than 6 metres as observed in the [[Channel Islands]], the west coast of the [[Cotentin Peninsula]] and the north cost of [[Britanny]]. The time difference of about 6 hours between high water at the eastern and western limits of the Channel are indicative of the tidal range being amplified further by [[resonance]].<ref>{{cite web
+|url = http://faculty.washington.edu/luanne/pages/ocean420/notes/tidedynamics.pdf
+|title = Tide Dynamics – Dynamic Theory of Tides.
+|publisher = University of Washington
+|first1 = LuAnne
+|last1 = Thompson
+|accessdate = 14 April 2013}}</ref>
+
+For the UK [[Shipping Forecast]] the Channel is divided into the following areas, from the west:
+* [[Plymouth]]
+* [[Isle of Portland|Portland]]
+* [[Isle of Wight|Wight]]
+* [[Dover]]
+
+== Name ==
+[[File:Carte de la Manche.png|right|thumb|Map with French nomenclature]]
+The name ''English Channel'' has been widely used since the early 18th century, possibly originating from the designation {{lang|nl|''Engelse Kanaal''}} in Dutch sea maps from the 16th century onwards. In modern Dutch, however, it is known as {{lang|nl|''Het Kanaal''}} (with no reference to the word "English").<ref>{{cite web
+|url = http://taaladvies.net/taal/aardrijkskundige_namen/land/UK
+|title = Buitenlandse Aardrijkskundige Namen
+|language = Dutch
+|trans_title = Foreign Geographical Names
+|publisher = Nederlandse Taalunie 
+|year = 2012
+|accessdate = 1 December 2012}}</ref> Later, it has also been known as the ''British Channel''<ref>{{cite web|url=http://www.davidrumsey.com/maps6489.html |title=A chart of the British Channel, Jefferys, Thomas, 1787 |publisher=Davidrumsey.com |date=22 February 1999 |accessdate=27 April 2010}}</ref> or the ''British Sea'' having been called the {{lang|la|''Oceanus Britannicus''}} by the 2nd-century geographer [[Ptolemy]]. The same name is used on an Italian map of about 1450, which gives the alternative name of {{lang|it|''canalites Anglie''}}—possibly the first recorded use of the ''Channel'' designation.<ref>{{cite web |url=http://www.bl.uk/onlinegallery/onlineex/unvbrit/m/001hrl000003686u00013000.html |title=Map Of Great Britain, Ca. 1450 |date=26 March 2009 |work=The unveiling of Britain |publisher=[[British Library]] |accessdate=1 November 2013 |quote=This may also be the first map to name the English Channel: "britanicus oceanus nunc canalites Anglie"}}</ref> The Anglo-Saxon texts often call it ''Sūð-sǣ'' ("South Sea") as opposed to ''Norð-sǣ'' ("North Sea" = [[Bristol Channel]]). The word ''channel'' was first recorded in Middle English in the 13th century and was borowed from Old French ''chanel'', variant form of ''chenel'' "canal".
+
+The French name {{lang|fr|''la Manche''}} has been in use since at least the 17th century.<ref name="eb"/> The name is usually said to refer to the Channel's sleeve ({{lang-fr|link=no|la manche}}) shape. However, it is sometimes claimed to derive from a [[Celtic languages|Celtic]] word meaning ''channel'' that is also the source of the name for [[the Minch]] in Scotland.<ref>Room A. ''Placenames of the world: origins and meanings'', p. 6.</ref>
+
+In Spain and most Spanish-speaking countries the Channel is referred to as {{lang|es|''el Canal de la Mancha''}}. In Portuguese it is known as {{lang|pt|''Canal da Mancha''}}. This is not a translation from French: in Portuguese and Spanish, {{lang|es|''mancha''}} means ''stain'', while the word for sleeve is {{lang|es|''manga''}} – which suggests either a phonetic borrowing from French or a common source.{{citation needed|date=July 2012}} In Catalan, the usual form is borrowed from French regarding the meaning (''{{lang|ca|Canal de la Mànega}}'', where ''mànega'' means "sleeve").{{Citation needed|date=February 2015}} Other languages also use this name, such as [[Greek language|Greek]] ({{lang|el|''Κανάλι της Μάγχης''}}) and Italian ({{lang|it|''la Manica''}}). The German name is {{lang|de|''Ärmelkanal''}}, literally ''sleeve-channel'', or more generally {{lang|de|''Atlantik''}}.
+
+The name in Breton (''Mor Breizh'') means "Breton Sea", and its Cornish name (''Mor Bretannek'') means "British Sea".
+
+== History ==
+Before the end of the [[Devensian glaciation]] (the most recent [[ice age]] that ended around 10,000 years ago), [[Great Britain|Britain]] and [[Ireland]] were part of [[continental Europe]], linked by an unbroken [[Weald-Artois Anticline]], which acted as a natural dam that held back a large freshwater [[pro-glacial lake]] in the [[Doggerland]] region, now submerged under the [[North Sea]]. During this period the North Sea and almost all of the British Isles were covered with ice. The lake was fed by meltwater from the Baltic and from the Caledonian and Scandinavian [[ice sheet]]s that joined to the north, blocking its exit. The sea level was about {{convert|120|m|ft|abbr=on}} lower than it is today. Then, more than 200,000 years ago a single catastrophic [[glacial lake outburst flood]] overtopped the Weald-Artois Anticline and scoured a channel through an expanse of low-lying [[tundra]], right down to the underlying chalk bedrock. In a study published in 2007<ref>[http://www.nature.com/nature/journal/v448/n7151/abs/nature06018.html Sanjeev Gupta ''et al.'' "Catastrophic flooding origin of shelf valley systems in the English Channel" ''Nature''448, 342–345 (19 July 2007)  (abstract)]</ref><ref>[http://www.sciencedaily.com/releases/2007/07/070718140833.htm "Catastrophic Flooding Changed The Course Of British History"], ''Science Daily'' (19 July 2007).</ref> high-resolution [[sonar]] revealed the unexpectedly well-preserved scourmarks and the telltale lenticular island forms characteristic of torrential flood. Through the scoured channel passed a river which now drained the combined [[Rhine]] and [[Thames]] towards the Atlantic to the west. As the [[ice sheet]] melted, a large freshwater lake formed in the southern part of what is now the North Sea. As the [[meltwater]] could still not escape to the north (as the northern North Sea was still frozen) the outflow channel from the lake entered the Atlantic Ocean in the region of Dover and Calais.
+{{Quote box
+|width=25%
+|align=right
+|quote=This precious stone set in the silver sea,<br />Which serves it in the office of a wall<br />Or as a moat defensive to a house,<br />Against the envy of less happier lands.
+|source= [[William Shakespeare]], ''[[Richard II (play)|Richard II]]'' (Act II, Scene 1)
+}}
+The Channel, which delayed human reoccupation of Great Britain for more than 100,000 years,<ref>" Researchers speculate that the flooding induced changes in topography creating barriers to migration which led to a complete absence of humans in Britain 100,000 years ago." (''ScienceDaily'' (19 July 2007).</ref> has in historic times been both an easy entry for seafaring people and a key natural defence, halting invading armies while in conjunction with control of the North Sea allowing Britain to blockade the continent.{{Citation needed|date=December 2009}} The most significant failed invasion threats came when the Dutch and Belgian ports were held by a major continental power, e.g. from the [[Spanish Armada]] in 1588, [[Napoleon I of France|Napoleon]] during the [[Napoleonic Wars]], and [[Nazi Germany]] during [[World War II]]. Successful invasions include the [[Roman conquest of Britain]], the [[Norman Conquest]] in 1066 and the [[Glorious Revolution|invasion]] by the Dutch in 1688, while the concentration of excellent harbours in the Western Channel on Britain's south coast made possible the largest invasion of all time, the [[Normandy Landings]] in 1944. Channel [[list of naval battles|naval battles]] include the [[Battle of the Downs]] (1639), [[Battle of Goodwin Sands]] (1652), the [[Battle of Portland]] (1653), the [[Battle of La Hougue]] (1692) and the engagement between [[USS Kearsarge (1861)|USS ''Kearsarge'']] and [[CSS Alabama|CSS ''Alabama'']] (1864).
+
+In more peaceful times the Channel served as a link joining shared cultures and political structures, particularly the huge [[Angevin Empire]] from 1135 to 1217. For nearly a thousand years, the Channel also provided a link between the [[Modern Celts|Modern Celtic]] regions and languages of [[Cornwall]] and [[Brittany]]. Brittany was founded by [[Ancient Britons|Britons]] who fled [[Cornwall]] and [[Devon]] after Anglo-Saxon encroachment. In Brittany, there is a region known as "[[Cornouaille]]" (Cornwall) in French and "Kernev" in [[Breton language|Breton]]<ref>cf. "Kernow", the Cornish for Cornwall.</ref> In ancient times there was also a "[[Domnonia]]" (Devon) in Brittany as well.
+
+In February 1684 {{small|([[Old Style and New Style dates|New style]])}}, ice formed on the sea in a belt {{convert|3|mi}} wide off the coast of [[Kent]] and {{convert|2|mi}} wide on the French side.<ref>[https://books.google.com/books?id=w0pAEI6AWLgC&pg=PA46&lpg=PA46&dq=1684+channel+ice&source=bl&ots=Md4yEs4n4U&sig=FGTVc3FnwOv5wGz-q6YJduG7PS0&hl=en&ei=Gr_4TJSnOJK1hAfAufihCQ&sa=X&oi=book_result&ct=result&resnum=3&ved=0CCMQ6AEwAg#v=onepage&q=1684%20channel%20ice&f=false Hermann Flohn, Roberto Fantechi, ''The Climate of Europe, past, present, and future'', 1984, ISBN 90-277-1745-1, p.46]</ref><ref>[http://www.pastpresented.info/frost1683.htm PastPresented,info: The Great Frost of 1683–4]</ref>
+
+=== Route to the British Isles ===
+[[File:North sea languages 900.png|right|thumb|The approximate extent of Old Norse and related languages in the early 10th century around the North Sea. The red area is the distribution of the dialect [[Old West Norse#Old West Norse|Old West Norse]], the orange area [[Old East Norse]], and the green area the other Germanic languages with which Old Norse still retained some mutual intelligibility.]]
+
+Remnants of a [[mesolithic]] boatyard have been found on the [[Isle of Wight]]. Wheat was traded across the Channel about 8,000 years ago.<ref>{{cite journal|last1=Balter|first1=Michael|title=DNA recovered from underwater British site may rewrite history of farming in Europe|journal=Science|date=2015-02-26|url=http://news.sciencemag.org/archaeology/2015/02/dna-recovered-underwater-british-site-may-rewrite-history-farming-europe?intcmp=highwire}}</ref><ref>{{cite journal|last1=Larson|first1=Greger|title=How wheat came to Britain|journal=Science|date=2015-02-26|url=http://www.sciencemag.org/content/347/6225/945.summary}}</ref> "... Sophisticated social networks linked the [[Neolithic]] front in southern Europe to the [[Mesolithic]] peoples of northern Europe." The [[Ferriby Boats]], [[Hanson Log Boat]]s and the later [[Dover Bronze Age Boat]] could carry a substantial cross-Channel cargo.<ref>{{cite journal|last1=Smith|first1=Oliver|last2=Momber|first2=Garry|last3=Bates|first3=Richard|last4=Garwood|first4=Paul|title=Sedimentary DNA from a submerged site reveals wheat in the British Isles 8000 years ago|journal=Science|date=2015-02-27|volume=347|issue=6225|pages=998–1001|url=http://www.sciencemag.org/content/347/6225/998|bibcode = 2015Sci...347..998S |doi = 10.1126/science.1261278 }}</ref>
+
+[[Diodorus Siculus]] and Pliny<ref>{{cite web|url=http://www.history-compass.com/images/store/HICO/chapters/523.pdf |title=History Compass |publisher=History Compass |accessdate=27 April 2010 |deadurl=yes |archiveurl=https://web.archive.org/20090419084640/http://www.history-compass.com:80/images/store/HICO/chapters/523.pdf |archivedate=19 April 2009 }}</ref> both suggest trade between the rebel Celtic tribes of [[Armorica]] and [[Iron Age]] Britain flourished. In 55 BC [[Julius Caesar]] invaded, claiming that the Britons had aided the [[Veneti (Gaul)|Veneti]] against him the previous year. He was more successful in 54 BC, but Britain was not fully established as part of the Roman Empire until completion of the invasion by [[Aulus Plautius]] in 43 AD. A brisk and regular trade began between ports in Roman [[Gaul]] and those in Britain. This traffic continued until the [[end of Roman rule in Britain]] in 410 AD, after which the [[History of Anglo-Saxon England|early Anglo-Saxons]] left less clear historical records.
+
+In the power vacuum left by the retreating Romans, the Germanic [[Angles]], [[Saxons]], and [[Jutes]] began the next great migration across the North Sea. Having already been used as mercenaries in Britain by the Romans, many people from these tribes crossed during the [[Migration Period]], conquering and perhaps displacing the native [[Celt]]ic populations.<ref>{{cite web
+| title =Germany The migration period
+| url =http://www.britannica.com/eb/article-58084/Germany
+| accessdate = 24 July 2007}}</ref>
+
+=== Norsemen and Normans ===
+[[File:Hermitage St Helier Jersey.jpg|thumb|left|The Hermitage of [[Helier|St Helier]] lies in the bay off [[Saint Helier]] and is accessible on foot at low tide.]]
+
+The attack on [[Lindisfarne]] in 793 is generally considered the beginning of the [[Viking Age]]. For the next 250&nbsp;years the Scandinavian raiders of Norway, Sweden, and Denmark dominated the North Sea, raiding monasteries, homes, and towns along the coast and along the rivers that ran inland. According to the ''[[Anglo-Saxon Chronicle]]'' they began to settle in Britain in 851. They continued to settle in the [[British Isles]] and the continent until around 1050.<ref>{{cite web
+| last =Nick Attwood MA
+| title =The Holy Island of Lindisfarne – The Viking Attack
+| url =http://www.lindisfarne.org.uk/793/index.htm
+| accessdate = 24 July 2007}}</ref>
+
+The [[Duchy of Normandy|fiefdom of Normandy]] was created for the [[Viking]] leader [[Rollo of Normandy|Rollo]] (also known as Robert of Normandy). Rollo had besieged Paris but in 911 entered [[vassal]]age to the king of the [[Western Francia|West Franks]] [[Charles the Simple]] through the [[Treaty of St.-Claire-sur-Epte]]. In exchange for his [[Homage (feudal)|homage]] and [[fealty]], Rollo legally gained the territory he and his Viking allies had previously conquered. The name "Normandy" reflects Rollo's Viking (i.e. "Northman") origins.
+
+The descendants of Rollo and his followers adopted the local [[Gallo-Romance languages|Gallo-Romance language]] and intermarried with the area's inhabitants and became the [[Normans]] – a [[Norman language|Norman French]]-speaking mixture of [[Scandinavia]]ns, [[Hiberno-Norse]], [[Orkney|Orcadians]], [[Danelaw|Anglo-Danish]], and indigenous [[Franks]] and [[Gauls]].
+
+Rollo's descendant [[William I of England|William, Duke of Normandy]] became king of England in 1066 in the [[Norman Conquest]] beginning with the [[Battle of Hastings]], while retaining the fiefdom of Normandy for himself and his descendants. In 1204, during the reign of [[John of England|King John]], mainland Normandy was taken from England by France under [[Philip II of France|Philip II]], while insular Normandy (the [[Channel Islands]]) remained under English control. In 1259, [[Henry III of England]] recognised the legality of French possession of mainland Normandy under the [[Treaty of Paris (1259)|Treaty of Paris]]. His successors, however, often fought to regain control of mainland Normandy.
+
+With the rise of [[William the Conqueror]] the North Sea and Channel began to lose some of their importance. The new order oriented most of England and Scandinavia's trade south, toward the [[Mediterranean]] and the Orient.
+
+Although the British surrendered claims to mainland Normandy and other French possessions in 1801, the monarch of the United Kingdom retains the title Duke of Normandy in respect to the Channel Islands. The Channel Islands (except for [[Chausey]]) are [[Crown dependency|Crown dependencies]] of the [[The Crown|British Crown]]. Thus the [[Loyal toast]] in the Channel Islands is ''La Reine, notre Duc'' ("The Queen, our Duke"). The British monarch is understood to ''not'' be the Duke of Normandy in regards of the French region of Normandy described herein, by virtue of the [[Treaty of Paris (1259)|Treaty of Paris of 1259]], the surrender of French possessions in 1801, and the belief that the rights of succession to that title are subject to [[Salic Law]] which excludes inheritance through female heirs.
+
+French Normandy was occupied by English forces during the [[Hundred Years' War]] in 1346–1360 and again in 1415–1450.
+
+=== England and Britain: Naval superpower ===
+From the reign of [[Elizabeth I]], English foreign policy concentrated on preventing invasion across the Channel by ensuring no major European power controlled the potential Dutch and Flemish invasion ports. Her climb to the pre-eminent [[sea power]] of the world began in 1588 as the attempted invasion of the [[Spanish Armada]] was defeated by the combination of outstanding naval tactics by the English and the Dutch under command of [[Charles Howard, 1st Earl of Nottingham]] with [[Sir Francis Drake]] second in command, and the following stormy weather. Over the centuries the [[Royal Navy]] slowly grew to be the most powerful in the world.<ref>{{cite web
+| last =britishbattles.com
+| title =The Spanish Armada: Sir Francis Drake
+| year =2007
+| url =http://www.britishbattles.com/spanish-war/spanish-armada.htm
+| accessdate = 24 July 2007}}</ref>
+
+The building of the [[British Empire]] was possible only because the [[Royal Navy]] eventually managed to exercise unquestioned control over the seas around Europe, especially the Channel and the North Sea. During the [[Seven Years' War]], France attempted to [[Planned French Invasion of Britain (1759)|launch an invasion of Britain]]. To achieve this France needed to gain control of the Channel for several weeks, but was thwarted following the British naval victory at the [[Battle of Quiberon Bay]] in 1759.
+
+Another significant challenge to British domination of the seas came during the [[Napoleonic Wars]]. The [[Battle of Trafalgar]] took place off the coast of Spain against a combined French and Spanish fleet and was won by Admiral [[Horatio Nelson, 1st Viscount Nelson|Horatio Nelson]], ending [[Napoleon I of France|Napoleon]]'s plans for a cross-Channel invasion and securing British dominance of the seas for over a century.
+
+=== First World War ===
+The exceptional strategic importance of the Channel as a tool for blockade was recognised by the First Sea Lord [[John Fisher, 1st Baron Fisher|Admiral Fisher]] in the years before [[World War I]]. "Five keys lock up the world! Singapore, the Cape, [[Alexandria]], Gibraltar, Dover."<ref>{{Cite book| author=Geoffrey Miller| url=http://www.manorhouse.clara.net/book3/chapter2.htm| title=The Millstone: Chapter 2| accessdate=1 November 2008}} quoting Fisher, ''Naval Necessities I'', p. 219</ref> However, on 25 July 1909 [[Louis Blériot]] successfully made the first Channel crossing from [[Calais]] to [[Dover]] in an aeroplane. Blériot's crossing signalled the end of the Channel as a barrier-moat for England against foreign enemies.
+
+Because the [[Kaiserliche Marine]] surface fleet could not match the British Grand Fleet, the [[Germany|Germans]] developed [[submarine warfare]], which was to become a far greater threat to Britain. The [[Dover Patrol]] was set up just before war started to escort cross-Channel troopships and to prevent submarines from accessing the Channel, thereby obliging them to travel to the Atlantic via the much longer route around [[Scotland]].
+
+On land, the German army attempted to capture Channel ports (see "[[Race to the Sea]]"), but although the trenches are often said to have stretched "from the frontier of Switzerland to the English Channel", they reached the coast at the North Sea. Much of the British war effort in [[Flanders]] was a bloody but successful strategy to prevent the Germans reaching the Channel coast.
+
+At the outset of the war, an attempt was made to block the path of [[U-boat]]s through the Dover Strait with [[naval mine]]fields. By February 1915, this had been augmented by a 25 kilometre stretch of light steel netting called the [[Dover Barrage]], which it was hoped would ensnare submerged submarines. After initial success, the Germans learned how to pass through the barrage, aided by the unreliability of British mines.<ref>[http://www.firstworldwar.com/atoz/doverbarrage.htm firstworldwar.com – Encyclopedia – The Dover Barrage]</ref> 31 January 1917, the Germans restarted [[unrestricted submarine warfare]] leading to dire Admiralty predictions that submarines would defeat Britain by November,<ref>{{cite web| url=http://www.germannotes.com/hist_ww1_uboat.shtml| title=U-Boat warfare at the Atlantic during World War I| publisher=German Notes| accessdate=1 November 2008 |archiveurl = https://web.archive.org/web/20080612084614/http://www.germannotes.com/hist_ww1_uboat.shtml <!-- Bot retrieved archive --> |archivedate = 12 June 2008}}</ref> the most dangerous situation Britain faced in either World War.
+
+The [[Battle of Passchendaele]] in 1917 was fought to reduce the threat by capturing the submarine bases on the Belgian coast, though it was the introduction of [[convoy]]s and not capture of the bases that averted defeat. In April 1918 the [[Dover Patrol]] carried out the famous [[Zeebrugge Raid]] against the [[U-boat]] bases. During 1917, the Dover Barrage was re-sited with improved mines and more effective nets, aided by regular patrols by small warships equipped with powerful searchlights. A German attack on these vessels resulted in the [[Battle of Dover Strait (1917)|Battle of Dover Strait in 1917]].<ref>[https://books.google.com/books?id=E_TE_ARPXdMC&pg=PA74&dq=%22Dover+Barrage%22+1917&hl=en&sa=X&ei=mPqnT6ayB6WX0QXlrJmlBg&ved=0CDQQ6AEwAA#v=onepage&q=%22Dover%20Barrage%22%201917&f=false Robert M. Grant, U-Boats Destroyed: The Effect of Anti-Submarine Warfare 1914–1918, Periscope Publishing Ltd 2002, ISBN 1-904381-00-6 (pp. 74–75)]</ref> A much more ambitious attempt to improve the barrage by installing eight massive concrete towers across the strait was called the [[Admiralty M–N Scheme]], but only two towers were nearing completion at the end of the war and the project was abandoned.<ref>[http://www.sotonwss.org.uk/blackjack/Sep09BJ.pdf ''Black Jack'' (Quarterly Magazine Southampton Branch World Ship Society) Issue No: 152 Autumn 2009: (p.6) SHOREHAM TOWERS – One of the Admiralty’s greatest engineering secrets, Reproduced from Engineering & Technology IET Magazine May 2009]</ref>
+
+The naval blockade in the Channel and North Sea was one of the decisive factors in the German defeat in 1918.<ref>{{cite web| url=http://uboat.net/history/wwi/part6.htm| title=His Imperial German Majesty's U-boats in WWI: 6. Finale| publisher=uboat.net| accessdate=13 September 2009}}</ref>
+
+=== Second World War ===
+[[File:UK Radar1940.JPG|thumb|left|British radar facilities during the [[Battle of Britain]] 1940]]
+
+During the [[Second World War]], naval activity in the [[European Theatre of World War II|European theatre]] was primarily [[Battle of the Atlantic (1939–1945)|limited to the Atlantic]]. During the [[Battle of France]] in May 1940, the Germans succeeded in capturing both [[Battle of Boulogne (1940)|Boulogne]] and [[Siege of Calais (1940)|Calais]], thereby threatening the line of retreat for the [[British Expeditionary Force (World War II)|British Expeditionary Force]]. By a combination of hard fighting and German indecision, the port of [[Dunkirk]] was kept open allowing 338,000 Allied troops to be evacuated in [[Operation Dynamo]]. More than 11,000 were evacuated from [[Le Havre]] during [[Operation Cycle]]<ref>{{cite web|url=http://www.historyofwar.org/articles/operation_cycle.html |title=Operation Cycle, the evacuation from Havre, 10-13 June 1940|accessdate=2 July 2014}}</ref> and a further 192,000 were evacuated from ports further down the coast in [[Operation Ariel]] in June 1940.<ref>[http://www.historyofwar.org/articles/operation_aerial.html Operation Aerial, the evacuation from north western France, 15–25 June 1940]. Historyofwar.org. Retrieved on 29 July 2013.</ref> The early stages of the [[Battle of Britain]]<ref>{{cite web| url=http://www.bbc.co.uk/ww2peopleswar/timeline/factfiles/nonflash/a1057330.shtml?sectionId=2&articleId=1057330| title=Fact File: Battle of Britain| publisher=BBC| accessdate=1 November 2008}}</ref> featured air attacks on Channel shipping and ports, and until the [[Normandy Landings]] (with the exception of the [[Channel Dash]]) the narrow waters were too dangerous for major warships. Despite these early successes against shipping, the Germans did not win the [[air supremacy]] necessary for [[Operation Sealion]], the projected cross-Channel invasion.
+
+The Channel subsequently became the stage for an intensive coastal war, featuring submarines, [[minesweeper (ship)|minesweepers]], and [[Fast Attack Craft]].<ref>{{cite web
+| last = Campaigns of World War II
+| first = Naval History Homepage
+| title =Atlantic, WW2, U-boats, convoys, OA, OB, SL, HX, HG, Halifax, RCN ...
+| url =http://www.naval-history.net/WW2CampaignsStartEurope.htm
+| accessdate = 24 July 2007}}</ref>
+[[File:NormandyCourcelles2JM.jpg|thumb|150 mm Second World War German gun emplacement in Normandy]]
+[[File:German World War II tower Jersey.jpg|thumb|As part of the [[Atlantic Wall]], between 1940 and 1945 the occupying [[Wehrmacht|German forces]] and the [[Organisation Todt]] constructed fortifications round the coasts of the Channel Islands, such as this observation tower at Les Landes, Jersey.]]
+[[Dieppe, Seine-Maritime|Dieppe]] was the site of an ill-fated [[Dieppe Raid|raid]] by Canadian and British armed forces. More successful was the later [[Operation Overlord]] ([[D-Day]]), a massive invasion of [[Nazi Germany|German]]-occupied France by [[Allies of World War II|Allied]] troops. [[Caen]], [[Cherbourg]], [[Carentan]], [[Falaise, Calvados|Falaise]] and other Norman towns endured many casualties in the fight for the province, which continued until the closing of the so-called [[Falaise pocket|Falaise gap]] between [[Chambois]] and [[Montormel]], then liberation of [[Le Havre]].
+
+The Channel Islands were the only part of the [[Commonwealth of Nations|British Commonwealth]] [[Occupation of the Channel Islands|occupied by Germany]] (excepting the part of [[Egypt]] occupied by the [[Afrika Korps]] at the time of the [[Second Battle of El Alamein]], which was a protectorate and not part of the Commonwealth). The German occupation of 1940–1945 was harsh, with some island residents being taken for [[Unfree labour|slave labour]] on the Continent; native [[Jews]] sent to [[Nazi concentration camps|concentration camps]]; [[partisan (military)|partisan]] resistance and retribution; accusations of [[collaborationism|collaboration]]; and slave labour (primarily Russians and eastern Europeans) being brought to the islands to build [[fortification]]s.{{Citation needed|date=July 2010}} The [[Royal Navy]] [[blockade]]d the islands from time to time, particularly following the [[Invasion of Normandy|liberation of mainland Normandy]] in 1944. Intense negotiations resulted in some [[Red Cross]] humanitarian aid, but there was considerable hunger and privation during the occupation, particularly in the final months, when the population was close to starvation. The German troops on the islands surrendered on 9 May 1945, a few days after the final surrender in mainland Europe.
+
+== Population ==
+The English Channel is far more densely populated on the English shore. The most significant towns and cities along both the English and French sides of the Channel (each with more than 20,000 inhabitants, ranked in descending order; populations are the urban area populations from the 1999 French census, 2001 UK census, and 2001 [[Jersey]] census) are as follows:
+
+=== England ===
+[[File:Saintmalo.jpg|thumb|The walled city of [[Saint-Malo]] was a former stronghold of [[French corsairs|corsairs]].]]
+[[File:Spinnaker Tower - geograph.org.uk - 1255913.jpg|thumb|The [[Spinnaker Tower]], [[Portsmouth Harbour]]]]
+
+*[[Brighton]]–[[Worthing]]–[[Littlehampton]]: 461,181 inhabitants, made up of:
+**[[Brighton]]: 155,919
+**[[Worthing]]: 96,964
+**[[Hove]]: 72,335
+**[[Littlehampton]]: 55,716
+**[[Lancing, West Sussex|Lancing]]–[[Sompting]]: 30,360
+*[[Portsmouth]]: 442,252, including
+**[[Gosport]]: 79,200
+*[[Bournemouth]] & [[Poole]]: 383,713
+*[[Southampton]]: 304,400
+*[[Plymouth]]: 258,700
+*[[Torbay]] ([[Torquay]]): 129,702
+*[[Hastings]]–[[Bexhill-on-Sea|Bexhill]]: 126,386
+*[[Exeter]]: 119,600
+*[[Eastbourne]]: 106,562
+*[[Bognor Regis]]: 62,141
+*[[Folkestone]]–[[Hythe, Kent|Hythe]]: 60,039
+*[[Weymouth, Dorset|Weymouth]]: 56,043
+*[[Dover]]: 39,078
+*[[Walmer]]–[[Deal, Kent|Deal]]: 35,941
+*[[Exmouth, Devon|Exmouth]]: 32,972
+*[[Falmouth, Cornwall|Falmouth]]–[[Penryn, Cornwall|Penryn]]: 28,801
+*[[Ryde]]: 22,806
+*[[St Austell]]: 22,658
+*[[Seaford, East Sussex|Seaford]]: 21,851
+*[[Falmouth, Cornwall|Falmouth]]: 21,635
+*[[Penzance]]: 20,255
+
+=== France ===
+*[[Le Havre]]: 248,547 inhabitants
+*[[Calais]]: 104,852
+*[[Boulogne-sur-Mer]]: 92,704
+*[[Cherbourg]]: 42,318
+*[[Saint-Brieuc]]: 45,879
+*[[Saint-Malo]]: 50,675
+*[[Lannion]]–[[Perros-Guirec]]: 48,990
+*[[Dieppe, Seine-Maritime|Dieppe]]: 42,202
+*[[Morlaix]]: 35,996
+*[[Dinard]]: 25,006
+*[[Étaples]]–[[Le Touquet-Paris-Plage]]: 23,994
+*[[Fécamp]]: 22,717
+*[[Eu, Seine-Maritime|Eu]]–[[Le Tréport]]: 22,019
+*[[Trouville-sur-Mer]]–[[Deauville]]: 20,406
+
+=== Channel Islands ===
+*[[Saint Helier]], [[Jersey]]: 28,310 inhabitants
+*[[Saint Peter Port]], [[Guernsey]]: 16,488 inhabitants
+*[[Saint Anne, Alderney]]: 2,200 inhabitants
+*[[Sark]]: 600 inhabitants
+*[[Herm]]: 60 inhabitants
+
+== Shipping ==
+[[File:AIS Manche Est.png|thumb|right|[[Automatic Identification System]] display showing traffic in the Channel in 2006]]
+The Channel has traffic on both the UK-Europe and North Sea-Atlantic routes, and is the world's busiest seaway, with over 500 ships per day.<ref>{{cite web| url=http://www.mcga.gov.uk/c4mca/mcga07-home/emergencyresponse/mcga-searchandrescue/mcga-hmcgsar-sarsystem/channel_navigation_information_service__cnis_/the_dover_strait.htm| title=The Dover Strait, navigation rules| publisher=[[Maritime and Coastguard Agency]]| year=2007| accessdate=8 October 2008}}</ref> Following an accident in January 1971 and a series of disastrous collisions with wreckage in February,<ref>{{cite web| url=http://www.mcga.gov.uk/c4mca/mcga07-home/emergencyresponse/mcga-searchandrescue/mcga-hmcgsar-sarsystem/channel_navigation_information_service__cnis_/history_of_cnis.htm| title=History of CNIS| publisher=[[Maritime and Coastguard Agency]]| year=2007| accessdate=1 November 2008}}</ref> the Dover Traffic Separation System (TSS)<ref>{{cite web| url=http://www.mcga.gov.uk/c4mca/mcga07-home/emergencyresponse/mcga-searchandrescue/mcga-hmcgsar-sarsystem/channel_navigation_information_service__cnis_/dops_-_dover_strait_tss_chartlet.htm| title=Dover Strait TSS| publisher=[[Maritime and Coastguard Agency]]| accessdate=1 November 2008}}</ref> the world's first [[radar]] controlled TSS was set up by the [[International Maritime Organization]]. The scheme mandates that vessels travelling north must use the French side, travelling south the English side. There is a separation zone between the two lanes.<ref>{{cite web |url=http://www.worldmarineguide.com/marina/united-kingdom/uk-south-coast/article-english-channel |title=World Marine Guide – English Channel |accessdate=5 August 2011}}</ref>
+
+In December 2002 the [[MV Tricolor|MV ''Tricolor'']], carrying £30m of luxury cars sank {{convert|32|km|mi|abbr=on}} northwest of Dunkirk after collision in fog with the container ship ''Kariba''. The cargo ship ''Nicola'' ran into the wreckage the next day. There was no loss of life.{{Citation needed|date=November 2008}}
+
+The shore-based long range traffic control system was updated in 2003 and there is a series of Traffic Separation Systems in operation.<ref>[http://www.mcga.gov.uk/c4mca/mcga07-home/emergencyresponse/mcga-searchandrescue/mcga-hmcgsar-sarsystem/channel_navigation_information_service__cnis_/dops_-_dover_strait_tss_chartlet.htm Chartlets published by the Maritime and Coastguard Agency]</ref> Though the system is inherently incapable of reaching the levels of safety obtained from aviation systems such as the [[Traffic Collision Avoidance System]], it has reduced accidents to one or two per year.{{Citation needed|date=November 2008}}
+
+Marine [[GPS]] systems allow ships to be preprogrammed to follow navigational channels accurately and automatically, further avoiding risk of running aground, but following the fatal collision between Dutch Aquamarine and Ash in October 2001, Britain's [[Marine Accident Investigation Branch]] (MAIB) issued a safety bulletin saying it believed that in these most unusual circumstances GPS use had actually contributed to the collision.<ref>{{cite web| url=http://www.maib.gov.uk/cms_resources/SB_%202_2001_%20Ash_and_Dutch_Aquamarin.pdf| title=Safety Bulletin 2| year=2001| format=PDF| publisher=[[Marine Accident Investigation Branch]]| accessdate=1 November 2008}}</ref> The ships were maintaining a very precise automated course, one directly behind the other, rather than making use of the full width of the traffic lanes as a human navigator would.
+
+A combination of radar difficulties in monitoring areas near cliffs, a failure of a CCTV system, incorrect operation of the anchor, the inability of the crew to follow standard procedures of using a GPS to provide early warning of the ship dragging the anchor and reluctance to admit the mistake and start the engine led to the MV ''Willy'' running aground in Cawsand bay, [[Cornwall]] in January 2002. The MAIB report makes it clear that the harbour controllers were informed of impending disaster by shore observers before the crew were themselves aware.<ref>{{cite web| url=http://www.maib.gov.uk/cms_resources/willy.pdf| title=Report on the Investigation of the grounding of MV ''Willy''| format=PDF| publisher=[[Marine Accident Investigation Branch]]| date=October 2002| accessdate=1 November 2008}}</ref> The village of [[Kingsand]] was evacuated for three days because of the risk of explosion, and the ship was stranded for 11 days.<ref>{{Cite news| url=http://news.bbc.co.uk/1/hi/england/1742910.stm| title=Picture gallery: Cornwall's stranded tanker| publisher=BBC| date=5 January 2002| accessdate=1 November 2008 | location=London}}</ref><ref>{{Cite news| url=http://news.bbc.co.uk/1/hi/england/1745945.stm| date=6 January 2002| title=Salvage team hunts for leak| publisher=BBC| accessdate=1 November 2008 | location=London}}</ref><ref>{{Cite news| url=http://news.bbc.co.uk/1/hi/england/1759670.stm| title=Stranded tanker safe in port| date=14 January 2002| publisher=BBC| accessdate=1 November 2008 | location=London}}</ref>
+
+== Ecology ==
+As a busy shipping lane, the Channel experiences environmental problems following accidents involving ships with toxic cargo and oil spills.<ref>{{Cite news| url=http://news.bbc.co.uk/1/hi/world/europe/guernsey/4668664.stm| title=Tanker wreck starts leaking oil| date=1 February 2006| publisher=BBC| accessdate=1 November 2008 | location=London}}</ref> Indeed, over 40% of the UK incidents threatening pollution occur in or very near the Channel.<ref>{{cite web| url=http://www.mcga.gov.uk/c4mca/pacops_final_report_2006.pdf| title=Annual Survey of Reported Discharges| publisher=[[Maritime and Coastguard Agency]]| year=2006| accessdate=1 November 2008}}</ref> One of the most infamous was the [[MSC Napoli|MSC ''Napoli'']], which with nearly 1700&nbsp;tonnes of dangerous cargo was controversially beached in Lyme Bay, a protected World Heritage Site coastline.{{citation needed|reason=for infamous|date=January 2015}} The ship had been damaged and was en route to [[Portland Harbour]].
+
+== Transport ==
+[[File:Baie-du-Havre 14 07 2005.jpg|thumb|right|The beach of Le Havre and a part of the rebuilt city]]
+
+=== Ferry ===
+{{Main|Channel Ports}}
+The number of ferry routes crossing the [[Strait of Dover]] has reduced since the [[Channel Tunnel]] opened. Current cross-channel ferry routes are:
+*[[Port of Dover|Dover]]-[[Calais]]
+*Dover-[[Dunkirk]]
+*[[Newhaven, East Sussex|Newhaven]]-[[Dieppe, Seine-Maritime|Dieppe]]
+*[[Portsmouth]]-[[Ouistreham]]
+*Portsmouth-[[Cherbourg]]
+*Portsmouth-[[Le Havre]]
+*Portsmouth-Saint Malo
+*Portsmouth-[[Jersey]] & [[Guernsey]]
+*[[Poole]]-[[Saint Malo]]
+*Poole-Cherbourg
+*[[Weymouth, Dorset|Weymouth]]-Saint Malo
+*[[Plymouth]]-Roscoff
+
+=== Channel Tunnel ===
+{{main|Channel Tunnel}}
+Many travellers cross beneath the Channel using the Channel Tunnel, first proposed in the early 19th century and finally opened in 1994, connecting the UK and France by rail. It is now routine to travel between Paris or [[Brussels]] and London on the [[Eurostar train]]. Cars can also be carried on [[Eurotunnel Shuttle|special trains]] between [[Folkestone]] and [[Calais]].
+
+== Economy ==
+
+=== Tourism ===
+[[File:Le Mont Saint-Michel.jpg|thumb|The [[Mont Saint-Michel]] is one of the most visited and recognisable landmarks on the English Channel.]]
+
+The coastal resorts of the Channel, such as [[Brighton]] and [[Deauville]], inaugurated an era of aristocratic tourism in the early 19th century, which developed into the seaside tourism that has shaped resorts around the world.{{Citation needed|date=April 2015}} Short trips across the Channel for leisure purposes are often referred to as [[Booze cruise|Channel Hopping]].
+
+== Culture and languages ==
+[[File:Norman dictionary 1779 Kelham.jpg|right|thumb|Kelham's ''Dictionary of the Norman or Old French Language'' (1779), dealing with England's [[Law French]], a cross-Channel relic]]
+
+The two dominant cultures are English on the north shore of the Channel, French on the south. However, there are also a number of minority languages that are or were found on the shores and islands of the English Channel, which are listed here, with the Channel's name following them.
+
+;Celtic Languages
+* [[Breton language|Breton]] – "Mor Breizh" (Sea of Brittany)
+* [[Cornish language|Cornish]] – "Mor Bretannek"
+
+;Germanic languages
+* English
+* [[Dutch language|Dutch]] – "het Kanaal" (the Channel)
+* [[German language|German]] – "der Ärmelkanal" (the Sleeve Channel)
+
+Dutch previously had a larger range, and extended into parts of modern-day France. For more information, please see [[French Flemish]].
+
+;Romance languages
+* French – "La Manche"
+* [[Gallo language|Gallo]] – "Manche", "Grand-Mè", "Mè Bertone"<ref name=matao>{{cite book|last=Auffray|first=Régis|title=Le Petit Matao|year=2007|publisher=Rue des Scribes|isbn=2906064645}}</ref>
+* [[Norman language|Norman]], including the Channel Island vernaculars:
+** [[Anglo-Norman language|Anglo-Norman]] (extinct, but fossilised in certain English law phrases)
+** [[Auregnais]] (extinct)
+** [[Cotentinais]] – "Maunche"
+** [[Guernesiais]] – "Ch'nal"
+** [[Jèrriais]] – "Ch'na"
+** [[Sercquais]]
+* [[Picard language|Picard]]
+
+Most other languages tend towards variants of the French and English forms, but notably [[Welsh language|Welsh]] has "Môr Udd".
+
+== Channel crossings ==
+{{Refimprove section|date=January 2013}}
+As one of the narrowest and most well-known international waterways lacking dangerous currents, the Channel has been the first objective of numerous innovative sea, air, and [[human power]]ed crossing technologies.{{citation needed|date=May 2012}}
+Pre-historic people sailed from the mainland to England for millennia. At the end of the [[last glacial period|last Ice Age]], lower sea levels even permitted [[Doggerland|walking across]].<ref>[http://humanities.exeter.ac.uk/archaeology/research/projects/title,89282,en.html "The Doggerland Project", University of Exeter Department of Archaeology]</ref><ref name="usask">[http://geochemistry.usask.ca/bill/courses/Climate/Coastal%20catastrophe%20prt.pdf Patterson, W, "Coastal Catastrophe" (paleoclimate research document), University of Saskatchewan]</ref>
+
+=== By boat ===
+{| class="wikitable"
+!style="text-align:left"| Date
+!style="text-align:left"| Crossing
+!style="text-align:left"| Participant(s)
+!style="text-align:left"| Notes
+|-
+|  March 1816
+| the French paddle steamer ''[[Steam ship Élise|Élise]]'' (ex Scottish-built Margery or Margory) was the first steamer to cross the Channel.
+|
+|
+|-
+| 9 May 1816
+| Paddle steamer ''Defiance'', Captain William Wager, was the first steamer to cross the Channel to Holland<ref name="Mariner Mirror">{{cite journal |last=Dawson |first= Charles |title = P. S. Defiance, the first steamer to Holland, 9 May 1816 |journal= The Mariner's Mirror |publisher = The Society for Nautical Research |volume = 84 |issue=1|page=84|date=February 1998}}</ref>
+|
+|
+|-
+| 10 June 1821
+| Paddle steamer ''Rob Roy'', first passenger ferry to cross channel
+|
+| The steamer was purchased subsequently by the French postal administration and renamed ''Henri IV''.
+|-
+| June 1843
+| First ferry connection through Folkestone-Boulogne
+|
+| Commanding officer [[Captain Hayward]]
+|-
+| 25 July 1959
+| Hovercraft crossing (Calais to Dover, 2 hours 3 minutes)
+| [[SR-N1]]
+| [[Christopher Cockerell|Sir Christopher Cockerell]] was on board
+|-
+| 22 August 1972
+| First solo hovercraft crossing (same route as SR-N1; 2&nbsp;hours 20&nbsp;minutes)<ref>Verifiable in Hovercraft Club of Great Britain Records and Archives</ref>
+| Nigel Beale (UK)
+|
+|-
+| 1974
+| [[Coracle]] (13 and a half hours)
+| Bernard Thomas (UK)
+| As part of a publicity stunt, the journey was undertaken to demonstrate how the Bull Boats of the Mandan Indians of North Dakota could have been copied from Welsh coracles introduced by Prince Madog in the 12th century.<ref>{{cite web|url=http://www.britannia.com/celtic/wales/facts/facts7.html |title=Wales on Britannia: Facts About Wales & the Welsh |publisher=Britannia.com |accessdate=27 April 2010}}</ref>
+|-
+|14 September 1995
+|Fastest crossing by [[hovercraft]], 22 minutes by "Princess Anne"
+|MCH SR-N4 MkIII
+|Craft was designed as a ferry
+|-
+| 1997
+| First vessel to complete a [[solar-power]]ed crossing using [[photovoltaic cell]]s
+| SB ''Collinda''
+| —
+|-
+| 14 June 2004
+| New record time for crossing in amphibious vehicle (the [[Gibbs Aquada]], three-seater open-top [[sports car]])
+| [[Richard Branson]] (UK)
+| Completed crossing in 1 hour 40 minutes 6 seconds – previous record was 6 hours.{{Citation needed|date=January 2015}}
+|-
+| 26 July 2006
+| New record time for crossing in [[hydrofoil]] car (the [[Rinspeed Splash]], two-seater open-top [[sports car]])
+| Frank M. Rinderknecht (Switzerland)
+| Completed crossing in 3 hours 14 minutes<ref>{{cite web| url=http://www.autoblog.com/2006/07/27/rinspeed-splash-sets-english-channel-record/| title=Rinspeed "Splash" sets English Channel record| date=27 July 2006| author=Stuart Waterman| publisher=Autoblog| accessdate=1 November 2008}}</ref>
+|-
+| 25 September 2006
+| First crossing on a towed inflatable object (not a powered [[inflatable boat]])
+| Stephen Preston (UK)
+| Completed crossing in 180 min<ref>{{cite web| url=http://www.stupidsteve.co.uk/inflatable.html| title=Inflatable Drag| accessdate=1 November 2008}}</ref>
+|-
+| July 2007
+| BBC [[Top Gear (2002 TV Series)|Top Gear]] presenters "drive" to France in amphibious cars
+| [[Jeremy Clarkson]], [[Richard Hammond]], [[James May]] (UK)
+| Completed the crossing in a 1996 [[Nissan Hardbody Truck|Nissan D21]] pick-up (the "Nissank"), fitted with a Honda outboard engine.<ref name="imcdb.org">{{cite web|url=http://imcdb.org/vehicle_132991-Nissan-Pickup-D21-1996.html |title=1996 Nissan Truck [D21&#93; in "Top Gear, 2002–2010" |publisher=IMCDb.org |accessdate=27 April 2010}}</ref>
+|-
+|1960's
+|First crossing by [[water skiing|water ski]].
+|
+|An annual Cross Channel Ski Race was run from the Varne Boat Club from the 1960s onwards. The race was from the Varne club in Greatstone on Sea to Cap Gris Nez / Boulogne (latter years) and back. Many waterskiers have made this return crossing non stop since this time.{{Citation needed|date=August 2015}} Youngest known waterskier to cross the Channel was John Clements aged 10, from the Varne Boat Club on 22 August 1974 who made the crossing from Littlestone to Boulogne and back without falling.{{Citation needed|date=September 2015}}
+|-
+|20 August 2011
+|First Crossing by [[Sea Scooters]]
+|A four-man relay team from Scarborough, North Yorkshire, headed by Heath Samples, crossed from Shakespeare Beach to Wissant.{{Citation needed|date=January 2015}}
+|It took 12 hours 26 minutes 39 seconds and set a new Guinness World Record.
+|}
+Pierre Andriel crossed the English Channel aboard the ''[[Steam ship Élise|Élise]]'', ex the Scottish p.s. "Margery" in March 1816, one of the earliest seagoing voyages by [[steamboat|steam ship]].
+
+The paddle steamer ''Defiance'', Captain William Wager, was the first steamer to cross the Channel to Holland, arriving there on 9 May 1816.<ref name="Mariner Mirror"/>
+
+On 10 June 1821, English-built [[paddle steamer]] ''Rob Roy'' was the first passenger ferry to cross channel. The steamer was purchased subsequently by the French postal administration and renamed ''Henri IV'' and put into regular passenger service a year later. It was able to make the journey across the Straits of Dover in around three hours.<ref>[http://www.sailingandboating.co.uk/history-channel-ferry.html The History of the Channel Ferry]</ref>
+
+In June 1843, because of difficulties with Dover harbour, the South Eastern Railway company developed the [[Boulogne-sur-Mer]]-[[Folkestone]] route as an alternative to Calais-Dover. The first ferry crossed under the command of [[Captain Hayward]].<ref>[http://www.theotherside.co.uk/tm-heritage/background/ferries.htm] Channel ferries & ferry ports
+</ref>
+
+In 1974 a Welsh coracle piloted by Bernard Thomas of Llechryd crossed the English Channel to France in 13½ hours. The journey was undertaken to demonstrate how the [[Bull Boat]]s of the [[Mandan]] Indians of [[North Dakota]] could have been copied from coracles introduced by [[Prince Madog]] in the 12th century.<ref>[http://www.britannia.com/celtic/wales/facts/facts7.html Wales on Britannia: Facts About Wales & the Welsh<!-- Bot generated title -->]</ref><ref>{{cite web|last1=John|first1=Gilbert|title='Coracle king' to hang up paddle|url=http://news.bbc.co.uk/2/hi/uk_news/wales/south_west/7331209.stm|website=BBC News|publisher=BBC|accessdate=10 January 2015|date=5 April 2008}}</ref>
+
+The [[Mountbatten class hovercraft]] (MCH) entered commercial service in August 1968, initially between Dover and Boulogne but later also [[Ramsgate]] ([[Pegwell Bay]]) to Calais. The journey time Dover to Boulogne was roughly 35&nbsp;minutes, with six trips per day at peak times. The fastest crossing of the English Channel by a commercial car-carrying hovercraft was 22&nbsp;minutes, recorded by the ''Princess Anne'' MCH SR-N4 Mk3 on 14 September 1995,<ref>{{Cite news| url=http://news.bbc.co.uk/onthisday/hi/dates/stories/june/15/newsid_3025000/3025267.stm| title=Hovercraft deal opens show| publisher=BBC News| date=15 June 1966| accessdate=1 November 2008 | location=London}}</ref>
+
+===By air===
+{{Main|List of English Channel crossings by air}}
+The first aircraft to cross the Channel was a [[balloon (aircraft)|balloon]] in 1785, piloted by [[Jean-Pierre Blanchard|Jean Pierre François Blanchard]] (France) and [[John Jeffries]] (US).<ref name="EB">"[http://search.eb.com/eb/article-9015591 Blanchard, Jean-Pierre-François]." ''[[Encyclopædia Britannica]]'' Online. Retrieved 17 October 2009.</ref>
+
+[[Louis Blériot]] (France) piloted the first airplane to cross in 1909.
+
+=== By swimming ===
+{{Main|List of successful English Channel swimmers}}
+The sport of Channel swimming traces its origins to the latter part of the 19th century when Captain [[Matthew Webb]] made the first observed and unassisted swim across the Strait of Dover, swimming from England to France on 24–25 August 1875 in 21&nbsp;hours 45&nbsp;minutes.
+
+In 1927, at a time when fewer than ten swimmers had managed to emulate the feat and many dubious claims were being made, the [[Channel Swimming Association]] (CSA) was founded to authenticate and ratify swimmers' claims to have swum the Channel and to verify crossing times. The CSA was dissolved in 1999 and was succeeded by two separate organisations: [[CSA (Ltd)]] and the [[Channel Swimming and Piloting Federation]] (CSPF). Both observe and authenticate cross-Channel swims in the Strait of Dover. The Channel Crossing Association was set up at about this time to cater for unorthodox crossings.
+
+The team with the most number of Channel swims to its credit is the Serpentine Swimming Club in London,<ref>serpentineswimmingclub.com {{cite web| url=http://serpentineswimmingclub.com/long-distance-swimmers| title=Serpentine Swimming Club | accessdate=4 June 2015}}</ref> followed by the International [[Sri Chinmoy]] Marathon Team.<ref>srichinmoyraces.org {{cite web| url=http://www.srichinmoyraces.org/channel/channel_swimmers/channel_swimmers_list| title=Sri Chinmoy Marathon Team | accessdate=4 June 2015}}</ref>
+
+By the end of 2005, 811 people had completed 1,185 verified crossings under the rules of the CSA, the CSA (Ltd), the CSPF and Butlins.
+
+The number of swims conducted under and ratified by the Channel Swimming Association to 2005 was 982 by 665 people. This includes 24 two-way crossings and three three-way crossings.
+
+The number of ratified swims to 2004 was 948 by 675 people (456 men, 214 women). There have been 16 two-way crossings (9 by men and 7 by women). There have been three three-way crossings (2 by men and 1 by a woman). (It is unclear whether this last set of data is comprehensive or CSA only.)
+
+The Strait of Dover is the busiest stretch of water in the world. It is governed by International Law as described in ''Unorthodox Crossing of the Dover Strait Traffic Separation Scheme''.<ref>{{cite web| url=http://www.mcga.gov.uk/c4mca/mcga07-home/emergencyresponse/mcga-searchandrescue/mcga-hmcgsar-sarsystem/channel_navigation_information_service__cnis_/dops_-_all-sar_cnis_unorthodox_crossings.htm| title=Unorthodox Crossing of the Dover Strait Traffic Separation Scheme| publisher=[[Maritime and Coastguard Agency]]| accessdate=1 November 2008}}</ref> It states: "[In] exceptional cases the French Maritime Authorities may grant authority for unorthodox craft to cross French territorial waters within the Traffic Separation Scheme when these craft set off from the British coast, on condition that the request for authorisation is sent to them with the opinion of the British Maritime Authorities."
+
+The CCA, CSA, and CS&PF are the organisations escorting channel swims, because their pilots have the experience, qualifications, and equipment to guarantee the safety of the swimmers they escort.
+
+The fastest verified swim of the Channel was by the Australian [[Trent Grimsey]] on 8 September 2012, in 6 hours 55 minutes,<ref>[http://news.theage.com.au/breaking-news-sport/trent-grimsey-breaks-channel-swim-record-20120909-25lsh.html ''Trent Grimsey breaks channel swim record'', The Age, 13 September 2012]</ref><ref>[http://www.dover.uk.com/channelswimming/records.php Channel swimming records]</ref> beating the previous record set in 2007 by Bulgarian swimmer [[Petar Stoychev]].
+
+There may have been some unreported swims of the Channel, by people intent on entering Britain in circumvention of immigration controls. A failed attempt to cross the Channel by two Syrian refugees in October 2014 only came to light when their bodies were later discovered on the shores of the North Sea in Norway and the Netherlands.<ref>{{citation|title=The Wetsuitmen|
+first=Anders |last=Fjellberg   |url=http://www.dagbladet.no/spesial/vatdraktmysteriet/eng/ |year=2015}}</ref>
+
+=== By car ===
+On 16 September 1965, two Amphicars crossed from Dover to Calais. One was crewed by two British Army officers, Captain Mike Bailey REME and Captain Peter Tappenden RAOC, the other by Tim Dill-Russell and Sgt Joe Minto RASC. The crossing took 7 hours 20 minutes, with mid-Channel wind conditions reaching force 5 on the [[Beaufort scale]]. The cars went on to the Frankfurt Motor Show that year, where they were put on display.<ref>Autocar article entitled Cars Ahoy published 10 December 1965</ref>
+
+In 2007, the presenters of the BBC programme ''[[Top Gear (2002 TV Series)|Top Gear]]'' ([[Jeremy Clarkson]], [[Richard Hammond]] and [[James May]]) "drove" across the Channel from England to France. They did it by designing "amphibious cars" that could be driven on land and also operate in water.
+After four attempts – twice failing to leave Dover Harbour – they reached the coast of France in a Nissan pick-up with an outboard motor and oil drums attached to the back to aid stability in open water.<ref name="imcdb.org"/> The other two vehicles that attempted the crossing (a Triumph Herald with a sail and a Volkswagen Campervan with a propeller attached to the flywheel) both sank.<ref>[[Top Gear challenges#s10e2|Series Ten, Episode Two]]</ref> Clarkson believed it might be possible to break the world record for crossing the Channel in this manner, but the team was unsuccessful.<ref>BBC Top Gear Series 10 Episode 2</ref> The ''[[Daily Mail]]'' claimed that the BBC received criticism from a coastguard who claimed that they had not been told that the stunt was going to take place, and allegedly branded it "completely irresponsible"; however this was not reported by any other media sources and the aired episode showed the full co-operation of the coastguard.<ref>{{cite web|url=http://www.dailymail.co.uk/tvshowbiz/article-469782/Coastguards-fury-Top-Gear-stars-attempt-drive-Channel.html |title=Coastguards' fury as Top Gear stars attempt to 'drive' across the Channel &#124; Mail Online |work=Daily Mail |date=20 July 2007 |accessdate=27 April 2010}}</ref>
+
+===Other types===
+{| class="wikitable"
+!style="text-align:left"| Date
+!style="text-align:left"| Crossing
+!style="text-align:left"| Participant(s)
+!style="text-align:left"| Notes
+|-
+| 27 March 1899
+| First radio transmission across the Channel (from [[Wimereux]] to [[South Foreland Lighthouse]])
+| [[Guglielmo Marconi]] (Italy)
+|
+|-
+|}
+
+== See also ==
+* [[Anguilla Channel]]
+* [[Booze cruise]]
+* [[Guadeloupe Passage]]
+* [[List of firsts in aviation]]
+* [[Phoenix breakwaters]]
+
+== References ==
+{{Reflist|30em|refs=
+
+<ref name="Gupta Nature">{{Cite journal|last=Gupta |first=Sanjeev |author2=Jenny S. Collier, Andy Palmer-Felgate &  Graeme Potter |year=2007 |title=Catastrophic flooding origin of shelf valley systems in the English Channel |journal=[[Nature (journal)|Nature]] |volume=448 |issue=7151 |pages=342–345 |doi=10.1038/nature06018 |url=http://www.nature.com/nature/journal/v448/n7151/full/nature06018.html |laysummary=http://www.msnbc.msn.com/id/19833064/ |laysource=[[msnbc.com]] |laydate=18 July 2007 |accessdate=18 July 2007 |pmid=17637667 |bibcode=2007Natur.448..342G|last3=Palmer-Felgate |first3=Andy |last4=Potter |first4=Graeme }}</ref>
+
+<ref name="PhysToday">{{cite web|url=http://www.qpg.geog.cam.ac.uk/research/projects/englishchannelfloods/physicstoday.pdf |title=GPG Cambridge.ac Physics Today, Sonar mapping suggests that the English Channel was created by two megafloods, (extract of Gupta Potter), Freely downloadabe PDF |format=PDF |accessdate=27 April 2010}}</ref>
+
+}}
+
+== External links ==
+{{Wikivoyage|Ferry routes to British Mainland}}
+{{Commons|English Channel|English Channel}}
+* [http://www.dover.uk.com/channelswimming/  Full Channel swim lists and swimmer information]
+* [http://freepages.genealogy.rootsweb.com/~genmaps/genfiles/COU_files/ENG/aaEng/ortelius_anglia-epitome-det3_1595.jpg Oceanus Britannicus or British Sea]
+* [http://www.thechannelswimmers.com Channel swimmers website]
+* [http://www.soloswims.com Archives of long distance swimming]
+* [http://www.channelswimming.net/ Channel Swimming and Piloting Federation]
+* [http://www.channelswimmingassociation.com/ Channel Swimming Association]
+* [http://www.readagainbooks.com/airbattleovertheenglishchannel.htm World War II Eye Witness Account – Audio Recording] Air Battle over the English Channel (1940)
+
+{{List of seas}}
+{{Borders of the United Kingdom}}
+{{Authority control}}
+
+{{Coord|50|N|02|W|type:waterbody_scale:2500000|display=title}}
+
+[[Category:English Channel| ]]
+[[Category:English coast]]
+[[Category:European seas]]
+[[Category:France–United Kingdom border]]
+[[Category:International straits]]
+[[Category:Landforms of Brittany]]
+[[Category:Landforms of Lower Normandy]]
+[[Category:Landforms of Nord-Pas-de-Calais]]
+[[Category:Landforms of Upper Normandy]]
+[[Category:Marginal seas of the Atlantic Ocean]]
+[[Category:North Sea]]
+[[Category:Straits of England]]
+[[Category:Straits of Europe]]
+[[Category:Straits of France]]

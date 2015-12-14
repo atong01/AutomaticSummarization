@@ -1,0 +1,153 @@
+{{original research|date=July 2014}}
+[[File:Anoushka Shankar.jpg|thumb|right|200px|[[Anoushka Shankar]] playing a [[sitar]].]]
+An accurate and concise '''definition of music''' is fundamental to being able to discuss, categorize, and otherwise consider the phenomenon of what we understand as being [[music]], and it is a key question in the [[philosophy of music]]. "Explications of the concept of music usually begin with the idea that music is organized sound. They go on to note that this characterization is too broad, since there are many examples of organized sound that are not music, such as [[human speech]], and the sounds non-human animals and machines make" {{harv|Kania|2014}}. Many scholars have been suggested definitions, but defining music turns out to be more difficult than might first be imagined. As this article will demonstrate, there is ongoing controversy about how to define music.
+
+The ''Oxford Universal Dictionary'' defines music as, "That one of the fine arts which is concerned with the combination of sounds with a view to beauty of form and the expression of thought or feeling" {{harv|Little and Onions|1965|loc=1300}}. However, the music genre known as [[noise music]], for instance, challenges these ideas about what constitutes music's essential attributes by using non-traditional elements of music {{harv|Priest|2013|loc=132}}. (See also [[musique concrète]].)
+
+A famous example of the dilemma in defining music is modern composer [[John Cage]]’s composition titled ''[[4'33'']]''. The written score has three movements and directs the performer(s) to appear on stage, indicate by gesture or other means when the piece begins, then make no sound and only mark sections and the end by gesture. This has form and other important attributes of music, but no sound other than whatever ambient sounds may be heard in the room. Some argue this is not music because, for example, it contains no sounds that are conventionally considered "musical" and the composer and performer(s) exert no control over the organization of the sounds heard {{harv|Dodd|2013}}.  Others argue it is music because the conventional definitions of musical sounds are unnecessarily and arbitrarily limited, and control over the organization of the sounds is achieved by the composer and performer(s) through their division of what is heard into specific sections {{harv|Gann|2010}}.
+
+Problems of defining music also arise from differences in the differing conceptions of music in different cultures.
+
+==Concepts of music==
+
+Because of differing fundamental concepts of music, the languages of many cultures do not contain a word that can be accurately translated as "music," as that word is generally understood by Western cultures {{harv|Nettl|2005}}. [[Inuit]] and most [[North American Indian]] languages do not have a general term for music. Among the [[Aztecs]], the ancient [[Mexico|Mexican]] theory of rhetorics, poetry, dance, and instrumental music used the [[Nahuatl]] term ''In xochitl-in kwikatl'' to refer to a complex mix of music and other poetic verbal and non-verbal elements, and reserve the word ''Kwikakayotl'' (or cuicacayotl) only for the sung expressions {{harv|Leon-Portilla|2007|loc=11}}. In [[Africa]] there is no term for music in [[Tiv language|Tiv]], [[Yoruba language|Yoruba]], [[Igbo language|Igbo]], [[Efik language|Efik]], [[Berom language|Birom]], [[Hausa language|Hausa]], [[Idoma language|Idoma]], [[Eggon language|Eggon]] or [[Jarawa language (Nigeria)|Jarawa]]. Many other languages have terms which only partly cover what Western culture typically means by the term ''music'' ({{harvnb|Schafer|1996}}, {{Page needed|date=July 2014}}). The [[Mapuche]] of [[Argentina]] do not have a word for ''music'', but they do have words for instrumental versus improvised forms (''kantun''), European and non-Mapuche music (''kantun winka''), ceremonial songs (''öl''), and ''tayil'' {{harv|Robertson|1976|loc=39}}.
+
+Some languages in West Africa have no term for music but the speakers do have the concept{{Clarify|date=July 2014}} ({{harvnb|Nettl|1989}},{{Page needed|date=February 2008}}). ''Musiqi'' is the [[Persian language|Persian]] word for the science and art of music, ''muzik'' being the sound and performance of music ({{harvnb|Sakata|1983}}, {{Page needed|date=February 2008}}), though some things European-influenced listeners would include, such as [[Quran]] chanting, are excluded.
+
+==Music vs. noise==
+[[Ben Watson (music writer)|Ben Watson]] points out that [[Ludwig van Beethoven]]'s ''Grosse Fuge'' (1825) "sounded like noise" to his audience at the time. Indeed, Beethoven's publishers persuaded him to remove it from its original setting as the last movement of a string quartet. He did so, replacing it with a sparkling ''Allegro''. They subsequently published it separately {{harv|Watson|2009|loc=109–10}}.{{Clarify|date=October 2015}}<!--Is this meant to differentiate "music" from "noise", or to assert that the two things may not be indistinguishable?--> Musicologist [[Jean-Jacques Nattiez]] considers the difference between noise and music nebulous, explaining that "The border between music and noise is always culturally defined—which implies that, even within a single society, this border does not always pass through the same place; in short, there is rarely a consensus&nbsp;... By all accounts there is no ''single'' and ''intercultural'' universal concept defining what music might be" {{harv|Nattiez|1990|loc=48, 55}}.
+
+==Definitions==
+
+===Organized sound===
+{{See also|Musique concrete|Acousmatic music|Spectral music}} 
+An often-cited definition of music is that it is "organized sound", a term originally coined by [[modernist]] composer [[Edgard Varèse]] {{harv|Goldman|1961|loc=133}} in reference to his own musical aesthetic. Varèse's concept of music as "organized sound" fits into his vision of "sound as living matter" and of "musical space as open rather than bounded" {{harv|Chou|1966a|loc=1&ndash;4}}. He conceived the elements of his music in terms of "sound-masses", likening their organization to the natural phenomenon of [[crystalization]] {{harv|Chou|1966b|loc=157}}. Varèse thought that "to stubbornly conditioned ears, anything new in music has always been called [[Noise in music|noise]]", and he posed the question, "what is music but organized noises?" {{harv|Varèse and Chou|1966|loc=18}}.
+
+The fifteenth edition of the ''Encyclopædia Britannica'' states that "while there are no sounds that can be described as inherently unmusical, musicians in each culture have tended to restrict the range of sounds they will admit." A human organizing element is often felt to be implicit in music (sounds produced by non-human agents, such as waterfalls or birds, are often described as "musical", but perhaps less often as "music"). The composer [[R. Murray Schafer|R. Murray]] {{harvtxt|Schafer|1968|loc=284}} states that the sound of classical music "has decays; it is granular; it has attacks; it fluctuates, swollen with impurities—and all this creates a musicality that comes before any 'cultural' musicality." However, in the view of semiologist [[Jean-Jacques Nattiez]], "just as music is whatever people choose to recognize as such, noise is whatever is recognized as disturbing, unpleasant, or both" {{harv|Nattiez|1990|loc=47&ndash;48}}. (See "[[Definition of music#Social construct|music as social construct]]" below.)'''''
+
+====Language====
+{{Main|Musical language}}
+Levi R. Bryant defines music not as a language, but as a marked-based, problem-solving method such as mathematics {{harv|Ashby|2004|loc=4}}.
+
+===Musical universals===
+{{main|Aspect of music}}
+Often a definition of music lists the aspects or elements that make up music under that definition. However, in addition to a lack of consensus, [[Jean Molino|Jean]] {{harvtxt|Molino|1975|loc=43}} also points out that "any element belonging to the total musical fact can be isolated, or taken as a strategic variable of musical production."
+
+Following [[Wittgenstein]], cognitive psychologist [[Eleanor Rosch]] proposes that categories are not clean cut but that something may be more or less a member of a category {{harv|Rosch|1973|loc=328}}. As such the search for musical universals would fail and would not provide one with a valid definition {{harv|Levitin|2006|loc=136–39}}.
+
+===Social construct===
+{{main|Ethnomusicology}}
+Many people do, however, share a general idea of music. The Websters definition of music is a typical example: "the science or art of ordering tones or sounds in succession, in combination, and in temporal relationships to produce a composition having unity and continuity" (''Webster's Collegiate Dictionary'', online edition).
+
+===Subjective experience===
+{{main|Aesthetics of music}}
+
+This approach to the definition focuses not on the ''construction'' but on the ''experience'' of music. An extreme statement of the position has been articulated by the  Italian composer [[Luciano Berio]]: “Music is everything that one listens to with the intention of listening to music” {{harv|Berio, Dalmonte, and Varga|1985|loc=19}}. This approach permits the boundary between music and noise to change over time as the conventions of musical interpretation evolve within a culture, to be different in different cultures at any given moment, and to vary from person to person according to their experience and proclivities. It is further consistent with the subjective reality that even what would commonly be considered music is experienced as nonmusic if the mind is concentrating on other matters and thus not perceiving the sound's ''essence'' ''as music'' {{harv|Clifton|1983|loc=9}}.
+
+==Specific definitions==
+
+===Clifton===
+In his 1983 book, ''Music as Heard'', which sets out from the [[Phenomenology (philosophy)|phenomenological]] position of [[Edmund Husserl|Husserl]], [[Maurice Merleau-Ponty|Merleau-Ponty]], and [[Paul Ricoeur|Ricœur]], Thomas Clifton defines music as "an ordered arrangement of sounds and silences whose meaning is [[Presentationism|presentative]] rather than [[Denotation|denotative]]. . . . This definition distinguishes music, as an end in itself, from compositional technique, and from sounds as purely physical objects." More precisely, "music is the actualization of the possibility of any sound whatever to present to some human being a meaning which he experiences with his body—that is to say, with his mind, his feelings, his senses, his will, and his metabolism" {{harv|Clifton|1983|loc=1}}. It is therefore "a certain reciprocal relation established between a person, his behavior, and a sounding object" {{harv|Clifton|1983|loc=10}}.
+
+Clifton accordingly differentiates music from nonmusic on the basis of the human behavior involved, rather than on either the nature of compositional technique or of sounds as purely physical objects. Consequently, the distinction becomes a question of what is meant by musical behavior: "a musically behaving person is one whose very being is absorbed in the significance of the sounds being experienced." However, "It is not altogether accurate to say that this person is listening ''to'' the sounds. First, the person is doing more than listening: he is perceiving, interpreting, judging, and feeling. Second, the preposition 'to' puts too much stress on the sounds as such. Thus, the musically behaving person experiences musical significance by means of, or through, the sounds" {{harv|Clifton|1983|loc=2}}.
+
+In this framework, Clifton finds that there are two things that separate music from nonmusic: (1) musical meaning is presentative, and (2) music and nonmusic are distinguished in the idea of personal involvement. "It is the notion of personal involvement which lends significance to the word ''ordered'' in this definition of music" {{harv|Clifton|1983|loc=3–4}}. This is not to be understood, however, as a sanctification of extreme [[relativism]], since "it is precisely the 'subjective' aspect of experience which lured many writers earlier in this century down the path of sheer opinion-mongering. Later on this trend was reversed by a renewed interest in 'objective,' scientific, or otherwise nonintrospective musical analysis. But we have good reason to believe that a musical experience is not a purely private thing, like [[seeing pink elephants]], and that reporting about such an experience need not be [[Subject (philosophy)|subjective]] in the sense of it being a mere matter of opinion" {{harv|Clifton|1983|loc=8–9}}.
+
+Clifton's task, then, is to describe musical experience and the objects of this experience which, together, are called "phenomena," and the activity of describing phenomena is called "phenomenology" {{harv|Clifton|1983|loc=9}}. It is important to stress that this definition of music says nothing about aesthetic standards. <blockquote>Music is not a fact or a thing in the world, but a meaning constituted by human beings. . . . To talk about such experience in a meaningful way demands several things. First, we have to be willing to let the composition speak to us, to let it reveal its own order and significance. . . . Second, we have to be willing to question our assumptions about the nature and role of musical materials. . . . Last, and perhaps most important, we have to be ready to admit that describing a meaningful experience is itself meaningful. {{harv|Clifton|1983|loc=5–6}}</blockquote>
+
+===Nattiez===
+"Music, often an [[art]]/[[entertainment]], is a [[total social fact]] whose definitions vary according to [[era]] and [[culture]]," according to [[Jean Molino|Jean]] {{harvtxt|Molino|1975|loc=37}}. It is often contrasted with [[noise (environmental)|noise]]. According to musicologist [[Jean-Jacques Nattiez]]: "The border between music and noise is always culturally defined—which implies that, even within a single society, this border does not always pass through the same place; in short, there is rarely a consensus.... By all accounts there is no ''single'' and ''intercultural'' universal concept defining what music might be" {{harv|Nattiez|1990|loc=47&ndash;8 and 55}}. Given the above demonstration that "there is no limit to the number or the genre of variables that might intervene in a definition of the musical," {{harv|Molino|1975|loc=42}} an organization of definitions and elements is necessary.
+
+Nattiez (1990, 17) describes definitions according to a [[wikt:tripartite|tripartite]] semiological scheme similar to the following:
+{|
+|-
+|colspan=3|Poietic Process
+|colspan=2|Esthesic Process
+|-
+|Composer (Producer)
+| →
+|Sound (Trace)
+| ←
+|Listener (Receiver)
+|}
+
+There are three levels of description, the poietic, the neutral, and the esthesic:
+*"<!-- If musical semiology's sole contribution were replacing what everybody calls "composition" and "perception" with barbarou neologisms like 'poietic' and 'esthesic', then semiology would entail risibly small profits. There is, of course, more to it than that. --> By 'poietic' I understand describing the ''link'' among the composer's intentions, his creative procedures, his mental schemas, and the ''result'' of this collection of strategies; that is, the components that go into the work's material embodiment. Poietic description thus also deals with a quite special form of hearing (Varese called it 'the interior ear'): what the composer hears while imagining the work's sonorous results, or while experimenting at the piano, or with tape."
+*"By 'esthesic' I understand not merely the artificially attentive hearing of a musicologist, but the description of perceptive behaviors within a given population of listeners; that is how this or that aspect of sonorous reality is captured by their perceptive strategies." {{harv|Nattiez|1990|loc=90}}
+*The neutral level is that of the physical "trace", (Saussere's sound-image, a sonority, a score), created and interpreted by the esthesic level (which corresponds to a perceptive definition; the perceptive and/or "social" construction definitions below) and the poietic level (which corresponds to a creative, as in compositional, definition; the organizational and social construction definitions below).
+
+Table describing types of definitions of music {{harv|Nattiez|1990|loc=46}}:
+{| class="wikitable"
+!
+!poietic level<br/>(choice of the composer)
+!neutral level<br/>(physical definition)
+!esthesic level<br/>(perceptive judgment)
+|-
+! music
+| musical sound
+| sound of the<br/>harmonic<br/>spectrum
+| agreeable sound
+|-
+! nonmusic
+| noise<br/>(nonmusical)
+| noise<br/>(complex sound)
+| disagreeable<br/>noise
+|}
+
+Because of this range of definitions, the study of music comes in a wide variety of forms. There is the study of sound and [[oscillation|vibration]] or [[acoustics]], the cognitive study of music, the study of [[music theory]] and performance practice or music theory and [[ethnomusicology]] and the study of the reception and history of music, generally called [[musicology]].
+
+===Xenakis===
+Composer [[Iannis Xenakis]] in "Towards a Metamusic" (chapter 7 of ''Formalized Music'') defined music in the following way {{harv|Xenakis|1971|loc=181}}:
+#It is a sort of comportment necessary for whoever thinks it and makes it.
+#It is an individual [[pleroma]], a realization.
+#It is a fixing in sound of imagined virtualities (cosmological, philosophical, . . ., arguments)
+#It is normative, that is, unconsciously it is a model for being or for doing by sympathetic drive.
+#It is catalytic: its mere presence permits internal psychic or mental transformations in the same way as the crystal ball of the hypnotist.
+#It is the gratuitous play of a child.
+#It is a mystical (but atheistic) asceticism. Consequently, expressions of sadness, joy, love and dramatic situations are only very limited particular instances.
+
+==See also==
+* [[zoomusicology]]
+* [[Noise (music)]]
+* [[Sound art]]
+
+==References==
+<!--this article currently uses in-text, Chicago-format citations, see [[The Chicago Manual of Style]]-->
+*{{wikicite|ref={{harvid|Ashby|2004}}|reference=Ashby, Arved, ed. 2004. ''The Pleasure of Modernist Music: Listening, Meaning, Intention, Ideology''. Eastman Studies in Music 29. Rochester, NY: University of Rochester Press. ISBN 1-58046-143-3.}}
+* {{wikicite|ref={{harvid|Berio, Dalmonte, and Varga|2085}}|reference=Berio, Luciano, Rossana Dalmonte, and  Bálint András Varga. 1985. ''Two Interviews'', translated and edited by  David Osmond-Smith. New York: Marion Boyars. ISBN 0-7145-2829-3.}}
+*{{wikicite|ref={{harvid|Chou|1966a}}|reference=[[Chou Wen-chung]]. 1966a. [http://www.jstor.org/stable/832383 "Open Rather Than Bounded"]. ''Perspectives of New Music'' 5, no. 1 (Autumn–Winter): 1–6.}}
+*{{wikicite|ref={{harvid|Chou|1966b}}|reference=Chou Wen-chung. 1966b. [http://www.jstor.org/stable/741034 "Varèse: A Sketch of the Man and His Music"]. ''The Musical Quarterly'' 52, no. 2 (April): 151–170.}}
+*{{wikicite|ref={{harvid|Clifton|1983}}|reference=Clifton, Thomas. 1983. ''Music as Heard: A Study in Applied Phenomenology''. New Haven and London: Yale University Press. ISBN 0-300-02091-0.}}
+* {{wikicite|ref={{harvid|Dodd|2013}}|reference=Dodd, Julian. 2013. "[https://www.youtube.com/watch?v=WTCVnKROlos&t=13m38s Is John Cage's 4'33'' Music?]". You Tube/Tedx (accessed 14 July 2014).}}
+* {{wikicite|ref={{harvid|Gann|2010}}|reference=Gann, Kyle. 2010. ''No Such Thing as Silence: John Cage’s 4’33<nowiki>''</nowiki>''. New Haven and London: Yale University Press. ISBN 0300136994.}}
+* {{wikicite|ref={{harvid|Goldman|1961}}|reference=Goldman, Richard Franko. 1961. “Varèse: ''Ionisation''; ''Density 21.5''; ''Intégrales''; ''Octandre''; ''Hyperprism''; ''Poème Electronique''. Instrumentalists, cond. Robert Craft. Columbia MS 6146 (stereo)” (in Reviews of Records). ''Musical Quarterly'' 47, no. 1. (January):133–34.}}
+* {{wikicite|ref={{harvid|Kania|2014}}|reference=Kania, Andrew. 2014. "[http://plato.stanford.edu/archives/spr2014/entries/music/ The Philosophy of Music]", The Stanford Encyclopedia of Philosophy, Spring 2014 edition, edited by Edward N. Zalta.}}
+* {{wikicite|ref={{harvid|Kennedy|1985}}|reference=Kennedy, Michael. 1985. ''The Oxford Dictionary of Music'', revised and enlarged edition of ''The Concise Oxford Dictionary of Music'', third edition, 1980. Oxford  and New York: Oxford University Press. ISBN 978-0-19-311333-6; ISBN 978-0-19-869162-4.}}
+* {{wikicite|ref={{harvid|Leon-Portilla|2007}}|reference=[[Miguel Leon-Portilla|Leon-Portilla, Miguel]]. 2007. "La música de los aztecas / Music Among Aztecs", ''Pauta'', no. 103:7–19.}}
+* {{wikicite|ref={{harvid|Levitin|2006}}|reference=Levitin, Daniel J. 2006. ''[[This Is Your Brain On Music|This Is Your Brain On Music: The Science of a Human Obsession]]''. New York: Dutton. ISBN 0-525-94969-0.}}
+* {{wikicite|ref={{harvid|List|1985}}|reference=List, George. 1985. "Hopi Melodic Concepts". ''Journal of the American Musicological Society'' 38, no. 1 (Spring): 143–52.}}
+* {{wikicite|ref={{harvid|Little and Onions|2004}}|reference=Little, William, and C. T. Onions, eds. 1965. ''The Oxford Universal Dictionary Illustrated: An illustrated Edition of the Shorter Oxford Dictionary'', third edition, revised, 2 vols. London: The Caxton Publishing Co.}}
+* {{wikicite|ref={{harvid|Molino|1975}}|reference=[[Jean Molino|Molino, Jean]]. 1975. "Fait musical et sémiologue de la musique", ''Musique en Jeu'', no. 17:37&ndash;62.}}
+* {{wikicite|ref={{harvid|Nattiez|1990}}|reference=[[Jean-Jacques Nattiez|Nattiez, Jean-Jacques]]. 1990. ''Music and Discourse: Toward a Semiology of Music'', translated by Carolyn Abbate. Princeton: Princeton University Press. ISBN 0-691-09136-6.}}
+*{{wikicite|ref={{harvid|Nettl|1989}}|reference=[[Nettl, Bruno]]. 1989. ''Blackfoot Musical Thought: Comparative Perspectives''. Ohio: The Kent State University Press. ISBN 0-87338-370-2.}}
+* {{wikicite|ref={{harvid|Nettl|2001}}|reference=Nettl, Bruno. 2001. "Music". ''The New Grove Dictionary of Music and Musicians'', second edition, edited by [[Stanley Sadie]] and [[John Tyrrell (musicologist)|John Tyrrell]]. London: Macmillan Publishers.}}
+* {{wikicite|ref={{harvid|Nettl|2005}}|reference=[[Nettl, Bruno]]. 2005. "The Art of Combining Tones: The Music Concept". ''The Study of Ethnomusicology''. 2nd ed. Chicago: University of Illinois Press, pp. 26–37 ISBN 0-252-07278-2.}}
+* {{wikicite|ref={{harvid|Priest|2013}}|reference=Priest, Eldritch. 2013. ''Boring Formless Nonsense: Experimental Music and The Aesthetics of Failure''. New York: Bloomsbury Publishing. ISBN 9781441122131.}}
+* {{wikicite|ref={{harvid|Robertso–d Carbo|1976}}|reference=Robertson–de Carbo, Carol Elizabeth. 1976. "''Tayil'' as Category and Communication among the Argentine Mapuche: A Methodological Suggestion", ''Yearbook of the International Folk Music Council'' 8:35–42.}}
+* {{wikicite|ref={{harvid|Rosch|1973}}|reference=[[Eleanor Rosch|Rosch, Eleanor]]. 1973. "Natural Categories". ''Cognitive Psychology'' 4, no. 3 (May): 328–50.}}
+* {{wikicite|ref={{harvid|Sakata|1983}}|reference=Sakata, Lorraine. 1983. ''Music in the Mind, The Concepts of Music and Musicians in Afghanistan''. Kent: Kent State University Press.}}
+* {{wikicite|ref={{harvid|Schafer|1996}}|reference=[[R. Murray Schafer|Schafer, R. Murray]]. 1996. "Music and the Soundscape," in ''Classic Essays on Twentieth-Century Music: A Continuing Symposium'', edited by Richard Kostelanetz and Joseph Darby, with Matthew Santa,{{Page needed|date=July 2014}}<!--Inclusive page numbers for Schafer's contribution to this collection are needed.-->. New York: Schirmer Books; London: Prentice Hall International. ISBN 0-02-864581-2 (pbk).}}
+* {{wikicite|ref={{harvid|Varèse and Chou|1966}}|reference=[[Edgard Varèse|Varèse, Edgard]], and [[Chou Wen-chung]]. 1966. [http://www.jstor.org/stable/832385 "The Liberation of Sound"]. ''Perspectives of New Music'' 5, no. 1 (Autumn–Winter): 11–19.}}
+* {{wikicite|ref={{harvid|Watson|n.d.}}|reference=[[Ben Watson (music writer)|Watson, Ben]]. n.d. "Noise as Permanent Revolution". {{Full|date=October 2015}}<!--Journal name, volume, issue, inclusive page numbers needed.-->}}
+* {{wikicite|ref={{harvid|Xenakis|1971}}|reference=[[Iannis Xenakis|Xenakis, Iannis]]. 1971. ''Formalized Music: Thought and Mathematics in Composition''. Bloomington and London: Indiana University Press.}}
+
+==External links==
+{{wikiquote|Definitions of music}}
+*[http://www.cobussen.com/proefschrift/300_john_cage/310_what_is_music/what_is_music.htm What is Music?] A brief sketch of some definitions found throughout history by Marcel Cobussen
+*[http://www.MusicNovatory.com MusicNovatory.com] The Science of Music, a generative music theory
+
+{{Music theory}}
+
+{{DEFAULTSORT:Definition Of Music}}
+[[Category:Philosophy of music]]
+[[Category:Definitions|Music]]

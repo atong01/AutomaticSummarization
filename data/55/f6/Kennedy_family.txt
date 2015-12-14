@@ -1,0 +1,94 @@
+{{redirect|Kennedys|other people named "Kennedy"|Kennedy (surname)}}
+{{more footnotes|date=September 2014}}
+{{Use mdy dates|date=October 2012}} 
+{{Infobox family
+| name=Kennedy
+| image=[[File:Coat of Arms of John F. Kennedy.svg|140px|alt=Coat of arms of the Kennedy family]]
+| caption=Coat of arms of the Kennedy family
+| region = [[Hyannis Port, Massachusetts]]
+| early_forms =
+| religion = [[Roman Catholicism]]
+| origin = United States/Ireland
+| members = {{plain list|
+*[[Patrick Kennedy (1823–1858)|Patrick Kennedy]]
+*[[P. J. Kennedy]]
+*[[Joseph P. Kennedy, Sr.]]
+*[[Joseph P. Kennedy, Jr.]]
+*[[John F. Kennedy]]
+*[[Robert F. Kennedy]]
+*[[Ted Kennedy]]
+*[[Caroline Kennedy]]
+*[[Maria Shriver]]
+}}
+| connectedmembers = {{plain list|
+*[[Rose Kennedy|Rose Elizabeth Fitzgerald]]
+*[[Jacqueline Kennedy Onassis|Jacqueline Lee Bouvier]]
+*[[Sargent Shriver]]
+*[[Peter Lawford]]
+*[[Ethel Kennedy|Ethel Skakel]]
+*[[Stephen Edward Smith]]
+*[[Joan Bennett Kennedy|Virginia Joan Bennett]]
+*[[Victoria Reggie Kennedy|Victoria Anne Reggie]]
+*[[Edwin Schlossberg]]
+*[[Arnold Schwarzenegger]]
+*[[Andrew Cuomo]]
+}}
+| distinctions = Prominence in politics<br>[[Kennedy curse|Family tragedies]]
+| estate =[[Kennedy Compound]]
+}}
+[[File:BirthdayJPK.jpg|thumb|150px|Members of the Kennedy family at the birthday of [[Joseph P. Kennedy, Sr.]] in September 1963.]]
+
+The '''Kennedy family''' is an American family who are prominent in [[Politics of the United States|American politics]], government, and business. The first Kennedys to reside in America were [[Patrick Kennedy (1823–1858)|Patrick Kennedy]] and Bridget Murphy, who sailed from Ireland to America in 1849. Their son [[P. J. Kennedy|P. J.]] went into politics and business. P. J. and his wife, Mary Hickey, were the parents of businessman and politician [[Joseph P. Kennedy, Sr.]] The four sons of Joseph Sr. and [[Rose Kennedy|Rose Fitzgerald]] were [[Joseph P. Kennedy, Jr.|Joseph Jr.]], [[John F. Kennedy|John]], [[Robert F. Kennedy|Robert]], and [[Ted Kennedy|Ted]]. John served as [[President of the United States|president]], while Robert and Ted both became prominent [[United States Senate|senators]]. The Kennedys' political involvement has revolved around the [[Democratic Party (United States)|Democratic Party]]. [[Harvard University]] educations have been common among them, and they have contributed heavily to that university's [[John F. Kennedy School of Government]]. The wealth and glamour of the family members, as well as their extensive and continuing involvement in public service, has elevated them to [[Cultural icon|iconic]] status over the past half-century, with the Kennedys sometimes referred to as "America's Royal Family".
+
+Joseph Sr. originally pinned his hopes on eldest son, Joseph Jr., to enter politics and be elected president. After Joseph Jr. was killed during [[World War II]], however, those hopes later fell on his second son, John, to become president. Soon after John [[United States presidential election, 1960|was elected in 1960]], he, Robert, and Ted all held prominent positions in the federal government. They received intense publicity, often emphasizing their relative youth, allure, education, and future in politics. Between 1947 and 2011, there were 64 years with a Kennedy in elective office in [[Washington, D.C.|Washington]]. This spans more than a quarter of the nation's existence.<ref name="bg021310">{{cite news |url=http://www.boston.com/news/local/rhode_island/articles/2010/02/13/pondering_a_congress_without_kennedys/ |title=Pondering a Congress without Kennedys |first=Michael |last=Levenson |newspaper=[[The Boston Globe]] |date=February 13, 2010 }}</ref>
+
+The family has been at the center of many deaths, contributing to the idea of the "[[Kennedy curse]]". [[Rosemary Kennedy|Rosemary]] was forced to undergo a lobotomy which crippled her entire life; [[Assassination of John F. Kennedy|John]] and [[Assassination of Robert F. Kennedy|Robert]] were both assassinated during the 1960s; Ted was involved in the [[Chappaquiddick incident]] in 1969, which caused the death of his young colleague, [[Mary Jo Kopechne]]; and Joseph Jr., [[Kathleen Cavendish, Marchioness of Hartington|Kathleen]], and [[John F. Kennedy Jr.|John Jr.]] all died in plane crashes.
+
+==Family tree==
+{{refimprove section|date=April 2015}}
+{{Kennedy family tree}}
+
+==Coat of Arms==
+{{Infobox COA wide
+|name = John F. Kennedy
+|image = 
+|image size = 
+|notes = The Grant of Arms granting this Arms to all descendants of Patrick Kennedy was presented to John Fitzgerald Kennedy Sr. from the Chief Herald of Ireland on 17 March 1961, St. Patrick's Day.
+|year_adopted = 17 March 1961
+|escutcheon = Sable three helmets in profile Or within a bordure per saltaire Gules and Ermine
+|crest = Between two olive branches a cubit sinister arm in armour erect, the hand holding a sheaf of four arrows, points upwards, all proper
+|symbolism =  The 3 helmets on black alludes to the Arms of  the O'Kennedys of Ormonde, and the red and Ermine allude the Arms of the FitzGeralds of Desmond. The olive branches and arrows symbolise America, because the olive branches and the arrows that appear in the Arms also appear in the talons of the American Eagle in the Great Seal of the United States of America.
+}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Kennedy family}}
+* [http://www.sptimes.com/News/111199/JFK/family-tree.shtml The Kennedys: A Family Tree], ''[[St. Petersburg Times]]'' Online
+* [http://fto24.com/members/profi/Tree.aspx?pid=98813 Interactive Kennedy Family Tree], Family Tree Online, a project from GiGaSoft Software GmbH
+* [http://www.pbs.org/wgbh/amex/kennedys/sfeature/sf_tree.html Kennedy Family Tree], ''[[The American Experience]]'', [[Public Broadcasting Service|PBS]]
+* [http://www.nytimes.com/interactive/2009/08/26/us/kennedy-family-tree.html?scp=1&sq=kennedy%20family%20tree&st=cse Kennedy Family Tree], ''[[The New York Times]]''
+* [http://politicalgraveyard.com/families/1427.html Kennedy Family], [[The Political Graveyard]]
+
+{{Kennedy family}}
+{{John F. Kennedy}}
+{{Robert F. Kennedy}}
+{{Ted Kennedy}}
+{{United States Presidential Family Political Lines}}
+
+{{DEFAULTSORT:Kennedy Family}}
+[[Category:American families of Irish ancestry]]
+[[Category:American genealogy]]
+[[Category:Business families of the United States]]
+[[Category:First Families of the United States]]
+[[Category:Roman Catholic families]]
+[[Category:County Wexford]]
+[[Category:Family history]]
+[[Category:Kennedy family]]
+[[Category:Irish-American culture]]
+[[Category:Irish-American history]]
+[[Category:People from Barnstable, Massachusetts]]
+[[Category:People from Boston, Massachusetts]]
+[[Category:People from Brookline, Massachusetts]]
+[[Category:Political families of the United States]]

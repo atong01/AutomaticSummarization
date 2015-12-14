@@ -1,0 +1,211 @@
+{{for|the Russian sect|Filippians}}
+{{redirect-distinguish|Philippians|Philippines}}
+{{Books of the New Testament}}
+
+The '''Epistle of Paul and Timothy to the Philippians''', often referred to simply as '''Philippians''', is the eleventh book in the [[New Testament]]. [[Paul the Apostle|Paul]] and [[Saint Timothy|Timothy]] visited [[Philippi]] for the first time on Paul's second [[Missionary journeys of Paul|missionary journey]] (49–51 AD). Philippi was the location of the first [[Early Christian churches|Christian community]] established in Europe.
+
+Biblical scholars are in general agreement that it was written by [[Paul of Tarsus|St. Paul]] to the [[local church|church]] of Philippi, an [[Early centers of Christianity#Greece|early center of Christianity in Greece]] around 62 AD (i.e. around 10 years after their first visit).<ref name ="Harris">[[Stephen L Harris|Harris, Stephen L.]], Understanding the Bible. Palo Alto: Mayfield. 1985.</ref>
+
+==Historical background==
+The historical background of [[Philippians]] is traditionally gathered from two main primary [[New Testament]] sources: (1) informative internal data from the letter itself and (2) related information garnered from the rest of the [[New Testament Canon]]. In the latter's case, this would specifically include the [[Acts of the Apostles]], and other related [[Pauline Epistles]].<ref>Frederick F. Bruce, 1989, ''Philippians'', NIBC, NT Series, edited by W. Ward Gasque (Peabody, Mass.: Hendrickson), 4.</ref>
+
+Other primary information is derived from external historical sources related to the chronological connections between Paul's association with Philippi, its political and economical setting, and its social and religio-philosophical context as well.<ref>Wayne Jackson, 1987, ''The Book of Philippians: A Grammatical and Practical Study'' (Abilene, Tex.: Quality Publications), 13–17.</ref>
+
+According to the document itself, the Philippians had sent [[Epaphroditus]], their envoy ("messenger [''apostolon''] and minister [''leitourgon'']" Phil 2:25), with contributions as an expression of their "partnership" and "concern" to meet the needs of Paul ({{bibleverse||Phil|1:3–5|KJV|}}, {{bibleverse||Phil|2:30|KJV|}}, and {{bibleverse||Phil|4:10–19|KJV|}}).
+
+During the execution of his responsibilities of travel to deliver their "gift" ({{bibleverse||Phil|4:17|KJV|}}), Epaphroditus contracted some life-threatening debilitating illness (''esthenese'', cf. {{bibleverse||Phil|2:26–27|KJV|}}). At some point he recovers. It is at this time, whether premeditated or due to an extended stay with the apostle various internal matters are revealed to Paul on the part of Epaphroditus ({{bibleverse||Phil|1:27–30|KJV|}}, {{bibleverse||Phil|2:19–24|KJV|}}, {{bibleverse||Phil|3:2–3|KJV|}}, {{bibleverse||Phil|3:17–20|KJV|}}, {{bibleverse||Phil|4:2–3|KJV|}}, and {{bibleverse||Phil|4:9|KJV|}}).
+
+Upon Epaphroditus' return to health, Paul sends word to the Philippians through Epaphroditus of his upcoming sentence in Rome and of his optimism in the face of death (1:18b-26), along with exhortations to imitate his capacity to rejoice in the Lord despite one's circumstances (2:14–18). Moreover, Paul sends counsel regarding spiritual adversaries among the Philippians (3:1–21), and conflicts within their fellowship (4:2–3). Lastly, he provides receipt of both Epaphroditus' heroism (2:25–30) and the arrival of "the gift" (4:10), along with his promise of a divine accounting (4:17–20).
+
+Within the letter is also found an optimism where Paul's belief of his release is the basis upon which he promises to send Timothy to them for ministry (3:19–23), and an anticipation to also pay them a personal visit (2:24). With this communication Epaphroditus sets out on his homeward journey (3:28–29).
+
+There has been ongoing debate regarding where Paul was when he wrote this letter (and therefore the date of the letter's composition). Internal evidence in the letter itself points clearly to it being composed while Paul was in custody (Philippians 1:7,13), but which period of imprisonment is highly debated. Some suggest the Roman imprisonment at the end of the Book of Acts (chapter 28:30,31). Others suggest the earlier [[Caesarea Maritima|Caesarean]] imprisonment (Acts 23-26). Still others suggest an earlier imprisonment again, and postulate an [[Ephesus|Ephesian]] imprisonment during Paul's lengthy stay in that city (Acts 19). Until recently no one seems to have advocated the second period of Roman imprisonment (after the end of the book of Acts, but attested to in the writings of [[Early Church Fathers|early church fathers]]).<ref>[[Clement of Rome]] (late 1st century) makes a reference to the ministry of Paul after the end of Acts. Clement, To the Corinthians, 5. In J. B. Lightfoot (ed), The Apostolic Fathers (Michigan: Baker Book House, 1978) 15. The author of the [[Muratorian Canon]] (late 2nd century) says that Luke recorded mostly that which he himself witnessed and therefore that is why he did not include ‘the journey of Paul, when he went from the city - Rome - to [[Spain]].’ The Muratoriun Canon. 2. The apocryphal [[Acts of Peter]] makes reference to the tradition that Paul reached Spain. Paul is described in prison in Rome, receiving a vision from God that he would go to Spain. Acts of Peter, Verscelli Acts 1 and 3. Eusebius (early 300’s) recorded that Paul did more ministry after his first jail time in Rome. Eusebius, Ecclesiastical History, II, 22, 1-8, in Philip Schaff and Henry Wace (editors), A Select Library of Nicene and Post-Nicene Fathers of the Christian Church 2nd series. Vol.1. Eusebius: Church History, Life of Constantine the Great, and Oration in Praise of Constantine (Edinburgh: Eerdmans, 1997) 124-125.</ref> Jim Reiher considered and speculated on this theory in a 2012 article.<ref>Jim Reiher, “Could Philippians have been written from the Second Roman Imprisonment?” [[Evangelical Quarterly]]. Vol. LXXXIV. No. 3 July 2012. pp.213-233. This article summarises the other theories, and offers examples of different scholars who adhere to different theories, but presents a different option for consideration</ref> The main reasons suggested for a later date, include:
+#The letter's highly developed [[Ecclesiology]]
+#An impending sense of death permeating the letter
+#The absence of any mention of Luke in a letter to Luke’s home church (when the narrative in Acts clearly suggests that Luke was with Paul in his first Roman imprisonment)
+#A harsher imprisonment than the [[house arrest|open house arrest]] of his first Roman imprisonment
+#A similar unique expression that is shared only with [[2 Timothy]] {{Citation needed|date=October 2015}}
+#A similar disappointment with co-workers shared only with 2 Timothy.
+
+This second Roman imprisonment theory is still to be rigorously debated in the wider theological community.
+
+== Authorship ==
+The letter begins in standard form for an ancient Hellenistic letter structure, with author – or senders – first, then recipients with a greeting (Phil. 1.1–2).<ref>Ronald Russell, 1982, "Pauline Letter Structure in Philippians," ''Journal of the Evangelical Theological Society'' 25.3 (Sept.): 297-98.</ref>
+
+The address and greeting is clear:
+:"Paul and Timothy, servants of Christ Jesus. To all the saints in Christ Jesus who are at Philippi, with the overseers and deacons. Grace to you and peace from God our Father and the Lord Jesus Christ." ([[English Standard Version]])
+
+In his introduction, Blevins writes, "Since the time of F. C. Baur, very few scholars have doubted the Pauline authorship of the letter. Attempts to remove unauthentic sections from Philippians have failed."<ref>James L. Blevins, 1980, "Introduction to Philippians," ''Review and Expositor'' 77 (Summer): 317.</ref>
+
+== Outline ==
+{{Div col|cols=2}}
+:I. Preface (1:1–11)<ref>[http://bible.org/seriespage/philippians-introduction-argument-and-outline Outline]</ref>
+:
+::A. Salutation (1:1–2)
+::
+::B. Thanksgiving for the Philippians’ Participation in the Gospel (1:3–8)
+::
+::C. Prayer for the Philippians’ Discerning Love to Increase until the Day of Christ (1:9-11)
+:
+:II. Paul’s Present Circumstances (1:12–26)
+:
+::A. Paul’s Imprisonment (1:12–13)
+::
+::B. The Brothers’ Response (1:14–17)
+::
+::C. Paul’s Attitude (1:18–26)
+:
+:III. Practical Instructions in Sanctification (1:27–2:30)
+:
+::A. Living Boldly as Citizens of Heaven (1:27–2:30)
+::
+::B. Living Humbly as Servants of Christ (2:1–11)
+::
+:::1. The Motivation to Live Humbly (2:1–4)
+:::
+:::2. The Model of Living Humbly (2:5–11)
+::
+::::a. Christ’s Emptying (2:5–8)
+::::
+::::b. Christ’s Exaltation (2:9-11)
+::
+::C. Living Obediently as Children of God (2:12–18)
+::
+:::1. The Energizing of God (2:12–13)
+:::
+:::2. The Effect on the Saints (2:14–18)
+::
+::D. Examples of Humble Servants (2:19–30)
+::
+:::1. The Example of Timothy (2:19–24)
+:::
+:::2. The Example of Epaphroditus (2:25–30)
+::
+:IV. Polemical Doctrinal Issues (3:1–4:1)
+:
+::A. The Judaizers Basis: The Flesh (3:1–6)
+::
+::B. Paul’s Goal: The Resurrection (3:7–11)
+::
+::C. Perfection and Humility (3:12–16)
+::
+::D. Paul as an Example of Conduct and Watchfulness (3:17–4:1)
+:
+:V. Postlude (4:2–23)
+:
+::A. Exhortations (4:2–9)
+::
+:::1. Being United (4:2–3)
+:::
+:::2. Rejoicing without Anxiety (4:4–7)
+:::
+:::3. Thinking and Acting Purely (4:8–9)
+::
+::B. A Note of Thanks (4:10–20)
+::
+:::1. Paul’s Contentment (4:10–13)
+:::
+:::2. The Philippians’ Gift (4:14–18)
+:::
+:::3. God’s Provision (4:19–20)
+::
+::C. Final Greetings (4:21–23)
+{{Div col end}}
+
+== Composition ==
+It is possible that the [[kenosis]] passage in Philippians 2:5–11 may have been a Christian [[hymn]] that Paul quoted.
+
+Philippians 2:5–11:<ref>Philippians 2:5–11: Scripture taken from the [[New American Standard Bible]], Copyright © 1960,1962,1963,1968,1971,1972,1973,1975,1977,1995 by The Lockman Foundation. Used by permission.</ref><blockquote>
+Have this attitude in yourselves which was also in Christ Jesus, who, although He existed in the form of God, did not regard equality with God a thing to be grasped, but emptied Himself, taking the form of a bond-servant, and being made in the likeness of men. Being found in appearance as a man, He humbled Himself by becoming obedient to the point of death, even death on a cross.
+For this reason also, God highly exalted Him, and bestowed on Him the name which is above every name, so that at the name of Jesus every knee will bow, of those who are in heaven and on earth and under the earth, and that every tongue will confess that Jesus Christ is Lord, to the glory of God the Father.
+</blockquote>
+ 
+The letter was written to the church at [[Philippi]], one of the earliest churches to be founded in [[Europe]]. They were very attached to Paul, just as he was very fond of them. Of all the churches, their contributions (which Paul gratefully acknowledges) are among the only ones he accepts. ([[Acts of the Apostles|Acts 20:33–35]]; [[2 Corinthians|2 Cor. 11:7–12]]; [[2 Thessalonians|2 Thess. 3:8]]). The generosity of the Philippians comes out very conspicuously (Phil. 4:15). "This was a characteristic of the [[Macedonia (region)|Macedonian]] missions, as 2 Cor. 8 and 9 amply and beautifully prove. It is remarkable that the Macedonian converts were, as a class, very poor (2 Cor. 8:2), though the very first converts were of all classes (Acts 16); and the parallel facts, their poverty and their open-handed support of the great missionary and his work, are deeply harmonious." (Moule).
+
+As with all epistles, the original was composed in Greek.<ref>[http://www.ccel.org/ccel/alexander_a/canon.iv.x.html?highlight=epistle,greek,language,philippians#highlight SECTION X. TESTIMONIES TO THE CANONICAL AUTHORITY OF THE FOURTEEN EPISTLES OF PAUL]. Canon of the Old and New Testaments Ascertained, or The Bible Complete without the Apocrypha and Unwritten Traditions. Alexander, Archibald (1772–1851).</ref>
+
+==Christology==
+Philippians has been the subject of much research and [[Ralph P. Martin]] argues that Philippians 2 may be considered the beginning of the field of [[Christology]], specifically referring to the rich analysis that Apostle Paul began in {{bibleverse||Philippians|2:5–6|NIV}}.<ref name=RaplhM >''Where Christology began: essays on Philippians 2'' by [[Ralph P. Martin]], Brian J. Dodd 1998 ISBN 0-664-25619-8 pages 1–3</ref> Veronica Koperski views {{bibleverse||Philippians|3:10|NIV}} as the beginning of the analysis of the [[knowledge of Christ]].<ref name=Koperski >''The knowledge of Christ Jesus'' by Veronica Koperski 1996 ISBN 90-390-0132-4 pages 5–17</ref>
+
+While Paul's opening prayer is for love (1:9), based on [[knowledge of Christ]], his final prayer is for the peace of God (4:7), which surpasses all understanding. Thus the concepts of love, knowledge and peace are jointly developed in the Epistle.<ref>''The knowledge of Christ Jesus'' by Veronica Koperski 1996 ISBN 90-390-0132-4 pages 291–293</ref>
+
+==See also==
+* [[Textual variants in the New Testament#Epistle to the Philippians|Textual variants in the Epistle to the Philippians]]
+
+==Notes==
+<references/>
+
+==References==
+* {{Eastons}}
+
+==Further reading==
+*{{Cite journal |first=Valerie |last=Abrahamsen |authorlink= |coauthors= |date=March 1988 |title=Christianity and the Rock Reliefs at Philippi |journal=Biblical Archaeologist |volume=51 |issue=1 |pages=46–56 |id= |url= |accessdate= |quote= |doi=10.2307/3210038 }}
+* Barclay, William. 1975. ''The Letters to the Philippians, Colossians, and Thessalonians''. Rev. ed. Daily Bible Study Series. Louisville, Ky.: Westminster.
+* Barnes, Albert. 1949. ''Ephesians, Philippians, and Colossians''. Enlarged type edition. Edited by Robert Frew. Grand Rapids, Mich.: Baker.
+* Black, David A. 1995. "The Discourse Structure of Philippians: A Study in Textlinquistics." ''Novum Testamentum'' 37.1 (Jan.): 16–49
+* Blevins, James L. 1980. "Introduction to Philippians." ''Review and Expositor'' 77 (Sum.): 311-25.
+* Brooks, James A. 1980. “Introduction to Philippians.” ''[[Southwestern Journal of Theology]]'' 23.1 (Fall): 7–54.
+* Bruce, Frederick F. 1989. ''Philippians''. New International Biblical Commentary. New Testament Series. Edited by W. Ward Gasque. Peabody, Mass.: Hendrickson, 2002.
+* Burton, Ernest De Witt. 1896. “The Epistles of the Imprisonment.” ''Biblical World'' 7.1: 46–56.
+* Elkins, Garland. 1976. “The Living Message of Philippians.” Pages 171–80 in ''The Living Messages of the Books of the New Testament''. Edited by Garland Elkins and Thomas B. Warren. Jonesboro, Ark.: National Christian.
+* Garland, David E. 1985. “The Composition and Unity of Philippians: Some Neglected Literary Factors.” ''Novum Testamentum'' 27.2 (April): 141-73.
+* Hagelberg, Dave. 2007. ''Philippians: An Ancient Thank You Letter – A Study of Paul and His Ministry Partners’ Relationship''. English ed. Metro Manila: Philippine Challenge.
+* Hawthorne, Gerald F. 1983. ''Philippians''. Word Biblical Commentary 43. Edited by Bruce Metzger. Nashville, Tenn.: Nelson.
+* Herrick, Greg. [http://bible.org/seriespage/introduction-background-and-outline-philippians “Introduction, Background, and Outline to Philippians.”] ''Bible.org''.
+* Jackson, Wayne. 1987. ''The Book of Philippians: A Grammatical and Practical Study''. Abilene, Tex.: Quality.
+* Kennedy, H. A. A. 1900. “The Epistle to the Philippians.” ''Expositor’s Greek Testament''. Vol. 3. Edited by W. Robertson Nicoll. New York, NY: Doran.
+* Lenski, Richard C. H. 1937. ''The Interpretation of St. Paul’s Epistles to the Galatians, to the Ephesians, and to the Philippians''. Repr. Peabody, Mass.: Hendrickson, 2001.
+* Lipscomb, David and J.W. Shepherd. 1968. ''Ephesians, Philippians, and Colossians''. Rev. ed. Edited by J.W. Shepherd. Gospel Advocated Commentary. Nashville, Tenn.: Gospel Advocate.
+* Llewelyn, Stephen R. 1995. [http://98.131.162.170//tynbul/library/TynBull_1995_46_2_07_Llewelyn_SendingLetters_Philp.pdf” “Sending Letters in the Ancient World: Paul and the Philippians.”] ''Tyndale Bulletin'' 46.2: 337–56.
+* Mackay, B. S. 1961. “Further Thoughts on Philippians.” ''New Testament Studies'' 7.2 (Jan.): 161-70.
+* Martin, Ralph P. 1959. ''The Epistle of Paul to the Philippians''. Tyndale New Testament Commentaries. Ed. By R.V.G. Tasker. Grand Rapids, Mich.: Eerdmans, 1977.
+* Martin, Ralph P. 1976. ''Philippians''. New Century Bible Commentary. New Testament. Edited by Matthew Black. Repr. Grand Rapids, Mich.: Eerdmans.
+* McAlister, Bryan. 2011. “Introduction to Philippians: Mindful of How We Fill Our Minds.” ''Gospel Advocate'' 153.9 (Sept.): 12–13
+* Mule, D. S. M. (1981). The Letter to the Philippians. Cook Book House.
+* Müller, Jacobus J. 1955. ''The Epistle of Paul to the Philippians''. New International Commentary on the New Testament. Ed. By Frederick F. Bruce. Grand Rapids, Mich.: Eerdmans, 1991.
+* Pelaez, I. N. (1970). A Epistle on the Philippians. Angel & Water;reprint, Angels new books, ed. Michael Angelo. (1987). Peabody, MA: Hendrickson.
+* ''Dictionary of Paul and His Letters'', s.v. "Philippians, Letter to the"
+* Reicke, Bo. 1970. [http://biblicalstudies.org.uk/pdf/ahg/caesarea_reicke.pdf “Caesarea, Rome, and the Captivity Epistles.”] Pages 277–86 in ''Apostolic History and the Gospel: Biblical and Historical Essays Presented to F. F. Bruce''. Edited by W. Ward Gasque and Ralph P. Martin. Exeter: Paternoster Press.
+* Roper, David. 2003. [http://www.biblecourses.com/English/en_lessons/EN_199307_11.pdf “Philippians: Rejoicing in Christ.”] ''BibleCourses.com''. Accessed: 3 Sept. 2011.
+* Russell, Ronald. 1982. [http://www.etsjets.org/files/JETS-PDFs/25/25-3/25-3-pp295-306_JETS.pdf "Pauline Letter Structure in Philippians."] ''Journal of the Evangelical Theological Society'' 25.3 (Sept.): 295–306.
+* Sanders, Ed. 1987. “Philippians.” Pages 331–39 in ''New Testament Survey''. Edited by Don Shackelford. Searcy, Ark.: Harding University.
+* Sergio Rosell Nebreda, ''Christ Identity: A Social-Scientific Reading of Philippians 2.5–11'' (Göttingen, Vandenhoeck & Ruprecht, 2011) (Forschungen zur Religion und Literatur des Alten und Neuen Testaments, 240).
+* Swift, Robert C. 1984. [http://faculty.gordon.edu/hu/bi/Ted_Hildebrandt/NTeSources/NTArticles/BSac-NT/Swift-PhilipStruct-BS.htm "The Theme and Structure of Philippians."] ''Bibliotheca Sacra'' 141 (July): 234-54.
+* Synge, F.C. 1951. ''Philippians and Colossians''. Torch Bible Commentaries. Edited by John Marsh, David M. Paton, and Alan Richardson. London: SCM, 1958.
+* Thielman, Frank. 1995. ''Philippians''. NIV Application Commentary. General Editor. Terry Muck. Grand Rapids, Mich.: Zondervan.
+* Vincent, Marvin R. 1897. ''The Epistle to the Philippians and to Philemon''. International Critical Commentary. Ed. By Samuel R. Driver, Alfred Plummer, Charles A. Briggs. Edinburgh: Clark, 1902.
+* Vincent, Marvin R. ''Vincent’s Word Studies in the New Testament''. 4 vols. Peabody, Mass.: Hendrickson, n.d.
+* Wallace, Daniel B. [http://bible.org/seriespage/philippians-introduction-argument-and-outline “Philippians: Introductions, Argument, and Outline.”] ''Bible.org''.
+* Walvoord, John F. 1971. ''Philippians: Triumph in Christ''. Everyman’s Bible Commentary. Chicago, Ill.: Moody.
+
+== External links ==
+Online translations of the Epistle to the Philippians:
+* [http://www.gospelhall.org/bible/bible.php?passage=Philippians+1 ''Online Bible'' at GospelHall.org]
+Online Study of Philippians:
+* [http://www.tyndale.ca/seminary/mtsmodular/reading-rooms/newt/philippians Letter to the Philippians Online Reading Room]: Commentaries and other resources (Tyndale Seminary)
+* [http://biblicalstudies.org.uk/philippians.php Letter to the Philippians Online Reading Room]: Commentaries and other resources (BiblicalStudies.org.uk)
+* [http://www.ntgateway.com/paul-the-apostle/philippians/ Letter to the Philippians Online Reading Room]: Commentaries and other resources (NTGateway.com)
+* [http://www.textweek.com/pauline/phil.htm Letter to the Philippians Online Reading Room]: Commentaries and other resources (TextWeek.com)
+
+Related articles:
+* [http://www.bible.org/page.asp?page_id=1333 Bible.org introduction to Philippians]
+* [http://www.new-testament-christian.com/philippians.html Sermons on Philippians]
+* {{CathEncy|wstitle=Epistle to the Philippians}}
+
+{{s-start}}
+{{s-hou|[[Pauline epistles|Pauline]] [[Epistles|Epistle]]|||}}
+{{s-bef|before=[[Epistle to the Ephesians|Ephesians]]}}
+{{s-ttl|title=<small>[[New Testament]]</small><br>[[Books of the Bible]]}}
+{{s-aft|after=[[Epistle to the Colossians|Colossians]]}}
+{{s-end}}
+{{Epistle to the Philippians}}
+{{Books of the Bible}}
+
+{{DEFAULTSORT:Epistle To The Philippians}}
+[[Category:New Testament books|Philippians]]
+[[Category:Pauline-related books]]
+[[Category:Prison writings]]
+[[Category:Canonical epistles|Philippians]]
+[[Category:Christianity in Roman Macedonia|Philippians]]
+[[Category:Ancient Philippi]]
+[[Category:Epistle to the Philippians| ]]

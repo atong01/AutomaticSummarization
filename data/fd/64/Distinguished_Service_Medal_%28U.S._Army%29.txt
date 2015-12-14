@@ -1,0 +1,243 @@
+{{About|Army Distinguished Service Medal|other U.S. versions|Distinguished Service Medal (disambiguation)}}
+{{Infobox military award
+|name=Army Distinguished Service Medal
+|image=[[Image:Distservmedal.jpg|125px]]
+|caption=
+|awarded_by=[[United States Army]]
+|type=Military medal<br>(Decoration)
+|eligibility=Awards may be made to persons other than members of the Armed Forces of the United States for wartime services only, and then only under exceptional circumstances, with the express approval of the President in each case.
+|for=Distinguished himself or herself by exceptionally meritorious service to the Government in a duty of great responsibility.
+|status=Current
+|description=
+|clasps=
+|established= January 2, 1918
+|first_award= January 12, 1918
+|last_award=
+|total=
+|posthumous=
+|recipients=
+|individual=
+|higher=[[Defense Distinguished Service Medal]], [[Homeland Security Distinguished Service Medal]], [[Department of Commerce Gold Medal]]
+|same=Distinguished Service Medal: [[Navy Distinguished Service Medal|Navy-Marine]], [[Air Force Distinguished Service Medal|Air Force]], [[Coast Guard Distinguished Service Medal|Coast Guard]],  [[Public Health Service Distinguished Service Medal|Public Health Service Uniformed Corps]]
+|lower=[[Silver Star]] 
+|image2=[[Image:Distinguished Service Medal ribbon.svg]]
+|caption2=Army Distinguished Service Medal ribbon
+}}
+
+The '''Distinguished Service Medal''' (DSM) is a [[Awards and decorations of the United States military|military award]] of the [[United States Army]] that is presented to any person who, while serving in any capacity with the [[United States military]], has distinguished himself or herself by exceptionally meritorious service to the Government in a duty of great responsibility. The performance must be such as to merit recognition for service that is clearly exceptional. Exceptional performance of normal duty will not alone justify an award of this decoration.<ref>[http://www.tioh.hqda.pentagon.mil/Awards/distinguished_srv_medal.aspx Institute of Heraldry Distinguished Service Medal]</ref>
+
+Separate Distinguished Service Medals exist for the different branches of the military as well as a fifth version of the medal which is a senior award of the United States Department of Defense.  The Army version of the Distinguished Service Medal is typically referred to simply as the "Distinguished Service Medal" while the other branches of service use the service name as a prefix.
+
+For service not related to actual war, the term "duty of a great responsibility" applies to a narrower range of positions than in time of war, and requires evidence of conspicuously significant achievement. However, justification of the award may accrue by virtue of exceptionally meritorious service in a succession of high positions of great importance.
+
+Awards may be made to persons other than members of the [[United States military|Armed Forces of the United States]] for wartime services only, and then only under exceptional circumstances, with the express approval of the President in each case.
+
+==Description==
+*The Coat of Arms of the United States in Gold surrounded by a circle of Dark Blue enamel, 1 ½ inches in diameter, bearing the inscription "'''FOR DISTINGUISHED SERVICE MCMXVIII'''".
+*On the reverse is a scroll for the name of the recipient (which is to be engraved) upon a trophy of flags and weapons. The medal is suspended by a bar attached to the ribbon.
+
+===Ribbon===
+*The ribbon is 1 3/8&nbsp;inches wide and consists of the following stripes:
+#5/16&nbsp;inch Scarlet 67111;
+#1/16&nbsp;inch Ultramarine Blue 67118;
+#5/8&nbsp;inch White 67101;
+#1/16&nbsp;inch Ultramarine Blue;
+#5/16&nbsp;inch Scarlet.
+
+*Additional awards of the Distinguished Service Medal are denoted by [[oak leaf cluster]]s.
+
+==Criteria==
+The Distinguished Service Medal is awarded to any person who, while serving in any capacity with the United States Army, has distinguished himself or herself by exceptionally meritorious service to the Government in a duty of great responsibility.
+The performance must be such as to merit recognition for service which is clearly exceptional. Exceptional performance of normal duty will not alone justify an award of this decoration. For service not related to actual war, the term "duty of a great responsibility" applies to a narrower range of positions than in time of war and requires evidence of a conspicuously significant achievement. However, justification of the award may accrue by virtue of exceptionally meritorious service in a succession of high positions of great importance. Awards may be made to persons other than members of the Armed Forces of the United States for wartime services only, and only then under exceptional circumstances with the express approval of the President in each case.<ref>[http://edocket.access.gpo.gov/cfr_2008/julqtr/32cfr578.11.htm The Institute of Heraldry 578.11  Distinguished Service Medal]</ref>
+
+==Components==
+*The following are authorized components of the Distinguished Service Medal and applicable specifications:
+#Decoration (regular size): MIL-D-3943/7.
+##NSN for decoration set: 8455-00-444-0007.
+##NSN for replacement medal is 8455-00-246-3830.
+#Decoration (miniature size): MIL-D-3943/7. NSN 8455-00-996-5008.
+#Ribbon: MIL-R-11589/52. NSN 8455-00-252-9922.
+#Lapel Button (metal replica of ribbon bar): MIL-L-11484/4. NSN 8455-00-253-0809.
+
+==History of the Distinguished Service Medal==
+The Distinguished Service Medal was authorized by Presidential Order dated 01-02-1918, and confirmed by Congress on 07-09-1918. It was announced by War Department General Order No. 6, 1918-01-12, with the following information concerning the medal: "A bronze medal of appropriate design and a ribbon to be worn in lieu thereof, to be awarded by the President to any person who, while serving in any capacity with the Army shall hereafter distinguish himself or herself, or who, since 04-06-1917, has distinguished himself or herself by exceptionally meritorious service to the Government in a duty of great responsibility in time of war or in connection with military operations against an armed enemy of the United States." The Act of Congress on 07-09-1918, recognized the need for different types and degrees of heroism and meritorious service and included such provisions for award criteria. The current statutory authorization for the Distinguished Service Medal is Title 10, [[United States Code]], Section 3743.
+
+==Recipients==
+{{see also|Category:Recipients of the Distinguished Service Medal (United States)}}
+*Among the first awards of the Distinguished Service Medal for service in World War I, were those to the Commanding Officers of the Allied Armies:
+#Marshal [[Ferdinand Foch]]
+#Marshal [[Joseph Joffre]],
+#General [[Philippe Petain]] of France,
+#General [[Louis Franchet d'Espèrey]] of France,
+#General Sir [[Arthur Currie]] of Canada,
+#General Sir [[John Monash]] of Australia,
+#Field Marshal [[Douglas Haig, 1st Earl Haig]] of Britain,
+#General [[Armando Diaz]] of Italy,
+#General [[Cyriaque Gillain]] of Belgium,
+#General [[John Joseph Pershing]] - United States
+#[[Voivode#Serbia|Field Marshal]] [[Živojin Mišić]] of Serbia
+
+More than 2,000 awards were made during World War I, and by the time the United States entered World War II, approximately 2,800 awards had been made.  From July 1, 1941 to June 6, 1969, when the Army stopped publishing awards of the DSM in Department of the Army General Orders, over 2,800 further awards were made.<ref>George H. Apgar (1995), ''Awards of the US Army Distinguished Service Medal 1942-1969'', Planchet Press</ref>
+
+Until the first award of the [[Air Force Distinguished Service Medal]] in 1965, [[United States Air Force]] personnel received this award as well, as was the case with several other Army decorations until the Air Force fully established its own system of decorations.
+
+===Notable recipients===
+Because the Army Distinguished Service Medal is principally awarded to general officers, a list of notable recipients would include nearly every general and admiral since 1918, many of whom received multiple awards, as well as a few civilians and sergeants major prominent for their contributions to national defense.  
+
+Generals of the Army Douglas MacArthur and Dwight Eisenhower are tied for the record of the greatest number of awards received of the Army Distinguished Service Medal at five each.  They also each received one award of the Navy Distinguished Service Medal.  
+
+Among notable recipients below flag rank are: X-1 test pilot [[Chuck Yeager]] and X-15 test pilot [[Robert M. White]], who both received the DSM as U.S. Air Force majors; Air Force Major [[Rudolf Anderson]], the [[Lockheed U-2|U-2]] pilot shot down during the [[Cuban Missile Crisis]]; director [[Frank Capra]], decorated in 1945 as an Army colonel; actor [[James Stewart]], decorated in 1945 as an Army Air Forces colonel (later Air Force Brigadier General); Col. [[Wendell Fertig]], who led Filipino guerrillas behind Japanese lines; Col. (later Major General) [[John K. Singlaub]], who led partisan forces in the Korean War; and Maj. Maude C. Davison, who led the "[[Angels of Bataan]] and Corregidor" during their imprisonment by the Japanese, and Colonel William S. Taylor, Program Manager Multiple Launch Rocket System. Among notable civilian recipients are [[Harry L. Hopkins]], [[Robert S. McNamara]] and [[Henry L. Stimson]].
+
+Notable American and foreign recipients include:
+{{Expand list|date=August 2008}}
+
+===United States Army===
+*General of the Armies [[John J. Pershing]] - Commander of the [[American Expeditionary Force]]
+*General of the Army [[George C. Marshall]] - [[US Army Chief of Staff]]
+*General of the Army [[Douglas MacArthur]] - US Army Chief of Staff
+*General of the Army [[Dwight D. Eisenhower]] - NATO [[Supreme Allied Commander Europe]]
+*General of the Army [[Omar N. Bradley]] - [[Chairman of the Joint Chiefs of Staff]]
+*General [[Tasker H. Bliss]] - US Army Chief of Staff
+*General [[Peyton C. March]] - US Army Chief of Staff
+*General [[John J. Hennessey]] - Commander in Chief of [[United States Readiness Command]]
+*General [[John L. Hines]] - US Army Chief of Staff
+*General [[Malin Craig]] - US Army Chief of Staff
+*General [[Lyman L. Lemnitzer]] - NATO Supreme Allied Commander Europe
+*General [[Harold K. Johnson]] - US Army Chief of Staff
+*General [[J. Lawton Collins]] - US Army Chief of Staff
+*General [[Earle G. Wheeler]] - [[Chairman of the Joint Chiefs of Staff]]
+*General [[Ann E. Dunwoody]] - First female US Army four star general
+*General [[Joseph Stilwell]] - Commander of the [[China Burma India Theater]]
+*General [[Edward C. Meyer]] - US Army Chief of Staff
+*General [[George S. Patton]] - Commander of the 3rd Army
+*General [[Mark W. Clark]] - Commander of the United Nations Command in Korea
+*General [[Walton Walker]] - Commander of the 8th Army in Korea
+*General [[Matthew B. Ridgeway]] - US Army Chief of Staff
+*General [[Maxwell D. Taylor]] - US Army Chief of Staff
+*General [[James Van Fleet]] - Commander of 8th Army in Korea
+*General [[William Westmoreland]] - US Army Chief of Staff
+*General [[Creighton Abrams]] - US Army Chief of Staff
+*General [[Alexander Haig]] - NATO Supreme Allied Commander Europe
+*General [[John Shalikashvili]] - [[Chairman of the Joint Chiefs of Staff]]
+*General [[Joseph Stilwell]] - Commander of the China, Burma, India Theater
+*General [[Colin Powell]] - [[Chairman of the Joint Chiefs of Staff]]
+*General [[Norman Schwarzkopf]] - Commander of [[Operation Desert Storm]]
+*General [[Bernard Rogers]] - NATO Supreme Allied Commander Europe
+*Lieutenant General [[John B. Coulter]] - with 2 bronze oak leaf clusters in lieu of 2 subsequent awards of medal
+*Lieutenant General [[Keith M. Huber]]
+*Lieutenant General [[Hunter Liggett]]
+*Lieutenant General [[William Wilson Quinn]] - Chevalier of the French Legion of Honor
+*Major General [[Chester V. Clifton]] - Military Aide to Presidents Kennedy and Johnson
+*Major General [[William J. Donovan]] - Founder of the [[Office of Strategic Services]]
+*Major General [[George W. Goethals]] - Engineer of the [[Panama Canal]]
+*Major General [[William C. Gorgas]] - Surgeon General of the Army
+*Major General [[Edward Mann Lewis]]
+*Major General [[Henry Balding Lewis]]
+*Major General [[Robert McGowan Littlejohn]]
+*Major General [[Mason M. Patrick]]
+*Major General [[Arthur R. Wilson]]
+*Brigadier General [[Charles G. Dawes]] - Vice President of the United States
+*Brigadier General [[Russell W. Volckmann]]
+*Colonel [[Harvey Williams Cushing]] - Neurosurgeon
+*Colonel [[Oveta Culp Hobby]] - Director of the [[Women's Army Corps]] during World War II
+*Major [[Forsyth Wickes]] - Socialite, philanthropist and collector.
+*Chaplain [[Francis P. Duffy]] - Chaplain of the "[[69th New York Infantry|Fighting 69th]]"
+*Chief Warrant Officer Five [[John T. Schey, Jr.]]
+*Command Sergeant Major [[David S. Davenport]] - Senior Enlisted Advisor, Army Europe
+
+===United States Navy===
+*Fleet Admiral [[Chester W. Nimitz]] - [[Chief of Naval Operations]]
+*Fleet Admiral [[William F. Halsey]] - Commander of the [[United States Third Fleet|3rd Fleet]]
+*Admiral [[Raymond A. Spruance]] - Commander of the [[United States Fifth Fleet|5th Fleet]] (later Ambassador to the [[Philippines]])
+*Admiral [[William J. Crowe, Jr.]] - Chairman of the Joint Chiefs of Staff
+*Admiral [[Carlisle Trost]] - Chief of Naval Operations
+*Vice Admiral [[Robert L. Ghormley]]
+*Vice Admiral [[Henry Kent Hewitt]] (with oak leaf cluster)
+
+===United States Marine Corps===
+*Major General [[Smedley Butler]], USMC
+*General [[Paul X. Kelley]], USMC
+*General [[Vernon E. Megee]], USMC <ref>http://projects.militarytimes.com/citations-medals-awards/recipient.php?recipientid=42339</ref>
+
+===United States Air Force===
+Note - includes Army Air Service, Army Air Corps and Army Air Forces
+
+*General of the Air Force [[Hap Arnold]] - Commander of the Army Air Forces
+*General [[Jimmy Doolittle]]
+*General [[Edwin W. Rawlings]]
+*General [[Joseph McNarney]]
+*General [[Hoyt S. Vandenberg]]
+*General [[George C. Kenney]]
+*General [[Curtis Lemay]] - Air Force Chief of Staff
+*General [[Carl Spaatz]] - Air Force Chief of Staff
+*General [[Michael E. Ryan]]
+*Lieutenant General [[Claire Lee Chennault]] (with oak leaf cluster) - Leader of the [[Flying Tigers]]
+*Major General [[Billy Mitchell]], USAAC - Military air power prophet
+*Brigadier General [[Chuck Yeager]] - Legendary test pilot
+*Captain [[John Birch (missionary)|John Birch]], USAAF - Missionary, guerilla leader and namesake of the [[John Birch Society]]
+
+===Civilians===
+*[[Frank Capra]] - Movie director
+*[[Jacqueline Cochran]] - Aviatrix and founder of the [[Women Airforce Service Pilots]] (WASPs)
+*[[Henry Pomeroy Davison]] - Director of the [[American Red Cross]]
+*[[Jane Delano]] - Founder of the [[American Red Cross Nursing Service]]
+*[[Harry Hopkins]] - Presidential aide
+*[[Robert McNamara]] - Secretary of Defense
+*[[Anna Howard Shaw]] - Women's suffragist
+*[[Henry L. Stimson]] - Secretary of War
+
+===Foreigners===
+*[[Edmund Allenby, 1st Viscount Allenby]], General (later Field Marshal), British Army
+*HM [[Albert I of Belgium|Albert I]], King of the Belgians
+*[[Alan Brooke, 1st Viscount Alanbrooke]], Field Marshal, British Army
+*[[Pietro Badoglio]], General, Italian Army
+*[[William Birdwood, 1st Baron Birdwood]], General, British Indian Army (during secondment to Australian Army, later promoted to Field Marshal)
+*[[Julian Byng, 1st Viscount Byng of Vimy]], General (later Field Marshal), British Army
+*Sir [[Winston Churchill]] KG, OM, PC, CH, FRS - British Minister of Munitions (later Prime Minister)
+*[[Harry Crerar]], Lieutenant General, Canadian Army
+*[[Andrew Cunningham, 1st Viscount Cunningham of Hyndhope]], Admiral of the Fleet, Royal Navy
+*Sir [[Arthur Currie]], Lieutenant General, British Army, commanding Canadian Corps
+*[[Georges de Bazelaire]], Major General, VII Army Corps of the French Army during World War I
+*Sir [[Francis de Guingand]], Major General, British Army
+*[[Jean de Lattre de Tassigny]], General, French Army (later a [[Marshal of France]])
+*Sir [[Miles Dempsey]], General, British Army
+*Sir [[John Dill]], Field Marshal, British Army
+*[[Ferdinand Foch]], Marshal of France, French Army
+*[[Arthur Travers Harris|Arthur T. Harris]], Air Chief Marshal, Royal Air Force (later a [[Marshal of the Royal Air Force]])
+*[[Chiang Kai-shek]], General, Chinese Army
+*[[Charles Mangin]], General, French Army
+*Sir [[Richard McCreery]], General, British Army
+*Sir [[John Monash]], General, Australian Army
+*[[Bernard Montgomery, 1st Viscount Montgomery of Alamein]], Field Marshal, British Army
+*Sir [[Frederick E. Morgan]], Lieutenant General, British Army
+*[[Louis Mountbatten, 1st Earl Mountbatten of Burma]], Admiral, Royal Navy (later [[Admiral of the Fleet (Royal Navy)|Admiral of the Fleet]])
+*[[Alexander Pokryshkin]], Marshal of the Soviet Air Force
+*[[Charles Portal, 1st Viscount Portal of Hungerford]], [[Marshal of the Royal Air Force]]
+*[[Frederick Sykes]], [[Chief of the Air Staff (United Kingdom)]]
+*[[Arthur Tedder, 1st Baron Tedder]], Air Chief Marshal, Royal Air Force (later [[Marshal of the Royal Air Force]])
+*[[Sir Henry Worth Thornton]], Major General, British Army (American born)
+*Sir [[Montgomery-Cuninghame baronets|Thomas Andrew Alexander Montgomery-Cuninghame]], 10th Baronet of Corsehill, Brevet Lieutenant Colonel, Military Attache, British Army<ref> {{cite news |title=The Gazette |work=The Edinburgh Gazette |date =18 July 1919 |accessdate=19 June 2014 |url=https://www.thegazette.co.uk/Edinburgh/issue/13475/page/2427| publisher = [[The Edinburgh Gazette]]}}</ref>
+*[[Maxime Weygand]], General, French Army
+
+==See also==
+*[[Navy Distinguished Service Medal]]
+*[[Air Force Distinguished Service Medal]]
+*[[Awards and decorations of the United States military]]
+*[[Awards and decorations of the United States Army]]
+
+==References==
+{{Reflist}}<!--added above External links/Sources by script-assisted edit-->
+
+==External links==
+{{commons category|Distinguished Service Medal (United States Army)|Distinguished Service Medal}}
+*[http://www.army.mil/usapa/epubs/xml_pubs/r600_8_22/cover.xml  Department of the Army Regulation 600-8-22; Military Awards; 2006-12-11; Effective date: 2007-01-11.]
+*[http://www.army.mil/usapa/epubs/xml_pubs/r670_1/cover.xml Department of the Army Regulation 670-1; Wear and Appearance of Army Uniforms and Insignia; 2005-02-03; Effective date: 2005-03-03.]
+*[http://www.tioh.hqda.pentagon.mil/Awards/DISTINGUISHED%20SERVICE%20MEDAL1.htm US Army Institute of Heraldry: Distinguished Service Medal]
+*[http://www.gruntsmilitary.com/dsm.shtml Distinguished Service Medal - Criteria, Background, and Images]
+*[http://www.ncohistory.com/history/noteworthy.html Noteworthy NCOs]
+
+{{USArmy decorations}}
+
+[[Category:Awards and decorations of the United States Army]]
+[[Category:Recipients of the Distinguished Service Medal (US Army)|*]]
+[[Category:Awards established in 1918]]

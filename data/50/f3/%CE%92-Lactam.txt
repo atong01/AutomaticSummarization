@@ -1,0 +1,42 @@
+{{about|the chemical compound|the related antibiotics|β-Lactam antibiotic}}
+{{DISPLAYTITLE:β-Lactam}}
+[[File:Beta-lactam.svg|thumb|120px|right|[[2-Azetidinone]], the simplest β-lactam]]
+A '''β-lactam''' ('''beta-lactam''') ring is a four-membered [[lactam]].<ref>{{cite book | last = Gilchrist | first = T. | title = Heterocyclic Chemistry | publisher = Longman Scientific | location = Harlow | year = 1987 | isbn = 0-582-01421-2 }}</ref> (A lactam is a cyclic [[amide]]). It is named as such because the nitrogen atom is attached to the β-carbon relative to the carbonyl. The simplest β-lactam possible is [[2-azetidinone]].
+
+==Clinical significance==
+[[Image:Penicillin core.svg|thumb|180px|Penicillin core structure]]
+The β-lactam ring is part of the core structure of several [[antibiotic]] families, the principal ones being the [[penicillin]]s, [[cephalosporin]]s, [[carbapenem]]s, and [[monobactam]]s, which are, therefore, also called [[β-lactam antibiotic]]s. Nearly all of these antibiotics work by inhibiting bacterial [[cell wall]] biosynthesis. This has a lethal effect on [[bacteria]]. Bacteria do, however, contain within their populations, in smaller quantities, bacteria that are [[antibiotic resistance|resistant]] against β-lactam antibiotics. They do this by expressing one of many [[beta-lactamase|β-lactamase]] genes. More than 1,000 different β-lactamase enzymes have been documented in various species of bacteria.<ref name=Ehmann>{{cite journal | last1 = Ehmann | first1 = David E.| year = 2012 | title = Avibactam is a covalent, reversible, non-β-lactam β-lactamase inhibitor | url = | journal = PNAS | volume = 109 | issue = 29| pages = 11663–11668 | doi=10.1073/pnas.1205073109|display-authors=etal}}</ref> These enzymes vary widely in their chemical structure and catalytic efficiencies.<ref name=Ehmann /> When bacterial populations have these resistant subgroups, treatment with β-lactam can result in the resistant strain becoming more prevalent and therefore more virulent.
+
+==History==
+The first synthetic β-lactam was prepared by [[Hermann Staudinger]] in 1907 by reaction of the [[Schiff base]] of [[aniline]] and [[benzaldehyde]] with [[diphenylketene]]<ref>{{cite journal |doi=10.1002/anie.200702965 |title=Hugo (Ugo) Schiff, Schiff Bases, and a Century of β-Lactam Synthesis |year=2008 |author=Tidwell, Thomas T. |journal=Angewandte Chemie International Edition |volume=47 | pages=1016–20 |pmid=18022986 |issue=6}}</ref><ref>{{cite journal | author = [[Hermann Staudinger]] | journal = Justus Liebigs Ann. Chem. | title = Zur Kenntniss der Ketene. Diphenylketen | date = 1907 | volume = 356 | issue = 1-2 | pages = 51–123 | doi=10.1002/jlac.19073560106}}</ref> in a [2+2] [[cycloaddition]]:
+:[[Image:StaudingerLactam.svg]]
+
+Up to 1970, most β-lactam research was concerned with the [[penicillin]] and [[cephalosporin]] groups, but since then, a wide variety of structures have been described.<ref>{{cite book |last=Flynn|first=E.H.|title=Cephalosporins and Penicillins : Chemistry and Biology|year=1972|publisher=Academic Press|location=New York and London}}</ref>
+
+==Synthesis==
+The Breckpot Synthesis
+*The synthesis of substituted β-lactams from the cyclization of beta amino acid esters using the [[Grignard reagent]] [http://www.pmf.ukim.edu.mk/PMF/Chemistry/reactions/breckpot.htm]
+
+[[File:Breckpot synthesis.jpg|thumb|Breckpot Synthesis]]
+
+==Reactivity==
+Due to [[ring strain]], β-lactams are more reactive to [[hydrolysis]] conditions than are linear [[amide]]s or larger [[lactam]]s. This strain is further increased by fusion to a second ring, as found in most β-lactam antibiotics. This trend is due to the amide character of the β-lactam being reduced by the [[Plane (geometry)|aplanarity]] of the system. The nitrogen atom of an ideal amide is [[Orbital hybridisation|sp<sup>2</sup>-hybridized]] due to [[Resonance (chemistry)|resonance]], and sp<sup>2</sup>-hybridized atoms have [[Trigonal planar molecular geometry|trigonal planar bond geometry]]. As a [[Pyramid (geometry)|pyramidal]] bond geometry is forced upon the nitrogen atom by the ring strain, the resonance of the amide bond is reduced, and the carbonyl becomes more [[ketone]]-like. [[Nobel laureate]] [[Robert Burns Woodward|Woodward]] described a parameter ''h'' as a measure of the height of the trigonal pyramid defined by the nitrogen (as the [[Apex (geometry)|apex]]) and its three adjacent atoms. ''h'' corresponds to the strength of the β-lactam bond with lower numbers (more planar; more like ideal amides) being stronger and less reactive.<ref>{{cite journal | last1 = Woodward | first1 = R.B. | year = 1980 | title = Penems and related substances | url = | journal = Phil Trans Royal Soc Chem B | volume = 289 | issue = 1036| pages = 239–50 | doi=10.1098/rstb.1980.0042}}</ref> Monobactams have ''h'' values between 0.05 and 0.10 [[angstrom]]s (Å). Cephems have ''h'' values in of 0.20&ndash;0.25 Å. Penams have values in the range 0.40&ndash;0.50 Å, while carbapenems and clavams have values of 0.50&ndash;0.60 Å, being the most reactive of the β-lactams toward hydrolysis.<ref>{{cite journal | last1 = Nangia | first1 = A. | last2 = Biradha | first2 = K. | last3 = Desiraju | first3 = G.R. | year = 1996 | title = Correlation of biological activity in β-lactam antibiotics with Woodward and Cohen structural parameters: A Cambridge database study | url = | journal = J Chem Soc, Perkin Trans | volume = 2 | issue = 5| pages = 943–53 | doi=10.1039/p29960000943}}</ref>
+
+==Other applications==
+A new study has suggested that β-lactams can undergo ring-opening [[polymerization]] to form amide bonds, to become nylon-3 polymers. The backbones of these polymers are identical to peptides, which offer them biofunctionality. These nylon-3 polymers can either mimic [[host defense peptides]] or act as signals to stimulate [[3T3]] [[stem cell]] function.{{Citation needed|date=November 2011}}
+
+[[Antiproliferative agent]]s that target tubulin with β-lactams in their structure have also been reported.<ref>{{cite journal |last=O'Boyle|first=Niamh|author2=Miriam Carr |author3=Lisa Greene |author4=Orla Bergin |author5=Seema M. Nathwani |author6=Thomas McCabe |author7=David G. Lloyd |author8=Daniela M. Zisterer |author9=Mary J. Meegan|title=Synthesis and Evaluation of Azetidinone Analogues of Combretastatin A-4 as Tubulin Targeting Agents|journal=Journal of Medicinal Chemistry|date=December 2010|volume=53|issue=24|pages=8569–8584|doi=10.1021/jm101115u|pmid=21080725}}</ref><ref>{{cite journal |last=O'Boyle|first=Niamh|author2=Lisa Greene |author3=Orla Bergin |author4=Jean-Baptiste Fichet |author5=Thomas McCabe |author6=David G. Lloyd |author7=Daniela M Zisterer |author8=Mary J. Meegan|title=Synthesis, evaluation and structural studies of antiproliferative tubulin-targeting azetidin-2-ones|journal=Bioorganic and Medicinal Chemistry|year=2011|volume=19|issue=7|pages=2306–2625|doi=10.1016/j.bmc.2011.02.022}}</ref>
+
+==See also==
+* [[Azetidine]]
+* [[Lactam]]
+* [[Lactone]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://www.organic-chemistry.org/synthesis/heterocycles/lactams/beta-lactams.shtm Synthesis of β-lactams]
+
+{{DEFAULTSORT:Lactam, beta-}}
+[[Category:Lactams]]

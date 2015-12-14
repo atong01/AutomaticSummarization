@@ -1,0 +1,278 @@
+[[File:Biosphere Data 2000 through 2004.ogv|thumb|300px|Animation depicting nearly four years worth of [[SeaWiFS]] ocean chlorophyll concentration.]]
+[[File:MY1DMM CHLORA.ogv|thumb|These chlorophyll maps show milligrams of chlorophyll per cubic meter of seawater each month. Places where chlorophyll amounts were very low, indicating very low numbers of phytoplankton, are blue. Places where chlorophyll concentrations were high, meaning many phytoplankton were growing, are yellow. The observations come from the Moderate Resolution Imaging Spectroradiometer (MODIS) on NASA’s Aqua satellite. Land is dark gray, and places where MODIS could not collect data because of sea ice, polar darkness, or clouds are light gray.The highest chlorophyll concentrations, where tiny surface-dwelling ocean plants are [[thriving]], are in cold polar waters or in places where ocean currents bring cold water to the surface, such as around the equator and along the shores of continents. It is not the cold water itself that stimulates the phytoplankton. Instead, the cool temperatures are often a sign that the water has welled up to the surface from deeper in the ocean, carrying nutrients that have built up over time. In polar waters, nutrients accumulate in surface waters during the dark winter months when plants can’t grow. When sunlight returns in the spring and summer, the plants flourish in high concentrations.<ref>[http://earthobservatory.nasa.gov/GlobalMaps/view.php?d1=MY1DMM_CHLORA Chlorophyll : Global Maps]. Earthobservatory.nasa.gov. Retrieved on 2014-02-02.</ref>]]
+
+'''Chlorophyll''' (also '''chlorophyl''')  is a term used for several closely related green [[pigment]]s found in [[cyanobacteria]] and the [[chloroplast]]s of [[alga]]e and [[plant]]s.<ref>{{cite web | url=http://www.chm.bris.ac.uk/motm/chlorophyll/chlorophyll_h.htm | title =Chlorophyll | author =May, Paul | publisher=[[University of Bristol]]}}</ref> Its name is derived from the [[Greek language|Greek]] words χλωρός, ''chloros'' ("green") and φύλλον, ''phyllon'' ("leaf").<ref name=OnlineEtDict>{{cite web|title=chlorophyll|url=http://www.etymonline.com/index.php?term=chlorophyll&allowed_in_frame=0|publisher=[[Online Etymology Dictionary]]}}</ref> Chlorophyll is an extremely important biomolecule, critical in [[photosynthesis]], which allows plants to absorb [[energy]] from light. Chlorophyll absorbs light most strongly in the [[Diffuse sky radiation|blue portion]] of the [[electromagnetic spectrum]], followed by the red portion. Conversely, it is a poor absorber of green and near-green portions of the spectrum, hence the green color of chlorophyll-containing tissues.<ref>Chlorophyll molecules are specifically arranged in and around photosystems that are embedded in the thylakoid membranes of chloroplasts. Two types of chlorophyll exist in the photosystems: chlorophyll a  and b.
+{{cite web
+| author = Speer, Brian R.
+| year = 1997
+| title = Photosynthetic Pigments
+| work = [http://www.ucmp.berkeley.edu/glossary/ UCMP Glossary (online)]
+| publisher = [[University of California Museum of Paleontology]]
+| url = http://www.ucmp.berkeley.edu/glossary/gloss3/pigments.html
+| accessdate = 2010-07-17
+}}</ref> Chlorophyll was first isolated and named by [[Joseph Bienaimé Caventou]] and [[Pierre Joseph Pelletier]] in 1817.<ref>See:
+*  {{cite journal
+| author = Delépine, Marcel
+| authorlink = :fr:Marcel Delépine
+|date=September 1951
+| title = Joseph Pelletier and Joseph Caventou
+| journal = [[Journal of Chemical Education]]
+| volume = 28
+| issue = 9
+| page = 454
+| doi = 10.1021/ed028p454
+|bibcode = 1951JChEd..28..454D }}
+*  Pelletier and Caventou (1817) [https://archive.org/stream/journaldepharma22unkngoog#page/n444/mode/2up "Notice sur la matière verte des feuilles"] (Notice on the green material in leaves), ''Journal de Pharmacie'', '''3''' :  486-491.  On p. 490, the authors propose a new name for chlorophyll.  From p. 490:  ''"Nous n'avons aucun droit pour nommer une substance connue depuis long-temps, et à l'histoire de laquelle nous n'avons ajouté que quelques faits ; cependant nous proposerons, sans y mettre aucune importance, le nom de ''chlorophyle'', de ''chloros'', couleur, et ''φυλλον'', feuille : ce nom indiquerait le rôle qu'elle joue dans la nature."''  (We have no right to name a substance [that has been] known for a long time, and to whose story we have added only a few facts ; however, we will propose, without giving it any importance, the name ''chlorophyll'', from ''chloros'', color, and ''φυλλον'', leaf :  this name would indicate the role that it plays in nature.)</ref>
+
+==Gallery==
+<gallery style="margin:auto;">
+Image:Leavessnipedale.jpg|Chlorophyll gives leaves their green color and absorbs light that is used in photosynthesis.
+Image:Clorofila 3.jpg|Chlorophyll is found in high concentrations in [[chloroplast]]s of plant cells.
+File:Chlorofilab.svg|Absorption maxima of chlorophylls against the spectrum of [[Electromagnetic spectrum#Visible radiation (light)|white light]].
+Image:AYool SEAWIFS annual.png|[[SeaWiFS]]-derived average sea surface '''chlorophyll''' for the period 1998 to 2006.
+</gallery>
+
+==Chlorophyll and photosynthesis==
+Chlorophyll is vital for [[photosynthesis]], which allows plants to absorb energy from [[light]].<ref>{{cite web | url=http://biology.clc.uc.edu/courses/bio104/photosyn.htm | title =Photosynthesis | author =Carter, J. Stein |publisher=[[University of Cincinnati]]| year =1996}}</ref>
+
+Chlorophyll molecules are specifically arranged in and around [[photosystem]]s that are embedded in the [[thylakoid]] membranes of [[chloroplast]]s.<ref>{{cite book | url=http://www.nature.com/scitable/topicpage/photosynthetic-cells-14025371 | title =Essentials of Cell Biology|chapter=Unit 1.3. Photosynthetic Cells | author =Nature | publisher =nature.com | date =July 5, 2013 }}</ref> In these complexes, chlorophyll serves two primary functions. The function of the vast majority of chlorophyll (up to several hundred molecules per photosystem) is to absorb light and transfer that light energy by [[resonance energy transfer]] to a specific chlorophyll pair in the [[reaction center]] of the photosystems.
+
+The two currently accepted photosystem units are [[Photosystem II]] and [[Photosystem I]], which have their own distinct reaction centres, named P680 and P700, respectively. These centres are named after the wavelength (in [[nanometer]]s) of their red-peak absorption maximum. The identity, function and spectral properties of the types of chlorophyll in each photosystem are distinct and determined by each other and the protein structure surrounding them. Once extracted from the protein into a solvent (such as [[acetone]] or [[methanol]]),<ref name=Marker1972>
+{{Cite journal
+| last = Marker
+| first = A. F. H.
+| year = 1972
+| title = The use of acetone and methanol in the estimation of chlorophyll in the presence of phaeophytin
+| journal = Freshwater Biology
+| volume = 2
+| page = 361
+| doi = 10.1111/j.1365-2427.1972.tb00377.x
+| issue = 4
+}}</ref><ref name=Jeffrey1969>
+{{Cite journal
+| last = Jeffrey
+| first =  S. W.
+| author2 = Shibata, Kazuo
+|date=February 1969
+| title = Some Spectral Characteristics of Chlorophyll c from Tridacna crocea Zooxanthellae
+| journal = [[Biological Bulletin]]
+| publisher = [[Marine Biological Laboratory]]
+| volume = 136
+| issue = 1
+| pages = 54–62
+| doi = 10.2307/1539668| jstor = 1539668
+}}</ref><ref>
+{{cite web
+| author = Gilpin, Linda
+| date = 21 March 2001
+| title = Methods for analysis of benthic photosynthetic pigment
+| publisher = School of Life Sciences, [[Napier University]]
+| url = http://web.archive.org/web/20080414215124/http://www.lifesciences.napier.ac.uk/teaching/MB/benchl01.html
+| accessdate = 2010-07-17
+}}</ref> these chlorophyll pigments can be separated in a simple [[paper chromatography]] experiment and, based on the number of polar groups between [[chlorophyll a]] and [[chlorophyll b]], will chemically separate out on the paper.
+
+The function of the reaction center chlorophyll is to use the energy absorbed by and transferred to it from the other chlorophyll pigments in the photosystems to undergo a charge separation, a specific [[redox]] reaction in which the chlorophyll donates an [[electron]] into a series of molecular intermediates called an [[electron transport chain]]. The charged reaction center chlorophyll (P680<sup>+</sup>) is then reduced back to its ground state by accepting an electron. In Photosystem II, the electron that reduces P680<sup>+</sup> ultimately comes from the oxidation of water into O<sub>2</sub> and H<sup>+</sup> through several intermediates. This reaction is how photosynthetic organisms such as plants produce O<sub>2</sub> gas, and is the source for practically all the O<sub>2</sub> in Earth's atmosphere. Photosystem I typically works in series with Photosystem II; thus the P700<sup>+</sup> of Photosystem I is usually reduced, via many intermediates in the thylakoid membrane, by electrons ultimately from Photosystem II. Electron transfer reactions in the thylakoid membranes are complex, however, and the source of electrons used to reduce P700<sup>+</sup> can vary.
+
+The electron flow produced by the reaction center chlorophyll pigments is used to shuttle H<sup>+</sup> ions across the thylakoid membrane, setting up a [[chemiosmosis|chemiosmotic]] potential used mainly to produce [[Adenosine triphosphate|ATP]] chemical energy; and those electrons ultimately reduce NADP<sup>+</sup> to [[NADPH]], a universal [[redox|reductant]] used to reduce CO<sub>2</sub> into sugars as well as for other biosynthetic reductions.
+
+Reaction center chlorophyll–protein complexes are capable of directly absorbing light and performing charge separation events without other chlorophyll pigments, but the absorption cross section (the likelihood of absorbing a photon under a given light intensity) is small. Thus, the remaining chlorophylls in the photosystem and antenna pigment protein complexes associated with the photosystems all cooperatively absorb and funnel light energy to the reaction center. Besides chlorophyll ''a'', there are other pigments, called [[accessory pigment]]s, which occur in these pigment–protein antenna complexes.
+
+==Chemical structure==
+[[Image:Chlorophyll-a-3D-vdW.png|thumb|Space-filling model of the chlorophyll a molecule]]
+Chlorophyll is a [[chlorin]] pigment, which is structurally similar to and produced through the same metabolic pathway as other [[porphyrin]] pigments such as [[heme]]. At the center of the chlorin ring is a [[magnesium]] [[ion]]. This was discovered in 1906,<ref>Willstätter, Richard (1906) [http://babel.hathitrust.org/cgi/pt?id=uva.x002455980;view=1up;seq=436 "Zur Kenntniss der Zusammensetzung des Chlorophylls"] ([Contribution] to the knowledge of the composition of chlorophyll), ''Annalen der Chemie'', '''350''' :  48-82.  From p. 49:  ''"Das Hauptproduct der alkalischen Hydrolyse bilden tiefgrüne Alkalisalze.  In ihnen liegen complexe Magnesiumverbindungen vor, die das Metall in einer gegen Alkali auch bei hoher Temperatur merkwürdig widerstandsfähigen Bindung enthalten."''  (Deep green alkali salts form the main product of alkali hydrolysis.  In them, complex magnesium compounds are present, which contain the metal in a bond that's extraordinarily resistant to alkali even at high temperature.) </ref> and was the first time that magnesium had been detected in living tissue.<ref name="motilva">{{Cite book
+| last = Motilva
+| first = Maria-José
+| contribution = Chlorophylls – from functionality in food to health relevance
+| year = 2008
+| title = 5th Pigments in Food congress- for quality and health
+| publisher = University of Helsinki
+| type = Print
+| isbn = 978-952-10-4846-3
+}}</ref> For the structures depicted in this article, some of the [[ligand]]s attached to the Mg<sup>2+</sup> center are omitted for clarity. The chlorin ring can have several different side chains, usually including a long [[phytol]] chain. There are a few different forms that occur naturally, but the most widely distributed form in terrestrial plants is chlorophyll ''a''. After initial work done by German chemist [[Richard Willstätter]] spanning from 1905 to 1915, the general structure of chlorophyll ''a'' was elucidated by [[Hans Fischer]] in 1940. By 1960, when most of the stereochemistry of chlorophyll ''a'' was known, [[Robert Burns Woodward]] published a total synthesis of the molecule.<ref name="motilva"/><ref>
+{{cite journal|last1=Woodward|first1=R. B.|last2=Ayer|first2=W. A.|last3=Beaton|first3=J. M.|date=July 1960|title=The total synthesis of chlorophyll|journal=[[Journal of the American Chemical Society]]|volume=82|issue=14|pages=3800–3802|doi=10.1021/ja01499a093|last4=Bickelhaupt|first4=F.|last5=Bonnett|first5=R.|last6=Buchschacher|first6=P.|last7=Closs|first7=G. L.|last8=Dutler|first8=H.|last9=Hannah|first9=J.|display-authors=9|last10=Hauck|first10=F. P.|last11=Itô|first11=S.|last12=Langemann|first12=A.|last13=Le Goff|first13=E.|last14=Leimgruber|first14=W.|last15=Lwowski|first15=W.|last16=Sauer|first16=J.|last17=Valenta|first17=Z.|last18=Volz|first18=H.}}</ref> In 1967, the last remaining stereochemical elucidation was completed by [[Ian Fleming (chemist)|Ian Fleming]],<ref>{{cite journal|last=Fleming|first=Ian|author-link=Ian Fleming (chemist)|date=14 October 1967|title=Absolute Configuration and the Structure of Chlorophyll|journal=[[Nature (journal)|Nature]]|volume=216|pages=151–152|doi=10.1038/216151a0|issue=5111|bibcode = 1967Natur.216..151F }}</ref> and in 1990 Woodward and co-authors published an updated synthesis.<ref>{{cite journal|last1=Woodward|first1=R. B.|last2=Ayer|first2=William A.|last3=Beaton|first3=John M.|last4=Bickelhaupt|first4=Friedrich|last5=Bonnett|first5=Raymond|last6=Buchschacher|first6=Paul|last7=Closs|first7=Gerhard L.|last8=Dutler|first8=Hans|last9=Hannah|first9=John|year=1990|title=The total synthesis of chlorophyll a|journal=[[Tetrahedron (journal)|Tetrahedron]]|volume=46|issue=22|pages=7599–7659|doi=10.1016/0040-4020(90)80003-Z|url=http://media.iupac.org/publications/pac/1961/pdf/0203x0383.pdf|format=PDF|display-authors=9|last10=Hauck|first10=Fred P.|last11=Itǒ|first11=Shǒ|last12=Langemann|first12=Albert|last13=Le Goff|first13=Eugene|last14=Leimgruber|first14=Willy|last15=Lwowski|first15=Walter|last16=Sauer|first16=Jürgen|last17=Valenta|first17=Zdenek|last18=Volz|first18=Heinrich}}</ref> [[Chlorophyll f]] was announced to be present in [[cyanobacteria]] and other oxygenic microorganisms that form [[stromatolites]] in 2010;<ref>Jabr, Ferris (August 19, 2010) [http://www.scientificamerican.com/article.cfm?id=new-form-chlorophyll A New Form of Chlorophyll?]. ''Scientific American''. Retrieved on 2012-04-15.</ref><ref>[http://www.newscientist.com/article/dn19338-infrared-chlorophyll-could-boost-solar-cells.html Infrared chlorophyll could boost solar cells]. New Scientist. August 19, 2010. Retrieved on 2012-04-15.</ref> a molecular formula of C<sub>55</sub>H<sub>70</sub>O<sub>6</sub>N<sub>4</sub>Mg and a structure of (2-[[formyl]])-chlorophyll ''a'' were deduced based on NMR, optical and mass spectra.<ref>{{cite journal|last1=Chen|first1=Min|last2=Schliep|first2=Martin|last3=Willows|first3=Robert D.|last4=Cai|first4=Zheng-Li|last5=Neilan|first5=Brett A.|last6=Scheer|first6=Hugo|title=A Red-Shifted Chlorophyll|journal=[[Science (journal)|Science]]|volume=329|issue=5997|pages=1318–1319|date=September 2010|bibcode=2010Sci...329.1318C|doi=10.1126/science.1191127|pmid=20724585}}</ref> The different structures of chlorophyll are summarized below:{{citation needed|date=August 2012}}
+
+{| class="wikitable"
+|
+! [[Chlorophyll a]]
+! [[Chlorophyll b]]
+! [[Chlorophyll c1]]
+! [[Chlorophyll c2]]
+! [[Chlorophyll d]]
+! [[Chlorophyll f]]
+|-
+| [[Molecular formula]]
+| C<sub>55</sub>H<sub>72</sub>O<sub>5</sub>N<sub>4</sub>Mg
+| C<sub>55</sub>H<sub>70</sub>O<sub>6</sub>N<sub>4</sub>Mg
+| C<sub>35</sub>H<sub>30</sub>O<sub>5</sub>N<sub>4</sub>Mg
+| C<sub>35</sub>H<sub>28</sub>O<sub>5</sub>N<sub>4</sub>Mg
+| C<sub>54</sub>H<sub>70</sub>O<sub>6</sub>N<sub>4</sub>Mg
+| C<sub>55</sub>H<sub>70</sub>O<sub>6</sub>N<sub>4</sub>Mg
+|-
+| C2 group
+| [[methyl group|-CH<sub>3</sub>]]
+| -CH<sub>3</sub>
+| -CH<sub>3</sub>
+| -CH<sub>3</sub>
+| -CH<sub>3</sub>
+| -CHO
+|-
+| C3 group
+| [[vinyl|-CH=CH<sub>2</sub>]]
+| -CH=CH<sub>2</sub>
+| -CH=CH<sub>2</sub>
+| -CH=CH<sub>2</sub>
+| [[formyl|-CHO]]
+| -CH=CH<sub>2</sub>
+|-
+| C7 group
+| -CH<sub>3</sub>
+| -CHO
+| -CH<sub>3</sub>
+| -CH<sub>3</sub>
+| -CH<sub>3</sub>
+| -CH<sub>3</sub>
+|-
+| C8 group
+| [[ethyl group|-CH<sub>2</sub>CH<sub>3</sub>]]
+| -CH<sub>2</sub>CH<sub>3</sub>
+| -CH<sub>2</sub>CH<sub>3</sub>
+| -CH=CH<sub>2</sub>
+| -CH<sub>2</sub>CH<sub>3</sub>
+| -CH<sub>2</sub>CH<sub>3</sub>
+|-
+| C17 group
+| -CH<sub>2</sub>CH<sub>2</sub>COO-Phytyl
+| -CH<sub>2</sub>CH<sub>2</sub>COO-Phytyl
+| [[2-carboxyethenyl group|-CH=CHCOOH]]
+| -CH=CHCOOH
+| -CH<sub>2</sub>CH<sub>2</sub>COO-Phytyl
+| -CH<sub>2</sub>CH<sub>2</sub>COO-Phytyl
+|-
+| C17-C18 bond
+| Single<br />(chlorin)
+| Single<br />(chlorin)
+| Double<br />(porphyrin)
+| Double<br />(porphyrin)
+| Single<br />(chlorin)
+| Single<br />(chlorin)
+|-
+| Occurrence
+| Universal
+| Mostly plants
+| Various algae
+| Various algae
+| Cyanobacteria
+| Cyanobacteria
+|}
+{|
+|-
+| [[Image:chlorophyll a.svg|thumb|Structure of chlorophyll ''a'']]
+| [[Image:chlorophyll b.svg|thumb|Structure of chlorophyll ''b'']]
+| [[Image:chlorophyll c1.svg|thumb|Structure of chlorophyll ''c1'']]
+|-
+| [[Image:chlorophyll c2.svg|thumb|Structure of chlorophyll ''c2'']]
+| [[Image:Chlorophyll d.svg|thumb|Structure of chlorophyll ''d'']]
+| [[Image:Chlorophyll f.svg|thumb|Structure of chlorophyll ''f'']]
+|}
+
+When leaves degreen in the process of [[plant senescence]], chlorophyll is converted to a group of colourless [[tetrapyrrole]]s known as '''nonfluorescent chlorophyll catabolites''' (NCC's) with the general structure:
+
+:[[Image:Nonfluorescentchlorophilcatabolites.svg|Nonfluorescent chlorophyll catabolites]]
+
+These compounds have also been identified in several ripening fruits.<ref>{{cite journal|last1=Müller|first1=Thomas|last2=Ulrich|first2=Markus|last3=Ongania|first3=Karl-Hans|last4=Kräutler|first4=Bernhard|year=2007|title=Colorless Tetrapyrrolic Chlorophyll Catabolites Found in Ripening Fruit Are Effective Antioxidants|journal=[[Angewandte Chemie]]|volume=46|issue=45|pages=8699–8702|pmid=17943948|pmc=2912502|doi=10.1002/anie.200703587}}</ref>
+
+==Spectrophotometry==
+[[File:Chlorophyll ab spectra-en.svg|thumb|[[Absorbance]] spectra of free chlorophyll ''a'' (<span style="color:blue;">blue</span>) and ''b'' (<span style="color:red;">red</span>) in a solvent. The spectra of chlorophyll molecules are slightly modified ''in vivo'' depending on specific pigment-protein interactions.]]
+Measurement of the absorption of light is complicated by the solvent used to extract it from plant material, which affects the values obtained,
+*In [[diethyl ether]], chlorophyll ''a'' has approximate absorbance maxima of 430&nbsp;nm and 662&nbsp;nm, while chlorophyll ''b'' has approximate maxima of 453&nbsp;nm and 642&nbsp;nm.<ref>Gross, Jeana (1991). ''Pigments in vegetables: chlorophylls and carotenoids''. Van Nostrand Reinhold, ISBN 0442006578.</ref>
+*The absorption peaks of chlorophyll ''a'' are at 665&nbsp;nm and 465&nbsp;nm. Chlorophyll ''a'' [[fluorescence|fluoresces]] at 673&nbsp;nm (maximum) and 726&nbsp;nm. The peak [[Molar absorptivity|molar absorption coefficient]] of chlorophyll ''a'' exceeds 10<sup>5</sup> M<sup>−1</sup> cm<sup>−1</sup>, which is among the highest for small-molecule organic compounds.{{Citation needed|date=September 2009}}
+*In 90% acetone-water, the peak absorption wavelengths of chlorophyll ''a'' are 430&nbsp;nm and 664&nbsp;nm; peaks for chlorophyll ''b'' are 460&nbsp;nm and 647&nbsp;nm; peaks for chlorophyll ''c1'' are 442&nbsp;nm and 630&nbsp;nm; peaks for chlorophyll ''c2'' are 444&nbsp;nm and 630&nbsp;nm; peaks for chlorophyll ''d'' are 401&nbsp;nm, 455&nbsp;nm and 696&nbsp;nm.<ref>{{cite book|last=Larkum|first=edited by Anthony W. D. Larkum, Susan E. Douglas & John A. Raven|title=Photosynthesis in algae|year=2003|publisher=Kluwer|location=London|isbn=0-7923-6333-7}}</ref>
+
+By measuring the absorption of light in the red and far red regions it is possible to estimate the concentration of chlorophyll within a leaf.<ref>
+{{cite journal
+| author = Cate, Thomas
+|date=September 2003
+| title = Joseph Pelletier and Joseph Caventou
+| journal = Journal of Tree Physiology
+| volume = 23
+| issue = 15
+| pages = 1077–1079
+| doi = 10.1093/treephys/23.15.1077
+| last2 = Perkins
+| first2 = T. D.
+}}</ref>
+<br>In his scientific paper Gitelson (1999) states, "The ratio between [[chlorophyll fluorescence]],  at 735 nm and the wavelength range 700nm to 710 nm, F735/F700 was found to be linearly proportional to the chlorophyll content (with determination coefficient, r2, more than 0.95) and thus this ratio can be used as a precise indicator of chlorophyll content in plant leaves."<ref name=Gitelson>{{cite journal | doi = 10.1016/S0034-4257(99)00023-1 | title = The Chlorophyll Fluorescence Ratio F735/F700 as an Accurate Measure of the Chlorophyll Content in Plants | year = 1999 | last1 = Gitelson | first1 = Anatoly A | last2 = Buschmann | first2 = Claus | last3 = Lichtenthaler | first3 = Hartmut K | journal = Remote Sensing of Environment | volume = 69 | issue = 3 | page = 296}}</ref>  The fluorescent ratio chlorophyll content meters use this technique.
+
+==Biosynthesis==
+{{Further|Protochlorophyllide}}
+In plants, chlorophyll may be synthesized from [[succinyl-CoA]] and [[glycine]], although the immediate precursor to chlorophyll ''a'' and ''b'' is [[protochlorophyllide]]. In [[Angiosperm]] plants, the last step, conversion of protochlorophyllide to chlorophyll, is light-dependent and such plants are pale ([[etiolation|etiolated]]) if grown in the darkness. [[Non-vascular plant]]s and green algae have an additional light-independent enzyme and grow green in the darkness instead.
+
+Chlorophyll itself is bound to proteins and can transfer the absorbed energy in the required direction. Protochlorophyllide occurs mostly in the free form and, under light conditions, acts as a [[photosensitizer]], forming highly toxic [[free radicals]]. Hence, plants need an efficient mechanism of regulating the amount of chlorophyll precursor. In angiosperms, this is done at the step of aminolevulinic acid (ALA), one of the intermediate compounds in the biosynthesis pathway. Plants that are fed by ALA accumulate high and toxic levels of protochlorophyllide; so do the mutants with the damaged regulatory system.<ref>
+{{cite journal
+| author = Meskauskiene R, Nater M, Goslings D, Kessler F, op den Camp R, Apel K.
+| date = 23 October 2001
+| title = FLU: A negative regulator of chlorophyll biosynthesis in Arabidopsis thaliana
+| journal = [[Proceedings of the National Academy of Sciences]]
+| volume = 98
+| issue = 22
+| pages = 12826–12831
+|jstor=3056990
+| doi =10.1073/pnas.221252798
+| pmid = 11606728| pmc = 60138
+|bibcode = 2001PNAS...9812826M }}</ref>
+
+{{Further|Chlorosis}}
+Chlorosis is a condition in which [[leaf|leaves]] produce insufficient chlorophyll, turning them yellow. Chlorosis can be caused by a nutrient deficiency of [[Iron deficiency (plant disorder)|iron]]—called iron chlorosis—or by a shortage of [[magnesium deficiency (plants)|magnesium]] or [[Nitrogen deficiency|nitrogen]].  Soil pH sometimes plays a role in nutrient-caused chlorosis; many plants are adapted to grow in soils with specific pH levels and their ability to absorb nutrients from the soil can be dependent on this.<ref>
+{{cite web
+| author = Duble, Richard L.
+| title = Iron Chlorosis in Turfgrass
+| publisher = [[Texas A&M University]]
+| url = http://plantanswers.tamu.edu/turf/iron.html
+| accessdate = 2010-07-17
+}}</ref> Chlorosis can also be caused by pathogens including viruses, bacteria and fungal infections, or sap-sucking insects.
+
+== Complementary light absorbance of anthocyanins with chlorophylls ==
+[[File:Spectra Chlorophyll ab oenin (1).PNG|thumb|right| Superposition of spectra of chlorophyll a and b with [[oenin]] (malvidin 3O glucoside), a typical [[anthocyanidin]], showing that, while chlorophylls absorb in the blue and yellow/red parts of the visible spectrum, oenin absorbs mainly in the green part of the spectrum, where chlorophylls don't absorb at all.]]
+[[Anthocyanin]]s are other [[plant pigment]]s. The absorbance pattern responsible for the [[red]] color of anthocyanins may be complementary to that of green chlorophyll in photosynthetically active tissues such as young ''[[Quercus coccifera]]'' leaves. It may protect the leaves from attacks by plant eaters that may be attracted by green color.<ref>{{cite journal|doi=10.1093/treephys/26.5.613|title=The importance of being red when young: Anthocyanins and the protection of young leaves of Quercus coccifera from insect herbivory and excess light|year=2006|last1=Karageorgou|first1=P.|last2=Manetas|first2=Y.|journal=Tree Physiology|volume=26|issue=5|pages=613–21|pmid=16452075}}</ref>
+
+== Culinary use ==
+Chlorophyll is registered as a food additive (colorant), and its [[E number]] is E140. Chefs use chlorophyll to color a variety of foods and beverages green, such as pasta and [[absinthe]].<ref name=Adams2004>
+{{cite book
+| last = Adams
+| first = Jad
+| year = 2004
+| title = Hideous absinthe : a history of the devil in a bottle
+| page = 22
+| isbn = 1860649203
+| publisher = I.B.Tauris, 2004
+| location = United Kingdom
+| url = https://books.google.com/books?id=b7FwE6EpNPoC&pg=PA22
+}}</ref> Chlorophyll is not soluble in water, and it is first mixed with a small quantity of [[vegetable oil]] to obtain the desired [[solution]].
+
+==Alternative medicine==
+Many claims are made about the healing properties of chlorophyll, but most have been disproved or are exaggerated by the companies that are marketing them. In 1952 the Toledo Blade published a story titled <ref>[http://www.quackwatch.org/01QuackeryRelatedTopics/DSH/chlorophyll.html Amazing Claims for Chlorophyll], [[Quackwatch]]</ref> "Chlorophyll Held Useless As Body Deodorant",<ref>Ubell, Earl (December 10, 1952) [http://news.google.com/newspapers?nid=1350&dat=19521210&id=5vVOAAAAIBAJ&sjid=ZwAEAAAAIBAJ&pg=1878,4801922 "Chlorophyll Held Useless As Body Deodorant"], Toledo Blade</ref> arguing that the wide use of chlorophyll was ineffective in its purported purpose. Quackwatch, a website dedicated to debunking false medical claims, notes that "no deodorant effect can possibly occur from the quantities of chlorophyll put in products such as gum, foot powder, cough drops, etc."<ref>{{cite journal|journal=Journal of Ecological Botany|volume= 9|page=3|year= 1955|doi=10.1007/BF02984956|title=Chlorophyll derivatives—Their chemistry? Commercial preparation and uses|last1=Kephart|first1=John C.}}</ref>
+
+==See also==
+{{commons category|Chlorophyll}}
+{{Portal|Plants|Molecular and Cellular Biology}}
+*[[Bacteriochlorophyll]], related compounds in phototrophic bacteria
+*[[Chlorophyll a]], an essential chlorophyll pigment
+*[[Chlorophyll b]], also an essential chlorophyll pigment
+*[[Chlorophyllin]], a semi-synthetic derivative of chlorophyll
+*[[Deep chlorophyll maximum]]
+*[[Grow light]], a lamp that promotes photosynthesis
+*[[Chlorophyll fluorescence]], to measure plant stress
+
+== References ==
+{{reflist|colwidth=35em}}
+
+==External links==
+
+{{Botany}}
+
+{{Plant Pigments}}
+
+{{Authority control}}
+[[Category:Tetrapyrroles]]
+[[Category:Photosynthetic pigments]]
+[[Category:Articles containing video clips]]

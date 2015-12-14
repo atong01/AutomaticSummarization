@@ -1,0 +1,501 @@
+{{redirect|EFTA}}
+{{Use dmy dates|date=March 2013}}
+{{Refimprove|date=November 2008}}
+{{Infobox Geopolitical organisation
+| name = European Free Trade Association
+| linking_name = the European Free Trade Association
+| symbol_type = Logo
+| image_symbol = EFTA logo.svg
+| image_map = Europe-EFTA.svg
+| map_caption = {{map caption |location_color=green |countryprefix=the |country={{nobold|European Free Trade Association}} |region=[[Europe]] |region_color=green & dark grey}}
+| org_type = [[Common market]]
+| membership_type = Member states
+| membership = {{nowrap|{{unbulleted list |{{ISL}}  |{{LIE}} |{{NOR}} |{{CHE}}}}}}
+| admin_center_type = Secretariat
+| admin_center = {{nowrap|[[Geneva]], Switzerland}}
+| languages_type = Official working<br>language
+| languages = English
+| leader_title1 = Secretary General
+| leader_name1 = Kristinn F. Árnason
+| leader_title2 = EFTA Council Chair
+| leader_name2 = Iceland
+| established = 3 May 1960
+| established_event1 = {{nowrap|EFTA Convention}}
+| established_date1 = 4 January 1960
+| area_rank = | area_magnitude =
+| area_km2 = 529,600
+| area_sq_mi = 204,518
+| percent_water =
+| population_estimate = 13,589,956
+| population_estimate_rank =
+| population_estimate_year = 2012
+| population_density_km2 = 100.6
+| population_density_sq_mi = 59.82
+| population_density_rank =
+| GDP_PPP = $623.5 [[1000000000 (number)|billion]]
+| GDP_PPP_rank =
+| GDP_PPP_year = 2011 [[International Monetary Fund|IMF]]
+| GDP_PPP_per_capita = $44,828
+| GDP_PPP_per_capita_rank =
+| GDP_nominal = $1138.8 [[1000000000 (number)|billion]]
+| GDP_nominal_rank =
+| GDP_nominal_year = 2011 IMF
+| GDP_nominal_per_capita = $58,714
+| GDP_nominal_per_capita_rank =
+|currency = {{ubl
+| {{flagdeco|ISL}} [[Icelandic króna|Króna]] ([[ISO 4217|ISK]])
+| {{flagdeco|NOR}} [[Norwegian krone|Krone]]  ([[ISO 4217|NOK]])
+| {{flagdeco|CHE}}{{flagdeco|LIE}} [[Swiss franc|Franc]] ([[ISO 4217|CHF]])
+}}
+| time_zone = [[Western European Time|WET]] ([[Coordinated Universal Time|UTC]])<br>[[Central European Time|CET]]
+| utc_offset = +1
+| time_zone_DST = [[Western European Summer Time|WEST]] ([[Coordinated Universal Time|UTC]]+1)<br>[[Central European Summer Time|CEST]]
+| DST_note = 
+| utc_offset_DST = +2
+| calling_code = See [[telephone numbers in Europe]]
+| official_website = {{URL|efta.int}}
+}}
+
+The '''European Free Trade Association''' ('''EFTA''') is a [[common market]] consisting of four European countries that operates in parallel with{{spaced ndash}}and is linked to{{spaced ndash}}the [[European Union]] (EU).<ref>{{cite web|title=The European Free Trade Association|url=http://www.efta.int/|website=efta.int|publisher=efta.int|accessdate=12 December 2014}}</ref> The EFTA was established on 3 May 1960 as a [[trade bloc]]-alternative for European states who were either unable or unwilling to join the then-[[European Economic Community]] (EEC) which has now become the EU. The Stockholm Convention, establishing the EFTA, was signed on 4 January 1960 in the Swedish capital by seven countries (known as the "[[outer seven]]").
+
+Today's EFTA members are [[Iceland]], [[Liechtenstein]], [[Norway]], and [[Switzerland]], of which the latter two were founding members. The initial Stockholm Convention was superseded by the Vaduz Convention, which enabled greater liberalisation of trade among the member states.
+
+EFTA states have jointly concluded free trade agreements with a number of other countries. All four current members of EFTA participate in the [[Internal market|European Union's single market]]: Iceland, Liechtenstein and Norway through the Agreement on a [[European Economic Area]] (EEA) and Switzerland through a set of bilateral agreements. This development prompted the EFTA states to modernise their Convention to ensure that it will continue to provide a successful framework for the expansion and liberalization of trade among themselves and with the rest of the world.
+
+== History ==
+British reaction to the creation of the EEC was mixed and complex. Britain was also preoccupied with the [[Commonwealth of Nations|Commonwealth]], which, at the time of EFTA's formation, was in transition. Britain therefore brought together several countries, including some bordering the EEC, to form the European Free Trade Association soon after the establishment of the six-nation EEC ([[France]], [[West Germany]], [[Italy]], [[Belgium]], [[Luxembourg]], and the [[Netherlands]]).
+
+On 12 January 1960, the Treaty on European Free Trade Association was initialled in the Golden Hall of the Prince's Palace of [[Stockholm]]. This established the progressive elimination of customs duties on industrial products, but did not affect agricultural products or maritime trade.
+
+The main difference between the early EEC and the EFTA was the absence of a common external customs tariff, and therefore each EFTA member was free to establish individual customs duties against, or individual free trade agreements with, non EFTA countries.
+
+Despite this modest initiative, the financial results were excellent, as it stimulated an increase of foreign trade volume among its members from 3.5 to 8.2 billion US dollars between 1959 and 1967. This was rather less than the increase enjoyed by countries inside the EEC.
+
+After the [[Enlargement of the European Union|accession of Denmark, Ireland and the UK to the EEC in January 1973]], EFTA began to falter. For this reason most countries eased or eliminated their trade tariffs in preparation to join the EEC, but experienced declining revenue which reduced the importance of EFTA. Four members remain: [[Switzerland]], [[Norway]], [[Liechtenstein]] and [[Iceland]]. Iceland [[Accession of Iceland to the European Union|applied for EU membership in 2009]] due to the [[2008–2011 Icelandic financial crisis]], but has since dropped its bid.<ref>http://www.theguardian.com/world/2015/mar/12/iceland-drops-european-union-membership-bid</ref>
+
+== Membership ==
+
+=== History ===
+[[File:EFTA AELE countries and former members.svg|thumb|right|{{legend|#276d3a|EFTA member states}}{{legend|#b3d9b4|Former members, now EU member states}}{{legend|#808080|Rest of EU member states}}]]
+
+The founding members of EFTA were [[Austria]], [[Denmark]], [[Norway]], [[Portugal]], [[Sweden]], [[Switzerland]] and the [[United Kingdom]]. During the 1960s these countries were often referred to as the '''Outer Seven''', as opposed to the [[Inner Six]] of the then-[[European Economic Community]] (EEC).<ref>{{cite news |title=Finland: Now, the Seven and a Half |publisher=TIME |date=7 April 1961 |url=http://www.time.com/time/magazine/article/0,9171,874317,00.htm |accessdate=18 July 2009 }}</ref>
+
+[[Finland]] became an associate member in 1961 and a full member in 1986, and [[Iceland]] joined in 1970. The United Kingdom and Denmark joined the EEC in 1973, and hence ceased to be EFTA members. Portugal also left EFTA for the European Community in 1986. [[Liechtenstein]] joined EFTA in 1991 (previously its interests had been represented by Switzerland). [[1995 enlargement of the European Union|Austria, Sweden and Finland joined the EU in 1995]] and thus ceased to be EFTA members.
+
+Twice, in [[Norwegian European Communities membership referendum, 1972|1973]] and [[Norwegian European Union membership referendum, 1994|1995]], the Norwegian government has tried to join the EU (still the EEC in 1973) and by doing so, leave the EFTA. Both times, membership of the EU was rejected in national referendums, keeping Norway in the EFTA. In June 2013 EU membership negotiations between Iceland and EU were halted by request of the Icelandic minister of foreign affairs.
+
+=== Current members ===
+{| class="wikitable sortable"
+|-
+!class="unsortable"| Flag
+! Contracting party
+! Accession
+! Population
+! Area {{smaller|(km²)}}
+! Capital
+! GDP {{small|in millions (PPP)}}<ref name=IntDollars>in [[Geary–Khamis dollar|international dollars]] (rounded)</ref>
+! GDP per capita {{small|(PPP)}}<ref name=IntDollars/>
+|-
+| {{Flagicon|Iceland}}
+| [[Iceland]]
+| {{dts|format=dmy|1970|1|1}}
+| {{Nts|320000}}
+| {{Nts|103000}}
+| [[Reykjavík]]
+| {{Nts|12831}}<ref name=IMF_Iceland>{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2013/01/weodata/weorept.aspx?pr.x=60&pr.y=9&sy=2009&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=176&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a= |title=Iceland |publisher=International Monetary Fund |accessdate=17 April 2013}}</ref>
+| {{Nts|39223}}<ref name=IMF_Iceland/>
+|-
+| {{Flagicon|Liechtenstein}}
+| [[Liechtenstein|Principality of Liechtenstein]]
+| {{dts|format=dmy|1991|1|1}}
+| {{Nts|34247}}
+| {{Nts|160.4}}
+| [[Vaduz]]
+| {{Nts|3545}}<ref name=LiechtensteinGDP>[[Liechtenstein]], Infobox</ref>
+| {{Nts|98432}}<ref name=LiechtensteinGDP/>
+|-
+| {{Flagicon|Norway}}
+| [[Norway|Kingdom of Norway]]
+| {{dts|format=dmy|1960|5|3}}
+| {{Nts|5038137}}
+| {{Nts|385155}}
+| [[Oslo]]
+| {{Nts|265911}}<ref name=IMF_Norway>{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=72&pr.y=17&sy=2009&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=142&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a= |title=Norway |publisher=International Monetary Fund |accessdate=20 April 2012}}</ref>
+| {{Nts|53470}}<ref name=IMF_Norway/>
+|-
+| {{Flagicon|Switzerland}}
+| [[Switzerland|Swiss Confederation]]
+| {{dts|format=dmy|1960|5|3}}
+| {{Nts|8000000}}
+| {{Nts|41285}}
+| [[Bern]]
+| {{Nts|363421}}<ref name=IMF_Switzerland>{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2013/01/weodata/weorept.aspx?pr.x=57&pr.y=9&sy=2009&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=146&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a= |title=Switzerland |publisher=International Monetary Fund |accessdate=17 April 2013}}</ref>
+| {{Nts|45417}}<ref name=IMF_Switzerland/>
+|}
+
+=== Membership history ===
+{|class="wikitable sortable"
+|-
+!Flag
+!State
+!Accession
+!Left EFTA
+!class="unsortable"|Notes
+|-
+|{{Flagicon|Austria}}
+|[[Austria]]
+|1960
+|1995
+|
+|-
+|{{Flagicon|Denmark}}
+|[[Denmark]]
+|1960
+|1973
+|
+|-
+|{{Flagicon|Finland}}
+|[[Finland]]
+|1986
+|1995
+|
+|-
+|{{Flagicon|Iceland}}
+|[[Iceland]]
+|1970
+|
+|[[Future enlargement of the European Union#Recognised candidates|EU candidate for membership]] in [[Accession of Iceland to the European Union|negotiations]] since 2010. Accession talks were frozen in 2013.
+|-
+|{{Flagicon|Liechtenstein}}
+|[[Liechtenstein]]
+|1991
+|
+|
+|-
+|{{Flagicon|Norway}}
+|[[Norway]]
+|1960
+|
+|[[Norway-European Union relations|EU membership was rejected]] in [[Norwegian European Communities membership referendum, 1972|referendums held in 1972]] and again in [[Norwegian European Union membership referendum, 1994|1994]].
+|-
+|{{Flagicon|Portugal}}
+|[[Portugal]]
+|1960
+|1986
+|
+|-
+|{{Flagicon|Sweden}}
+|[[Sweden]]
+|1960
+|1995
+|
+|-
+|{{Flagicon|Switzerland}}
+|[[Switzerland]]
+| 1960
+|
+|[[Switzerland-European Union relations|EU membership application was suspended]] after voters rejected the EEA agreement in 1992.
+|-
+|{{Flagicon|United Kingdom}}
+|[[United Kingdom]]
+|1960
+|1973
+|
+|}
+
+=== Future ===
+[[File:EU and EFTA.svg|thumb|Members of the European Union (blue) and<br/>EFTA (green)]]
+
+The Norwegian electorate has rejected treaties of accession to the EU in two referendums. At the time of the first referendum (1972) their neighbour [[Denmark]] joined. The second time (1994) two other [[Nordic countries|Nordic neighbours]], [[Sweden]] and [[Finland]], joined the EU. The last two [[Politics of Norway|governments]] of Norway have been unable and unwilling to advance the question, as they have both been coalition governments consisting of proponents and opponents.
+
+Since Switzerland rejected the EEA in 1992, referendums on [[Switzerland and the European Union|EU membership]] have been initiated, the last time in 2001. These were rejected.
+
+Iceland may join the EU in the future, following the [[2008–2012 Icelandic financial crisis|global financial crisis of 2008]], which has particularly affected the local economy. On 16 July 2009, the government formally applied for EU membership.<ref>{{cite news |title=Iceland moves towards joining EU |publisher=BBC News |date=16 July 2009 |url=http://news.bbc.co.uk/2/hi/europe/8153139.stm |accessdate=18 July 2009 }}</ref> As noted, the negotiation process has been halted since mid-2013.
+
+Between 1994 and 2011, EFTA membership has been discussed regarding [[Andorra]], [[San Marino]], [[Monaco]], [[Isle of Man]], [[Morocco]], [[Turkey]], [[Israel]] and other [[European Neighborhood Policy|ENP partners]].<ref>[http://www.eu-norway.org/Global/SiteFolders/webeu/NOU2012_2_Chapter%2013.pdf Official Norwegian Reports NOU 2012: 2, Outside and Inside, Norway’s agreements with the European Union]</ref>
+
+In mid-2005, representatives of the [[Faroe Islands]] hinted at the possibility of their territory joining EFTA.<ref>{{cite news |last=Spongenberg |first=Helena |title=Faroe Islands seek closer EU relations |publisher=EUobserver |date=8 October 2007 |url=http://euobserver.com/9/24907 |accessdate=18 July 2009 }}</ref> However, the chances of the Faroes' bid for membership are uncertain because, according to Article 56 of the EFTA Convention, only states may become members of the Association.<ref>{{cite web |title=Convention Establishing the European Free Trade Association |date=21 June 2001 |url=http://www.efta.int/content/legal-texts/efta-convention/eftaconvention-texts/convention-2001 |format=PDF |accessdate=18 July 2009 }}</ref> The Faroes already have an extensive bilateral free trade agreement with Iceland, known as the [[Hoyvík Agreement]].
+
+In November 2012, after the [[Council of the European Union]] had called for an evaluation of the [[Microstates and the European Union|EU's relations with the sovereign European microstates]] of Andorra, Monaco and San Marino, which they described as "fragmented",<ref>{{cite web|url=http://www.consilium.europa.eu/uedocs/cms_data/docs/pressdata/EN/foraff/118458.pdf|title=Council conclusions on EU relations with EFTA countries|publisher=[[Council of the European Union]]|date=14 December 2012|accessdate=1 April 2013}}</ref> the [[European Commission]] published a report outlining options for their further integration into the EU.<ref name=options>{{cite web|url=http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2012:0680:REV1:EN:HTML|title=Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee of the Regions - EU Relations with the Principality of Andorra, the Principality of Monaco and the Republic of San Marino - Options for Closer Integration with the EU|year=2012}}</ref>  Unlike Liechtenstein, which is a member of the EEA via the EFTA and the Schengen Agreement, relations with these three states are based on a collection of agreements covering specific issues. The report examined four alternatives to the current situation: 1) a Sectoral Approach with separate agreements with each state covering an entire policy area, 2) a comprehensive, multilateral Framework Association Agreement (FAA) with the three states, 3) EEA membership, and 4) EU membership. The Commission argued that the sectoral approach did not address the major issues and was still needlessly complicated, while EU membership was dismissed in the near future because "the EU institutions are currently not adapted to the accession of such small-sized countries."  The remaining options, EEA membership and a FAA with the states, were found to be viable and were recommended by the Commission. In response, the Council requested that negotiations with the three microstates on further integration continue, and that a report be prepared by the end of 2013 detailing the implications of the two viable alternatives and recommendations on how to proceed.<ref>{{cite web|url=http://ue.eu.int/uedocs/cms_data/docs/pressdata/en/trans/134524.pdf|title=Council conclusions on EU relations with the Principality of Andorra, the Republic of San Marino and the Principality of Monaco|publisher=[[Council of the European Union]]|date=20 December 2012|accessdate=1 April 2013}}</ref>
+
+As EEA membership is currently only open to EFTA or EU members, the consent of existing EFTA member states is required for the microstates to join the EEA without becoming members of the EU. In 2011, [[Jonas Gahr Støre]], the then [[Minister of Foreign Affairs (Norway)|Foreign Minister of Norway]] which is an EFTA member state, said that EFTA/EEA membership for the microstates was not the appropriate mechanism for their integration into the internal market due to their different requirements than large countries such as Norway, and suggested that a simplified association would be better suited for them.<ref>{{cite web|url=http://www.nationen.no/2011/05/19/politikk/eos/eos-avtalen/eu/eeas/6642688/|title=Norge sier nei til nye mikrostater i EØS|date=19 May 2011|accessdate=6 April 2013}}</ref> [[Espen Barth Eide]], Støre's successor, responded to the Commission's report in late 2012 by questioning whether the microstates have sufficient administrative capabilities to meet the obligations of EEA membership. However, he stated that Norway was open to the possibility of EFTA membership for the microstates if they decide to submit an application, and that the country had not made a final decision on the matter.<ref>{{cite web|url=http://www.regjeringen.no/nb/dep/ud/aktuelt/taler_artikler/eide_taler/2013/eosutvalget_130128.html?id=712742|title=Innlegg på møte i Stortingets europautvalg|date=28 January 2013|accessdate=1 April 2013|publisher=[[Ministry of Foreign Affairs (Norway)|Ministry of Foreign Affairs of Norway]]}}</ref><ref>{{cite web|url=http://www.klassekampen.no/61007/article/item/null|title=Eide: Bedre blir det ikke|date=21 December 2012|accessdate=1 April 2013}}</ref><ref name=NORLIE>{{cite web|url=http://www.nationen.no/2012/12/08/politikk/eos-avtalen/eos/san_marino/eu/7845048/|title=Regjeringa open for diskutere EØS-medlemskap for mikrostatar|language=Norwegian|last=Aalberg Undheim|first=Eva|date=8 December 2012|accessdate=6 April 2013}}</ref><ref>{{cite web|url=http://www.latribunasammarinese.net/edizioni/2013/01-gennaio/03-01-2013boiw.pdf|title=La Norvegia chiude le porte a San Marino|date=3 January 2013|accessdate=6 April 2013|publisher=La Tribuna Sammarinese|page=7}}</ref>  Pascal Schafhauser, the Counsellor of the Liechtenstein Mission to the EU, said that Liechtenstein, another EFTA member state, was willing to discuss EEA membership for the microstates provided their joining did not impede the functioning of the organization. However, he suggested that the option direct membership in the EEA for the microstates, outside of both the EFTA and the EU, should be given consideration.<ref name=NORLIE/>
+On 18 November 2013 the EU Commission concluded that "the participation of the small-sized countries in the EEA is not judged to be a viable option at present due to the political and institutional reasons", and that Association Agreements were a more feasible mechanism to integrate the microstates into the internal market.<ref>{{cite web|url=http://ec.europa.eu/transparency/regdoc/rep/1/2013/EN/1-2013-793-EN-F1-1.Pdf|title=EU Relations with the Principality of Andorra, the Principality of Monaco and the Republic of San Marino: Options for their participation in the Internal Market|date=18 November 2013|accessdate=20 November 2013|publisher=[[European Commission]]}}</ref>
+
+== Organisation==
+EFTA is governed by the EFTA Council and serviced by the EFTA Secretariat. In addition, in connection with the EEA Agreement of 1992, two other EFTA organisations were established, the EFTA Surveillance Authority and the EFTA Court.
+
+===Council===
+The [[EFTA Council]] is the highest governing body of EFTA. The Council usually meets eight times a year at the ambassadorial level (heads of permanent delegations to EFTA) and twice a year at Ministerial level. In the Council meetings, the delegations consult with one another, negotiate and decide on policy issues regarding EFTA. Each Member State is represented and has one vote, though decisions are usually reached through consensus.
+The Council discusses substantive matters, especially relating to the development of EFTA relations with third countries and the management of free trade agreements, and keeps under general review relations with the EU third-country policy and administration. It has a broad mandate to consider possible policies to promote the overall objectives of the Association and to facilitate the development of links with other states, unions of states or [[international organisations]]. The Council also manages relations between the EFTA States under the EFTA Convention. Questions relating to the [[European Economic Area|EEA]] are dealt with by the Standing Committee in Brussels.
+
+===Secretariat===
+The day-to-day running of the Secretariat is headed by the Secretary-General, [[Kristinn F. Árnason]], who is assisted by two Deputy Secretaries-General, one based in [[Geneva]] and the other in [[Brussels]]. The three posts are shared between the Member State. The division of the Secretariat reflects the division of EFTA’s activities. The Secretariat employs approximately 100 staff members, of whom a third are based in Geneva and two thirds in Brussels and [[Luxembourg]].
+
+The Headquarters in Geneva deals with the management and negotiation of free trade agreements with non-EU countries, and provide support to the EFTA Council.
+In Brussels, the Secretariat provides support for the management of the EEA Agreement and assists the Member States in the preparation of new legislation for integration into the EEA Agreement. The Secretariat also assists the Member States in the elaboration of input to EU decision making.
+The two duty stations work together closely to implement the Vaduz Convention’s stipulations on the intra-EFTA Free Trade Area.
+
+The EFTA Statistical Office in Luxembourg contributes to the development of a broad and integrated European Statistical System. The EFTA Statistical Office (ESO) is located in the premises of [[Eurostat]], the Statistical Office of the European Union, in Luxembourg, and functions as a liaison office between Eurostat and the EFTA National Statistical Institutes. ESO's main objective is to promote the full inclusion of the EFTA States in the European Statistical System, thus providing harmonised and comparable statistics to support the general cooperation process between EFTA and the EU within and outside the EEA Agreement. The cooperation also entails technical cooperation programmes with third countries and training of European statisticians.
+
+===European Economic Area===
+A Joint Committee consisting of the EEA States plus the [[European Commission]] (representing the EU) has the function of extending relevant [[EU law]] to the non EU members. An EEA Council meets twice yearly to govern the overall relationship between the EEA members.
+
+Rather than setting up pan-EEA institutions, the activities of the EEA are regulated by the [[EFTA Surveillance Authority]] and the [[EFTA Court]]. The [[EFTA Surveillance Authority]] and the [[EFTA Court]] regulate the activities of the EFTA members in respect of their obligations in the [[European Economic Area]] (EEA). Since Switzerland is not an EEA member, it does not participate in these institutions.
+
+The EFTA Surveillance Authority performs the [[European Commission]]'s role as "guardian of the treaties" for the EFTA countries, while the EFTA Court performs the [[European Court of Justice]]'s role for those countries.
+
+The original plan for the EEA lacked the EFTA Court or the EFTA Surveillance Authority, the European Court of Justice and the European Commission were to exercise those roles. However, during the negotiations for the EEA agreement, the European Court of Justice informed the [[Council of the European Union]] by way of letter that they considered that giving the EU institutions powers with respect to non-EU member states would be a violation of the treaties, and therefore the current arrangement was developed instead.
+
+====Norway Grants====
+
+The [[EEA and Norway Grants]] are the financial contributions of Iceland, Liechtenstein and Norway to reduce social and economic disparities in Europe. They were established in conjunction with the 2004 enlargement of the European Economic Area (EEA), which brought together the EU, Iceland, Liechtenstein and Norway in the Internal Market. In the period from 2004 to 2009, €1.3&nbsp;billion of project funding was made available for project funding in the 15 beneficiary states in Central and Southern Europe. The EEA and Norway Grants are administered by the Financial Mechanism Office, which is affiliated to the EFTA Secretariat in Brussels.
+
+===Locations===
+The EFTA Secretariat is headquartered in [[Geneva]], [[Switzerland]], but also has duty stations in [[Brussels]], [[Belgium]] and [[Luxembourg]]. The EFTA Surveillance Authority has its headquarters in [[Brussels]], [[Belgium]] (the same location as the headquarters of the European Commission), while the EFTA Court has its headquarters in Luxembourg (the same location as the headquarters of the European Court of Justice).
+
+==Portugal Fund==
+The Portugal Fund was established in 1975 when Portugal was still a member of EFTA, to provide funding for the development and reconstruction of Portugal after the [[Carnation Revolution]]. When Portugal left EFTA in 1985 to join the EEC, the remaining EFTA members decided to nonetheless continue the Portugal Fund, so Portugal would continue to benefit from it. The Fund originally took the form of a low-interest loan from the EFTA member states to Portugal, to the value of 100 million [[US dollar]]s. Repayment was originally to commence in 1988, but EFTA then decided to postpone the start of repayments until 1998. The Portugal Fund has now been dissolved by the Member States.
+
+== European Union ==
+{{main|European Economic Area}}
+{{see also|Accession of Iceland to the European Union|Liechtenstein–European Union relations|Norway–European Union relations|Switzerland–European Union relations}}
+
+Except for Switzerland, the EFTA members are also members of the [[European Economic Area]] (EEA). The '''EEA''' comprises three member states of the European Free Trade Association (EFTA) and 28 [[member states of the European Union]] (EU), including [[Croatia]] which is provisionally applying the agreement pending its ratification by all EEA countries.<ref>[http://www.efta.int/eea/eea-agreement.aspx EEA Agreement - EFTA]. Efta.int (1994-01-01). Retrieved on 2013-09-07.</ref><ref name=croatsign>{{cite web|url=http://www.efta.int/eea/news/croatia-joins-eea-2750|title=Croatia joins the EEA|date=12 April 2014|accessdate=11 April 2014|publisher=European Free Trade Association}}</ref> It was established on 1 January 1994 following an agreement with the [[European Communities|European Community]] (which had become the EU two months earlier).<ref name=agreement>{{PDFlink|[http://efta.int/~/media/Documents/legal-texts/eea/the-eea-agreement/Main%20Text%20of%20the%20Agreement/EEAagreement.ashx Main text of the Agreement]|199 KB}}</ref> It allows the EFTA-EEA states to participate in the [[Internal market|EU's Internal Market]] without being [[Member state of the European Union|members of the EU]]. They adopt almost all EU legislation related to the single market, except laws on agriculture and fisheries. However, they also contribute to and influence the formation of new EEA relevant policies and legislation at an early stage as part of a formal decision-shaping process.<ref name="influence">{{cite web|url=http://www.efta.int/eea/decision-shaping|title=Influencing the EU - EEA Decision Shaping|work=efta.int}}</ref> One EFTA member, [[Switzerland]], has not joined the EEA but has [[Switzerland–European Union relations|a series of bilateral agreements]], including a [[free trade agreement]], with the EU.
+
+The following table summarises the various components of EU laws applied in the EFTA countries and their sovereign territories. Some territories of EU member states also have a [[Special Member State territories and the European Union#Summary|special status]] in regard to EU laws applied as is the case with some [[Microstates and the European Union#Summary|European microstates]].
+
+{|class="wikitable"
+|+
+!colspan="2" | EFTA member states and sovereign territories
+! Application of [[European Union law|EU law]]
+! Enforceable in local courts?
+! [[EURATOM]]
+! [[Schengen Agreement|Schengen area]]?
+! [[European Union Value Added Tax Area|EU VAT area]]?
+! [[European Union Customs Union|EU customs territory]]?
+! EU [[Internal market|single market]]?
+! [[Eurozone]]?
+|-
+| colspan="2" | {{ISL}}
+| {{bg-yellow}} | Partial
+|Unclear
+|{{no}}
+|{{Yes}}
+|{{No}}
+|{{No}}
+|{{Yes}}<ref name="EEA">[[European Economic Area]]</ref>
+|{{No}}, [[Icelandic króna|ISK]]
+|-
+| colspan="2" | {{LIE}}
+| {{bg-yellow}} | Partial
+|Unclear
+|{{no}}
+|{{Yes}}
+|{{No}}
+|{{No}}
+|{{Yes}}<ref name="EEA"/>
+|{{No}}, [[Swiss franc|CHF]]
+|-
+| colspan="2" | {{NOR}}, except:
+| {{bg-yellow}} | Partial
+|Unclear
+|{{no}}
+|{{Yes}}
+|{{No}}
+|{{No}}
+|{{Yes}}<ref name="EEA"/>
+|{{No}}, [[Norwegian krone|NOK]]
+|-
+|
+| {{Flagicon|Norway}} [[Svalbard]]
+| {{bg-yellow}} | Partial
+|Unclear
+|{{no}}
+|{{No}}<ref name="Schengen">[http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:1999:176:0036:0049:EN:PDF Norway and Iceland Schengen association agreement] Article 14</ref>
+|{{No}}<ref name="Svalbard">Because of the [[Politics of Svalbard|Svalbard treaty]] it is even outside of the Norway taxation area.</ref>
+|{{No}}
+|{{No}}<ref name="EEA"/><ref name="Protocol40">[http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:21994A0103(41):EN:HTML Agreement on the European Economic Area - Protocol 40 on Svalbard] and [http://www.consilium.europa.eu/App/accords/Default.aspx?command=declaration&id=297&lang=EN&aid=1992045&partyId=N&doclang=EN Declaration for activation of Protocol40 exclusion].</ref>
+|{{No}}, [[Norwegian krone|NOK]]
+|-
+| colspan="2" | {{CHE}}
+| {{bg-yellow}} | Partial
+|Unclear
+|{{Yes|Participating associated state<ref>[http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014D0954 Document 32014D0954], Council of the European Union. Retrieved 26 October 2015.</ref>}}
+|{{Yes}}
+|{{No}}
+|{{No}}
+|{{Yes}}<ref>[[Switzerland and the European Union|Through multiple sectoral agreements]]</ref>
+|{{No}}, [[Swiss franc|CHF]]
+|}
+
+{{Supranational European Bodies |size=500px |align=left}}
+
+{{clear}}
+
+== International conventions ==
+EFTA also originated the Hallmarking Convention and the [[Pharmaceutical Inspection Convention]], both of which are open to non-EFTA states.
+
+== International relationships ==
+EFTA has several free trade agreements with non-EU countries as well as declarations on cooperation and joint workgroups to improve trade. Currently, the EFTA States have established preferential trade relations with 24 states and territories, in addition to the 28 [[member states of the European Union]].<ref>[http://www.efta.int/free-trade.aspx Official EFTA site]</ref>
+
+===Free trade agreements===
+{{div col|cols=2}}
+* [[Albania]]
+* [[Bosnia-Herzegovina]]<ref name="autogenerated1">[http://www.efta.int/free-trade/free-trade-agreements Free Trade Agreements | 50 years of promoting free trade and economic integration - EFTA]. Efta.int. Retrieved on 2014-03-12.</ref>
+* [[Canada]] ([[Canada-European Free Trade Association Free Trade Agreement]])
+* Central American States ([[Costa Rica]], [[Panama]])<ref name="autogenerated1"/>
+* [[Chile]]
+* [[Colombia]]
+* [[Egypt]]
+* [[Gulf Co-operation Council]] ([[Bahrain]], [[Kuwait]], [[Oman]], [[Qatar]], [[Saudi Arabia]], [[United Arab Emirates]])<ref name="Notification pending">Notification pending</ref>
+* [[Hong Kong]]
+* [[Israel]]
+* [[Jordan]]
+* [[South Korea]]
+* [[Lebanon]]
+* [[Republic of Macedonia]]
+* [[Mexico]]
+* [[Montenegro]]
+* [[Morocco]] (excluding [[Western Sahara]])<ref>{{cite news |title=Western Sahara excluded from EFTA-Morocco free trade agreement |url=http://www.spsrasd.info/en/detail.php?id=11569 |publisher=SPS |date=12 May 2010 |accessdate=13 May 2010}}</ref>
+* [[Palestinian National Authority]]
+* [[Peru]]
+* [[Serbia]]
+* [[Singapore]]
+* [[Southern African Customs Union]] ([[Botswana]], [[Lesotho]], [[Namibia]], [[South Africa]], [[Swaziland]])
+* [[Tunisia]]
+* [[Turkey]]
+* [[Ukraine]]<ref>[http://www.kyivpost.com/news/nation/detail/118371/ Parliament ratifies agreement on free trade between Ukraine, European Free Trade Association], [[Kyiv Post]] (7 December 2011)</ref>
+{{div col end}}
+
+===Ongoing free trade negotiations===
+{{div col|cols=2}}
+* [[Algeria]]
+* Central American States ([[Guatemala]], [[Honduras]])
+* [[India]]
+* [[Indonesia]]
+* [[Malaysia]]
+* [[Russia]]{{\}}[[Belarus]]{{\}}[[Kazakhstan]]
+* [[Thailand]]
+* [[Vietnam]]
+{{div col end}}
+
+===Declarations on cooperation or dialogue on closer trade relations===
+{{div col|cols=2}}
+* [[Georgia (country)|Georgia]]
+* [[Mauritius]]
+* [[Mercosur|<!--caps to distinguish from surrounding country links:-->MERCOSUR]] ([[Brazil]], [[Argentina]], [[Uruguay]], [[Paraguay]])
+* [[Mongolia]]
+* [[Myanmar]]<ref name="autogenerated2">[http://www.efta.int/free-trade/joint-declarations-on-co-operation EFTA Joint Declarations on Cooperation | 50 years of promoting free trade and economic integration - EFTA]. Efta.int. Retrieved on 2014-03-12.</ref>
+* [[Philippines]]<ref>{{cite news|title=President Aquino and Swiss President Widmer-Schlumpf agree to expand economic relations at ASEM9|url=http://www.pia.gov.ph/news/index.php?article=1781352196882|accessdate=25 March 2013|newspaper=Philippine Information Agency|date=6 November 2012}}</ref>
+* [[Pakistan]]<ref name="autogenerated2"/> 
+{{div col end}}
+
+==Travel freedom of EFTA citizens and visa policy of EFTA countries==
+
+A citizen of an EFTA country can live and work in all other EFTA countries and in all EU countries, and a citizen of an EU country can live and work in all EFTA countries (but for voting and working in sensitive fields, such as government / police / military, citizenship is often required, and non-citizens may not have the same rights to welfare and unemployment benefits as citizens). 
+
+Since each EFTA and EU country can make its own citizenship laws, dual citizenship is not always possible. Of the EFTA countries, Iceland and Switzerland allow it (in Switzerland, conditions for the naturalization of immigrants vary regionally), but Norway only in exceptional cases, and Liechtenstein only for citizens by descent, but not for foreigners wanting to naturalize.
+Some non-EFTA/non-EU countries do not allow dual citizenship either, so immigrants wanting to naturalize must sometimes renounce their old citizenship. See also [[Multiple citizenship]] and the nationality laws of the countries in question for more details.
+
+Within the EFTA countries, only Switzerland requires military service (alternative service is available). All male Swiss citizens under 25 - including dual citizens - are subject to it; women can do it voluntarily. Swiss citizens are not allowed to work for a foreign (non-Swiss) military. (The Swiss Guards of Vatican City are regarded as a "house police", not as an army.) Iceland and Liechtenstein have no armed forces; in Norway, military service is ''de jure'' mandatory, but enforcement is limited, so some sources claim it is ''de facto'' voluntary.
+Within the EU, mandatory military service exists, at least in peacetime, only in Austria, Cyprus, Estonia, Finland, and Greece. (In all countries but Cyprus, alternative service is available.)
+
+In Liechtenstein and in the Swiss Canton of [[Schaffhausen]], voting is compulsory for citizens. In the EU, it is compulsory in Cyprus and Luxembourg (in Luxembourg, it is voluntary for those over 70 years). In Belgium, it is compulsory for all citizens from age 18 to present themselves at a polling station; legal sanctions exist, but only the sanctions for absent appointed polling station staff have been enforced by prosecutors since 2003.
+
+Like EU citizens, EFTA citizens enjoy a high degree of travel freedom. In the "''Henley Visa Restrictions Index 2015''," the rankings of the EFTA passports were as follows (For details, click on the name of the country):
+<br />
+* 03. [[Visa requirements for Norwegian citizens|Norway]]: 171 countries visa-free / visa on arrival 
+* 05. [[Visa requirements for Swiss citizens|Switzerland]]: 169
+* 08. [[Visa requirements for Icelandic citizens|Iceland]]: 164
+* 11. [[Visa requirements for Liechtenstein citizens|Liechtenstein]]: 161
+
+The four EFTA countries belong to the [[Schengen Area]] and use [[Visa policy of the Schengen Area|its visa policy]].
+
+<gallery>
+File: Visa_requirements_for_Icelandic_citizens.png| [[Visa requirements for Icelandic citizens]]
+File: Visa_requirements_for_Liechtenstein_citizens.png|[[Visa requirements for Liechtenstein citizens]]
+File: Visa_requirements_for_the_Norwegian_citizens.png|[[Visa requirements for Norwegian citizens]]
+File: Visa_requirements_for_Swiss_citizens.png|[[Visa requirements for Swiss citizens]]
+File:Schengen visa requirements.png|[[Visa policy of the Schengen Area]]
+</gallery>
+
+== General secretaries ==
+{|class="wikitable sortable"
+|-
+!State
+!Name
+!Year
+|-
+|{{UK}}
+|[[Frank Figgures]]
+|1960–1965
+
+|-
+|{{UK}}
+|[[John Coulson (diplomat)|John Coulson]]
+|1965–1972
+
+|-
+|{{SWE}}
+|[[Bengt Rabaeus]]
+|1972–1975
+
+|-
+|{{CHE}}
+|Charles Müller
+|1976–1981
+
+|-
+|{{NOR}}
+|[[Per Kleppe]]
+|1981–1988
+
+|-
+|{{AUT}}
+|Georg Reisch
+|1988–1994
+
+|-
+|{{ISL}}
+|Kjartan Jóhannsson
+|1994–2000
+
+|-
+|{{CHE}}
+|William Rossier
+|2000–2006
+
+|-
+|{{NOR}}
+|[[Kåre Bryn]]
+|2006-2012
+
+|-
+|{{ISL}}
+|Kristinn F. Árnason
+|2012–present
+|}
+
+== See also ==
+* [[Central European Free Trade Agreement]] {{smaller|(CEFTA)}}
+* [[Euro-Mediterranean free trade area]] {{smaller|(EU-MEFTA)}}
+* [[European Union Association Agreement]]
+* [[European Union free trade agreements]]
+* [[Free trade areas in Europe]]
+
+== References ==
+{{reflist|30em}}
+
+{{Commons category|European Free Trade Association}}
+
+{{European Free Trade Association (EFTA)}}
+{{Europe topics (small)}}
+
+{{Authority control}}
+[[Category:European Free Trade Association| ]]
+[[Category:Organizations established in 1960]]
+[[Category:Trade blocs]]
+[[Category:Intergovernmental organizations established by treaty]]
+[[Category:Liechtenstein–Switzerland relations]]
+[[Category:European Economic Area]]
+[[Category:1960 establishments in Europe]]

@@ -1,0 +1,536 @@
+{{other uses2|Dravidian}}
+{{Use dmy dates|date=March 2013}}
+{{Infobox language family
+|name        = Dravidian
+|region      = [[South Asia]], mostly [[South India]] and northern [[Sri Lanka]]
+|familycolor = Dravidian
+|family      = primary [[language family]]
+|protoname   = [[Proto-Dravidian language|Proto-Dravidian]]
+|child1      = Northern
+|child2      = Central
+|child3      = Southern
+|iso2        = dra
+|iso5        = dra
+|lingua      = 49= (phylozone)
+|glotto      = drav1251
+|glottorefname= Dravidian
+|map         = Dravidian subgroups.png
+|mapcaption  = Distribution of subgroups of Dravidian languages:<br>{{col-begin}}
+{{col-2}}
+{{legend|#7BDE7B|North}}
+{{legend|#FEE28C|Central}}
+{{col-2}}
+{{legend|#FE9C62|South-Central}}
+{{legend|#FE6262|South}}
+{{col-end}}
+}}
+{{Dravidian}}
+
+The '''Dravidian languages''' are a [[language family]] spoken mainly in [[South India|southern India]] and parts of eastern and central India as well as in northeastern [[Sri Lanka Tamils (native)|Sri Lanka]], [[Pakistan]], [[Nepal]], [[Bangladesh]], and overseas in other countries such as [[Malaysia]] and [[Singapore]]. The Dravidian languages with the most speakers are [[Telugu language|Telugu]], [[Tamil language|Tamil]], [[Kannada language|Kannada]] and [[Malayalam language|Malayalam]]. There are also small groups of Dravidian-speaking [[List of Scheduled Tribes in India|scheduled tribes]], who live beyond the mainstream communities, such as the [[Kurukh people|Kurukh]] and [[Gondi people|Gond]] tribes.<ref name="West2009">{{cite book|last=West|first=Barbara A.|title=Encyclopedia of the Peoples of Asia and Oceania|url=https://books.google.com/books?id=pCiNqFj3MQsC&pg=PA713|date=1 January 2009|publisher=Infobase Publishing|isbn=978-1-4381-1913-7|page=713}}</ref> It is often considered that Dravidian languages are native to India.<ref>Ancient India: A History of the Indian Sub-Continent from C. 7000 BC to AD 1200,  by Burjor Avari, url=[https://books.google.com/books?id=y88nzRtTNUAC&pg=PA13&dq=Dravidian+languages+native+to+india&hl=en&sa=X&ei=WDrXVJnZJaSpyQPWjIDQBA&ved=0CBwQ6AEwAA#v=onepage&q=Dravidian%20languages%20native%20to%20india&f=false], Routledge</ref> [[Early Indian epigraphy|Epigraphically]] the Dravidian languages have been attested since the 2nd century [[BCE]]. Only two Dravidian languages are exclusively spoken outside India, [[Brahui language|Brahui]] in [[Pakistan]] and [[Dhangar language|Dhangar]], a dialect of [[Kurukh language|Kurukh]], in [[Nepal]].
+
+Dravidian names of places along the [[Arabian Sea]] coast and the Dravidian grammatical influence such as [[clusivity]] in the [[Indo-Aryan languages]] namely [[Marathi language|Marathi]], [[Konkani language|Konkani]], [[Gujarati language|Gujarati]], [[Marwari language|Marwari]] and [[Sindhi language|Sindhi]] languages suggest that Dravidian languages were once spoken more widely across the [[Indian subcontinent]].{{sfnp|Erdosy|1995|p=271}}<ref>Edwin Bryant, Laurie L. Patton (2005), The Indo-Aryan controversy: evidence and inference in Indian history, p. 254</ref>
+
+==Etymology==
+The existence of the Dravidian language family was first suggested in 1816 by Alexander D. Campbell in his ''A Grammar of the Teloogoo Language'',<ref>Alexander Duncan Campbell (1816) [https://books.google.com/books?id=PubopwMmteIC ''A Grammar of the Teloogoo Language''], ''commonly termed the Gentoo, peculiar to the Hindoos inhabiting the north eastern provinces of the Indian peninsula'', College of Fort St. George Press, Madras {{oclc|416559272}}</ref> in which he and [[Francis Whyte Ellis|Francis W. Ellis]] argued that [[Tamil language|Tamil]] and [[Telugu language|Telugu]] were descended from a common, non-Indo-European ancestor.{{sfnp|Sreekumar|2009}} However, it was not until 1856 that [[Robert Caldwell]] published his ''Comparative Grammar of the Dravidian or South-Indian Family of Languages'',<ref>Robert Caldwell (1856) [https://books.google.com/books?id=BXZFAAAAcAAJ ''A Comparative Grammar of the Dravidian or South-Indian Family of Languages''], Williams and Norgate, London {{oclc|20216805}}</ref> which considerably expanded the Dravidian umbrella and established it as one of the major language groups of the world. Caldwell coined the term "Dravidian" for this family of languages, based on the usage of the [[Sanskrit]] word ''{{IAST|drāviḍa}}'' in the work ''Tantravārttika'' by {{IAST|[[Kumārila Bhaṭṭa]]}}.{{sfnp|Zvelebil|1990|p=xx}} In his own words, Caldwell says,
+
+{{quote|The word I have chosen is 'Dravidian', from {{IAST|Drāviḍa}}, the adjectival form of {{IAST|Draviḍa}}. This term, it is true, has sometimes been used, and is still sometimes used, in almost as restricted a sense as that of Tamil itself, so that though on the whole it is the best term I can find, I admit it is not perfectly free from ambiguity. It is a term which has already been used more or less distinctively by Sanskrit philologists, as a generic appellation for the South Indian people and their languages, and it is the only single term they ever seem to have used in this manner. I have, therefore, no doubt of the propriety of adopting it.{{sfnp|Caldwell|1856|p=4}}}} The 1961 publication of the ''[http://dsal.uchicago.edu/dictionaries/burrow/ Dravidian etymological dictionary]'' by [[T. Burrow]] and [[M. B. Emeneau]] was a landmark event in Dravidian linguistics.
+
+As for the origin of the Sanskrit word ''{{IAST|drāviḍa}}'' itself, there have been various theories proposed. Basically the theories are about the direction of derivation between ''{{IAST|tamiẓ}}'' and ''{{IAST|drāviḍa}}''. There is no definite philological and linguistic basis for asserting unilaterally that the name ''[https://www.academia.edu/7781548/Pre-colonial_conception_of_the_term_Dravida Dravida]'' also forms the origin of the word ''[[Tamil language|Tamil]]'' (Dravida → Dramila → Tamizha or Tamil). [[Kamil Zvelebil]] cites the forms such as ''dramila'' (in {{IAST|Daṇḍin}}'s  Sanskrit work ''Avanisundarīkathā'') ''{{IAST|damiḷa}}'' (found in Sri Lankan (Ceylonese) chronicle Mahavamsa) and then goes on to say, "The forms ''damiḷa''/''damila'' almost certainly provide a connection of ''{{IAST|dr(a/ā)viḍa}}'' " and "... ''{{IAST|tamiḷ}}'' < ''{{IAST|tamiẓ}}'' ...whereby the further development might have been *''{{IAST|tamiẓ}}'' > *''{{IAST|damiḷ}}'' > ''{{IAST|damiḷa}}''- / ''damila''- and further, with the intrusive, 'hypercorrect' (or perhaps analogical) -''r''-, into ''{{IAST|dr(a/ā)viḍa}}''. The -''m''-/-''v''- alternation is a common enough phenomenon in Dravidian phonology"{{sfnp|Zvelebil|1990|p=xxi}}
+Zvelebil in his earlier treatise  states, "It is obvious that the Sanskrit ''{{IAST|dr(a/ā)viḍa}}'', Pali ''damila'', ''{{IAST|damiḷo}}'' and Prakrit ''{{IAST|d(a/ā)viḍa}}'' are all etymologically connected with ''{{IAST|tamiẓ}}''" and further remarks "The ''r'' in ''{{IAST|tamiẓ}}'' → ''{{IAST|dr(a/ā)viḍa}}'' is a hypercorrect insertion, cf. an analogical case of DED 1033 Ta. ''kamuku'', Tu. ''kangu'' "areca nut": Skt. ''kramu(ka)''."{{sfnp|Zvelebil|1975|p=53}}
+
+Further, another Dravidian linguist [[Bhadriraju Krishnamurti]] in his book ''Dravidian Languages'' states,{{sfnp|Krishnamurti|2003|loc=p. 2, footnote 2}} {{quote|Joseph (1989: IJDL 18.2:134-42) gives extensive references to the use of the term ''{{IAST|draviḍa}}'', ''dramila'' first as the name of a people, then of a country. Sinhala BCE inscriptions cite ''{{IAST|dameḍa}}''-, ''damela''- denoting Tamil merchants. Early Buddhist and Jaina sources used ''{{IAST|damiḷa}}''- to refer to a people of south India (presumably Tamil); ''{{IAST|damilaraṭṭha}}''- was a southern non-Aryan country; ''{{IAST|dramiḷa}}''-, ''{{IAST|dramiḍa}}'', and ''{{IAST|draviḍa}}''- were used as variants to designate a country in the south (''{{IAST|Bṛhatsamhita-}}'', ''Kādambarī'', ''Daśakumāracarita-'', fourth to seventh centuries CE) (1989: 134–138). It appears that ''{{IAST|damiḷa}}''- was older than ''{{IAST|draviḍa}}''- which could be its Sanskritization.}}
+
+Based on what Krishnamurti states referring to a scholarly paper published in the International Journal of Dravidian Linguistics, the Sanskrit word ''{{IAST|draviḍa}}'' itself is later than ''{{IAST|damiḷa}}'' since the dates for the forms with -r- are centuries later than the dates for the forms without -r- (''{{IAST|damiḷa}}'', ''{{IAST|dameḍa}}''-, ''damela''- etc.). The ''Monier-Williams Sanskrit Dictionary'' lists for the Sanskrit word ''{{Unicode|draviḍa}}'' a meaning of "collective Name for 5 peoples, viz. the {{Unicode|Āndhras, Karṇāṭakas, Gurjaras, Tailaṅgas,}} and {{Unicode|Mahārāṣṭras}}".<ref>[http://webapps.uni-koeln.de/tamil/ Sanskrit, Tamil and Pahlavi Dictionaries<!--Bot-generated title-->]</ref>
+
+==Classification==
+The Dravidian languages form a close-knit family. They are descended from the [[Proto-Dravidian language]]. There is reasonable agreement on how they are related to each other. Most scholars agree on four groups: North, Central (Kolami–Parji), South-Central (Telugu–Kui) and South Dravidian. Earlier classifications grouped Central and South-Central Dravidian in a single branch. The classification below follows Krishnamurti in grouping South-Central and South Dravidian.{{sfnp|Krishnamurti|2003|p=21}}
+Languages recognized as [[List of official languages of India|official languages of India]] appear here in '''boldface'''.
+
+{{clade
+|label1=Dravidian&nbsp;
+|1={{clade
+|label1=&nbsp;Southern&nbsp;
+|1={{clade
+|label1={{nowrap|&nbsp;South (SD I)}} <br>{{nowrap|&nbsp;(Tamil–Tulu-Kannada)&nbsp;}}
+|1={{clade
+|label1={{nowrap|&nbsp;[[Tamil–Kannada languages|Tamil–Kannada]]&nbsp;}}
+|1={{clade
+|label1=&nbsp;Old Tamil&nbsp;
+|1={{clade
+|1='''[[Tamil language|Modern Tamil]]'''
+|2='''[[Malayalam language|Malayalam]]'''
+}}
+|label2=&nbsp;Kodagu&nbsp;
+|2={{clade
+|1=[[Kodava language|Kodava]]
+|2=[[Kurumba language|Kurumba]]
+}}
+|3={{clade
+|1=[[Kota language|Kota]]
+|2=[[Toda language|Toda]]
+}}
+|label4=&nbsp;[[Kannada–Badaga]]&nbsp;
+|4={{clade
+|1='''[[Kannada language|Modern Kannada]]'''
+|2=[[Badaga language|Badaga]]
+}}
+}}
+|label2={{nowrap|&nbsp;Tulu&nbsp;}}
+|2={{clade
+|1=[[Koraga language|Koraga]]
+|2=[[Tulu language|Tulu]] (incl. [[Bellari language|Bellari]]?)
+|3=[[Kudiya language|Kudiya]]
+}}
+}}
+|label2={{nowrap|&nbsp;South-Central (SD II)&nbsp;}}<br>{{nowrap|&nbsp;(Telugu–Kui)&nbsp;}}
+|2={{clade
+|label2=&nbsp;Telugu&nbsp;
+|2={{clade
+|1='''[[Telugu language|Modern Telugu]]'''
+|2=[[Chenchu language|Chenchu]]
+}}
+|label1={{nowrap|&nbsp;Gondi–Kui&nbsp;}}
+|1={{clade
+|label1=&nbsp;Gondi&nbsp;
+|1={{clade
+|1=[[Gondi language|Gondi]]
+|2=[[Madiya language|Madiya]]
+|3=[[Muria language|Muria]]
+|4=[[Pardhan language|Pardhan]]
+|5=[[Nagarchal language|Nagarchal]]
+|6=[[Khirwar language|Khirwar]]
+}}
+|2={{clade
+|1=[[Konda language (Dravidian)|Konda]]
+|2=[[Mukha-Dora language|Mukha-Dora]]
+}}
+|3={{clade
+|1=[[Kui language (India)|Kui]]
+|2=[[Kuvi language|Kuvi]]
+|3=[[Koya language|Koya]]
+}}
+|4={{clade
+|1=[[Manda language (India)|Manda]]
+|2=[[Pengo language|Pengo]]
+}}
+}}
+}}
+
+}}
+|label2=&nbsp;Central&nbsp;<br>{{nowrap|&nbsp;(Kolami–Parji)&nbsp;}}
+|2={{clade
+|1={{clade
+|1=[[Naiki language|Naiki]]
+|2=[[Kolami language|Kolami]]
+}}
+|2={{clade
+|1=[[Ollari language|Ollari]] (Gadaba)
+|2=[[Duruwa language|Duruwa]]
+}}
+}}
+|label3=&nbsp;Northern&nbsp;
+|3={{clade
+|label1={{nowrap|&nbsp;Kurukh–Malto&nbsp;}}
+|1={{clade
+|1=[[Kurukh language|Kurukh]] (Oraon, Kisan)
+|label2=&nbsp;Malto&nbsp;
+|2={{clade
+|1=[[Kumarbhag Paharia language|Kumarbhag Paharia]]
+|2=[[Sauria Paharia language|Sauria Paharia]]
+}}
+}}
+|2=[[Brahui language|Brahui]]
+}}
+}}
+}}
+
+In addition, ''Ethnologue'' lists several unclassified Dravidian languages: [[Allar language|Allar]], [[Bazigar language|Bazigar]], [[Bharia language|Bharia]], [[Malankuravan language|Malankuravan]] (possibly a dialect of Malayalam), [[Vishavan language|Vishavan]], as well as the otherwise unclassified Southern Dravidian languages [[Mala Malasar language|Mala Malasar]], [[Malasar language|Malasar]], [[Thachanadan language|Thachanadan]], [[Ullatan language|Ullatan]], [[Kalanadi language|Kalanadi]], [[Kumbaran language|Kumbaran]], [[Kunduvadi language|Kunduvadi]], [[Kurichiya language|Kurichiya]], [[Attapady Kurumba language|Attapady Kurumba]], [[Muduga language|Muduga]], [[Pathiya language|Pathiya]] and [[Wayanad Chetti language|Wayanad Chetti]] to Tamil-Kannada.
+
+===North Dravidian===
+Some authors deny that North Dravidian forms a valid subgroup, splitting it into Northeast (Kurukh–Malto) and Northwest (Brahui).{{sfnp|Ruhlen|1991|pp=138–141}} Their affiliation has been proposed primarily based on a small number of common phonetic developments, including:
+* In some words, *k is retracted or spirantized, shifting to {{IPA|/x/}} in Kurukh and Brahui, {{IPA|/q/}} in Malto.
+* In some words, *c is retracted to {{IPA|/k/}}.
+* Word-initial *v develops to {{IPA|/b/}}. This development is however also found in several other Dravidian languages, including Kannada, Kodagu and Tulu.
+McAlpin (2003)<ref>{{cite journal|first=David W.|last=McAlpin|title=Velars, Uvulars and the Northern Dravidian hypothesis|year=2003|journal=Journal of the American Oriental Society|volume=123:3|pp=521–546}}</ref> notes that no exact conditioning can be established for the first two changes, and proposes that distinct Proto-Dravidian *q and *kʲ should be reconstructed behind these correspondences; and that Brahui, Kurukh-Malto and the rest of Dravidian may be three coordinate branches, possibly with Brahui being the earliest language to split off. A few morphological parallels between Brahui and Kurukh-Malto are also known, but according to McAlpin they are analyzable as shared archaisms rather than shared innovations.
+
+==Distribution==
+Approximately 29% of India's population spoke Dravidian languages in 1981.<ref name="Ishtiaq 1999">{{cite book|last=Ishtiaq|first=M.|title=Language Shifts Among the Scheduled Tribes in India: A Geographical Study|year=1999|publisher=Motilal Banarsidass Publishers|location=Delhi|isbn=9788120816176|url=https://books.google.com/books?id=fkIgsfb95rAC|accessdate=7 September 2012|pages=26–27}}</ref> The proportion has fallen due to lower birth rates compared to the Indo-Aryan speakers and according to 2001 census, about 21.5% or 220 million of total population of 1.02 billion were Dravidian speakers.<ref name="2001Stm5">[http://censusindia.gov.in/Census_Data_2001/Census_Data_Online/Language/Statement5.htm Comparative Speaker's Strength of Scheduled Languages – 1971, 1981, 1991 and 2001], Census of India, 1991</ref>
+
+{| class="wikitable sortable"
+|-
+! Language !! Classification !! Number of speakers !! Location
+|-
+| [[Telugu language|Telugu]] || South-Central || 75,000,000 || [[Andhra Pradesh]], [[Telangana]], [[Yanam district]] of [[Puducherry]], parts of [[Tamil Nadu]] and [[Karnataka]], [[United States of America|USA]]
+|-
+| [[Tamil language|Tamil]] || South || 70,000,000 || [[Tamil Nadu]], [[Puducherry]] (including [[Karaikkal]]), [[Karnataka]] ([[Bangalore urban district|Bangalore urban]], [[Bengaluru Rural District|Bangalore rural]], [[Chamarajanagar district|Chamarajanagar]], [[Kolar district|Kolar]], [[Mysore district|Mysore]], [[Mandya district|Mandya]], [[Ramanagara district|Ramanagara]] and [[Kodagu district|Kodagu]] districts), [[Andhra Pradesh]] ([[Chittoor district|Chittoor]] and [[Nellore district|Nellore]] districts), [[Kerala]] ([[Palakkad district|Palakkad]] and [[Idukki district|Idukki]] districts), [[Andaman and Nicobar]], [[Sri Lanka]], [[Singapore]], [[Malaysia]], [[Mauritius]], [[South Africa]], [[Germany]], [[Canada]], [[United States of America|USA]], [[United Kingdom|UK]] and [[United Arab Emirates|UAE]]
+|-
+| [[Kannada language|Kannada]] || South || 41,000,000 || [[Karnataka]], [[Kerala]] ([[Kasaragod district]] and [[Maharashtra]] ([[Solapur district]])
+|-
+| [[Malayalam language|Malayalam]] || South || 38,000,000 || [[Kerala]], [[Lakshadweep]], [[Mahe district]] of [[Puducherry]], [[Dakshina Kannada]] and [[Kodagu district|Kodagu]] districts of [[Karnataka]], [[Coimbatore district|Coimbatore]] and [[Kanyakumari district|Kanyakumari]] districts of [[Tamil Nadu]], [[United Arab Emirates|UAE]]
+|-
+| [[Brahui language|Brahui]] || Northern || 4,200,000 || [[Balochistan, Pakistan]]
+|-
+| [[Gondi language|Gondi]] || South-Central || 2,000,000 || [[Madhya Pradesh]], [[Maharashtra]], [[Chhattisgarh]], [[Telangana]], [[Odisha]]
+|-
+| [[Kurukh language|Kurukh]] || Northern || 2,000,000 || [[Chhattisgarh]], [[Jharkhand]], [[Odisha]], [[West Bengal]]
+|-
+| [[Tulu language|Tulu]] || South || 1,700,000 || [[Karnataka]] ([[Dakshina Kannada]], [[Udupi district|Udupi]] districts) and [[Kerala]] ([[Kasaragod district]])
+|-
+| [[Beary Bashe]] || South || 1,500,000 || [[Karnataka]] ([[Dakshina Kannada]], [[Udupi district|Udupi]] districts) and [[Kerala]] ([[Kasaragod district]])
+|-
+| [[Muria language|Muria]] || South-Central || 1,000,000 || [[Chhattisgarh]], [[Maharashtra]], [[Odisha]]
+|-
+| [[Kui language (India)|Kui]] || South-Central || 700,000 || [[Odisha]]
+|-
+| [[Badaga language|Badaga]] || South || 400,000 || [[Tamil Nadu]] ([[Nilgiris district]])
+|-
+| [[Maria language (India)|Maria]] || South-Central || 360,000 || [[Chhattisgarh]], [[Maharashtra]]
+|-
+| [[Kuvi language|Kuvi]] || South-Central || 350,000 || [[Odisha]]
+|-
+| [[Pengo language|Pengo]] || South-Central || 350,000 || [[Odisha]]
+|-
+| [[Koya language|Khoya]] || South-Central || 330,000 || [[Andhra Pradesh]], [[Chhattisgarh]]
+|-
+| [[Kodava takk|Kodava]] || South || 300,000 ||  [[Karnataka]] ([[Kodagu district]])
+|-
+| [[Kurumba language|Kurumba]] || South || 220,000 || [[Tamil Nadu]] ([[Nilgiris district]])
+|-
+| [[Sauria Paharia language|Sauria Paharia]] || Northern || 120,000 || [[Bihar]], [[Jharkhand]], [[West Bengal]]
+|-
+| [[Pardhan language|Pardhan]] || South-Central || 117,000 || [[Andhra Pradesh]], [[Chhattisgarh]], [[Maharashtra]], [[Madhya Pradesh]]
+|-
+| [[Kolami language|Kolami]] || Central || 115,000 || [[Andhra Pradesh]], [[Maharashtra]]
+|-
+| [[Duruwa language|Duruwa]] || Central || 80,000 || [[Chhattisgarh]]
+|-
+| [[Chenchu language|Chenchu]] || South-Central || 26,000 ||[[Andhra Pradesh]]
+|-
+| [[Ollari language|Ollari]] || Central || 23,000 || [[Andhra Pradesh]], [[Odisha]]
+|-
+| [[Konda language (Dravidian)|Konda]] || South-Central || 20,000 || [[Andhra Pradesh]], [[Odisha]]
+|-
+| [[Kanikkaran language|Kanikkaran]] || South || 19,000 || [[Tamil Nadu]] ([[Nilgiris district]]) and [[Kerala]]
+|-
+| [[Kumarbhag Paharia language|Kumarbhag Paharia]] || Northern || 18,000 || [[Jharkhand]], [[West Bengal]]
+|-
+| [[Koraga language|Koraga]] || South || 14,000 || [[Karnataka]] ([[Dakshina Kannada]], [[Udupi district|Udupi]] districts) and [[Kerala]] ([[Kasaragod district]])
+|-
+| [[Naiki language|Naiki]] || Central || 10,000 || [[Andhra Pradesh]], [[Maharashtra]]
+|-
+| [[Nagarchal language|Nagarchal]] || South-Central || 7,000 || [[Madhya Pradesh]], [[Chhattisgarh]], [[Maharashtra]]
+|-
+| [[Irula language|Irula]] || South || 4,500 || [[Tamil Nadu]] ([[Nilgiris district]])
+|-
+| [[Manda language (India)|Manda]] || South-Central || 4,000 || [[Odisha]]
+|-
+| [[Toda language|Toda]] || South || 1,100 || [[Tamil Nadu]] ([[Nilgiris district]])
+|-
+| [[Kota language|Kota]] || South || 900 || [[Tamil Nadu]] ([[Nilgiris district]])
+|-
+| [[Allar language|Allar]] || South || 300 || [[Kerala]]
+|}
+
+==History==
+{{further|Proto-Dravidian language|Elamo-Dravidian languages}}
+The origins of the Dravidian languages, as well as their subsequent development and the period of their differentiation are unclear, partially due to the lack of [[comparative linguistics|comparative linguistic]] research into the Dravidian languages. Among Indian languages, Tamil has the most ancient non-Sanskritised Indian literature.<ref>Sivathamby, K (December 1974) [http://www.jstor.org/pss/3516448 Early South Indian Society and Economy: The Tinai Concept], Social Scientist, Vol.3 No.5 December 1974</ref> The earliest records in Old Tamil are short inscriptions from around the 2nd century BCE in caves and on pottery. These inscriptions are written in a variant of the [[Brahmi script]] called [[Tamil Brahmi]].<ref>{{Harvnb|Mahadevan|2003|pp=90–95}}</ref> The earliest long text in Old Tamil is the [[Tolkappiyam|Tolkāppiyam]], an early work on Tamil grammar and poetics, whose oldest layers could be as old as the 1st century BCE.
+
+Although in modern times speakers of the various Dravidian languages have mainly occupied the southern portion of India, nothing definite is known about the ancient domain of the Dravidian parent speech.  The [[Brahui people|Brahui]], [[Kurukh people|Kurukh]] and [[Malto people|Malto]] have myths about external origins.<ref>P. 83 ''The Quest for the Origins of Vedic Culture: The Indo-Aryan Migration'' Debate By Edwin Bryant</ref> The Kurukh have traditionally claimed to be from the [[Deccan Peninsula]],<ref>P. 18 ''The Orāons of Chōtā Nāgpur: their history, economic life, and social organization.'' by Sarat Chandra Roy, Rai Bahadur;  Alfred C Haddon</ref> more specifically [[Karnataka]]. The same tradition has existed of the Brahui.<ref>P. 12 ''Origin and Spread of the Tamils By V. R.'' Ramachandra Dikshitar</ref><ref name = "uszfyu">P. 32 ''Ideology and status of Sanskrit : contributions to the history of the Sanskrit language'' by Jan E M Houben</ref> They call themselves immigrants.<ref>P. 45 ''The Brahui language, an old Dravidian language spoken in parts of Baluchistan and Sind'' by [[Denys Bray|Sir Denys Bray]]</ref> Many scholars hold this same view of the Brahui<ref>''Ancient India; Culture and Thought'' By M. L. Bhagi</ref> such as L. H. Horace Perera and M. Ratnasabapathy.<ref>P. 23 ''Ceylon & Indian History from Early Times to 1505 A. D.'' By L. H. Horace Perera, M. Ratnasabapathy</ref> [[Proto-Dravidian]] is thought to have differentiated into Proto-North Dravidian, Proto-Central Dravidian, Proto South-Central Dravidian and Proto-South Dravidian around 500 BCE, although some linguists have argued that the degree of differentiation between the sub-families points to an earlier split.
+
+==Relationship to other language families==
+[[File:South Asian Language Families.jpg|thumb|right|upright=1.25|Language families in South Asia]]
+Despite many proposals, scholars have not shown a systematic relationship between the Dravidian languages and any other language family. Nonetheless, while there are no readily detectable genealogical connections, Dravidian shares strong [[Areal feature (linguistics)|areal features]] with the [[Indo-Aryan languages]], which have been attributed to a substratum influence from Dravidian.{{sfnp|Krishnamurti|2003|pp=38–42}} The earliest known Dravidian inscriptions are 76 [[Tamil language#Old Tamil|Old Tamil]] inscriptions on cave walls in [[Madurai district|Madurai]] and [[Tirunelveli district|Tirunelveli]] districts in [[Tamil Nadu]], dating from the 2nd century BCE.{{sfnp|Krishnamurti|2003|p=22}}
+
+[[File:Jambai Tamil Brahmi.jpg|thumb|200px|[[Athiyamān Nedumān Añci|Jambai Tamil Brahmi inscription]] dated to the early Sangam age]]
+
+===Proposed larger groupings===
+The Dravidian family has defied all of the attempts to show a connection with other languages, including [[Indo-European languages|Indo-European]], [[Hurrian]], [[Basque language|Basque]], [[Sumerian language|Sumerian]], and [[Korean language|Korean]]. Comparisons have been made not just with the other language families of the Indian subcontinent ([[Indo-European languages|Indo-European]], [[Austroasiatic languages|Austroasiatic]], [[Sino-Tibetan languages|Sino-Tibetan]], and [[Nihali language|Nihali]]), but with all typologically similar language families of the Old World.
+
+Dravidian languages display typological similarities with the [[Uralic languages|Uralic]] language group, suggesting to some a prolonged period of contact in the past.<ref>Tyler, Stephen (1968), "Dravidian and Uralian: the lexical evidence". ''Language'' 44:4. 798–812</ref> This idea is popular amongst Dravidian linguists and has been supported by a number of scholars, including [[Robert Caldwell]],<ref>Webb, Edward (1860), "Evidences of the Scythian Affinities of the Dravidian Languages, Condensed and Arranged from Rev. R. Caldwell's Comparative Dravidian Grammar", ''Journal of the American Oriental Society'' Vol. 7. 271–298.</ref> [[Thomas Burrow]],<ref>Burrow, T. (1944) "Dravidian Studies IV: The Body in Dravidian and Uralian". ''Bulletin of the School of Oriental and African Studies'' 11:2. 328–356.</ref> Kamil Zvelebil,<ref name="britannicaDVD">Zvelebil, Kamal (2006). Dravidian Languages. In ''Encyclopædia Britannica'' (DVD edition).</ref> and Mikhail Andronov.<ref>Andronov, Mikhail S. (1971), "Comparative Studies on the Nature of Dravidian-Uralian Parallels: A Peep into the Prehistory of Language Families". ''Proceedings of the Second International Conference of Tamil Studies'' Madras. 267–277.</ref> This hyphothesis has, however, been rejected by some specialists in Uralic languages,<ref>Zvelebil, Kamal (1970), ''Comparative Dravidian Phonology'' Mouton, The Hauge. at p. 22 contains a bibliography of articles supporting and opposing the theory</ref> and has in recent times also been criticised by other Dravidian linguists such as [[Bhadriraju Krishnamurti]].{{sfnp|Krishnamurti|2003|p=43}}
+
+Dravidian is one of the primary language families in the [[Nostratic]] proposal, which would link most languages in North Africa, Europe and Western Asia into a family with its origins in the [[Fertile Crescent]] sometime between the last [[Ice Age]] and the emergence of [[Proto-Indo-European language|proto-Indo-European]] 4–6 thousand years BCE. However, the general consensus is that such deep connections are not, or not yet, demonstrable. McAlpin (1975) proposed linking Dravidian languages with the ancient [[Elamite language]] of what is now southwestern Iran. However, despite decades of research, this [[Elamo-Dravidian languages|Elamo-Dravidian]] language family has not been demonstrated to the satisfaction of other historical linguists.
+
+===Dravidian influence on Sanskrit===
+{{main|Substratum in Vedic Sanskrit}}
+Dravidian languages show extensive lexical (vocabulary) borrowing, but only a few traits of structural (either [[phonology|phonological]] or grammatical) borrowing from Indo-Aryan, whereas Indo-Aryan shows more structural than lexical borrowings from the Dravidian languages.<ref name="britannicaOnline">"[http://search.eb.com/eb/article-9109791 Dravidian languages.]" [[Encyclopædia Britannica]]. 2008. Encyclopædia Britannica Online. 30 Jun. 2008</ref>
+Many of these features are already present in the oldest known [[Indo-Aryan language]], the language of the ''[[Rigveda]]'' (c. 1500 BCE), which also includes over a dozen words borrowed from Dravidian.{{sfnp|Krishnamurti|2003|p=6}}
+
+[[Vedic Sanskrit]] has [[retroflex consonant]]s ({{IAST|ṭ}}/{{IAST|ḍ}}, {{IAST|ṇ}}) with about 88 words in the ''Rigveda'' having unconditioned retroflexes.{{sfnp|Kuiper|1991}}{{sfnp|Witzel|1999}} Some sample words are ''{{IAST|Iṭanta}}'', ''{{IAST|Kaṇva}}'',''{{IAST|śakaṭī}}'', ''{{IAST|kevaṭa}}'', ''{{IAST|puṇya}}'' and ''{{IAST|maṇḍūka}}''.
+Since other [[Indo-European languages]], including other [[Indo-Iranian languages]], lack retroflex consonants, their presence in Indo-Aryan is often cited as evidence of substrate influence from close contact of the Vedic speakers with speakers of a foreign language family rich in retroflex consonants.{{sfnp|Kuiper|1991}}{{sfnp|Witzel|1999}} The Dravidian family is a serious candidate since it is rich in retroflex phonemes reconstructible back to the [[Proto-Dravidian language|Proto-Dravidian stage]].{{sfnp|Subrahmanyam|1983|p=40}}{{sfnp|Zvelebil|1990}}{{sfnp|Krishnamurti|2003|p=36}}
+
+In addition, a number of grammatical features of Vedic Sanskrit not found in its sister [[Avestan language]] appear to have been borrowed from Dravidian languages.  These include the [[gerund]], which has the same function as in Dravidian, and the [[quotative]] marker ''iti''.{{sfnp|Krishnamurti|2003|pp=36–37}} Some linguists explain this asymmetrical borrowing by arguing that Middle Indo-Aryan languages were built on a Dravidian [[substratum]].{{sfnp|Krishnamurti|2003|pp=40–41}} These scholars argue that the most plausible explanation for the presence of Dravidian structural features in Indic is [[language shift]], that is, native Dravidian speakers learning and adopting Indic languages.{{sfnp|Erdosy|1995|p=18}} Although each of the innovative traits in Indic could be accounted for by internal explanations, early Dravidian influence is the only explanation that can account for all of the innovations at once; moreover, it accounts for the several of the innovative traits in Indic better than any internal explanation that has been proposed.{{sfnp|Thomason|Kaufman|1988|pp=141–144}}
+
+The [[Brahui people|Brahui]] population of [[Balochistan (region)|Balochistan]] has been taken by some as the linguistic equivalent of a [[relict]] population, perhaps indicating that Dravidian languages were formerly much more widespread and were supplanted by the incoming [[Indo-Aryan languages]].{{sfnp|Mallory|1989|p=44}}{{sfnp|Elst|1999|p=146}}{{sfnp|Trask|2000|p=97|ps="It is widely suspected that the extinct and undeciphered Indus Valley language was a Dravidian language, but no confirmation is available. The existence of the isolated northern outlier ''Brahui'' is consistent with the hypothesis that Dravidian formerly occupied much of North India but was displaced by the invading Indo-Aryan languages, and the presence in the Indo-Aryan languages of certain linguistic features, such as retroflex consonants, is often attributed to Dravidian substrate influence."}} However it has been argued that the absence of any Old Iranian (Avestan) loanwords in Brahui suggests that the Brahui migrated to Balochistan from central India less than 1000 years ago. The main Iranian contributor to Brahui vocabulary, [[Balochi language|Balochi]], is a western [[Iranian language]] like [[Kurdish languages|Kurdish]], and arrived in the area from the west only around 1000 CE.<ref>{{cite journal | first = Josef | last = Elfenbein | title = A periplus of the 'Brahui problem' | journal = Studia Iranica | volume = 16 | issue = 2 | year = 1987 | pages = 215–233 | doi=10.2143/SI.16.2.2014604}}</ref>
+Sound changes shared with Kurukh and Malto also suggest that Brahui was originally spoken near them in central India.{{sfnp|Krishnamurti|2003|pp=27, 142}}
+
+==Grammar==
+The most characteristic grammatical features of Dravidian languages are:<ref name="britannicaDVD"/>
+* Dravidian languages are [[Agglutination|agglutinative]].
+* Word order is [[subject–object–verb]] (SOV).
+* Dravidian languages have a [[clusivity]] distinction.
+* The major word classes are nouns (substantives, numerals, pronouns), adjectives, verbs, and indeclinables (particles, enclitics, adverbs, interjections, onomatopoetic words, echo words).
+* Proto-Dravidian used only suffixes, never prefixes or infixes, in the construction of inflected forms. Hence, the roots of words always occurred at the beginning. Nouns, verbs, and indeclinable words constituted the original word classes.
+* There are two numbers and four different gender systems, the ancestral system probably having "male:non-male" in the singular and "person:non-person" in the plural.
+* In a sentence, however complex, only one finite verb occurs, normally at the end, preceded if necessary by a number of gerunds.
+* Word order follows certain basic rules but is relatively free.
+* The main (and probably original) dichotomy in tense is past:non-past. Present tense developed later and independently in each language or subgroup.
+* Verbs are intransitive, transitive, and causative; there are also active and passive forms.
+* All of the positive verb forms have their corresponding negative counterparts, [[negative verbs]].
+
+==Phonology==
+Dravidian languages are noted for the lack of distinction between aspirated and unaspirated stops. While some Dravidian languages have accepted large numbers of loan words from [[Sanskrit]] and other [[Indo-Iranian languages]] in addition to their already vast vocabulary, in which the [[orthography]] shows distinctions in voice and [[aspiration (phonetics)|aspiration]], the words are pronounced in Dravidian according to different rules of [[phonology]] and [[phonotactics]]: aspiration of [[plosives]] is generally absent, regardless of the spelling of the word. This is not a universal phenomenon and is generally avoided in formal or careful speech, especially when reciting. For instance, [[Tamil language|Tamil]] does not distinguish between voiced and voiceless stops. In fact, the [[Tamil alphabet]] lacks symbols for voiced and aspirated stops. Dravidian languages are also characterized by a three-way distinction between [[Dental consonant|dental]], [[Alveolar consonant|alveolar]], and [[retroflex]] places of articulation as well as large numbers of [[Liquid consonant|liquids]].
+
+===Proto-Dravidian===
+{{main|Proto-Dravidian}}
+Proto-Dravidian had five short and long vowels: ''*a'', ''*ā'', ''*i'', ''*ī'', ''*u'', ''*ū'', ''*e'', ''*ē'', ''*o'', ''*ō''. There were no diphthongs; ''ai'' and ''au'' are treated as *''ay'' and *''av'' (or *''aw'').{{sfnp|Subrahmanyam|1983}}{{sfnp|Zvelebil|1990}}{{sfnp|Krishnamurti|2003|p=90}}
+The five-vowel system is largely preserved in the descendent subgroups.{{sfnp|Krishnamurti|2003|p=48}}
+
+The following consonantal phonemes are reconstructed:{{sfnp|Subrahmanyam|1983|p=40}}{{sfnp|Zvelebil|1990}}{{sfnp|Krishnamurti|2003|p=91}}
+{| class="wikitable Unicode" border="1"
+|-
+! !! Labial !! Dental !! Alveolar !! Retroflex !! Palatal !! Velar !! Glottal
+|-
+! Plosives
+| *p || *t || *ṯ || *ṭ || *c || *k ||
+|-
+! Nasals
+| *m || *n || *ṉ (??) || *ṇ || *ñ || ||
+|-
+! Fricatives
+| || || || || || || (*H)
+|-
+! Flap/Rhotics
+| || || *r || *ẓ (ḻ, r̤) || || ||
+|-
+! Lateral
+| || || *l || *ḷ || || ||
+|-
+! Glides
+| *w [v] || || ||  || *y || ||
+|}
+
+===Numerals===
+{{See also|List of numbers in various languages}}
+The numerals from 1 to 10 in various Dravidian and [[Indo-Aryan languages]] (here exemplified by Hindi, Sanskrit and Marathi).{{Citation needed|reason=reliable source needed for the derivation of proto-Dravidian forms|date=July 2012}}
+
+{| class="wikitable Unicode"
+|-
+! rowspan="2" | Number
+! colspan="5" | Southern
+! South-Central
+! Central
+! colspan="2" | Northern
+! rowspan="2" | [[Proto-Dravidian]]
+! colspan="3" | Indo-Aryan
+|-
+! [[Tamil language|Tamil]]
+! [[Malayalam language|Malayalam]]
+! [[Kodava language|Kodava]]
+! [[Tulu language|Tulu]]
+! [[Kannada language|Kannada]]
+! [[Telugu language|Telugu]]
+! [[Kolami language|Kolami]]
+! [[Kurukh language|Kurukh]]
+! [[Brahui language|Brahui]]
+! [[Hindi]]
+! [[Sanskrit]]
+! [[Marathi language|Marathi]]
+|-
+| 1
+| oṉṟu
+| onnu
+| ond
+| onji
+| ondu
+| {{Unicode|okaṭi}}
+| okkod
+| {{Unicode|oṇṭa}}
+| {{Unicode|asiṭ}}
+| *onṯu <sup>1</sup>
+| ek
+| éka
+| ek
+|-
+| 2
+| {{Unicode|iraṇṭu}}
+| {{Unicode|raṇdu}}
+| {{Unicode|danḍ}}
+| {{Unicode|raḍḍ}}
+| {{Unicode|eraḍu}}
+| {{Unicode|renḍu}}
+| {{Unicode|irāṭ}}
+| {{Unicode|indiŋ}}
+| {{Unicode|irāṭ}}
+| *iru <sup>2</sup>
+| do
+| dvi
+| don
+|-
+| 3
+| mūṉṟu
+| mūnnu
+| mūṉd
+| mūji
+| mūṟu
+| {{Unicode|mūḍu}}
+| {{Unicode|mūndiŋ}}
+| mūnd
+| {{Unicode|musiṭ}}
+| *muC
+| teen
+| tri
+| teen
+|-
+| 4
+| nāṉku
+| nālu
+| nāl
+| nāl
+| nālku
+| nālugu
+| {{Unicode|nāliŋ}}
+| nā<u>kh</u>
+| čār (II)
+| *nān
+| char
+| chatúr
+| chār
+|-
+| 5
+| aintu
+| añchu
+| añji
+| ayN
+| aidu
+| ayidu
+| ayd <sup>3</sup>
+| pancē (II)
+| panč (II)
+| *cayN
+| panch
+| pañcha
+| pātc
+|-
+| 6
+| āru
+| āṟu
+| ār
+| āji
+| āṟu
+| āṟu
+| ār <sup>3</sup>
+| soyyē (II)
+| šaš (II)
+| *caṟu
+| che
+| ṣáṣ
+| sahā
+|-
+| 7
+| ēḻu
+| ē<u>zh</u>u
+| ēḻ
+| yēl
+| ēlu
+| {{Unicode|ēḍu}}
+| {{Unicode|ēḍ}} <sup>3</sup>
+| sattē (II)
+| haft (II)
+| *ēẓ
+| sat
+| saptá
+| sāt
+|-
+| 8
+| eṭṭu
+| {{Unicode|eṭṭu}}
+| eṭṭ
+| edma
+| {{Unicode|eṇṭu}}
+| enimidi
+| enumadī <sup>3</sup>
+| {{Unicode|aṭṭhē}} (II)
+| hašt (II)
+| *{{Unicode|eṭṭu}}
+| āṭh
+| aṣṭá
+| āṭh
+|-
+| 9
+| oṉpatu <sup>5</sup>
+| oṉpathu <sup>5</sup>
+| oiymbad
+| ormba
+| ombattu
+| tommidi
+| tomdī <sup>3</sup>
+| {{Unicode|naiṃyē}} (II)
+| nōh (II)
+| *{{Unicode|toḷ}}
+| nau
+| náva
+| nau
+|-
+| 10
+| pattu
+| patthu
+| patt
+| patt
+| hattu
+| padi
+| padī <sup>3</sup>
+| dassē (II)
+| dah (II)
+| *pat(tu)
+| das
+| dáśa
+| dahā
+|}
+#This is the same as the word for another form of the number one in [[Tamil language|Tamil]] and [[Malayalam]], used as the [[indefinite article]] ("a") and when the number is an [[Grammatical modifier|attribute]] preceding a noun (as in "one person"), as opposed to when it is a noun (as in "How many are there?" "One").
+#This is still found in compound words, and has taken on a meaning of "double" in [[Tamil language|Tamil]], [[Telugu language|Telugu]], [[Kannada]] and [[Malayalam]]. For example, ''irupatu'' (20, literally meaning "double-ten"), ''iravai'' (20 in Telugu), "{{Unicode|iraṭṭi}}" ("double") or ''iruvar'' ("two people", in Tamil).
+#The Kolami numbers 5-10 are borrowed from Telugu.
+#The word ''tondu'' was also used to refer to the number nine in ancient [[Sankam]] texts but was later completely replaced by the word ''onpadu''.
+#Proto-Dravidian *toḷ is still used in Tamil and Malayalam as the basis of numbers such as 90, ''thonnooru''.
+*Words indicated '''(II)''' are borrowings from [[Indo-Iranian languages]] (in Brahui's case, from [[Persian language|Persian]]).
+
+==See also==
+* [[Dravidian Linguistics Association]]
+* [[Dravidian peoples]]
+
+==Citations==
+{{reflist|3}}
+
+==References==
+{{refbegin}}
+* {{citation | first = Robert | last = Caldwell | authorlink = Robert Caldwell | title = A comparative grammar of the Dravidian, or, South-Indian family of languages | location = London | publisher = Harrison | year = 1856 | url = https://archive.org/details/acomparativegra02caldgoog }}; Reprinted London, K. Paul, Trench, Trubner & co., ltd., 1913; rev. ed. by J.L. Wyatt and T. Ramakrishna Pillai, Madras, University of Madras, 1961, reprint Asian Educational Services, 1998. ISBN 81-206-0117-3
+* {{citation | last = Campbell | first = A.D. | title = A grammar of the Teloogoo language, commonly termed the Gentoo, peculiar to the Hindoos inhabiting the northeastern provinces of the Indian peninsula | edition = 3d | location = Madras | publisher = Hindu Press | year = 1849 | url = https://archive.org/details/grammarofteloogo00camprich | ref = none | postscript = . }}
+* {{citation | last =Elst | first =Koenraad | author-link =Koenraad Elst | year =1999 | title =Update on the Aryan Invasion Debate | place =New Delhi | publisher =[[Aditya Prakashan]] | isbn =81-86471-77-4 | postscript = . }}
+* {{citation | publication-date=1995 | editor-last=Erdosy | editor-first=George | title=The Indo-Aryans of Ancient South Asia: Language, Material Culture and Ethnicity | publication-place=Berlin/New York | publisher=Walter de Gruyter | isbn=3-11-014447-6 | year=1995 | postscript = . }}
+* {{citation | title = The Dravidian Languages | first = Bhadriraju | last = Krishnamurti | authorlink = Bhadriraju Krishnamurti | publisher = Cambridge University Press | year = 2003 | isbn = 0-521-77111-0 | postscript = . }}
+* {{citation | last = Kuiper | first = F.B.J. | title = Aryans in the Rig Veda | publisher = Rodopi | year = 1991 | isbn = 90-5183-307-5 | postscript = . }}
+* {{citation |first=J. P. |last=Mallory |authorlink=J. P. Mallory |year=1989 |title=In Search of the Indo-Europeans: Language, Archaeology and Myth |publisher=Thames and Hudson |location=London |isbn=978-0-500-05052-1  | postscript = . }}
+* {{citation | title = A Guide to the World's Languages: Classification | first = Merritt | last = Ruhlen | authorlink = Merritt Ruhlen | publisher = Stanford University Press | year = 1991 | isbn = 978-0-8047-1894-3 | postscript = . }}
+* {{citation | title = Francis Whyte Ellis and the Beginning of Comparative Dravidian Linguistics | last = Sreekumar | first = P. | journal = Historiographia Linguistica | volume = 36 | number = 1 | year = 2009 | pages = 75–95 | doi = 10.1075/hl.36.1.04sre | postscript = . }}
+* {{citation | last = Subrahmanyam | first = P.S. | title = Dravidian Comparative Phonology | publisher = Annamalai University | year = 1983 | postscript = . }}
+* {{citation | last =Thomason | first =Sarah Grey | last2 =Kaufman | first2 =Terrence | publication-date =1991 | year =1988 | title =Language Contact, Creolization, and Genetic Linguistics | publisher =University of California Press | isbn =0-520-07893-4 | postscript = . }}
+* {{citation |last=Trask |first=Robert Lawrence |title=The Dictionary of Historical and Comparative Linguistics |publisher=Routledge |year=2000 |isbn=1-57958-218-4 | postscript = . }}
+* {{citation | last = Witzel | first = Michael | url = http://www.people.fas.harvard.edu/~witzel/MT-Substrates.pdf | title = Early Sources for South Asian Substrate Languages | journal = [[Mother Tongue (journal)|Mother Tongue]] | issue = extra number | year = 1999 | pages = 1–76 | postscript = . }}
+* {{citation | last = Zvelebil | first = Kamil | title = Tamil Literature | publisher =  Brill | location = Leiden | year = 1975 | isbn = 90-04-04190-7 | postscript = . }}
+* {{citation | last = Zvelebil | first = Kamil | authormask = 2 | title = Dravidian Linguistics: An Introduction | publisher = Pondicherry Institute of Linguistics and Culture | year = 1990 | isbn  = 978-81-8545-201-2 | postscript = . }}
+{{refend}}
+
+==External links==
+* [http://dsal.uchicago.edu/dictionaries/burrow/index.html Dravidian Etymological Dictionary]. The complete Dravidian Etymological Dictionary in a searchable online form.
+* [http://en.wiktionary.org/wiki/Appendix:Swadesh_lists_for_Dravidian_languages Swadesh lists of Dravidian basic vocabulary words] (from Wiktionary's [http://en.wiktionary.org/wiki/Appendix:Swadesh_lists Swadesh-list appendix])
+
+{{Languages of South Asia}}
+{{Dravidian languages}}
+{{Language families}}
+{{Portal bar|Dravidian civilizations|India|Language}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Dravidian Languages}}
+[[Category:Dravidian languages| ]]
+[[Category:Agglutinative languages]]
+[[Category:Pre-Indo-Europeans]]

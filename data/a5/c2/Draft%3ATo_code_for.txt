@@ -1,0 +1,12 @@
+{{AFC submission|T|ts=20011103120102}}
+
+In [[genetics]], '''''to code for''''' means a [[gene]] contains the instructions on how to build a particular [[protein]], as in ''the gene codes for the protein''.
+Note that the [[one gene, one protein]] concept is now known to be simplistic. For example, a single gene may produce multiple products, depending on how its [[transcription (genetics)|transcription]] is regulated. 
+
+==See also==
+*[[genetics]]
+*[[protein biosynthesis]]
+*[[transcription (genetics)|transcription]]
+*[[translation (genetics)|translation]]
+
+[[:Category:Molecular genetics]]

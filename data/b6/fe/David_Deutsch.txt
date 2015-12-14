@@ -1,0 +1,116 @@
+{{Use dmy dates|date=July 2012}}
+{{Infobox scientist
+| name              = David Deutsch
+| image             =
+| image_size        = 
+| caption           = David Deutsch speaking at [[TED (conference)|TED]] in 2005
+| birth_date        = {{birth date and age|df=yes|1953|05|18}}<ref name=whoswho>{{Who's Who | surname = Deutsch| othernames = Prof. David Elieser | id = U247346 | volume = 2014 | edition = April 2014 online | accessed = 26 July 2014 }}</ref>
+| birth_place       = [[Haifa]], [[Israel]]
+| death_date        =
+| death_place       =
+| residence         =
+| citizenship       =
+| nationality       =
+| ethnicity         =
+| fields            = [[Theoretical physics]]<br>[[Quantum information science]]
+| workplaces        = [[University of Oxford]]<br />[[Clarendon Laboratory]]
+| alma_mater        = [[Clare College, Cambridge]]<br/>[[Wolfson College, Oxford]]
+| doctoral_advisor  = [[Dennis Sciama]]
+| academic_advisors =
+| doctoral_students = [[Artur Ekert]]
+| notable_students  =
+| known_for         = [[Quantum computing]]<br>[[Quantum Turing machine]]<br />[[Church-Turing-Deutsch principle]]<br />[[Deutsch-Jozsa algorithm]]<br />[[Quantum logic gate]]<br />[[Quantum circuit]]<br />[[Quantum error correction]]<br />[[Qubit field theory]]<br />[[Constructor theory]]<br />''[[The Fabric of Reality]]''<br>''[[The Beginning of Infinity]]''
+| author_abbrev_bot =
+| author_abbrev_zoo =
+| influences        = [[Karl Popper]], [[Jacob Bronowski]], [[William Godwin]]<ref name=peach>[http://philosophynow.org/issues/30/David_Deutsch Interview by Filiz Peach (published in Philosophy Now 30 December 2000)]</ref>
+| influenced        =
+| awards            = [[Dirac Prize]] (1998)
+| signature         = <!--(filename only)-->
+| footnotes         =
+}}
+
+'''David Elieser Deutsch''', [[Royal Society#Fellows|FRS]] (born 18 May 1953) is a [[United Kingdom|British]] [[physicist]] at the [[University of Oxford]]. He is a non-stipendiary Visiting Professor in the Department of Atomic and Laser Physics at the [[Centre for Quantum Computation]] (CQC) in the [[Clarendon Laboratory]] of the University of Oxford. He pioneered the field of [[quantum computation]] by formulating a description for a [[quantum Turing machine]], as well as specifying an algorithm designed to run on a quantum computer.<ref name="Deutsch1985">
+{{cite journal
+|last=Deutsch
+|first=David
+|date=July 1985
+|title=Quantum theory, the Church-Turing principle and the universal quantum computer
+|journal=[[Proceedings of the Royal Society A]]
+|volume=400
+|issue=1818
+|pages=pp. 97–117
+|url=http://www.qubit.org/oldsite/resource/deutsch85.pdf
+ |doi=10.1098/rspa.1985.0070 |archiveurl = http://web.archive.org/web/20030915061044/http://www.qubit.org/oldsite/resource/deutsch85.pdf |archivedate = 15 September 2003|bibcode = 1985RSPSA.400...97D }} Also available [http://www.ceid.upatras.gr/tech_news/papers/quantum_theory.pdf here.] Abstract available [http://adsabs.harvard.edu/abs/1985RSPSA.400...97D here.]</ref> He is a proponent of the [[many-worlds interpretation]] of [[quantum mechanics]].
+
+==Early life and education==
+Deutsch was born in [[Haifa]] in Israel on 18 May 1953, the son of Oskar and Tikva Deutsch. He attended [[William Ellis School]] in London (then a [[voluntary aided school|voluntary aided]] [[grammar school]]) before reading [[Natural Sciences (Cambridge)|Natural Sciences]] at [[Clare College, Cambridge]] and taking [[Part III of the Mathematical Tripos]]. He went on to [[Wolfson College, Oxford]] for his doctorate in [[theoretical physics]] and wrote his thesis on [[quantum field theory]] in [[curved space-time]].<ref name=whoswho/><ref name=peach/>
+
+==Career==
+In the [[Royal Society|Royal Society of London]]'s announcement that Deutsch had become a Fellow of the Royal Society (FRS) in 2008, the Society described Deutsch's contributions thus:<ref name="RoyalSociety2008">[http://royalsociety.org/General_WF.aspx?pageid=8952 "New Fellows 08 Craik - Kaiser"], [[Royal Society|The Royal Society]]. Also available [http://royalsociety.org/New-Fellows-08-Craik-Kaiser/ here]. [http://www.webcitation.org/5qbrtMiFc Mirror link].</ref>
+
+<blockquote>David Deutsch laid the foundations of the quantum theory of computation, and has subsequently made or participated in many of the most important advances in the field, including the discovery of the first quantum algorithms, the theory of quantum logic gates and quantum computational networks, the first quantum error-correction scheme, and several fundamental quantum universality results. He has set the agenda for worldwide research efforts in this new, interdisciplinary field, made progress in understanding its philosophical implications (via a variant of the many-universes interpretation) and made it comprehensible to the general public, notably in his book The Fabric of Reality.</blockquote>
+
+He is currently working on [[constructor theory]], an attempt at generalizing the quantum theory of computation to cover not just computation but all physical processes.<ref>[http://edge.org/conversation/constructor-theory Constructor Theory], A Conversation with David Deutsch, Interview at 'Edge' , 22 October 2012</ref><ref>Deutsch, D. and Marletto, C.; "Why we need to reconstruct the universe", ''New Scientist'', 24 May 2014, Pages 30-31.</ref>
+
+Together with [[Chiara Marletto]], he published a paper in December 2014 entitled ''Constructor theory of information'', that conjectures that information can be expressed solely in terms of which transformations of physical systems are possible and which are impossible.<ref>[http://rspa.royalsocietypublishing.org/content/471/2174/20140540 Constructor theory of information] David Deutsch, Chiara Marletto Proc. R. Soc. A:2015471 20140540;DOI: 10.1098/rspa.2014.0540.Published 17 December 2014</ref>
+
+==Popular science books==
+
+===''The Fabric of Reality''===
+{{Main|The Fabric of Reality}}
+
+In his 1997 book ''The Fabric of Reality'', Deutsch details his "Theory of Everything." It aims not at the reduction of everything to particle physics, but rather mutual support among [[multiversal]], computational, epistemological, and evolutionary principles. His theory of everything is (weakly) [[emergence|emergentist]] rather than [[reductionism|reductive]].
+
+There are "four strands" to his theory:
+
+# [[Hugh Everett]]'s [[many-worlds interpretation]] of [[quantum mechanics|quantum physics]], "the first and most important of the four strands."
+# [[Karl Popper]]'s [[epistemology]], especially its anti-inductivism and requiring a [[scientific realism|realist]] (non-instrumental) interpretation of scientific theories, as well as its emphasis on taking seriously those bold conjectures that resist falsification.
+# [[Alan Turing]]'s theory of computation, especially as developed in Deutsch's [[Turing principle]], in which the [[Universal Turing machine]] is replaced by Deutsch's [[universal quantum computer]]. ("''The'' theory of computation is now the quantum theory of computation.")
+# [[Richard Dawkins]]'s refinement of [[Darwinism|Darwinian]] evolutionary theory and the [[modern evolutionary synthesis]], especially the ideas of replicator and meme as they integrate with Popperian problem-solving (the [[epistemological]] strand).
+
+===''The Beginning of Infinity''===
+{{Main|The Beginning of Infinity }}
+
+Deutsch’s second book, ''The Beginning of Infinity'', was published on 31 March 2011. In this book Deutsch views the [[Age of Enlightenment|Enlightenment]] of the 18th century as near the beginning of an unending sequence of purposeful knowledge creation. He examines the nature of [[meme]]s and how and why [[creativity]] evolved in humans.
+
+==Views==
+Deutsch is an atheist.<ref>[http://www.celebatheists.com/wiki/David_Deutsch David Deutsch entry], Celeb atheists website, 30 March 2005. Accessed Jan 2015</ref> He is also a founding member of the parenting and educational method known as [[Taking Children Seriously]].<ref>{{Cite web|url = http://www.utne.com/mind-and-body/taking-children-seriously-tcs.aspx#axzz36G0RK12u|title = Taking Children Seriously - A new child-rearing movement believes parents should never coerce their kids|date = November–December 2003|accessdate = July 2014|website = UTNE Reader|publisher = Utne Reader Editorial Office|last = Friedman|first = Dawn}}</ref>
+
+He was awarded the [[Dirac Prize]] of the [[Institute of Physics]] in 1998,<ref>[http://www.qubit.org/people/david/DiracPrize/DiracPrize.html Dirac prize award]</ref> and the Edge of Computation Science Prize in 2005.<ref>[http://www.physics.ox.ac.uk/al/prizes.htm Edge of Computation Science Prize]</ref> The ''Fabric of Reality'' was shortlisted for the [[Royal Society Prizes for Science Books|Rhone-Poulenc science book award]] in 1998.<ref>[http://www.qubit.org/people/david/DiracPrize/DiracPrize.html Rhone-Poulenc 1998 shortlist]</ref>
+
+==See also==
+* [[Deutsch-Jozsa algorithm]]
+
+==Notes and references==
+{{Reflist|30em}}
+
+==External links==
+{{Toomanylinks|date=October 2015}}
+{{wikiquote}}
+* [http://www.qubit.org/people/david/ Deutsch's official homepage at Qubit.Org]
+* [http://www.jeffreyepsteinscience.com/2010/10/the-edge-of-computation-science-prize/daviddeutsch/] Deutsch wins Jeffrey Epstein's Edge of Computing Prize
+* [http://www.edge.org/3rd_culture/bios/deutsch.html Profile page at Edge.org]
+* [http://www.newscientist.com/channel/opinion/mg19225811.800 New Scientist interview]
+* {{TED speaker|david_deutsch}}
+* [http://www.wired.com/news/technology/0,72734-0.html?tw=wn_index_26 Wired News: Interview]
+* [http://esi-topics.com/enc/interviews/Dr-David-Deutsch.html Quantum Cryptography: Interview with David Deutsch]
+* [http://royalsociety.tv/dpx_royalsociety/dpx.php?cmd=autoplay&type=solo&dpxuser=dpx_v12&pres=307 The universality of quantum computation, and its implications]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Deutsch, David}}
+[[Category:People from Haifa]]
+[[Category:Israeli physicists]]
+[[Category:Quantum computing]]
+[[Category:British libertarians]]
+[[Category:British physicists]]
+[[Category:British atheists]]
+[[Category:1953 births]]
+[[Category:Living people]]
+[[Category:Fellows of the British Computer Society]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Theoretical physicists]]
+[[Category:People educated at William Ellis School]]
+[[Category:Alumni of Clare College, Cambridge]]
+[[Category:Alumni of Wolfson College, Oxford]]
+[[Category:Academics of the University of Oxford]]

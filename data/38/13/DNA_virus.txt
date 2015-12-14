@@ -1,0 +1,487 @@
+A '''DNA virus''' is a [[virus]] that has [[DNA]] as its [[genetic material]] and replicates using a DNA-dependent [[DNA polymerase]]. The [[nucleic acid]] is usually double-stranded DNA (dsDNA) but may also be single-stranded DNA (ssDNA). DNA viruses belong to either ''Group I'' or ''Group II'' of the [[Baltimore classification]] system for viruses. Single-stranded DNA is usually expanded to double-stranded in infected cells. Although ''Group VII'' viruses such as [[hepatitis B]] contain a DNA [[genome]], they are not considered DNA viruses according to the Baltimore classification, but rather [[reverse transcribing viruses]] because they replicate through an RNA intermediate. Notable diseases like [[smallpox]], [[herpes]], and [[chickenpox]] are caused by such DNA viruses.
+
+==Group I: dsDNA viruses==
+[[File:Hhv6 genome2.png|thumb|450px|alt=HHV-6 genome|Genome of ''[[human herpesvirus-6]]'', a member of the [[Herpesviridae]] family]]
+[[Genome]] organization within this group varies considerably. Some have circular genomes (''Baculoviridae'', ''Papovaviridae'' and ''Polydnaviridae'') while others have linear genomes (''Adenoviridae'', ''Herpesviridae'' and some phages). Some families have circularly permuted linear genomes ([[phage T4]] and some ''Iridoviridae''). Others have linear genomes with covalently closed ends (''Poxviridae'' and ''Phycodnaviridae'').
+
+A virus infecting [[archaea]] was first described in 1974. Several others have been described since: most have head-tail morphologies and linear double-stranded DNA genomes. Other morphologies have also been described: spindle shaped, rod shaped, filamentous, icosahedral and spherical. Additional morphological types may exist.
+
+[[Order (biology)|Order]]s within this group are defined on the basis of morphology rather than DNA sequence similarity. It is thought that morphology is more conserved in this group than sequence similarity or gene order which is extremely variable. Three orders and 31 [[family (biology)|families]] are currently recognised.  A fourth order – Megavirales – for the  nucleocytoplasmic large DNA viruses has been proposed.<ref name=Colson2012/> Four [[genus|genera]] are recognised that have not yet been assigned a family. The [[species]] ''[[Sulfolobus turreted icosahedral virus]]'' is so unlike any previously described virus that it will almost certainly be placed in a new family on the next revision of viral families.
+
+Fifteen families are [[viral envelope|enveloped]]. These include all three families in the order ''Herpesvirales'' and the following families: ''Ascoviridae'', ''Ampullaviridae'', ''Asfarviridae'', ''Baculoviridae'', ''Fuselloviridae'', ''Globuloviridae'', ''Guttaviridae'', ''Hytrosaviridae'', ''Iridoviridae'', ''Lipothrixviridae'', ''Nimaviridae'' and ''Poxviridae''.
+
+[[Bacteriophage]]s (viruses infecting [[bacteria]]) belonging to the families ''Tectiviridae'' and ''Corticoviridae'' have a lipid bilayer [[membrane]] inside the icosahedral [[protein]] [[capsid]] and the membrane surrounds the genome. The crenarchaeal virus ''Sulfolobus turreted icosahedral virus'' has a similar structure.
+
+The genomes in this group vary considerably from ~10 kilobases to over 2.5 megabases in length. The largest bacteriophage known is Klebsiella Phage vB_KleM-RaK2 which has a genome of 346 kilobases.<ref name="Simoliūnas2013">{{cite journal | author = Simoliūnas E, Kaliniene L, Truncaitė L, Zajančkauskaitė A, Staniulis J, Kaupinis A, Ger M, Valius M, Meškys R | year = 2013 | title = ''Klebsiella'' phage vB_KleM-RaK2 — A giant singleton virus of the family Myoviridae | journal = PLoS ONE | volume = 8 | issue = 4| page = e60717 |doi=10.1371/journal.pone.0060717 |pmid=23593293 |pmc=3622015 |url= http://dx.plos.org/10.1371/journal.pone.0060717|display-authors=etal}}</ref>
+
+A recently proposed clade is the [[Megavirales]] which includes the nucleocytoplasmic large DNA viruses.<ref name="Colson2012">{{cite journal |author=Colson P, de Lamballerie X, Fournous G, Raoult D |title=Reclassification of giant viruses composing a fourth domain of life in the new order Megavirales |journal=Intervirology |volume=55 |issue=5 |pages=321–32 |year=2012 |pmid=22508375 |doi=10.1159/000336562}}</ref><ref name="Colson2013">{{cite journal |author=Colson P, De Lamballerie X, Yutin N |title="Megavirales", a proposed new order for eukaryotic nucleocytoplasmic large DNA viruses |journal=Archives of Virology |volume=158 |issue=12 |pages=2517–21 | date=December  2013 |pmid=23812617 |pmc=4066373 |doi=10.1007/s00705-013-1768-6|display-authors=etal}}</ref> This proposal has yet to be ratified by the [[International Committee on Taxonomy of Viruses|ICTV]].
+
+===Host range===
+
+Species of the order ''Caudovirales'' and of the families ''Corticoviridae'' and ''Tectiviridae'' infect [[bacteria]].
+
+Species of the order ''Ligamenvirales'' and the families ''Ampullaviridae'',  ''Bicaudaviridae'', ''Clavaviridae'', ''Fuselloviridae'', ''Globuloviridae'', ''Guttaviridae'' and ''Turriviridae'' infect hyperthermophilic [[archaea]] species of the ''[[Crenarchaeota]]''.
+
+Species of the order ''Herpesvirales'' and of the families ''Adenoviridae'', ''Asfarviridae'', ''Iridoviridae'', ''Papillomaviridae'', ''Polyomaviridae'' and ''Poxviridae'' infect [[vertebrate]]s.
+
+Species of the families ''Ascovirus'', ''Baculovirus'', ''Hytrosaviridae'', ''Iridoviridae'' and ''Polydnaviruses'' and of the genus ''Nudivirus'' infect [[insect]]s.
+
+Species of the family ''Mimiviridae'' and the species ''Marseillevirus'', ''Megavirus'', ''Mavirus virophage'' and ''Sputnik virophage'' infect [[protozoa]].
+
+Species of the family ''Nimaviridae'' infect [[crustacean]]s.
+
+Species of the family ''Phycodnaviridae'' and the species ''Organic Lake virophage'' infect [[algae]]. These are the only known dsDNA viruses that infect [[plant]]s.
+
+Species of the family ''Plasmaviridae'' infect species of the class ''[[Mollicutes]]''.
+
+Species of the family ''Pandoraviridae'' infect [[amoeba]]e.
+
+Species of the genus ''Dinodnavirus'' infect [[dinoflagellate]]s. These are the only known viruses that infect [[dinoflagellate]]s.
+
+Species of the genus ''Rhizidiovirus'' infect [[stramenopile]]s. These are the only known dsDNA viruses that infect stramenopiles.
+
+Species of the genus ''Salterprovirus'' and ''Sphaerolipoviridae'' infect species of the ''[[Euryarchaeota]]''.
+
+===Taxonomy===
+
+* Order ''[[Caudovirales]]''
+** Family ''[[Myoviridae]]'' – includes [[Enterobacteria phage T4]]
+** Family ''[[Podoviridae]]'' – includes [[Enterobacteria phage T7]]
+** Family ''[[Siphoviridae]]'' – includes [[Enterobacteria phage lambda|Enterobacteria phage &lambda;]]
+
+* Order ''[[Herpesvirales]]''
+** Family ''[[Alloherpesviridae]]''
+** Family ''[[Herpesviridae]]'' – includes human herpesviruses, [[chicken pox|Varicella Zoster]] virus
+** Family ''[[Malacoherpesviridae]]''
+
+*Order ''[[Ligamenvirales]]''
+**Family ''[[Lipothrixviridae]]''
+**Family ''[[Rudiviridae]]''
+
+* Unassigned families
+** Family ''[[Adenoviridae]]'' – includes viruses which cause human [[adenovirus infection]]
+** Family ''[[Ampullaviridae]]''
+** Family ''[[Ascoviridae]]''
+** Family ''[[Asfarviridae]]'' – includes [[African swine fever virus]]
+** Family ''[[Baculoviridae]]''
+** Family ''[[Bicaudaviridae]]''
+** Family ''[[Clavaviridae]]''
+** Family ''[[Corticoviridae]]''
+** Family ''[[Fuselloviridae]]''
+** Family ''[[Globuloviridae]]''
+** Family ''[[Guttaviridae]]''
+** Family ''[[Hytrosaviridae]]''
+** Family ''[[Iridoviridae]]''
+** Family ''[[Marseilleviridae]]''
+** Family ''[[Mimiviridae]]''
+** Family ''[[Nudiviridae]]''
+** Family ''[[Whispovirus|Nimaviridae]]''
+** Family ''[[Pandoraviridae]]''
+** Family ''[[Papillomaviridae]]''
+** Family ''[[Phycodnaviridae]]''
+** Family ''[[Plasmaviridae]]''
+** Family ''[[Polydnaviruses]]''
+** Family ''[[Polyomaviridae]]'' – includes [[SV40|Simian virus 40]], [[JC virus]], [[BK virus]]
+** Family ''[[Poxviridae]]'' – includes [[Cowpox]] virus, [[smallpox]]
+** Family ''[[Sphaerolipoviridae]]''
+** Family ''[[Tectiviridae]]''
+** Family ''[[Turriviridae]]''
+
+* Unassigned genera
+** ''[[Dinodnavirus]]''
+** ''[[Salterprovirus]]''
+** ''[[Rhizidiovirus]]''
+
+* Unassigned species
+** ''[[Abalone shriveling syndrome-associated virus]]''
+** ''[[Bandicoot papillomatosis carcinomatosis virus]]''
+** ''[[KIs-V]]''
+** ''[[Haloarcula hispanica pleomorphic virus 1]]''
+** ''[[Mavirus virophage]]''
+** ''[[Megavirus]]''
+** ''[[Organic Lake virophage]]''
+** ''[[Pithovirus]]''
+** ''[[Sputnik virophage]]''
+** ''[[Sputnik virophage 2]]''
+
+===Pleolipoviruses===
+
+A group known as the pleolipoviruses, although having a similar genome organisation, differ in having either single or double stranded DNA genomes.<ref name=Pietila2012/> Within the double stranded forms have runs of single stranded DNA.<ref>{{cite journal | author = Sencilo A, Paulin L, Kellner S, Helm M, Roine E | year = 2012 | title = Related haloarchaeal pleomorphic viruses contain different genome types | journal = Nucleic Acids Res | volume = 40 | issue = 12| pages = 5523–34 | doi = 10.1093/nar/gks215 |pmid=22396526 |pmc=3384331 |url= http://nar.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=22396526}}</ref> This group does not fit into the current classification system and a new taxon is required.
+
+These viruses are nonlytic and form virions characterized by a lipid vesicle enclosing the genome.<ref name="Pietilä2012">{{cite journal | author = Pietilä MK, Atanasova NS, Manole V, Liljeroos L, Butcher SJ, Oksanen HM, Bamford DH | year = 2012 | title = Virion architecture unifies globally distributed pleolipoviruses infecting halophilic archaea | journal = J Virol | volume = 86 | issue = 9| pages = 5067–79 | doi = 10.1128/JVI.06915-11 | pmid=22357279 | pmc=3347350}}</ref> They do not have nucleoproteins. The lipids in the viral membrane are unselectively acquired from host cell membranes. The virions contain two to three major structural proteins, which either are embedded in the membrane or form spikes distributed randomly on the external membrane surface.
+
+This group includes the following viruses:
+
+*[[Haloarcula hispanica pleomorphic virus 1]]
+*[[Halogeometricum pleomorphic virus 1]]
+*[[Halorubrum pleomorphic virus 1]]
+*[[Halorubrum pleomorphic virus 2]]
+*[[Halorubrum pleomorphic virus 3]]
+*[[Halorubrum pleomorphic virus 6]]
+
+==Group II: ssDNA viruses==
+
+Although [[bacteriophage]]s were first described in 1927, it was only in 1959 that Sinshemer working with phage [[Phi X 174]] showed that they could possess single-stranded DNA genomes.<ref name=Sinshemer1959a/><ref name=Sinshemer1959b/> Despite this discovery until relatively recently it was believed that the majority of DNA viruses belonged to the double-stranded clade. Recent work suggests that this may not be the case with single-stranded viruses forming the majority of viruses found in sea water, fresh water, [[sediment]], terrestrial, extreme, [[metazoa]]n-associated and marine [[microbial mat]]s.<ref name=Desnues2008/><ref name=Angly/> Many of these "environmental" viruses belong to the family [[Microviridae]].<ref>{{cite journal|title=Evolution and diversity of the Microviridae viral family through a collection of 81 new complete genomes assembled from virome reads|journal=PLoS ONE|year=2012|volume=7|issue=7|pages=e40418|doi=10.1371/journal.pone.0040418|pmid=22808158|author=Roux S, Krupovic M, Poulet A, Debroas D, Enault F|pmc=3394797}}</ref> However, the vast majority has yet to be classified and assigned to genera and higher taxa. Because most of these viruses do not appear to be related or are only distantly related to known viruses additional taxa will be created for these.
+
+===Taxonomy===
+
+Families in this group have been assigned on the basis of the nature of the genome (circular or linear) and the host range. Eleven families are currently recognised.
+
+* Family ''[[Anelloviridae]]''
+* Family ''[[Bacillariodnaviridae]]''
+* Family ''[[Bidnaviridae]]''
+* Family ''[[Circoviridae]]''
+* Family ''[[Geminiviridae]]''
+* Family ''[[Inoviridae]]''
+* Family ''[[Microviridae]]''
+* Family ''[[Mycodnaviridae]]''
+* Family ''[[Nanoviridae]]''
+* Family ''[[Parvoviridae]]''
+* Family ''[[Spiraviridae]]''
+
+===Classification===
+
+A division of the circular single stranded viruses into four types has been proposed.<ref name=Rosario2009/> This division seems likely reflects their phylogenetic relationships.
+
+Type I genomes are characterized by a small circular DNA genome (approximately 2-kb), with the Rep protein and the major open reading frame (ORF) in opposite orientations. This type is characteristic of the circoviruses, geminiviruses and nanoviruses.
+
+Type II genomes have the unique feature of two separate Rep ORFs.
+
+Type III genomes contain two major ORFs in the same orientation. This arrangement is typical of the anelloviruses.
+
+Type IV genomes have the largest genomes of nearly 4-kb, with up to eight ORFs. This type of genome is found in the Inoviridae and the Microviridae.
+
+Given the variety of single stranded viruses that have been described this scheme – if it is accepted by the ICTV – will need to be extended.
+
+===Host range===
+
+The families ''Bidnaviridae'' and ''Parvoviridae'' have linear genomes while the other families have circular genomes. The ''Bidnaviridae'' have a two part genome and infect invertebrates. The ''Inoviridae'' and ''Microviridae'' infect [[bacteria]]; the ''Anelloviridae'' and ''Circoviridae'' infect [[animal]]s ([[mammal]]s and [[bird]]s respectively); and the ''Geminiviridae'' and ''Nanoviridae'' infect [[plant]]s. In both the ''Geminiviridae'' and ''Nanoviridae'' the genome is composed of more than a single chromosome. The ''Bacillariodnaviridae'' infect [[diatom]]s and have a unique genome: the major chromosome is circular (~6 kilobases in length): the minor chromosome is linear (~1 kilobase in length) and complementary to part of the major chromosome. Members of the ''Spiraviridae'' infect archaea. Members of the ''Mycodnaviridae'' infect fungi.
+
+===Molecular biology===
+
+All viruses in this group require formation of a replicative form – a double stranded DNA intermediate – for genome replication. This is normally created from the viral DNA with the assistance of the host's own [[DNA polymerase]].
+
+===Recently classified viruses===
+
+In the 9th edition of the viral taxonomy of the ICTV (published 2011) the Bombyx mori densovirus type 2 was placed in a new family – the ''[[Bidnaviridae]]'' on the basis of its genome structure and replication mechanism. This is currently the only member of this family but it seems likely that other species will be allocated to this family in the near future.
+
+A new genus – [[Bufavirus]] – was proposed on the basis of the isolation of two new viruses from human stool.<ref name=Phan2012/> These viruses have since been renamed Primate protoparvovirus and been placed in the genus [[Protoparvovirus]].<ref name=ICTV>{{cite web|title=ICTV Official Taxonomy: Updates since the 8th Report|url=http://talk.ictvonline.org/files/ictv_official_taxonomy_updates_since_the_8th_report/m/vertebrate-official/4844.aspx|website=ICTV Official Taxonomy|publisher=ICTV Official Taxonomy|accessdate=11 June 2014}}</ref><ref>Cotmore SF, Agbandje-McKenna M, Chiorini JA, Mukha DV, Pintel DJ, Qiu J, Soderlund-Venermo M, Tattersall P, Tijssen P, Gatherer D, Davison AJ. 2014. The family Parvoviridae. Arch. Virol. 159: 1239—47.</ref>
+
+===Unassigned species===
+
+A number of additional single stranded DNA viruses have been described but are as yet unclassified.
+
+;Animal viruses - vertebrates
+
+Among these are the parvovirus like viruses. These have linear single stranded DNA genomes but unlike the parvoviruses the genome is bipartate. This group includes the [[Bombyx mori bidensovirus|Bombyx mori densovirus type 2]], [[Hepatopancreatic parvo-like virus]] and [[Lymphoidal parvo-like virus]]. A new family ''[[Bidensoviridae]]'' has been proposed for this group but this proposal has not been ratified by the [[International Committee on Taxonomy of Viruses|ICTV]] to date.<ref name=Tijssen1995/> Their closest relations appear to be the ''[[Brevidensoviruses]]'' (family ''Parvoviridae'').<ref name=Sukhumsirichart2006/>
+
+Another new genus – as yet unnamed – has been proposed.<ref name=Kim2011/> This genus includes the species [[bovine stool associated circular virus]] and [[chimpanzee stool associated circular virus]].<ref name=Blinkova2010/> The closest relations to this genus appear to be the ''Nanoviridae'' but further work will be needed to confirm this. Another isolate that appears to be related to these viruses has been isolated from pig faeces in New Zealand.<ref name=Sikorski2012/> This isolate also appears to be related to the pig stool-associated single-stranded DNA virus. This virus has two large open reading frames one encoding the capsid gene and the other the Rep gene. These are bidirectionally transcribed and separated by intergenic regions. The name Gemycircularvirus has been proposed for this group of viruses.<ref name=Rosario2012>{{cite journal | author = Rosario K, Dayaram A, Marinov M, Ware J, Kraberger S, Stainton D, Breitbart M, Varsani A | year = 2012 | title = Diverse circular ssDNA viruses discovered in dragonflies (Odonata: Epiprocta) | journal = J Gen Virol | volume = 93 | issue = 12| pages = 2668–2681 | doi = 10.1099/vir.0.045948-0  |url=http://vir.sgmjournals.org/cgi/pmidlookup?view=long&pmid=22915694 |pmid=22915694}}</ref> Another virus of this group has been reported again from pigs.<ref name=Kim2013>{{cite journal |author=Kim AR, Chung HC, Kim HK, Kim EO, Nguyen VG, Choi MG, Yang HJ, Kim JA, Park BK  |title=Characterization of a complete genome of a circular single-stranded DNA virus from porcine stools in Korea |journal=Virus Genes |volume=48 |issue=1 |pages=81–8 |date=February 2014 |doi=10.1007/s11262-013-1003-2 |pmid=24170425}}</ref> Some of this group of viruses may infect fungi.<ref name=Sikorski2013>{{cite journal |author=Sikorski A, Massaro M, Kraberger S |title=Novel myco-like DNA viruses discovered in the faecal matter of various animals |journal=Virus Res. |volume=177 |issue=2 |pages=209–16 |date=November 2013 |pmid=23994297 |doi=10.1016/j.virusres.2013.08.008 |url=http://linkinghub.elsevier.com/retrieve/pii/S0168-1702(13)00287-6|display-authors=etal}}</ref> An virus from this group has been isoalted from turkey faeces.<ref name=Reuter2014>{{cite journal |author=Reuter G, Boros A, Delwart E, Pankovics P |title=Novel circular single-stranded DNA virus from turkey faeces |journal=Arch Virol |year=2014  |doi=10.1007/s00705-014-2025-3 |pmid=24562429 |volume=159 |issue=8 |pages=2161–4}}</ref> Another ten viruses from this group have been isolated from pig faeces.<ref name=Cheung2014>Cheung AK, Ng TF, Lager KM, Alt DP, Delwart E, Pogranichniy RM (2014) Identification of several clades of novel single-stranded circular DNA viruses with conserved stem-loop structures in pig feces. Arch Virol</ref> Additional viruses from this group have been reported from dragonflies and damselflies.<ref name=Dayaram2015>Dayaram A, Potter KA, Pailes R, Marinov M, Rosenstein DD, Varsani A (2015) Identification of diverse circular single-stranded DNA viruses in adult dragonflies and damselflies (Insecta: Odonata) of Arizona and Oklahoma, USA. Infect Genet Evol pii: S1567-1348(15)00002-7. {{DOI|10.1016/j.meegid.2014.12.037}}</ref>
+
+[[Fur seal feces-associated circular DNA virus]] was isolate from the faeces of a fur seal (''[[Arctocephalus forsteri]]'') in [[New Zealand]].<ref name=Sikorski2013>{{cite journal |author=Sikorski A, Dayaram A, Varsani A |title=Identification of a Novel Circular DNA Virus in New Zealand Fur Seal (''Arctocephalus forsteri'') Fecal Matter |journal=Genome Announc |volume=1 |issue=4 |pages= e00558-13|year=2013 |pmid=23929471 |pmc=3738887 |doi=10.1128/genomeA.00558-13 |url=http://genomea.asm.org/cgi/pmidlookup?view=long&pmid=23929471}}</ref> The genome has 2 main open reading frames and is 2925 nucleotides in length. Another virus  porcine stool associated virus 4<ref name=Cheung2014>{{cite journal |author=Cheung AK, Ng TF, Lager KM, Alt DP, Delwart EL, Pogranichniy RM |title=Unique circovirus-like genome detected in pig feces |journal=Genome Announc |volume=2 |issue=2 |pages= e00251-14|year=2014 |pmid=24723710 |pmc=3983299 |doi=10.1128/genomeA.00251-14 |url=http://genomea.asm.org/cgi/pmidlookup?view=long&pmid=24723710}}</ref> has been isolated that appears to be related to the fur seal virus.
+
+Two viruses have been isolated from human faeces — circo-like virus-Brazil hs1 and hs2 — with genome lengths of 2526 and 2533 nucleotides respectively.<ref name=Castrignano2013>{{cite journal |author=Castrignano SB, Nagasse-Sugahara TK, Kisielius JJ, Ueda-Ito M, Brandão PE, Curti SP |title=Two novel circo-like viruses detected in human feces: complete genome sequencing and electron microscopy analysis |journal=Virus Res. |volume=178 |issue=2 |pages=364–73 |date=December 2013 |pmid=24055464 |doi=10.1016/j.virusres.2013.09.018 |url=http://linkinghub.elsevier.com/retrieve/pii/S0168-1702(13)00310-9}}</ref> These viruses have four open reading frames. These viruses appear to be related to three viruses previously isolated from waste water, a bat and from a rodent.
+
+Another virus - Porcine stool-associated circular virus 5 - has been reported.<ref name=Cheung2014>Cheung AK, Ng TF, Lager KM, Alt DP, Delwart EL, Pogranichniy RM (2014) Identification of a novel single-stranded circular DNA virus in pig feces. Genome Announc 2(2). pii: e00347-14. {{DOI|10.1128/genomeA.00347-14}}</ref> This appears to belong to a novel group. 
+ 
+Two viruses have been described from the nesting material yellow crowned parakeet (''[[Cyanoramphus auriceps]]'') – CynNCXV (2308 nt) and CynNCKV (2087 nt)<ref name=Sikorski2013/> Both viruses have two bidirectional open reading frames. Within these are the rolling-circle replication motifs I, II, III and the helicase motifs Walker A and Walker B. There is also a conserved nonanucleotide motif required for rolling-circle replication. CynNCKV has some similarity to the picobiliphyte nano-like virus (Picobiliphyte M5584-5)<ref name=Yoon2011>{{cite journal | author = Yoon HS, Price DC, Stepanauskas R, Rajah VD, Sieracki ME, Wilson WH, Yang EC, Duffy S, Bhattacharya D | year = 2011 | title = Single-cell genomics reveals organismal interactions in uncultivated marine protists | journal = Science | volume = 332 | issue = 6030| pages = 714–7 | doi = 10.1126/science.1203163  |url= http://www.sciencemag.org/cgi/pmidlookup?view=long&pmid=21551060 |pmid=21551060|display-authors=etal}}</ref> and CynNCXV has some similarity to the rodent stool associated virus (RodSCV M-45).<ref name=Phan2011>{{cite journal | author = Phan TG, Kapusinszky B, Wang C, Rose RK, Lipton HL, Delwart EL | year = 2011 | title = The fecal viral flora of wild rodents | journal = PLoS Pathog | volume = 7 | issue = 9| page = e1002218 | doi = 10.1371/journal.ppat.1002218  |url=http://dx.plos.org/10.1371/journal.ppat.1002218 |pmid=21909269 |pmc=3164639}}</ref>
+
+Psittacine beak and feather disease virus is a single stranded circular molecule of 1993 nucleotide bases encoding seven open reading frames — three in the virion strand and four in the complementary strand.<ref name=Bassami1998>{{cite journal | author = Bassami MR, Berryman D, Wilcox GE, Raidal SR | year = 1998 | title = Psittacine beak and feather disease virus nucleotide sequence analysis and its relationship to porcine circovirus, plant circoviruses, and chicken anaemia virus | journal = Virology | volume = 249 | issue = 2| pages = 453–9  |pmid=9791035 |url= http://linkinghub.elsevier.com/retrieve/pii/S0042-6822(98)99324-2 | doi=10.1006/viro.1998.9324}}</ref> The open reading frames have some homology to [[porcine circovirus]], [[subterranean clover stunt virus]] and [[faba bean necrotic yellows virus]].
+
+A virus with a circular genome – [[sea turtle tornovirus 1]] – has been isolated from a sea turtle with [[fibropapillomatosis]].<ref name=Ng2009/> It is sufficiently unrelated to any other known virus that it may belong to a new family. The closest relations seem to be the ''Gyrovirinae''. The proposed genus name for this virus is [[Tornovirus]].
+
+;Animal viruses - invertebrates
+
+A virus — [[Acheta domesticus volvovirus]] has been isolated from the house cricket (''[[Acheta domesticus]]'').<ref name=Pham2013>{{cite journal |author=Pham HT, Bergoin M, Tijssen P |title=''Acheta domesticus volvovirus'', a novel single-stranded circular DNA virus of the house cricket |journal=Genome Announc |volume=1 |issue=2 |pages=e0007913 |year=2013 |doi=10.1128/genomeA.00079-13 }}</ref> The genome is circular, has four open reading frames and is 2,517 nucleotides in length. It appears to be unrelated to previously described species. The genus name Volvovirus has been proposed for these species.<ref name=Pham2013>{{cite journal |author=Pham HT, Iwao H, Bergoin M, Tijssen P |title=New Volvovirus Isolates from ''Acheta domesticus'' (Japan) and ''Gryllus assimilis'' (United States) |journal=Genome Announc |volume=1 |issue=3 |year=2013 |pmid=23792751 |pmc=3675518 |doi=10.1128/genomeA.00328-13 |url=http://genomea.asm.org/cgi/pmidlookup?view=long&pmid=23792751 |pages=e00328-13}}</ref> The genomes in this genus are ~2.5 nucleotides in length and encode 4 open reading frames.
+
+Two new viruses have been isolated from the copepods ''[[Acartia tonsa]]'' and ''[[Labidocera aestiva]]'' — [[Acartia tonsa copepod circo-like virus]] and [[Labidocera aestiva copepod circo-like virus]] respectively.
+
+A virus has been isolated from the mud flat snail (''[[Amphibola crenata]]'').<ref name=Dayaram2013/> This virus has a single stranded circular genome of 2351 nucleotides that encoded 2 open reading frames that are oriented in opposite directions. The smaller open reading frame (874 nucleotides) encodes a protein with similarities to the ''Rep'' (replication) proteins of circoviruses and [[plasmid]]s. The larger open reading frame (955 nucleotides) has no homology to any currently known protein.
+
+An unusual – and as yet unnamed – virus has been isolated from the flatwom ''[[Girardia tigrina]]''.<ref name=Rebrikov2002/> Because of its genome organisation, this virus appears to belong to an entirely new family. It is the first virus to be isolated from a [[flatworm]].
+
+From the [[hepatopancreas]] of the shrimp (''[[Farfantepenaeus duorarum]]'') a circular single stranded DNA virus has been isolated.<ref name=Ng2013>{{cite journal |author=Ng TF, Alavandi S, Varsani A, Burghart S, Breitbart M |title=Metagenomic identification of a nodavirus and a circular ssDNA virus in semi-purified viral nucleic acids from the hepatopancreas of healthy ''Farfantepenaeus duorarum'' shrimp |journal=Dis Aquat Organ |volume=105 |issue=3 |pages=237–42 |year=2013 |doi=10.3354/dao02628 |pmid=23999707}}</ref> This virus does not appear to cause disease in the shrimp.
+
+A circo-like virus has been isolated from the shrimp (''[[Penaeus monodon]]'').<ref name=Pham2014>{{cite journal |author=Pham HT, Yu Q, Boisvert M, Van HT, Bergoin M, Tijssen P |title=A circo-like virus isolated from ''Penaeus monodon'' shrimps |journal=Genome Announc |volume=2 |issue=1 |pages=e01172-13 |year=2014 |doi=10.1128/genomeA.01172-13  |url=http://genomea.asm.org/cgi/pmidlookup?view=long&pmid=24435870 |pmid=24435870 |pmc=3894284}}</ref> The 1,777-nucleotide genome is circular and single stranded. It has some similarity to the circoviruses and cycloviruses.
+
+Ten new circular viruses have been isolated from dragonfly larvae.<ref name=Dayaram2014>{{cite journal |author=Dayaram A, Galatowitsch M, Harding JS, Argüello-Astorga GR, Varsani A |title=Novel circular DNA viruses identified in ''Procorduliagrayi'' and ''Xanthocnemiszealandica'' larvae using metagenomic approaches |journal=Infect Genet Evol |volume=22 |pages=134–41 |date=March 2014 |doi=10.1016/j.meegid.2014.01.013 |url=http://linkinghub.elsevier.com/retrieve/pii/S1567-1348(14)00016-1 |pmid=24462907 }}</ref> The genomes range from 1628 to 2668 nucleotides in length.
+
+;Fungal
+
+Most known fungal viruses have either double stranded DNA or RNA genomes. A single stranded DNA fungal virus – [[Sclerotinia sclerotiorum hypovirulence associated DNA virus 1]] – has been described.<ref name=Yu2010/> This virus appears to be related to the ''Geminiviridae'' but is distinct from them. A genus – [[Breviviridae]] – has been proposed for Sclerotinia sclerotiorum hypovirulence associated DNA virus 1 and a European badger fecal virus.<ref name=vandenBrand2012/>
+
+The genus [[Gemycircularvirus]] in the family [[Mycodnaviridae]] has been created for these viruses. 
+
+;Plants
+
+A virus – [[Cassava associated circular DNA virus]] – that has some similarity to Sclerotinia sclerotiorum hypovirulence associated DNA virus 1 has been isolated.<ref name=Dayaram2012/>
+
+A circular single stranded DNA virus has been isolated from a grapevine.<ref name=Krenz2012/> This species may be related to the family Geminiviridae but differs from this family in a number of important respects including genome size.
+
+[[Grapevine red blotch associated virus]] and [[Grapevine cabernet franc associated virus]] are two single stranded DNA viruses associated with infections of grape vines.<ref name=AlRwahnih2013>{{cite journal |author=Al Rwahnih M, Dave A, Anderson MM, Rowhani A, Uyemoto JK, Sudarshana M |title=Association of a DNA virus with grapevines affected by red blotch disease in California |journal=Phytopathology Phytopathology |volume=103 |issue=10 |pages=1069–76 |date=October 2013 |doi=10.1094/PHYTO-10-12-0253-R |url= http://apsjournals.apsnet.org/doi/abs/10.1094/PHYTO-10-12-0253-R |pmid=23656312}}</ref>
+
+A virus — [[Euphorbia caput medusae latent virus]] — is so divergent from the other members of the geminiviruses that a new genus has been proposed for it.<ref name=Bernardo2013>{{cite journal |author=Bernardo P, Golden M, Akram M |title=Identification and characterisation of a highly divergent geminivirus: evolutionary and taxonomic implications |journal=Virus Res. |volume=177 |issue=1 |pages=35–45 |date=October 2013 |pmid=23886668 |doi=10.1016/j.virusres.2013.07.006 |url=http://linkinghub.elsevier.com/retrieve/pii/S0168-1702(13)00228-1|display-authors=etal}}</ref> The name of this new genus is proposed to be Capulavirus.
+
+Several viruses — baminivirus, nepavirus and niminivirus — related to geminvirus have also been reported.<ref name=Sikorski2013/>
+
+;Archaea
+
+Although ~50 archaeal viruses are known, all but two have double stranded genomes. The first archaeal ssDNA virus to be isolated is the [[Halorubrum pleomorphic virus 1]], which has a pleomorphic enveloped virion and a circular genome.<ref name=Pietila2010/>
+
+The second single stranded DNA virus infecting Archaea is [[Aeropyrum coil-shaped virus]] (ACV).<ref>{{cite journal |title=Archaeal virus with exceptional virion architecture and the largest single-stranded DNA genome|journal=Proc Natl Acad Sci U S A|year=2012|volume=109|issue=33|pages=13386–91|doi=10.1073/pnas.1203668109|pmid=22826255|author=Mochizuki T, Krupovic M, Pehau-Arnaudet G, Sako Y, Forterre P, Prangishvili D|pmc=3421227}}</ref> The genome is circular and with 24,893 nucleotides is currently the largest known ssDNA genome. The viron is nonenveloped, hollow, cylindrical and formed from a coiling fiber. The morphology and the genome appear to be unique. 
+
+The new family [[Spiraviridae]] (from Latin spira, "a coil") has been created by the ICTV to accommodate ACV.
+
+;Marine and other
+
+Several hundred single stranded DNA viral genomes have been isolated from seawater.<ref name="Labonté2013">{{cite journal |author=Labonté JM, Suttle CA |title=Previously unknown and highly divergent ssDNA viruses populate the oceans |journal=ISME J |volume=7 |issue=11 |pages=2169–77 |date=November 2013 |doi=10.1038/ismej.2013.110 |pmid=23842650}}</ref> Their hosts have yet to be identified but are likely to be eukaryotic phytoplankton and zooplankton. They fall into at least 11 distinct groups that are unrelated to previously described viral families.
+
+A virus — Boiling Springs Lake virus — appears to have evolved by a recombination event between a DNA virus (circovirus) and an [[RNA virus]] (tombusvirus).<ref name=Diemer2012>{{cite journal | author = Diemer GS, Stedman KM | year = 2012 | title = A novel virus genome discovered in an extreme environment suggests recombination between unrelated groups of RNA and DNA viruses | journal = Biology Direct | volume = 7 | page = 13 | doi = 10.1186/1745-6150-7-13  |url= http://www.biology-direct.com/content/7//13 |pmid=22515485 |pmc=3372434 | issue=1}}</ref> The genome is circular and encodes two proteins — a Rep protein and a capsid protein.
+
+Further reports of viruses that appear to have evolved from recombination events between ssRNA and ssDNA viruses have been made.<ref name=Roux2013>{{cite journal | author = Roux S, Enault F, Bronner G, Vaulot D, Forterre P, Krupovic M | year = 2013 | title = Chimeric viruses blur the borders between the major groups of eukaryotic single-stranded DNA viruses | journal = Nat Commun | volume = 4 | page = 2700 | doi = 10.1038/ncomms3700  |pmid=24193254}}</ref>
+
+A new virus has been isolated from the diatom ''[[Chaetoceros setoensis]]''.<ref name=Tomaru2013>{{cite journal |author=Tomaru Y, Toyoda K, Suzuki H, Nagumo T, Kimura K, Takao Y |title=New single-stranded DNA virus with a unique genomic structure that infects marine diatom ''Chaetoceros setoensis'' |journal=Sci Rep |volume=3 |pages=3337 |year=2013 |doi=10.1038/srep03337 |pmid=24275766 |pmc=3840382}}</ref> It has a single stranded DNA genome and does not appear to be a member of any previously described group.
+
+==Satellite viruses==
+
+[[Satellite virus]]es are small viruses with either RNA or DNA as their genomic material that require another virus to replicate. There are two types of DNA satellite viruses – the [[alphasatellite]]s and the [[betasatellite]]s – both of which are dependent on [[begomovirus]]es. At present satellite viruses are not classified into genera or higher taxa.
+
+Alphasatellites are small circular single strand DNA viruses that require a begomovirus for transmission. Betasatellites are small linear single stranded DNA viruses that require a begomovirus to replicate.
+
+==Phylogenetic relationships==
+
+===Introduction===
+
+Phylogenetic relationships between these families are difficult to determine. The genomes differ significantly in size and organisation. Most studies that have attempted to determine these relationships are based either on some of the more conserved proteins – DNA polymerase and others – or on common structural features. In general most of the proposed relationships are tentative and have not yet been used by the ICTV in their classification.
+
+===ds DNA viruses===
+
+;Herpesviruses and caudoviruses
+
+While determining the phylogenetic relations between the various known clades of viruses is difficult, on a number of grounds the herpesviruses and caudoviruses appear to be related.
+
+While the three families in the order Herpesvirales are clearly related on morphological grounds, it has proven difficult to determine the dates of divergence between them because of the lack of gene conservation.<ref name=McGeoch2006/> On morphological grounds they appear to be related to the bacteriophages – specifically the Caudoviruses.
+
+The branching order among the herpesviruses suggests that ''Alloherpesviridae'' is the basal clade and that ''Herpesviridae'' and ''Malacoherpesviridae'' are sister clades.<ref name="Davison2010">{{cite journal |author=Davison AJ |title=Herpesvirus systematics |journal=Vet Microbiol |volume=143 |issue=1-2 |pages=52–69 |year=2010 |doi=10.1016/j.vetmic.2010.02.014 |url=http://linkinghub.elsevier.com/retrieve/pii/S0378-1135(10)00090-8  |pmid=20346601 |pmc=2995426 }}</ref> Given the phylogenetic distances between vertebrates and molluscs this suggests that herpesviruses were initially fish viruses and that they have evolved with their hosts to infect other vertebrates.
+
+The vertebrate herpesviruses initially evolved ~{{Ma|400}} and underwent subsequent evolution on the supercontinent [[Pangaea]].<ref name=Grose2012/> The alphaherpesvirinae separated from the branch leading to the betaherpesvirinae and gammaherpesvirinae about {{Ma|180}} to {{Ma|220}}.<ref name=McGeoch1995/> The avian herpes viruses diverged from the branch leading to the mammalian species.<ref name=McGeoch1994/> The mammalian species divided into two branches – the  Simplexvirus and Varicellovirus genera. This latter divergence appears to have occur around the time of the mammalian radiation.
+
+Several dsDNA bacteriophages and the herpesviruses encode a powerful ATP driven DNA translocating machine that encapsidates a viral genome into a preformed capsid shell or prohead. The critical components of the packaging machine are the packaging enzyme (terminase) which acts as the motor and the portal protein that forms the unique DNA entrance vertex of prohead. The terminase complex consists of a recognition subunit (small terminase) and an endonuclease/translocase subunit (large terminase) and cuts viral genome concatemers. It forms a motor complex containing five large terminase subunits. The terminase-viral DNA complex docks on the portal vertex. The pentameric motor processively translocates DNA until the head shell is full with one viral genome. The motor cuts the DNA again and dissociates from the full head, allowing head-finishing proteins to assemble on the portal, sealing the portal, and constructing a platform for tail attachment. Only a single gene encoding the putative ATPase subunit of the [[terminase]] (''UL15'') is conserved among all herpesviruses. To a lesser extent this gene is also found also in [[T4-like]] [[bacteriophages]] suggesting a common ancestor for these two groups of viruses.<ref name=Davison2002/>
+
+A common origin for the herpesviruses and the caudoviruses has been suggested on the basis of parallels in their capsid assembly pathways and similarities between their portal complexes, through which DNA enters the capsid.<ref name=Baker2005/> These two groups of viruses share a distinctive 12-fold arrangement of subunits in the portal complex.
+
+;Large DNA viruses
+
+The family ''Ascoviridae'' appear to have evolved from the ''Iridoviridae''.<ref name=Federici2009/> The family ''Polydnaviridae'' may have evolved from the ''Ascoviridae''. Molecular evidence suggests that the ''Phycodnaviridae''  may have evolved from the family ''Iridoviridae''.<ref name=Wilson2009/> These four families (''Ascoviridae'', ''Iridoviridae'', ''Phycodnaviridae'' and ''Polydnaviridae'') may form a clade but more work is needed to confirm this.
+
+Based on the genome organisation and DNA replication mechanism it seems that phylogenetic relationships may exist between the rudiviruses (''Rudiviridae'') and the large eukaryal DNA viruses: the African swine fever virus (''Asfarviridae''), Chlorella viruses (''Phycodnaviridae'') and poxviruses (''Poxviridae'').<ref name=Prangishvili2004/>
+
+Based on the analysis of the DNA polymerase the genus ''Dinodnavirus'' may be a member of the family ''Asfarviridae''.<ref name=Ogata2009/> Further work on this virus will required before a final assignment can be made.
+
+The nucleocytoplasmic large DNA virus group (''Asfarviridae'', ''Iridoviridae'', ''Marseilleviridae'', ''Mimiviridae'', ''Phycodnaviridae'' and ''Poxviridae'') along with three other families – ''Adenoviridae'', ''Cortiviridae'' and ''Tectiviridae'' – and the phage Sulfolobus turreted icosahedral virus and the satellite virus Sputnik all possess double β-barrel major capsid proteins suggesting a common origin.<ref>{{cite journal|author=Krupovic M, Bamford DH|title=Virus evolution: how far does the double beta-barrel viral lineage extend?|journal=Nature Reviews Microbiology|year=2008|volume=6|issue=12|pages=941–8|doi=10.1038/nrmicro2033|pmid=19008892}}</ref>
+
+Some of the relations among the large viruses have been established.<ref name=Yutin2014>Yutin N, Wolf YI, Koonin EV (2014) Origin of giant viruses from smaller DNA viruses not from a fourth domain of cellular life. Virology pii: S0042-6822(14)00300-6. {{DOI|10.1016/j.virol.2014.06.032}}</ref> Mimiviruses are distantly related to Phycodnaviridae. Pandoraviruses share a common ancestor with Coccolithoviruses within the Phycodnaviridae family.<ref name=Yutin2013>Yutin N, Koonin EV (2013) Pandoraviruses are highly derived phycodnaviruses. Biol Direct 8:25. {{DOI|10.1186/1745-6150-8-25}}</ref> Pithoviruses are related to Iridoviridae and Marseilleviridae.
+
+;Other viruses
+
+Based on the analysis of the coat protein, ''Sulfolobus turreted icosahedral virus'' may share a common ancestry with the ''Tectiviridae''.
+
+The families ''Adenoviridae'' and ''Tectiviridae'' appear to be related structurally.<ref name=Benson1999/>
+
+Baculoviruses evolved from the nudiviruses {{ma|310}}.<ref name=Theze2011/>
+
+The ''Hytrosaviridae'' are related to the baculoviruses and to a lesser extent the nudiviruses suggesting they may have evolved from the baculoviruses.<ref name=Jehle2012/>
+
+The ''Nimaviridae'' may be related to nudiviruses and baculoviruses.<ref name=Wang2011/>
+
+The Nudiviruses seem to be related to the polydnaviruses.<ref name=Bezier2009/>
+
+A protein common to the families ''Bicaudaviridae'', ''Lipotrixviridae'' and ''Rudiviridae'' and the unclassified virus Sulfolobus turreted icosahedral virus is known suggesting a common origin.<ref name=Keller2007/>
+
+Examination of the ''pol'' genes that encode the DNA dependent [[DNA polymerase]] in various groups of viruses suggests a number of possible evolutionary relationships.<ref name=Knopf1998/> All know viral DNA polymerases belong to the DNA ''pol'' families A and B. All possess a 3'-5'-[[exonuclease]] domain with three sequence motifs Exo I, Exo II and Exo III. The families A and B are distinguishable with family A Pol sharing 9 distinct consensus sequences and only two of them are convincingly homologous to sequence motif B of family B. The putative sequence motifs A, B, and C of the polymerase domain are located near the C-terminus in family A Pol and more central in family B Pol.
+
+Phylogenetic analysis of these genes places the adenoviruses (''Adenoviridae''), bacteriophages (''Caudovirales'') and the plant and fungal linear plasmids into a single clade. A second clade includes the  alpha- and delta-like viral Pol from insect ascovirus (''Ascoviridae''), mammalian herpesviruses (''Herpesviridae''), fish lymphocystis disease virus (''Iridoviridae'') and chlorella virus (''Phycoviridae''). The ''pol'' genes of the African swine fever virus (''Asfarviridae''), baculoviruses (''Baculoviridae''), fish herpesvirus (''Herpesviridae''), T-even bacteriophages (''Myoviridae'') and poxviruses (''Poxviridae'') were not clearly resolved. A second study showed that poxvirus, baculovirus and the animal herpesviruses form separate and distinct clades.<ref name=Villarreal2000/> Their relationship to the ''Asfarviridae'' and the ''Myoviridae'' was not examined and remains unclear.
+
+The polymerases from the archaea are similar to family B DNA Pols. The T4-like viruses infect both bacteria and archaea<ref name=Zillig1996/> and their ''pol'' gene resembles that of [[eukaryote]]s. The DNA polymerase of [[mitochondria]] resembles that of the T odd phages (''Myoviridae'').<ref name=Shutt2005/>
+
+The virophage — [[Mavirus]] — may have evolved from a recombination between a [[transposon]] of the Polinton (Maverick) family and an unknown virus.<ref name=Yutin2013>{{cite journal | author = Yutin N, Raoult D, Koonin EV | year = 2013 | title = Virophages, polintons, and transpovirons: a complex evolutionary network of diverse selfish genetic elements with different reproduction strategies | journal = Virol J | volume = 10 | issue = 1| page = 158 |doi=10.1186/1743-422X-10-158 |url=http://www.virologyj.com/content/10//158 |pmid=23701946 |pmc=3671162}}</ref>
+
+===ss DNA viruses===
+
+The evolutionary history of this group is currently poorly understood. An ancient origin for the single stranded circular DNA viruses has been proposed.<ref name=Delwart2012/>
+
+Capsid proteins of most icosahedral ssRNA and ssDNA viruses display the same structural fold, the eight-stranded beta-barrel, also known as the jelly-roll fold. On the other hand, the replication proteins of icosahedral ssDNA viruses belong to the superfamily of rolling-circle replication initiation proteins that are commonly found in prokaryotic plasmids.<ref>{{cite journal|title=Conserved sequence motifs in the initiator proteins for rolling circle DNA replication encoded by diverse replicons from eubacteria, eucaryotes and archaebacteria|journal=Nucleic Acids Res|year=1992|volume=20|issue=13|pages=3279–85|pmid=1630899|author=Ilyina TV, Koonin EV|doi=10.1093/nar/20.13.3279|pmc=312478}}</ref>  Based on these observations, it has been proposed that small DNA viruses have originated via recombination between RNA viruses and plasmids.<ref>{{cite journal|title=Recombination between RNA viruses and plasmids might have played a central role in the origin and evolution of small DNA viruses|journal=BioEssays|year=2012|volume=34|issue=10|pages=867–870|doi=10.1002/bies.201200083|pmid=22886750|author=Krupovic M}}</ref><ref>{{cite journal|title=Networks of evolutionary interactions underlying the polyphyletic origin of ssDNA viruses|journal=Curr Opin Virol|year=2013|volume=3|issue=5|pages=578–586|doi=10.1016/j.coviro.2013.06.010|pmid=23850154|author=Krupovic M}}</ref>
+
+Circoviruses may have evolved from a nanovirus.<ref name=Gibbs1999/><ref name=Meehan1997/><ref name=Niagro1998/>
+
+Given the similarities between the ''rep'' proteins of the alphasatellites and the nanoviruses, it is likely that the alphasatellites evolved from the nanoviruses.<ref name=Xie2010/> Further work in this area is needed to clarify this.
+
+The geminiviruses may have evolved from phytoplasmal plasmids.<ref>{{cite journal|author=Krupovic M, Ravantti JJ, Bamford DH|title=Geminiviruses: a tale of a plasmid becoming a virus|journal=BMC Evol Biol|year=2009|volume=9|pages=112|doi=10.1186/1471-2148-9-112|pmid=19460138|url=http://www.biomedcentral.com/content/pdf/1471-2148-9-112.pdf|pmc=2702318 |format=PDF|issue=1}}</ref>
+
+Based on the three-dimensional structure of the Rep proteins the geminiviruses and parvoviruses may be related.<ref name=Gronenborn2004/>
+
+The ancestor of the geminiviruses probably infected dicots.<ref name=Bernardo2013/>
+
+The [[parvovirus]]es have frequently invaded the germ lines of diverse animal species including [[mammal]]s, [[fish]]es, [[bird]]s, [[tunicate]]s, [[arthropod]]s and [[flatworm]]s.<ref name=Belyi2010/><ref name=Liu2011/> In particular they have been associated with the human genome for ~98 million years.
+
+Members of the family [[Bidnaviridae]] have evolved from insect parvoviruses by replacing the typical replication-initiation endonuclease with a protein-primed family B DNA polymerase acquired from large DNA transposons of the Polinton/Maverick family. Some bidnavirus genes were also horizontally acquired from reoviruses (dsRNA genomes) and baculoviruses (dsDNA genomes).<ref>{{cite journal|author1=Krupovic M, Koonin EV|title=Evolution of eukaryotic single-stranded DNA viruses of the Bidnaviridae family from genes of four other groups of widely different viruses|journal=Scientific Reports|date=2014|volume=4|page=5347|doi=10.1038/srep05347|pmid=24939392|pmc=4061559}}</ref>
+
+==Bacteriophage evolution==
+
+Since 1959 ~6300 prokaryote viruses have been described morphologically, including ~6200 bacterial and ~100 archaeal viruses.<ref name=Ackermann2012/> Archaeal viruses belong to 15 families and infect members of 16 archaeal genera. These are nearly exclusively hyperthermophiles or extreme halophiles. Tailed archaeal viruses are found only in the [[Euryarchaeota]], whereas most filamentous and pleomorphic archaeal viruses occur in the [[Crenarchaeota]]. Bacterial viruses belong to 10 families and infect members of 179 bacterial genera: most these are members of the [[Firmicutes]] and γ-[[proteobacteria]].
+
+The vast majority (96.3%) are tailed with and only 230 (3.7%) are polyhedral, filamentous or pleomorphic. The family [[Siphoviridae]] is the largest family (>3600 descriptions: 57.3%). The tailed phages appear to be monophyletic and are the oldest known virus group.<ref name=Ackermann2003/> They arose repeatedly in different hosts and there are at least 11 separate lines of descent.
+
+All of the known temperate phages employ one of only three different systems for their lysogenic cycle: lambda-like integration/excision, Mu-like transposition or the plasmid-like partitioning of phage N15.
+
+A putative course of evolution of these phages has been proposed by Ackermann.<ref name=Ackermann1998/>
+
+Tailed phages originated in the early [[Precambrian]], long before [[eukaryote]]s and their viruses. The ancestral tailed phage had an icosahedral head of about 60 [[nanometer]]s in diameter and a long non contractile tail with sixfold symmetry. The [[capsid]] contained a single molecule of double stranded DNA of about 50 kilobases. The tail was probably provided with a fixation apparatus. The head and tail were held together by a connector. The viral particle contained no [[lipid]]s, was heavier than its descendant viruses and had a high DNA content proportional to its capsid size (~50%). Most of the genome coded for structural proteins. Morphopoietic genes clustered at one end of the genome, with head genes preceding tail genes. Lytic enzymes were probably coded for. Part of the phage genome was nonessential and possibly bacterial.
+
+The virus infected its host from the outside and injected its DNA. Replication involved transcription in several waves and formation of DNA [[concatemer]]s.
+
+New phages were released by burst of the infected cell after lysis of host membranes by a [[peptidoglycan hydrolase]]. Capsids were assembled from a starting point, the connector and around a scaffold. They underwent an elaborate maturation process involving protein cleavage and capsid expansion. Heads and tails were assembled separately and joined later. The DNA was cut to size and entered preformed capsids by a headful mechanism.
+
+Subsequently the phages evolved contractile or short tails and elongated heads. Some viruses become temperate by acquiring an [[integrase]]-[[excisionase]] complex, [[plasmid]] parts or [[transposon]]s.
+
+==NCLDVs==
+{{main|Nucleocytoplasmic large DNA viruses}}
+The asfarviruses, iridoviruses, mimiviruses, phycodnaviruses and poxviruses have been shown to belong to a single group,<ref name="Iyer2006"/> – the large nuclear and cytoplasmic DNA viruses. These are also abbreviated "NCLDV".<ref name="pmid20017929">{{cite journal |author=Yutin N, Wolf YI, Raoult D, Koonin EV |title=Eukaryotic large nucleo-cytoplasmic DNA viruses: clusters of orthologous genes and reconstruction of viral genome evolution |journal=Virol. J. |volume=6 |pages=223 |year=2009 |pmid=20017929 |pmc=2806869 |doi=10.1186/1743-422X-6-223 |issue=1}}</ref> This clade can be divided into two groups:
+
+* the iridoviruses-phycodnaviruses-mimiviruses group. The phycodnaviruses and mimiviruses are sister clades.
+* the poxvirus-asfarviruses group.
+
+It is probable that these viruses evolved before the separation of eukaryoyes into the extant crown groups. The ancestral genome was complex with at least 41 genes including (1) the replication machinery (2) up to four [[RNA polymerase]] subunits (3) at least three [[transcription factor]]s (4) capping and polyadenylation enzymes (5) the DNA packaging apparatus (6) and structural components of an icosahedral capsid and the viral membrane.
+
+The evolution of this group of viruses appears to be complex with genes having been gained from multiple sources.<ref name=Yutin2012/> It has been proposed that the ancestor of NCLDVs has evolved from large, virus-like DNA transposons of the Polinton/Maverick family.<ref>{{cite journal|author1=Krupovic M, Koonin EV|title=Polintons: a hotbed of eukaryotic virus, transposon and plasmid evolution|journal=Nat Rev Microbiol|date=2015|volume=13|issue=2|pages=105–115|doi=10.1038/nrmicro3389|pmid=25534808}}</ref> From Polinton/Maverick transposons NCLDVs might have inherited the key components required for virion morphogenesis, including the major and minor capsid proteins, maturation protease and genome packaging ATPase.<ref>{{cite journal|author1=Krupovic M, Bamford DH, Koonin EV|title=Conservation of major and minor jelly-roll capsid proteins in Polinton (Maverick) transposons suggests that they are bona fide viruses|journal=Biol Direct|date=2014|volume=9|page=6|doi=10.1186/1745-6150-9-6|pmid=24773695|pmc=4028283}}</ref>
+
+Another group of large viruses — the [[Pandoraviridae]] — has been described. Two species — [[Pandoravirus salinus]] and [[Pandoravirus dulcis]] — have been recognized. These were isolated from [[Chile]] and [[Australia]] respectively. These viruses are about one [[micrometre|micrometer]] in diameter making them one of the largest viruses discovered so far. Their gene complement is larger than any other known virus to date. At present they appear to be unrelated to any other species of virus.<ref>{{Cite journal | doi = 10.1126/science.341.6143.226| pmid = 23868995| title = Ever-Bigger Viruses Shake Tree of Life| journal = Science| volume = 341| issue = 6143| pages = 226–7| year = 2013| last1 = Pennisi | first1 = E.}}</ref>
+
+An even larger genus, [[Pithovirus]], has since been discovered, measuring about 1.5&nbsp;µm in length.<ref>{{Cite journal | doi = 10.1073/pnas.1320670111| title = Thirty-thousand-year-old distant relative of giant icosahedral DNA viruses with a pandoravirus morphology| journal = [[Proceedings of the National Academy of Sciences of the United States of America|Proc. Natl. Acad. Sci. U.S.A.]]| volume = To appear | issue = 11| pages =
+4274–9| year = 2014 |pmid = 24591590| last1 = Legendre | first1 = M.| last2 = Bartoli | first2 = J.| last3 = Shmakova | first3 = L.| last4 = Jeudy | first4 = S.| last5 = Labadie | first5 = K.| last6 = Adrait | first6 = A.| last7 = Lescot | first7 = M.| last8 = Poirot | first8 = O.| last9 = Bertaux | first9 = L.| last10 = Bruley | first10 = C.| last11 = Coute | first11 = Y.| last12 = Rivkina | first12 = E.| last13 = Abergel | first13 = C.| last14 = Claverie | first14 = J.-M.}}</ref>
+
+==References==
+
+{{reflist|35em|refs=
+<ref name=Ackermann1998>{{cite journal|author=Ackermann HW |year=1998|title= Tailed bacteriophages: the order caudovirales|journal= Adv Virus Res |volume=51|pages=135–201|doi=10.1016/S0065-3527(08)60785-X|pmid=9891587|series=Advances in Virus Research|isbn=9780120398515}}</ref>
+
+<ref name=Ackermann2003>{{cite journal|author=Ackermann HW |year=2003|title= Bacteriophage observations and evolution|journal= Res Microbiol |volume=154|issue=4|pages=245–251|doi=10.1016/S0923-2508(03)00067-6|pmid=12798228}}</ref>
+
+<ref name=Ackermann2012>{{cite journal|author=Ackermann HW, Prangishvili D |year=2012|title= Prokaryote viruses studied by electron microscopy|journal= Arch Virol |volume=157|issue=10|pages=1843–9|doi=10.1007/s00705-012-1383-y|pmid=22752841}}</ref>
+
+<ref name=Angly>{{cite journal|author=Angly FE, Felts B, Breitbart M, Salamon P, Edwards RA, Carlson C, Chan AM, Haynes M, Kelley S, Liu H, Mahaffy JM, Mueller JE, Nulton J, Olson R, Parsons R, Rayhawk S, Suttle CA, Rohwer F |year=2006|title= The marine viromes of four oceanic regions|journal= PLoS Biol|volume= 4|issue=11|pages=e368|doi=10.1371/journal.pbio.0040368|pmid=17090214|pmc=1634881}}</ref>
+
+<ref name=Baker2005>{{cite journal|author=Baker ML, Jiang W, Rixon FJ, Chiu W |year=2005|title= Common ancestry of herpesviruses and tailed DNA bacteriophages|journal= J. Virol. |volume= 79|pages=14967–70|doi=10.1128/JVI.79.23.14967-14970.2005|pmid=16282496|issue=23|pmc=1287596}}</ref>
+
+<ref name=Belyi2010>{{cite journal|author=Belyi VA, Levine AJ, Skalka AM |year=2010|title= Sequences from ancestral single-stranded DNA viruses in vertebrate genomes: the parvoviridae and circoviridae are more than 40 to 50 million years old|journal= J Virol |volume=84|issue=23|pages=12458–62|doi=10.1128/JVI.01789-10|pmid=20861255|pmc=2976387}}</ref>
+
+<ref name=Benson1999>{{cite journal|author=Benson SD, Bamford JK, Bamford DH, Burnett RM |year=1999|title= Viral evolution revealed by bacteriophage PRD1 and human adenovirus coat protein structures|journal= Cell |volume=98|issue=6|pages=825–833|doi=10.1016/S0092-8674(00)81516-0|pmid=10499799}}</ref>
+
+<ref name=Bezier2009>{{cite journal|author=Bézier A, Annaheim M, Herbinière J, Wetterwald C, Gyapay G, Bernard-Samain S, Wincker P, Roditi I, Heller M, Belghazi M, Pfister-Wilhem R, Periquet G, Dupuy C, Huguet E, Volkoff AN, Lanzrein B, Drezen JM |year=2009|title= Polydnaviruses of braconid wasps derive from an ancestral nudivirus|journal= Science |volume=323|issue=5916|pages=926–930|doi=10.1126/science.1166788|pmid=19213916}}</ref>
+
+<ref name=Blinkova2010>{{cite journal|author=Blinkova O, Victoria J, Li Y, Keele BF, Sanz C, Ndjango JB, Peeters M, Travis D, Lonsdorf EV, Wilson ML, Pusey AE, Hahn BH, Delwart EL |year=2010|title= Novel circular DNA viruses in stool samples of wild-living chimpanzees|journal= J Gen Virol|volume= 91|issue=Pt 1|pages=74–86|doi=10.1099/vir.0.015446-0|pmid=19759238|pmc=2887567}}</ref>
+
+<ref name=Colson2012>{{cite journal|author=Colson P, de Lamballerie X, Fournous G, Raoult D |year=2012|title= Reclassification of giant viruses composing a fourth domain of life in the new order Megavirales|journal= Intervirology|doi=10.1159/000336562|volume=55|issue=5|pages=321–32|pmid=22508375}}</ref>
+
+<ref name=Davison2002>{{cite journal|author=Davison AJ |year=2002|pmid= 11888691 |pages=69–88|title=Evolution of the herpesviruses|volume=86|issue=1–2|journal=Veterinary microbiology|doi=10.1016/S0378-1135(01)00492-8}}</ref>
+
+<ref name=Dayaram2012>{{cite journal|author=Dayaram A, Opong A, Jäschke A, Hadfield J, Baschiera M, Dobson RC, Offei SK, Shepherd DN, Martin DP, Varsani A |year=2012|title= Molecular characterisation of a novel cassava associated circular ssDNA virus|journal= Virus Res |volume=166|issue=1–2|pages=130–5|doi=10.1016/j.virusres.2012.03.009|pmid=22465471}}</ref>
+
+<ref name=Dayaram2013>{{cite journal|author=Dayaram A, Goldstien S, Zawar-Reza P, Gomez C, Harding JS, Varsani A |year=2013|title= whose replication associated protein (Rep) shares similarities with Rep-like sequences of bacterial origin|journal= J Gen Virol|doi=10.1099/vir.0.050088-0  |url=http://vir.sgmjournals.org/cgi/pmidlookup?view=long&pmid=23364192 |pmid=23364192 |volume=94 |issue=Pt 5 |pages=1104–10}}</ref>
+
+<ref name=Delwart2012>{{cite journal|author=Delwart E, Li L |year=2012|title= Rapidly expanding genetic diversity and host range of the Circoviridae viral family and other Rep encoding small circular ssDNA genomes. |volume=164|issue=1–2|pages=114–121 |doi=10.1016/j.virusres.2011.11.021 |url= http://linkinghub.elsevier.com/retrieve/pii/S0168-1702(11)00485-0 |pmid=22155583 |pmc=3289258 |journal=Virus Research}}</ref>
+
+<ref name=Desnues2008>{{cite journal|author=Desnues C, Rodriguez-Brito B, Rayhawk S, Kelley S, Tran T, Haynes M, Liu H, Furlan M, Wegley L, Chau B, Ruan Y, Hall D, Angly FE, Edwards RA, Li L, Thurber RV, Reid RP, Siefert J, Souza V, Valentine DL, Swan BK, Breitbart M, Rohwer F |year=2008|title= Biodiversity and biogeography of phages in modern stromatolites and thrombolites|journal=Nature |volume=452|issue=7185|pages=340–3|doi=10.1038/nature06735|pmid=18311127}}</ref>
+
+<ref name=Federici2009>{{cite journal|author=Federici BA, Bideshi DK, Tan Y, Spears T, Bigot Y |year=2009|title= Ascoviruses: superb manipulators of apoptosis for viral replication and transmission|journal= Curr Top Microbiol Immunol |volume=328|pages=171–196|doi=10.1007/978-3-540-68618-7_5|pmid=19216438|series=Current Topics in Microbiology and Immunology|isbn=978-3-540-68617-0}}</ref>
+
+<ref name=Gibbs1999>{{cite journal|author=Gibbs MJ, Weiller GF |year=1999|title= Evidence that a plant virus switched hosts to infect a vertebrate and then recombined with a vertebrate-infecting virus|journal= Proc Natl Acad Sci USA |volume=96|issue=14|pages=8022–7|doi=10.1073/pnas.96.14.8022|pmid=10393941|pmc=22181}}</ref>
+
+<ref name=Gronenborn2004>{{cite journal|author=Gronenborn B |year=2004|title= Nanoviruses: genome organisation and protein function|journal= Vet Microbiol|volume= 98|issue=2|pages=103–9|doi=10.1016/j.vetmic.2003.10.015|pmid=14741122}}</ref>
+
+<ref name=Grose2012>{{cite journal|author=Grose C |year=2012|doi= 10.1128/JVI.00357-12|title=Pangaea and the Out-of-Africa Model of Varicella-Zoster Virus Evolution and Phylogeography|journal=Journal of Virology|volume=86|issue=18|pages=9558–65|pmid=22761371|pmc=3446551}}</ref>
+
+<ref name="Iyer2006">{{cite journal|author=Iyer LM, Balaji S, Koonin EV, Aravind L |year=2006|title= Evolutionary genomics of nucleo-cytoplasmic large DNA viruses|journal= Virus Res. |volume=117|issue=1|pages=156–184|doi=10.1016/j.virusres.2006.01.009|pmid=16494962}}</ref>
+
+<!--ref name=Jalasvuori2010>{{cite journal|author=Jalasvuori M, Pawlowski A, Bamford JK |year=2010|title= A unique group of virus-related, genome-integrating elements found solely in the bacterial family Thermaceae and the archaeal family Halobacteriaceae|journal= J Bacteriol |volume=192|issue=12|pages=3231–4|doi=10.1128/JB.00124-10|pmid=20400546|pmc=2901701}}</ref-->
+
+<ref name=Jehle2012>{{cite journal|author=Jehle JA, Abd-Alla AM, Wang Y |year=2012|title= Phylogeny and evolution of Hytrosaviridae|journal= J Invertebr Pathol|pmid=22841640|doi=10.1016/j.jip.2012.07.015|volume=112 Suppl|pages=S62–7}}</ref>
+
+<ref name=Keller2007>{{cite journal|author=Keller J, Leulliot N, Cambillau C, Campanacci V, Porciero S, Prangishvilli D, Forterre P, Cortez D, Quevillon-Cheruel S, van Tilbeurgh H |year=2007|title= Crystal structure of AFV3-109, a highly conserved protein from crenarchaeal viruses|journal= Virol J|volume= 22|issue=4|pages=12|doi=10.1186/1743-422X-4-12 |url=http://www.virologyj.com/content/4//12 |pmid=17241456 |pmc=1796864}}</ref>
+
+<ref name=Kim2011>{{cite journal|author=Kim HK, Park SJ, Nguyen VG, Song DS, Moon HJ, Kang BK, Park BK |year=2011|title= Identification of a novel single stranded circular DNA virus from bovine stool|journal= J Gen Virol|pmid=22071514|volume=93|issue=Pt 3|pages=635–9|doi=10.1099/vir.0.037838-0}}</ref>
+
+<ref name=Knopf1998>{{cite journal|author=Knopf CW |year=1998|title= Evolution of viral DNA-dependent DNA polymerases|journal= Virus Genes |volume=16|issue=1|pages=47–58|doi=10.1023/A:1007997609122|pmid=9562890}}</ref>
+
+<ref name=Krenz2012>{{cite journal|author=Krenz B, Thompson JR, Fuchs M, Perry KL |year=2012|title= Complete genome sequence of a new circular DNA virus from grapevine|journal= J Virol |volume=86|issue=14|pages=7715|doi=10.1128/JVI.00943-12|pmid=22733880|pmc=3416304}}</ref>
+
+<ref name=Liu2011>{{cite journal|author=Liu H, Fu Y, Xie J, Cheng J, Ghabrial SA, Li G, Peng Y, Yi X, Jiang D. |year=2011|title= Widespread endogenization of Densoviruses and Parvoviruses in animal and human genomes|journal= J Virol |volume=85|issue=19|pages=9863–76|doi=10.1128/JVI.00828-11|pmid=21795360|pmc=3196449}}</ref>
+
+<ref name=McGeoch1994>{{cite journal|author=McGeoch DJ, Cook S |year=1994|title= Molecular phylogeny of the alphaherpesvirinae subfamily and a proposed evolutionary timescale|journal= J Mol Biol |volume=238|issue=1|pages=9–22|doi=10.1006/jmbi.1994.1264|pmid=8145260}}</ref>
+
+<ref name=McGeoch1995>{{cite journal|author=McGeoch DJ, Cook S, Dolan A, Jamieson FE, Telford EA |year=1995|title= Molecular phylogeny and evolutionary timescale for the family of mammalian herpesviruses|journal= J Mol Biol |volume=247|issue=3|pages=443–458|doi=10.1006/jmbi.1995.0152|pmid=7714900}}</ref>
+
+<ref name=McGeoch2006>{{cite journal|author=McGeoch DJ, Rixon FJ, Davison AJ |year=2006|title= Topics in herpesvirus genomics and evolution|journal= Virus Res |volume=117|issue=1|pages=90–104|doi=10.1016/j.virusres.2006.01.002|pmid=16490275}}</ref>
+
+<ref name=Meehan1997>{{cite journal|author=Meehan BM, Creelan JL, McNulty MS, Todd D |year=1997|title= Sequence of porcine circovirus DNA: affinities with plant circoviruses|journal= J Gen Virol |volume=78 |issue=Pt 1|pages=221–7|pmid=9010307}}</ref>
+
+<ref name=Ng2009>{{cite journal|author=Ng TF, Manire C, Borrowman K, Langer T, Ehrhart L, Breitbart M |year=2009|title= Discovery of a novel single-stranded DNA virus from a sea turtle fibropapilloma by using viral metagenomics|journal= J Virol|volume= 83|issue=6|pages=2500–9|doi=10.1128/JVI.01946-08|pmid=19116258|pmc=2648252}}</ref>
+
+<ref name=Niagro1998>{{cite journal|author=Niagro FD, Forsthoefel AN, Lawther RP, Kamalanathan L, Ritchie BW, Latimer KS, Lukert PD |year=1998|title= Beak and feather disease virus and porcine circovirus genomes: intermediates between the geminiviruses and plant circoviruses|journal= Arch Virol|volume= 143|issue=9|pages=1723–44|doi=10.1007/s007050050412|pmid=9787657}}</ref>
+
+<ref name=Ogata2009>{{cite journal|author=Ogata H, Toyoda K, Tomaru Y, Nakayama N, Shirai Y, Claverie JM, Nagasaki K |year=2009|title= Remarkable sequence similarity between the dinoflagellate-infecting marine girus and the terrestrial pathogen African swine fever virus|journal= Virol J |volume=6|pages=178|doi=10.1186/1743-422X-6-178|pmid=19860921|pmc=2777158|issue=1}}</ref>
+
+<ref name=Phan2012>{{cite journal|author=Phan TG, Vo NP, Bonkoungou IJ, Kapoor A, Barro N, O'Ryan M, Kapusinszky B, Wang C, Delwart E |year=2012|title= Acute diarrhea in West-African children: diverse enteric viruses and a novel parvovirus genus|journal= J Virol|pmid=22855485|doi=10.1128/JVI.01427-12|volume=86|issue=20|pages=11024–30|pmc=3457132}}</ref>
+
+<ref name=Pietila2010>{{cite journal|author=Pietilä MK, Laurinavicius S, Sund J, Roine E, Bamford DH |year=2010|title= The single-stranded DNA genome of novel archaeal virus Halorubrum pleomorphic virus 1 is enclosed in the envelope decorated with glycoprotein spikes|journal= J Virol|volume= 84|issue=2|pages=788–798|doi=10.1128/JVI.01347-09|pmid=19864380|pmc=2798366}}</ref>
+
+<ref name=Pietila2012>{{cite journal|author=Pietilä MK, Atanasova NS, Manole V, Liljeroos L, Butcher SJ, Oksanen HM, Bamford DH |year=2012|doi= 10.1128/JVI.06915-11|title=Virion Architecture Unifies Globally Distributed Pleolipoviruses Infecting Halophilic Archaea|journal=Journal of Virology|volume=86|issue=9|pages=5067–79|pmid=22357279|pmc=3347350}}</ref>
+
+<ref name=Prangishvili2004>{{cite journal|author=Prangishvili D, Garrett RA |year=2004|title= Exceptionally diverse morphotypes and genomes of crenarchaeal hyperthermophilic viruses|journal= Biochem Soc Trans |volume=32|issue=Pt 2|pages=204–8|doi=10.1042/BST0320204|pmid=15046572}}</ref>
+
+<ref name=Rebrikov2002>{{cite journal|author=Rebrikov DV, Bulina ME, Bogdanova EA, Vagner LL, Lukyanov SA |year=2002|title= Complete genome sequence of a novel extrachromosomal virus-like element identified in planarian ''Girardia tigrina''|journal= BMC Genomics |volume=13|pages=15|doi=10.1186/1471-2164-3-15|pmid=22233149|pmc=3269984|issue=1}}</ref>
+
+<ref name=Rosario2009>{{cite journal|author=Rosario K, Duffy S, Breitbart M |year=2009|title= Diverse circovirus-like genome architectures revealed by environmental metagenomics|journal= J Gen Virol. |volume=90|issue=Pt 10|pages=2418–24|doi=10.1099/vir.0.012955-0|pmid=19570956}}</ref>
+
+<ref name=Shutt2005>{{cite journal|author=Shutt TE, Gray MW |year=2005|title= Bacteriophage origins of mitochondrial replication and transcription proteins|journal= Trends Genet|volume= 22|issue=2|pages=90–95|doi=10.1016/j.tig.2005.11.007|pmid=16364493}}</ref>
+
+<ref name=Sikorski2012>{{cite journal|author=Sikorski A, Argüello-Astorga GR, Dayaram A, Dobson RC, Varsani A |year=2012|title= Discovery of a novel circular single-stranded DNA virus from porcine faeces|journal= Arch Virol|pmid=22972681|volume=158|issue=1|pages=283–9|doi=10.1007/s00705-012-1470-0}}</ref>
+
+<ref name=Sikorski2013>{{cite journal|author=Sikorski A, Kearvell J, Elkington S, Dayaram A, Argüello-Astorga GR, Varsani A |year=2013|title= Novel ssDNA viruses discovered in yellow-crowned parakeet (''Cyanoramphus auriceps'') nesting material|journal= Arch Virol|pmid=23417396|doi=10.1007/s00705-013-1642-6|volume=158|issue=7|pages=1603–7}}</ref>
+
+<ref name=Sinshemer1959a>{{cite journal|author=Sinshemer RL |year=1959|title=Purification and properties of bacteriophage φX174|volume= 1|pages=37|doi=10.1016/S0022-2836(59)80005-X|journal=Journal of Molecular Biology}}</ref>
+
+<ref name=Sinshemer1959b>{{cite journal|author=Sinshemer RL |year=1959|title=A single-stranded deoxyribonucleic acid from bacteriophage φX174 |volume=1|pages=43|doi=10.1016/S0022-2836(59)80006-1|journal=Journal of Molecular Biology}}</ref>
+
+<ref name=Sukhumsirichart2006>{{cite journal|author=Sukhumsirichart W, Attasart P, Boonsaeng V, Panyim S |year=2006|title= Complete nucleotide sequence and genomic organization of hepatopancreatic parvovirus (HPV) of ''Penaeus monodon''|journal= Virology |volume=346|issue=2|pages=266–277|doi=10.1016/j.virol.2005.06.052|pmid=16356523}}</ref>
+
+<ref name=Theze2011>{{cite journal|author=Thézé J, Bézier A, Periquet G, Drezen JM, Herniou EA |year=2011|title= Paleozoic origin of insect large dsDNA viruses|journal= Proc Natl Acad Sci USA |volume=108|issue=38|pages=15931–5|doi=10.1073/pnas.1105580108|pmid=21911395|pmc=3179036}}</ref>
+
+<ref name=Tijssen1995>{{cite journal|author=Tijssen P, Bergoin M |year=1995|title= Densonucleosis viruses constitute an increasingly diversified subfamily among the parvoviruses|journal= Seminars in Virology |volume=6|pages= 347–355|doi=10.1006/smvy.1995.0041|issue=5}}</ref>
+
+<ref name=vandenBrand2012>{{cite journal|author=van den Brand JM, van Leeuwen M, Schapendonk CM, Simon JH, Haagmans BL, Osterhaus AD, Smits SL |year=2012|doi= 10.1128/JVI.06373-11|title=Metagenomic Analysis of the Viral Flora of Pine Marten and European Badger Feces|journal=Journal of Virology|volume=86|issue=4|pages=2360–5|pmid=22171250|pmc=3302375}}</ref>
+
+<ref name=Villarreal2000>{{cite journal|author=Villarreal LP, DeFilippis VR |year=2000|title= A hypothesis for DNA viruses as the origin of eukaryotic replication proteins|journal= J Virol |volume=74|issue=15|pages=7079–84|doi=10.1128/JVI.74.15.7079-7084.2000|pmid=10888648|pmc=112226}}</ref>
+
+<ref name=Wang2011>{{cite journal|author=Wang Y, Bininda-Emonds OR, van Oers MM, Vlak JM, Jehle JA |year=2011|title= The genome of ''Oryctes rhinoceros'' nudivirus provides novel insight into the evolution of nuclear arthropod-specific large circular double-stranded DNA viruses|journal= Virus Genes. |volume=42|issue=3|pages=444–456|doi=10.1007/s11262-011-0589-5|pmid=21380757}}</ref>
+
+<ref name=Wilson2009>{{cite journal|author=Wilson WH, Van Etten JL, Allen MJ |year=2009|title= The Phycodnaviridae: the story of how tiny giants rule the world|journal= Curr Top Microbiol Immunol|volume= 328|pages=1–42|doi=10.1007/978-3-540-68618-7_1|pmid=19216434|pmc=2908299|series=Current Topics in Microbiology and Immunology|isbn=978-3-540-68617-0}}</ref>
+
+<ref name=Xie2010>{{cite journal|author=Xie Y, Wu P, Liu P, Gong H, Zhou X |year=2010|title= Characterization of alphasatellites associated with monopartite begomovirus/betasatellite complexes in Yunnan, China|journal= Virol J|volume= 7|pages=178|doi=10.1186/1743-422X-7-178|pmid=20678232|pmc=2922188|issue=1}}</ref>
+
+<ref name=Yutin2012>{{cite journal|author=Yutin N, Koonin EV |year=2012|title= Hidden evolutionary complexity of Nucleo-Cytoplasmic Large DNA viruses of eukaryotes|journal= Virol J |volume=9|issue=1|pages=161|doi=10.1186/1743-422X-9-161 |url= http://www.virologyj.com/content/9//161 |pmid=22891861 |pmc=3493329}}</ref>
+
+<ref name=Yu2010>{{cite journal|author=Yu X, Li B, Fu Y, Jiang D, Ghabrial SA, Li G, Peng Y, Xie J, Cheng J, Huang J, Yi X |year=2010|title= A geminivirus-related DNA mycovirus that confers hypovirulence to a plant pathogenic fungus|journal= Proc Natl Acad Sci USA |volume=107|issue=18|pages=8387–92|doi=10.1073/pnas.0913535107|pmid=20404139|pmc=2889581}}</ref>
+
+<ref name=Zillig1996>{{cite journal|author=Zillig W, Prangishvilli D, Schleper C, Elferink M, Holz I, Albers S, Janekovic D, Götz D |year=1996|title= Viruses, plasmids and other genetic elements of thermophilic and hyperthermophilic Archaea|journal= FEMS Microbiol Rev |volume=18|issue=2–3|pages=225–236|doi=10.1111/j.1574-6976.1996.tb00239.x|pmid=8639330}}</ref>
+}}
+
+==Additional reading==
+
+* {{cite web|first1=C. M.|last1=Fauquent|first2=M. A.|last2=Mayo|first3=J.|last3=Maniloff|first4=U.|last4=Desselberger|first5=L. A.|last5=Ball|title=8th Reports of the International Committee on Taxonomy of Viruses|url=http://www.ncbi.nlm.nih.gov/ICTVdb/Ictv/fr-fst-g.htm|work=Academic Press|publisher=US National Center for Biotechnology Information, National Library for Medicine, National Institutes of Health|date=2005-05-27}}
+{{refend}}
+
+{{Baltimore classification}}
+{{Portal bar|Viruses}}
+
+[[Category:DNA viruses| ]]
+[[Category:DNA]]

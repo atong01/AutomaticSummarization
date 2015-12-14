@@ -1,0 +1,486 @@
+{{Redirect|Cuny|the surname|Cuny (surname)}}
+{{about|"CUNY," the public university of the City of New York|a list of universities in New York|Universities in New York|the state university system in New York |State University of New York (SUNY)}}
+{{Use mdy dates|date=September 2015}}
+{{Infobox University
+| image       = CUNY_New_Logo.svg
+| image_size  = 250px
+| name        = The City University of New York
+| budget      = $3.0&nbsp;billion<ref>{{cite web|url=http://www.cuny.edu/about/administration/offices/bf/ubd/faqs.html |title=University Budget Office FAQ's – Budget & Finance – CUNY |publisher=Cuny.edu |accessdate=2014-04-29}}</ref>
+| established = 1847<ref>The forerunner of today's City University of New York was founded in 1847.</ref>
+| type        = [[Public university|Public system]]
+| chancellor  = James B. Milliken<ref>{{cite web|title=Nationally Prominent Higher Education Leader James B. Milliken Appointed Chancellor of The City University of New York|url=http://www1.cuny.edu/mu/forum/2014/01/15/nationally-prominent-higher-education-leader-james-b-milliken-appointed-chancellor-of-the-city-university-of-new-york/|publisher=CUNY Newswire|accessdate=July 3, 2014}}</ref>
+| city        = New York City
+| state       = New York
+| students    = 516,000<ref name=about>"[http://www.cuny.edu/about.html About]." cuny.edu.</ref>
+| faculty     = 6,700 full-time teaching faculty members<ref name=about />
+|affiliations =
+| website     = [http://www.cuny.edu/ cuny.edu]
+}}
+'''The City University of New York''' ('''CUNY'''; pron.: {{IPAc-en|ˈ|k|juː|n|i}}) is the [[Public university|public]] [[university system]] of [[Education in New York City|New York City]], and the largest urban university in the United States. CUNY and [[SUNY]] (the [[State University of New York]]) are separate and independent university systems, although both are public institutions that receive funding from [[New York State]]. CUNY, however, is additionally funded by the [[New York City|City of New York]].
+
+==Enrollment and demographics==
+CUNY is the third-largest university system in the United States, in terms of enrollment, behind the [[State University of New York]] (SUNY), and the [[California State University]] system.  More than 270,000-degree-credit students and 273,000 continuing and professional education students are enrolled at campuses located in all five New York City boroughs.
+
+The university has one of the most diverse student bodies in the United States, with students hailing from 208 countries. The black, white and Hispanic undergraduate populations each comprise more than a quarter of the student body, and Asian undergraduates make up 18 percent. Fifty-eight percent are female, and 28 percent are 25 or older.<ref name="The City University of New York">{{cite web|title=Investing in Our Future, The City University of New York's Master Plan 2012–2016|url=http://www.cuny.edu/news/publications/masterplan.pdf|publisher=The City University of New York|accessdate=July 1, 2013}}</ref>
+
+==Component institutions==
+{{see also|List of City University of New York units}}
+
+''The following table is 'sortable'; click on a column heading to re-sort the table by values of that column.''
+
+{| class="wikitable sortable"
+|+ CUNY Component Institutions
+! scope="col" | Est.
+! scope="col" | Type
+! style="text-align: left;" scope="col" | Name
+|- style="vertical-align: top;"
+| 1847 || Senior College || [[City College of New York|City College]]
+|- style="vertical-align: top;"
+| 1870 || Senior College || [[Hunter College]]
+|- style="vertical-align: top;"
+| 1919 || Senior College || [[Baruch College]]
+|- style="vertical-align: top;"
+| 1930 || Senior College || [[Brooklyn College]]
+|- style="vertical-align: top;"
+| 1937 || Senior College || [[Queens College, New York|Queens College]]
+|- style="vertical-align: top;"
+| 1946 || Senior College || [[New York City College of Technology]]
+|- style="vertical-align: top;"
+| 1976 || Senior College || [[College of Staten Island]]
+|- style="vertical-align: top;"
+| 1964 || Senior College || [[John Jay College of Criminal Justice]]
+|- style="vertical-align: top;"
+| 1966 || Senior College || [[York College, City University of New York|York College]]
+|- style="vertical-align: top;"
+| 1968 || Senior College || [[Lehman College]]
+|- style="vertical-align: top;"
+| 1970 || Senior College || [[Medgar Evers College]]
+|- style="vertical-align: top;"
+| 2005 || Senior College || [[William E. Macaulay Honors College]]
+|- style="vertical-align: top;"
+| 1957 || Community College || [[Bronx Community College]]
+|- style="vertical-align: top;"
+| 1958 || Community College || [[Queensborough Community College]]
+|- style="vertical-align: top;"
+| 1963 || Community College || [[Borough of Manhattan Community College]]
+|- style="vertical-align: top;"
+| 1963 || Community College || [[Kingsborough Community College]]
+|- style="vertical-align: top;"
+| 1968 || Community College || [[LaGuardia Community College]]
+|- style="vertical-align: top;"
+| 1970 || Community College || [[Hostos Community College]]
+|- style="vertical-align: top;"
+| 2011 || Community College || [[Guttman Community College]]
+|- style="vertical-align: top;"
+| 1961 || Graduate / professional || [[CUNY Graduate Center]]
+|- style="vertical-align: top;"
+| 1973 || Graduate / professional || [[Sophie Davis School of Biomedical Education]]
+|- style="vertical-align: top;"
+| 1983 || Graduate / professional || [[CUNY School of Law]]
+|- style="vertical-align: top;"
+| 2006 || Graduate / professional || [[CUNY Graduate School of Journalism]]
+|- style="vertical-align: top;"
+| 2006 || Graduate / professional || [[CUNY School of Professional Studies]]
+|- style="vertical-align: top;"
+| 2008 || Graduate / professional || [[CUNY School of Public Health]]
+|- style="vertical-align: top;"
+| 2016 || Graduate / professional ||  [[CUNY Medical School]]
+|}
+
+==Notable faculty==
+
+* [[William Bialek]], biophysicist
+* [[John Corigliano]], composer
+* [[David Harvey (geographer)|David Harvey]], geographer
+* [[Talal Asad]], anthropologist
+* [[Michio Kaku]], physicist
+* [[Saul Kripke]], philosopher
+* [[Paul Krugman]], economist
+* [[Ben Lerner]], poet
+* [[David M. Rosenthal (philosopher)|David M. Rosenthal]], philosopher
+* [[Dennis Sullivan]], mathematician
+
+==History==
+
+===Founding===
+CUNY was created in 1961, by [[New York State]] legislation, signed into law by Governor [[Nelson Rockefeller]]. The legislation
+integrated existing institutions and a new graduate school into a coordinated system of higher education for the city, under the control of the "Board of Higher Education of the City of New York", which had been created by New York State legislation in 1926. By 1979, the Board of Higher Education had become the "Board of Trustees of the CUNY".<ref name=fitzp />
+
+The institutions that were merged in order to create CUNY were:<ref name=fitzp />
+
+* The Free Academy – Founded in 1847 by [[Townsend Harris]], it was fashioned as "a Free Academy for the purpose of extending the benefits of education gratuitously to persons who have been pupils in the common schools of the city and county of New York." The Free Academy later became the [[City College of New York]].
+
+* The Female Normal and High School – Founded in 1870, and later renamed [[Normal school|the Normal College]]. It would be renamed again in 1914 to [[Hunter College]]. During the early 20th century, Hunter College expanded into the Bronx, with what became [[Lehman College|Herbert Lehman College]].<ref name=fitzp>Fitzpatrick, John. [http://www.answers.com/topic/city-university-of-new-york "City University of New York"] ''U.S. History Encyclopedia''</ref>
+
+* [[Brooklyn College]] – Founded in 1930.
+
+* [[Queens College]] – Founded in 1937.
+
+===Accessible education===
+CUNY has served a diverse student body, especially those excluded from or unable to afford private universities. Its four-year colleges offered a high quality, tuition-free education to the poor, the working class and the immigrants of New York City who met the grade requirements for matriculated status. During the post-[[World War I]] era, when some [[Ivy League]] universities, such as [[Yale University]], discriminated against [[Jews]], many Jewish academics and intellectuals studied and taught at CUNY.<ref>{{cite book|last=Oren|first=Dan A.|title=Joining the Club: A History of Jews at Yale|year=1985|publisher=Yale University Press}}</ref> The City College of New York developed a reputation of being "the [[Harvard]] of the proletariat."<ref>{{cite book|last=Fullinwider|first=Robert K.|title=Leveling the Playing Field: Justice, Politics, and College Admissions|year=2004|publisher=Rowman & Littlefield|author2=Judith Lichtenberg}}</ref>
+
+As the city's population—and public college enrollment—grew during the early 20th century and the city struggled for resources, the municipal colleges slowly began adopting selective tuition, also known as instructional fees, for a handful of courses and programs. During the [[Great Depression]], with funding for the public colleges severely constrained, limits were imposed on the size of the colleges' free Day Session, and tuition was imposed upon students deemed "competent" but not academically qualified for the day program.  Most of these "limited matriculation" students enrolled in the Evening Session, and paid tuition.<ref>{{cite book|last=Neumann|first=Florence Margaret|title=Access to Free Public Higher Education in New York City: 1847–1961|year=1984|publisher=PhD Dissertation, Graduate Faculty in Sociology, The City University of New York}}</ref>
+
+Demand in the United States for higher education rapidly grew after [[World War II]], and during the mid-1940s a movement began to create [[community college]]s to provide accessible education and training. In New York City, however, the community-college movement was constrained by many factors including "financial problems, narrow perceptions of responsibility, organizational weaknesses, adverse political factors, and another competing priorities."<ref name="Gordon 1975"/>
+
+Community colleges would have drawn from the same city coffers that were funding the senior colleges, and city higher education officials were of the view that the state should finance them. It wasn't until 1955, under a shared-funding arrangement with New York State, that New York City established its first community college, on Staten Island. Unlike the day college students attending the city's public baccalaureate colleges for free, the community college students had to pay tuition fees under the state-city funding formula. Community college students paid tuition fees for approximately 10 years.<ref name="Gordon 1975"/>
+
+Over time, tuition fees for limited-matriculated students became an important source of system revenues. In fall 1957, for example, nearly 36,000 attended Hunter, Brooklyn, Queens and City Colleges for free, but another 24,000 paid tuition fees of up to $300 a year – the equivalent of $2,413 in 2011.<ref>{{cite web|title=U.S. Bureau of Labor Statistics' online inflation calculator|url=http://www.bls.gov/data/inflation_calculator.htm}}</ref>  Undergraduate tuition and other student fees in 1957 comprised 17 percent of the colleges' $46.8 million in revenues, about $7.74 million — a figure equivalent to $62.4 million in 2011 buying power.<ref>{{cite journal|last=Board of Higher Education of the City of New York|title=Report of the Chairman|year=1959|issue=1957–1959|pages=86–87}}</ref>
+
+Three community colleges had been established by early 1961, when the city's public colleges were codified by the state as an single university with a chancellor at the helm and an infusion of state funds. But the city's slowness in creating the community colleges as demand for college seats was intensifying, had resulted in mounting frustration, particularly on the part of minorities, that college opportunities were not available to them.
+
+In 1964, as the city's Board of Higher Education moved to take full responsibility for the community colleges, city officials extended the senior colleges' free tuition policy to them, a change that was included by Mayor [[Robert Wagner]] in his budget plans and took effect with the 1964–65 academic year.<ref>{{cite journal|last=Board of Higher Education of the City of New York|title=Board of Higher Education Minutes of Proceedings|date= April 20, 1964|issue=|pages=}}</ref>
+
+In 1969, a group of [[Black people|Black]] and [[Puerto Ricans|Puerto Rican]] students occupied City College demanding the [[racial integration]] of CUNY, which at the time had an overwhelmingly [[white people|white]] student body.<ref name="Gordon 1975">{{cite book|last=Gordon|first=Sheila|title=The Transformation of the City University of New York, 1945–1970|year=1975|publisher=PhD Dissertation, Columbia University|location=New York}}</ref>
+
+===Student protests===
+Students at some campuses became increasingly frustrated with the university's and Board of Higher Education's handling of university administration. At [[Baruch College]] in 1967, over a thousand students protested the plan to make the college an upper-division school limited to junior, senior, and graduate students.<ref>{{cite news|title=1,000 C.C.N.Y. Students Protest Division Plan for Baruch School|accessdate=May 23, 2014|newspaper=New York Times|date=March 31, 1967}}</ref> At [[Brooklyn College]] in 1968, students attempted a sit-in to demand the admission of more [[black people|black]] and [[Puerto Ricans|Puerto Rican]] students and additional black studies curriculum.<ref>{{cite news|last=Farber|first=M.A.|title=Brooklyn vs. Columbia: Failure of the Sit-In at One School Laid To Type of Student, Location and Policy|accessdate=May 23, 2014|newspaper=New York Times|date=May 24, 1968}}</ref> Students at [[Hunter College]] also demanded a [[Africana studies|Black studies]] program.<ref>{{cite news|title=Negro Students Press Demands: Ask Stony Brook and Hunter for Black-Studies Program|accessdate=May 23, 2014|newspaper=New York Times|date=February 8, 1969}}</ref> Members of the SEEK program, which provided academic support for underprepared and underprivileged students, staged a building takeover at [[Queens College]] in 1969 to protest the decisions of the program's director, who would later be replaced by a black professor.<ref>{{cite news|last=Lissner|first=Will|title=City U. Examines College Dispute: Advisory Unit Weighs SEEK Protests at Queens|accessdate=May 23, 2014|newspaper=New York Times|date=January 11, 1969}}</ref><ref>{{cite news|title=Negro Chosen Head of SEEK Program at Queens College|accessdate=May 23, 2014|newspaper=New York Times|date=September 4, 1969}}</ref> [[Puerto Ricans in the United States|Puerto Rican]] students at [[Bronx Community College]] filed a report with the [[New York State Division of Human Rights]] in 1970, contending that the intellectual level of the college was inferior and discriminatory.<ref>{{cite news|title=Students Protest College Teaching|accessdate=May 23, 2014|newspaper=New York Times|date=February 25, 1970|page=36}}</ref> [[Hunter College]] was crippled for several days by a protest of 2,000 students who had a list of demands focusing on more student representation in college administration.<ref>{{cite news|last=Fried|first=Joseph P.|title=Disruption at Hunter Is Ended After 200 Policemen Are Called|accessdate=May 23, 2014|newspaper=New York Times|date=April 3, 1970|page=20}}</ref> Across CUNY, students boycotted their campuses in 1970 to protest a rise in student fees and other issues, including the proposed (and later implemented) open admissions plan.<ref>{{cite news|last=Fosburgh|first=Lacey|title=City U. Boycotted by Students Protesting Proposed Fee Rise|accessdate=May 23, 2014|newspaper=New York Times|date=April 30, 1970|page=36}}</ref>
+
+Like many college campuses in 1970, CUNY faced a number of [[Student Strike of 1970|protests and demonstrations]] after the [[Kent State shootings]] and [[Cambodian Campaign]]. The Administrative Council of the City University of New York sent U.S. President [[Richard Nixon]] a telegram in 1970 stating, "No nation can long endure the alienation of the best of its young people."<ref>{{cite news|last=Lelyveld|first=Joseph|title=Protests on Cambodia and Kent State Are Joined by Many Local Schools|url=http://select.nytimes.com/gst/abstract.html?res=F50E10F8385A157493C4A9178ED85F448785F9|accessdate=May 23, 2014|newspaper=New York Times|date=May 6, 1970}}</ref> Some colleges, including [[John Jay College of Criminal Justice]], historically the "college for cops," held teach-ins in addition to student and faculty protests.<ref>{{cite news|last=Montgomery|first=Paul L.|title=John Jay College Gets Protests Too: Activity Unusual at School Attended by Policemen|url=http://select.nytimes.com/gst/abstract.html?res=F10810F83D5417768FDDA90994DD405B808BF1D3|accessdate=May 23, 2014|newspaper=New York Times|date=May 10, 1970}}</ref>
+
+===Open admissions===
+In 1970, the Board of Trustees implemented a new admissions policy. The doors to CUNY were opened wide to all those demanding entrance, assuring all high school graduates entrance to the university without having to fulfill traditional requirements such as exams or grades. This policy was known as [[open admissions]] and nearly doubled the number of students enrolling in the CUNY system to 35,000 (compared to 20,000 the year before). With greater numbers came more diversity: Black and Hispanic student enrollment increased threefold.<ref>{{cite journal |first=Robert K. |last=Fullinwider |journal=Philosophy & Public Policy Quarterly |title=Open Admissions and Remedial Education at CUNY |url=http://journals.gmu.edu/PPPQ/article/download/310/238 |issue=1 |volume=19 |year=1999}}</ref> [[Remedial education]], to supplement the training of under-prepared students, became a significant part of CUNY's offerings.<ref>{{cite book|last=Suri|first=Duitch|title=Open Admissions and Remediation: A Case Study of Policymaking by the City University of New York Board|year=2010|publisher=PhD Dissertation, The City University of New York|location=New York}}</ref>
+
+===Financial crisis of 1976===
+In fall 1976, during New York City's fiscal crisis, the free tuition policy was discontinued under pressure from the federal government, the financial community that had a role in rescuing the city from bankruptcy, and New York State, which would take over the funding of CUNY's senior colleges.<ref>{{cite journal|title=When Tuition at CUNY Was Free, Sort of, CUNY Matters|journal=CUNY Matters|date=October 2011|url=http://www1.cuny.edu/mu/forum/2011/10/12/when-tuition-at-cuny-was-free-sort-of/}}</ref> Tuition, which had been in place in the State University of New York system since 1963, was instituted at all CUNY colleges.<ref>{{cite news|last=Applebome|first=Peter|title=The Accidental Giant of Higher Education|url=http://www.nytimes.com/2010/07/25/education/25suny-t.html?pagewanted=all|accessdate=July 17, 2013|newspaper=The New York Times|date=July 23, 2010}}</ref><ref>{{cite journal|title=When CUNY Was Free, Sort Of|journal=CUNY Matters|date=October 2011|url=http://www1.cuny.edu/mu/forum/2011/10/12/when-tuition-at-cuny-was-free-sort-of/}}</ref>
+
+Meanwhile, CUNY students were added to the state's need-based Tuition Assistance Program (TAP), which had been created to help private colleges.<ref name="www1.cuny.edu">{{cite journal|title=When Tuition at CUNY Was Free, Sort of|journal=CUNY Matters|date=October 2011|url=http://www1.cuny.edu/mu/forum/2011/10/12/when-tuition-at-cuny-was-free-sort-of/}}</ref> Full-time students who met the income eligibility criteria were permitted to receive TAP, ensuring for the first time that financial hardship would deprive no CUNY student of a college education.<ref name="www1.cuny.edu"/> Within a few years, the federal government would create its own need-based program, known as [[Pell Grant]]s, providing the neediest students with a tuition-free college education. By 2011, nearly six of ten full- time undergraduates qualified for a tuition-free education at CUNY due in large measure to state, federal and CUNY financial aid programs.<ref>{{cite web|last=The City University of New York|title=CUNY Value|url=http://cuny.edu/about/resources/value.html|publisher=The City University of New York|accessdate=July 8, 2013}}</ref> CUNY's enrollment dipped after tuition was re-established, and there were further enrollment declines through the 1980s and into the 1990s.{{citation needed|date=November 2012}}
+
+===Financial crisis of 1995===
+In 1995, CUNY suffered another fiscal crisis when Governor [[George Pataki]] proposed a drastic cut in state financing.<ref>{{cite news|last=Honan|first=William|title=CUNY Professors, Fearing Worst, Rush Out Their Resumes: With a financial emergency declared, many on the CUNY faculties could go|url=http://www.nytimes.com/1995/02/28/nyregion/cuny-professors-fearing-worst-rush-out-their-resumes.html|accessdate=April 17, 2013|newspaper=New York Times|date=February 28, 1995}}</ref> Faculty cancelled classes and students staged protests. By May, CUNY adopted deep cuts to college budgets and class offerings.<ref>{{cite news|last=Hevesi|first=Dennis|title=CUNY Campuses Prepare to Reduce Faculty and Classes|url=http://www.nytimes.com/1995/05/14/nyregion/cuny-campuses-prepare-to-reduce-faculty-and-classes.html?pagewanted=all&src=pm|accessdate=April 17, 2013|newspaper=New York Times|date=May 14, 1995}}</ref> By June, in order to save money spent on remedial programs, CUNY adopted a stricter admissions policy for its senior colleges: students deemed unprepared for college would not be admitted, this a departure from the 1970 [[#Open_admissions|Open Admissions]] program.<ref>{{cite news|last=Jones|first=Charisse|title=CUNY Adopts Stricter Policy on Admissions|url=http://www.nytimes.com/1995/06/27/nyregion/cuny-adopts-stricter-policy-on-admissions.html?pagewanted=all&src=pm|accessdate=April 17, 2013|newspaper=New York Times|date=June 27, 1995}}</ref> That year's final state budget cut funding by $102&nbsp;million, which CUNY absorbed by increasing tuition by $750 and offering a retirement incentive plan for faculty.
+
+In 1999, a task force appointed by Mayor [[Rudolph Giuliani]] issued a report that described CUNY as "an institution adrift" and called for an improved, more cohesive university structure and management, as well as more consistent academic standards. Following the report, Matthew Goldstein, a mathematician and City College graduate who had led CUNY's Baruch College and briefly, [[Adelphi University]], was appointed chancellor. CUNY ended its policy of open admissions to its four-year colleges, raised its admissions standards its most selective four-year colleges (Baruch, Brooklyn, City, Hunter and Queens), and required new-enrollees who needed remediation, to begin their studies at a CUNY open-admissions community colleges.<ref name="Kaminer">{{cite news|last=Kaminer|first=Ariel|title=Longtime CUNY Chancellor to Step Down After Pushing Higher Standards|url=http://www.nytimes.com/2013/04/13/education/matthew-goldstein-announces-resignation-as-cuny-chancellor.html?_r=0|accessdate=July 8, 2013|newspaper=The New York Times|date=April 13, 2013}}</ref>
+
+===Continued growth and improvement===
+CUNY's enrollment of degree-credit students reached 220,727 in 2005 and 262,321 in 2010, as the university broadened its academic offerings and attracted students seeking value during the [[Great Recession|nationwide economic recession]].<ref>{{cite web|title=CUNY Value|url=http://cuny.edu/about/resources/value.html|publisher=The City University of New York|accessdate=July 8, 2013}}</ref> The university added more than 2,000 full-time faculty positions, opened new schools and programs, and expanded the university's fundraising efforts to help pay for them.<ref name="Kaminer"/> Fundraising increased from $35&nbsp;million in 2000 to more than $200&nbsp;million in 2012.<ref>{{cite web|title=CUNY Mater Plan 2012 – 2016|url=http://www.cuny.edu/about/masterplan.html|publisher=The City University of New York|accessdate=July 8, 2013|pages=11–12}}</ref>
+
+As of Autumn 2013, all CUNY undergraduates are required to take an administration-dictated common core of courses which have been claimed to meet specific "learning outcomes" or standards. Since the courses are accepted University wide, the administration claims it will be easier for students to transfer course credits between CUNY colleges. It also reduced the number of core courses some CUNY colleges had required, to a level below national norms, particularly in the sciences.<ref>{{cite web|title=CUNY Pathways initiative|url=http://www.cuny.edu/academics/initiatives/pathways.html|publisher=The City University of New York|accessdate=July 10, 2013}}</ref><ref>{{cite web|title=Pathways Open, New Choices|url=http://www1.cuny.edu/mu/forum/2013/03/06/pathways-open-new-choices/|publisher=The City University of New York|accessdate=July 11, 2013}}</ref> The program is the target of several lawsuits by students and faculty, and was the subject of a "no confidence" vote by the faculty, who rejected it by an overwhelming 92% margin.<ref>{{cite web|title=Pathways No Confidence|url=http://psc-cuny.org/latest-news/92-vote-no-confidence-pathways-cunys-new-curriculum|publisher=Professional Staff Congress-CUNY|accessdate=September 1, 2013}}</ref>
+
+Chancellor Goldstein retired on July 1, 2013, and was replaced on June 1, 2014 by [[James Milliken]], president of the [[University of Nebraska]], and a graduate of University of Nebraska and [[New York University Law School]].<ref>{{cite web|title=Nationally Prominent Higher Education Leader James B. Milliken Appointed Chancellor of The City University of New York|url=http://www1.cuny.edu/mu/forum/2014/01/15/nationally-prominent-higher-education-leader-james-b-milliken-appointed-chancellor-of-the-city-university-of-new-york/|publisher=The City University of New York|accessdate=May 21, 2014}}</ref>
+
+==Management structure==
+{{Unreferenced section|date=November 2012}}
+[[File:Cuny-trustee-seal.jpg|framed|right|Seal of the CUNY Board of Trustees]]
+The forerunner of today's City University of New York was governed by the Board of Education of New York City. Members of the Board of Education, chaired by the President of the board, served as ''ex officio'' trustees.  For the next four decades, the board members continued to serve as ''ex officio'' trustees of the College of the City of New York and the city's other municipal college, the Normal College of the City of New York.
+
+In 1900, the New York State Legislature created separate boards of trustees for the College of the City of New York and the Normal College, which became Hunter College in 1914.  In 1926, the Legislature established the Board of Higher Education of the City of New York, which assumed supervision of both municipal colleges.
+
+In 1961, the New York State Legislature established the City University of New York, uniting what had become seven municipal colleges at the time: the City College of New York, Hunter College, Brooklyn College, Queens College, Staten Island Community College, Bronx Community College and Queensborough Community College. In 1979, the CUNY Financing and Governance Act was adopted by the State and the Board of Higher Education became the City University of New York Board of Trustees.
+
+Today, the City University is governed by the Board of Trustees composed of 17 members, ten of whom are appointed by the [[Governor of New York]] "with the advice and consent of the senate," and five by the [[Mayor of New York City]] "with the advice and consent of the senate." The final two trustees are ''ex officio'' members. One is the chair of the university's student senate, and the other is non-voting and is the chair of the university's faculty senate. Both the mayoral and gubernatorial appointments to the CUNY Board are required to include at least one resident of each of New York City's five boroughs. Trustees serve seven-year terms, which are renewable for another seven years. The Chancellor is elected by the Board of Trustees, and is the "chief educational and administrative officer" of the City University.
+
+The administrative offices are in mid-town [[Manhattan]].<ref>"[http://www.cuny.edu/about/administration/offices.html Administrative Offices]." City University of New York. Retrieved on May 4, 2010.</ref>
+
+===Chairs of the board===
+{{div col|3}}
+* 1847 Townsend Harris
+* 1848 Robert Kelly
+* 1850 Erastus C. Benedict  
+* 1855 William H. Neilson
+* 1856 Andrew H. Green
+* 1858 William H. Neilson
+* 1859 Richard Warren
+* 1860 William E. Curtis
+* 1864 James M. McLean
+* 1868 Richard L. Larremore
+* 1870 Bernard Smyth
+* 1873 Josiah G. Holland
+* 1874 William H. Neilson
+* 1876 William Wood
+* 1880 Stephen A. Walker
+* 1886 J. Edward Simmons
+* 1890 John L.N. Hunt
+* 1893 Adolph Sanger
+* 1894 Charles H. Knox
+* 1895 Robert Maclay
+* 1897 Charles Bulkley Hubbell
+* 1899 J. Edward Swanstrom / Joseph J. Little
+* 1901 Miles M. O'Brien
+* 1902 Edward Lauterback / Charles C. Burlingham
+* 1903 Henry A. Rogers
+* 1904 Edward M. Shepard 
+* 1905 Henry N. Tifft 
+* 1906 Egerton L. Winthrop, Jr.
+* 1911 Theodore F. Miller
+* 1913 Frederick P. Bellamy / Thomas Winston Churchill
+* 1914 Charles Edward Lydecker 
+* 1915 Paul Fuller
+* 1916 George McAneny / Edward J. McGuire
+* 1919 William G. Willcox
+* 1921 Thomas Winston Churchill
+* 1923 Edward Swann / Edward C. McParlan
+* 1924 Harry P. Swift
+* 1926 Moses J. Strook
+* 1931 Charles H. Tuttle
+* 1932 Mark Eisner
+* 1938 Ordway Tead
+* 1953 Joseph Cavallaro
+* 1957 Gustave G. Rosenberg
+* 1966 Porter R. Chandler
+* 1971 Luis Quero-Chiesa
+* 1974 Alfred A. Giardino
+* 1976 [[Harold M. Jacobs]]
+* 1980 James Murphy
+* 1997 Ann Paolucci
+* 1999 Herman Badillo
+* 2001 Benno Schmidt
+{{Div col end}}
+
+==Public Safety Department==
+{{main|City University of New York Public Safety Department}}
+CUNY has its own public safety force whose duties are to protect and serve all students and faculty members, and enforce all state and city laws at all of CUNY's universities. The force has more than 1000 officers, making it one of the largest public safety forces in New York City.
+
+The Public Safety Department came under heavy criticism, from student groups, after several students protesting tuition increases tried to occupy the lobby of the Baruch College. The occupiers were forcibly removed from the area and several were arrested on November 21, 2011.<ref>{{cite news|first1= Alice |last1= Speri | first2 = Anna M. | last2= Phillips| url= http://cityroom.blogs.nytimes.com/2011/11/21/arrests-in-tuition-protest-at-baruch-college/ | title = CUNY Students Protesting Tuition Increase Clash With Police | newspaper= The New York Times |date= November 21, 2011 }}</ref>
+
+==City University Television (CUNY TV)==
+CUNY also has a cable TV service, [[CUNY TV]] (channel 75 on [[Time Warner Cable|Time Warner]]) which airs tapes of freshman level survey [[distance learning|telecourses]], old and foreign films, and panel discussions in various languages.
+{{Further2|[[CUNY TV]]}}
+
+==City University Film Festival (CUFF)==
+[[CUFF]] is CUNY's official film festival. The festival was founded in 2009 by Hunter College student Daniel Cowen.
+
+==Notable Alumni==
+{{see also|List of Nobel laureates affiliated with the City University of New York}}
+: ''See also sections in each college's article''
+
+CUNY graduates include [[List of Nobel laureates affiliated with the City University of New York|13 Nobel laureates]], a Fields Medalist, a U.S. Secretary of State, a Supreme Court Justice, several New York City mayors, members of Congress, state legislators, scientists and artists.<ref name="The City University of New York"/><ref>{{cite web |url=http://www1.cuny.edu/portal_ur/content/letfreedomring/alumni.php |title=Examples of DISTINGUISHED CUNY ALUMNI'S COMMITMENT TO FREEDOM |work=Let Freedom Ring |publisher=The City University of New York |accessdate=October 27, 2011}}</ref>
+
+<!-- BEGIN COMMENT
+     Although the table is "sortable", please insert names in alphabetical order by last name, grouped by college, so that the list looks nice and alphabetical when the page initially loads. 
+     END COMMENT
+-->
+{| class="wikitable sortable"
+|+ CUNY Notable Alumni<br>
+<small>''The following table is 'sortable'; click on a column heading to re-sort the table by values of that column.''</small>
+! style="text-align: left;" scope="col" | First Name
+! style="text-align: left;" scope="col" | Last Name
+! style="text-align: left;" scope="col" | Grad.
+! style="text-align: left;" scope="col" | College
+! style="text-align: left;" scope="col" | Notable for
+|- style="vertical-align: top;"
+| [[Kenneth Arrow|Kenneth]] || [[Kenneth Arrow|Arrow]] || 1940 || City || American economist and joint winner of the Nobel Prize in Economics
+|- style="vertical-align: top;"
+| [[Robert Aumann|Robert]] || [[Robert Aumann|Aumann]] || 1950 || City || mathematician and winner of the Nobel Prize in Economics
+|- style="vertical-align: top;"
+| [[Herman Badillo|Herman]] || [[Herman Badillo|Badillo]] || 1951 || City || civil rights activist and the first Puerto Rican elected to the U.S. Congress
+|- style="vertical-align: top;"
+| [[Arlene Davila|Arlene]] || [[Arlene Davila|Davila]] || 1996 || City || author and Anthropology and American Studies professor at [[New York University]]
+|- style="vertical-align: top;"
+| [[Jesse Douglas|Jesse]] || [[Jesse Douglas|Douglas]] || 1916 || City || mathematician and winner of one of the first two [[Fields Medal]]s
+|- style="vertical-align: top;"
+| [[Abraham Foxman|Abraham]] || [[Abraham Foxman|Foxman]] || || City || national director, [[Anti-Defamation League]]
+|- style="vertical-align: top;"
+| [[Felix Frankfurter|Felix]] || [[Felix Frankfurter|Frankfurter]] || 1902 || City || U.S. Supreme Court Justice
+|- style="vertical-align: top;"
+| [[Andy Grove|Andy]] || [[Andy Grove|Grove]] || 1960 || City || former chairman and CEO, [[Intel Corporation]]
+|- style="vertical-align: top;"
+| [[Herbert A. Hauptman|Herbert A.]] || [[Herbert A. Hauptman|Hauptman]] || 1937 || City || mathematician and winner of the Nobel Prize in Chemistry
+|- style="vertical-align: top;"
+| [[Leonard Kleinrock|Leonard]] || [[Leonard Kleinrock|Kleinrock]] || 1957 || City || computer scientist, Internet pioneer
+|- style="vertical-align: top;"
+| [[Guillermo Linares|Guillermo]] || [[Guillermo Linares|Linares]] || 1975 || City || New York City Council member, first Dominican-American City Council member and Commissioner of the Mayor's Office of Immigrant Affairs
+|- style="vertical-align: top;"
+| [[Lisa Nakamura|Lisa]] || [[Lisa Nakamura|Nakamura]] || 1993 1996 || City || Director and Professor of the Asian American Studies Program at the Institute of Communication Research at the [[University of Illinois at Urbana–Champaign]]
+|- style="vertical-align: top;"
+| [[Barnett Newman|Barnett]] || [[Barnett Newman|Newman]] || 1927 || City || abstract expressionist artist
+|- style="vertical-align: top;"
+| [[John O'Keefe (neuroscientist)|John]] || [[John O'Keefe (neuroscientist)|O'Keefe]] || || City || 2014 Nobel laureate in Medicine
+|- style="vertical-align: top;"
+| [[Colin Powell|Colin]] || [[Colin Powell|Powell]] || 1958 || City || former [[Chairman of the Joint Chiefs of Staff|Chairman]] or the [[Joint Chiefs of Staff]] and [[United States Secretary of State|Secretary of State]]
+|- style="vertical-align: top;"
+| [[Mario Puzo|Mario]] || [[Mario Puzo|Puzo]] || || City || novelist, [[Academy Award]] winning screenwriter for Best Adapted Screenplay (1972, 1974).
+|- style="vertical-align: top;"
+| [[Faith Ringgold|Faith]] || [[Faith Ringgold|Ringgold]] || 1955 || City || feminist, writer and artist
+|- style="vertical-align: top;"
+| [[A. M. Rosenthal|AM]] || [[A. M. Rosenthal|Rosenthal]] || 1949 || City || former executive editor of ''[[The New York Times]]'' who championed the publication of the [[Pentagon Papers]]; [[Pulitzer Prize]]–winning journalist expelled from [[Poland]] in 1959 for his reporting on the nation's government and society
+|- style="vertical-align: top;"
+| [[Jonas Salk|Jonas]] || [[Jonas Salk|Salk]] || 1934 || City || developed the first [[polio vaccine]]
+|- style="vertical-align: top;"
+| [[Daniel Schorr|Daniel]] || [[Daniel Schorr|Schorr]] || 1939 || City || [[Emmy award]] winning broadcast journalist for [[CBS-TV]] and [[National Public Radio]]
+|- style="vertical-align: top;"
+| [[Bernard Weinraub|Bernard]] || [[Bernard Weinraub|Weinraub]] || || City || American journalist and playwright.
+|- style="vertical-align: top;"
+| [[Egemen Bağış|Egemen]] || [[Egemen Bağış|Bağış]] || || Baruch || Turkish politician, government minister
+|- style="vertical-align: top;"
+| [[Abraham Beame|Abraham]] || [[Abraham Beame|Beame]] || 1928 || Baruch ||Mayor of New York City
+|- style="vertical-align: top;"
+| [[Robin Byrd|Robin]] || [[Robin Byrd|Byrd]] || || Baruch ||host of public access program ''The Robin Byrd Show'' (dropped out)<ref>Morris, Bob. [http://query.nytimes.com/gst/fullpage.html?res=980CEFDB1539F930A15755C0A960958260 "Cable's First Lady Of Explicit"], ''[[The New York Times]]'', June 23, 1996. Accessed December 3, 2007. "At 17, Ms. Byrd got her graduate equivalency diploma and then pursued advertising design at Baruch College but dropped out in her senior year.</ref>
+|- style="vertical-align: top;"
+| [[Fernando Ferrer|Fernando]] || [[Fernando Ferrer|Ferrer]] || || Baruch ||New York City mayoral candidate in 2001 and 2005
+|- style="vertical-align: top;"
+| [[Sidney Harman|Sidney]] || [[Sidney Harman|Harman]] || 1939 || Baruch ||founder and executive chairman of [[Harman Kardon]]
+|- style="vertical-align: top;"
+| [[Marcia A. Karrow|Marcia A.]] || [[Marcia A. Karrow|Karrow]] || || Baruch ||member of [[New Jersey General Assembly]]
+|- style="vertical-align: top;"
+| [[James Lam|James]] || [[James Lam|Lam]] || 1983 || Baruch || author, Risk Management consultant
+|- style="vertical-align: top;"
+| [[Ralph Lauren|Ralph]] || [[Ralph Lauren|Lauren]] || || Baruch ||Chairman and CEO of [[Polo Ralph Lauren]] (dropped out)
+|- style="vertical-align: top;"
+| [[Dolly Lenz|Dolly]] || [[Dolly Lenz|Lenz]] || || Baruch ||New York City real estate agent
+|- style="vertical-align: top;"
+| [[Dennis Levine|Dennis]] || [[Dennis Levine|Levine]] || || Baruch ||prominent player in the Wall Street [[insider trading]] scandals of the mid-1980s
+|- style="vertical-align: top;"
+| [[Jennifer Lopez|Jennifer]] || [[Jennifer Lopez|Lopez]] || || Baruch ||actress, singer, dancer (dropped out)
+|- style="vertical-align: top;"
+| [[Craig A. Stanley|Craig A.]] || [[Craig A. Stanley|Stanley]] || || Baruch ||member of [[New Jersey General Assembly]] since 1996.<ref name=NJLEG>[http://www.njleg.state.nj.us/members/Stanley.asp Assemblyman Stanley's Legislative Website]. Accessed August 27, 2007.</ref>
+|- style="vertical-align: top;"
+| || [[Tarkan (singer)|Tarkan]] || || Baruch ||Turkish language singer
+|- style="vertical-align: top;"
+| [[Bella Abzug|Bella]] || [[Bella Abzug|Abzug]] || 1942 || Hunter || feminist; political activist; U.S. Representative, 1971–1977
+|- style="vertical-align: top;"
+| [[Carmen Beauchamp Ciparick|Carmen Beauchamp]] || [[Carmen Beauchamp Ciparick|Ciparick]] || 1963 || Hunter || First Hispanic woman named to the [[New York State Court of Appeals]]
+|- style="vertical-align: top;"
+| [[Robert R. Davila|Robert R.]] || [[Robert R. Davila|Davila]] || 1965 || Hunter || President of [[Gallaudet University]] and advocate for the rights of the hearing impaired
+|- style="vertical-align: top;"
+| [[Ruby Dee|Ruby]] || [[Ruby Dee|Dee]] || 1945 || Hunter || Emmy-nominated actress and civil rights activist
+|- style="vertical-align: top;"
+| [[Martin Garbus|Martin]] || [[Martin Garbus|Garbus]] || 1955 || Hunter || [[First Amendment to the United States Constitution|First amendment]] attorney
+|- style="vertical-align: top;"
+| [[Florence Howe|Florence]] || [[Florence Howe|Howe]] || 1950 || Hunter || founder of women's studies and founder/publisher of the Feminist Press/CUNY
+|- style="vertical-align: top;"
+| [[Audre Lorde|Audre]] || [[Audre Lorde|Lorde]] || 1959 || Hunter || African-American lesbian poet, essayist, educator and activist
+|- style="vertical-align: top;"
+| [[Mohamed Mahmoud Ould Mohamedou|Mohamed Mahmoud Ould]] || [[Mohamed Mahmoud Ould Mohamedou|Mohamedou]] || 1991 || Hunter || former Foreign Minister of [[Mauritania]] and adjunct professor at the [[Graduate Institute of International and Development Studies]] in Geneva.
+|- style="vertical-align: top;"
+| [[Soia Mentschikoff|Soia]] || [[Soia Mentschikoff|Mentschikoff]] || 1934 || Hunter || first woman partner of a major law firm; first woman elected president of the [[Association of American Law Schools]]
+|- style="vertical-align: top;"
+| [[Thomas J. Murphy, Jr.|Thomas J., Jr.]] || [[Thomas J. Murphy, Jr.|Murphy]] || 1973 || Hunter ||three-term mayor of [[Pittsburgh, Pennsylvania]], 1994–2006
+|- style="vertical-align: top;"
+| [[Pauli Murray|Pauli]] || [[Pauli Murray|Murray]] || 1933 || Hunter || first African-American woman named an Episcopal priest; human rights activist; lawyer and co-founder of N.O.W
+|- style="vertical-align: top;"
+| [[Edward Thomas Brady|Edward Thomas]] || [[Edward Thomas Brady|Brady]] || || John Jay || (MA), trial attorney and former Associate Justice of the [[North Carolina Supreme Court|Supreme Court of North Carolina]]
+|- style="vertical-align: top;"
+| [[Jennings Michael Burch|Jennings Michael]] || [[Jennings Michael Burch|Burch]] || || John Jay || author of the 1984 best-selling memoir "They Cage the Animals at Night"
+|- style="vertical-align: top;"
+| [[Marcos Crespo|Marcos]] || [[Marcos Crespo|Crespo]] || || John Jay || (BA), [[New York State Assembly]]man representing district 85<ref>{{cite web|title=New York State Assemblymember Marcos A. Crespo|url=http://assembly.state.ny.us/mem/Marcos-A-Crespo/|publisher=New York State Assembly|accessdate=February 11, 2013}}</ref>
+|- style="vertical-align: top;"
+| [[Edward A. Flynn|Edward A.]] || [[Edward A. Flynn|Flynn]] || || John Jay || Chief of the [[Milwaukee Police Department]]
+|- style="vertical-align: top;"
+| [[Petri Hawkins-Byrd|Petri]] || [[Petri Hawkins-Byrd|Hawkins-Byrd]] || 1989 || John Jay || ''[[Judge Judy]]'' bailiff
+|- style="vertical-align: top;"
+| [[Henry Lee (forensic scientist)|Henry]] || [[Henry Lee (forensic scientist)|Lee]] || 1972 || John Jay || forensic scientist and founder of the [[University of New Haven#Henry C. Lee Institute of Forensic Science|Henry C. Lee Institute of Forensic Science]]
+|- style="vertical-align: top;"
+| [[Miguel Martinez (politician)|Miguel]] || [[Miguel Martinez (politician)|Martinez]] || || John Jay ||(BS), former member of the [[New York City Council]] representing the 10th District in upper [[Manhattan]]'s [[Washington Heights, Manhattan|Washington Heights]], [[Inwood, Manhattan|Inwood]], and [[Marble Hill, Manhattan|Marble Hill]] areas until his resignation on July 14, 2009
+|- style="vertical-align: top;"
+| [[Eva Norvind|Eva]] || [[Eva Norvind|Norvind]] || || John Jay ||(MA), actor and director
+|- style="vertical-align: top;"
+| [[Pauley Perrette|Pauley]] || [[Pauley Perrette|Perrette]] || || John Jay || actor best known for her role as Abby Scuito on [[NCIS (TV show)|NCIS]]
+|- style="vertical-align: top;"
+| [[Ronald Rice|Ronald]] || [[Ronald Rice|Rice]] || || John Jay || [[New Jersey]] State [[New Jersey Senate|Senator]]
+|- style="vertical-align: top;"
+| [[Ariel Rios|Ariel]] || [[Ariel Rios|Rios]] || || John Jay || undercover special agent for the United States [[Bureau of Alcohol, Tobacco, Firearms and Explosives]] (ATF), killed in the line of duty
+|- style="vertical-align: top;"
+| [[Murder of Imette St. Guillen|Imette]] || [[Murder of Imette St. Guillen|St. Guillen]] || || John Jay || a criminal justice graduate student murdered in February 2006. A scholarship was created in her name
+|- style="vertical-align: top;"
+| [[Scott Stringer|Scott]] || [[Scott Stringer|Stringer]] || || John Jay || [[New York City Comptroller|Comptroller]], former [[Borough president]] of [[Manhattan]], and former member of the [[New York State Assembly]]
+|- style="vertical-align: top;"
+| [[Dorothy Uhnak|Dorothy]] || [[Dorothy Uhnak|Uhnak]] || || John Jay ||(BA), novelist and detective for the [[New York City Transit Police|New York City Transit Police Department]]
+|- style="vertical-align: top;"
+| [[Bill Baird (activist)|Bill]] || [[Bill Baird (activist)|Baird]] || 1955 || Brooklyn || reproductive rights activist and co-director of the Pro Choice League
+|- style="vertical-align: top;"
+| [[Barbara Levy Boxer|Barbara Levy]] || [[Barbara Levy Boxer|Boxer]] || 1962 || Brooklyn || anti-war activist, environmentalist, U.S. Representative, 1982–1993, and U.S. Senator
+|- style="vertical-align: top;"
+| [[Shirley Chisholm|Shirley]] || [[Shirley Chisholm|Chisholm]] || 1946 || Brooklyn || first African- American U.S. Congresswoman, 1968–1982. Candidate for U.S. President, 1972
+|- style="vertical-align: top;"
+| [[Bruce Chizen|Bruce]] || [[Bruce Chizen|Chizen]] || 1978 || Brooklyn || President & CEO, [[Adobe Systems]]
+|- style="vertical-align: top;"
+| [[Stanley Cohen (doctor)|Stanley]] || [[Stanley Cohen (doctor)|Cohen]] || 1943 || Brooklyn || biochemist and [[Nobel laureate]] ([[Nobel Prize in Physiology or Medicine|Physiology or Medicine]], 1986
+|- style="vertical-align: top;"
+| [[Alan M. Dershowitz|Alan M.]] || [[Alan M. Dershowitz|Dershowitz]] || 1959 || Brooklyn || [[Harvard Law School]] professor and author
+|- style="vertical-align: top;"
+| [[Jerry Della Femina|Jerry Della]] || [[Jerry Della Femina|Femina]] || 1957 || Brooklyn || Chairman & CEO, Della Femina, Jeary and Partners
+|- style="vertical-align: top;"
+| [[Dan DiDio|Dan]] || [[Dan DiDio|DiDio]] || 1983 || Brooklyn || American comic book editor and executive for [[DC Comics]]
+|- style="vertical-align: top;"
+| [[Benjamin Eisenstadt|Benjamin]] || [[Benjamin Eisenstadt|Eisenstadt]] || 1954 || Brooklyn || creator of [[Sweet'N Low]] and the founder of [[Cumberland Packing Corporation]]
+|- style="vertical-align: top;"
+| [[Sandra Feldman|Sandra]] || [[Sandra Feldman|Feldman]] || 1960 || Brooklyn || President, [[American Federation of Teachers]]
+|- style="vertical-align: top;"
+| [[Gata Kamsky|Gata]] || [[Gata Kamsky|Kamsky]] || 1999 || Brooklyn || [[Grandmaster (chess)|chess grandmaster]] and former US chess champion
+|- style="vertical-align: top;"
+| [[Don Lemon|Don]] || [[Don Lemon|Lemon]] || 1996 || Brooklyn || reporter, [[CNN]]
+|- style="vertical-align: top;"
+| [[Leonard Lopate|Leonard]] || [[Leonard Lopate|Lopate]] || 1967 || Brooklyn || host of the [[Public broadcasting|public radio]] talk show ''[[Leonard Lopate#The Leonard Lopate Show|The Leonard Lopate Show]]'', broadcast on [[WNYC]]
+|- style="vertical-align: top;"
+| [[Frank McCourt|Frank]] || [[Frank McCourt|McCourt]] || 1967 || Brooklyn || [[Pulitzer Prize]]-winning author of ''[[Angela's Ashes]]'' and ''[['Tis]]''
+|- style="vertical-align: top;"
+| [[Marty Markowitz|Marty]] || [[Marty Markowitz|Markowitz]] || 1970 || Brooklyn || Former [[New York State Senate|New York State Senator]]; former [[Brooklyn]] [[Borough President]]
+|- style="vertical-align: top;"
+| [[Paul Mazursky|Paul]] || [[Paul Mazursky|Mazursky]] || 1951 || Brooklyn || film director, writer, producer; actor
+|- style="vertical-align: top;"
+| [[Jerry Moss|Jerry]] || [[Jerry Moss|Moss]] || 1957 || Brooklyn || co-founder of [[A&M Records]]
+|- style="vertical-align: top;"
+| [[Gloria Naylor|Gloria]] || [[Gloria Naylor|Naylor]] || 1981 || Brooklyn || novelist; Winner [[National Book Award]]
+|- style="vertical-align: top;"
+| [[Harvey Pitt|Harvey]] || [[Harvey Pitt|Pitt]] || 1965 || Brooklyn || former Chairman of the [[Securities and Exchange Commission]]
+|- style="vertical-align: top;"
+| [[Barnes & Noble#Steve Riggio, CEO|Steve]] || [[Barnes & Noble#Steve Riggio, CEO|Riggio]] || 1974 || Brooklyn || CEO of [[Barnes & Noble|Barnes & Noble, Inc.]]
+|- style="vertical-align: top;"
+| [[Steve Schirripa|Steve]] || [[Steve Schirripa|Schirripa]] || 1980 || Brooklyn || American actor known for his role as [[Bobby Baccalieri]] on the [[HBO]] TV series ''[[The Sopranos]]''
+|- style="vertical-align: top;"
+| [[Timothy Shortell|Timothy]] || [[Timothy Shortell|Shortell]] || 1992 || Brooklyn || anti-Christian activist
+|- style="vertical-align: top;"
+| [[Jimmy Smits|Jimmy]] || [[Jimmy Smits|Smits]] || 1980 || Brooklyn || [[Emmy Award]]-winning actor; ''[[NYPD Blue]]'' and ''[[L.A. Law]]''
+|- style="vertical-align: top;"
+| [[Benjamin Ward|Benjamin]] || [[Benjamin Ward|Ward]] || 1960 || Brooklyn || first [[African American|black]] [[New York City Police Commissioner]], 1983–1989
+|- style="vertical-align: top;"
+| [[Iris Weinshall|Iris]] || [[Iris Weinshall|Weinshall]] || 1975 || Brooklyn || [[Chancellor (education)|vice chancellor]] at the City University of New York and a former commissioner of the [[New York City Department of Transportation]]
+|- style="vertical-align: top;"
+| [[Jack B. Weinstein|Jack B.]] || [[Jack B. Weinstein|Weinstein]] || 1943 || Brooklyn || Senior Judge, [[United States District Court for the Eastern District of New York]]
+|- style="vertical-align: top;"
+| [[Joy Behar|Joy]] || [[Joy Behar|Behar]]|| || Queens || comedienne, television personality
+|- style="vertical-align: top;"
+| [[Jerry Colonna (financier)|Jerry]] || [[Jerry Colonna (financier)|Colonna]]|| || Queens || Well-known venture capitalist and entrepreneur coach
+|- style="vertical-align: top;"
+| [[Joseph Crowley|Joseph]] || [[Joseph Crowley|Crowley]]|| || Queens || member of the [[US House of Representatives]]
+|- style="vertical-align: top;"
+| [[Alan Hevesi|Alan]] || [[Alan Hevesi|Hevesi]]|| || Queens || former [[New York State Comptroller]], former New York State Assemblyman, former Queens College professor
+|- style="vertical-align: top;"
+| [[Cheryl Lehman|Cheryl]] || [[Cheryl Lehman|Lehman]]|| 1975 || Queens || Professor of Accounting, [[Hofstra University]]
+|- style="vertical-align: top;"
+| [[Ruth Madoff|Ruth]] || [[Ruth Madoff|Madoff]]|| || Queens || wife of [[Bernard L. Madoff]]
+|- style="vertical-align: top;"
+| [[Helen Marshall|Helen]] || [[Helen Marshall|Marshall]]|| || Queens || [[Queens]] [[Borough President]]
+|- style="vertical-align: top;"
+| [[Donna Orender|Donna]] || [[Donna Orender|Orender]]|| || Queens || [[WNBA]] president
+|- style="vertical-align: top;"
+| [[Jerry Seinfeld|Jerry]] || [[Jerry Seinfeld|Seinfeld]]|| || Queens || actor and comedian
+|- style="vertical-align: top;"
+| [[Charles Wang|Charles]] || [[Charles Wang|Wang]]|| || Queens || founder of [[Computer Associates]], owner of the [[New York Islanders]]
+|- style="vertical-align: top;"
+| [[Carl Andrews|Carl]] || [[Carl Andrews|Andrews]] || || Medgar Evers || New York State Senator
+|- style="vertical-align: top;"
+| [[Yvette Clarke|Yvette]] || [[Yvette Clarke|Clarke]] || || Medgar Evers || Congresswoman, member of the United States House of Representatives from New York's [[New York's 11th congressional district|11th]] and [[New York's 9th congressional district|9th congressional district]]s
+|}
+
+==See also==
+{{Portal|New York City|University}}
+* [[City University of New York Athletic Conference]]
+* [[CUNY Academic Commons]]
+* [http://academicworks.cuny.edu/ CUNY Academic Works], CUNY's open access institutional repository
+* [[Education in New York City]]
+* [[Guide Association]]
+* [[State University of New York]] (SUNY) system. 
+* [[The William E. Macaualay Honors College]]
+
+==Notes==
+{{Reflist|2}}
+{{distinguish2|the University of the City of New York, now known as [[New York University]]}}
+{{other uses|University of New York (disambiguation)}}
+
+==External links==
+{{Commons category}}
+* {{Official website|http://www.cuny.edu}}
+* {{Cite Collier's|wstitle=New York, College of the City of |short=x}} <!-- Wikipedia applies this name to an early version of NYU, but CCNY is the topic here -->
+
+{{CUNY}}
+{{New York City Government}}
+{{NYC Colleges}}
+
+<!--Organizations, and not Educational Institutions because this isn't an individual college.-->
+
+{{DEFAULTSORT:City University Of New York}}
+[[Category:Association of Public and Land-Grant Universities]]
+[[Category:City University of New York]]
+[[Category:Educational institutions established in 1961]]
+[[Category:1961 establishments in New York]]

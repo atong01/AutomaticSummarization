@@ -1,0 +1,350 @@
+{{redirect|LM Ericsson|the founder of the company|Lars Magnus Ericsson}}
+{{Use mdy dates|date=February 2012}}
+{{Infobox company
+| name      =  Telefonaktiebolaget L. M. Ericsson
+| logo      = [[Image:Ericsson logo.svg|200px]]
+| type      = [[Public company|Publicly traded]] [[Aktiebolag]]
+| traded_as =  {{OMX|SSE100|ERIC-A}}<br/>{{OMX|SSE101|ERIC-B}}<br/>{{NASDAQ|ERIC}}
+| foundation        =  Stockholm, Sweden<br />({{start date and age|1876}})
+| founder           = [[Lars Magnus Ericsson]]
+| location          = [[Kista]], Stockholm, Sweden
+| area_served       =  Worldwide 
+| key_people        = [[Leif Johansson (businessman)|Leif Johansson]]<br/>{{small|(Chairman)}}<br />[[Hans Vestberg]]<br/>{{small|(President and CEO)}}
+| industry          =  {{nowrap|[[Telecommunications equipment]]}} 
+| products          = [[Cellular network|Mobile]] and [[Broadband networks|fixed broadband networks]], [[Consultant|consultancy]] and [[managed services]], [[Tv|TV]] and [[multimedia]] technology
+| revenue           = [[Swedish krona|SEK]] 227.4 billion <small>(2014)</small><ref name="AR2011">{{cite web |url = http://www.ericsson.com/thecompany/investors/financial_reports/2013/annual13/sites/default/files/download/pdf/EN_-_Ericsson_AR2013.pdf |title= Living in the Networked Society: Annual Report 2013}}</ref>
+| operating_income  =  SEK 16.8 billion <small>(2014)</small><ref name="AR2011"/>
+| net_income        =  SEK 11,1 billion <small>(2014)</small><ref name="AR2011"/>
+| assets            =  SEK 293,6 billion <small>(2014)</small><ref name="AR2011"/>
+| equity            =  SEK 145,3 billion <small>(2014)</small><ref name="AR2011"/>
+| num_employees     =  118,055 (December 2014)<ref>{{cite web|url=http://www.ericsson.com/thecompany/company_facts/facts_figures|title=Facts & Figures|work=Ericsson.com|accessdate=October 19, 2014}}</ref> 
+| subsid            = [[Ericsson-LG]] (75%)<br/>[[Red Bee Media]]
+| parent            = [[Investor AB]] (5.0%)
+| homepage          =  [http://www.ericsson.com/ Ericsson.com]
+| intl              =  yes
+}}
+
+'''Ericsson''' (''Telefonaktiebolaget L. M. Ericsson'') is a Swedish [[Multinational corporation|multinational]] provider of communication technology and services.  The company's offerings comprise services, software and infrastructure in information and communications technology for telecom operators and other industries, including traditional telecommunications as well as [[Internet Protocol]] (IP) networking equipment, mobile and fixed broadband, operations and business support services, cable TV, IPTV, video systems, and an extensive services operation. Ericsson had a market share of 35% (in 2012) in the 2G/3G/4G mobile network infrastructure market.<ref>[http://www.gartner.com/technology/reprints.do?id=1-1IG35N2&ct=130813&st=sg Gartner, 6 August 2013: Magic Quadrant for LTE Network Infrastructure]</ref>
+
+Founded in 1876 by Lars Magnus Ericsson,<ref name=BizHistory>{{cite web|title=Ericsson History|URL=http://www.ericssonhistory.com|author=Center for Business History, Stockholm}}</ref> the company is today headquartered in Stockholm, Sweden. The company employs more than 110,000 people and works with customers in more than 180 countries, including Canada, United States, China, India, Brazil, Pakistan, Japan, South Africa, Australia, Germany, Italy, the UK, and Sweden. Ericsson holds over 37,000 granted patents as of May 2015, including many in the wireless communications field.
+
+==History==
+
+===Foundation===
+
+[[File:Swedish inventor Lars Magnus Ericsson.jpg|thumb|Lars Magnus Ericsson]]
+[[Lars Magnus Ericsson]] began his association with telephones in his youth as an instrument maker. He worked for a firm which made [[telegraph]] equipment for the Swedish government agency [[Televerket (Sweden)|Telegrafverket]]. In 1876, at the age of 30, he started a telegraph repair shop with help from his friend Carl Johan Andersson.  The shop was in central [[Stockholm]] (No.&nbsp;15 on [[Drottninggatan, Stockholm|Drottninggatan]], the principal shopping street) and repaired foreign-made telephones. In 1878 Ericsson began making and selling his own telephone equipment. His phones were not technically innovative, as most of the inventions had already been made in the United States. In 1878 he made an agreement to supply telephones and switchboards to Sweden's first telecom operating company, Stockholms Allmänna Telefonaktiebolag.<ref name="BizHistory"/>
+
+Also in 1878, local telephone importer Numa Peterson hired Ericsson to adjust some telephones from the [[Bell Telephone Company]]. This inspired him to buy a number of [[Siemens AG|Siemens]] telephones and analyze the technology further. (Ericsson had a scholarship at Siemens a few years earlier.) Through his firm's repair work for Telegrafverket and [[Swedish Railways]], he was familiar with Bell and Siemens Halske telephones. He improved these designs to produce a higher-quality instrument. These were used by new telephone companies, such as [[Rikstelefon]], to provide cheaper service than the Bell Group. He had no patent or [[Royalties|royalty]] problems, as Bell had not patented their inventions in Scandinavia. His training as an instrument maker was reflected in the standard of finish and the ornate design of Ericsson phones of this period. At the end of the year he started to manufacture telephones of his own, much in the image of the Siemens telephones, and the first product was finished in 1879.
+
+Ericsson became a major supplier of telephone equipment to [[Scandinavia]]. Because its factory could not keep up with demand, work such as joinery and metal-plating was contracted out. Much of its raw materials were imported, so in the following decades Ericsson bought into a number of firms to ensure supplies of essentials like [[brass]], [[wire]], [[ebonite]], and [[magnet]] steel. Much of the [[walnut]] used for cabinets was imported from the United States.
+
+As Stockholm's telephone network expanded that year, the company reformed into a telephone manufacturing company. But when Bell bought the biggest telephone network in [[Stockholm]], it only allowed its own telephones to be used with it. So Ericsson's equipment sold mainly to free telephone associations in the Swedish countryside and in the other [[Nordic countries]].
+
+The prices of Bell equipment and services led Henrik Tore Cedergren to form an independent telephone company in 1883 called ''Stockholms Allmänna Telefonaktiebolag''. As Bell would not deliver equipment to competitors, he formed a pact with Ericsson, which was to supply the equipment for his new telephone network. In 1918 the companies were merged into ''Allmänna Telefonaktiebolaget LM Ericsson''.
+
+In 1884, a multiple-[[Telephone switchboard|switchboard]] manual [[telephone exchange]] was more or less copied from a design by C.&nbsp;E. Scribner at [[Western Electric]]. This was legal, as the device was not patented in Sweden, although in the United States it had held [[patent]] 529421 since 1879. A single switchboard could handle up to 10,000 lines. The following year, LM Ericsson and Cedergren toured the United States, visiting several telephone exchange stations to gather "inspiration". They found that U.S. engineers were well ahead in switchboard design but Ericsson telephones were as good as any available.
+
+In 1884, a technician named Anton Avén at ''Stockholms Allmänna Telefonaktiebolag'' had combined the earpiece and the mouthpiece of a (by then) standard telephone into a handset. It was used by operators in the exchanges that needed to have one hand free when talking to their customers. Ericsson picked up this invention and incorporated it into Ericsson products, beginning with a telephone named ''The [[Telephone magneto|Dachshund]]''
+
+===International expansion===
+
+[[File:Thinktank Birmingham - object 1961S01536.00001(1).jpg|thumb|An early, wooden, Ericsson telephone, made by the Ericsson Telephone Co. Ltd., of [[Nottingham]], England, it is now in the collection of [[Thinktank, Birmingham Science Museum]]. ]]
+
+As production grew in the late 1890s, and the Swedish market seemed to be reaching saturation, Ericsson was able to expand into foreign markets through a number of agents. Britain and Russia were early markets. This eventually led to the establishment of factories in these countries. This was partly to improve chances of gaining local contracts, and partly because the Swedish factory could not keep up supply. In Britain, the [[National Telephone Company]] had been supplied with Ericsson equipment for some time and was a major customer. By 1897, Britain was accounting for 28% of Ericsson's sales. Other Nordic countries had become Ericsson customers as well, spurred by the growth of telephone services in Sweden.<ref name="BizHistory"/>
+
+Other countries and colonies were exposed to Ericsson products through the influence of their parent countries. These included Australia and New Zealand, which by the late 1890s were Ericsson's largest non-European market. With [[mass production]] techniques now firmly established, the phones were losing some of their ornate finish and decoration.
+
+Despite their successes elsewhere, Ericsson did not make significant sales into the United States. The Bell Group and local companies like [[KBR (company)|Kellogg]] and [[Automatic Electric]] had this market tied up. Ericsson eventually sold its U.S. assets. Sales in Mexico led to further development into South American countries. South Africa and China were also generating significant sales. With his company now [[Multinational corporation|multinational]], Lars Ericsson stepped down from the company in 1901.
+
+===Automatic equipment===
+
+[[Image:Ericsson telefonplan 20050902 001.jpg|thumb|right|250px|LM Ericsson's former headquarters at [[Telefonplan]] in [[Stockholm]], see LM Ericsson building.]] Ericsson ignored the growth of [[automatic telephony]] in the United States. Instead it concentrated on squeezing the most sales out of manual exchange designs. Their first dial phone was produced in 1921, although sales of the early automatic switching systems were slow until the equipment had proved itself on the world's markets. Phones of this period were characterized by a simpler design and finish, and many of the early automatic desk phones in Ericsson's catalogues were simply the proven magneto styles with a dial stuck on the front and appropriate changes to the electronics. A concession to style was in the elaborate decals (transfers) that decorated the cases.<ref name="BizHistory"/>
+
+[[World War I]], the subsequent [[Great Depression]], and the loss of its Russian assets after the [[Russian Revolution (1917)|Revolution]] slowed the company's development and restricted its sales to countries such as Australia.
+
+===Shareholding changes===
+
+The purchase of other related companies put pressure on Ericsson's finances, and in 1925, Karl Fredric Wincrantz took control of the company by acquiring the majority of the shares. Wincrantz was partly funded by [[Ivar Kreuger]], an international financier. The company was renamed ''Telefon AB LM Ericsson''. At this time, Kreuger started showing interest in the company, being a major owner of Wincrantz holding companies.<ref name="BizHistory"/>
+
+In 1928, Ericsson began issuing "A" and "B" shares, where an "A" share has 1000 votes against a "B" share.  Wincrantz controlled the company by having only a few "A" shares, not a majority of the shares. By issuing a lot of "B" shares, much more money was fed to the company, while maintaining the ''status quo'' of power distribution.
+
+In 1930, a second issue of "B"-shares took place, and Kreuger gained majority control of the company with a mixture of "A" and "B" shares. He bought these shares with money lent by LM Ericsson, with [[collateral (finance)|security]] given in German state [[Bond (finance)|bond]]s.  He then took a loan for his own company [[Kreuger & Toll]] from [[ITT Corporation]] (administered by [[Sosthenes Behn]]), giving parts of LM Ericsson as security, and used its assets and name in a series of international financial dealings that had little to do with [[telephony]].
+
+Ericsson was now being seen as a take over target by ITT, its main international competitor. In 1931 ITT acquired from Kreuger enough shares to have a majority interest in Ericsson. This news was not made public for some time. There was a government imposed limit on foreign [[Shareholder|shareholdings]] in Swedish companies, so for the time being the shares were still listed in Kreuger's name. Kreuger in return was to gain shares in ITT. He stood to make a profit of $11 million on the deal.  When ITT's Behn wanted to cancel this deal in 1932, he discovered that there was no money left in the company, just a large claim on the same Kreuger & Toll that Kreuger had himself lent money to. Kreuger had effectively bought LM Ericsson with its own money.
+
+Kreuger had been using the company as security for loans, and despite his profits, was unable to repay these loans. Ericsson found that they had invested in some very doubtful share deals, whose losses were deemed significant. ITT examined the deal and found that it had been seriously misled about Ericsson's value. ITT asked Kreuger to come to New York City for a conference, but Kreuger did not attend. As word of Kreuger's financial position spread, pressure was put on him by the banking institutions to provide security for his loans. ITT canceled the deal to buy Ericsson shares. Kreuger could not repay the $11 million, and committed suicide in Paris in 1932. ITT owned one third of Ericsson, but was forbidden to exercise this ownership because of a paragraph in the company's articles of association stating that no foreign investor was allowed to control more than 20% of the votes.
+
+===Wallenberg era begins===
+
+Ericsson was saved from bankruptcy and closure with the help of banks and some government backing. Marcus Wallenberg Jr negotiated a deal with several Swedish banks to rebuild Ericsson financially. Some of those were [[Stockholms Enskilda Bank]] (which later became the current [[Skandinaviska Enskilda Banken]]) and other Swedish investment banks controlled by the [[Wallenberg family]]. The banks gradually increased their possession of LM Ericsson "A" shares, with ITT still being the single largest shareholder. In 1960, the Wallenberg family struck a deal with ITT to buy its shares in Ericsson, and has since controlled the company.<ref name="BizHistory"/>
+
+===Market development===
+[[File:Ericsson bakelittelefon 1931 sv.jpg|thumb|The Ericsson DBH1001 (1931) was the first combined telephone set with a housing and handset made from Bakelite. The design is attributed to Jean Heiberg.]]
+[[File:Ericsson 1950s bakelite telephone.jpg|thumb|The Ericsson DBH15 telephone, a successor of the DBH 1001 and redesigned in 1947 by Gerard Kiljan.]]
+In the 1920s and 1930s, the world telephone markets were being organized and stabilized by many governments. The fragmented town-by-town systems which had grown up over the years, serviced by many small private companies, were integrated and offered for lease to a single company. Ericsson managed to obtain some leases, which represented further sales of equipment to the growing networks. The other large telephone companies had the same goal
+Ericsson managed to get almost one third of its sales under the control of its [[telephone company|telephone operating companies]].<ref name="BizHistory"/>
+
+Negotiations between the major telephone companies aimed at dividing up the world between them, but the size of ITT made it hard to compete with. Ericsson reduced its involvement in telephone operating companies and went back to manufacturing telephones and [[switchgear]]. The [[Beeston, Nottinghamshire|Beeston]] factory in Britain had been a joint venture between Ericsson and the National Telephone Company. The factory built automatic switching equipment for the GPO under license from Strowger, and exported products to former colonies like South Africa and Australia. The British government divided its equipment contracts between competing manufacturers, but Ericsson's presence and manufacturing facilities in Britain allowed it to get most of the contracts.
+
+Sales drives resumed after the [[Great Depression]], but the company never achieved the market penetration that it had at the turn of the century. Although it still produced a range of phones, switching equipment was becoming a more important part of its range. The distinctive Ericsson styles soon became subdued by the increasing use of [[Ericsson DBH 1001 telephone|Bakelite telephones]] starting in the 1930.
+
+Following the advent of football shirt sponsorship during the 1980s, Ericsson sponsored two English football clubs during the 1990s – [[Brentford F.C.|Brentford]] and [[Queen's Park Rangers F.C.|Queen's Park Rangers]].
+
+===Further development===
+Ericsson introduced the world's first fully automatic mobile telephone system, [[MTD (mobile network)#MTA|MTA]] in 1956.<ref>{{cite web|url=http://www.cellular-news.com/story/19883.php |title=Ericsson Celebrates 50 Years of Mobile Telephony |website=Cellular-news.com |date=2006-10-17 |accessdate=2011-10-09}}</ref> It released one of the world's first handsfree speaker phones in the 1960s. In 1954, it released the [[Ericofon]]. Ericsson [[crossbar switching]] equipment was used in telephone administrations in many countries, and its influence is still felt in such areas as mobile phones.
+
+=== 1995-2003 emergence of the Internet ===
+The emergence of the Internet in the 1990s heralded a new world for telecommunications. Ericsson was seen by some as being slow to realize the potential of the Internet and falling behind in the area of IP technology.<ref>{{cite web|title=The Internet and the New World|url=http://www.ericssonhistory.com/changing-the-world/Big-bang/The-internet-and-the-new-world-/|website=History of Ericsson}}</ref>  But the company had established a project starting in 1995 to chart its path into the internet age, and formed its Infocom Systems business unit to pursue opportunities at the junction of fixed-line telecom and IT. CEO Lars Ramqvist wrote in the 1996 annual report that in all three of its business areas – Mobile Telephones and Terminals, Mobile Systems, and Infocom Systems – “we will expand our operations as they relate to customer service and Internet Protocol (IP) access (Internet and intranet access).”<ref name="ericsson.com">{{cite web|title=Annual Report 1996|website=Ericsson|url=http://www.ericsson.com/res/investors/docs/annual-reports-1970-2002/AnnualReport1996.pdf|}}</ref>
+
+The continuing growth of GSM, which was becoming a de facto world standard, combined with Ericsson’s strength in other mobile standards, such as [[D-AMPS]] and [[Personal Digital Cellular|PDC]], meant that by the start of 1997, Ericsson had an estimated 40 percent share of the world’s mobile market, with around 54 million subscribers. On top of that, there were around 188 million AXE lines in place or on order in 117 countries.<ref name="ericsson.com"/>
+
+Telecom and chip companies worked frantically in the 1990s to provide Internet access over mobile telephones. Early versions such as WAP (Wireless Application Protocol) used packet data over the existing GSM network, in a form known as GPRS (General Packet Radio Service), but these services, known as 2.5G, were fairly rudimentary and did not achieve much mass-market success.
+
+The International Telecommunication Union (ITU) had prepared the specifications for a 3G mobile service that included several different technologies. Ericsson pushed hard for the WCDMA (wideband CDMA) form, based on the GSM standard, and began testing the technology in 1996. Japanese operator NTT DOCOMO signed deals to partner with Ericsson and Nokia, who joined forces in 1997 to support WCDMA over rival standards. DOCOMO would eventually become the first operator with a live 3G network, using its own version of WCDMA, called FOMA. But while Ericsson championed the development of the WCDMA version of GSM, rival American chip developer Qualcomm pursued and promoted alternatives known as cdma2000, building on the popularity of CDMA in the US market. A vicious patent battle was eventually resolved in March 1999<ref>{{cite web|title=Ericsson/Qualcomm bitter feud ends|date=March 29, 1999|first=Nancy|last=Gohring|url=http://connectedplanetonline.com/mag/telecom_ericssonqualcomm_bitter_feud/|website=Connected Planet|archiveurl=https://web.archive.org/web/20140109040128/http://connectedplanetonline.com/mag/telecom_ericssonqualcomm_bitter_feud|archivedate=9 January 2014}}</ref>  when the two bitter rivals agreed to pay each other royalties for use of their respective technologies, and Ericsson purchased Qualcomm’s wireless infrastructure business and some R&D resources.<ref>{{cite news|title=Short Take: Qualcomm, Ericsson finalize CDMA agreement |url=http://news.cnet.com/Short-Take-Qualcomm,-Ericsson-finalize-CDMA-agreement/2110-1033_3-226260.html |work=[[CNET]] |deadurl=yes |archiveurl=https://web.archive.org/20140714180638/http://news.cnet.com/Short-Take-Qualcomm,-Ericsson-finalize-CDMA-agreement/2110-1033_3-226260.html |archivedate=14 July 2014 }}</ref>
+
+Once the Qualcomm conflict was settled, Ericsson continued to ride the wave of interest in mobile Internet. It announced a partnership with Microsoft to combine the software giant’s web browser and server software with Ericsson’s mobile Internet technologies,<ref>{{cite web|title=Microsoft, Ericsson announce strategic partnership to drive mobile Internet market|url=http://www.mobic.com/oldnews/9912/microsoft.htm|website=Mobic.com}}</ref> but the subsequent joint venture was dissolved in 2001 in the fallout from the Internet and telecom crashes.
+
+Ericsson, like all other companies in the field, got caught up in the frenzy of the IT/telecoms bubble in the late 1990s. The company’s market value increased by an order of magnitude, with the share price peaking at SEK 825 in March 2000, up from a low of SEK 20 at the start of the 1990s.<ref>{{cite web|title=Shareholder Information {{ndash}} Share Graphs and Figures|url=http://www.ericsson.com/thecompany/investors/shareholder-information/share-graphs|website=Ericsson}}</ref>
+
+Lars Ramqvist stepped down as CEO in January 1998, going on to become chairperson of the board. Sven-Christer Nilsson took over as CEO in early 1998, and led the company in a much clearer IP direction, with acquisitions including a significant share in US router company Juniper.<ref>{{cite news|title=Ericsson Stake in Juniper|date=March 18, 1999|url=http://www.nytimes.com/1999/03/18/business/ericsson-stake-in-juniper.html|work=The New York Times}}</ref>
+
+As well as networks, Ericsson had become a leading player in the production of mobile phones, sharing top place with Nokia and Motorola during 1997.<ref>{{cite web|title=Problems with Mobile Phones|url=http://www.ericssonhistory.com/changing-the-world/Big-bang/Problems-with-mobile-phones-/|website=History of Ericsson}}</ref>
+
+Services were also becoming increasingly important. Ericsson had offered network rollout services for many years, and had even operated networks, but at the end of the 1990s, the services operations were amalgamated for the first time into a services unit.
+
+In June 1999, Kurt Hellström, the head of Ericsson’s mobile division, replaced Nilsson as CEO.  Worldwide hype around the potential of the internet – and for Ericsson in particular, the mobile internet – had inflated industry expectations.  Operators in many major countries, such as the US, the UK and Germany, used much of their capital bidding for 3G licenses, and could not afford the new networks required to use the spectrum they had spent so much money acquiring. The order intake that Ericsson and other telecom vendors had expected, and invested in preparing for, was devastatingly disappointing, causing wave after wave of job losses and consolidations across the industry.
+
+Ericsson issued a profit warning in March 2001. Over the coming year, sales to operators would fall by around half.<ref>{{cite web|title=Crisis|url=http://www.ericssonhistory.com/changing-the-world/Big-bang/Crisis/|website=History of Ericsson}}</ref>
+
+Mobile phones, once seen as a promising business area, became a burden, with the phones unit making a loss of SEK 24 million in 2000. A fire in a Philips chip factory in New Mexico in March 2000 caused severe disruption to Ericsson’s phone production,<ref>{{cite web|title=The Fire That Changed an Industry: A Case Study on Thriving in a Networked World|date=October 1, 2008|first=Amit S.|last=Mukherjee|url=http://www.ftpress.com/articles/article.aspx?p=1244469|website=FT Press}}</ref> dealing a ''coup de grâce'' to Ericsson’s mobile phone hopes. Mobile phones would be spun off into a joint venture with Sony, Sony Ericsson Mobile Communications, in October 2001.<ref>{{cite web|title=http://news.cision.com/ericsson/r/sony-ericsson-mobile-communications-established-today,c48602|url=http://news.cision.com/ericsson/r/sony-ericsson-mobile-communications-established-today,c48602|website=http://news.cision.com/ericsson/r/sony-ericsson-mobile-communications-established-today,c48602}}</ref>
+
+Ericsson launched several rounds of restructuring and refinancing. Job losses were enormous: during 2001, staff numbers fell from 107,000 to 85,000.<ref>{{cite web|title=http://www.ericssonhistory.com/changing-the-world/Big-bang/The-first-cutbacks/|url=http://www.ericssonhistory.com/changing-the-world/Big-bang/The-first-cutbacks/|website=http://www.ericssonhistory.com/changing-the-world/Big-bang/The-first-cutbacks/}}</ref> A further 20,000 went the next year,<ref>{{cite web|title=http://www.ericssonhistory.com/changing-the-world/Big-bang/Second-round-of-cuts-/|url=http://www.ericssonhistory.com/changing-the-world/Big-bang/Second-round-of-cuts-/|website=http://www.ericssonhistory.com/changing-the-world/Big-bang/Second-round-of-cuts-/}}</ref> and 11,000 more in 2003.<ref>{{cite web|title=http://www.ericssonhistory.com/changing-the-world/Big-bang/A-new-chairman-of-the-board/|url=http://www.ericssonhistory.com/changing-the-world/Big-bang/A-new-chairman-of-the-board/|website=http://www.ericssonhistory.com/changing-the-world/Big-bang/A-new-chairman-of-the-board/}}</ref> A new rights issue raised SEK 30 billion to keep the company afloat.
+
+The company had come back from the brink, just as mobile Internet really started picking up speed. And with record profits, it was in better shape than many of its competitors.<ref>{{cite web|title=http://www.ericssonhistory.com/changing-the-world/Everyone-on-board/Record-profits/|url=http://www.ericssonhistory.com/changing-the-world/Everyone-on-board/Record-profits/|website=http://www.ericssonhistory.com/changing-the-world/Everyone-on-board/Record-profits/}}</ref>
+
+===2003-2010 rebuilding and growing===
+The emergence of the truly mobile Internet in the wake of the IT and telecoms crashes kicked off an extraordinary period of growth for the global telecom industry and Ericsson in particular. 
+After the launch of 3G services during 2003,<ref>{{cite news|title=http://news.bbc.co.uk/2/hi/business/2856127.stm|url=http://news.bbc.co.uk/2/hi/business/2856127.stm|website=http://news.bbc.co.uk/2/hi/business/2856127.stm | first=Rebecca|last=Pike|date=March 17, 2003}}</ref><ref>{{cite news|title=http://news.bbc.co.uk/2/hi/technology/2808761.stm|url=http://news.bbc.co.uk/2/hi/technology/2808761.stm|website=http://news.bbc.co.uk/2/hi/technology/2808761.stm | date=March 3, 2003}}</ref> people were starting to access the Internet using their phones, and liking it.
+
+Ericsson’s position as a supplier of GSM equipment to many major operators, and its role as a pioneer in the emerging 3G standards and associated technology, placed it at the forefront of many of the changes to come. And the cutbacks that followed 10 consecutive quarters of losses meant that a slimmed-down Ericsson could return to profit in Q3 2003, and begin to grow again. 
+After announcing in 2003 that it had turned the corner, new CEO Carl-Henric Svanberg said the company was to concentrate on operational excellence, a wide-ranging push for efficiency and better return on investment that was to dominate Ericsson’s corporate culture for several years.{{citation needed|date=July 2014}}
+
+Among the cutbacks, Ericsson had pared down its CDMA organization. This standard, used largely in North America, Japan and mainland Asia, was a rival to GSM, and Ericsson had a global market share of 25%, but the overall volumes were too low, so Ericsson wound down its CDMA commitment, ending it completely by 2006.
+
+With a healthier balance sheet, Ericsson was able to start a series of acquisitions to strengthen its position in key technologies and market segments. The first of these was Marconi, a company which dated back to the dawn of radio, which brought assets including a strong portfolio in transmission, fiber optic and fixed network services.  Further acquisitions included Redback Networks (carrier edge-routers),  Entrisphere (fiber) and LHS (customer care services) in 2007, and Tandberg Television in 2008. It sold its enterprise PBX division to Aastra Technologies that same year.  Ericsson reentered the CDMA market after acquiring North American vendor Nortel’s CDMA operations and assets in 2009.
+
+The acquisitions followed Ericsson’s general strategy of expanding into next-generation network technologies and multimedia, a combined offering that would become even more important as video became the dominant form of data traffic on mobile broadband networks. Ericsson created a division to develop its multimedia business in early 2007.
+
+Even as operators were buying and rolling out WCDMA, the first generation of 3G access, Ericsson was working on ways to improve it.  New advances included IMS (IP Multimedia Subsystem) and the next evolution of WCDMA, called High-Speed Packet Access (HSPA). Initially deployed in the download version called HSDPA, the technology spread dramatically from the first test calls in the US in late 2005<ref>{{cite web|title=http://www.phonescoop.com/articles/article.php?a=1050|url=http://www.phonescoop.com/articles/article.php?a=1050|website=http://www.phonescoop.com/articles/article.php?a=1050}}</ref> to 59 commercial networks in September 2006.<ref>{{cite web|title=http://www.ericsson.com/ericsson/corpinfo/publications/review/2006_03/06.shtml|url=http://www.ericsson.com/ericsson/corpinfo/publications/review/2006_03/06.shtml|website=http://www.ericsson.com/ericsson/corpinfo/publications/review/2006_03/06.shtml}}</ref> HSPA would provide the world’s first real taste of mobile broadband.
+
+===Acquisitions, expansion, consolidation and cooperation===
+Around the start of the 21st century, companies and governments began to push for standards for the emerging mobile Internet. In May 2000, the [[European Commission]] created the [[Wireless Strategic Initiative]],<ref>{{cite web|url= ftp://ftp.cordis.europa.eu/pub/ist/docs/ka4/mob_wsi.pdf |title= WSI (Wireless Strategic Initiative)|publisher=Ericsson.se|date=2000-05-01}}</ref> a consortium of four telecommunications suppliers in Europe – Ericsson, [[Nokia]], [[Alcatel]] (France), and [[Siemens AG]] (Germany) – to develop and test new prototypes for advanced wireless communications systems. Later that year, the consortium partners invited other companies to join them in a [[Wireless World Research Forum]] in 2001.
+
+In December 1999 [[Microsoft]] and Ericsson announced<ref>{{cite web|url= http://www.microsoft.com/en-us/news/features/1999/12-08ericsson.aspx|title= Microsoft, Ericsson Team Up to Bring Information Anytime, Anywhere, to Carriers and Consumers|publisher=Microsoft.com|date= 1999-12-08 |accessdate=2012-06-20}}</ref> a [[strategic partnership]] to combine the former's web browser and server software with the latter's mobile-internet technologies.
+
+In 2000, the [[Dot-com bubble|information technology bubble]] burst with marked [[Economy of Sweden|economic implications for Sweden]]. Ericsson, the world's largest producer of mobile telecommunications equipment, shed thousands of jobs, as did the country's Internet consulting firms and [[dot-com start-up]]s. In the same year, [[Intel]], the world's largest semiconductor chip manufacturer, signed a $1.5 billion deal to supply [[flash memory]] to Ericsson over the next three years.<ref>{{cite web|url=http://news.cnet.com/Intel-scores-flash-memory-deal-with-Ericsson/2100-1001_3-236518.html|title=Intel scores flash memory deal with Ericsson |publisher=cnet.com|date=2000-02-04 |accessdate=2012-06-20}}</ref>
+
+The short-lived joint venture called '''Ericsson Microsoft Mobile Venture AB''', owned 70/30 percent by Ericsson and Microsoft, respectively, ended in October 2001 when Ericsson announced<ref>{{cite web|url= http://www.itworld.com/IDG011005MicrosoftMobileJV|title= Microsoft pulls out of mobile JV with Ericsson|publisher=Itworld.com|date= October 5, 2001|accessdate=2012-06-20}}</ref> that it would absorb the former joint venture and adopt a licensing agreement with Microsoft instead. That same month, Ericsson announced the launch of [[Sony Mobile Communications|Sony Ericsson]], a joint venture mobile-phone business, together with [[Sony]] Corporation.<ref>{{cite web|url=http://www.ericsson.com/press/20011001-1121.html |publisher=Ericsson.com |title=Ericsson – press release Sony Ericsson Mobile Communications established today |date=October 1, 2001 |accessdate=2012-06-20 |deadurl=yes |archiveurl=https://web.archive.org/20120404035029/http://www.ericsson.com/press/20011001-1121.html |archivedate=4 April 2012 }}</ref> Sony Ericsson remained in operation until February 2012, when Sony bought out Ericsson's share, Ericsson stating that it wanted to focus on the global wireless market as a whole.<ref>{{cite web|url=http://www.ericsson.com/news/1558488| title= Sony to acquire Ericsson's share of Sony Ericsson– Press release|publisher= Ericsson.com|date= Oct 27, 2011|accessdate=2012-07-20}}</ref><ref>{{cite web|url=http://www.sonymobile.com/cws/corporate/press/pressreleases/pressreleasedetails/sonycompletesfullacquisitionofsonyericsson-20120216 |title=Sony Completes Full Acquisition of Sony Ericsson – Press release |publisher=Sonymobile.com |date=16 February 2012 |accessdate=2012-07-20 |deadurl=yes |archiveurl=https://web.archive.org/20130526085452/http://www.sonymobile.com/cws/corporate/press/pressreleases/pressreleasedetails/sonycompletesfullacquisitionofsonyericsson-20120216 |archivedate=26 May 2013 }}</ref>
+
+Lower stock prices and job losses affected many telecommunications companies in 2001. The major equipment manufacturers – [[Motorola]] (U.S.), [[Lucent Technologies]] (U.S.), [[Cisco Systems]] (U.S.), [[telent plc|Marconi]] (UK), [[Siemens AG]] (Germany), [[Nokia]] (Finland), as well as Ericsson – all announced job cuts both in their home countries and in subsidiaries around the world. The number of jobs at Ericsson worldwide fell during 2001 from 107,000 to 85,000.<ref>{{cite web|url= http://ericssonhistory.com/templates/Ericsson/EricssonBook/Article.aspx?id=3926&epslanguage=EN| title= Changing the World, P202, Svenolof Karlsson and Anders Lugn, Centre for Business History |publisher=Ericssonhistory.com|accessdate=2012-06-21}}{{dead link|date=October 2014}}</ref>
+
+In September 2001 Ericsson purchased the remaining shares in [[EHPT]] from Hewlett Packard. Founded in 1993 Ericsson Hewlett Packard Telecom [[EHPT]] was a Joint Venture made up of 60% Ericsson interests and 40% Hewlett-Packard interests.
+
+The pain continued into 2002. Investor losses topped $2 trillion and share prices fell by 95% until August that year. More than half a million people lost their jobs in the global telecom industry over the two years.<ref>{{cite web|url= http://www.businessweek.com/magazine/content/02_31/b3794001.htm| title= Inside the Telecom Game - How a small group of insiders made billions as the industry collapsed |publisher=Businessweek.com|date= August 5, 2002 |accessdate=2012-06-21}}</ref> The collapse of U.S. carrier [[WorldCom]], with more than $107 billion in assets, was the biggest in U.S. history.<ref>{{cite news|url= http://money.cnn.com/2002/07/19/news/worldcom_bankruptcy/| title= WorldCom files largest bankruptcy ever |publisher= Money.cnn.com|date= July 22, 2002|accessdate=2012-06-21|first1=Luisa|last1=Beltran}}</ref> The sector's problems brought bankruptcies and job losses, and led to changes in the leadership of a number of major companies. Ericsson made 20,000 more staff redundant and raise about $3 billion from its [[shareholder]]s.<ref>{{cite news|url= http://www.guardian.co.uk/technology/2002/apr/22/mobilephones.marktran| title= Ericsson axes 17,000 jobs|publisher= Guardian.co.uk|date= 22 April 2002|accessdate=2012-06-21|location=London|first=Mark|last=Tran}}</ref>
+
+In June 2002, [[Infineon Technologies AG]] (then the sixth-largest [[semiconductor]] supplier and a subsidiary of [[Siemens AG]]) bought Ericsson’s [[microelectronics]] unit for $400 million.<ref>{{cite web|url= http://www.lightreading.com/document.asp?doc_id=17308| title= Infineon Buys Ericsson Microelectronics |publisher= Lightreading.com|date= June 12, 2002|accessdate=2012-06-21}}</ref>
+
+Co-operation with Hewlett-Packard did not end with [[EHPT]]  and in 2003 Ericsson outsourced its IT to HP, which included Managed Services, Help Desk Support, Data Center Operations, and HP Utility Data Center. The contract was extended in 2008.<ref>{{cite web| url=https://ssl.www8.hp.com/us/en/hp-news/press-release.html?id=172163| title=HP Outsources Ericsson's IT| accessdate=2003| publisher=[[HP]]}}</ref> There have also been a number of joint Ericsson/HP Telecoms outsourcing deals with telecoms operators including H3G and Vodafone.
+
+In October 2005, Ericsson acquired the bulk<ref>{{cite web|url= http://www.infoworld.com/t/networking/ericsson-buy-most-marconi-21b-799| title= Ericsson to buy most of Marconi for $2.1B|publisher= InfoWorld.com|date= October 25, 2005|accessdate=2012-06-21}}</ref> of the troubled British telecommunications manufacturer, the [[Marconi Company]], including its brand name, which dates back to the creation of the original [[Marconi Company]] by the "father of radio" [[Guglielmo Marconi]]. In September 2006, Ericsson sold the greater part of its [[defense contractor|defense]] business [[Ericsson Microwave Systems]], which mainly produced sensor and radar systems, to [[Saab AB]], which renamed the company to [[Saab Microwave Systems]].<ref>{{cite web|url= http://www.defenseindustrydaily.com/saab-acquires-ericsson-microwave-systems-02354/| title= Saab Acquires Ericsson Microwave Systems|publisher= Defense Industry Daily|date= Jun 13, 2006|accessdate=2012-06-21}}</ref> The sale meant that [[Saab Ericsson Space]], previously a joint venture, was now fully owned by Saab. Not included in the sale to Saab was the National Security & Public Safety division, which was transferred to Ericsson with the sale.
+
+In 2007, Ericsson acquired carrier edge-router maker<ref>{{cite web|url= http://www.networkworld.com/news/2006/122006-ericsson-to-buy-redback-for.html| title= Ericsson to buy Redback for $2.1 billion|publisher= Networkworld.com|date= December 20, 2006|accessdate=2012-06-21}}</ref> [[Redback Networks]], and then Entrisphere, a US-based company providing fiber-access technology. In September 2007, Ericsson acquired an 84% interest in German customer-care and billing software firm [[LHS Telekommunikation|LHS]], a stake later raised to 100%.<ref>{{cite web|url= http://www.ericsson.com/news/1387484 | title= All shares in LHS acquired – Press release|publisher= Ericsson.com|date= Feb 20, 2010|accessdate=2012-06-21}}</ref>
+
+In 2008, Ericsson sold its enterprise PBX division<ref>{{cite web|url=http://www.ericsson.com/ericsson/press/releases/20080218-1192670.shtml |title=Ericsson to divest its enterprise PBX solutions to Aastra Technologies – Press Release |publisher=Ericsson.com |date=2008-02-18 |accessdate=2011-10-09}}</ref> to [[Aastra Technologies]], and acquired [[Tandberg Television]], the television technology division<ref>{{cite web|url= http://www.ericsson.com/news/1107685 | title= Ericsson announces cash offer to acquire Tandberg Television– Press release|publisher= Ericsson.com|date= Feb 26, 2007|accessdate=2012-06-21}}</ref> of Norwegian company [[Tandberg]].
+
+In 2009, Ericsson bought the [[CDMA2000]] and [[3GPP Long Term Evolution|LTE]] business<ref>{{cite web|url=http://www.ericsson.com/thecompany/press/releases/2009/07/1330882| title= Ericsson to acquire majority of Nortel's North American wireless business – Press release|publisher= Ericsson.com|date= July 25, 2009|accessdate=2012-06-21}}</ref> of [[Nortel]]’s carrier networks division for USD 1.18 billion; Bizitek, a Turkish business support systems integrator; the Estonian manufacturing operations of electronic manufacturing company [[Elcoteq]]; and completed its acquisition of LHS.<ref>{{cite web|url=http://www.ericsson.com/news/1323236| title= Ericsson to acquire Elcoteq's operations in Tallinn to secure manufacturing capacity in Estonia – Press release|publisher= Ericsson.com|date= Jun 17, 2009|accessdate=2012-06-21}}</ref>
+
+Acquisitions in 2010 included assets from the Strategy and Technology Group of inCode,<ref>{{cite web|url=http://www.ericsson.com/news/1443012| title= Ericsson Expands Strategy and technology consulting capabilities – Press release|publisher= Ericsson.com|date= Sep 7, 2010|accessdate=2012-07-20}}</ref> a North American business and consulting-services company; Nortel’s majority shareholding (50% plus one share) in LG-Nortel, a joint venture between [[LG Electronics]] and Nortel Networks providing sales, R&D and industrial capacity in South Korea, now known as [[LG-Ericsson|Ericsson]]-LG; further Nortel carrier-division assets, relating from Nortel’s GSM business in the United States and Canada; Optimi Corporation, a U.S.–Spanish telecommunications vendor specializing in network optimization and management;<ref>{{cite web|url= http://technews.tmcnet.com/telecommunications/topics/telecommunications/articles/129027-ericsson-takes-ownership-optimi-corporation.htm| title= Ericsson Takes Ownership of Optimi Corporation|publisher= Technews.com|date= December 22, 2010|accessdate=2012-07-20}}</ref> and Pride, a consulting and systems-integration company operating in Italy.
+
+In 2011, Ericsson acquired manufacturing and research facilities and staff from the Guangdong Nortel Telecommunication Equipment Company (GDNT)<ref>{{cite web|url=http://www.ericsson.com/news/1515119| title= Ericsson closes the Acquisition of GDNT, China – Press release|publisher= Ericsson.com|date= May 12, 2011|accessdate=2012-07-20}}</ref> as well as Nortel’s Multiservice Switch business.<ref>{{cite web|url= http://www.cellular-news.com/story/45584.php| title= Ericsson Buys Nortel's Multi Service Switch Businesses|publisher= Cellular-news.com|date= September 25, 2010|accessdate=2012-07-20}}</ref>
+
+It also formed a strategic alliance with [[Akamai Technologies]] to develop and market mobile cloud acceleration services.
+
+Ericsson acquired U.S. company [[Telcordia Technologies]] in January 2012,<ref>{{cite web|url=http://www.ericsson.com/news/1576841| title= Ericsson closes Telcordia acquisition– Press release|publisher= Ericsson.com|date= January 12, 2012|accessdate=2012-07-20}}</ref> operations and business support systems (OSS/BSS) company.<ref>{{cite news|last=Rahn |first=Cornelius |url=http://www.bloomberg.com/news/2011-06-14/ericsson-agrees-to-acquire-telcordia-for-1-15-billion-in-an-all-cash-deal.html |title=Ericsson to Buy Telcordia for $1.2 Billion to Add Services |publisher=Bloomberg |date=2011-06-14 |accessdate=2011-10-09}}</ref> In March, Ericsson announced that it was buying the broadcast-services division of [[Technicolor SA|Technicolor]], a media broadcast technology company. In April 2012 Ericsson completed the acquisition of BelAir Networks a strong Wi-Fi network technology company.
+
+On May 3, 2013, Ericsson announced it would divest its power cable operations to Danish company NKT.<ref>{{cite web|title=http://www.ericsson.com/news/1699030|url=http://www.ericsson.com/news/1699030|website=http://www.ericsson.com/news/1699030}}</ref>
+
+On July 1, 2013, Ericsson announced it would acquire the media management company [[Red Bee Media]], subject to regulatory approval.<ref>{{cite press release|url=http://www.ericsson.com/news/1713075 |title=Ericsson to acquire leading media services company Red Bee Media |publisher=Ericsson |date=2013-07-01 |accessdate=2013-07-01}}</ref> The acquisition was completed on May 9, 2014.<ref>{{cite press release|url=http://www.ericsson.com/thecompany/press/releases/2014/05/1784304 |title=Ericsson completes acquisition of Red Bee Media |publisher=Ericsson |date=2014-05-12 |accessdate=2014-05-15}}</ref>
+
+In September 2013, Ericsson completed its acquisition of Microsoft's Mediaroom business and televisions services, originally announced in April the same year. The acquisition makes Ericsson the largest provider of IPTV and multi-screen services in the world, by market share. [[Ericsson Mediaroom]].<ref>{{cite press release|url=http://www.ericsson.com/news/1727445 |title=Ericsson closes acquisition of Microsoft Mediaroom |publisher=Ericsson |date=2013-09-05 |accessdate=2013-10-03}}</ref>
+
+In September 2014, Ericsson acquired majority stake in Apcera for cloud policy compliance.<ref>{{cite press release|url=http://www.pcworld.com/article/2686932/ericsson-acquires-majority-stake-in-apcera-for-cloud-policy-compliance.html|title=Ericsson acquires majority stake in Apcera for cloud policy compliance|publisher=PCWorld|date=2014-09-22 |accessdate=2014-09-22}}</ref>
+
+==Corporate governance==
+Current members of the board of directors of LM Ericsson are: [[Leif Johansson (businessman)|Leif Johansson]], [[Jacob Wallenberg]], Sverker Martin-Löf, Roxanne S. Austin, [[Peter Bonfield|Sir Peter L. Bonfield]], Börje Ekholm, Ulf J. Johansson, Anders Nyrén, [[Hans Vestberg]], Nora Denzel, Kristin Skogen Lund, Alexander Izosimov, Pehr Claesson, Kristina Davidsson, Karin Åberg, Karin Lennartsson, Rickard Fredriksson, and Roger Svensson.<ref name="boardofdir">{{cite web|url=http://www.ericsson.com/thecompany/corporate_governance/board_of_directors/members_of_the_board |title=Board of Directors |publisher=Ericsson |date= |accessdate=2013-07-01}}</ref>
+
+==Research and development==
+Ericsson has structured its R&D in three different levels depending on when products or technologies will be introduced to customers and users.<ref>{{cite web|title=http://www.ericsson.com/thinkingahead/technology_insights|url=http://www.ericsson.com/thinkingahead/technology_insights|website=http://www.ericsson.com/thinkingahead/technology_insights}}</ref>
+
+Ericsson’s research and development organization is part of Group Function Technology and focuses on nine research areas: wireless access networks; radio access technologies; broadband technologies; packet technologies; multimedia technologies; services and software; EMF safety and sustainability; security and global services.<ref name=research>{{cite web|title=Our research areas|url=http://www.ericsson.com/thecompany/company_facts/research|website=Ericsson}}</ref> These areas cover different parts of the entire network architecture.
+
+Group Function Technology holds research co-operations with several major universities and research institutes all over the world including: Lund University in Sweden, Eötvös Loránd University in Hungary and Beijing Institute of Technology in China.<ref>{{cite web|title=http://www.lunduniversity.lu.se/research-and-innovation/business-and-innovation|url=http://www.lunduniversity.lu.se/research-and-innovation/business-and-innovation|website=http://www.lunduniversity.lu.se/research-and-innovation/business-and-innovation}}</ref> Ericsson also holds research co-operations within several European research programs such as GigaWam and OASE.<ref>{{cite web|title=http://www.ericsson.com/careers/student/rd_program|url=http://www.ericsson.com/careers/student/rd_program|website=http://www.ericsson.com/careers/student/rd_program}}</ref> Ericsson holds in total 33,000 granted patents, and is the number 1 holder of GSM/GPRS/EDGE, WCDMA/HSPA, and LTE essential patents.<ref>{{cite web|title=http://www.ericsson.com/thecompany/company_facts/patents|url=http://www.ericsson.com/thecompany/company_facts/patents|website=http://www.ericsson.com/thecompany/company_facts/patents}}</ref>
+
+==Products and services==
+Ericsson’s business extends from technology research,<ref name=research/> network<ref>{{cite web|title=Self Organizing Networks|author=Ericsson|website=[[YouTube]]|date=October 4, 2012|url=https://www.youtube.com/watch?v=XqJsGt9jU4E}}</ref> and software<ref>{{cite web|title=How Ericsson is a resource for app developers|date=March 12, 2012|first=Roger|last=Cheng|url=http://news.cnet.com/8301-1035_3-57394284-94/how-ericsson-is-a-resource-for-app-developers/|work=[[CNET]]}}</ref> development, all the way through to running and evolving operations.<ref>{{cite news|title=Ericsson’s role in Sprint Spark should not be underestimated|date=November 6, 2013|first=Martha|last=Degrasse|url=http://www.rcrwireless.com/article/20131106/networks/ericssons-role-in-sprint-spark-should-not-be-underestimated/|work=RCR Wireless News}}</ref> Ericsson offers end-to-end services for all major mobile communication standards,<ref>{{cite web|title=Company Facts|url=http://www.ericsson.com/thecompany/company_facts|website=Ericsson}}</ref> and has four main business units:<ref name="ReferenceA">{{cite web|url=http://www.ericsson.com/thecompany/company_facts/businesses|title=Our Businesses|work=Ericsson.com|accessdate=October 19, 2014}}</ref>
+
+===Business Unit Networks===
+Business Unit Networks has been headed by Johan Wibergh since 2008. It develops network infrastructure for any communication need over mobile and [[Fixed line|fixed connections]].<ref name="ReferenceA"/> As of July 1, 2014, BNET has been divided into two new units: Business Unit Radio and Business Unit Cloud & IP.<ref>{{cite web|url=http://www.ericsson.com/news/1779546|title=New business unit structure to support networks growth|work=Ericsson.com|accessdate=October 19, 2014}}</ref>
+
+Its products include radio base stations and [[Radio Network Controller|radio network controllers]], [[mobile switching center]]s and [[Multi-service access node|service application nodes]]. Operators use Ericsson products to migrate from 2G to 3G and, most recently, to 4G networks.<ref>http://www.ericsson.com/ourportfolio/products/lte-radio-access-network</ref>
+
+The company's network division has been described as a driver in the development of 2G, 3G, 4G/LTE technology, future 5G and the evolution towards all-IP,<ref>http://www.q2s.ntnu.no/eurongi2007/slides/Sabella_keynote_ngi2007.pdf</ref> and it develops and deploys advanced LTE systems,<ref>http://www.ericsson.com/thecompany/press/mediakits/lte</ref> but it is still developing the older [[GSM]],<ref>http://www.ericsson.com/ourportfolio/products/gsm-radio-access-network</ref><ref>http://www.ericsson.com/news/110701_gsm_1991_244188810_c?tagsFilter=GSM</ref> [[WCDMA]], and [[CDMA]] technologies.<ref>http://www.ericsson.com/res/docs/whitepapers/wp-wcdma.pdf</ref>
+
+The company's networks portfolio also includes [[core network]]s, microwave transport, Internet Protocol (IP) networks, fixed-access services for copper and fiber and mobile broadband modules, several levels of fixed broadband access,<ref>http://www.ericsson.com/ourportfolio/telecom-operators/fixed-broadband-and-convergence</ref><ref>http://www.facweb.iitkgp.ernet.in/~pallab/mob_com/Ericsson_Intro_to_IMS.pdf</ref> radio access networks (from small [[pico cell]]s to high-capacity macro cells), controllers for radio base stations, and core network nodes that interconnect radio access networks with other parts of the network.
+
+Ericsson Power Modules supplies direct current (DC)/DC converters and DC/DC regulators, mainly to the communications industry, for advanced applications, such as multiplexors, switches, routers and radio base stations.<ref>http://www.ericsson.com/ourportfolio/products/power-modules</ref> Manufacturing is in China.
+
+===Business Unit Global Services===
+Since 2010 Magnus Mandersson has been Head of Business Unit Global Services.<ref name="ReferenceB">{{cite web|title=http://www.ericsson.com/thecompany/corporate_governance/company_management|url=http://www.ericsson.com/thecompany/corporate_governance/company_management|website=http://www.ericsson.com/thecompany/corporate_governance/company_management}}</ref> It provides telecoms-related managed services, including, for example, taking responsibility for running an operator’s network and the related business support systems.
+
+The unit is active in 180 countries,<ref name="ReferenceC">http://www.ericsson.com/res/thecompany/docs/press/backgrounders/prs_backgrounder.pdf</ref> and it supplies managed services,<ref>http://www.ericsson.com/ourportfolio/services/managed-services-1</ref> systems integration, consulting, network rollout, design and optimization, broadcast services, learning services<ref>http://www.ericsson.com/ourportfolio/ericsson-academy</ref><ref>http://www.ericsson.com/ourportfolio/services/learning-services</ref> and support.<ref>http://www.ericsson.com/ourportfolio/services/support</ref>
+
+Most of Ericsson's customers are telecom operators, but the company also works with other industries such as TV and media, public safety and utilities. Ericsson claims to manages networks that serve more than 1 billion subscribers worldwide,<ref name="ericsson2">http://www.ericsson.com/res/thecompany/docs/press/backgrounders/global_services_press_backgrounder.pdf</ref> and to support customer networks that serve more than 2.5 billion subscribers.
+
+===Business Unit Support Solutions===
+Per Borgklint has headed Business Unit Support Solutions since 2011.<ref name="ReferenceB"/>
+
+Initially established in 2007 as Business Unit Multimedia, Ericsson announced a new strategy for its multimedia business in February 2012.<ref>http://www.ericsson.com/news/1587729?idx=10</ref> Its Business Unit Support Solutions now develops software for operations and business support systems ([[Operations support system|OSS]] and [[Business support system|BSS]]), real-time, multi-screen and on demand TV and media, and for the emerging [[m-commerce]] eco-system. Ericsson claims a leading position in charging and billing, serving 1.6 billion people.<ref>{{cite news| url=http://www.bloomberg.com/news/2012-02-21/ericsson-forms-support-business-unit-around-billing-systems.html | work=Bloomberg | first=Diana | last=Ben-Aaron | title=Ericsson Forms Support Business Unit Around Billing Systems | date=February 21, 2012}}</ref>
+
+* '''OSS and BSS''' expanded after the integration of Telcordia,<ref name="Ericsson Boards Its Own BUSS">{{cite web|url= http://www.lightreading.com/document.asp?doc_id=217704&f_src=lightreading_gnews|title=Ericsson Boards Its Own BUSS|work=Light Reading|accessdate=2012-03-06}}</ref> and it focuses on [[Customer experience]] management including fulfilment, assurance, network optimization and real-time charging.
+* '''TV and media''' offers products that enable operators and content owners to sell [[multi-screen video|multi-screen TV]] services.<ref>{{cite web|url=http://www.iptv-news.com/iptv_news/february_2012_3/ericsson_outlines_new_strategic_focus |title=Ericsson Outlines New Strategic Focus |work=ipTVnews |accessdate=2012-03-06 |deadurl=yes |archiveurl=https://web.archive.org/20131105052825/http://www.iptv-news.com/iptv_news/february_2012_3/ericsson_outlines_new_strategic_focus |archivedate=5 November 2013 }}</ref>
+* '''M-Commerce''' sells mobile e-commerce products,<ref>{{cite web|url= http://www.lightreading.com/document.asp?doc_id=218000|title=Ericsson Teams With Western Union|work=Light Reading|accessdate=2012-03-06}}</ref> for mobile operators and financial institutions offer mobile wallet services to consumers.<ref>{{cite web|url= http://www.telecomstechnews.com/news/2012/feb/21/ericsson-announces-new-m-commerce-portfolio/|title=Ericsson Announces New M-Commerce Portfolio|work=TelecomsTech |accessdate=2012-03-06}}</ref> Ericsson has announced m-commerce deals with Western Union<ref>{{cite news|url= http://www.bloomberg.com/news/2012-02-27/ericsson-ceo-turns-to-mobile-wallet-amid-short-term-uncertainty.html|title=Ericsson Turns To Mobile Wallet Amid Short-Term Uncertainty|work=Bloomberg |accessdate=2012-03-06|first=Marie|last=Mawad|date=February 28, 2012}}</ref> and African wireless carrier MTN.<ref>{{cite web|url=http://www.mobileeurope.co.uk/news/news-analysis/9168-ericsson-announces-mcommerce-deals-picocell-and-in-building-products |title=Ericsson Announces MCommerce Deals, Picocell And In-Building Products |work=Mobile Europe |accessdate=2012-03-06 |deadurl=yes |archiveurl=https://web.archive.org/20120229172741/http://www.mobileeurope.co.uk:80/news/news-analysis/9168-ericsson-announces-mcommerce-deals-picocell-and-in-building-products |archivedate=29 February 2012 }}</ref>
+
+====Systems integration====
+Ericsson's systems integration offering currently{{when|date=July 2015}} consists of seven service offerings:<ref>http://www.ericsson.com/res/thecompany/docs/press/backgrounders/csi_press_backgrounder.pdf</ref>
+* Operations Support Systems
+* Business Support Systems
+* IP Networks and Architecture
+* TV, Applications and Service Delivery Platforms
+* Solution and Life-Cycle Management
+* Data Migration
+* Multi-Vendor Verification
+
+====Network services====
+Ericsson's network rollout services employ in-house capabilities, subcontractors and central resources to make changes to live networks.<ref>http://www.ericsson.com/ourportfolio/services/network-roll-out</ref> Services such as technology deployment, network transformation, and network optimization are also provided.<ref name="ReferenceC"/>
+
+====Broadcast services====
+Ericsson's Broadcast Services deal with live and pre-recorded, commercial and public service television.<ref>http://www.ericsson.com/res/thecompany/docs/press/backgrounders/broadcast_services_press_backgrounder.pdf</ref> Its media management services consist of Managed Media Preparation and Managed Media Internet Delivery.<ref>http://www.ericsson.com/news/130909-ericsson-launches-new-media-management-services_244129227_c</ref>
+
+===Business Unit Modems===
+As of May 7, 2014 Robert Puskaric assumed the role as Vice President and Head of Business Unit Modems succeeding Mats Norin who had the position since August 2013.<ref>{{cite web|url=http://www.ericsson.com/thecompany/press/releases/2014/05/1782930|title=Ericsson|work=Ericsson.com|accessdate=October 19, 2014}}</ref>
+
+This unit designs and sells LTE multimode thin modems, including 2G, 3G and 4G interoperability.<ref>http://www.ericsson.com/news/130815-head-of-bu-modems_244129227_c?query=Business+Unit+Modems</ref> This activity was transferred to Ericsson from ST-Ericsson when the new Modems organization was put in place.<ref>http://internal.ericsson.com/news/6380/day-1-new-modems-organization?unit=GFCO</ref> The unit has developed products including the Ericsson M7000 series multimode modems which support LTE (FDD /TDD), HSPA+, HSPA, TD-SCDMA and EDGE.
+
+In September 2014, Ericsson announced it would stop developing modems, shutting a loss-making unit it took on after joint venture partner STMicroelectronics pulled out.<ref>{{cite web|url= http://www.investing.com/news/technology-news/ericsson-to-shut-modem-business,-expects-savings-309903| title= Ericsson to shut modem business, expects savings|publisher= Investing.com|date= September 18, 2006|accessdate=2014-09-18}}</ref>
+
+==Divested businesses==
+[[Sony Ericsson]] Mobile Communications AB (Sony Ericsson) was a joint venture with [[Sony]] which merged the previous mobile phone operations from both companies. As well as mobile phones, it also produced accessories and personal computer (PC) cards. Sony Ericsson was responsible for product design and development, as well as marketing, sales, distribution and customer services. On February 16, 2012, Sony announced it had completed the full acquisition of Sony Ericsson.
+
+{{Further|List of Sony Ericsson products}}
+
+===Mobile (cell) phones===
+As a joint venture with Sony, Ericsson’s mobile phone production was moved into the company Sony Ericsson in 2001. The following is a list of mobile phones marketed under the brand name Ericsson. 
+[[File:Ericsson-gf-768.jpg|thumb|GF 768]]
+
+* Ericsson GS88 - Cancelled mobile phone where Ericsson invented the "Smartphone" name for
+* Ericsson GA628 – Known for its [[Z80]] CPU
+* Ericsson SH888 – First mobile phone to have wireless modem capabilities.
+* Ericsson A1018 – Dualband cellphone, notably easy to hack.
+* Ericsson A2618  & Ericsson A2628 – Dualband cellphones. Use graphical LCD display based on PCF8548 I²C controller.<ref>{{cite web|url=http://www.module.ro/ericsson_lcd.html |title=Ericsson_lcd |publisher=Module.ro |date= |accessdate=2011-10-09}}</ref>
+* Ericsson PF768
+* Ericsson GF768
+* Ericsson GH388
+* Ericsson T10 – Colourful Cellphone
+* Ericsson T18 - Business model of the T10, with active flip
+* [[Ericsson T28]] – Very slim phone. Uses [[Lithium-ion polymer battery|lithium polymer]] batteries. [http://www.lokety.com/t28faq.html ''Ericsson T28'' FAQ] use graphical LCD display based on PCF8558 I²C controller.
+* Ericsson T20s
+* Ericsson T29s - Similar to the T28s, but with WAP support
+* Ericsson T29m - pre-alpha prototype for the T39m
+* Ericsson T36m - Prototype for the T39m. Announced in yellow and blue. Never hit the market due to release T39m
+* [[Ericsson T39]] – Similar to the T28, but with a GPRS modem, Bluetooth and triband capabilities
+* Ericsson T65
+* [[Ericsson T66]]
+* Ericsson T68m – The first Ericsson handset to have a color display, later branded as [[Sony Ericsson T68i]]
+* Ericsson R250s Pro - Fully dust and water resistant phone
+* [[Ericsson R310s]]
+* Ericsson R320s
+* Ericsson R320s Titan - Limited Edition with titanium front
+* Ericsson R320s GPRS - Prototype for testing GPRS networks
+* Ericsson R360m - Pre-alpha prototype for the R520m
+* [[Ericsson R380]] – First cellphone to use the [[Symbian OS]]
+* Ericsson R520m – Similar to the T39, but in a candy bar form factor{{clarify|date=July 2014}} and with added features such as a built-in [[speakerphone]] and an optical proximity sensor
+* Ericsson R520m UMTS - Prototype to test UMTS networks
+* Ericsson R520m SyncML - Prototype to test the SyncML implementation
+* Ericsson R580m - Announced in several press releases. Supposed to be a successor of the R380s without external antenna and with color display
+* Ericsson R600
+
+===Telephones===
+* [[Ericsson Dialog]]
+* [[Ericofon]]
+
+===Ericsson Mobile Platforms===
+[[Ericsson Mobile Platforms]] was a supplier of technology platforms for GSM/EDGE and WCDMA/HSPA platforms used in devices, such as mobile handsets and PC cards.<ref>[[Ericsson Mobile Platforms]]</ref> Through Ericsson Mobile Platforms, Ericsson licensed open-standard, end-to-end interoperability-tested GSM/EDGE and WCDMA technology platforms.
+
+The product offering included reference designs, platform software, application-specific integrated circuit (ASIC) designs and development boards, development and test tools, training, support and documentation. Ericsson Mobile Platforms had operations at nine global locations, with main operations in Sweden.
+
+The company existed for 8 years, but February 12, 2009 Ericsson announced that Ericsson Mobile Platforms would be merged with the mobile platform company of [[STMicroelectronics]], ST-NXP Wireless, to create a 50/50 joint venture owned by Ericsson and STMicroelectronics.<ref>{{cite web|title=http://www.ericsson.com/thecompany/press/releases/2009/02/1289668|url=http://www.ericsson.com/thecompany/press/releases/2009/02/1289668|website=http://www.ericsson.com/thecompany/press/releases/2009/02/1289668}}</ref>
+
+This joint venture was divested in 2013 and remaining activities can be found in Ericsson Modems and [[STMicroelectronics]]. Ericsson Mobile Platform ceased being a legal entity early 2009.
+
+===Ericsson Enterprise===
+Ericsson Enterprise provided communications systems and services for businesses, public entities and educational institutions. It produced products for [[voice over Internet protocol]] (VoIP)-based [[private branch exchange]]s (PBX), [[wireless local area network]]s (WLAN), and mobile [[intranet]]s. 
+Ericsson Enterprise operated mainly from Sweden but also operated through regional units and other partners/distributors. In 2008 it was sold to [[Aastra]].<ref>{{cite web|title=http://www.aastra.com/news-room-2008_1554.htm|url=http://www.aastra.com/news-room-2008_1554.htm|website=http://www.aastra.com/news-room-2008_1554.htm}}</ref><ref>{{cite web|title=http://www.ericsson.com/thecompany/press/releases/2008/02/1192670|url=http://www.ericsson.com/thecompany/press/releases/2008/02/1192670|website=http://www.ericsson.com/thecompany/press/releases/2008/02/1192670}}</ref>
+
+==.mobi and mobile Internet==
+Ericsson was an official backer in the launch of the [[.mobi]] top level domain created specifically for the [[mobile internet]].<ref>[http://mtld.mobi/company/about/investors dotMobi Investors | dotMobi] {{wayback|url=http://mtld.mobi/company/about/investors |date=20140103081204 }}</ref>  Since the launch of [[.mobi]] in September 2006, Ericsson has launched [http://ericsson.mobi/ Ericsson.mobi], its mobile portal, and [http://sonyericsson.mobi/ SonyEricsson.mobi], the mobile portal of [[Sony Ericsson]]. Additionally, Ericsson hosts a developer program called [http://www.ericsson.com/developer Ericsson Developer Connection]{{dead link|date=October 2014}}, designed to encourage development of applications and services.<ref>{{cite web|url=http://www.ericsson.com/developer/sub/about/index.html |title=About our developer program |publisher=Ericsson |date= |accessdate=2011-10-09 |deadurl=yes |archiveurl=https://web.archive.org/20110927162700/http://www.ericsson.com/developer/sub/about/index.html |archivedate=27 September 2011 }}</ref> Ericsson also has an open innovation initiative for beta applications and beta API's & tools called Ericsson Labs. The company hosts several internal innovation competitions among its employees.
+
+==See also==
+{{Portal|Companies}}
+* [[Investor AB]]
+* Sony Ericsson (now [[Sony Mobile Communications]])
+* [[List of Sony Ericsson products]]
+* [[Cedergren]]
+* [[Ericsson Nikola Tesla]]
+* [[Erlang (programming language)]]
+* [[Tandberg Television]]
+
+==References==
+{{Reflist|20em}}
+
+==Further reading==
+* John Meurling & Richard Jeans (1994) ''A switch in time: AXE — creating a foundation for the information age''. London: Communications Week International. ISBN 0-9524031-1-0.
+* John Meurling & Richard Jeans (1997). ''The ugly duckling''. Stockholm: Ericsson Mobile Communications. ISBN 91-630-5452-3.
+* John Meurling & Richard Jeans (2000). ''The Ericsson Chronicle: 125 years in telecommunications''. Stockholm: Informationsförlaget. ISBN 91-7736-464-3.
+* ''The Mobile Phone Book: The Invention of the Mobile Telephone Industry''. ISBN 0-9524031-0-2
+* Mobile media and applications – from concept to cash: successful service creation and launch. ISBN 0-470-01747-3
+* Anders Pehrsson (1996). ''International Strategies in Telecommunications''. London: Routledge Research. ISBN 0-415-14829-4
+
+==External links==
+* {{official website|http://www.ericsson.com/}}
+*[https://jobs.ericsson.com/ Career@Ericsson]
+* General reference to all chapters on the Ericsson history: {{cite web |URL=http://www.ericssonhistory.com |title= The History of Ericsson |publisher=Center for Business History, Stockholm, and Telefonaktiebolaget LM Ericsson}}
+
+{{telecommunications}}
+{{OMX Stockholm 30 companies}}
+{{Major information technology companies}}
+{{Queens Park Rangers F.C. shirt sponsors}}
+
+[[Category:Companies established in 1876]]
+[[Category:Companies formerly listed on the London Stock Exchange]]
+[[Category:Companies of Sweden]]
+[[Category:Companies related to the Wallenberg family]]
+[[Category:Electronics companies of Sweden]]
+[[Category:Ericsson| ]]
+[[Category:Mobile phone manufacturers]]
+[[Category:Networking hardware companies]]
+[[Category:Swedish brands]]
+[[Category:Telecommunications equipment vendors]]
+[[Category:Companies listed on NASDAQ]]
+[[Category:1876 establishments in Sweden]]

@@ -1,0 +1,49 @@
+{{Wiktionary|ATM|atm}}
+
+'''ATM''' or '''atm''' may refer to:
+
+* [[Atmosphere (unit)]] or atm, a unit of atmospheric pressure
+* [[Automated teller machine]], a cash dispenser or cash machine
+
+{{TOC right}}
+
+== Biology and medicine ==
+
+* [[Ataxia telangiectasia mutated]], a protein kinase involved in cell cycle regulation
+
+== Computing ==
+
+* [[Adobe Type Manager]], a computer program for managing fonts
+* [[Alternating Turing machine]], a model of computation used in theoretical computer science
+* [[Asynchronous Transfer Mode]], a telecommunications protocol used in networking
+* [[ATM (computer)]], a ZX Spectrum clone developed in Moscow in 1991
+
+== People and organizations ==
+
+* [[Abiding Truth Ministries]], a nonprofit organization in Springfield, Massachusetts
+* Airport code for [[Altamira Airport]] in Brazil
+* [[Association of Teachers of Mathematics]], a UK teacher organisation
+* [[ATM FA]], a football club in Malaysia
+* [[Azienda Trasporti Milanesi]], public company responsible for public transportation in Milan
+
+== Transportation ==
+
+* [[Active traffic management]], a motorway scheme on the M42 in England
+* [[Air traffic management]], a concept in air navigation that includes air traffic control
+* [[Altamira Airport]]'s IATA code
+* {{lang|it|''[[Azienda Trasporti Milanesi]]''}}, a public company responsible for public transportation in Milan
+
+== Other uses ==
+
+* [[Actun Tunichil Muknal]], a cave in Belize
+* ''[[Amateur Telescope Making]]'', a series of books by Albert Graham Ingalls
+* [[Anti-tank missile]], a missile designed to destroy tanks
+* [[Apollo Telescope Mount]], a solar observatory
+* [[Ass to mouth]], a sexual act
+* [[At the money]], moneyness where the strike price is the same as the current spot price
+* [[ATM (film)|''ATM'' (film)]], a 2012 American film
+* {{lang|de|''[[Automatenmarken]]''}}, a variable value stamp
+* ''Able Toastmasters'', a post-nominal from [[Toastmasters International]]
+
+{{disambiguation}}
+{{DEFAULTSORT:Atm}}

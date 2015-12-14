@@ -1,0 +1,48 @@
+{{Wiktionary|EDM|Edm}}
+'''EDM''' or '''E-DM''' may refer to:
+{{TOC right}}
+
+==Computing and Internet==
+* [[Electronic direct marketing]] or email direct marketing
+* [[Electronic document management]], the tracking and storage of electronic documents
+* [[Enterprise data management]]
+* [[Enterprise Data Modeling]] or Enterprise Data Model
+* [[Enterprise decision management]]
+* [[Entity Data Model]], the conceptual schema of data that Microsoft ADO.NET Entity framework works with
+* [[Entrance (display manager)]], an X Window System display manager by the Enlightenment foundation
+* Europeana Data Model, a linked data standard that is used in Europe's cultural heritage sector; see [[Europeana]]
+
+==Music==
+* [[Early Day Miners]], a U.S. band
+* [[Electronic dance music]], a broad range of percussive electronic music genres
+
+==Science and engineering==
+* [[Educational data mining]]
+* [[Electric dipole moment]], in physics
+* [[Electrical discharge machining]], a machining method
+* Electronic distance meter, or [[total station]], a device used in surveying
+* ''[[Encyclopedic Dictionary of Mathematics]]''
+* Engineering data management, also known as [[product data management]]
+* Euclidean distance map, or a [[distance transform]]
+<!--* [[Extensor digitorum muscle]] not in article per [[WP:DABACRO]]-->
+
+==Organisations==
+* [[Electricidade de Moçambique]], Mozambique's publicly owned electricity company
+* [[Department of Essential Drugs and Medicines]], of the World Health Organization
+* Expertise Centre for Digital Media, a research institute of [[Hasselt University#Institutes|Hasselt University]]
+* [[Escola Catolica Estrela do Mar (Macau)]], a Catholic school in Macau, China
+
+==Other uses==
+* [[Event-driven marketing]]
+* [[Early day motion]], a term used in the British House of Commons
+* Earthquake disaster mitigation, a form of [[emergency management]]
+* Easter Dating Method, or [[Computus]], referring to the calculation of the date of Easter
+* [[Edmonds (Amtrak station)]], (Amtrak station code) Washington, United States
+* [[Edmonton Oilers]], an NHL team located in Edmonton
+* [[Master of Education]] (Ed.M.)
+* European Domestic Market, in the automobile industry; for example see [[Honda Civic Type R]]
+
+==See also==
+* [[Edmonton]], Alberta, Canada<!--not in article per [[WP:DABACRO]] / [[WP:DABMENTION]]-->
+
+{{disambiguation}}

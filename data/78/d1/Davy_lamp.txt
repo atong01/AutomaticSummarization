@@ -1,0 +1,66 @@
+[[File:Davy lamp.png|thumb|upright|Diagram of a Davy lamp]]
+
+The '''Davy lamp''' is a [[safety lamp]] for use in flammable atmospheres, invented in 1815 by Sir [[Humphry Davy]].<ref name="Brief History"/> It consists of a [[Candle wick|wick]] lamp with the flame enclosed inside a mesh screen. It was created for use in [[coal mine]]s, to reduce the danger of explosions due to the presence of [[methane]] and other flammable gases, called ''[[firedamp]]'' or ''minedamp''.
+
+== History ==
+
+The news about Davy's lamp was made public at a [[Royal Society]] meeting in Newcastle on 3 November 1815, and the paper describing the lamp was formally presented on 9 November.<ref name="Royal Society"/> For it, Davy was awarded the Society's Rumford Medal. (Davy's invention had been preceded by that of [[William Reid Clanny]], an Irish doctor at [[Bishopwearmouth]], who had also read a paper to the Royal Society in May 1813. The more cumbersome [[Clanny safety lamp]] was successfully tested at Herrington Mill, and he, too, won medals, from the [[Royal Society of Arts]]).<ref name="Knight"/> The first trial of a Davy lamp with a wire sieve was at [[Hebburn]] Colliery on 9 January 1816.<ref name="Thompson2004"/>
+
+== Design and theory ==
+[[File:Pieler safety lamp.jpg|thumb|upright|A type of Davy lamp with apertures for gauging flame height]]
+
+The lamp consists of a [[Candle wick|wick]] lamp with the flame enclosed inside a mesh screen.  The screen acts as a [[flame arrestor]]; air (and any firedamp present) can pass through the mesh freely enough to support combustion, but the holes are too fine to allow a flame to propagate through them and ignite any firedamp outside the mesh. It originally burned a heavy vegetable oil.
+
+The lamp also provided a test for the presence of gases. If flammable gas mixtures were present, the flame of the Davy lamp burned higher with a blue tinge.  Lamps were equipped with a metal gauge to measure the height of the flame. Miners could place the safety lamp close to the ground to detect gases, such as [[carbon dioxide]], that are denser than air and so could collect in depressions in the mine; if the mine air was oxygen-poor ([[asphyxiant gas]]), the lamp flame would be extinguished (''[[black damp]]'' or ''chokedamp''). A methane-air flame is extinguished at about 17% oxygen content (which will still support life), so the lamp gave an early indication of an unhealthy atmosphere, allowing the miners to get out before they died of asphyxiation.
+
+== Impact ==
+
+The introduction of the Davy lamp led to an increase in mine accidents, as the lamp encouraged the working of mines and parts of mines that had previously been closed for safety reasons.<ref name="Lawrence"/>
+
+Men continued to work in conditions which were unsafe due to the presence of methane gas. Although extractor ventilation fans should have been installed to reduce the concentration of methane in the air, this would have been expensive for mine owners, and thus such fans were not installed. A legal requirement{{when|date=January 2012}} for minimum air-quality standards eventually led to the introduction of more ventilation. The lamps also had to be provided by the miners themselves, not the owners, as traditionally the miners bought their own candles from the company store.
+
+Another reason for the increase in accidents was the unreliability of the lamps themselves. The bare gauze was easily damaged, and once just a single wire broke or rusted away, the lamp became unsafe. Even when new and clean, illumination from the safety lamps was very poor, and the problem was not fully resolved until electric lamps became widely available in the late 19th century.
+
+== Successors ==
+
+A modern-day equivalent of the Davy lamp is the Protector Garforth GR6S flame safety lamp which is used for firedamp testing in all [[UK]] coal mines. A modified version of this lamp has been used in the [[Olympic Flame]] torch relays. It was used in the relays for the Sydney, Athens, Turin, Beijing, Vancouver and Singapore Youth [[Olympic Games]]. It was also used for the Special Olympics Shanghai, Pan American and Central African games and for the [[2012 Summer Olympics|London 2012 Summer Olympics]] relay.<ref name="Peck"/>
+
+Lamps are still made in [[Eccles, Greater Manchester]],<ref name="Eccles"/> in [[Aberdare]], [[South Wales]]<ref name="Aberdare"/> and in [[Kolkata]], [[India]].<ref name="Kolkata"/>
+
+== See also ==
+
+* [[Geordie lamp]]
+
+== References ==
+
+{{reflist|30em|refs=
+<ref name="Brief History">[http://www.minerslamps.net/homepage/safetylamphistory.htm Brief History of the Miner's Flame Safety Lamp] at minerslamps.net. Accesses 7 July 20121</ref>
+<ref name="Royal Society">{{cite journal | doi = 10.1098/rstl.1816.0001 | title = On the Fire-Damp of Coal Mines, and on Methods of Lighting the Mines So as to Prevent Its Explosion | year = 1816 | last1 = Davy | first1 = H. | journal = Philosophical Transactions of the Royal Society of London | volume = 106 | pages = 1 }}</ref>
+<ref name="Knight">Knight, David (1992) Humphry Davy: Science and Power. Cambridge, Cambridge University Press, (Chapter 8: The Safety Lamp), ISBN 0-631-16816-8</ref>
+<ref name="Thompson2004">{{cite book|last=Thompson|first=Roy|title=Thunder underground: Northumberland mining disasters, 1815-1865|url=http://books.google.com/books?id=u6sgAQAAIAAJ|accessdate=8 January 2013|year=2004|publisher=Landmark|isbn=9781843061694|page=121}}</ref>
+<ref name="Lawrence">Christopher Lawrence, ''The power and the glory: Humphry Davy and Romanticism'', reference in Andrew Cunningham and Nicholas Jardine, ''Romanticism and the Sciences'' Cambridge: University Press, 1990 page 224</ref>
+<ref name="Peck">Peck, Tom [http://www.independent.co.uk/news/uk/home-news/let-the-flames-begin-beckham-gets-the-home-fires-burning-7767122.html Let the flames begin: Beckham gets the home fires burning] ''[[The Independent]]'', 19 May 2012. Accessed 12 July 2012</ref>
+<ref name="Eccles">[http://heritagephotoarchive.co.uk/p40089758 Protector Safety Lamp Company, Eccles] at Heritage Photo Archive. Accessed 7 July 2012</ref>
+<ref name="Aberdare">[http://webapps.rhondda-cynon-taf.gov.uk/heritagetrail/english/cynon/aberdare-lampworks.html Aberdare – Cambrian Lamp Works – E. Thomas & Williams] at Rhondda Cynon Taf Library Service. Accessed 7 July 2012</ref>
+<ref name="Kolkata">[http://www.jkdey.com/aboutus.html J. K. Dey and Sons] Official website. Accessed 7 July 2012</ref>
+}}
+
+== Further reading ==
+
+* James, F.A.J.L.  How big is a hole?: the problems of the practical application of science in the invention of the miners’ safety lamp by Humphry Davy and George Stephenson in late Regency England ''Transactions, Newcomen Society'' '''75'''(2) 2005, 175–227
+
+== External links ==
+{{commons category}}
+* [http://vimeo.com/8893861 Popular Science video] showing an experiment that demonstrates the principle of the Davy lamp
+{{Use dmy dates|date=April 2011}}
+* Edwards, Eric [http://england.prm.ox.ac.uk/englishness-Miners-lamp.html The Miners’ Safety Lamp] at [[Pitt Rivers Museum]], [[Oxford University]]
+* [http://www.spartacus-educational.com/SCdavy.htm Humphry Davy] Brief bio at Spartacus Educational
+* {{cite web|last=Martyn Poliakoff|first=Martyn Poliakoff|title=Davy's Lamp|url=http://www.periodicvideos.com/videos/feature_davy_lamp.htm|work=[[The Periodic Table of Videos]]|publisher=[[University of Nottingham]]|authorlink=Martyn Poliakoff}}
+
+[[Category:English inventions]]
+[[Category:History of mining]]
+[[Category:Types of lamp]]
+[[Category:Mine safety]]
+[[Category:Mining equipment]]
+
+[[de:Grubenlampe#Sicherheitsgrubenlampen]]

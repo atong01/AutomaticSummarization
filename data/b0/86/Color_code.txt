@@ -1,0 +1,69 @@
+{{For|the computer science and graph theory method|color-coding}}
+{{hatlink|For other uses see [[Color code (disambiguation)]].}}
+[[File:25 pair color code chart.svg|right|thumb|100px|25 pair color code chart used in certain kinds of wiring.]]
+A '''color code''' or '''colour code''' is a system for displaying information by using different [[color]]s.
+
+The earliest examples of color codes in use are for long distance communication by use of flags, as in [[Flag semaphore|semaphore]] communication.<ref>''Transactions of the American Society of Civil Engineers: Volume 29'' (1893), p. 507.</ref> The [[United Kingdom]] adopted a color code scheme for such communication wherein [[red]] signified [[Risk|danger]] and [[white]] signified [[safety]], with other colors having similar assignments of meaning.
+
+As chemistry and other technologies advanced, it became expedient to use coloration as a signal for telling apart things that would otherwise be confusingly similar, such as [[Electrical wiring|wiring]] in electrical and electronic devices, and pharmaceutical [[Pill (pharmacy)|pills]].
+
+The use of color codes has been extended to abstractions, such as the [[Homeland Security Advisory System]] color code in the United States. Similarly, [[hospital emergency codes]] often incorporate colors (such as the widely used "Code Blue" indicating a [[cardiac arrest]]), although they may also include numbers, and may not conform to a uniform standard.
+
+Color codes are often difficult for [[color blindness|color blind]] and blind people to interpret.
+
+==Examples==
+Systems incorporating color-coding include:
+
+*In electronics:
+**[[Electrical wiring]] — AC power phase, neutral, and grounding wires
+**[[Electronic color code]] — for electronic components
+**[[Jump start (vehicle)|Jumper cables]] used to jump-start a vehicle
+**[[Surround sound#Channel identification|Surround Sound ports and cables]]
+**[[Audio and video connector#Color codes|Audio Connectors]]
+**[[Audio and video connector#Color codes 2|Video Connectors]]
+**[[Color coding of optical fibers|Optical fibers]]
+**[[PC System Design Guide#Color-coding scheme for connectors and ports|PC connectors and ports]]
+**[[Three-phase electric power#Color codes|Three-phase electric power]] (electrical wiring)
+**[[25-pair color code]] — telecommunications wiring
+
+*In video games
+**[[Minecraft]]
+**[[Health (gaming)|Health]] and [[Magic (gaming)|Magic Points]]
+**To distinguish friend from foe, for instance in [[Starcraft]], [[Halo (game)|Halo]], or [[League of Legends]]
+
+*In navigation:
+**[[Navigation light]]
+**[[Sea mark]]
+**[[Characteristic light]]
+**[[Traffic light]]s
+
+*Other technology:
+**[[Bottled gas]]es
+**[[Fire extinguisher]]s
+**[[Utility color code|Underground utility location]]
+**[[Black hat hacking]], [[White hat (computer security)|white hat]], [[grey hat]]
+
+*In military use:
+**[[NATO Military Symbols for Land Based Systems#Affiliation]]
+**[[Artillery shell]]s and other munitions, which are color-coded according to their pyrotechnic contents
+**[[Rainbow Herbicides]]
+**[[List of Rainbow Codes]]
+
+*In social functions:
+**[[ISO 22324]], Guidelines for color-coded alerts in public warning
+**[[Handkerchief code]]
+**[[Ribbon]] colors ''see:'' [[:Category:Ribbon symbolism]]
+**[[Rank in Judo]]
+**[[Blue-collar worker]], [[White-collar worker]], [[Pink-collar worker]], [[Gold-collar worker]], [[Grey-collar]], [[Green-collar worker]]
+*At point of sale (especially for [[packaging]] within a huge range of [[Stock keeping unit|products]]: to quickly differentiate variants, brands, categories)
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons|Color code}}
+
+{{color topics}}
+{{DEFAULTSORT:Color Code}}
+[[Category:Color codes| ]]
+[[Category:Encodings]]

@@ -1,0 +1,234 @@
+{{Infobox national military
+| name               = Danish Defence
+| native_name        = Forsvaret
+| image              = [[Image:Danske Forsvars logo.svg|100px]]
+| caption            = <!-- Descriptive caption -->
+| headquarters       = Kuglegården
+| commander-in-chief = [[Queen Margrethe II]]
+| minister           = [[Peter Christensen]] (''[[Venstre (Denmark)|Venstre]]'')<ref>{{cite news|title=New Danish defence minister appointed|url=http://www.janes.com/article/54923/new-danish-defence-minister-appointed|accessdate=1 October 2015|work=[[IHS Jane's 360]]|date=29 September 2015}}</ref>
+| minister_title     = Defence Minister
+|commander           = General [[Peter Bartram]]<ref>[http://www2.forsvaret.dk/nyheder/overige_nyheder/Pages/NyForsvarschef.aspx Ny Forsvarschef] 20-03-2012 in Danish</ref>
+| commander_title    = Chief of Defence
+| active             = ca. 18.827   (2014)<ref>[http://forpers.dk/hr/Pages/Antalansatte.aspx]</ref>
+| reserve            = 12,000 + 51,000 volunteers in the Home Guard
+| deployed           = 473 (21 January 2015)<ref>[http://forsvaret.dk/HST/International%20Info/FN%20Missioner/Pages/default.aspx FN missioner med dansk deltagelse]</ref>
+| amount             = 22.48 billion [[Danish krone|DKK]] (USD ~3.7 billion) (2014)<ref>[http://www.fmn.dk/eng/allabout/Pages/Defenceexpenditure.aspx]</ref>
+| percent_GDP        = 1.16% (2014)
+| founded            = <!-- Date of original founding of the armed forces -->
+| current_form       = [[Danish Defence Agreement 2013-2017| Defence Agreement 2013-17]]
+| disbanded          = <!-- Date of the disbanding or other end of existence of the armed forces -->
+| branches           = [[Royal Danish Army]] - ''Hæren'' <br>[[Royal Danish Navy]] - ''Søværnet'' <br>[[Royal Danish Air Force]] - ''Flyvevåbnet'' <br>[[Danish Home Guard]] – ''Hjemmeværnet'' 
+| age                = 18–49
+| available          = 1,276,087 (2004 est.)
+| fit                = 1,088,751 (2004 est.)
+| reaching           = 43.073<ref>[http://viewer.zmags.com/publication/5caf2b62#/5caf2b62/1 Statistiske oplysninger oktober 2014]</ref>
+| conscription       = Yes
+| domestic_suppliers = <!-- List major domestic firms and suppliers of military equipment -->
+| foreign_suppliers  = <!-- List major supplying countries for the nation's armed forces -->
+| exports            = <!-- Value of annual arms exports -->
+| imports            = <!-- Value of annual arms imports -->
+| history            = [[Military history of Denmark]]
+| ranks              =                      
+}}
+[[Image:DRO DANEX 07.jpg|thumb|right|Danish [[Royal Danish Army|Army]] and [[Royal Danish Navy|Navy]] personnel at [[Staff (military)#Continental_Staff_System|combined/joint]] exercise DANEX/[[Disaster relief operation|DRO]] '07]]
+
+The [[armed forces]] of the [[Denmark|Kingdom of Denmark]], known as the '''Defence''' ({{lang-da|Forsvaret}}), is charged with the defence of Denmark and its overseas territories, [[Greenland]] and the [[Faroe Islands]].
+
+[[Margrethe II of Denmark|Queen Margrethe II]] is the [[de jure]] [[Commander-in-Chief]] per the Danish constitution, however according to the Danish Defence Law<ref>{{cite web | url = https://www.retsinformation.dk/Forms/R0710.aspx?id=6294 | title = LOV nr 122 af 27/02/2001 om forsvarets formål, opgaver og organisation m.v. | accessdate = 2012-07-30 | language = Danish}}</ref> the [[Ministry of Defence (Denmark)|Minister of Defence]] serves as the commander of the Danish Defence (through the [[Chief of Defence (Denmark)|Chief of Defence]] and the [[Defence Command (Denmark)|Defence Command]]) and the [[Danish Home Guard]] (through the [[Home Guard Command (Denmark)|Home Guard Command]]). [[De facto]] the Danish Cabinet is the commanding authority of the Defence, though it cannot mobilize the armed forces, for purposes that are not strictly defence oriented, without the consent of [[Parliament of Denmark|parliament]].
+
+Denmark also has a concept of "total defence" ({{lang-da|Totalforsvar}}).<ref name="DDA">{{cite web|url=http://forsvaret.dk/FKO/eng/Defence%20Agreement/Pages/default.aspx|title=The Danish Defence Agreement 2005 - 2009  |year=2009|work=Danish Defence|publisher=Defence Command Denmark|accessdate=2009-05-12}}</ref>
+
+==Purpose and task==
+The purpose and task of the armed forces of Denmark is defined in Law no. 122 of February 27, 2001 and in force since March 1, 2001. It defines three purposes and six tasks.
+
+Its primary purpose is to prevent conflicts and war, preserve the [[sovereignty]] of Denmark, secure the continuing existence and integrity of the independent Kingdom of Denmark and further a peaceful development in the world with respect to human rights.
+
+Its primary tasks are: [[NATO]] participation in accordance with the strategy of the alliance, detect and repel any sovereignty violation of Danish territory (including [[Greenland]] and the [[Faroe Islands]]), defence cooperation with non-NATO members, especially Central and East European countries, international missions in the area of conflict prevention, crises-control, humanitarian, peacemaking, peacekeeping, participation in ''Total Defence''{{clarify|reason=What is "Total Defence"—the article does not define it.|date=January 2013}} in cooperation with civilian resources and finally maintenance of a sizable force to execute these tasks at all times.
+
+==Defence budget==
+Since 1988, Danish defence budgets and security policy have been set by multi-year agreements supported by a wide parliamentary majority including government and opposition parties. However, public opposition to increases in defence spending—during a period when economic constraints require reduced spending for social welfare—has created differences among the political parties regarding a broadly acceptable level of new defence expenditure.
+
+The latest Defence agreement ("[[Danish Defence agreement 2005-2009|Defence agreement 2005–2009]]") was signed June 10, 2004, and calls for a significant re-construction of the entire military. From now about 60% support structure and 40% combat operational capability, it is to be 40% support structure and 60% combat operational capability, i.e. more combat soldiers and fewer "paper"-soldiers.
+The reaction speed is increased, with an entire [[brigade]] on standby readiness; the military retains the capability to continually deploy 2,000 soldiers in international service or 5,000 over a short time span. The standard mandatory [[conscription]] is modified. Generally this means fewer conscripts, less service time for them and only those who choose so, will continue into the reaction force system.
+
+===Expenditures===
+In 2006 the Danish military budget was the fifth largest single portion of the Danish Government's total budget, significantly less than that of the [[Ministry of Social Affairs of Denmark|Ministry of Social Affairs]] (~110 billion [[Danish krone|DKK]]), [[Ministry of Employment of Denmark|Ministry of Employment]] (~67 billion DKK), [[Ministry of the Interior and Health of Denmark|Ministry of the Interior and Health]] (~66 billion DKK) and [[Ministry of Education of Denmark|Ministry of Education]] (~30 billion DKK) and only slightly larger than that of the [[Ministry of Science, Technology and Innovation of Denmark|Ministry of Science, Technology and Innovation]] (~14 billion DKK). This list lists the complete expenditures for the Danish [[Ministry of Defence of Denmark|Ministry of Defence]].
+
+The Danish Defence Force, counting all branches and all departments, itself has an income equal to about 1&ndash;5% of its expenditures, depending on the year. They are not deducted in this listing.
+
+Approximately 95% of the budget goes directly to running the Danish military including the Home guard. Depending on year, 50&ndash;53% accounts for payment to personnel, roughly 14&ndash;21% on acquiring new material, 2&ndash;8% for larger ships, building projects or infrastructure and about 24&ndash;27% on other items, including purchasing of goods, renting, maintenance, services and taxes.
+
+The remaining 5% is special expenditures to NATO, branch shared expenditures, special services and civil structures, here in including running the [[Danish Maritime Safety Administration]], [[Danish National Rescue Preparedness|Danish national rescue preparedness]] and the Administration of Conscientious Objectors ([http://militaernaegter.dk Militærnægteradministrationen]).
+
+{| class="wikitable"
+|+ Danish Defence expenditures (1970–2009)<ref>[[Danish Agency for Governmental Management]] ("''[http://www.oes.dk/ Økonomi-styrelsen]''") ([http://www.oes-cs.dk/bevillingslove/] Finance law 1996 to 2006])</ref><ref>[[Danmarks Statistik]] (1976&ndash;1989)</ref>
+!width = "50"|Year
+!width = "150"|Percentage of [[Measures of national income and output#Gross National Product|GNP]]
+!width = "180"|Complete expenditures<br>([[Ministry of Defence (Denmark)|Ministry of Defence]])<br><small>in millions of [[Danish krone|DKK]]</small>
+!width = "50"|Year
+!width = "150"|Percentage of [[Measures of national income and output#Gross National Product|GNP]]
+!width = "180"|Complete expenditures<br>([[Ministry of Defence (Denmark)|Ministry of Defence]])<br><small>in millions of [[Danish krone|DKK]]</small>
+|- valign=top
+| 1949 || 2,0% || ? ||      ||      ||  
+|-
+| 1950 || 1,8% || ? || 1983 || 2.5% || 12,783 
+|-
+| 1951 || 2,0% || ? || 1984 || 2.3% || 13,163 
+|-
+| 1952 || 2,8% || ? || 1985 || 2.2% || 13,355 
+|-
+| 1953 || 3,3% || ? || 1986 || 2.0% || 13,142
+|-
+| 1954 || 3,2% || ? || 1987 || 2.1% || 14,443
+|-
+| 1955 || 3,2% || ? || 1988 || 2.2% || 15,800
+|-
+| 1956 || 3,1% || ? || 1989 || 2.1% || 15,767 
+|-
+| 1957 || 3,1% || ? || 1990 || 2,0% || ?
+|-
+| 1958 || 2,9% || ? ||  1991 || 2,0% || ?
+|-
+| 1959 || 2,6% || ? || 1992 || 2,1% || ?
+|-
+| 1960 || 2,7% || ? || 1993 || 1,9% || ?
+|-
+| 1961 || 2,6% || ? || 1994 || 1,9% || ?
+|-
+| 1962 || 3,0% || ? || 1995 || 1,8% || ?
+|-
+| 1963 || 3,0% || ? ||  1996 || 1.7% || 17,012.6
+|-
+| 1964 || 2,9% || ? ||  1997 || 1.7% || 17,615.1
+|-
+| 1965 || 2,9% || ? || 1998 || 1.6% || 18,221.4
+|-
+| 1966 || 2,8% || ?  || 1999 || 1.4% || 17,384.9
+|-
+| 1967 || 2,8% || ? || 2000 || 1.4% || 17,496.5
+|-
+| 1968 || 2,8% || ? || 2001 || 1.4% || 18,310.4
+|-
+| 1969 || 2,5% || ?  || 2002 || 1.4% || 18,665.9
+|-
+| 1970 || 2,4% || ?  || 2003 || 1.4% || 18,857.9
+|-
+| 1971 || 2,5% || ? || 2004 || 1.4% || 19,841.3
+|-
+| 1972 || 2,2% || ?  || 2005 || 1.3% || 19,066.8
+|-
+| 1973 || 2,1% || ?  ||  2006 || 1.3% || 21,221.9
+|-
+| 1974 || 2,0% || ? ||  2007 || 1.3% || 21,692.1 (expected)
+|-
+| 1975 || 2,1% || ? || 2008 || 1.4 || 21,341.3 (expected)
+|-
+| 1976 || 2.2% || 5,910  || 2009 || 1.4% || 18.960.1 (expected)
+|-
+| 1977 || 2.3% || 6,390  || 2010 || 1.4% ||  N/a
+|-
+| 1978 || 2.3% || 7,082  || 2011 || 1.4% || N/a (expected)
+|-
+| 1979 || 2.2% || 7,525  || 2012 || 1.4%  || N/A (expected)
+|-
+| 1980 || 2.6% || 9,545  || 2013 || 1.3%  || N/A (expected)
+|-
+| 1981 || 2.6% || 10,612 || 2014 || 1.3% ||  N/A   (expected)
+|-                       
+| 1982 || 2.5% || 11,836 || 2015 || na || 20,892 (expected)
+|-
+| 1983 || 2.5% || 12,783 || 2016 || na || 21,403 (expected) 
+|-
+| 1984 || 2.3% || 13,163 || 2017 || na || 21,186 (expected)
+|-
+| 1985 || 2.2% || 13,355 || 2018 || na || 20,603 (expected)
+|-
+|}
+
+Because Denmark has a small and highly specialized military industry, the vast majority of the Danish Defence's equipment is imported from NATO and the [[Nordic countries]].<ref>http://cms.polsci.ku.dk/pdf/dk_nato_omdoemme.pdf</ref>
+
+==Branches==
+* [[Royal Danish Army]]—''Hæren'' ('''HRN''')
+* [[Royal Danish Navy]]—''Søværnet'' ('''SVN''')
+* [[Royal Danish Air Force]]—''Flyvevåbnet'' ('''FLV''')
+* [[Danish Home Guard]]—''Hjemmeværnet'' ('''HJV''')
+
+==Structure==
+* [[Ministry of Defence (Denmark)|Ministry of Defence]] ({{da icon}}: ''Forsvarsministeriet'' (''FMN''))
+** [[Defence Command (Denmark)|Joint Services Defence Command]] ({{da icon}}: ''Værnsfælles Forsvarskommando'' (''VFK'')) 
+*** Operations Staff ({{da icon}}: ''Operationsstaben'')
+*** Coordination and Development Staff ({{da icon}}: ''Koordinations- og Udviklingsstaben'')
+*** Army Staff ({{da icon}}: ''Hærstaben'')
+*** Marine Staff ({{da icon}}: ''Marinestaben'')
+*** Aviation Staff ({{da icon}}: ''Flyverstaben'')
+***[[Arctic Command]] ({{da icon}}: ''Arktisk Kommando'' (''AKO''))
+*** Special Operations Command ({{da icon}}: ''Specialoperationskommandoen'')
+*** [[Royal Danish Defence College]] ({{da icon}}: ''Forsvarsakademiet'' (''FAK''))
+*** [[Danish Armed Forces Health Services]] ({{da icon}}: ''Forsvarets Sundhedstjeneste'' (''FSU''))
+** [[Danish Defence Acquisition and Logistics Organization]] ({{da icon}}: ''Forsvarsministeriets Materiel- og Indkøbsstyrelse'' (''FMI''))
+*** [[Danish Defence IT Agency]] ({{da icon}}: ''Forsvarets Koncernfælles Informatiktjeneste'' (''FKIT''))
+** [[Danish Defence Personnel Organisation]] ({{da icon}}: ''Forsvarsministeriets Personalestyrelse'' (''FPS''))
+** [[Defence Estates & Infrastucture Organisation (Denmark)|Defence Property Management Agency]] ({{da icon}}: ''Forsvarsministeriets Ejendomsstyrelse'' (''FES''))
+** [[Home Guard Command (Denmark)|Home Guard Command]] ({{da icon}}: ''Hjemmeværnskommandoen'' (''HJK''))
+** [[Danish Defence Intelligence Service|Defence Intelligence Service]] ({{da icon}}: ''Forsvarets Efterretningstjeneste'' (''FE'')) 
+** [[Defence Judge Advocate Corps (Denmark)|Judge Advocate Corps]] ({{da icon}}: ''Forsvarets Auditørkorps'' (''FAUK''))
+** [[Defence Financial Management Agency]] ({{da icon}}: ''Forsvarsministeriets Regnskabsstyrelse'' (''FRS''))
+** [[Defence Internal Auditor (Denmark)|Defence Internal Auditor]] ({{da icon}}: ''Forsvarets Interne Revision'' (''FIR''))
+** [[Danish Emergency Management Agency|Emergency Management Agency]] ({{da icon}}: ''Beredskabsstyrelsen'' (''BRS''))
+** [[Conscientious objector#Denmark|Administration of Conscientious Objector]] ({{da icon}}: ''Militærnægteradministrationen'' (''MNA''))
+
+==Special forces==
+* [[Jægerkorpset]]: Ground based infiltration unit.
+* [[Danish Frogman Corps|Frømandskorpset]]: [[Amphibious warfare|Amphibious]] attack and infiltration unit.
+* [[Slædepatruljen Sirius]]: [[Arctic]] [[dog sled]] unit patrolling the eastern border of [[Greenland]].
+
+==Current deployments==
+Current deployment of Danish forces:
+* Approx. 30 Home Guard soldiers in [[Kosovo]] participating in NATO's [[Kosovo Force]] (KFOR), Guarding the French [[Camp Novo Selo]]
+* Approx. 168 soldiers attached to NATO's [[Standing NRF Maritime Group 1]].
+* 7 F-16 Fighter Aircraft stationed in Kuwait to participate in U.S.-led operations over Iraq. <ref>http://www.thelocal.dk/20141016/danish-f-16s-carry-out-first-mission-against-isis</ref>
+
+== Conscription ==
+Technically all Danish 18-year-old males are conscripts (37,897 in 2010, of whom 53% were considered suitable for duty).<ref>[http://viewer.zmags.com/publication/5caf2b62#/5caf2b62/4 Statistical information from the draft board] {{Language icon|da|Danish}}</ref> Due to the large number of volunteers, 96-99 % of the number required in the past three years, <ref>http://www.dr.dk/Nyheder/Indland/2014/10/10/10132758.htm</ref> the number of men actually called up is relatively low (4200 in 2012). There were additionally 567 female volunteers in 2010, who pass training on "conscript-like" conditions.<ref>[http://forsvaret.dk/FPT/Nyt%20og%20Presse/tal/vaernepligtige/Pages/default.aspx Ordinary conscript] {{Language icon|da|Danish}}</ref>
+
+Conscripts in the Danish Defence (army, navy and air force) generally serve four months,<ref>[http://www2.forsvaret.dk/uddannelsessite/uddannelser/Pages/Basisuddannelsen_i_haeren.aspx Army's basic training] {{Language icon|da|Danish}}</ref><ref>[http://www2.forsvaret.dk/uddannelsessite/uddannelser/Pages/Basisuddannelsen_i_flyvevaabnet.aspx Air force's basic training] {{Language icon|da|Danish}}</ref> except:
+* Conscripts of the [[Guard Hussar Regiment Mounted Squadron]] serve 12 months.
+* Conscripts aboard the [[HDMY Dannebrog (A540)|Royal Yacht ''Dannebrog'']] serve nine months.<ref>[http://www2.forsvaret.dk/uddannelsessite/uddannelser/Pages/Basisuddannelsen_i_soevaernet.aspx Navy's basic training] {{Language icon|da|Danish}}</ref>
+* Conscripts in the [[Danish Emergency Management Agency]] serve nine months.<ref>[http://brs.dk/vaernepligt/Pages/forside_vaernepligt.aspx Conscription in the Danish Emergency Management Agency] {{Language icon|da|Danish}}</ref>
+* Conscripts in the [[Royal Life Guards (Denmark)|Royal Life Guards]] serve eight months.
+
+There has been a right of [[conscientious objection]] since 1917. <ref>Alternative service law, 13 December 1917, Article 1</ref>
+
+==See also==
+{{Portal|Denmark|Faroe Islands|Greenland}}
+* [[Military history of Denmark]]
+* [[Military of Greenland]]
+* [[NATO]]
+* [[Scandinavian defence union]]
+* [[Officers ranks, Denmark]]
+
+==References==
+{{reflist}}
+* http://www2.forsvaret.dk/omos/Publikationer/Documents/Fakta%20om%20Forsvaret_DK.pdf
+
+==External links==
+{{Commons category|Military of Denmark}}
+* [http://www2.forsvaret.dk/eng/Pages/English.aspx Danish Defence]
+* [http://forsvaret.dk/hok/ Army Operative Command]
+* [http://forsvaret.dk/hmak/ Army Materiel Command]
+* [http://www.kamouflage.net/country/00131.php kamouflage.net &gt; Europe &gt; Denmark (Kingdom of Denmark) &gt; index]
+* [http://www.norden.org/en/publications/publications/2009-764 One for all, all for one? New Nordic Defence Partnership?]—Publication from the Nordic Council of Ministers. Free download.
+* [http://brage.bibsys.no/xmlui/bitstream/handle/11250/99267/1/DSS0110.pdf Norwegian and Danish defence policy: A comparative study of the post-Cold War era] A historical and comparative study published by the Norwegian Institute for Defence Studies. Free download.
+
+{{Navboxes
+|list =
+{{Military of Denmark}}
+{{North Atlantic Treaty Organization}}
+{{Militaries of European Union member states}}
+{{Military of Europe}}
+{{Denmark topics}}
+}}
+
+[[Category:Military of Denmark| ]]
+[[Category:Military of the Faroe Islands]]
+[[Category:Military of Greenland]]

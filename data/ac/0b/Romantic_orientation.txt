@@ -1,0 +1,31 @@
+{{Sexual orientation}}
+'''Romantic orientation''', also called '''affectional orientation''', indicates the [[sex]] or [[gender]] with which a person is most likely to have a [[romance (love)|romantic relationship]] or [[Falling in love|fall in love]]. It is used both alternatively and side-by-side with the term ''[[sexual orientation]]'', and is based on the perspective that [[sexual attraction]] is but a single component of a larger dynamic.<ref>Crethar, H. C. & Vargas, L. A. (2007). ''Multicultural intricacies in professional counseling.'' In J. Gregoire & C. Jungers (Eds.), The counselor’s companion: What every beginning counselor needs to know. Mahwah, NJ: Lawrence Erlbaum. ISBN 0-8058-5684-6. p.61.</ref> For example, although a [[pansexuality|pansexual]] person may feel sexually attracted to multiple genders, they may be predisposed to romantic intimacy with females. For [[Asexuality|asexual]] people, romantic orientation is often considered a more useful measure of attraction than sexual orientation.<ref name="Richards and Barker">{{cite book|authors=Christina Richards, Meg Barker|title=Sexuality and Gender for Mental Health Professionals: A Practical Guide|isbn=1-4462-9313-0|publisher=[[Sage Publications|SAGE]]|year=2013|pages=124–127|accessdate=July 3, 2014|url=https://books.google.com/books?id=uSiXAgAAQBAJ&pg=PT124}}</ref><ref name="Cerankowski and Milks">{{cite book|authors=Karli June Cerankowski, Megan Milks|title=Asexualities: Feminist and Queer Perspectives|isbn=1-134-69253-6|publisher=[[Routledge]]|year=2014|pages=89–93|accessdate=July 3, 2014|url=https://books.google.com/books?id=zLgTAwAAQBAJ&pg=PA89}}</ref>
+
+==Romantic identities==
+[[File:Aromantic Flag.svg|thumb|Aromantic Flag]]
+People may or may not engage in purely emotional [[Romance (love)|romantic]] relationships. The main identities relating to this are:<ref name="Richards and Barker"/><ref name="Cerankowski and Milks"/>{{sfn|"Sex and Society"|p=82}}
+* '''Aromantic''': Lack of romantic attraction towards anyone. The noun is ''aromanticism''.
+* '''Heteroromantic''': Romantic attraction towards person(s) of one gender other than their own.
+* '''Homoromantic''': Romantic attraction towards person(s) of the same gender.
+* '''Biromantic''': Romantic attraction towards person(s) of two or more genders.
+* '''Panromantic''': Romantic attraction to person(s) of any gender.
+
+==Relationship with sexuality and asexuality==
+The implications of the distinction between romantic and sexual orientations has not been fully recognized, nor has it been studied extensively.{{sfn|Bogaert|2012|p=14}} It is common for sources to describe sexual orientation as including components of both sexual and romantic (or romantic equivalent) attractions.{{sfn|Bogaert|2012|p=14}} Similarly, ''romantic love'' has been noted as "love with strong components of sexuality and infatuation,"{{sfn|King|2010|p=450}} although some sources contradict this notion, stating that sexual and romantic attraction are not necessarily linked.<ref>{{cite web|url=https://lgbtq.unc.edu/asexuality-attraction-and-romantic-orientation|title=Asexuality, Attraction, and Romantic Orientation|publisher=University of North Carolina at Chapel Hill|accessdate=April 9, 2015}}</ref> With regard to asexuality, while asexuals usually do not experience sexual attraction (see [[gray asexuality]]), they may still experience romantic attraction.<ref name="Richards and Barker"/><ref name="Cerankowski and Milks"/>
+
+==References==
+{{reflist|2}}
+
+===Bibliography===
+*{{cite book|title=Sex and Society|volume=2|isbn=978-0-7614-7905-5|publisher=[[Marshall Cavendish]]|year=2009|editor=Marshall Cavendish Corporation|contribution=Asexuality|accessdate=February 2, 2013|url=https://books.google.com/books?id=aVDZchwkIMEC&printsec=frontcover#v=onepage&q&f=false}}
+*{{cite book|title=Understanding Asexuality|last1=Bogaert|first1=Anthony F.|year=2012|isbn=978-1442200999|publisher=Rowman & Littlefield Publishers, Inc.|url=https://books.google.com/books?id=O3v27O00GEYC&printsec=frontcover#v=onepage&q&f=false|accessdate=April 12, 2015}}
+*{{cite book|title=The Science of Psychology: An Appreciative View|first=Laura A.|last=King|year=2010|isbn=978-0073532066 |publisher=McGraw-Hill|edition=2nd|url=https://books.google.com/books?id=CtvynlfJ06IC&printsec=frontcover&dq=the+science+of+psychology+laura+king&hl=en&sa=X&ei=ZSImVcz7EYG-sAWw04CwDA&ved=0CCsQ6AEwAA#v=onepage&q&f=false|accessdate=April 9, 2015}}
+
+==Further reading==
+*{{Cite journal | author = Wells, J. W. | year = 1989 | title = Teaching about Gay and Lesbian Sexual and Affectional Orientation Using Explicit Films to Reduce Homophobia | url =  | journal = Journal of Humanistic Education and Development | volume = 28 | issue = 1 | pages = 18–34 }}
+
+{{Sexual identities}}
+
+{{DEFAULTSORT:Affectional Orientation}}
+[[Category:Asexuality]]
+[[Category:Sexual orientation]]

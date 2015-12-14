@@ -1,0 +1,86 @@
+{{Infobox Treaty
+| name                = Dictum of Kenilworth
+| long_name           = Award of reconciliation between the king and the rebels of the [[Second Barons' War|Barons' War]].
+| image               = Kenilworth Castle gatehouse landscape.jpg
+| image_width         = 200px
+| caption             = Kenilworth Castle
+| type                = [[Edict]], [[wikt:award|award]]
+| date_drafted        = 
+| date_signed         = 31 October 1266
+| location_signed     = [[Kenilworth Castle]]
+| date_sealed         =
+| date_effective      = 14 December 1266
+| condition_effective = Restoration of rebels' land, in exchange for fines.
+| date_expiration     =
+| signatories         =
+| parties             =
+| depositor           =
+| language            = [[Latin]]
+| languages           =
+| website             =
+| wikisource          =
+}}
+
+The '''Dictum of Kenilworth''', issued 31 October 1266, was a pronouncement designed to reconcile the rebels of the [[Second Barons' War|Barons' War]] with the royal government of [[England]]. After the baronial victory at the [[Battle of Lewes]] in 1264, [[Simon de Montfort, 6th Earl of Leicester|Simon de Montfort]] took control of royal government, but at the [[Battle of Evesham]] the next year Montfort was killed, and King [[Henry III of England|Henry III]] restored to power. A group of rebels [[Siege of Kenilworth|held out]] in the stronghold of [[Kenilworth Castle]], however, and their resistance proved hard to crush.
+
+A siege of the castle was started, but through papal intervention King Henry later entered on a more conciliatory path. A commission was appointed to draw up an arrangement that would be acceptable to both sides. The resulting Dictum of Kenilworth offered the rebels the right to buy back forfeited estates, at prices depending on their level of involvement in the rebellion. After initial resistance, the terms were eventually accepted. By the summer of 1267, the country was pacified, and this spirit of reconciliation would last until the 1290s. The Dictum of Kenilworth was later incorporated into the [[Statute of Marlborough]].
+
+==Background==
+At the [[Battle of Lewes]] in 1264, the rebellious barons, led by [[Simon de Montfort, 6th Earl of Leicester|Simon de Montfort]], had defeated the royal army and taken King [[Henry III of England|Henry III]] captive.<ref>Prestwich (1988), pp. 45&ndash;6.</ref> For the next year, the reins of government were in Montfort's hands, but his support soon began to crumble.<ref>Prestwich (2005), pp. 115&ndash;6</ref> On 4 August 1265 Montfort faced an army led by Prince Edward (the later King [[Edward I of England|Edward I]]) and the powerful [[Gilbert de Clare, 6th Earl of Hertford|earl of Gloucester]], who had recently defected to the royalist side, at the [[Battle of Evesham]].<ref>Maddicott (1994), pp. 327&ndash;9.</ref> The battle resulted in a complete royal victory; Montfort was killed, and King [[Henry III of England|Henry III]] was restored to full power.<ref>Prestwich (2005), pp. 116&ndash;7.</ref>
+
+Part of the rebellious forces held out, however, and their stronghold was the virtually impregnable [[Kenilworth Castle]].<ref>Prestwich (1988), pp. 52&ndash;3.</ref> In the summer of 1266, a siege of the castle was initiated, but the effort proved futile.<ref>Powicke (1947), pp. 531&ndash;2.</ref> There were rumours that Montfort's son [[Simon VI de Montfort|Simon]] was planning an invasion of England from [[Normandy]], and this was the hope that the rebels hung on to.<ref>Powicke (1953), p. 208.</ref> It was in this situation that the papal legate [[Pope Adrian V|Ottobuono Fieschi]] exerted his influence, to make the king pursue a more conciliatory policy.<ref>Ottobuono later became pope, as [[Pope Adrian V|Adrian V]]; Powicke (1947), pp. 526&ndash;8.</ref> In August, the king summoned a parliament at [[Kenilworth]], where the siege was ongoing.<ref name="Powicke 1947, p. 532">Powicke (1947), p. 532.</ref> He commissioned a number of earls, barons and bishops to draft a treaty of reconciliation.<ref>Powicke (1953), p. 209.</ref>
+
+==The Dictum of Kenilworth==
+The commission was created by parliament appointing three bishops and three barons, who then selected one more bishop, two earls, and three more barons.<ref name="Powicke 1947, p. 532"/>
+The final committee consisted of the bishops of [[Bishop of Exeter|Exeter]], [[Bishop of Bath and Wells|Bath and Wells]], [[Bishop of Worcester|Worcester]] and [[Bishop of St. David's|St. David's]], the earls of [[Earl of Gloucester|Gloucester]] and [[Earl of Hereford|Hereford]], and six barons.<ref>[[Walter Branscombe]], [[List of bishops of Exeter|Bishop of Exeter]], [[Walter Giffard]], [[List of Bishops of Bath and Wells and precursor offices|Bishop of Bath and Wells]], [[Nicholas of Ely]], [[List of bishops of Worcester|Bishop of Worcester]], [[Richard Carew (bishop)|Richard Carew]], [[Bishop of St. David's]], [[Gilbert de Clare, 7th Earl of Hertford|Gilbert de Clare, Earl of Hertford]], [[Humphrey de Bohun, 2nd Earl of Hereford|Humphrey de Bohun, Earl of Hereford]], [[Philip Basset]], [[John I de Balliol|John Balliol]], [[Robert Walerand]], [[Alan la Zouche (1205–1270)|Alan la Zouche]], [[Roger de Somery]] and [[Warin Basingbourne]]; Rothwell (1975), p. 380.</ref> This committee was given until All Saints Day (1 November) to come up with provisions for a settlement.<ref>Powicke (1947), pp. 532&ndash;3.</ref> The result, known as the Dictum<ref>A "dictum" in this context is an [[edict]] or [[wikt:award|award]], i.e. a legal ruling by an authority; {{cite web|url=http://dictionary.oed.com/cgi/entry/50063594|title=dictum, ''n.''|publisher=[[Oxford Dictionary of English]]|accessdate=2008-10-28|subscription=yes}}</ref> of Kenilworth, was made public on 31 October 1266.<ref name="R380">"on the day before the [[Calends|kalends]] of November"; Rothwell (1975), p. 380.</ref>
+
+The primary point of the Dictum was the re-establishment of royal authority.<ref>Article 1 (the numbers refer to the articles of the Dictum as they appear in Rothwell (1975), pp. 380&ndash;4).</ref> The [[Provisions of Oxford]], that had been forced on the king, were repudiated, and it was made clear that the appointment of ministers was entirely a [[Royal Prerogative|royal prerogative]].<ref>Article 7.</ref> King Henry in turn reconfirmed [[Magna Carta]] and the [[Charter of the Forest]].<ref>Article 3.</ref> Measures were taken to renounce the increasing veneration of the fallen Simon de Montfort,<ref>Article 8.</ref> whom some were already starting to consider a martyr and a possible saint.<ref>Maddicott (1994), pp. 346&ndash;7.</ref>
+
+The rebels had previously been completely disinherited, and their land taken into the king's hands.<ref>Powicke (1953), p. 204.</ref> The Dictum instead extended a pardon,<ref>Article 5.</ref> and restored land to their previous owners, contingent on payment of certain penalties that were proportional to the level of involvement in the rebellion. It was traditional to value land at ten times its annual yield,<ref>Powicke (1947), p. 536.</ref> and most of the rebels were subsequently fined at half of this amount: five times the annual yield of their lands.<ref>Article 12.</ref>
+
+[[Robert de Ferrers, 6th Earl of Derby|Robert Ferrers, Earl of Derby]], was singled out in particular for his central involvement in the rebellion, and for him the multiple was seven rather than five.<ref>Article 14.</ref> The same was the case for [[Henry de Hastings, 1st Baron Hastings|Henry de Hastings]], who was the commander of Kenilworth Castle.<ref>Article 17.</ref> Those who had not taken part in the fighting themselves, but had incited others to rise up against the king, were fined at two year's value,<ref>Article 26.</ref> while those who had been compelled to fight, or played only a minor part, had to pay one year's value of their land.<ref>Article 27.</ref> The proceedings from the fines were awarded to royal supporters,<ref>Article 22.</ref> some of whom had already been awarded parts of the rebels' land, and now had to give it back.<ref>Powicke (1947), p. 537.</ref>
+
+==Aftermath==
+Hostilities did not end with the publication of the Dictum.<ref>Powicke (1947), p. 538.</ref> The garrison at Kenilworth refused to accept the terms given, and held out until 14 December, when deprivation forced them to surrender.<ref>Powicke (1947), p. 539.</ref> In April 1267, the earl of Gloucester{{spaced ndash}}who had been central both to the royal victory at Evesham and to the drafting of the Dictum{{spaced ndash}}turned against the king. He occupied the city of [[London]], and set himself up as the champion of the disinherited.<ref>Prestwich (1988), pp. 58&ndash;9.</ref> After negotiations involving both Edward and Ottobuono, Gloucester relented, and by June a settlement was reached.<ref>Prestwich (1988), p. 9.</ref> Gloucester had forced a change to the conditions of the Dictum, whereby the disinherited were allowed to recover their lands before they had paid their fines rather than after; an arrangement that made repayment much easier.<ref name="P121">Prestwich (2005), p. 121.</ref> In the summer of that year, Prince Edward moved at the [[Isle of Ely]], where the last of the rebels still held out, and forced them into submission under terms favourable to the rebels.<ref>Prestwich (1988), p. 59.</ref>
+
+In November 1267, parliament met at [[Marlborough, Wiltshire|Marlborough]].<ref>Ridgeway (2004).Some authorities refer to the meeting as a great council rather than a parliament; Powicke (1953), p. 209.</ref> Here an important provision was issued that would become known to history as the [[Statute of Marlborough]].<ref>Powicke (1947), p. 543.</ref> This statute incorporated the clauses of the Dictum of Kenilworth that dealt with the restoration of royal power, and reconciliation between the loyalists and the rebels.<ref name="P121"/><ref>Powicke (1947), p. 547.</ref> The Statute of Marlborough became a basis for royal government, and the relationship between the king and his subjects, and as such the Dictum lived on in English constitutional history.<ref>Powicke (1947), pp. 547&ndash;9.</ref>
+
+The spirit of peace and reconciliation established by the Dictum of Kenilworth lasted for the remainder of Henry III's reign and into the 1290s.<ref name="P121"/> In 1270, Prince Edward left the country to go on [[Ninth Crusade|crusade]] in the [[Holy Land]].<ref>Prestwich (1988), p. 73.</ref> When his father died in 1272, Edward felt in a safe enough position to wait until 1274 before returning home to claim the throne.<ref>Prestwich (2005), pp. 122&ndash;3.</ref>
+
+==References==
+{{reflist|2}}
+
+==Sources==
+*[[John Maddicott|Maddicott, J. R.]] (1994), ''Simon de Montfort'', Cambridge: Cambridge University Press. ISBN 0-521-37493-6.
+*[[F. M. Powicke|Powicke, F. M.]] (1947), ''King Henry III and the Lord Edward: The Community of the Realm in the Thirteenth Century'', Oxford: Clarendon Press.
+*Powicke, F. M. (1953), ''The Thirteenth Century: 1216-1307'', Oxford: Clarendon. ISBN 0-19-285249-3.
+*[[Michael Prestwich|Prestwich, Michael]] (1988), ''Edward I'', London: Methuen London ISBN 0-413-28150-7.
+*Prestwich, Michael (2005), ''Plantagenet England: 1225-1360'', Oxford: Oxford University Press. ISBN 0-19-822844-9.
+*{{Cite book|last=Ridgeway|first=H.W.|chapter=Henry III (1207–1272)|title=Oxford Dictionary of National Biography|publisher=Oxford University Press|location=Oxford|year=2004|doi=10.1093/ref:odnb/12950|accessdate=2008-10-23}}
+*Rothwell, H. (ed.) (1975), ''English Historical Documents III, 1189&ndash;1327'', London, Eyre & Spottiswoode. ISBN 0-413-23310-3.
+
+==Further reading==
+*Altschul, M. (1965), ''A Baronial Family in Medieval England: The Clares, 1217-1314'', Baltimore, Johns Hopkins Press.
+*Brand, P.A. (2003), ''Kings, Barons and Justices: The Making and Enforcement of Legislation in Thirteenth-Century England'', Cambridge: Cambridge University Press. ISBN 0-521-37246-1.
+*[[David Carpenter (historian)|Carpenter, D.A.]] (1996), ''The Reign of Henry III'', London: Hambledon. ISBN 1-85285-070-1.
+*Denholm-Young, N. (1947), ''Richard of Cornwall'', Oxford: Blackwell.
+*[[E. F. Jacob|Jacob, E.F.]] (1925), ''Studies in the Period of Baronial Reform and Rebellion, 1258-1267'', Oxford, Clarendon Press.
+*Knowles, C.H. (1982), "The resettlement of England after the Barons' War", ''Transactions of the Royal Historical Society'', 5th ser. '''32'''.
+*Knowles, C.H. (1986), "Provision for the families of the Montfortians disinherited after the Battle of Evesham", in [[Peter Coss|P.R. Coss]] and S.D. Lloyd (eds.) ''Thirteenth Century England I'', Woodbridge: Boydell.
+*Lewis, A. (1939), "Roger Leyburn and the Pacification of England, 1265-7", ''English Historical Review'', '''54'''.
+*Lloyd, T.H. (1986), "Gilbert de Clare, Richard of Cornwall and the Lord Edward's Crusade", ''Nottingham Medieval Studies'', '''31'''.
+*Maddicott, J.R. (1986), "Edward I and the lessons of baronial reform: local government, 1258-80", in [[Peter Coss|P.R. Coss]] and S.D. Lloyd (eds.) ''Thirteenth Century England I'', Woodbridge: Boydell.
+*Treharne, R.F. (1932), ''The Baronial Plan of Reform'', Manchester: Manchester University Press.
+
+{{Documents of the English Baronial Reform Movement, 1258–1267}}
+
+{{good article}}
+
+{{DEFAULTSORT:Dictum Of Kenilworth}}
+[[Category:1266 in law]]
+[[Category:1266 in England]]
+[[Category:13th-century historical documents]]
+[[Category:Barons' Wars]]
+[[Category:History of Warwickshire]]
+[[Category:Treaties of Medieval England]]
+[[Category:13th-century treaties]]

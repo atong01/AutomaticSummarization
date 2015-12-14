@@ -1,0 +1,111 @@
+{{lowercase|title=djbdns}}
+{{Infobox software
+| name                   = djbdns
+| logo                   =
+| screenshot             =
+| caption                =
+| developer              = [[Daniel J. Bernstein]]
+| latest release version = 1.05
+| latest release date    = {{Start date and age|2001}}
+| latest preview version =
+| latest preview date    =
+| operating system       = [[Unix-like]]
+| platform               =
+| genre                  = [[Domain Name System|DNS]] server
+| license                = [[Public domain]]
+| website                = {{URL|cr.yp.to/djbdns.html}}
+}}
+The '''djbdns''' software package is a [[Domain Name System|DNS]] implementation. It was created by [[Daniel J. Bernstein]] in response to his frustrations with repeated [[Vulnerability (computing)|security holes]] in the widely used [[BIND]] DNS software. As a challenge, Bernstein offered a $1000 prize<ref>
+{{cite web
+|url=http://cr.yp.to/djbdns/guarantee.html
+|title=The djbdns security guarantee
+|accessdate=2008-09-02
+}}</ref> for the first person to find a [[security hole]] in djbdns, which was awarded<ref>
+{{cite web
+|url=http://article.gmane.org/gmane.network.djbdns/13864
+|title=The djbdns prize claimed
+|accessdate=2009-03-04
+}}</ref> in March 2009 to Matthew Dempsky.
+
+{{As of|2004}}, djbdns's tinydns component was the second most popular DNS server in terms of the number of domains for which it was the authoritative server, and third most popular in terms of the number of DNS hosts running it.<ref>{{cite web | last = Moore | first = Don | year = 2004 | url = http://mydns.bboy.net./survey/ | title = DNS server survey | accessdate = 2005-01-06 }}</ref>
+
+djbdns has never been vulnerable to the widespread [[cache poisoning]] vulnerability reported in July 2008,<ref>{{cite web
+ | url = http://www.kb.cert.org/CERT_WEB%5Cservices%5Cvul-notes.nsf/id/800113
+ | title = Multiple DNS implementations vulnerable to cache poisoning
+ | accessdate = 2008-08-05
+}}</ref><ref>{{cite web
+ | url = http://www.doxpara.com/?p=1162
+ | title = An Astonishing Collaboration
+ | accessdate = 2008-08-05
+}}</ref> but it has been discovered that it is vulnerable to a related attack.
+<ref>{{cite web
+ | url = http://www.your.org/dnscache/
+ | title = Rapid DNS Poisoning in djbdns
+ | last = Day
+ | first = Kevin
+ | year = 2009
+ | accessdate = 2009-02-23
+}}</ref>
+
+The [[source code]] has not been centrally managed since its release in 2001, and was released into the public domain in 2007.<ref>{{cite web|url=http://cr.yp.to/distributors.html|title=djbdns is placed in the public domain}}</ref> As of March 2009, there are a number of [[Fork (software development)|forks]], one of which is [[dbndns]] (part of the [[Debian Project]]), and more than a dozen [[Patch (computing)|patches]] to modify the released version.<ref>{{cite web|url=http://linuxmafia.com/faq/Network_Other/dns-servers.html#djbdns|title=Detailed overview of DNS server software by Rick Moen|accessdate=2009-07-13}}</ref>
+
+It is worth noting that djbdns do not support NSEC3, but can with tweaks be made to serve a signed zone signed with just NSEC.
+
+==Components==
+The djbdns software consists of servers, clients, and miscellaneous configuration tools.
+
+===Servers===
+* dnscache &mdash; the DNS resolver and cache.
+* tinydns &mdash; a database-driven DNS server.
+* walldns &mdash; a "reverse DNS wall", providing IP address-to-domain name lookup only.
+* rbldns &mdash; a server designed for DNS blacklisting service.
+* pickdns &mdash; a database-driven server that chooses from matching records depending on the requestor's location. (This feature is now a standard part of tinydns.)
+* axfrdns &mdash; a zone transfer server.
+
+===Client tools===
+* axfr-get &mdash; a zone-transfer client.
+* dnsip &mdash; simple address from name lookup.
+* dnsipq &mdash; address from name lookup with rewriting rules.
+* dnsname &mdash; simple name from address lookup.
+* dnstxt &mdash; simple text record from name lookup.
+* dnsmx &mdash; mail exchanger lookup.
+* dnsfilter &mdash; looks up names for addresses read from stdin, in parallel.
+* dnsqr &mdash; recursive general record lookup.
+* dnsq &mdash; non-recursive general record lookup, useful for debugging.
+* dnstrace (and dnstracesort) &mdash; comprehensive testing of the chains of authority over DNS servers and their names.
+
+==Design==
+In djbdns, different features and services are split off into separate programs. For example, zone transfers, zone file parsing, [[DNS cache|caching]], and [[recursion|recursive]] resolving are implemented as separate programs.  The result of these design decisions is a reduction in code size and complexity of the [[daemon (computing)|daemon]] program that provides the core function of answering lookup requests.  Bernstein asserts that this is true to the spirit of the [[Unix]] operating system, and makes security verification much simpler.
+
+==Copyright status==
+On December 28, 2007, Bernstein released djbdns into the [[public domain]].<ref>
+{{cite web
+ | url = http://cr.yp.to/distributors.html
+ | title = Frequently asked questions from distributors
+ | accessdate = 2007-12-31
+}}</ref> Previously the package was distributed free of charge as [[license-free software]]. However this did not permit the distribution of modified versions of djbdns, which was one of the core principles of [[open-source software]]. Consequently, it was not included in [[Linux distribution]]s which required all components to be open-source.
+
+==See also==
+{{Portal|Free software}}
+* [[Comparison of DNS server software]]
+* [[dbndns]]
+* [[DNS management software]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://cr.yp.to/djbdns.html djbdns official homepage]
+*[http://pjp.dgplug.org/djbdns/ N-DJBDNS]
+*[http://lifewithdjbdns.org/ A guide to djbdns]
+*[http://djbdns.faqts.com/ The djbdns section of FAQTS]
+*[http://www.tinydns.org/ Unofficial website]
+*[http://www.djbdnsrocks.org/ A djbdns guide and tutorial with addon]
+*{{cite web|url=http://homepage.ntlworld.com./jonathan.deboynepollard/FGA/djbdns-myths-dispelled.html|title=Some of what is said about djbdns is wrong.|author=Jonathan de Boyne Pollard|work=Frequently Given Answers}} &mdash; Jonathan de Boyne Pollard's debunking of several myths relating to djbdns
+*{{cite web|url=http://homepage.ntlworld.com./jonathan.deboynepollard/FGA/djbdns-problems.html|title=The known problems with Dan Bernstein's djbdns|author=Jonathan de Boyne Pollard|work=Frequently Given Answers}} &mdash; Jonathan de Boyne Pollard's list of the several known problems in djbdns
+*[http://www.anders.com/projects/sysadmin/djbdnsRecordBuilder/ Supporting newer record formats through generic records.]
+*[http://lwn.net/2001/features/djbdns.php3 LWN (Linux weekly news) looks at djbdns]
+
+[[Category:DNS software]]
+[[Category:Public domain software]]
+[[Category:DNS server software for Linux]]

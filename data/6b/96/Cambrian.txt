@@ -1,0 +1,243 @@
+{{Other uses}}
+{{Use dmy dates|date=February 2013}}
+{{Geological period
+|image=
+|o2=12.5
+|co2=4500<!--- to 7000--->
+|temp=21
+|sea level = Rising steadily from 30m to 90m<ref>{{cite journal | author =  Haq, B. U.| year =  2008| doi = 10.1126/science.1161648 | title =  A Chronology of Paleozoic Sea-Level Changes | journal =  Science | volume =  322 | pages =  64–8 | pmid =  18832639 | last2 =  Schutter | first2 =  SR | issue =  5898 |bibcode = 2008Sci...322...64H }}</ref>
+|timeline=off
+}}
+{{Cambrian graphical timeline}}
+The '''Cambrian''' ({{IPAc-en|ˈ|k|æ|m|b|r|i|ə|n}} or {{IPAc-en|ˈ|k|eɪ|m|b|r|i|ə|n}}) is the first [[geological period]] of the [[Paleozoic]] Era,<ref name=EB1911>{{cite EB1911|wstitle=Cambrian System}}</ref> lasting from {{Geologic Ages Inline|Cambrian}} to {{Geologic Ages Inline|Ordovician}} million years ago (mya) and is succeeded by the [[Ordovician]].<ref name="StratChart 2012">{{cite web|title=Stratigraphic Chart 2012|url=http://www.stratigraphy.org/ICSchart/ChronostratChart2012.pdf|publisher=International Stratigraphic Commission|accessdate=9 November 2012}}</ref> Its subdivisions, and indeed its base, are somewhat in flux.  The period was established (as “Cambrian series”) by [[Adam Sedgwick]],<ref name=EB1911/> who named it after [[Cambria]], the [[Latin|Latinised]] form of ''Cymru'', the [[Welsh language|Welsh]] name for [[Wales]], where Britain's Cambrian rocks are best exposed.<ref>Sedgwick and R. I. Murchison (1835) [https://archive.org/stream/reportannualmee03meetgoog#page/n398/mode/1up/ "On the Silurian and Cambrian systems, exhibiting the order in which the older sedimentary strata succeed each other in England and Wales,"] Notices and Abstracts of Communications to the British Association for the Advancement of Science at the Dublin meeting, August 1835, pp. 59-61, in: ''Report of the Fifth Meeting of the British Association for the Advancement of Science; held in Dublin in 1835'' (1836).  From p. 60:  "Professor Sedgwick then described in descending order the groups of slate rocks, as they are seen in Wales and Cumberland.  To the highest he gave the name of ''Upper Cambrian'' group. … To the next inferior group he gave the name of ''Middle Cambrian''. … The ''Lower Cambrian'' group occupies the S.W. coast of Cærnarvonshire, … " </ref><ref name=Sedgwick1852>{{cite journal|doi=10.1144/GSL.JGS.1852.008.01-02.20|author=Sedgwick, A. |year=1852|title=On the classification and nomenclature of the Lower Paleozoic rocks of England and Wales|journal=Q. J. Geol. Soc. Land. |volume=8|pages=136–138}}</ref><ref>{{cite web|title=Chambers 21st Century Dictionary |url=https://books.google.co.uk/books?id=Z7Ymjw1o9a0C&pg=PA203&lpg=PA203&dq=cambrian+latin+cymru&source=bl&ots=oMgLBW4GaJ&sig=p6s9WVvmnQnfcd_1J02-mRoIp1M&hl=cy&sa=X&ved=0CE4Q6AEwB2oVChMI-_CumbGPyAIVR1wUCh0jiQwP#v=onepage&q=cambrian%20latin%20cymru&f=false |work=[[Chambers Dictionary]] |publisher=[[Allied Publishers]] |edition=Revised |year=2008 |isbn=978-81-8424-329-1 |location=New Dehli |page=203 }}</ref> The Cambrian is unique in its unusually high proportion of [[lagerstätte]] sedimentary deposits.  These are sites of exceptional preservation, where "soft" parts of organisms are preserved as well as their more resistant shells.  This means that our understanding of the Cambrian biology surpasses that of some later periods.<ref name=Orr2003>{{cite journal | first1 = P. J.| first2 = M. J. | first3 = D. E. G.| last1 = Orr| last2 = Benton| last3 = Briggs | title = Post-Cambrian closure of the deep-water slope-basin taphonomic window | url = http://www.gsajournals.org/perlserv/?request=get-abstract&doi=10.1130%2FG19193.1 | accessdate = 2008-06-28  | journal = Geology | volume = 31 | issue = 9 | pages = 769–772 | year = 2003 | doi = 10.1130/G19193.1|bibcode = 2003Geo....31..769O }}</ref>
+
+The Cambrian marked a profound change in [[life on Earth]]; prior to the Cambrian, the majority of living organisms on the whole were small, [[unicellular organism|unicellular]] and simple; the [[Precambrian]] ''[[Charnia]]'' being exceptional.  Complex, [[multicellular organism]]s gradually became more common in the millions of years immediately preceding the Cambrian, but it was not until this period that mineralized&nbsp;– hence readily fossilized&nbsp;– organisms became common.<ref name=Butterfield2007>{{cite journal| last1 = Butterfield | first1 = N. J.| year = 2007| title = Macroevolution and macroecology through deep time| journal = Palaeontology| volume = 50| issue = 1| pages = 41–55| doi = 10.1111/j.1475-4983.2006.00613.x}}</ref>  The rapid diversification of lifeforms in the Cambrian, known as the [[Cambrian explosion]], produced the first representatives of all modern animal phyla. Phylogenetic analysis has supported the view that during the Cambrian radiation, [[metazoa]] ([[animals]]) evolved [[monophyly|monophyletically]] from a single common ancestor: flagellated colonial [[protists]] similar to modern [[choanoflagellates]].
+
+While diverse life forms prospered in the oceans, the land was comparatively barren&nbsp;– with nothing more complex than a microbial [[cryptobiotic soil|soil crust]]<ref>Schieber, 2007, pp. 53–71.</ref> and a few molluscs that emerged to browse on the microbial biofilm<ref name=Seilacher>{{cite journal | last1 = Seilacher | first1 = A. | last2 = Hagadorn | first2 = J.W. | year = 2010 | title = Early Molluscan evolution: evidence from the trace fossil record | url = | journal = Palaios | volume = 25 | issue = | pages = 565–575 }}</ref>  Most of the [[continent]]s were probably dry and rocky due to a lack of vegetation. Shallow seas flanked the margins of several continents created during the breakup of the [[supercontinent]] [[Pannotia]].  The seas were relatively warm, and polar ice was absent for much of the period.
+
+The United States [[Federal Geographic Data Committee]] uses a "barred capital C" {{angbr|Є}} character similar to the capital letter [[Ukrainian Ye]] {{angbr|Є}} to represent the Cambrian Period.<ref>{{cite book
+|editor=Federal Geographic Data Committee
+|title=FGDC Digital Cartographic Standard for Geologic Map Symbolization FGDC-STD-013-2006 
+|url=http://ngmdb.usgs.gov/fgdc_gds/geolsymstd/fgdc-geolsym-all.pdf
+|format=PDF
+|accessdate=23 August 2010
+|date=August 2006
+|publisher=U.S. Geological Survey for the Federal Geographic Data Committee
+|page=A–32–1}}</ref>
+The proper<ref>{{cite web|title=Proposal to Encode C WITH BAR|url=http://std.dkuug.dk/jtc1/sc2/wg2/docs/n3896.pdf|accessdate=6 April 2011|author=Priest, Lorna A.|author2=Iancu, Laurentiu |author3=Everson, Michael |format=PDF|date=October 2010}}</ref> [[Unicode]] character is {{unichar|A792|LATIN CAPITAL LETTER C WITH BAR}}.<ref>[http://www.fileformat.info/info/unicode/char/A792/index.htm Unicode Character 'LATIN CAPITAL LETTER C WITH BAR' (U+A792)].  fileformat.info. Accessed 15 Jun 2015</ref>
+
+== Stratigraphy ==
+{{Further|Stratigraphy of the Cambrian}}
+
+Despite the long recognition of its distinction from younger [[Ordovician]] rocks and older [[Precambrian]] rocks, it was not until 1994 that this time  period was internationally ratified. The base of the Cambrian is defined on a complex assemblage of [[trace fossils]] known as the ''[[Treptichnus pedum]]'' assemblage.<ref name=Knoll2004a>A. Knoll, M. Walter, G. Narbonne, and N. Christie-Blick (2004) "[http://www.stratigraphy.org/bak/ediacaran/Knoll_et_al_2004a.pdf The Ediacaran Period: A New Addition to the Geologic Time Scale.]" Submitted on Behalf of the Terminal Proterozoic Subcommission of the International Commission on Stratigraphy.</ref>
+Nevertheless, the usage of ''Treptichnus pedum'', a reference [[Trace fossil|ichnofossil]] for the lower boundary of the Cambrian, for the stratigraphic detection of this boundary is always risky because of occurrence of very similar trace fossils belonging to the Treptichnids group well below the ''T. pedum'' in [[Namibia]], Spain and [[Newfoundland and Labrador|Newfoundland]], and possibly, in the western USA. The stratigraphic range of ''T. pedum'' overlaps the range of the [[Ediacaran]] fossils in Namibia, and probably in Spain.<ref name=Fedonkin2007>M.A. Fedonkin, B.S. Sokolov, M.A. Semikhatov, N.M.Chumakov (2007). "[http://vendian.net76.net/Vendian_vs_Ediacaran.htm Vendian versus Ediacaran: priorities, contents, prospectives.]" In: edited by M. A. Semikhatov "[http://www.geosci.monash.edu.au/precsite/docs/workshop/moscow07/transaction.pdf The Rise and Fall of the Vendian (Ediacaran) Biota. Origin of the Modern Biosphere. Transactions of the International Conference on the IGCP Project 493, August 20–31, 2007, Moscow.]" Moscow: GEOS.</ref><ref name= Ragozina2007>A. Ragozina, D. Dorjnamjaa, A. Krayushkin, E. Serezhnikova (2008). "[http://vendian.net76.net/Treptichnus_pedum.htm ''Treptichnus pedum'' and the Vendian-Cambrian boundary]". 33 Intern. Geol. Congr.  6–14 August 2008, Oslo, Norway. Abstracts. Section HPF 07 Rise and fall of the Ediacaran (Vendian) biota. P. 183.</ref>
+
+=== Subdivisions {{anchor|Subdivisions}} ===
+
+The Cambrian period follows the [[Ediacaran]] and is followed by the [[Ordovician]] period. The Cambrian is divided into four [[epoch (geology)|epochs]] or [[series (stratigraphy)|series]] and ten [[age (geology)|ages]] or [[stage (stratigraphy)|stages]]. Currently only two series and five stages are named and have a [[GSSP]].
+
+Because the international stratigraphic subdivision is not yet complete, many local subdivisions are still widely used. In some of these subdivisions the Cambrian is divided into three epochs with locally differing names&nbsp;– the Early Cambrian (Caerfai or Waucoban, {{period span|early cambrian}} mya), [[Middle Cambrian]] (St Davids or Albertan, {{period span|middle cambrian}} mya) and [[Furongian]] ({{period span|late cambrian}} mya; also known as Late Cambrian, Merioneth or Croixan). Rocks of these epochs are referred to as belonging to the Lower, Middle, or Upper Cambrian.
+
+[[Trilobite zone]]s allow biostratigraphic correlation in the Cambrian.
+
+Each of the local epochs is divided into several stages. The Cambrian is divided into several regional [[faunal stages]] of which the Russian-Kazakhian system is most used in international parlance:
+{{clear}}
+{| class="wikitable"
+!  !!  !! Chinese !! North American !! Russian-Kazakhian !! Australian !! Regional
+|-
+|rowspan="15" align="center"| '''C<br />a<br />m<br />b<br />r<br />i<br />a<br />n''' || rowspan="5" align="center"| [[Furongian]] ||  || rowspan="2" |Ibexian (part) || rowspan="2" |Ayusokkanian || Datsonian || rowspan="2" |Dolgellian ([[Trempealeauan]], Fengshanian)
+|-
+|  || Payntonian
+|-
+|  || Sunwaptan || Sakian || Iverian || Ffestiniogian  ([[Franconian (Stage)|Franconian]], Changshanian)
+|-
+|  || Steptoan || Aksayan || Idamean || Maentwrogian (Dresbachian)
+|-
+|  || rowspan="2" | Marjuman || Batyrbayan || Mindyallan || 
+|-
+| rowspan="5" align="center"|  [[Cambrian Series 3]] || Maozhangian || Mayan || Boomerangian || 
+|-
+| Zuzhuangian || Delamaran || Amgan || Undillian || 
+|-
+| Zhungxian ||  ||  || Florian || 
+|-
+|  ||  ||  || Templetonian || 
+|-
+| &nbsp; || rowspan="2" | Dyeran ||  || rowspan="2" | Ordian || 
+|-
+| rowspan="3" align="center"| [[Cambrian Series 2]] || Longwangmioan || Toyonian || Lenian
+|-
+| Changlangpuan || Montezuman || Botomian ||  || 
+|-
+| Qungzusian ||  || Atdabanian ||  || 
+|-
+| rowspan="2" align=center | [[Terreneuvian]] 
+|-
+| Meishuchuan <br> Jinningian|| Placentian  || Tommotian<br>Nemakit-Daldynian* ||  || Cordubian
+|-
+| colspan="2" align="center"| '''[[Precambrian]]''' || Sinian ||  Hadrynian|| Nemakit-Daldynian*<br>Sakharan || Adeladean || 
+|}
+<nowiki>*</nowiki>In Russian scientific thought the lower boundary of the Cambrian is suggested to be defined at the base of the Tommotian Stage which is characterized by diversification and global distribution of organisms with mineral skeletons and the appearance of the first [[Archaeocyatha|Archaeocyath]] bioherms.<ref name=Rozanov2008>{{cite journal
+ | author = A.Yu. Rozanov, V.V. Khomentovsky, Yu.Ya. Shabanov, G.A. Karlova, A.I. Varlamov, V.A. Luchinina, T.V. Pegel’, Yu.E. Demidenko, P.Yu. Parkhaev, I.V. Korovnikov, N.A. Skorlotova
+ | year = 2008
+ | title = To the problem of stage subdivision of the Lower Cambrian
+ | journal = Stratigraphy and Geological Correlation
+ | volume = 16
+ | issue = 1
+ | pages = 1–19
+ | doi = 10.1007/s11506-008-1001-3
+ | bibcode=2008SGC....16....1R
+}}</ref><ref name=SokolovFedonkin1984>{{cite journal
+ | author = B. S. Sokolov, M. A. Fedonkin
+ | year = 1984
+ | title = The Vendian as the Terminal System of the Precambrian
+ | journal = Episodes
+ | volume = 7
+ | issue = 1
+ | pages = 12–20
+ | url = http://www.episodes.org/backissues/71/ARTICLES--12.pdf
+}}</ref><ref name= Khomentovskii2005>{{cite journal
+ | author = V. V. Khomentovskii and G. A. Karlova
+ | year = 2005
+ | title = The Tommotian Stage Base as the Cambrian Lower Boundary in Siberia
+ | journal = Stratigraphy and Geological Correlation
+ | volume = 13
+ | issue = 1
+ | pages = 21–34
+ | url = http://www.maikonline.com/maik/showArticle.do?auid=VAE43XYML4
+}}</ref>
+
+=== Cambrian dating ===
+[[Image:Archeocyathids.JPG|thumb|[[Archeocyathid]]s from the [[Poleta formation]] in the [[Death Valley]] area]]
+The time range for the Cambrian has classically been thought to have been from about 542 million-years-ago (mya) to about 488 mya. The lower boundary of the Cambrian was traditionally set at the earliest appearance of [[trilobite]]s and also unusual forms known as [[Archeocyatha|archeocyathids]] (literally "ancient cup") that are thought to be the earliest sponges and also the first non-microbial [[reef]] builders.
+
+The end of the period was eventually set at a fairly definite faunal change now identified as an [[extinction event]]. [[Fossil]] discoveries and [[radiometric dating]] in the last quarter of the 20th century have called these dates into question. Date inconsistencies as large as 20 million years are common between authors. Framing dates of ''ca.'' 545 to 490 mya were proposed by the International Subcommission on Global Stratigraphy as recently as 2002.
+
+A radiometric date from [[New Brunswick]] puts the end of the Lower Cambrian around 511 mya. This leaves 21 mya for the other two series/epochs of the Cambrian.
+
+A more precise date of 542 ± 0.3 mya for the extinction event at the beginning of the Cambrian has recently been submitted.<ref name=Gradstein2004>{{cite book
+ | author = Gradstein, F.M. |author2=Ogg, J.G. |author3=Smith, A.G.
+ | year = 2004
+ | title = A Geologic Time Scale 2004
+ | publisher = Cambridge University Press
+ | isbn = 
+ |display-authors=etal}}</ref> The rationale for this precise dating is interesting in itself as an example of [[Paleontology|paleological]] [[deductive reasoning]]. Exactly at the Cambrian boundary there is a marked fall in the abundance of [[carbon-13]], a "reverse spike" that [[paleontologist]]s call an ''excursion''. It is so widespread that it is the best indicator of the position of the Precambrian-Cambrian boundary in [[stratigraphic]] sequences of roughly this age. One of the places that this well-established carbon-13 excursion occurs is in [[Oman]]. Amthor (2003) describes evidence from Oman that indicates the [[carbon]]-[[isotope]] excursion relates to a mass extinction: the disappearance of distinctive fossils from the [[Precambrian]] coincides exactly with the carbon-13 anomaly. Fortunately, in the Oman sequence, so too does a [[volcanic ash]] horizon from which [[zircon]]s provide a very precise age of 542 ± 0.3 mya (calculated on the decay rate of [[uranium]] to lead). This new and precise date tallies with the less precise dates for the carbon-13 anomaly, derived from sequences in [[Siberia]] and [[Namibia]].
+
+== Paleogeography ==
+[[File:Cambrian Rocks map.png|thumb|450px|Distribution of Cambrian Rocks]]
+
+[[Plate reconstruction]]s suggest a global supercontinent, [[Pannotia]], was in the process of breaking up early in the period,<ref>{{Cite journal
+ | title =  Did Pannotia, the latest Neoproterozoic southern supercontinent, really exist
+ | year = 1995
+ | journal = [[Eos (journal)|Eos, Transactions, American Geophysical Union]]
+ | pages = 46–72
+ | volume = 76
+ | last1 = Powell	 | first1 =  C.M.
+ | last2 =  Dalziel	 | first2 =  I.W.D.
+ | last3 =  Li	 | first3 =  Z.X.
+ | last4 =  McElhinny	 | first4 =  M.W.	}}</ref><ref name=Scotese1998>{{Cite journal
+ | title =  A tale of two supercontinents: the assembly of Rodinia, its break-up, and the formation of Pannotia during the Pan-African event
+ | year = 1998
+ | author = Scotese, C.R.
+ | journal = Journal of African Earth Sciences
+ | pages = 171
+ | volume = 27
+ | issue = 1A
+ | doi = 10.1016/S0899-5362(98)00028-1
+|bibcode = 1998JAfES..27....1A }}</ref> with [[Laurentia]] (North America), [[Baltica]], and [[Siberia (continent)|Siberia]] having separated from the main supercontinent of [[Gondwana]] to form isolated land masses.<ref name=McKerrow1992>{{Cite journal| last1 = Mckerrow | first1 = W. S.| first2 = C. R.| first3 = M. D. | title = Early Cambrian continental reconstructions | journal = Journal of the Geological Society | volume = 149| issue = 4 | pages = 599–593 | year = 1992 | doi = 10.1144/gsjgs.149.4.0599| last2 =   Scotese| last3 =   Brasier}}</ref> Most continental land was clustered in the Southern Hemisphere at this time, but was gradually drifting north.<ref name=McKerrow1992/> Large, high-velocity rotational movement of Gondwana appears to have occurred in the Early Cambrian.<ref name=Mitchell2010>{{Cite journal | last1 = Mitchell | first1 = R. N. | last2 = Evans | first2 = D. A. D. | last3 = Kilian | first3 = T. M. | title = Rapid Early Cambrian rotation of Gondwana | journal = Geology | volume = 38 | issue = 8 | pages = 755 | year = 2010 | doi = 10.1130/G30910.1|bibcode = 2010Geo....38..755M }}</ref>
+
+With a lack of sea ice&nbsp;– the great glaciers of the Marinoan [[Snowball Earth]] were long melted<ref name=Smith2008>{{cite journal|author=Smith, A.G.|year=2008 |title=Neoproterozoic time scales and stratigraphy|journal=Geol. Soc.|issue=Special publication}}</ref>&nbsp;– the sea level was high, which led to large areas of the continents being flooded in warm, shallow seas ideal for thriving life.  The sea levels fluctuated somewhat, suggesting there were 'ice ages', associated with pulses of expansion and contraction of a south polar [[ice cap]].<ref name=p32009>{{Cite journal| last2 = Allison| first1 = C. E.| first2 = P. A.| last3 = Desantis| last4 = Liddell| last5 = Kramer | first3 = M. K.| first4 = W. D.| first5 = A.| title = Sequence stratigraphy, cyclic facies, and lagerstätten in the Middle Cambrian Wheeler and Marjum Formations, Great Basin, Utah| journal = Palaeogeography Palaeoclimatology Palaeoecology| volume = 277| pages = 9–33| year = 2009| last1 = Brett| doi = 10.1016/j.palaeo.2009.02.010   }}</ref>
+
+== Climate ==
+The Earth was generally cold during the early Cambrian, probably due to the ancient continent of Gondwana covering the [[South Pole]] and cutting off polar ocean currents. There were likely polar ice caps and a series of glaciations, as the planet was still recovering from an earlier [[Snowball Earth]]. It became warmer towards the end of the period; the glaciers receded and eventually disappeared, and sea levels rose dramatically. This trend would continue into the [[Ordovician]] period.
+
+== Flora ==
+[[File:Margaretia dorus Reconstruction.png|thumb|180px|A reconstruction of ''[[Margaretia|Margaretia dorus]]'' from the [[Burgess Shale]], which are believed to be [[green algae]]]]
+Although there were a variety of macroscopic marine plants (e.g. ''[[Margaretia]]'' and ''[[Dalyia]]''), no true [[land plant]] ([[embryophyte]]) fossils are known from the Cambrian. However, biofilms and microbial mats were well developed on Cambrian tidal flats and beaches.,<ref>Schieber et al., 2007, pp. 53–71.</ref> and further inland were a variety of lichens,{{citation needed|reason=earliest unequivocal lichen fossils are Devonian, from the Rhynie chert|date=April 2013}} fungi and microbes forming microbial earth ecosystems, comparable with modern [[cryptobiotic soil|soil crust]] of desert regions, contributing to soil formation.<ref>{{cite journal | last1 = Retallack | first1 = G.J. | year = 2008 | title = Cambrian palaeosols and landscapes of South Australia | url = | journal = Alcheringa | volume = 55 | issue = | pages = 1083–1106 | doi=10.1080/08120090802266568|bibcode = 2008AuJES..55.1083R }}</ref><ref>[http://phys.org/news/2013-07-greening-earth.html Greening of the Earth pushed way back in time]</ref>
+
+== Fauna ==
+{{Main|Cambrian explosion}}
+Most animal life during the Cambrian was aquatic, with [[trilobite]]s assumed to be the dominant life form,<ref>[http://www.humboldt.edu/natmus/lifeThroughTime/Cambrian.web/index.html Cambrian HSU NHM]</ref> which has since proven to be incorrect. [[Arthropod]]s in general were by far the most dominating animals in the ocean, but at the time, trilobites were only a minor part of the total arthropod diversity. What made them different from their relatives was their heavy armor, which fossilized far more easily than the fragile exoskeleton of other arthropods, leaving behind numerous preserved remains which give the false impression that they were the most abundant part of the fauna.<ref>[http://www.nap.edu/openbook.php?record_id=11630&page=57 Out of Thin Air: Dinosaurs, Birds, and Earth's Ancient Atmosphere]</ref> The period marked a steep change in the diversity and composition of Earth's biosphere. The incumbent [[Ediacaran biota]] suffered a mass extinction at the base of the period, which corresponds to an increase in the abundance and complexity of burrowing behaviour. This behaviour had a [[Cambrian substrate revolution|profound and irreversible effect on the substrate]] which transformed the [[seabed]] [[ecosystem]]s. Before the Cambrian, the sea floor was covered by [[microbial mat]]s. By the end of the period, burrowing animals had destroyed the mats through [[bioturbation]], and gradually turned the seabeds into what they are today. As a consequence, many of those organisms that were dependent on the mats went extinct, while the other species adapted to the changed environment that now offered new ecological niches.<ref>[http://www.sciencenews.org/view/feature/id/48630/title/As_the_worms_churn As the worms churn]</ref>
+Around the same time there was a seemingly rapid appearance of representatives of all the  mineralized [[phylum|phyla]] except the [[Bryozoa]], which appear in the Lower [[Ordovician]].<ref name=Taylor2013>{{Cite journal|doi=10.1666/13-029|title=Reinterpretation of the Cambrian 'bryozoan' ''Pywackia'' as an octocoral|year=2013|last1=Taylor|first1=P.D.|last2=Berning|first2=B.|last3=Wilson|first3=M.A.|journal=Journal of Paleontology|volume=87|issue=6|pages=984–990}}</ref> However, many of these phyla were represented only by stem-group forms; and since mineralized phyla generally have a benthic origin, they may not be a good proxy for (more abundant) non-mineralized phyla.<ref name=Budd2000>{{BuddJensen2000}}</ref>
+
+While the early Cambrian showed such diversification that it has been named the Cambrian Explosion, this changed later in the period, when it was exposed to a sharp drop in biodiversity. About 515 million years ago, the number of species going extinct exceeded the amount of new species appearing. Five million years later, the number of genera had dropped from an earlier peak of about 600 to just 450. Also the [[speciation]] rate in many groups was reduced to between a fifth and a third of previous levels. 500 million years ago, oxygen levels fell dramatically in the oceans, leading to [[Hypoxia (environmental)|hypoxia]], while the levels of poisonous [[hydrogen sulfide]] simultaneously increased, causing another extinction. The later half of Cambrian was surprisingly barren and show evidence of several rapid extinction events; the [[stromatolite]]s which had been replaced by reef building sponges known as [[Archaeocyatha]], returned once more as the archaeocyathids went extinct. This declining trend did not change before the [[Great Ordovician Biodiversification Event|Ordovician]].<ref>[http://www.nuffieldfoundation.org/sites/default/files/the-ordovician-explosion-651.doc The Ordovician: Life's second big bang]</ref><ref>[http://www.newscientist.com/article/dn19916-oxygen-crash-led-to-cambrian-mass-extinction.html#.UxUDwmeYacw Oxygen crash led to Cambrian mass extinction]</ref>
+
+Some Cambrian organisms ventured onto land, producing the trace fossils ''[[Protichnites]]'' and ''[[Climactichnites]]''. Fossil evidence suggests that [[euthycarcinoid]]s, an extinct group of arthropods, produced at least some of the ''Protichnites''.<ref>Collette & Hagadorn, 2010.</ref><ref>Collette, Gass & Hagadorn, 2012</ref> Fossils of the maker of ''Climactichnites'' have not been found; however, fossil trackways and resting traces suggest a large, [[slug]]-like [[mollusk]].<ref>Yochelson & Fedonkin, 1993.</ref><ref>Getty & Hagadorn, 2008.</ref>
+
+In contrast to later periods, the Cambrian fauna was somewhat restricted; free-floating organisms were rare, with the majority living on or close to the sea floor;<ref name=Munnecke2010>{{Cite journal| last1 = Munnecke | first1 = A.| last2 = Calner | first2 = M.| last3 = Harper | first3 = D. A. T.| authorlink3 = David Harper (palaeontologist)| last4 = Servais | first4 = T.| title = Ordovician and Silurian sea-water chemistry, sea level, and climate: A synopsis| journal = Palaeogeography, Palaeoclimatology, Palaeoecology| volume = 296| issue = 3–4| pages = 389–413| year = 2010| doi = 10.1016/j.palaeo.2010.08.001}}</ref> and mineralizing animals were rarer than in future periods, in part due to the unfavourable ocean chemistry.<ref name=Munnecke2010/>
+
+Many modes of preservation are unique to the Cambrian, resulting in an abundance of ''[[Lagerstätte]]n''.
+<center>
+<gallery>
+File:CambrianStromatolites.jpg|Stromatolites of the Pika Formation (Middle Cambrian) near Helen Lake, Banff National Park, Canada
+File:Trilobitegrowth.jpg|[[Trilobite]]s were very common during this time
+File:Anomalocaris BW.jpg|''[[Anomalocaris]]'' was an early marine predator, among the various [[arthropod]]s of the time.
+File:Pikaia BW.jpg|''[[Pikaia]]'' was an early chordate from the Middle Cambrian
+File:Opabinia BW2.jpg|''[[Opabinia]]'' was a creature with an unusual body plan; it was probably related to arthropods
+File:Protichnites, Blackberry Hill, Wisconsin, Cambrian 2.jpg|''[[Protichnites]]'' were the trackways of arthropods that walked Cambrian beaches.
+</gallery>
+</center>
+
+== See also ==
+{{CEXNAV}}
+* [[Cambro-Ordovician extinction event]] – circa 488 mya
+* [[Dresbachian]] extinction event—circa 502 mya
+* [[End-Botomian mass extinction|End Botomian]] extinction event—circa 517 mya
+* [[List of fossil sites]] ''(with link directory)''
+* [[Type locality (geology)]], the locality where a particular rock type, stratigraphic unit, fossil or mineral species is first identified
+
+{{Cambrian preservational modes}}
+
+== References ==
+{{reflist|2}}
+
+== Further reading ==
+{{Wikisource portal|Paleozoic#Cambrian}}
+* {{cite journal
+ | last = Amthor | first =  J. E.
+ | year = 2003
+ | title= Extinction of ''[[Cloudina]]'' and ''[[Namacalathus]]'' at the Precambrian-Cambrian boundary in Oman
+ | journal = Geology
+ | volume = 31 | pages = 431–434
+ | doi= 10.1130/0091-7613(2003)031<0431:EOCANA>2.0.CO;2
+ | last2 = Grotzinger
+ | first2 = John P.
+ | last3 = Schröder
+ | first3 = Stefan
+ | last4 = Bowring
+ | first4 = Samuel A.
+ | last5 = Ramezani
+ | first5 = Jahandar
+ | last6 = Martin
+ | first6 = Mark W.
+ | last7 = Matter
+ | first7 = Albert
+ |bibcode = 2003Geo....31..431A
+ | issue = 5 }}
+*{{cite journal |author=Collette, J. H., Gass, K. C. & Hagadorn, J. W. |year=2012 |title=''Protichnites eremita'' unshelled? Experimental model-based neoichnology and new evidence for a euthycarcinoid  affinity for this ichnospecies |journal=Journal of Paleontology |volume=86 |pages=442–454 |doi=10.1666/11-056.1 |issue=3}}
+*{{cite journal |author=Collette, J. H. & Hagadorn, J. W. |year=2010 |title=Three-dimensionally preserved arthropods from Cambrian  Lagerstatten of Quebec and Wisconsin |journal=Journal of Paleontology |volume=84 |pages=646–667 |doi=10.1666/09-075.1 |issue=4}}
+*{{cite journal |author=Getty, P. R. & Hagadorn, J. W. |year=2008 |title=Reinterpretation of ''Climactichnites'' Logan 1860 to include subsurface burrows, and erection of ''Musculopodus'' for resting traces of the trailmaker |journal=Journal of Paleontology |volume=82 |pages=1161–1172 |doi=10.1666/08-004.1 |issue=6}}
+* [[S. J. Gould|Gould]], S. J.; Wonderful Life: the [[Burgess Shale]] and the Nature of Life (New York: Norton, 1989)
+* Ogg, J.; June 2004, ''Overview of Global Boundary Stratotype Sections and Points (GSSPs)'' http://www.stratigraphy.org/gssp.htm Accessed 30 April 2006.
+*{{cite journal |author=Owen, R. |year=1852 |title=Description of the impressions and footprints of the ''Protichnites'' from the Potsdam sandstone of Canada |journal=Geological Society of London Quarterly Journal |volume=8 |pages=214–225 |doi=10.1144/GSL.JGS.1852.008.01-02.26}}
+*{{cite book |author1=Peng, S. |author2=Babcock, L.E. |author3=Cooper, R.A. |url=http://www.geol.umd.edu/~hcui/Reference/GeolTimeScale2012/Ch19-Cambrian.pdf |title=The Geologic Time Scale |chapter=The Cambrian Period |year=2012}}
+*{{cite book |last1=Schieber |first1=J. |first2=P. K. |last2=Bose |first3=P. G. |last3=Eriksson |first4=S. |last4=Banerjee |first5=S. |last5=Sarkar |first6=W. |last6=Altermann |first7=O. |last7=Catuneau |title=Atlas of Microbial Mat Features Preserved within the Clastic Rock Record |year=2007 |publisher=Elsevier |pages=53–71}}
+*{{cite journal |url=http://www.sil.si.edu/smithsoniancontributions/Paleobiology/sc_RecordSingle.cfm?filename=SCtP-0074|format=Free full text|author=Yochelson, E. L. and M. A. Fedonkin|title=Paleobiology of ''Climactichnites'', and Enigmatic Late Cambrian Fossil|journal=Smithsonian Contributions to Paleobiology|volume=74|year=1993|pages= 1–74|doi=10.5479/si.00810266.74.1}}
+
+== External links ==
+{{Commons category|Cambrian}}
+* {{In Our Time|Cambrian period|p003k9bg|Cambrian_period}}
+* [http://www.trilobites.info/biostratigraphy.htm Biostratigraphy] – includes information on Cambrian trilobite [[biostratigraphy]]
+* [http://www.trilobite.info  Dr. Sam Gon's trilobite pages] (contains numerous Cambrian trilobites)
+* [http://www.geo-lieven.com/erdzeitalter/kambrium/kambrium.htm Examples of Cambrian Fossils]
+* [http://www.scotese.com/ Paleomap Project]
+* [http://www.earth-pages.com/archive/geobiology.asp Report on the web on Amthor and others from ''Geology'' vol. 31]
+* [http://www.astrobio.net/news/article251.html Weird Life on the Mats]
+
+{{Phanerozoic eon}}
+{{Geological history|p|p}}
+
+{{Authority control}}
+[[Category:Cambrian| ]]
+[[Category:Geological periods]]
+[[Category:Paleozoic|.01]]

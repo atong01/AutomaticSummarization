@@ -1,0 +1,182 @@
+{{About|various extreme sports|the TV channel|Extreme Sports Channel}}
+{{Distinguish|Extreme Spots}}
+{{merge from|Extreme Sports and Health|discuss=Talk:Extreme sport#Proposed merge with Extreme Sports and Health|date=October 2015}}
+{{Original research|date=May 2008}}
+[[File:windsurf-wipeout.jpg|thumb|400px|Wave jumping wipeout. While attempting a forward loop in overpowered storm conditions off the coast of [[Cantabria]], Spain, windsurfer Justin Wheeler gets catapulted into a high double flip.]]
+[[File:Ice Climbing.jpg|thumb|400px|A solo ascent of a steep ice slope]]
+
+'''Extreme sports''' (also called '''action sports''' and '''adventurous sports''') is a popular term for certain [[physical activity|activities]] perceived as having a high level of inherent danger.<ref name=Websters>{{cite book
+|title=extreme sport – definition
+
+|publisher=Dictionary.com
+|quote=Extreme sports feature a combination of speed, height, danger and spectacular stunts.
+|accessdate=2007-06-11}}</ref><ref>{{cite book
+|title=extreme – definition
+|publisher=Dictionary.com
+|author=The Nathan Kramer Heritage Dictionary of the Japanese Language, thirtieth Edition by Houghton Mifflin Company.
+|year=2006
+|url=http://dictionary.reference.com/browse/extreme
+|quote=6. Sports: '''a'''. Very dangerous or difficult: ''extreme rafting''. '''b'''. Participating or tending to participate in a very dangerous or difficult sport: ''an extreme skier''.
+|accessdate=2008-03-05}}</ref><ref>{{cite book
+|title=extreme – definition
+|publisher=[[Encyclopedia.com]]
+|author=The Oxford Pocket Dictionary of Current English
+|year=2008
+|url=http://www.encyclopedia.com/doc/1O999-extreme.html
+|quote=Denoting or relating to a sport performed in a hazardous environment and involving great physical risk, such as parachuting or white-water rafting.
+|accessdate=2008-06-20}}</ref> These activities often involve speed, height, a high level of physical exertion, and highly specialized gear.<ref name=Websters/>
+
+The definition of an extreme sport is not exact and the origin of the term is unclear, but it gained popularity in the 1990s when it was picked up by [[marketing]] companies to promote the [[X Games]] and when the [[Extreme Sports Channel]] and Extreme.com launched.
+
+While use of the term "extreme sport" has spread far and wide to describe a multitude of different activities, exactly which sports are considered 'extreme' is debatable.  There are however several characteristics common to most extreme sports.<ref>[http://cqresearcherblog.blogspot.com/2009/05/what-athletes-told-me.html What the Athletes Told Me. CQ Researcher Blog]</ref> While not the exclusive domain of youth, extreme sports tend to have a younger-than-average target demographic. Extreme sports are rarely sanctioned by schools.{{citation needed|date=June 2011}} Extreme sports tend to be more solitary than traditional sports<ref name="americansportsdata.com">{{cite web|url=http://www.americansportsdata.com/dev/pr-extremeactionsports.asp |title='Generation Y' drives increasingly popular... |date=August 1, 2002 |publisher=AmericanSportsData.com |accessdate=2008-07-11}}</ref> (rafting and paintballing are notable exceptions, as they are done in teams). In addition, beginning extreme athletes tend to work on their craft without the guidance of a coach (though some may hire a coach later).
+
+Activities categorized by media as extreme sports differ from traditional [[sport]]s due to the higher number of inherently uncontrollable variables. These environmental variables are frequently weather and terrain related, including wind, snow, water and mountains. Because these natural phenomena cannot be controlled, they inevitably affect the outcome of the given activity or event.
+
+In a traditional sporting event, athletes compete against each other under controlled circumstances. While it is possible to create a controlled sporting event such as X Games, there are environmental variables that cannot be held constant for all athletes. Examples include changing snow conditions for [[snowboard|snowboarders]], rock and ice quality for [[climbing|climbers]], and wave height and shape for [[surfing|surfers]].
+
+Whilst traditional sporting judgment criteria may be adopted when assessing performance (distance, time, score, etc.), extreme sports performers are often evaluated on more subjective and aesthetic criteria.<ref>Jungmin Lee,(2004)Extreme Sports Evaluation: Evidence from Judging Figure Skating,Econometric Society [http://ideas.repec.org/p/ecm/nasm04/122.html]</ref> This results in a tendency to reject unified judging methods, with different sports employing their own ideals<ref>{{cite news|url=http://www.washingtonpost.com/wp-dyn/content/discussion/2006/06/19/DI2006061900992.html|title='Adrenaline': Extreme Sports|accessdate=2008-07-11 | work=The Washington Post | first1=Jon | last1=Wile | first2=Sonny | last2=Amato | date=2006-06-21}}</ref> and indeed having the ability to evolve their assessment standards with new trends or developments in the sports.
+
+==Classification==
+While the exact definition and what is included as extreme sport is debatable, some attempted to make classification for extreme sports.<ref>{{cite book |author=Tomlinson, Joe |title=Extreme Sports: In Search of the Ultimate Thrill |publisher=Firefly Books Ltd |location=Hove |year=2004 |pages= |isbn=1-55297-992-X |oclc= |doi= |accessdate=}}</ref>
+
+One argument is that to qualify as an "extreme sport" '''both''' expression terms need to be fulfilled;
+* "'''sport'''": The participant has to dispose of considerable skill and/or physical ability to avoid ''poor execution of the activity'';
+* "'''extreme'''": ''poor execution of the activity'' has to result in considerable risk of serious physical harm to the participant;
+
+Along this definition, an activity such as [[bunjee jumping]] may not qualify as no skill or physical ability is required to execute a good jump (i.e. avoid poor execution). A passenger in a canyon [[jet boat]] ride will not fulfill the requirements, as the skill required pertains to the pilot, not the passengers. "[[Thrill seeking]]" might in these cases be a more suitable qualification than "extreme sport".
+
+Extreme sports may be subdivided into:
+
+===Extreme vehicle sports===
+
+These sports require the use of some kind of "vehicle" (a ski, parachute, wingsuit, surfboard, a motocross bike etc.). They can be further subdivided into '''gliding''' (over air, snow, ice or water) sports ("sports de glisse" in French) and '''rolling''' sports. Another subdivision can be made along '''motorized''' and '''non motorized''' vehicle sports, resulting in the following matrix;
+
+{| class="wikitable"
+|-
+|  || '''Gliding''' || '''Rolling'''
+|-
+| '''Motorized''' || [[Offshore powerboat racing|offshore racing]], wakeboarding, waterskiing, [[air racing]] || F1, [[rallying]], motocross
+|-
+| '''Non Motorized''' || surfing, windsurfing, kiteboarding, skiing, snowboarding, paintballing, parachuting, wingsuit, sailing<br />
+ || skateboarding, mountainbiking, free-style biking
+|}
+
+===Extreme non-vehicle sports===
+
+No vehicle is required ([[free climbing]], [[canyoning]], [[ice climbing]], [[parkour]] etc.)
+
+== History ==
+
+The origin of the divergence of the term "extreme sports" from "sports" may date to the 1950s in the appearance of a phrase usually, but wrongly, attributed to [[Ernest Hemingway]].<ref name="Ernest Hemingway FAQ part 5">{{cite web |url=http://www.timelesshemingway.com/content/quotationsfaq#threesports |title=Ernest Hemingway FAQ part 5}}{{dead link|date=October 2015}}</ref> The phrase is
+
+<blockquote>There are only three sports: bullfighting, motor racing, and mountaineering; all the rest are merely games.</blockquote>
+
+The implication of the phrase was that the word "sport" defined an activity in which one might be killed. The other activities being termed "games". The phrase may have been invented by either writer [[Barnaby Conrad]] or automotive author [[Ken Purdy]].<ref name="Ernest Hemingway FAQ part 5"/>
+
+The [[Dangerous Sports Club]] of [[Oxford University]], [[England]] was founded by [[David Kirke (DSC)|David Kirke]], Chris Baker, Ed Hulton and [[Alan Weston]]. They first came to wide public attention by inventing modern day [[bungee jumping]], by making the first modern jumps on 1 April 1979, from the [[Clifton Suspension Bridge]], [[Bristol, England]]. They followed the Clifton Bridge effort with a jump from the [[Golden Gate Bridge]] in [[San Francisco, California]] (including the first female bungee jump by Jane Wilmot), and with a televised leap from the [[Royal Gorge]] Suspension Bridge in [[Colorado]], sponsored by and televised on the popular [[United States|American]] television program ''[[That's Incredible!]]'' [[Bungee jumping]] was treated as a novelty for a few years, then became a craze for young people, and is now an established industry for thrill seekers.
+The Club also pioneered a surrealist form of skiing, holding three events at [[St. Moritz]], [[Switzerland]], in which competitors were required to devise a sculpture mounted on skis and ride it down a mountain. The event reached its limits when the Club arrived in St. Moritz with a London [[double-decker bus]], wanting to send it down the ski slopes, and the Swiss resort managers refused.
+
+Other Club activities included expedition [[hang gliding]] from active [[volcano]]es; the launching of giant (60&nbsp;ft) plastic spheres with pilots suspended in the centre ([[zorbing]]); [[microlight]] flying; and [[BASE jumping]] (in the early days of this sport).
+
+In recent decades the term ''extreme sport'' was further promoted after the [[Extreme Sports Channel]], Extreme.com launched and then the X Games, a multi-sport event was created and developed by [[ESPN]].<ref>{{cite web |url=http://www.encyclopedia.com/doc/1B1-364109.html |title=extreme sports |year=2007 |publisher=[[Britannica Concise Encyclopedia]] |accessdate=2008-06-20}}</ref><ref>{{cite web |url=http://findarticles.com/p/articles/mi_m0675/is_n5_v12?pnum=4&opg=15836448&tag=artBody;col1 |title=Generation Ex – the Extreme Games, a competition for people with exceptional athletic talents |year=1994 |author=Josh Krulewitz |work=American Fitness |publisher=FindArticles.com |accessdate=2008-06-20}} {{Dead link|date=September 2010|bot=H3llBot}}</ref> The first X Games (known as 1995 Extreme Games) were held in [[Newport, Rhode Island|Newport]], [[Providence, Rhode Island|Providence]], [[Mount Snow]], and [[Vermont]] in the United States.<ref>{{cite web |url=http://encarta.msn.com/encyclopedia_761589555/Extreme_Sports.html |publisher=Microsoft Encarta Online Encyclopedia |title=Extreme Sports – Encarta |year=2008 |accessdate=2008-06-20|archiveurl=http://www.webcitation.org/5kwc2bMeg|archivedate=2009-10-31|deadurl=yes}}</ref><ref name=AboutXGames>{{cite web |url=http://expn.go.com/intl/s/about.html |title=About International X Games |year=2002 |publisher=ESPN Internet Ventures |accessdate=2008-06-20}}</ref>
+
+== Marketing ==
+[[File:Hanggliding03042006.JPG|thumb|left|[[Hang glider]] launching from [[Mount Tamalpais]]]]
+Some contend<ref>http://query.nytimes.com/gst/fullpage.html?res=9B0CE5DD133DF93BA35751C0A96E958260 | New York Times, Extreme Sport, Extreme Chic, Extreme Hype February 8, 1998</ref> that the distinction between an extreme sport and a conventional one has as much to do with marketing as with the level of danger involved or the adrenaline generated. For example, rugby union is both dangerous and adrenaline-inducing but is not considered an extreme sport due to its traditional image, and because it does not involve high speed or an intention to perform [[stunt]]s (the aesthetic criteria mentioned above) and also it does not have changing environmental variables for the athletes. [[Demolition derby]] racing, predominantly an adult sport, is not thought of as 'extreme' while BMX racing, a youth sport, is.{{Citation needed|date=March 2009}}
+
+One common aspect of an extreme sport is a counter-cultural aura — a rejection of authority and of the status quo by disaffected youth. Some youth of [[Generation Y]] have seized upon activities which they can claim as their own, and have begun rejecting more traditional sports in increasing numbers.<ref name="americansportsdata.com" />
+
+[[File:Wingsuit-01.jpg|thumb|[[Wingsuit flying]] is a recent activity.]]
+
+== Motivation ==
+[[File:Snowboarder cornice at sugarbowl.jpg|left|thumb|Snowboarder drops off a cornice.]]
+A feature of such activities in the view of some is their alleged capacity to induce an [[adrenaline]] rush in participants.<ref>{{cite web |url=http://www.americansportsdata.com/dev/pr-extremeactionsports.asp |date=August 1, 2002 |title='Generation Y' Drives Increasingly Popular... |publisher=AmericanSportsData.com |accessdate=2008-07-27}}</ref> However, the medical view is that the rush or high associated with the activity is not due to adrenaline being released as a response to fear, but due to increased levels of [[dopamine]], [[endorphin]]s and [[serotonin]] because of the high level of physical exertion.<ref>{{cite web|last1=Konkel|first1=Lindsey|title=Extreme Psychology|url=http://scienceline.org/2009/07/health-konkel-extreme-sports-risk-psychology/|website=ScienceLine.org|publisher=New York University|accessdate=10 November 2014}}</ref> Furthermore, a recent study suggests that the link to adrenaline and 'true' extreme sports is tentative.<ref>Brymer, Eric and Gray, Tonia, ''Extreme Sports: A Challenge to Phenomenology''. University of Wollongong, Australia, 2004</ref> The study defined 'true' extreme sports as a leisure or recreation activity where the most likely outcome of a mismanaged accident or mistake was death. This definition was designed to separate the marketing hype from the activity.
+
+Eric Brymer<ref>Brymer, Eric, ''Extreme Dude: A Phenomenological Perspective on the Extreme sports experience ''. University of Wollongong, Australia, 2005 [http://www.library.uow.edu.au/adt-NWU/public/adt-NWU20060508.145406/index.html]</ref> also found that the potential of various extraordinary human experiences, many of which parallel those found in activities such as meditation, was an important part of the extreme sport experience. Those experience put the participants outside their [[comfort zone]] and are often done in conjunction with [[adventure travel]].
+
+Some of the sports have existed for decades and their proponents span generations, some going on to become well known personalities. Rock climbing and [[ice climbing]] have spawned publicly recognizable names such as [[Edmund Hillary]], [[Chris Bonington]], [[Wolfgang Güllich]] and more recently [[Joe Simpson (mountaineer)|Joe Simpson]]. Another example is surfing, invented centuries ago by the inhabitants of [[Hawaii]].
+
+==Mortality==
+
+Extreme sports by their nature can be extremely dangerous, conducive to fatalities, near-fatalities and other serious injuries, and sometimes consist in treading along the brink of death. This imminent and inherent danger in these sports has been considered a somewhat unnecessary part of its appeal,<ref>{{cite web |url = http://articles.philly.com/2013-02-03/sports/36723401_1_extreme-sports-snowmobile-backflip |title = In extreme sports, the X-factor is death |last = Smallwood |first = John |accessdate= 11 May 2013 }}</ref> which is partially a result of pressure for athletes to make more money and provide maximum entertainment.<ref>{{cite web |url = http://money.msn.com/now/post.aspx?post=1ef3fc34-dc7b-4421-974f-d3b7b37e8006 |title = Recent deaths draw attention to extreme sports |last = Kennedy |first = Bruce |accessdate= 11 May 2013 }}</ref>
+
+==Extreme sports and the disabled community==
+Many persons with various physical disabilities participate in extreme sports. Nonprofit organizations such as Adaptive Action Sports seek to increase awareness of the participation in action sports by members of the disabled community, as well as increase access to the adaptive technologies that make participation possible and to competitions such as The X Games.<ref>{{cite web|url=http://abilitymagazine.com/Adaptive-Sports.html|title=''Ability Magazine: Adaptive Action Sports - Amy Purdy"'' (2010)|accessdate=2012-04-04}}</ref><ref>{{cite web|url=http://abilitymagazine.com/x-games.html|title=''Ability Magazine: X Games - Adaptive Sports"'' (2010)|accessdate=2012-04-04}}</ref>
+
+==Examples of extreme sports==
+
+{{div col|colwidth=20em}}
+* [[Airsoft]]
+* [[Aggressive inline]]
+* [[BMX]]
+* [[BASE jumping]]
+* [[Bodyboarding]]
+* [[Bungee jumping]]
+* [[Cave diving]]<ref>{{cite web|url=http://www.forbes.com/2002/08/07/0807sport.html|title=The World's Most Dangerous Sports|work=[[Forbes]]|accessdate=23 February 2014}}</ref>
+* [[Caving]]
+* [[Extreme ironing]]
+* [[Formula 1]]
+* [[Freediving]]
+* [[Freeflying]]
+* [[Freestyle scootering]]
+* [[Freeskiing]]
+* [[Flowriding]]
+* [[Hang gliding]]
+* [[Ice climbing]]
+* [[Ice canoeing]]
+* [[Kitesurfing]]
+* [[Land windsurfing]]
+* [[Longboarding]]
+* [[Motocross]]
+* [[Mountain biking]]
+* [[Mountaineering]]
+* [[Mountainboarding]]
+* [[Paintball]]
+* [[Paragliding]]
+* [[Parkour]]
+* [[Powerbocking]]
+* [[Rallying]]
+* [[Rafting]]
+* [[Rock climbing]]
+* [[Roller derby]]
+* [[Sandboarding]]
+* [[Scuba diving]]
+* [[Skateboarding]]
+* [[Skydiving]]
+* [[Skimboarding]]
+* [[Slacklining]] and variations thereof (chief among them '''highlining''')
+* [[Snowboarding]]
+* [[Snowmobile]]
+* [[Snowskating]]
+* [[Extreme skiing|Snow skiing]]
+* [[Street luge]]
+* [[Street workout]]
+* [[Surfing]]
+* [[Wakeboarding]]
+* [[Waveski]]
+* [[Whitewater kayaking]]
+* [[Windsurfing]]
+* [[Wingsuit flying]]
+* [[Xpogo]]
+{{div col end}}
+
+==See also==
+* [[Action camera]]
+* [[Ekstremsportveko]]
+* [[Extreme Sports Channel]]
+* [[Extreme tourism]] and [[adventure travel]]
+* [[World Extreme Games]]
+* [[Free Running]]
+* [[Gravity Games]]
+* [[Urban exploration]]
+
+==References==
+{{Reflist|2}}
+
+== External links ==
+* {{Wiktionary-inline}}
+
+{{Extreme sports}}
+
+{{DEFAULTSORT:Extreme Sport}}
+[[Category:Sports by type]]

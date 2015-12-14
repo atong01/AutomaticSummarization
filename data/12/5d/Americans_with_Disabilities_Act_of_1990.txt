@@ -1,0 +1,307 @@
+{{inadequate lede|date=September 2015}}
+{{Infobox U.S. legislation
+| shorttitle= Americans with Disabilities Act of 1990
+| othershorttitles=ADA
+| longtitle= An act to establish a clear and comprehensive prohibition of discrimination on the basis of disability
+| colloquialacronym= ADA
+| enacted by= 101st
+| effective date= July 26, 1990
+| public law url=
+| cite public law= 101-336
+| cite statutes at large= 104 Stat. 327
+| acts amended=
+| title amended= 42
+| sections created= 12101 et seq.
+| sections amended=
+| leghisturl= http://thomas.loc.gov/cgi-bin/bdquery/D?d101:3:./temp/~bsslrwQ::
+| introducedin= Senate
+| introducedbill= S.933
+| introducedby= Sen. [[Tom Harkin]] (D-IA)
+| introduceddate= May 9, 1988
+| committees=
+| passedbody1= Senate
+| passeddate1= September 7, 1989
+| passedvote1= 76-8
+| passedbody2= House of Representatives
+| passeddate2= May 22, 1990
+| passedvote2= unanimous voice vote
+| conferencedate= July 12, 1990
+| passedbody3= House of Representatives
+| passeddate3= July 12, 1990
+| passedvote3= 377–28
+| passedbody4= Senate
+| passeddate4= July 13, 1990
+| passedvote4= 91-6
+| signedpresident= [[George H. W. Bush]]
+| signeddate= July 26, 1990
+| amendments= [[ADA Amendments Act of 2008]]
+| SCOTUS cases = ''[[Bragdon v. Abbott]]<br />[[Olmstead v. L.C.]]<br />[[Toyota Motor Manufacturing, Kentucky, Inc. v. Williams]]''
+}}
+[[File:Americans with Disabilities Act 1988.jpg|alt=April 28, 1988"A Bill to establish a clear and comprehensive prohibition of discrimination on the basis of handicap." Authored by Senator Tom Harkin|thumb|Americans with Disabilities Act of 1988, S. 2346, Page 1<ref>From the George H.W. Bush Presidential Records of the George Bush Presidential Library. Folder Title: Fact Sheet on ADA [Americans of Disabilities Act]. Unrestricted.</ref>]]
+[[File:Americans with Disabilities Act of 1990, page 1.jpg|thumb|Americans with Disabilities Act of 1990, Page 1<ref name="catalog.archives.gov">{{Cite web|url = https://catalog.archives.gov/id/6037488|title = National Archives and Records Administration|date = |accessdate = |website = |publisher = |last = |first = }}</ref>]]
+[[File:Americans with Disabilities Act of 1990, page two.jpg|thumb|Americans with Disabilities Act of 1990, Page 2<ref name="catalog.archives.gov"/>]]
+The '''Americans with Disabilities Act of 1990'''<ref name=ada90>{{cite web|url=http://finduslaw.com/americans_with_disabilities_act_of_1990_ada_42_u_s_code_chapter_126|title=Americans with Disabilities Act of 1990 - ADA - 42 U.S. Code Chapter 126|publisher=}}</ref><ref>{{USStatute|101|336|104|327|1990|07|26}}, codified at {{UnitedStatesCode|42|12101}}</ref> ('''ADA''') is a law that was enacted by the [[United States Congress|U.S. Congress]] in 1990. In 1986, the [[National Council on Disability]] had recommended enactment of an Americans with Disabilities Act (ADA) and drafted the first version of the bill which was introduced in the House and Senate in 1988. It was [[signed into law]] on July 26, 1990, by President [[George H. W. Bush]], amended and signed by President [[George W. Bush]] with changes effective January 1, 2009.<ref>{{cite web| title= President Bush Signs ADA Changes into Law | date= 2008-09-25 | publisher= HR.BLR.com | url= http://hr.blr.com/news.aspx?id=78926}}</ref>
+
+The ADA is a wide-ranging [[civil rights]] law that prohibits [[discrimination]] based on [[disability]]. It affords similar protections against discrimination to [[Americans with disabilities]] as the [[Civil Rights Act of 1964]],<ref>[http://finduslaw.com/civil_rights_act_of_1964_cra_title_vii_equal_employment_opportunities_42_us_code_chapter_21 Civil Rights Act of 1964] {{WebCite|url=http://www.webcitation.org/5lHSBSuc4|date =2009-11-14}}</ref> which made discrimination based on [[Race (classification of human beings)|race]], [[religion]], [[gender|sex]], national origin, and other characteristics illegal. In addition, unlike the Civil Rights  Act, the ADA also requires covered employers to provide [[reasonable accommodation]]s to employees with disabilities, and imposes [[accessibility]] requirements on public accommodations.<ref>42 U.S.C. 12112(b)(5), 12182-84</ref>
+
+==Disabilities included==
+ADA disabilities include both mental and physical medical conditions. A condition does not need to be severe or permanent to be a disability.<ref>{{cite web|author1=EEOC|title=Fact Sheet on the EEOC's Final Regulations Implementing the ADAAA|url=http://www.eeoc.gov/laws/regulations/adaaa_fact_sheet.cfm|website=EEOC.gov}}</ref>  [[Equal Employment Opportunity Commission]] regulations provide a list of conditions that should easily be concluded to be disabilities: deafness, blindness, an intellectual disability (formerly termed mental retardation), partially or completely missing limbs or mobility impairments requiring the use of a wheelchair, autism, cancer, cerebral palsy, diabetes, epilepsy, Human Immunodeficiency Virus (HIV) infection, multiple sclerosis, muscular dystrophy, major depressive disorder, bipolar disorder, post-traumatic stress disorder, obsessive compulsive disorder, and schizophrenia.<ref name=FR>{{cite web| title= 76 FR 16977 | year= 2011 | publisher= federalregister.gov | url= https://www.federalregister.gov/articles/2011/03/25/2011-6056/regulations-to-implement-the-equal-employment-provisions-of-the-americans-with-disabilities-act-as }}</ref> Other mental or physical health conditions also may be disabilities, depending on what the individual's symptoms would be in the absence of "mitigating measures" (medication, therapy, assistive devices, or other means of restoring function), during an "active episode" of the condition (if the condition is episodic).<ref name="FR" /> Certain specific conditions, such as kleptomania, pedophilia, exhibitionism, voyeurism, etc. are excluded under the definition of "disability" in order to prevent abuse of the statute's purpose.<ref name=42USC12102>{{cite web |title= 42 U.S. Code § 12102 - Definition of disability, Americans with Disabilities Act of 1990, As Amended |author1= Civil Rights Division, US Department of Justice |year= 2009 |publisher= ada.gov |url= http://www.ada.gov/pubs/adastatute08.htm#12102 }}</ref><ref name=PL110325>{{cite web |title= Americans with Disabilities Act Amendments Act of 2008, PL 110-325 (S 3406) |author1= EEOC |year= 2008 |publisher= eeoc.gov |url= http://www.eeoc.gov/laws/statutes/adaaa.cfm }}</ref> Additionally, other specific conditions, such as gender identity disorders, are also excluded under the definition of "disability".<ref name=PL110325 /><ref name=42USC12211>{{cite web |title= 42 U.S. Code § 12211 - Definitions, Americans with Disabilities Act of 1990, As Amended |author1= Civil Rights Division, US Department of Justice |year= 2009 |publisher= ada.gov |url= http://www.ada.gov/pubs/adastatute08.htm#12211 }}</ref>
+
+==Titles==
+{{anchor|Title I}}
+
+===Title I—employment===
+:''See {{UnitedStatesCode|42|12111|12117}}.
+[[File:President George H W Bush Signing of the ADA (Americans with Disabilities Act) Bill 1990.gif|thumb|right|Speech cards used by President George H. W. Bush at the signing ceremony of the Americans with Disabilities Act (ADA) on July 26, 1990<ref name=ada90/>]]
+
+The ADA states that a "covered entity" shall not discriminate against "a qualified individual with a disability".<ref name="12112a">{{UnitedStatesCode|42|12112(a)}}</ref> This applies to [[application for employment|job application]] procedures, hiring, advancement and discharge of employees, job training, and other terms, conditions, and privileges of employment. "Covered entities" include employers with 15 or more employees, as well as [[employment agencies]], [[labor organizations]], and joint [[Industrial relations|labor-management]] committees.<ref>{{UnitedStatesCode|42|12111(2)}}</ref> There are strict limitations on when a covered entity can ask job applicants or employees disability-related questions or require them to undergo medical examination, and all medical information must be kept confidential.<ref>{{cite web|author1=EEOC|title=Enforcement Guidance: Preemployment Disability-Related Questions and Medical Examinations|url=http://www.eeoc.gov/policy/docs/preemp.html|website=EEOC.gov}}</ref><ref>{{cite web|author1=EEOC|title=EEOC Enforcement Guidance: Disability-Related Inquiries and Medical Examinations of Employees Under the Americans with Disabilities Act|url=http://www.eeoc.gov/policy/docs/preemp.html|website=EEOC.gov}}</ref>
+
+Prohibited discrimination may include, among other things, firing or refusing to hire someone based on a real or perceived disability, segregation, and harassment based on a disability. Covered entities are also required to provide [[reasonable accommodation]]s to job applicants and employees with disabilities.<ref>{{UnitedStatesCode|42|12112(b)(5)}}</ref> A reasonable accommodation is a change in the way things are typically done that the person needs because of a disability, and can include, among other things, special equipment that allows the person to perform the job, scheduling changes, and changes to the way work assignments are chosen or communicated.<ref>{{cite web|author1=EEOC|title=EEOC Enforcement Guidance: Reasonable Accommodation and Undue Hardship Under the Americans with Disabilities Act|url=http://www.eeoc.gov/policy/docs/accommodation.html|website=EEOC.gov}}</ref> An employer is not required to provide an accommodation that would involve undue hardship (significant difficulty or expense), and the individual who receives the accommodation must still perform the essential functions of the job and meet the normal performance requirements. An employee or applicant who currently engages in the illegal use of drugs is not considered "qualified" when a covered entity takes adverse action based on such use.<ref>{{UnitedStatesCode|42|12111}}</ref>
+
+There are many ways to discriminate against people based on disabilities including the psychological ones. Anyone known to have a history of mental disorders can be considered disabled. Employers with more than 15 employees must take care to treat all employees fairly and with any accommodations needed. Even when an employee is doing a job exceptionally well, she or he is not necessarily no longer disabled; employers must continue to follow all policies for the disabled.
+
+Part of Title I was found unconstitutional by the [[United States Supreme Court]] as it pertains to states in the case of ''[[Board of Trustees of the University of Alabama v. Garrett]]'' as violating the [[sovereign immunity]] rights of the several states as specified by the [[Eleventh Amendment to the United States Constitution]]. The provision allowing private suits against states for [[money damages]] was invalidated.
+{{anchor|Title II}}
+
+===Title II—public entities (and public transportation)===
+:''See {{UnitedStatesCode|42|12131|12165}}.''
+[[File:Handicapped Accessible sign.svg|thumb|upright|Access sign]]
+
+Title II prohibits disability discrimination by all public entities at the local level, ''e.g.'', school district, municipal, city, or county, and at state level. Public entities must comply with Title II regulations by the [[United States Department of Justice|U.S. Department of Justice]]. These regulations cover access to all programs and services offered by the entity. Access includes physical access described in the ADA Standards for Accessible Design and programmatic access that might be obstructed by discriminatory policies or procedures of the entity.
+
+Title II applies to public transportation provided by public entities through regulations by the [[United States Department of Transportation|U.S. Department of Transportation]]. It includes the [[Amtrak|National Railroad Passenger Corporation]], along with all other commuter authorities. This section requires the provision of paratransit services by public entities that provide fixed route services.
+
+Title II also applies to all state and local public housing, housing assistance, and housing referrals. The [[Office of Fair Housing and Equal Opportunity]] is charged with enforcing this provision.
+{{anchor|Title III}}
+
+===Title III—public accommodations (and commercial facilities)===
+:''See {{UnitedStatesCode|42|12181|12189}}.''
+[[File:Drano Lake accessible fishing platform signage.jpg|thumb|The ADA sets standards for construction of accessible public facilities. Shown is a sign indicating an accessible fishing platform at [[Drano Lake]], [[Washington (state)|Washington]].]]
+Under Title III, no individual may be discriminated against on the basis of disability with regards to the full and equal [[enjoyment]] of the goods, services, facilities, or accommodations of any place of "public accommodation" by any person who owns, leases, or operates a place of "public accommodation". "Public accommodations" include most places of lodging (such as inns and hotels), recreation, transportation, education, and dining, along with stores, care providers, and places of public displays.
+
+Under Title III of the ADA, all "new construction" (construction, modification or alterations) after the effective date of the ADA (approximately July 1992) must be fully compliant with the Americans With Disabilities Act Accessibility Guidelines (ADAAG)<ref name=ada90/> found in the [[Code of Federal Regulations]] at 28&nbsp;C.F.R., Part 36, Appendix ''A''.
+
+Title III also has application to existing facilities. One of the definitions of "discrimination" under Title III of the ADA is a "failure to remove" architectural barriers in existing facilities. See {{UnitedStatesCodeSub|42|12182|b|2|A|iv}}. This means that even facilities that have not been modified or altered in any way after the ADA was passed still have obligations. The standard is whether "removing barriers" (typically defined as bringing a condition into compliance with the ADAAG) is "readily achievable", defined as "...easily accomplished without much difficulty or expense."
+
+The statutory definition of "readily achievable" calls for a [[balancing test]] between the cost of the proposed "fix" and the wherewithal of the business and/or owners of the business. Thus, what might be "readily achievable" for a sophisticated and financially capable corporation might not be readily achievable for a small or local business.
+
+There are exceptions to this title; many private clubs and religious organizations may not be bound by Title III. With regard to historic properties (those properties that are listed or that are eligible for listing in the [[National Register of Historic Places]], or properties designated as historic under state or local law), those facilities must still comply with the provisions of Title III of the ADA to the "maximum extent feasible" but if following the usual standards would "threaten to destroy the historic significance of a feature of the building" then alternative standards may be used.
+
+Under 2010 revisions of Department of Justice regulations, newly constructed or altered swimming pools, wading pools, and spas must have an accessible means of entrance and exit to pools for disabled people.  However, the requirement is conditioned on whether providing access through a fixed lift is "readily achievable."  Other requirements exist, based on pool size, include providing a certain number of accessible means of entry and exit, which are outlined in Section 242 of the standards.  However, businesses are free to consider the differences in application of the rules depending on whether the pool is new or altered, or whether the swimming pool was in existence before the effective date of the new rule.  Full compliance may not be required for existing facilities; Section 242 and 1009 of the 2010 Standards outline such exceptions.<ref>{{cite web |title=2013 ADA Pool Lift Compliance Deadline: Has Your Business Complied? |url=http://www.natlawreview.com/article/2013-ada-pool-lift-compliance-deadline-has-your-business-complied |publisher=Lowndes, Drosdick, Doster, Kantor & Reed, P.A. |work=The National Law Review |date=2013-01-29 |deadurl=no |accessdate=2013-02-19}}</ref>
+{{anchor|Title IV}}
+
+===Title IV—telecommunications===
+Title IV of the ADA amended the landmark [[Communications Act of 1934]] primarily by adding section {{UnitedStatesCode|47|225}}. This section requires that all telecommunications companies in the U.S. take steps to ensure functionally equivalent services for consumers with disabilities, notably those who are deaf or hard of hearing and those with speech impairments. When Title IV took effect in the early 1990s, it led to the installation of public [[teletypewriter]] (TTY) machines and other TDD ([[Telecommunications Device for the Deaf|telecommunications devices for the deaf]]). Title IV also led to the creation, in all 50 states and the District of Columbia, of what were then called dual-party relay services and now are known as [[Telecommunications Relay Services|telecommunications relay services]] (TRS), such as [[STS relay]]. Today, many TRS-mediated calls are made over the Internet by consumers who use broadband connections. Some are [[Video Relay Service|video relay service]] (VRS) calls, while others are text calls. In either variation, communication assistants translate between the signed or typed words of a consumer and the spoken words of others. In 2006, according to the [[Federal Communications Commission]] (FCC), VRS calls averaged two million minutes a month.
+{{anchor|Title V}}
+
+===Title V—miscellaneous provisions===
+:''See {{UnitedStatesCode|42|12201|12213}}.''
+
+Title V includes technical provisions. It discusses, for example, the fact that nothing in the ADA amends, overrides or cancels anything in [[Section 504]].<ref>{{UnitedStatesCode|42|12187}}</ref> Additionally, Title V includes an anti-retaliation or coercion provision. The ''Technical Assistance Manual'' for the ADA explains it: "III-3.6000 Retaliation or coercion. Individuals who exercise their rights under the ADA, or assist others in exercising their rights, are protected from retaliation. The prohibition against retaliation or coercion applies broadly to any individual or entity that seeks to prevent an individual from exercising his or her rights or to retaliate against him or her for having exercised those rights ... Any form of retaliation or coercion, including threats, intimidation, or interference, is prohibited if it is intended to interfere.
+
+==History==
+
+=== Transforming a Popular Idea into Workable Legislation ===
+[[File:ADA Development of Administration Disability Policy 042189 Page 1.jpg|thumb|Development of George H.W. Bush Administration Disability Policy. White House Memo. April 21, 1989.<ref>{{Cite web|url = http://bush41.org/|title = George Bush Presidential Library and Museum|date = |accessdate = |website = |publisher = |last = |first = }}</ref>]]
+The idea of federal legislation enhancing and extending civil rights legislation to millions of Americans with disabilities gained bipartisan support in late 1988 and early 1989. In early 1989 both Congress and the newly-inaugurated Bush White House worked separately, then jointly, to craft workable legislation capable of expanding civil rights without imposing undue harm or costs on those already in compliance with existing rules and laws.<ref>{{Cite web|url = http://presidentialtimeline.org/#/exhibit/41/06|title = The Americans with Disabilities Act Exhibit|date = |accessdate = |website = The Presidential Timeline|publisher = The Presidential Libraries of the National Archives and Records Administration|last = |first = }}
+</ref>
+
+===Lobbying===
+[[Patrisha Wright]] is known as "the General" for her work in coordinating the campaign to enact the ADA.<ref name="Timeline">{{cite web | url = http://isc.temple.edu/neighbor/ds/disabilityrightstimeline.htm | title = Disability History Timeline | year = 2002 | work = Rehabilitation Research & Training Center on Independent Living Management | publisher = [[Temple University]]}}</ref><ref name="dredf.org">{{cite web|url=http://dredf.org/about/staff/wright.shtml|title=Disability Rights Education and Defense Fund - Patrisha A. Wright|work=dredf.org}}</ref> She is widely considered the main force behind the campaign lobbying for the ADA.<ref name="tmc.edu">{{cite web|url=http://www.tmc.edu/tmcnews/03_15_00/page_01.html|title=Texas Medical Center NEWS|work=tmc.edu}}</ref>
+
+===Opposition from religious groups===
+The debate over the Americans with Disabilities Act led some religious groups to take opposite positions.<ref name="Lawton">Lawton, K.A. ''Christianity Today'', 10/8/90, Vol. 34 Issue 14, p. 71</ref> The [[Association of Christian Schools International]], opposed the ADA in its original form.<ref>"Should the Senate Approve the Americans with Disabilities Act of 1989?" ''[[Congressional Digest]]'' December (1989): 297</ref> primarily because the ADA labeled religious institutions "public accommodations", and thus would have required churches to make costly structural changes to ensure access for all.<ref>"Should the Senate Approve the Americans with Disabilities Act of 1989?" [[Congressional Digest]] December (1989): 297.</ref> The cost argument advanced by ACSI and others prevailed in keeping religious institutions from being labeled as "public accommodations".{{cn|date=September 2015}}
+
+Church groups such as the [[National Association of Evangelicals]] testified against the ADA's Title I employment provisions on grounds of religious liberty. The NAE believed the regulation of the internal employment of churches was "... an improper intrusion [of] the federal government."<ref name="Lawton" />
+
+===Opposition from business interests===
+Many members of the business community opposed the Americans with Disabilities Act. Testifying before Congress, [[Greyhound Bus Lines]] stated that the act had the potential to "deprive millions of people of affordable intercity public transportation and thousands of rural communities of their only link to the outside world." The [[US Chamber of Commerce]] argued that the costs of the ADA would be "enormous" and have "a disastrous impact on many small businesses struggling to survive."<ref>"Should the Senate Approve the Americans with Disabilities Act of 1989?" [[Congressional Digest]] December (1989): 208.</ref> The [[National Federation of Independent Businesses]], an organization that lobbies for small businesses, called the ADA "a disaster for small business."<ref>Mandel, Susan. "Disabling the GOP," ''The National Review'' 6/11/1990, Vol. 42 Issue 11, pp. 23–24</ref> Pro-business conservative commentators joined in opposition, writing that the Americans with Disabilities Act was "an expensive headache to millions" that would not necessarily improve the lives of people with disabilities.<ref>Doherty, Brian. ''Reason'', Aug–Sep 95, Vol. 27 Issue 4, p. 18</ref>
+
+==="Capitol Crawl"===
+
+Shortly before the act was passed, [[disability rights]] activists with [[physical disability|physical disabilities]] coalesced in front of the [[Capitol Building]], shed their crutches, [[wheelchair]]s, [[powerchair]]s and other [[assistive device]]s, and immediately proceeded to crawl and pull their bodies up all 100 of the Capitol's front steps, without warning.<ref>{{cite news|last1=Eaton|first1=William J.|authorlink1=William J. Eaton|title=Disabled Persons Rally, Crawl Up Capitol Steps : Congress: Scores protest delays in passage of rights legislation. The logjam in the House is expected to break soon.|url=http://articles.latimes.com/1990-03-13/news/mn-211_1_capitol-steps|accessdate=4 September 2015|publisher=Los Angeles Times|date=13 March 1990}}</ref> As the activists did so, many of them chanted "ADA now," and "Vote. Now,"  Some activists who remained at the bottom of the steps held signs and yelled words of encouragement at the "Capitol Crawlers." Jennifer Keelan, a second grader with [[cerebral palsy]], was videotaped as she pulled herself up the steps, using mostly her hands and arms, saying "I'll take all night if I have to." This [[direct action]] is reported to have "inconvenienced" several senators and to have pushed them to approve the act. While there are those who do not attribute much overall importance to this action, the "Capitol Crawl" of 1990 is seen by many present-day disability activists in the United States as being the single action most responsible for "forcing" the ADA into law.{{cn|date=September 2015}}
+
+===Quotations===
+[[File:Bush signs in ADA of 1990.jpg|thumb|right|250px|President Bush signs the Americans with Disabilities Act into law]]
+
+Senator [[Tom Harkin]] ([[Democratic Party (United States)|D]]-[[Iowa|IA]]) authored what became the final bill and was its chief sponsor in the Senate. Harkin delivered part of his introduction speech in sign language, saying it was so his deaf brother could understand. {{cn|date=September 2015}}
+
+On signing the measure, [[George H. W. Bush]] said: {{quote|I know there may have been concerns that the ADA may be too vague or too costly, or may lead endlessly to litigation. But I want to reassure you right now that my administration and the United States Congress have carefully crafted this Act. We've all been determined to ensure that it gives flexibility, particularly in terms of the timetable of implementation; and we've been committed to containing the costs that may be incurred.... Let the shameful wall of exclusion finally come tumbling down.<ref>[http://www.eeoc.gov/ada/bushspeech.html The U.S. Equal Employment Opportunity Commission]</ref>}}
+{{listen
+|title=Remarks on the Signing of the Americans with Disabilities Act (July 26, 1990)
+|filename=George HW Bush Americans with Disabilities Act.ogg
+|description =[[George H. W. Bush]]'s July 26, 1990 Remarks on the Signing of the Americans with Disabilities Act
+| format = [[Ogg]]
+| type = speech
+}}
+About the importance of making employment opportunities inclusive, Shirley Davis, director of global diversity and inclusion at the [[Society for Human Resource Management]], said: "People with disabilities represent a critical talent pool that is underserved and underutilized".<ref>{{cite web|url=http://www.shrm.org/hrdisciplines/Diversity/Articles/Pages/ManagerswithDisabilities.aspx|title=Targeted Development for Managers with Disabilities|publisher=Society for Human Resource Management|author=Pamela Babcock|date=21 October 2010}}</ref>
+
+===ADA Amendments Act, 2008===
+The ADA defines a covered disability as a physical or mental impairment that substantially limits one or more major life activities, a history of having such an impairment, or being regarded as having such an impairment. The [[Equal Employment Opportunity Commission]] (EEOC) was charged with interpreting the 1990 law with regard to discrimination in employment. The EEOC developed regulations limiting an individual’s impairment to one that “severely or significantly restricts” a major life activity.  The ADAAA directed the EEOC to amend its regulations and replace “severely or significantly” with “substantially limits”, a more lenient standard.<ref>{{cite web|title=Fact Sheet on the EEOC’s Final Regulations Implementing the ADAAA|url=http://www1.eeoc.gov//laws/regulations/adaaa_fact_sheet.cfm?renderforprint=1|website=U.S. Equal Employment Opportunity Commission|accessdate=4 September 2015}}</ref>
+
+On September 25, 2008, President [[George W. Bush]] signed the [[ADA Amendments Act of 2008]] (ADAAA) into law. The amendment broadened the definition of "disability," thereby extending the ADA's protections to a greater number of people.<ref name=BLR>{{cite web| title= ADA Amendments Act (ADAAA)—What Employers Need to Know | year= 2008 | publisher= HR.BLR.com | url= http://www.blr.com/information-ada/ }}</ref> The ADAAA also added to the ADA examples of "major life activities" including, but not limited to, "caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, lifting, bending, speaking, breathing, learning, reading, concentrating, thinking, communicating, and working" as well as the operation of several specified ''major bodily functions''.<ref name=BLR /> The act overturned a 1999 US Supreme Court case that held that an employee was not disabled if the impairment could be corrected by mitigating measures; it specifically provides that such impairment must be determined without considering such ameliorative measures. It also overturned the court restriction that an impairment which substantially limits one major life activity must also limit others to be considered a disability.<ref name=BLR />
+In 2008, the [[United States House Committee on Education and Labor]] stated that the amendment "makes it absolutely clear that the ADA is intended to provide broad coverage to protect anyone who faces discrimination on the basis of disability."<ref>{{cite book|title=United States of America Congressional Record Proceedings and Debates of the 110th Congress Second Session Volume 154-Part 10|date=2008|publisher=Government Printing Office|location=Washington, D. C.|isbn=9786131199639|page=13769|url=https://books.google.no/books?id=RUk4z1xt77IC&pg=PA113&lpg=PA113&dq=absolutely+clear+that+the+ADA+is+intended+to+provide&source=bl&ots=1Ksngf10aO&sig=AWrLkaPp7zEnxKbnh-I0_IHXJww&hl=no&sa=X&ved=0CDQQ6AEwA2oVChMIkeq8reTcxwIVhVwsCh1cEwg1#v=onepage&q=absolutely%20clear%20that%20the%20ADA%20is%20intended%20to%20provide&f=false|accessdate=4 September 2015}}</ref> Thus the ADAAA led to broader coverage of impaired employees.
+
+===25 year anniversary, 2015===
+{{as of|2015}} the ADA had improved access to public services, the built environment (e.g., crosswalks with curb cuts and accessible pedestrian signals), understanding of the abilities of people with disabilities, established a right to equal access to public services and has demonstrated the contributions which people with disabilities can make to the economy. Disparities have remained in employment, earned income, Internet access, transportation, housing, and educational attainment and the disabled remain at a disadvantage with respect to health and health care.<ref name=nejm>{{cite journal|author1=G. Peacock, L.I. Iezzoni, and T.R. Harkin|title=Health Care for Americans with Disabilities — 25 Years after the ADA|journal=N Engl J Med 2015;|date=3 September 2015|volume=373|pages=892-893|doi=10.1056/NEJMp1508854|url=http://www.nejm.org/doi/full/10.1056/NEJMp1508854?query=TOC|accessdate=3 September 2015}}</ref>
+
+==Criticism==
+
+===Abuse===
+The perception that the ADA primarily helps [[free rider problem|freeloaders]] was harshly satirized by ''[[The Onion]]'' in 1998 in the form of an article about the ''Americans With No Abilities Act''.<ref>Anonymous, [http://www.theonion.com/articles/congress-passes-americans-with-no-abilities-act,541/ "Congress Passes Americans With No Abilities Act"], ''[[The Onion]]'', June 24, 1998.</ref> The fictional act would have provided "benefits and protection for more than 135 million talentless Americans," and prohibited discriminatory questions such as, "What can you bring to this organization?"<ref>Scott Dikkers and Robert Siegel, ''The Onion's Finest News Reporting, Vol. 1'' (New York: Three Rivers Press, 2000), 155.</ref>
+
+===Employment===
+The ADA has been criticized on the grounds that it decreases the employment rate for people with disabilities<ref>(see Schwochau & Blanck for counter arguments)</ref> and raises the cost of doing business for employers, in large part due to the additional legal risks, which employers avoid by quietly avoiding hiring people with disabilities. Some researchers{{who|date=July 2013}} believe that the law has been ineffectual.<ref>(see Schall, 1998)</ref>  Between 1991 (after the enactment of the ADA) and 1995, the employment rate of men with disabilities dropped by 7.8% regardless of age, educational level, or type of disability, with the most affected being young, less-educated and mentally disabled men.<ref name="deleire">{{cite journal|last=DeLeire|first=Thomas|title=The Unintended Consequences of the Americans with Disabilities Act|journal=Regulation|year=2000|volume=23|issue=1|pages=21–24|url=http://www.cato.org/sites/cato.org/files/serials/files/regulation/2000/4/deleire.pdf}}</ref> Despite the many criticisms, a causal link between the ADA and declining disabled employment over much of the 1990s has not been definitively identified.<ref>{{cite web|last1=Picker|first1=Les|title=Did the ADA Reduce Employment of the Disabled?|url=http://www.nber.org/digest/nov04/w10528.html|website=www.nber.org}}</ref>
+
+In 2001, for men of all working ages and women under 40, [[Current Population Survey]] data showed a sharp drop in the employment of disabled workers, with the ADA as a likely cause.<ref>{{cite journal|last=Acemoglu|first=Daron|author2=Angrist, Joshua D.|title=Consequences of Employment Protection? The Case of the Americans with Disabilities Act|journal=Journal of Political Economy|date=1 October 2001|volume=109|issue=5|pages=915–957|doi=10.1086/322836|url=http://economics.mit.edu/files/17}}</ref>
+However, in 2005 the rate of employment among disabled people increased to 45% of the population of disabled people.<ref>[http://www.census.gov/prod/2012pubs/p70-131.pdf US Census 2012]</ref>
+
+==="Professional plaintiffs"===
+Since enforcement of the act began in July 1992, it has quickly become a major component of employment law. The ADA allows private plaintiffs to receive only [[injunctive relief]] (a court order requiring the public accommodation to remedy violations of the accessibility regulations) and attorneys' fees, and does not provide monetary rewards to private plaintiffs who sue non-compliant businesses. Unless a state law, such as the California [[Unruh Civil Rights Act]],<ref name="time ada">{{Cite news|url=http://www.time.com/time/nation/article/0,8599,1866666,00.html|title=Lawsuits by the Disabled: Abuse of the System?|author=Stateman, Alison|accessdate=2008-12-29|publisher=TIME | date=December 29, 2008| archiveurl= http://web.archive.org/web/20081230050557/http://www.time.com/time/nation/article/0,8599,1866666,00.html| archivedate= 30 December 2008 <!--DASHBot-->| deadurl= no}}</ref> provides for monetary damages to private plaintiffs, persons with disabilities do not obtain direct financial benefits from suing businesses that violate the ADA.
+
+The attorneys' fees provision of Title III does provide incentive for lawyers to specialize and engage in serial ADA litigation, but a disabled plaintiff does not obtain financial reward from attorneys' fees unless they act as their own attorney, or as mentioned above, a disabled plaintiff resides in a state that provides for minimum compensation and court fees in lawsuits. Moreover, there may be a benefit to these "private attorneys general" who identify and compel the correction of illegal conditions: they may increase the number of public accommodations accessible to persons with disabilities. "Civil rights law depends heavily on private enforcement. Moreover, the inclusion of penalties and damages is the driving force that facilitates voluntary compliance with the ADA."<ref>Parr v. L & L Drive-Inn Restaurant (D. Hawaii 2000) 96&nbsp;F.Supp.2d 1065, 1082, citing and quoting, Committee Print, Vol. II, 101st Cong., 2d Sess., at 1481–82 (1990); {{UnitedStatesCode|42|12101}}(b)(2); S.Rep. No. 101-116, at 15 (1989).</ref> Courts have noted: <blockquote>"As a result, most ADA suits are brought by a small number of private plaintiffs who view themselves as champions of the disabled. For the ADA to yield its promise of equal access for the disabled, it may indeed be necessary and desirable for committed individuals to bring serial litigation advancing the time when public accommodations will be compliant with the ADA."<ref>Molski v. Evergreen Dynasty Corp., (9th Cir. 2007) 500&nbsp;F.3d 1047, 1062; D'Lil v. Best Western Encina Lodge & Suites (9th Cir. 2008) 538&nbsp;F.3d 1031, 1040.</ref></blockquote>
+
+However, in states that have enacted laws that allow private individuals to win monetary awards from non-compliant businesses (as of 2008, these include California, Florida, Hawaii, and Illinois), "professional plaintiffs" are typically found.<ref name="time ada"/> At least one of these plaintiffs in California has been barred by courts from filing lawsuits unless he receives prior court permission.<ref name="time ada"/> Through the end of fiscal year 1998, 86% of the 106,988 ADA charges filed with and resolved by the [[Equal Employment Opportunity Commission]], were either dropped or investigated and dismissed by EEOC but not without imposing opportunity costs and legal fees on employers.<ref name="deleire" />
+
+==Case law==
+
+There have been some notable cases regarding the ADA. For example, two major hotel room marketers (Expedia.com and Hotels.com) with their business presence on the Internet were sued because its customers with disabilities could not reserve hotel rooms, through their websites without substantial extra efforts that persons without disabilities were not required to perform.<ref>[http://www.dralegal.org/cases/private_business/Smith_v_Hotels_com.php Smith v. Hotels.com] at Disability Rights Advocates</ref> These represent a major potential expansion of the ADA in that this, and other similar suits (known as "bricks vs. clicks"), seeks to expand the ADA's authority to [[cyberspace]], where entities may not have actual physical facilities that are required to comply.
+
+===''National Federation of the Blind v. Target Corporation''===
+
+''[[National Federation of the Blind v. Target Corporation]]'' was a case where a major retailer, [[Target Corp.]], was sued because their web designers failed to design its website to enable persons with low or no vision to use it.<ref>[http://www.dralegal.org/cases/private_business/nfb_v_target.php National Federation for the Blind v. Target] at Disability Rights Advocates</ref>
+
+===''Board of Trustees of the University of Alabama v. Garrett''===
+
+''[[Board of Trustees of the University of Alabama v. Garrett]]'', 531 U.S. 356 (2001), was a [[Supreme Court of the United States|United States Supreme Court]] case about [[United States Congress|Congress's]] [[congressional power of enforcement|enforcement powers]] under the [[Fourteenth Amendment to the United States Constitution|Fourteenth Amendment]] to the [[United States Constitution|Constitution]]. It decided that Title I of the Americans with Disabilities Act was unconstitutional insofar as it allowed private citizens to sue states for [[money damages]].
+
+===''Barden v. The City of Sacramento''===
+
+''Barden v. The City of Sacramento'', filed in March 1999, claimed that the City of Sacramento failed to comply with the ADA when, while making public street improvements, it did not bring its sidewalks into compliance with the ADA. Certain issues were resolved in Federal Court. One issue, whether sidewalks were covered by the ADA, was appealed to the [[9th Circuit Court of Appeals]], which ruled that sidewalks were a "program" under ADA and must be made accessible to persons with disabilities. The ruling was later appealed to the U.S. Supreme Court, which refused to hear the case, letting stand the ruling of the 9th Circuit Court.<ref>[http://www.dralegal.org/cases/public_entities/barden_v_sacramento.php Barden v. Sacramento] from Disability Rights Advocates</ref>
+
+===''Bates v. UPS''===
+
+''Bates v. UPS'' (begun in 1999) was the first [[equal opportunity employment]] class action brought on behalf of Deaf and Hard of Hearing (d/Deaf/HoH) workers throughout the country concerning workplace discrimination. It established legal precedence for d/Deaf/HoH Employees and Customers to be fully covered under the ADA. Key findings included
+# UPS failed to address communication barriers and to ensure equal conditions and opportunities for deaf employees;
+# Deaf employees were routinely excluded from workplace information, denied opportunities for promotion, and exposed to unsafe conditions due to lack of accommodations by UPS;
+# UPS also lacked a system to alert these employees as to emergencies, such as fires or chemical spills, to ensure that they would safely evacuate their facility; and
+# UPS had no policy to ensure that deaf applicants and employees actually received effective communication in the workplace.
+The outcome was that UPS agreed to pay a $5.8 million award and agreed to a comprehensive accommodations program that was implemented in their facilities throughout the country.
+
+===''Spector v. Norwegian Cruise Line Ltd.''===
+''[[Spector v. Norwegian Cruise Line Ltd.]]'' was a case that was decided by the [[United States Supreme Court]] in 2005. The defendant argued that as a vessel flying the flag of a foreign nation it was exempt from the requirements of the ADA. This argument was accepted by a federal court in Florida and, subsequently, the Fifth Circuit Court of Appeals. However, the U.S. Supreme Court reversed the ruling of the lower courts on the basis that Norwegian Cruise Lines was a business headquartered in the United States whose clients were predominantly Americans and, more importantly, operated out of port facilities throughout the United States.
+
+===''Olmstead v. L.C.''===
+:''Not to be confused with ''[[Olmstead v. United States]]'', 277 U.S. 438 (1928), a case regarding wiretapping''
+
+''[[Olmstead, Commissioner, Georgia Department of Human Resources, et al. v. L. C., by zimring, guardian ad litem and next friend, et al.]]'' was a case before the [[United States Supreme Court]] in 1999. The two plaintiffs L.C. and E.W. were institutionalized in Georgia for diagnosed mental retardation and schizophrenia. Clinical assessments by the state determined that the plaintiffs could be appropriately treated in a community setting rather than the state institution. The plaintiffs sued the state of Georgia and the institution for being inappropriately treated and housed in the institutional setting rather than being treated in one of the state's community based treatment facilities.
+
+The Supreme Court decided under Title II of the ADA that mental illness is a form of disability and therefore covered under the ADA, and that unjustified institutional isolation of a person with a disability is a form of discrimination because it "...perpetuates unwarranted assumptions that persons so isolated are incapable or unworthy of participating in community life." The court added, "Confinement in an institution severely diminishes the everyday life activities of individuals, including family relations, social contacts, work options, economic independence, educational advancement, and cultural enrichment."
+
+Therefore, under Title II no person with a disability can be unjustly excluded from participation in or be denied the benefits of services, programs or activities of any public entity.<ref>[http://supct.law.cornell.edu/supct/html/98-536.ZS.html OLMSTEAD V. L. C.] from [[Cornell University Law School]]&nbsp;– Syllabus for the Supreme Court Decision in 1999</ref>
+
+===''Michigan Paralyzed Veterans of America v. The University of Michigan''===
+
+This was a case filed before The United States District Court for the Eastern District of Michigan Southern Division on behalf of the Michigan [[Paralyzed Veterans of America]] against University of Michigan – Michigan Stadium claiming that [[Michigan Stadium]] violated the Americans with Disabilities Act in its $226-million renovation by failing to add enough seats for disabled fans or accommodate the needs for disabled restrooms, concessions and parking. Additionally, the distribution of the accessible seating was at issue, with nearly all the seats being provided in the end-zone areas. The U.S. Department of Justice assisted in the suit filed by attorney Richard Bernstein of [[The Law Offices of Sam Bernstein]] in Farmington Hills, Michigan, which was settled in March 2008.<ref>Erb, Robin. "U-M fans rave about new seats for disabled," Detroit Free Press. 9 September 2008.</ref> The settlement required the stadium to add 329 wheelchair seats throughout the stadium by 2010, and an additional 135 accessible seats in clubhouses to go along with the existing 88 wheelchair seats. This case was significant because it set a precedent for the uniform distribution of accessible seating and gave the DOJ the opportunity to clarify previously unclear rules.<ref name=wolffe>Wolffe, Jerry. "New wheelchair seats will be full at U-M's Big House." The Oakland Press. 14 September 2008.</ref> The agreement now is a blueprint for all stadiums and other public facilities regarding accessibility.<ref name=autogenerated1>Wolffe, Jerry. "New wheelchair seats will be full at U-M's Big House," The Oakland Press. 14 September 2008. /</ref>
+
+===''Paralyzed Veterans of America v. Ellerbe Becket Architects and Engineers''===
+
+One of the first major ADA lawsuits, ''Paralyzed Veterans of America (or "PVA") v. Ellerbe Becket Architects and Engineers'' (1996) was focused on the wheelchair accessibility of a stadium project that was still in the design phase, [[MCI Center]] in Washington, D.C. Previous to this case, which was filed only five years after the ADA was passed, the DOJ was unable or unwilling to provide clarification on the distribution requirements for accessible wheelchair locations in large assembly spaces. While Section 4.33.3 of ADAAG makes reference to lines of sight, no specific reference is made to seeing over standing patrons. The MCI Center, designed by Ellerbe Becket Architects & Engineers, was designed with too few wheelchair and companion seats, and the ones that were included did not provide sight lines that would enable the wheelchair user to view the playing area while the spectators in front of them were standing. This case and another related case established precedent on seat distribution and sight lines issues for ADA enforcement that continues to present day.
+
+===''Toyota Motor Manufacturing, Kentucky, Inc. v. Williams''===
+
+''[[Toyota Motor Manufacturing, Kentucky, Inc. v. Williams]]'', [[Case citation|534 U.S. 184]] (2002) was a case in which the Supreme Court interpreted the meaning of the phrase "substantially impairs" as used in the Americans with Disabilities Act. It reversed a Sixth Court of Appeals decision to grant a partial [[summary judgment]] in favor of the respondent, Ella Williams that qualified her inability to perform manual job-related tasks as a disability. The Court held that the "major life activity" definition in evaluating the performance of manual tasks focuses the inquiry on whether Williams was unable to perform a range of tasks central to most people in carrying out the activities of daily living. The issue is not whether Williams was unable to perform her specific job tasks. Therefore, the determination of whether an impairment rises to the level of a disability is not limited to activities in the workplace solely, but rather to manual tasks in life in general. When the Supreme Court applied this standard, it found that the Court of Appeals had incorrectly determined the presence of a disability because it relied solely on her inability to perform specific manual work tasks, which was insufficient in proving the presence of a disability. The Court of Appeals should have taken into account the evidence presented that Williams retained the ability to do personal tasks and household chores, such activities being the nature of tasks most people do in their daily lives, and placed too much emphasis on her job disability. Since the evidence showed that Williams was performing normal daily tasks, it ruled that the Court of Appeals erred when it found that Williams was disabled.<ref name="cornell">{{cite web
+|url=http://www.law.cornell.edu/supct/html/00-1089.ZO.html
+|title=Toyota Motor Mfg., Ky., Inc. v. Williams
+|publisher=www.law.cornell.edu
+|accessdate=2009-10-07| archiveurl= http://web.archive.org/web/20091012010504/http://www.law.cornell.edu/supct/html/00-1089.ZO.html| archivedate= 12 October 2009 <!--DASHBot-->| deadurl= no}}</ref><ref name="workerrights">
+{{cite book
+|url=http://books.google.com/?id=GGRFPMUFUSkC&pg=PA70&lpg=PA70&dq=TOYOTA+of+KY+v+Ella+WILLIAMS#v=onepage&q=&f=false
+|title=Workers' Rights
+|publisher=books.google.com
+|accessdate=2009-10-07
+|last=Worth
+|first=Richard
+|isbn=978-0-7614-2574-8
+|date=2007-11-15
+}}
+</ref>
+This ruling is now, however, no longer good law—it was invalidated by the ADAAA. In fact, Congress explicitly cited Toyota v. Williams in the text of the ADAAA itself as one of its driving influences for passing the ADAAA.
+
+===''Access Now v. Southwest Airlines''===
+
+''[[Access Now v. Southwest Airlines]]'' was a case where the [[United States district court|District Court]] decided that the website of [[Southwest Airlines]] was not in violation of the Americans with Disability Act because the ADA is concerned with things with a physical existence and thus cannot be applied to cyberspace. Judge [[Patricia A. Seitz]] found that the "virtual ticket counter" of the website was a virtual construct, and hence not a "public place of accommodation." As such, "To expand the ADA to cover 'virtual' spaces would be to create new rights without well-defined standards."<ref name="CLR">{{cite web | title = Order Granting Defendant's Motion to Dismiss | work = Tech Law Journal | url = http://www.techlawjournal.com/courts2002/accessnow_southwest/20021018.asp | accessdate = 25 May 2010 }}</ref>
+
+===''Ouellette v. Viacom International Inc.''===
+
+''[[Ouellette v. Viacom International Inc.]]'' followed in Access Now's footsteps by holding that a mere online presence does not subject a website to the ADA guidelines. Thus Myspace and YouTube were not liable for a dyslexic man's inability to navigate the site regardless of how impressive the "online theater" is.
+
+===''Authors Guild v. HathiTrust''===
+''[[Authors Guild v. HathiTrust]]'' was a case in which the District Court decided that the [[HathiTrust]] digital library was a transformative, fair use of copyrighted works, making a large number of written text available to those with [[print disability]].
+
+==Resources==
+* [[Daron Acemoğlu|Acemoğlu, Daron]] & [[Joshua Angrist|Angrist, Joshua D.]] (2001). Consequences of Employment Protection? The Case of the Americans with Disabilities Act. ''Journal of Political Economy'', volume 109 (2001), pages 915–957.
+* [[George H.W. Bush|Bush, George H. W.]], ''Remarks of President George Bush at the Signing of the Americans with Disabilities Act''. Available on-line at [http://www.eeoc.gov/ada/bushspeech.html Equal Employment Opportunity Commission].
+* [[Lennard J. Davis|Davis, Lennard J.]] ''Enabling Acts. The Hidden Story of How the Americans with Disabilities Act Gave the Largest US Minority Its Rights''. Boston, MA: Beacon Press, 2015.
+* DeLeire, Thomas. (Autumn, 2000). The Wage and Employment Effects of the Americans with Disabilities Act. ''Journal of Human Resources'', Vol. 35, No. 4, pp.&nbsp;693–715
+* Fielder, J. F. ''Mental Disabilities and the Americans with Disabilities Act.'' Westport, CT: Quorum Books, 2004.
+* Hamilton Krieger, Linda, ed., ''Backlash Against the ADA: Reinterpreting Disability Rights'' Ann Arbor: University of Michigan Press, 2003.
+* Johnson, Mary. (2000). ''Make Them Go Away: [[Clint Eastwood]], [[Christopher Reeve]] & The Case Against Disability Rights.'' Louisville, KY: The Advocado Press.
+* Schall, Carol M. (Jun 1998). The Americans with Disabilities Act—Are We Keeping Our Promise? An Analysis of the Effect of the ADA on the Employment of Persons with Disabilities. ''Journal of Vocational Rehabilitation'', v10 n3 pp.&nbsp;191–203.
+* Schwochau, Susan & Blanck, Peter David. The Economics of the Americans with Disabilities Act, Part III: Does the ADA Disable the Disabled? ''Berkeley Journal of Employment & Labor Law'' [Vol. 21:271]
+* Switzer, Jacqueline Vaughn. ''Disabled Rights: American Disability Policy and the Fight for Equality''. Washington, DC: Georgetown University Press, 2003...
+* Weber, Mark C. ''Disability Harassment''. New York, NY: NYU Press, 2007.
+* O'Brien, Ruth, ed. ''Voices from the Edge: Narratives about the Americans with Disabilities Act''. New York: Oxford, 2004. ISBN 0-19-515687-0
+* Pletcher, David and Ashlee Russeau-Pletcher. [http://web.archive.org/web/20120601171408/http://aabss.org/Perspectives2008/AABSS2008Article5DisabilityHistory.pdf History of the Civil Rights Movement for the Physically Disabled]
+
+==See also==
+* [[ADA Compliance Kit]]
+* [[ADA Signs]]
+* [[American Disability rights movement]]
+* [[Convention on the Rights of Persons with Disabilities]]
+* [[Developmental disability]]
+* [[Individual rights advocate]]
+* [[Interactive accommodation process]]
+* [[Job Accommodation Network]] – provides information about rights and responsibilities under the ADA and related legislation
+* [[List of anti-discrimination acts]]
+** [[Disability discrimination act]]
+** [[Title VII]] of the Civil Rights Act of 1964
+* [[List of disability rights activists]]
+* [[Stigma management]]
+* [[Timeline of disability rights in the United States]]
+
+==References==
+{{Reflist|30em}}
+Guerin, Lisa, and DelPo, Amy. “Chapter 2: Americans with Disabilities Act of 1990                  (ADA).” Essential Guide to Federal Employment Laws. (2013): p39-57. Academic   Search Complete. Web. Day July 19, 2015.
+
+==External links==
+{{Spoken Wikipedia|Wikipedia - ADA 1990.ogg|2009-04-09|18.3 mega}}
+{{linkfarm|date=July 2015}}
+* [http://www.eeoc.gov/laws/types/disability.cfm Equal Employment Opportunity Commission page on disability discrimination in employment]
+* [http://www.dol.gov/dol/topic/disability/ada.htm Department of Labor ADA page]
+*[http://www2.ed.gov/about/offices/list/ocr/docs/hq9805.html Department of Education Office of Civil Rights]
+*[http://www.ada.gov/2010_regs.htm Department of Justice Titles II & III]
+* [http://www.ada.gov/pcatoolkit/toolkitmain.htm Compliance tool kits from the ADA]
+* [http://finduslaw.com/americans_with_disabilities_act_of_1990_ada_42_u_s_code_chapter_126 Navigable text of the Americans with Disabilities Act of 1990&nbsp;– 42 U.S. Code Chapter 126]
+* [http://www.ADAPortal.org Searchable collection of over 7,000 Federal ADA documents]
+* [http://www.adata.org Federally funded technical assistance network]
+* [http://www.ericdigests.org/2002-1/ada.html Overview of ADA, IDEA, and Section 504: Update 2001]
+* [http://www.ericdigests.org/1996-3/ada.htm Overview of ADA, IDEA, and Section 504]
+* [http://www.ericdigests.org/2004-1/people.htm Employment of People with Disabilities]
+* [http://www.ericdigests.org/2000-3/web.htm Accessible Web Design]
+* [http://www.ericdigests.org/1996-4/testing.htm Testing Students with Disabilities]
+* [http://www.shrm.org/disabilityemployment SHRM's Disability Employment Resource Page]
+* [http://lawhighereducation.org/14-americans-with-disabilities-act-ada.html Americans with Disabilities Act (ADA)&nbsp;– law and higher education]
+* [http://adaanniversary.org/ ADA Anniversary Toolkit]
+* [http://www.presidentialtimeline.org/#/exhibit/41/06 The Americans with Disabilities Act Exhibit (Presidential Timeline)]
+* [http://www.archives.gov/research/americans-with-disabilities/ Research Records about Americans with Disabilities (National Archives and Records Administration)]
+* [https://www.disability.gov/ Disability.gov (Department of Justice)]
+* [http://www.ada.gov/ada_25th_anniversary/index.html Celebrating the 25th Anniversary of the Americans with Disabilities Act]  
+
+{{DEFAULTSORT:Americans With Disabilities Act Of 1990}}
+[[Category:1990 in law]]
+[[Category:101st United States Congress]]
+[[Category:Anti-discrimination law in the United States]]
+[[Category:United States federal disability legislation]]
+[[Category:United States federal civil rights legislation]]
+[[Category:Americans with Disabilities Act of 1990| ]]

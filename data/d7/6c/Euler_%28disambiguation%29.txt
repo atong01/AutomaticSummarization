@@ -1,0 +1,21 @@
+*'''[[Leonhard Euler]]''' (1707–1783) was a Swiss mathematician and physicist.
+
+'''Euler''' may also refer to:
+
+==Science and technology==
+* [[Euler (programming language)]], a computer programming language
+* [[Euler (software)]], a numerical software package
+* Euler Portal to Mathematics Publications, hosted by EMIS
+* [[Euler-Werke]], an aircraft manufacturer owned by [[August Euler]].
+* [[AMS Euler]], a typeface
+* [[Project Euler]] a series of challenging mathematical/computer programming problems
+
+==Other uses==
+* [[Euler (surname)]]
+* [[Euler Hermes]], a global credit insurance company
+
+==See also==
+* [[List of topics named after Leonhard Euler]]
+
+{{Disambiguation}}
+{{DEFAULTSORT:Euler (Disambiguation)}}

@@ -1,0 +1,354 @@
+{{Thermodynamics|cTopic=[[Thermodynamic system|Systems]]}}
+An '''adiabatic process''' is one that occurs without transfer of heat between a [[thermodynamic system]] and its surroundings; energy is transferred only as work.<ref>[[Constantin Carathéodory|Carathéodory, C.]] (1909). Untersuchungen über die Grundlagen der Thermodynamik, ''Mathematische Annalen'', '''67''': 355–386, {{doi|10.1007/BF01450409}}. A translation may be found [http://neo-classical-physics.info/uploads/3/0/6/5/3065888/caratheodory_-_thermodynamics.pdf here].  Also a mostly reliable [http://books.google.com.au/books?id=xwBRAAAAMAAJ&q=Investigation+into+the+foundations translation is to be found] at Kestin, J. (1976). ''The Second Law of Thermodynamics'', Dowden, Hutchinson & Ross, Stroudsburg PA.</ref><ref>Bailyn, M. (1994). ''A Survey of Thermodynamics'', American Institute of Physics Press, New York, ISBN 0-88318-797-3, p. 21.</ref> The adiabatic process provides a rigorous conceptual basis for the theory used to expound the [[first law of thermodynamics]], and as such it is a key concept in [[thermodynamics]].
+
+Some chemical and physical processes occur so rapidly that they may be conveniently described by the "adiabatic approximation", meaning that there is not enough time for the transfer of energy as heat to take place to or from the system.<ref name="Bailyn 53">Bailyn, M. (1994), pp. 52–53.</ref>
+
+In way of example, the [[adiabatic flame temperature]] is an idealization that uses the "adiabatic approximation" so as to provide an upper limit calculation of temperatures produced by combustion of a fuel. The adiabatic flame temperature is the temperature that would be achieved by a [[fire|flame]] if the process of combustion took place in the absence of heat loss to the surroundings.
+
+==Description==
+
+A process that does not involve the transfer of heat or matter into or out of a system, so that ''Q'' = 0, is called an adiabatic process, and such a system is said to be adiabatically isolated.<ref>[[László Tisza|Tisza, L.]] (1966). ''Generalized Thermodynamics'', M.I.T Press, Cambridge MA: "(adiabatic partitions inhibit the transfer of heat and mass)", p. 48.</ref> The assumption that a process is adiabatic is a frequently made simplifying assumption. For example, the compression of a gas within a cylinder of an engine is assumed to occur so rapidly that on the time scale of the compression process, little of the system's energy can be transferred out as heat. Even though the cylinders are not insulated and are quite conductive, that process is idealized to be adiabatic. The same can be said to be true for the expansion process of such a system.
+
+The assumption of adiabatic isolation of a system is a useful one, and is often combined with others  so as to make the calculation of the system's behaviour possible. Such assumptions are idealizations. The behaviour of actual machines deviates from these idealizations, but the assumption of such "perfect" behaviour provide a useful first approximation of how the real world works.
+
+=== Various applications of the adiabatic assumption ===
+
+*If the system has rigid walls such that work cannot be transferred in or out ({{math|''W'' {{=}} 0}}), and the walls of the system are not adiabatic and energy is added in the form of heat ({{math|''Q'' > 0}}), the temperature of the system will rise.
+
+*If the system has rigid walls such that work cannot be added ({{math|''W'' {{=}} 0}}), and the system boundaries are adiabatic ({{math|''Q'' {{=}} 0}}), but energy is added as work in the form of friction or the stirring of a viscous fluid within the system, the temperature of the system will rise.
+
+*If the system walls are adiabatic ({{math|''Q'' {{=}} 0}}), but not rigid ({{math|''W'' ≠ 0}}), and energy is added to the system in the form of frictionless, non-viscous work, the temperature of the system will rise. The energy added is stored within the system, and is completely recoverable as work. Such a process of the frictionless, non-viscous application of work to a system is called an [[isentropic process]]. If the system contains a compressible gas and is reduced in volume, the uncertainty of the position of the gas is reduced as it is compressed to a smaller volume, and seemingly reduces the entropy of the system, but the temperature of the system will rise as the process is isentropic ({{math|Δ''S'' {{=}} 0}}). Should the work be added in such a way that friction or viscous forces are operating within the system, the process is not isentropic, the temperature of the system will rise, and the work added to the system is not entirely recoverable in the form of work.
+
+*If the walls of a system are not adiabatic, and energy is transferred in as heat, entropy is transferred into the system with the heat. Such a process is neither adiabatic nor isentropic, having {{math|''Q'' > 0}}, and {{math|Δ''S'' > 0}} according to the second law of thermodynamics.
+
+Naturally occurring adiabatic processes are irreversible (entropy is produced).
+
+The transfer of energy as work into an adiabatic (insulated) system can be imagined as being of two idealized extreme kinds. One kind of work is where there is no entropy produced within the system (no friction, viscous dissipation, etc.), and the work is only pressure-volume work (denoted by {{math|''P'' d''V''}}). In nature, this ideal kind occurs only approximately, because it demands an infinitely slow process and no sources of dissipation.
+
+The other extreme kind of work is isochoric work ({{math|d''V'' {{=}} 0}}), for which energy is added as work solely through friction or viscous dissipation within the system. A stirrer that transfers energy to a viscous fluid of an adiabatically isolated system with rigid walls will cause a rise in temperature of the fluid, but that work is not recoverable. Isochoric work is irreversible.<ref>Münster, A. (1970), ''Classical Thermodynamics'', translated by E.S. Halberstadt, Wiley–Interscience, London, ISBN 0-471-62430-6, p. 45.</ref> The second law of thermodynamics observes that a natural process of transfer of energy as work, always consists at least of isochoric work and often both of these extreme kinds of work. Every natural process, adiabatic or not, is irreversible, with {{math|Δ''S'' > 0}}, as friction or viscosity are always present to some extent.
+
+==Adiabatic heating and cooling==
+The adiabatic compression of a gas causes a rise in temperature of the gas. Adiabatic expansion against pressure, or a spring, causes a drop in temperature. In contrast, [[free expansion]] is an [[isothermal]] process for an ideal gas.
+
+'''Adiabatic heating''' occurs when the pressure of a gas is increased from work done on it by its surroundings, e.g., a [[piston]] compressing a gas contained within an adiabatic cylinder.  This finds practical application in [[diesel engines]] which rely on the lack of quick heat dissipation during their compression stroke to elevate the fuel vapor temperature sufficiently to ignite it.
+
+Adiabatic heating occurs in the [[Earth's atmosphere]] when an [[air mass]] descends, for example, in a [[katabatic wind]], [[Foehn wind]], or [[chinook wind]] flowing downhill over a mountain range. When a parcel of air descends, the pressure on the parcel increases. Due to this increase in pressure, the parcel's volume decreases and its temperature increases as work is done on the parcel of air, thus increasing its internal energy, which manifests itself by a rise in the temperature of that mass of air. The parcel of air can only slowly dissipate the energy by conduction or radiation (heat), and to a first approximation it can be considered adiabatically isolated and an the process an adiabatic process.
+
+'''Adiabatic cooling''' occurs when the pressure on an adiabatically isolated system is decreased, allowing it to expand, thus causing it to do work on its surroundings. When the pressure applied on a parcel of air is reduced, the air in the parcel is allowed to expand; as the volume increases, the temperature falls as its internal energy decreases. Adiabatic cooling occurs in the [[Earth's atmosphere]] with [[orographic lifting]] and [[lee waves]], and this can form [[Pileus (meteorology)|pileus]] or [[lenticular cloud]]s.
+
+Adiabatic cooling does not have to involve a fluid. One technique used to reach very low temperatures (thousandths and even millionths of a degree above absolute zero) is via [[adiabatic demagnetization|adiabatic demagnetisation]], where the change in [[magnetic field]] on a magnetic material is used to provide adiabatic cooling. Also, the contents of an [[expanding universe]] can be described (to first order) as an adiabatically cooling fluid. ''(See - [[Heat death of the universe]])''
+
+Rising magma also undergoes adiabatic cooling before eruption, particularly significant in the case of magmas that rise quickly from great depths such as [[kimberlite]]s.<ref name="Kavanagh">{{cite journal|last=Kavanagh|first=J.L.|author2=Sparks R.S.J.|year=2009|title=Temperature changes in ascending kimberlite magmas|journal=Earth and Planetary Science Letters|publisher=[[Elsevier]]|volume=286|issue=3&ndash;4|pages=404&ndash;413|doi=10.1016/j.epsl.2009.07.011|url=http://monash.academia.edu/JanineKavanagh/Papers/114092/Temperature_changes_in_ascending_kimberlite_magma|accessdate=18 February 2012|bibcode = 2009E&PSL.286..404K }}</ref>
+
+Such temperature changes can be quantified using the [[ideal gas law]], or the [[hydrostatic equation]] for atmospheric processes.
+
+In practice, no process is truly adiabatic. Many processes rely on a large difference in time scales of the process of interest and the rate of heat dissipation across a system boundary, and thus are approximated by using an adiabatic assumption. There is always some heat loss, as no perfect insulators exist.
+
+==Ideal gas (reversible process)==
+{{main|Reversible adiabatic process}}
+
+[[Image:Adiabatic.svg|thumb|341px|For a simple substance, during an adiabatic process in which the volume increases, the [[internal energy]] of the working substance must decrease]]
+The mathematical equation for an [[ideal gas]] undergoing a reversible (i.e., no entropy generation) adiabatic process can be represented by the [[polytropic process]] equation 
+: <math> P V^{n} = \operatorname{constant} \qquad </math><ref name="Bailyn 53"/>
+where ''P'' is pressure, ''V'' is volume, and for this case <math>n=\gamma</math> where 
+: <math> \gamma = {C_{P} \over C_{V}} = \frac{f + 2}{f}, </math>
+<math> C_{P} </math> being the [[specific heat]] for constant pressure,
+<math> C_{V} </math> being the specific heat for constant volume, <math> \gamma </math> is the [[adiabatic index]], and <math> f </math> is the number of [[Degrees of freedom (physics and chemistry)|degrees of freedom]] (3 for monatomic gas, 5 for diatomic gas and collinear molecules e.g. carbon dioxide).
+
+For a monatomic ideal gas, <math> \gamma = 5/3 \,</math>, and for a diatomic gas (such as [[nitrogen]] and [[oxygen]], the main components of [[Earth's atmosphere|air]]) <math> \gamma = 7/5 \,</math>.<ref>[http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/adiab.html Adiabatic Processes]</ref> Note that the above formula is only applicable to classical ideal gases and not [[Bose–Einstein condensate|Bose–Einstein]] or [[Fermionic condensate|Fermi gases]].
+
+For reversible adiabatic processes, it is also true that
+
+: <math> P^{1-\gamma}T^{\gamma}= \operatorname{constant}</math><ref name="Bailyn 53"/>
+
+: <math> VT^{f/2} = \operatorname{constant} </math>
+
+where ''T'' is an absolute temperature. This can also be written as
+
+: <math> TV^{\gamma - 1} = \operatorname{constant} </math><ref name="Bailyn 53"/>
+
+===Example of adiabatic compression===
+The compression stroke in a [[gasoline engine]] can be used as an example of adiabatic compression.  The simplifying assumptions are: the uncompressed volume of the cylinder is 1000&nbsp;cm<sup>3</sup> (one litre); the gas within is nearly pure nitrogen (thus a diatomic gas with five degrees of freedom and so <math>\gamma </math> = 7/5); the compression ratio of the engine is 10:1 (that is, the 1000&nbsp;cm<sup>3</sup> volume of uncompressed gas be reduced to 100&nbsp;cm<sup>3</sup> by the piston); and that the uncompressed gas is at approximately room temperature and pressure (a warm room temperature of ~27&nbsp;°C or 300 K, and a pressure of 1 bar ~ 100 kPa, or about 14.7 PSI, i.e. typical sea-level atmospheric pressure).
+
+<math> P V^{\gamma} = \operatorname{constant} = 100,000 \operatorname{pa} \times 1000^{7/5} = 100 \times 10^3 \times 15.8 \times 10^3 = 1.58 \times 10^9 </math>
+
+so our adiabatic constant for this example is about 1.58 billion.
+
+The gas is now compressed to a 100&nbsp;cm<sup>3</sup> volume (we will assume this happens quickly enough that no heat can enter or leave the gas).  The new volume is 100&nbsp;cm<sup>3</sup>, but the constant for this experiment is still 1.58 billion:
+
+<math> P V^{\gamma} = \operatorname{constant} = 1.58 \times 10^9 = P \times 100^{7/5} </math>
+
+so solving for P:
+
+<math> P = 1.58 \times 10^9 / {100^{7/5}} = 1.58 \times 10^9 / 630.9 =  2.50 \times 10^6 \operatorname{ Pa} </math>
+
+or about 362 PSI or 24.5 atm.  Note that this pressure increase is more than a simple 10:1 compression ratio would indicate; this is because the gas is not only compressed, but the work done to compress the gas also increases its internal energy which manifests itself by a rise in the gas's temperature and an additional rise in pressure above what would result from a simplistic calculation of 10 times the original pressure.
+
+We can solve for the temperature of the compressed gas in the engine cylinder as well, using the ideal gas law, PV=RT (R the specific gas constant for that gas).
+Our initial conditions are 100,000 pa of pressure, 1000&nbsp;cm<sup>3</sup> volume, and 300 K of temperature, so our experimental constant is:
+
+<math> {P V \over T}  =\operatorname {constant} = {{10^5 \times 10^3 } \over {300} } = 3.33 \times 10^5 </math>
+
+We know the compressed gas has V = 100&nbsp;cm<sup>3</sup> and P = 2.50E6 pascals, so we can solve for temperature by simple algebra:
+
+<math> {P V \over {\operatorname{constant}}} = T = {{2.50 \times 10^6 \times 100} \over {3.33 \times 10^5}} = 751 </math>
+
+That is a final temperature of 751 K, or 477&nbsp;°C, or 892&nbsp;°F, well above the ignition point of many fuels.  This is why a high compression engine requires fuels specially formulated to not self-ignite (which would cause [[engine knocking]] when operated under these conditions of temperature and pressure), or that a [[supercharger]] with an [[intercooler]] to provide a pressure boost but with a lower temperature rise would be advantageous.  A [[diesel engine]] operates under even more extreme conditions, with compression ratios of 20:1 or more being typical, in order to provide a very high gas temperature which ensures immediate ignition of the injected fuel.
+
+===Adiabatic free expansion of a gas===
+{{See also|Free expansion}}
+For an adiabatic free expansion of an ideal gas, the gas is contained in an insulated container and then allowed to expand in a vacuum. Because there is no external pressure for the gas to expand against, the work done by or on the system is zero. Since this process does not involve any heat transfer or work, the First Law of Thermodynamics then implies that the net internal energy change of the system is zero. For an ideal gas, the temperature remains constant because the internal energy only depends on temperature in that case. Since at constant temperature, the entropy is proportional to the volume, the entropy increases in this case, therefore this process is irreversible.
+
+===Derivation of P-V relation for adiabatic heating and cooling===
+The definition of an adiabatic process is that heat transfer to the system is zero, <math>\delta Q=0 </math>. Then, according to the [[first law of thermodynamics]],
+
+:<math> \text{(1)} \qquad d U + \delta W = \delta Q = 0, </math>
+
+where <math>dU</math> is the change in the internal energy of the system and <math>\delta W</math> is work done
+''by'' the system.  Any work (<math>\delta W</math>) done must be done at the expense of internal energy <math>U</math>, since no heat <math>\delta Q</math> is being supplied from the surroundings. Pressure-volume work <math>\delta W</math> done ''by'' the system is defined as
+
+:<math> \text{(2)} \qquad \delta W = P \, dV. </math>
+
+However, <math>P</math> does not remain constant during an adiabatic process but
+instead changes along with <math>V</math>.
+
+It is desired to know how the values of <math>dP</math> and
+<math>dV</math> relate to each other as the adiabatic process proceeds.
+For an ideal gas the internal energy is given by
+
+:<math> \text{(3)} \qquad U = \alpha n R T, </math>
+
+where <big><math>{\alpha}</math></big> is the number of [[Degrees of freedom (physics and chemistry)|degrees of freedom]] divided by two, <math>R</math> is the [[universal gas constant]] and <math>n</math> is the number of moles in the system (a constant).
+
+Differentiating Equation (3) and use of the [[ideal gas law]], <math>P V = n R T</math>, yields
+
+:<math> \text{(4)} \qquad d U = \alpha n R \, dT
+                  = \alpha \, d (P V)
+                  = \alpha (P \, dV + V \, dP). </math>
+
+Equation (4) is often expressed as <math> d U = n C_{V} \, d T </math>
+because <math> C_{V} = \alpha R </math>.
+
+Now substitute equations (2) and (4) into equation (1) to obtain
+
+: <math> -P \, dV = \alpha P \, dV + \alpha V \, dP,</math>
+
+factorize :<math> -P \, dV,</math>:
+
+: <math> - (\alpha + 1) P \, dV = \alpha V \, dP,</math>
+
+and divide both sides by ''PV'':
+
+: <math> -(\alpha + 1) {d V \over V} = \alpha {d P \over P}. </math>
+
+After integrating the left and right sides from <math>V_0</math> to <math>V</math> and from <math>P_0</math> to <math>P</math> and changing the sides respectively,
+
+: <math> \ln \left( {P \over P_0} \right) = {-{\alpha + 1 \over \alpha}} \ln \left( {V \over V_0} \right). </math>
+
+Exponentiate both sides, and substitute <math>{\alpha + 1 \over \alpha}</math> with <math>\gamma</math>, the [[heat capacity ratio]]
+
+: <math> \left( {P \over P_0} \right) = \left( {V \over V_0} \right)^{-{\gamma}},  </math>
+
+and eliminate the negative sign to obtain
+
+: <math> \left( {P \over P_0} \right) = \left( {V_0 \over V} \right)^{\gamma}.  </math>
+
+Therefore,
+
+: <math> \left( {P \over P_0} \right) \left( {V \over V_0} \right)^{\gamma} = 1</math>
+
+and
+
+: <math> P_0 V_0^{\gamma} = P V^\gamma = \operatorname{constant}. </math>
+
+===Derivation of T-V relation for adiabatic heating and cooling===
+
+Substituting the ideal gas law into the above, we obtain
+
+: <math> P (n R T/P)^\gamma = \operatorname{constant}. </math>
+
+which simplifies to
+
+: <math> P^{(1-\gamma)} T^\gamma = \operatorname{constant}. </math>
+
+===Derivation of discrete formula===
+The change in internal energy of a system, measured from state 1 to state 2, is equal to
+
+:<math> \text{(1)} \qquad \Delta U = \alpha R nT_2 - \alpha R nT_1 = \alpha Rn \Delta T </math>
+
+At the same time, the work done by the pressure-volume changes as a result from this process, is equal to
+
+:<math> \text{(2)} \qquad W = \int_{V_1}^{V_2}P\, dV </math>
+
+Since we require the process to be adiabatic, the following equation needs to be true
+
+:<math> \text{(3)} \qquad \Delta U + W = 0 </math>
+
+By the previous derivation,
+
+:<math> \text{(4)} \qquad P V^\gamma = \text{constant} = P_1 V_1^\gamma </math>
+
+Rearranging (4) gives
+
+:<math> P = P_1 \left(\frac{V_1}{V} \right)^\gamma </math>
+
+Substituting this into (2) gives
+
+:<math> W = \int_{V_1}^{V_2}P_1 \left(\frac{V_1}{V} \right)^\gamma\, dV </math>
+
+Integrating,
+
+:<math> W = P_1 V_1^\gamma \frac{V_2^{1-\gamma}-V_1^{1-\gamma}}{1-\gamma} </math>
+
+Substituting <math> \gamma = \frac{\alpha+1}{\alpha} </math>,
+
+:<math> W = - \alpha P_1 V_1^{\gamma} \left( V_2^{1-\gamma} - V_1^{1-\gamma} \right) </math>
+
+Rearranging,
+
+:<math> W = - \alpha P_1 V_1 \left( \left( \frac{V_2}{V_1} \right)^{1-\gamma} - 1 \right) </math>
+
+Using the ideal gas law and assuming a constant molar quantity (as often happens in practical cases),
+
+:<math> W = - \alpha n R T_1 \left( \left( \frac{V_2}{V_1} \right)^{1-\gamma} - 1 \right) </math>
+
+By the continuous formula,
+
+:<math> \frac{P_2}{P_1}=\left(\frac{V_2}{V_1}\right)^{-\gamma} </math>
+
+Or,
+
+:<math> \left(\frac{P_2}{P_1}\right)^{-1 \over \gamma}=\frac{V_2}{V_1} </math>
+
+Substituting into the previous expression for <math> W </math>,
+
+:<math> W = - \alpha n R T_1 \left( \left( \frac{P_2}{P_1} \right)^{\frac{\gamma-1}{\gamma}} - 1 \right) </math>
+
+Substituting this expression and (1) in (3) gives
+
+:<math> \alpha n R (T_2 - T_1) = \alpha n R T_1 \left( \left( \frac{P_2}{P_1} \right)^{\frac{\gamma-1}{\gamma}} - 1 \right) </math>
+
+Simplifying,
+
+:<math> T_2 - T_1 =  T_1 \left( \left( \frac{P_2}{P_1} \right)^{\frac{\gamma-1}{\gamma}} - 1 \right) </math>
+
+Simplifying,
+
+:<math> \frac{T_2}{T_1}-1 =  \left( \frac{P_2}{P_1} \right)^{\frac{\gamma-1}{\gamma}} - 1 </math>
+
+Simplifying,
+
+:<math> T_2 = T_1 \left( \frac{P_2}{P_1} \right)^{\frac{\gamma-1}{\gamma}} </math>
+
+==Graphing adiabats==
+An adiabat is a curve of constant [[entropy]] on the P-V diagram. Some properties of adiabats on a P-V diagram are indicated. These properties may be read from the classical behaviour of ideal gases, except in the region where ''PV'' becomes small (low temperature), where quantum effects become important.
+
+# Every adiabat [[Asymptote|asymptotically approaches]] both the V axis and the P axis (just like [[isotherms]]).
+# Each adiabat intersects each isotherm exactly once.
+# An adiabat looks similar to an isotherm, except that during an expansion, an adiabat loses more pressure than an isotherm, so it has a steeper inclination (more vertical).
+# If isotherms are concave towards the "north-east" direction (45 °), then adiabats are concave towards the "east north-east" (31 °).
+# If adiabats and isotherms are graphed at regular intervals of entropy and temperature, respectively (like altitude on a contour map), then as the eye moves towards the axes (towards the south-west), it sees the density of isotherms stay constant, but it sees the density of adiabats grow.  The exception is very near absolute zero, where the density of adiabats drops sharply and they become rare (see [[Nernst's theorem]]).{{clarify|reason=No quantitative formula is identified in that article as Nernst's theorem, only a qualitative "Impossibility Principle"|date=March 2015}}
+
+The following diagram is a P-V diagram with a superposition of adiabats and isotherms:
+
+[[Image:Entropyandtemp.PNG]]
+
+The isotherms are the red curves and the adiabats are the black curves.
+
+The adiabats are isentropic.
+
+Volume is the horizontal axis and pressure is the vertical axis.
+
+==Etymology==
+
+The term ''adiabatic''{{IPAc-en|ˌ|æ|d|i|ə|ˈ|b|æ|t|ɪ|k}}, literally means 'not to be passed through'. It is formed from the ancient [[Greek language|Greek]] [[privative a|privative]] "α" ("not") + ''διαβατός'', "able to be passed through", in turn deriving from  ''διὰ-'' ("through"), and ''βαῖνειν'' ("to walk, go, come"), thus ''ἀδιάβατος ''.<ref>Liddell, H.G., Scott, R. (1940). ''A Greek-English Lexicon'', Clarendon Press, Oxford UK.</ref> According to [[James Clerk Maxwell|Maxwell]],<ref>
+ {{Citation
+ | last = Maxwell
+ | first = J.C.
+ | author-link = James Clerk Maxwell
+ | last2 =
+ | first2 =
+ | author2-link =
+ | other =
+ | title = Theory of Heat
+ | place = London
+ | publisher = [[Longman|Longmans, Green and Co.]]
+ | series =
+ | volume =
+ | origyear =
+ | year = 1871
+ | month=
+ | edition = first
+ | page = 129
+ | language =
+ | url = http://archive.org/details/theoryheat04maxwgoog 
+ | archiveurl =
+ | archivedate =
+ | doi =
+ | id =
+ | isbn =
+}}</ref> and to [[J.R. Partington|Partington]],<ref>{{Citation
+ | last = Partington
+ | first = J.R.
+ | author-link = J.R. Partington
+ | last2 =
+ | first2 =
+ | author2-link =
+ | other =
+ | title = An Advanced Treatise on Physical Chemistry.
+ | place = Fundamental Principles. The Properties of Gases, London
+ | publisher = [[Longman|Longmans, Green and Co.]]
+ | series =
+ | volume = volume 1
+ | origyear =
+ | year = 1949
+ | page = 122.
+}}</ref> the term was introduced by [[William John Macquorn Rankine|Rankine]].<ref>Rankine, W.J.McQ. (1866). On the theory of explosive gas engines, ''The Engineer'', July 27, 1866; at page 467 of the reprint in ''[https://archive.org/details/miscellaneoussci00rank Miscellaneous Scientific Papers]'', edited by W.J. Millar, 1881, Charles Griffin, London.</ref>
+
+The etymological origin corresponds here to an impossibility of [[Heat|transfer of energy as heat]] and of transfer of matter across the wall.
+
+==Divergent usages of the word adiabatic==
+
+This present article is written from the viewpoint of macroscopic thermodynamics, and the word adiabatic is used in this article in the traditional way of thermodynamics, introduced by Rankine. It is pointed out in the present article that, for example, if a compression of a gas is rapid, then there is little time for heat transfer to occur, even when the gas is not adiabatically isolated. In this sense, a rapid compression of a gas is sometimes approximately or loosely said to be adiabatic (though often far from isentropic) even when the gas is not adiabatically isolated.
+
+[[Quantum mechanics]] and [[quantum statistical mechanics]], however, use the word adiabatic [[Adiabatic theorem#Diabatic vs. adiabatic processes|in very a different sense]], one that can at times seem almost opposite to the classical thermodynamic sense. In quantum theory, the word adiabatic can mean something perhaps near isentropic, or perhaps near quasi-static, but the usage of the word is very different between the two disciplines.
+
+On one hand in quantum theory, if a perturbative element of compressive work is done almost infinitely slowly (that is to say quasi-statically), it is said to have been done adiabatically. The idea is that the shapes of the eigenfunctions change slowly and continuously, so that no quantum jump is triggered, and the change is virtually reversible. While the occupation numbers are unchanged, nevertheless there is change in the energy levels of one-to-one corresponding, pre-and post-compression, eigenstates. Thus a perturbative element of work has been done without heat transfer and without introduction of random change within the system. For example, [[Max Born]] writes "Actually, it is usually the 'adiabatic' case with which we have to do: i.e. the limiting case where the external force (or the reaction of the parts of the system on each other) acts very slowly. In this case, to a very high approximation
+
+::::::::<math>c_1^2=1,\,\,c_2^2=0,\,\,c_3^2=0,\,...\,,</math>
+
+that is, there is no probability for a transition, and the system is in the initial state after cessation of the perturbation. Such a slow perturbation is therefore reversible, as it is classically."<ref>[[Max Born|Born, M.]] (1927). Physical aspects of quantum mechanics, ''Nature'', '''119''': 354–357. (Translation by Robert Oppenheimer.)</ref>
+
+On the other hand, in quantum theory, if a perturbative element of compressive work is done rapidly, it randomly changes the occupation numbers of the eigenstates, as well as changing their shapes. In that theory, such a rapid change is said not to be 'adiabatic', and the contrary word [[Adiabatic theorem#Diabatic vs. adiabatic processes|'diabatic']] is even applied to it. One might guess that perhaps Clausius, if he were confronted with this, in the now-obsolete language he used in his day, would have said that "internal work" was done and that 'heat was generated though not transferred'.
+
+In classical thermodynamics, such a rapid change would still be called adiabatic because the system is adiabatically isolated, and there is no transfer of energy as heat. The strong irreversibility of the change, due to viscosity or other entropy production, does not impinge on this classical usage.
+
+Thus for a mass of gas, in macroscopic thermodynamics, words are so used that a compression is sometimes loosely or approximately said to be adiabatic if it is rapid enough to avoid heat transfer, even if the system is not adiabatically isolated. But in quantum statistical theory, a compression is not called adiabatic if it is rapid, even if the system is adiabatically isolated in the classical thermodynamic sense of the term. The words are used differently in the two disciplines, as stated just above.
+
+==See also==
+* [[Cyclic process]]
+* [[First law of thermodynamics]]
+* [[Heat burst]]
+* [[Isobaric process]]
+* [[Isenthalpic process]]
+* [[Isentropic process]]
+* [[Isochoric process]]
+* [[Isothermal process]]
+* [[Polytropic process]]
+* [[Entropy (classical thermodynamics)]]
+* [[Quasistatic process]]
+* [[Total air temperature]]
+* [[Magnetic refrigeration]]
+
+==References==
+{{reflist|2}}
+* {{cite book |first=Robert J. |last=Silbey |year=2004 |title=Physical chemistry |location=Hoboken |publisher=Wiley |page=55 |isbn=978-0-471-21504-2 |display-authors=etal}}
+* Broholm, Collin. "Adiabatic free expansion." Physics & Astronomy @ Johns Hopkins University. N.p., 26 Nov. 1997. Web. 14 Apr. *Nave, Carl Rod. "Adiabatic Processes." HyperPhysics. N.p., n.d. Web. 14 Apr. 2011. [http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/adiab.html].
+* Thorngren, Dr. Jane R.. "Adiabatic Processes." Daphne – A Palomar College Web Server. N.p., 21 July 1995. Web. 14 Apr. 2011. [http://daphne.palomar.edu/jthorngren/adiabatic_processes.htm].
+
+==External links==
+* [http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/adiab.html#c1: Article in HyperPhysics Encyclopaedia]
+
+{{DEFAULTSORT:Adiabatic Process}}
+[[Category:Thermodynamic processes]]
+[[Category:Atmospheric thermodynamics]]

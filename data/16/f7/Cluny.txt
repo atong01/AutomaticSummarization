@@ -1,0 +1,57 @@
+{{Other uses}}
+{{Infobox French commune
+|name                   = Cluny
+|image coat of arms     = Blason ville Cluny.svg
+|image                  = Cluny heute2.jpg
+|region                 = [[Burgundy]]
+|department             = [[Saône-et-Loire]]
+|arrondissement         = Mâcon
+|canton                 = Cluny
+|INSEE                  = 71137
+|postal code            = 71250
+|mayor                  = Jean-Luc Delpeuch
+|term                   = 2008&ndash;2015
+|longitude              = 4.66
+|latitude               = 46.4353
+|elevation m            = 248
+|elevation min m        = 226
+|elevation max m        = 574
+|area km2               = 23.71
+|population             = 4835
+|population date        = 2006
+}}
+'''Cluny''' or '''Clugny''' is a [[Communes of France|commune]] in the [[Saône-et-Loire]] [[Departments of France|department]] of the [[Regions of France|region]] of [[Burgundy]], in eastern [[France]]. It is 20&nbsp;km northwest of [[Mâcon]].
+
+The town grew up around the [[Benedictine]] [[Abbey of Cluny]], founded by Duke [[William I of Aquitaine]] in 910. The height of Cluniac influence was from the second half of the 10th century through the early 12th. The abbey was sacked by the [[Huguenots]] in 1562, and many of its valuable manuscripts were destroyed or removed.
+
+==Geography==
+The river [[Grosne River|Grosne]] flows northward through the commune and crosses the town.
+
+==Tourism==
+{{Main|Tourism in Saône-et-Loire, South Burgundy}}
+South Burgundy has a large number of places which are of interest to tourists, such as:
+* The [[Arboretum de Pézanin]], one of the richest arboreta in France
+* [[Mâcon]]
+* [[Paray-le-Monial]]
+* The ''Green Way''
+
+==See also==
+* [[Cluniac Reforms]]
+* ''[[The Name of the Rose]]''
+* [[Communes of the Saône-et-Loire department]]
+
+==References==
+*[http://www.insee.fr/en/home/home_page.asp INSEE]
+{{Reflist}}
+
+==External links==
+{{Commons|Cluny|Cluny}}
+* [http://www.cluny.fr/ Official website] (in French)
+*[http://www.paradoxplace.com/Photo%20Pages/France/Burgundy%20Champagne/Cluny/Cluny.htm Paradoxplace – Cluny Page – Photos]
+
+{{Saône-et-Loire communes}}
+
+{{Authority control}}
+[[Category:Communes of Saône-et-Loire]]
+
+{{SaôneLoire-geo-stub}}

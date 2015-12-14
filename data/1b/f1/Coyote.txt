@@ -1,0 +1,560 @@
+{{Other uses}}
+{{Use mdy dates|date=January 2015}}
+{{Taxobox
+| name = Coyote 
+| fossil_range = {{Fossil range|0.7|0}}<small>Middle [[Pleistocene]] – Recent</small>
+| image = 2009-Coyote-Yosemite.jpg
+| image_caption = ''[[Canis latrans lestes|C. l. lestes]]''
+| status = LC
+| trend = up
+| status_system = iucn
+| status_ref =<ref name="iucn">{{IUCN2008|assessors=Sillero-Zubiri & Hoffmann|year=2008|id=3745|title=Canis latrans|downloaded=May 5, 2008}}</ref>
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| classis = [[Mammal]]ia
+| infraclassis = [[Eutheria]]
+| ordo = [[Carnivora]]
+| familia = [[Canidae]]
+| genus = ''[[Canis]]''
+| species = '''''C. latrans'''''
+| binomial = ''Canis latrans''
+| binomial_authority = [[Thomas Say|Say]], 1823
+| range_map = Cypron-Range Canis latrans.svg
+| range_map_caption = Modern range of ''Canis latrans''
+}}
+
+The '''coyote''' ({{IPAc-en|US|k|aɪ|ˈ|oʊ|t|iː}} or {{IPAc-en|ˈ|k|aɪ|.|oʊ|t}}, {{IPAc-en|UK|k|ɔɪ|ˈ|j|oʊ|t|eɪ}}, or {{IPAc-en|k|ɔɪ|ˈ|j|oʊ|t}};{{efn|Respelled US {{respell|ky|OH|tee}}, {{respell|KY|oht}} and UK {{respell|koy|YOH|tay}}, {{respell|koy|YOHT|'}} }} ''Canis latrans'') is a [[canid]] native to [[North America]]. It is a smaller, more [[Basal (phylogenetics)|basal]] animal than its close relative, the gray wolf,<ref name="nowak1978">Nowak, R. M. (1978) "Evolution and taxonomy of coyotes and related ''Canis''", pp. 3–16 in M. Bekoff (ed.) ''Coyotes: Biology, Behavior, and Management''. Academic Press, New York. ISBN 1930665423.</ref> being roughly the North American equivalent to the [[Old World]] [[golden jackal]], though it is larger and more predatory in nature.<ref>Stains, H. J. (1974) "Distribution and Taxonomy of the Canidae", pp. 3–26 in M. W. Fox (ed.) ''The Wild Canids: Their Systematics, Behavioral Ecology, and Evolution''. New York: Van Nostrand Reinhold.</ref> It is listed as "[[least concern]]" by the [[IUCN]], on account of its wide distribution and abundance throughout North America, even southwards through [[Mexico]] and [[Central America]]. It is a highly versatile species, whose range has expanded amidst human environmental modification.<ref name="iucn"/> This expansion is ongoing, and it may one day reach [[South America]], as shown by the animal's presence beyond the [[Panama Canal]] in 2013.<ref name="mendez2014"/> {{As of|2005|uc=on}}, 19 subspecies are recognized.<ref name=msw3>{{MSW3 Wozencraft|id=14000718}}</ref>
+
+The ancestors of the coyote diverged from those of the [[gray wolf]], 1–2 million years ago,<ref name=hailer2008>{{Cite journal 
+| last1 = Hailer | first1 = F. 
+| last2 = Leonard | first2 = J. A. 
+| editor1-last = Harpending 
+| editor1-first = Henry 
+| doi = 10.1371/journal.pone.0003333 
+| title = Hybridization among Three Native North American Canis Species in a Region of Natural Sympatry 
+| journal = PLoS ONE 
+| volume = 3 
+| issue = 10 
+| pages = e3333 
+| year = 2008 
+| pmid =  18841199
+| pmc =2556088 
+|bibcode = 2008PLoSO...3.3333H }}</ref> with the modern species arising in North America during the [[Middle Pleistocene]].<ref name="nowak1978"/> It is highly flexible in social organization, living either in [[nuclear family|nuclear families]] or in loosely-knit packs of unrelated individuals. It has a varied diet consisting primarily of animal matter, including [[ungulate]]s, [[lagomorph]]s, [[rodent]]s, [[bird]]s, [[reptile]]s, [[amphibian]]s, [[fish]] and [[invertebrates]], though it may also eat fruit and vegetable matter on occasion.<ref name="gier1974">Gier, H. T. (1974) "Ecology and Behavior of the Coyote (''Canis latrans'')", pp. 247–262 in M. W. Fox (ed.) ''The Wild Canids: Their Systematics, Behavioral Ecology, and Evolution''. New York: Van Nostrand Reinhold. ISBN 0442224303</ref> It is a very vocal animal, whose most iconic sound consists of a howl emitted by solitary individuals.<ref name="lehner1978">Lehner, Philip N. (1978). "Coyote Communication", pp. 127–162 in M. Bekoff (ed.) Coyotes: Biology, Behavior, and Management. Academic Press, New York. ISBN 1930665423.</ref> [[Human]]s aside, [[cougar]]s<ref name=hornocker2009/> and gray wolves<ref name="berger2007"/> are the coyote's only serious enemies. Nevertheless, coyotes have on occasion mated with the latter species, producing hybrids colloquially called "[[coywolf|coywolves]]".
+
+The coyote is a prominent character in [[Indigenous peoples of the Americas|Native American]] folklore ([[Southwestern United States]] and Mexico), usually depicted as a [[trickster]] who alternately assumes the form of an actual coyote or a man. As with other trickster figures, the coyote acts as a [[Picaresque novel|picaresque]] hero which rebels against social convention through deception and humor.<ref name="watts2006">Watts, L. S. (2006). ''Encyclopedia of American Folklore''. Infobase Publishing. pp. 93–94. ISBN 1438129793.</ref> The animal was especially respected in [[Mesoamerica]]n [[cosmology]] as a symbol of military might,<ref name="schwartz1998"/> with some scholars having traced the origin of the [[Aztec]] god [[Quetzalcoatl]] to a pre-Aztec coyote deity.<ref name="kelley1995"/> After the [[European colonization of the Americas]], it was reviled in [[Anglo-America]]n culture as a cowardly and untrustworthy animal. Unlike the gray wolf, which has undergone a radical improvement of its public image, cultural attitudes towards the coyote remain largely negative.<ref>Harrigan, John (September 15, 2012) [http://www.unionleader.com/article/20120916/NEWHAMPSHIRE0301/709169959 Hate coyotes, adore the wolf: explain, please], NewHampshire.com </ref><ref>{{cite journal|author=Way, J. G. |year=2012|url=http://web.archive.org/web/20121224225047/http://www.wolf.org/wolves/news/iwmag/2012/winter/iw2012_coyotewolves.pdf |title=Love wolves and hate coyotes? A conundrum for canid enthusiasts|journal= International Wolf |volume=22|issue=4|pages= 8–11}}</ref>
+
+==Description==
+[[File:Coyote life study - Seton Thompson (1886).png|thumb|Life study by [[Ernest Thompson Seton]] (1886).]]
+
+Coyote males average {{convert|8|-|20|kg|abbr=on}} in weight, while females average {{convert|7|-|18|kg|abbr=on}}, though size varies geographically. Northern subspecies, which average {{convert|18|kg|abbr=on}}, tend to grow larger than the southern subspecies of Mexico, which average {{convert|11.5|kg|abbr=on}}. Body length ranges on average from {{convert|1|to|1.35|m|2}}, and tail length {{convert|40|cm}}, with females being shorter in both body length and height.<ref name="bekoff1977"/> The largest coyote on record was a male killed near [[Afton, Wyoming]] on November 19, 1937 which measured {{convert|1.6|m}} from nose to tail, and weighed {{convert|33.9|kg}}.<ref name="young48">{{Harvnb|Young|Jackson|1978|p=48}}</ref>  Scent glands are located at the upper side of the base of the tail and are a bluish black color.<ref name="young63"/>
+
+The color and texture of the coyote's fur varies somewhat geographically.<ref name="bekoff1977"/> The hair's predominant color is light gray and red or [[fulvous]], interspersed around the body with black and white. Coyotes living on high elevations tend to have more black and gray shades than their desert-dwelling counterparts, which are more fulvous or whitish-gray.<ref name="young50">{{Harvnb|Young|Jackson|1978|pp=50–53}}</ref> The coyote's fur consists of short, soft underfur and long, coarse guard hairs. The fur of northern subspecies is longer and denser than in southern forms, with the fur of some Mexican and Central American forms being almost hispid (bristly).<ref name="young247">{{Harvnb|Young|Jackson|1978|p=247}}</ref> [[Albinism]] is extremely rare in coyotes; out of a total of 750,000 coyotes harvested by Federal and cooperative hunters between March 22, 1938 to June 30, 1945, only two were albinos.<ref name="young50"/>
+
+The coyote is typically smaller than the [[gray wolf]], but has longer ears and a larger [[braincase]],<ref name="bekoff1977">{{cite journal|author=Bekoff M. |year=1977|url=http://www.science.smith.edu/msi/pdf/i0076-3519-079-01-0001.pdf |title=''Canis latrans''|journal=Mammalian Species|volume= 79|issue=79|pages=1–9|doi=10.2307/3503817|jstor=3503817}}</ref> as well as a thinner frame, face and muzzle. The coyote also carries its tail downwards when running or walking, rather than horizontally as the wolf does.<ref name="cartaino16">{{Harvnb|Cartaino|2011|p=16}}</ref> Coyote tracks can be distinguished from those of dogs by their more elongated, less rounded shape.<ref name="young59">{{Harvnb|Young|Jackson|1978|p=59}}</ref> Scent glands are smaller than the gray wolf's, but  the same color.<ref name="young63"/> Its fur color variation is much less varied than that of a wolf.<!--not sure if this cites to Young 50 or not, so didn't move citation with this sentence, needs verification-->
+
+==History==
+By the time of the [[European colonization of the Americas]], coyotes were largely confined to open plains and arid regions of the western half of the continent.<ref name="nowak14">{{Harvnb|Nowak|1979|p=14}}</ref> It is often difficult in early post-Columbian historical records to distinguish between coyotes and wolves. One record from 1750 in [[Kaskaskia, Illinois]] written by a local priest noted that the "wolves" encountered there were smaller and less daring than European wolves. Another account from the early 1800s in [[Edwards County, Illinois|Edwards County]] mentioned wolves howling at night, though these were likely coyotes.<ref name="hoffmeister">Hoffmeister, Donald F. (2002) ''Mammals of Illinois'', University of Illinois Press, pp. 33–34, ISBN 0252070836</ref> The species was encountered several times during the [[Lewis and Clark Expedition]] (1804–1806), though it was already well known to European traders on the upper [[Missouri River|Missouri]]. [[Meriwether Lewis|Lewis]], writing on May 5, 1805, in northeastern [[Montana]], described the coyote as follows:<ref name="mussulman2004"/>
+[[File:Toltec coyote.jpg|thumb|right|[[Toltec]] pictograph of coyote.]]
+
+<blockquote>the small woolf (''sic'') or burrowing dog of the prairies are the inhabitants almost invariably of the open plains; they usually ascociate (''sic'') in bands of ten or twelve sometimes more and burrow near some pass or place much frequented by game; not being able alone to take deer or goat they are rarely ever found alone but hunt in bands; they frequently watch and seize their prey near their burrows; in these burrows they raise their young and to them they also resort when pursued; when a person approaches them they frequently bark, their note being precisely that of the small dog. they are of an intermediate size between that of the fox and dog, very active fleet and delicately formed; the ears large erect and pointed the head long and pointed more like that of the fox; tale (''sic'') long; . . . the hair and fur also resembles the fox tho' is much coarser and inferior. they are of a pale redish (''sic'') brown colour. the eye of a deep sea green colour small and piercing. their tallons [claws] are reather (''sic'') longer than those of the ordinary wolf or that common to the atlantic states, none of which are to be found in this quarter, nor I believe above the river Plat.</blockquote>
+
+The coyote was first scientifically described by [[Thomas Say]] in September 1819 on the site of Lewis and Clark's Council Bluffs, fifteen miles up the Missouri River from the mouth of the Platte during a [[Stephen Harriman Long#1819-20 expeditions up the Missouri and Platte Rivers|government-sponsored expedition]] with Major [[Stephen Harriman Long|Stephen Long]]. He had the first edition of the Lewis and Clark journals in hand, which contained Biddle's edited version of Lewis's observations dated May 5, 1805.<ref name="say1823">Say, T., 1823. in ''[http://archive.org/stream/accountofexpedit01jame#page/168/mode/2up/search/canis+latrans Account of an expedition from Pittsburgh to the Rocky Mountains: performed in the years 1819 and ’20, by order of the Hon. J.C. Calhoun, sec’y of war, under the command of Major Stephen H. Long : from the notes of Major Long, Mr. T. Say, and other gentlemen of the exploring party]'' compiled by Edwin James, botanist and geologist for the expedition; in two vols., H.C. Carey and I. Lea, Philadelphia, 1822–23. Vol 1. pp. 168–174.</ref><ref>{{cite web |url=http://lewis-clark.org/content/content-article.asp?ArticleID=2179 |title=Thomas Say, ''Canis latrans'' |last1=Mussulman |first1=Joseph |date=November 2004 |publisher=Discovering Lewis & Clark |accessdate=January 15, 2013}}</ref>
+{{clear}}
+
+==Naming and etymology==
+The earliest written reference to the species comes from [[Francisco Hernández de Toledo|Francisco Hernández's]] ''Plantas y Animales de la Nueva España'' (1651), where it is described as a "Spanish fox" or "jackal". The first published usage of the word "coyote" (the [[root word]] of which is the [[Nahuatl]] ''coyotl'' meaning "barking dog") comes from [[Francisco Javier Clavijero]]'s ''Historia de México'' in 1780.<ref name="clavijero1817">Clavijero, Francisco Javier (1817) ''[https://archive.org/stream/historyofmexicoc11817clav#page/56/mode/2up The history of Mexico]'', Volume 1, Thomas Dobson, p. 57</ref> The first time it was used in [[English language|English]] occurred in [[William Bullock (collector)|William Bullock]]'s ''Six months' residence and travels in Mexico'' (1824), where it is variously transcribed as ''cayjotte'' and ''cocyotie''. The word's spelling was standardized as "coyote" by the 1880s.<ref name="mussulman2004">{{cite web |url=http://lewis-clark.org/content/content-article.asp?ArticleID=2177 |title=Coyote |last1=Mussulman |first1=Joseph |date=November 2004 |publisher=Discovering Lewis & Clark |accessdate=January 15, 2013}}</ref><ref>Bullock, W. (1824). ''[https://archive.org/stream/gri_sixmonthsres00bull#page/n145/mode/2up/search/wolf Six months' residence and travels in Mexico : containing remarks on the present state of New Spain, its natural productions, state of society, manufactures, trade, agriculture, and antiquities, &c. : with plates and maps]''. London : John Murray, Albemarle-Street. pp. 119, 261.</ref> Alternative English names for the coyote include "prairie wolf", "brush wolf", "cased wolf",<ref name="ern789">{{Harvnb|Seton|1909|p=789}}</ref>{{efn|The name "cased wolf" originates from the fact that the coyote's skin was historically cased like that of the [[muskrat]], whereas the wolf's was spread out flat like the [[American beaver|beaver]]'s.<ref name="ern789"/>}} "little wolf"<ref name="gier1974"/> and "American jackal".<ref name="bekoff2003"/>
+
+===Local and indigenous names===
+<!-- PLEASE READ THIS BEFORE ADDING AN INDIGENOUS OR LOCAL NAME FOR THIS BOX
+*All names should be from languages present in areas where coyotes are indigenous, or were once indigenous.
+*Names must be sourced and verifiable.                                                                   
+-->
+{| class="wikitable collapsed"
+|+Indigenous names for ''Canis latrans''
+|-
+! Linguistic group or area !! Indigenous name
+|-
+| <small>[[Arikara language|Arikara]]</small> || <small>''Stshirits pukatsh''</small><ref name="young6">{{Harvnb|Young|Jackson|1978|pp=6–7}}</ref>
+|-
+| <small>[[Canadian French]]</small> || <small>''Coyote''</small><ref name="ern789"/>
+|-
+| <small>[[Lower Chinook|Chinook]]</small> || <small>''Italipas''</small><ref name="young6"/>
+|-
+| <small>[[Chipewyan language|Chipewyan]]</small> || <small>''Nu-ní-yĕ=̑ts!ế-lĕ''</small><ref name="curtis">Curtis, E. S. (1928). ''The North American Indian. Volume 18 – The Chipewyan. The Western woods Cree. The Sarsi''. Classic Books Company. p. 201. ISBN 0742698181</ref>
+|-
+| <small>[[Cocopah language|Cocopah]]</small> || <small>''Ṭxpa''</small><ref name="crawford1989">Crawford, J. M. (1989). ''Cocopa Dictionary''. p. 445. University of California Press. ISBN 0520097491</ref><br><small>''Xṭpa''</small><ref name="crawford1989"/>
+|-
+| <small>[[East Cree|Northern Cree]]</small><br/><small>[[Plains Cree]]</small> || <small>ᒣᐢᒐᒑᑲᓂᐢ (''Mîscacâkanis'')</small><ref name="leclaire1998">LeClire, N. et al. (1998). ''Alberta Elders' Cree Dictionary''. p. 279. University of Alberta. ISBN 0888642849</ref><br/><small>ᒣᐢᒐᒑᑲᓂᐢ (''Mescacâkanis'')</small><ref name="leclaire1998"/>
+|-
+| <small>[[Creek language|Creek]]</small> || <small>''Yv•hu•ce'' (archaic)</small><ref name="martin2004">Martin, J. P. & Mauldin, M. M. (2004). ''A Dictionary of Creek/Muskogee''. p. 153. University of Nebraska Press. ISBN 0803283024</ref><br/><small>''Yv•hv•la•nu•ce'' (modern)</small><ref name="martin2004"/>
+|-
+| <small>[[Dakota language|Dakota]]</small> || <small>''Mica''</small><ref name="young6"/><br/><small>''Micaksica''</small><ref name="young6"/>
+|-
+| <small>[[Salishan languages|Flathead]]</small> || <small>''Sinchlep''</small><ref name="young6"/>
+|-
+| <small>[[Hidatsa language|Hidatsa]]</small> || <small>''Motsa''</small><ref name="young6"/>
+|-
+| <small>[[Hopi language|Hopi]]</small> || <small>''Iisawu''</small><ref name="albert1985">Albert, R. & Shaul, D. L. (1985). ''A Concise Hopi and English Lexicon''. John Benjamins Publishing. p. 26. ISBN 9027220158</ref><br><small>''Isaw''</small><ref name="albert1985"/>
+|-
+| <small>[[Karuk language|Karuk]]</small> || <small>''Pihnêefich''</small><ref name=karukdictionary2015>{{cite web|url=http://linguistics.berkeley.edu/~karuk/karuk-dictionary.php?exact-match=&lx=&ge=coyote&sd=&pos=&lxGroup-id=4782&audio=&index-position=&index-order=|website=Karuk Dictionary and Texts|title=Dictionary entry for coyote|publisher=Karuk Tribe & UC Berkeley|accessdate=22 May 2015}}</ref>
+|-
+| <small>[[Klamath language|Klamath]]</small> || <small>''Ko-ha-a''</small><ref name="young6"/>
+|-
+| <small>[[Mandan language|Mandan]]</small> || <small>''Scheke''</small><ref name="young6"/>
+|-
+| <small>[[Mayan language|Mayan]]</small> || <small>''Pek'i'cash''</small><ref name="reid2009">Reid, F. A. (2009). ''A Field Guide to the Mammals of Central America and Southeast Mexico''. Oxford University Press. P. 259. ISBN 0195343220</ref>
+|-
+| <small>[[Nez Perce language|Nez Perce]]</small> || <small>''ʔiceyé•ye''</small><ref>Aoki, Haruo (1994). ''Nez Percé dictionary.'' p.491. University of California Press. ISBN 0520097637</ref>
+|-
+| <small>[[Nahuatl language|Nahuatl]]</small> || <small>''Coyotl''</small>
+|-
+| <small>[[Navajo language|Navajo]]</small> || <small>''Ma'ii''</small><ref>Neundorf, A. (1983). ''A Navajo/English Bilingual Dictionary: Áłchíní Bi Naaltsoostsoh''. p. 512. UNM Press. ISBN 0826338259</ref>
+|-
+| <small>[[Lakota language|Ogallala Sioux]]</small> || <small>''Mee-yah-slay'-cha-lah''</small><ref name="ern789"/>
+|-
+| <small>[[Ojibwe language|Ojibwe]]</small> || <small>''Mes-ta-cha'-gan-es''</small><ref name="ern789"/>
+|-
+| <small>[[Omaha–Ponca language|Omaha]]</small> || <small>''Mikasi''</small><ref name="young6"/>
+|-
+| <small>[[Osage language|Osage]]</small> || <small>''Šómįhkasi''</small><ref name="quintero">Quintero, C. (2004). ''Osage Grammar''. University of Nebraska Press. p. 83. ISBN 0803238037</ref>
+|-
+| <small>[[Pawnee language|Pawnee]]</small> || <small>''Ckirihki''</small><ref>Parks, R. P.; Pratt, L. N. (2008). ''A Dictionary of Skiri Pawnee''. p. 119. University of Nebraska Press. ISBN 0803219261</ref>
+|-
+| <small>[[Paiute people|Piute]]</small> || <small>''Eja-ah''</small><ref name="young6"/>
+|-
+| <small>[[Spanish language|Spanish]]</small> || <small>''Coyote''</small><ref name="reid2009"/><br/><small>''Perro de monte''</small><ref name="reid2009"/>
+|-
+| <small>[[Sahaptin language|Yakima]]</small> || <small>''Telipa''</small><ref name="young6"/>
+|-
+| <small>[[Timbisha language|Timbisha]]</small> || <small>''Isa(ppü)''</small><ref name="daley1989">Dayley, J. P. (1989) ''Tümpisa (Panamint) Shoshone Dictionary''. University of California Press. p. 436. ISBN 0520097548</ref><br/><small>''Isapaippü''</small><ref name="daley1989"/><br/><small>''Itsappü''</small><ref name="daley1989"/>
+|-
+| <small>[[Wintu language|Wintu]]</small> || <small>''Ćarawa''</small><ref name="pitkin1985">Pitkin, H. (1985). ''Wintu Dictionary''. University of California Press. pp. 65, 573. ISBN 0520096134</ref><br/><small>''Sedet''</small><ref name="pitkin1985"/>
+|-
+| <small>[[Yankton Sioux]]</small> || <small>''Song-toke-cha''</small><ref name="ern789"/>
+|-
+| <small>[[Yurok language|Yurok]]</small> || <small>''Segep''</small><ref name=yurokdictionary2015>{{cite web|url=http://corpus.linguistics.berkeley.edu/~yurok/lexicon.php?style=query&writing=&lx-id=2969&index=&yu=&ge=&sd=&rf=&pd=&ps=&mr=&quick-search=coyote|website=Yurok Language Project|title=Dictionary entry for coyote|publisher=UC Berkeley|accessdate=22 May 2015}}</ref>
+|}
+
+==Taxonomy and evolution==
+[[File:Canis latrans orcutti.png|thumb|Skeleton of [[Pleistocene coyote]] (''C. l. orcutti'').]]
+The earliest [[fossil]] [[carnivore]]s that can be linked with some certainty to [[canid]]s are the [[Eocene]] [[Miacids]], which lived some 38 to 56 million years ago. The Miacids later diverged into [[Caniformia|caniform]]s and [[Feliformia|feliform]]s, with the former line leading to such genera as the coyote-sized ''[[Mesocyon]]'' of the [[Oligocene]] (38 to 24 million years ago), the [[fox]]-like ''[[Leptocyon]]'' and the wolf-like ''[[Tomarctus]]'' which inhabited [[North America]] some 10 million years ago.<ref>{{cite book | last = Brewer | first = Douglas J. | last2 = Terence | first2 = Sir Clark | last3 = Phillips | first3 = Adrian | title = DOGS IN ANTIQUITY Anubis to Cerberus: The Origins of the Domestic Dog | url =http://web.archive.org/web/20060517155234/http://www.arisandphillips.com/ap/Anubis.html | date = March 2002 | publisher = Aris & Phillips | isbn = 978-0-85668-704-4}}</ref> The coyote represents a more primitive form of ''Canis'' than the [[gray wolf]], as shown by its relatively small size and its comparatively narrow skull and jaws, which lack the grasping power necessary to hold the large prey wolves specialize in. This is further corroborated by the coyote's [[sagittal crest]], which is low or totally flattened, thus indicating a weaker bite than the wolf's. The coyote is not a specialized carnivore as the wolf is, as shown by the larger chewing surfaces on the [[molar (tooth)|molars]], reflecting the species' relative dependence on vegetable matter. In these respects, the coyote resembles the fox-like progenitors of the genus more so than the wolf.<ref name="nowak1978"/> Modern [[phylogenetics]] places the coyote between the gray wolf and [[golden jackal]].<ref name="lindblad-toh2005"/>
+
+{{clade | style = font-size: 90%;line-height:50%
+|1={{clade
+   |1={{clade
+      |1={{clade
+         |1=[[Side-striped jackal]]
+         |2=[[Black-backed jackal]]
+      }}
+   |2={{clade
+      |1={{clade
+         |1={{clade
+            |1={{clade
+               |1=[[Golden jackal]]
+               |2={{clade
+                  |1={{clade
+                     |1=[[Dog]]
+                     |2=[[Gray wolf]]
+                     }}
+                  |2='''Coyote'''<ref name="lindblad-toh2005">{{Cite journal 
+| last1 = Lindblad-Toh | first1 = K. 
+| last2 = Wade | first2 = C. M. 
+| last3 = Mikkelsen | first3 = T. S. 
+| last4 = Karlsson | first4 = E. K. 
+| last5 = Jaffe | first5 = D. B. 
+| last6 = Kamal | first6 = M. 
+| last7 = Clamp | first7 = M. 
+| last8 = Chang | first8 = J. L. 
+| last9 = Kulbokas | first9 = E. J. 
+| last10 = Zody 
+| doi = 10.1038/nature04338 | first10 = M. C. 
+| last11 = Mauceli | first11 = E. 
+| last12 = Xie | first12 = X. 
+| last13 = Breen | first13 = M. 
+| last14 = Wayne | first14 = R. K. 
+| last15 = Ostrander | first15 = E. A. 
+| last16 = Ponting | first16 = C. P. 
+| last17 = Galibert | first17 = F. 
+| last18 = Smith | first18 = D. R. 
+| last19 = Dejong | first19 = P. J. 
+| last20 = Kirkness | first20 = E. 
+| last21 = Alvarez | first21 = P. 
+| last22 = Biagi | first22 = T. 
+| last23 = Brockman | first23 = W. 
+| last24 = Butler | first24 = J. 
+| last25 = Chin | first25 = C. W. 
+| last26 = Cook | first26 = A. 
+| last27 = Cuff | first27 = J. 
+| last28 = Daly | first28 = M. J. 
+| last29 = Decaprio | first29 = D. 
+| last30 = Gnerre | first30 = S. 
+| title = Genome sequence, comparative analysis and haplotype structure of the domestic dog 
+| journal = Nature 
+| volume = 438 
+| issue = 7069 
+| pages = 803–819 
+| year = 2005 
+| pmid =  16341006
+| pmc = 
+| url =
+| bibcode = 2005Natur.438..803L 
+| display-authors = 29 
+}}</ref>{{rp|at=Fig. 10}}
+                  }}
+               }}
+            |2=[[Ethiopian wolf]]
+            }}
+         |2=[[Dhole]]
+         }}
+      |2={{clade
+         |1=[[African wild dog]]
+         }}
+      }}
+   }}
+}}
+}}
+
+The evolution of the coyote is remarkably well documented, and can be traced back in an unbroken line to the [[Hemphillian]] ''[[Eucyon|Eucyon davisi]]''.<ref name="kurten1980">[[Björn Kurtén|Kurtén, Björn]] (1980). ''Pleistocene Mammals of North America''. pp. 167–9. Columbia University Press. ISBN 0231037333</ref> The coyote likely arose from a certain population of the [[Blancan]] species ''[[Canis lepophagus|C. lepophagus]]'' which, although similar in weight to modern coyotes, had shorter limb bones, thus indicating a less [[cursorial]] lifestyle. Modern coyotes arose during the [[Middle Pleistocene]], and showed much more variation than they do today.<ref name="nowak1978"/> Compared to their modern Holocene counterparts, [[Pleistocene coyote]]s (''C. l. orcutti'') were larger and more robust, likely in response to larger competitors and prey.<ref name="meachen2012">{{Cite journal | doi = 10.1073/pnas.1113788109|pmid=22371581| title = Evolution in coyotes (''Canis latrans'') in response to the megafaunal extinctions| journal = Proceedings of the National Academy of Sciences| volume = 109| issue = 11| pages = 4191| year = 2012| last1 = Meachen | first1 = J. A.| last2 = Samuels | first2 = J. X.}}</ref> Pleistocene coyotes were likely more specialized carnivores than their descendants, as their teeth were more adapted to shearing meat, showing fewer grinding surfaces suited for processing vegetation.<ref name="meachen2014">{{Cite journal | doi = 10.1371/journal.pone.0116041|pmid=25551387| title = Ecological Changes in Coyotes (''Canis latrans'') in Response to the Ice Age Megafaunal Extinctions| journal = PLoS ONE| volume = 9| issue = 12| pages = e116041| year = 2014| last1 = Meachen | first1 = J. A. | last2 = Janowicz | first2 = A. C. | last3 = Avery | first3 = J. E. | last4 = Sadleir | first4 = R. W. |bibcode = 2014PLoSO...9k6041M }}</ref> Their reduction in size occurred within 1000 years of the [[Quaternary extinction event]], when their large prey died out.<ref name="meachen2012"/> Furthermore, Pleistocene coyotes were unable to exploit the big game hunting [[Ecological niche|niche]] left vacant after the extinction of the [[dire wolf]], as it was rapidly filled by gray wolves, which likely actively killed off the large coyotes, with [[natural selection]] favoring the modern gracile morph.<ref name="meachen2014"/>
+
+===Subspecies===
+[[File:Coyote subspecies distribution map.svg|thumb|Range of coyote subspecies (as of 1978)]]
+{{As of|2005|uc=on}},<ref name="msw3"/> 19 subspecies are recognized. Geographic variation in coyotes is not great, though taken as a whole, the eastern subspecies (''thamnos'' and ''frustor'') are large, dark colored animals, with a gradual paling in color and reduction in size westward and northward (''texensis'', ''latrans'', ''lestes'' and ''incolatus''), a brightening of ochraceous tones towards the Pacific coast (''ochropus'', ''umpquensis''), a reduction in size in the southwestern United States (''microdon'', ''mearnsi'') and a general trend towards dark reddish colors and short muzzles in Mexican and Central American populations.<ref name="young249">{{Harvnb|Young|Jackson|1978|p=249}}</ref>
+
+{| class="wikitable collapsed" style="width:100%;"
+|- style="background:#115a6c;"
+!Subspecies
+!Trinomial authority
+!Description
+!Range
+!Synonyms
+|-
+|'''Plains coyote'''<br/>''[[Canis latrans latrans|C. l. latrans]]''<br>[[Nominate subspecies]]
+[[File:The Clever Coyote (1951) C. l. latrans ♂.png|150 px]]
+|Say, 1823
+|The largest subspecies, with rather pale fur and bearing large molars and carnassials.<ref name="merriam1897">{{cite journal|author=Merriam, C. H.|year=1897|url=http://biostor.org/reference/82756 |title=Revision of the coyotes or prairie wolves, with descriptions of new forms|journal=Proc. Biol. Soc. Washington|volume=11|pages=19–33}}</ref>
+|[[Great Plains]] from [[Alberta]], Manitoba, and [[Saskatchewan]] south to [[New Mexico]] and the [[Texas Panhandle]]
+|<small>''nebracensis'' (Merriam, 1898)</small><br/><small>''pallidus'' (Merriam, 1897)</small>
+|-
+|'''Mexican coyote'''<br/>''C. l. cagottis''
+[[File:The Clever Coyote (1951) C. l. cagottis.png|150 px]]
+|C. E. H. Smith, 1839
+|Similar to ''peninsulae'', but larger and redder in color, with shorter ears, larger teeth and a broader muzzle.<ref name="merriam1897"/>
+|States of [[Oaxaca]], [[San Luis Potosi]], [[Puebla]], and [[Veracruz]] in Mexico
+|
+|-
+|'''San Pedro Martir coyote'''<br/>''C. l. clepticus''
+[[File:The Clever Coyote (1951) C. l. clepticus.png|150 px]]
+|Elliot, 1903
+|A small subspecies with reddish summer fur and a short, broad skull.<ref name="elliot1904">Elliot, D. G. (1904). [http://archive.org/details/landseamammalsof02elli ''The land and sea mammals of Middle America and the West Indies'', vol. II], pp. 467–8. Chicago.</ref>
+|Northern [[Baja California (state)|Baja California]] and southwestern California
+|
+|-
+|'''Salvador coyote'''<br/>''C. l. dickeyi''
+[[File:The Clever Coyote (1951) C. l. dickeyi.png|150 px]]
+|Nelson, 1932
+|A large subspecies, equalling ''lestes'' in size, but has smaller teeth and darker fur.<ref name="nelson1932">{{cite journal|author=Nelson, E. W. |url=http://biostor.org/reference/82997 |title=Remarks on coyotes, with description of a new subspecies from Salvador|year=1932|journal= Proc. Biol. Soc. Washington|volume= 45|pages= 223–225}}</ref>
+|Originally only known from Cerro Mogote, two miles west of the [[Goascorán River]] in [[La Unión, El Salvador]].<ref name="nelson1932"/> In January 2013, it expanded its range southward to southern [[Panama]].<ref name="mendez2014"/>
+|
+|-
+|'''Southeastern coyote'''<br/>''C. l. frustor''
+[[File:The Clever Coyote (1951) C. l. frustor.png|150 px]]
+|Woodhouse, 1851
+|Similar to ''peninsulae'', but larger and paler, with shorter ears and a longer muzzle.<ref name="merriam1897"/>
+|Southeastern and extreme eastern [[Kansas]], [[Oklahoma]], Texas, [[Missouri]], and [[Arkansas]]
+|
+|-
+|'''Belize coyote'''<br/>''C. l. goldmani''
+[[File:The Clever Coyote (1951) C. l. goldmani.png|150 px]]
+|Merriam, 1904
+|Largest of the Mexican coyotes, approaching ''latrans'' in size, but has a shorter muzzle.<ref>{{cite journal|author=Merriam, C. H. |year=1904|url=http://web.archive.org/web/20140907165531/http://biostor.org/reference/82977.text |title=A new coyote from southern Mexico|journal=Proc. Biol. Soc. Washington|volume=17|pages=157}}</ref>
+|Known only from San Vicente, [[Chiapas]], Mexico, near the [[Guatemala]]n border, though it could be the coyote of western Guatemala.
+|
+|-
+|'''Honduras coyote'''<br/>''C. l. hondurensis''
+[[File:The Clever Coyote (1951) C. l. hondurensis.png|150 px]]
+|Goldman, 1936
+|A small, rufous-colored subspecies with coarse, thin fur and a broad skull.<ref>{{cite journal|author=Goldman, E. A. |year=1936|url=http://www.biodiversitylibrary.org/ia/journalofwashin261936wash#page/45/mode/1up |title=A new coyote from Honduras|journal=Jour. Washington Acad. Sci|volume=26|pages=32–34}}</ref>
+|Known only from the open country northeast of Archaga, north of [[Tegucigalpa]]
+|
+|-
+|'''Durango coyote'''<br/>''C. l. impavidus''
+[[File:The Clever Coyote (1951) C. l. impavidus.png|150 px]]
+|J. A. Allen, 1903
+|Similar to ''cagottis'' in color, but much larger.<ref name="elliot1904"/>
+|Southern [[Sonora]], extreme southwestern [[Chihuahua (state)|Chihuahua]], western [[Durango]], western [[Zacatecas]], and [[Sinaloa]]
+|
+|-
+|'''Northern coyote'''<br/>''C. l. incolatus''
+[[File:The Clever Coyote (1951) C. l. incolatus.png|150 px]]
+|Hall, 1934
+|A medium-sized subspecies, with cinnamon-colored fur and a more concave skull than ''latrans''.<ref name="young263">{{Harvnb|Young|Jackson|1978|p=263}}</ref>
+|[[Yukon]], [[Northwest Territories]], northern [[British Columbia]], and northern [[Alberta]], and Alaska
+|
+|-
+|'''Tiburón Island coyote'''<br/>''C. l. jamesi''
+[[File:The Clever Coyote (1951) C. l. jamesi.png|150 px]]
+|Townsend, 1912
+|Much paler than ''mearnsi'', with heavier teeth, a large skull, and long ears.<ref>{{cite journal|author=Townsend, C. H. |year=1912 |journal=Bulletin of the American Museum of Natural History|volume= 31|pages= 117–130|url=http://www.biodiversitylibrary.org/item/86439#page/151/mode/1up|title=Mammals collected by the 'Albatross' expedition in Lower California in 1911, with descriptions of new species}}</ref>
+|[[Tiburón Island]]
+|
+|-
+|'''Mountain coyote'''<br/>''[[Canis latrans lestes|C. l. lestes]]''
+[[File:The Clever Coyote (1951) C. l. lestes.png|150 px]]
+|Merriam, 1897
+|Similar in size and color to ''latrans'', with a large tail and ears.<ref name="merriam1897"/>
+|British Columbia and southeastern Alberta south to [[Utah]] and [[Nevada]]
+|
+|-
+|'''Mearns' coyote'''<br/>''[[Canis latrans mearnsi|C. l. mearnsi]]''
+[[File:The Clever Coyote (1951) C. l. mearnsi.png|150 px]]
+|Merriam, 1897
+|A small subspecies with medium-sized ears, a small skull and small teeth. The fur is richly and brightly colored. The fulvous tints are exceedingly bright, and cover the hind and forefeet.<ref name="merriam1897"/>
+|Southwestern [[Colorado]] and southern Utah south to northern [[Sonora]] and [[Chihuahua (state)|Chihuahua]] 
+|<small>''estor'' (Merriam, 1897)</small><br/>
+|-
+|'''Lower Rio Grande coyote'''<br/>''C. l. microdon''
+[[File:The Clever Coyote (1951) C. l. microdon.png|150 px]]
+|Merriam, 1897
+|A small subspecies, with small teeth and rather dark fur. The upper surface of the hind foot is whitish, while the belly is sprinkled with black-tipped hairs.<ref name="merriam1897"/>
+|Southern Texas and northern [[Tamaulipas]]
+|
+|-
+|'''California Valley coyote'''<br/>''[[Canis latrans ochropus|C. l. ochropus]]''
+[[File:The Clever Coyote (1951) C. l. ochropus.png|150 px]]
+|Eschscholtz, 1829
+|Similar to ''latrans'' and ''lestes'', but smaller, darker, more brightly colored, has larger ears and smaller skull and teeth.<ref name="merriam1897"/>
+|California west of the [[Sierra Nevada (U.S.)|Sierra Nevada]]
+|
+|-
+|'''Peninsula coyote'''<br/>''C. l. peninsulae''
+[[File:The Clever Coyote (1951) C. l. peninsulae.png|150 px]]
+|Merriam, 1897
+|Similar to ''ochropus'' in size and features, but has darker, redder fur. The underside of the tail is blacker than that of ''ochropus'', and the belly has more black-tipped hairs.<ref name="merriam1897"/>
+|Baja California
+|
+|-
+|'''Texas Plains coyote'''<br/>''C. l. texensis''
+[[File:The Clever Coyote (1951) C. l. texensis.png|150 px]]
+|Bailey, 1905
+|Smaller than ''latrans'', with brighter, more fulvous fur closely approaching the richness found in ''ochropus'', though ''texensis'' lacks that subspecies' large ears.<ref>{{cite journal|author=Bailey, V. |year=1905|title= Biological survey of Texas|journal=North American
+Fauna|volume= 25|pages=1–222|doi=10.3996/nafa.25.0001}}</ref>
+|most of Texas, eastern New Mexico, and northeastern Mexico
+|
+|-
+|'''Northeastern coyote'''<br/>''[[Canis latrans thamnos|C. l. thamnos]]''
+[[File:The Clever Coyote (1951) C. l. thamnos.png|150 px]]
+|Jackson, 1949
+|About the same size as ''latrans'', or larger, but darker in color, and has a broader skull.<ref name="jackson1949">{{cite journal|author=Jackson, H. H. T. |year=1949|url=http://www.biodiversitylibrary.org/item/110822#page/47/mode/1up|title= Two new coyotes from the United States|journal= Proc. Biol. Soc. Washington|volume= 62|pages=31–32}}</ref>
+|From north-central Saskatchewan east to southern Ontario, south to northern [[Indiana]] and west to [[Missouri]]
+|
+|-
+|'''Northwest Coast coyote'''<br/>''C. l. umpquensis''
+[[File:The Clever Coyote (1951) C. l. umpquensis.png|150 px]]
+|Jackson, 1949
+|A small subspecies, with dark, rufous-tinged fur, a comparatively small skull and weak dentition.<ref name="jackson1949"/>
+|Coast of [[Washington (state)|Washington]] and [[Oregon]]
+|
+|-
+|'''Colima coyote'''<br/>''C. l. vigilis''
+[[File:The Clever Coyote (1951) C. l. vigilis.png|150 px]]
+|Merriam, 1897
+|Similar to ''peninsulae'', but darker and more extensively colored, with more black on the forearm, and no black on the underside of the tail (excepting the tip).<ref name="merriam1897"/>
+|Pacific coast of Mexico from [[Jalisco]] south to [[Guerrero]]
+|
+|}
+
+===Hybridization===
+Coyotes have occasionally mated with [[dog]]s, sometimes producing [[Coydog|crosses]] capable of work.<ref name="young121">{{Harvnb|Young|Jackson|1978|pp=121–24}}</ref> Such matings are rare in the wild, as the mating cycles of dogs and coyotes do not coincide, and coyotes are usually antagonistic towards dogs, with even captive specimens having shown reluctance to mate with them. Hybridization usually only occurs when coyotes are expanding into areas where conspecifics are few, and dogs are the only alternatives. Even then, pup survival rates are lower than normal, as dogs do not form pair bonds with coyotes, thus making the rearing of pups more difficult.<ref name="cartaino61">{{Harvnb|Cartaino|2011|pp=61–3}}</ref> In captivity, [[F1 hybrid|F<sub>1</sub> hybrid]]s tend to be more mischievous and less manageable as pups than dogs, and are less trustworthy on maturity than [[Wolfdog|wolf-dog hybrid]]s.<ref name="young121"/> Hybrids vary in appearance, but generally retain the coyote's adult sable coat color, dark neonatal coat color, bushy tail with an active supracaudal gland, and white facial mask. F<sub>1</sub> hybrids tend to be intermediate in form between dogs and coyotes, while F<sub>2</sub> hybrids are more varied. Both F<sub>1</sub> and F<sub>2</sub> hybrids resemble their coyote parents in terms of shyness and intrasexual aggression.<ref name="fox105">{{Harvnb|Fox|1978|p=105}}</ref> Hybrid play behavior includes the coyote "hip-slam".<ref name="fox136">{{Harvnb|Fox|1978|p=136}}</ref> Hybrids of both sexes are fertile, and can be successfully bred through four generations.<ref name="young121"/> [[Melanism|Melanistic]] coyotes owe their black pelts to a mutation that first arose in domestic dogs.<ref name="black">{{Cite journal | last1 = Anderson | first1 = T. M. | last2 = Vonholdt | first2 = B. M. | last3 = Candille | first3 = S. I. | last4 = Musiani | first4 = M. | last5 = Greco | first5 = C. | last6 = Stahler | first6 = D. R. | last7 = Smith | first7 = D. W. | last8 = Padhukasahasram | first8 = B. | last9 = Randi | first9 = E. | doi = 10.1126/science.1165448 | last10 = Leonard | first10 = J. A. | last11 = Bustamante | first11 = C. D. | last12 = Ostrander | first12 = E. A. | last13 = Tang | first13 = H. | last14 = Wayne | first14 = R. K. | last15 = Barsh | first15 = G. S. | title = Molecular and Evolutionary History of Melanism in North American Gray Wolves | journal = Science | volume = 323 | issue = 5919 | pages = 1339–1343 | year = 2009 | pmid =  19197024| pmc =2903542 |bibcode = 2009Sci...323.1339A }}</ref> A population of non-albino white coyotes in Newfoundland owe their coloration to a [[MC1R]] mutation inherited from [[golden retriever]]s.<ref>Zimmer, Carl. [http://phenomena.nationalgeographic.com/2013/01/21/snow-coyotes-and-spirit-bears/ "Snow Coyotes and Spirit Bears"]. ''National Geographic Magazine.com'' (January 21, 2013).</ref>
+[[File:Westerncoywolf.png|thumb|[[Coywolf]] hybrid conceived in captivity between a male gray wolf and a female coyote.]]
+
+Coyotes have hybridized with wolves to varying degrees, particularly in the [[Eastern United States]] and [[Eastern Canada|Canada]]. The so-called "[[Canis latrans "var."|eastern coyote]]" of northeastern North America has been confirmed to be of mixed wolf-coyote parentage, and probably originated in the aftermath of the extermination of wolves in the northeast, thus allowing coyotes to colonize former wolf ranges and mix with remnant wolf populations. This hybrid is smaller than the wolf, and holds smaller territories, but is in turn larger and holds more extensive home ranges than the typical western coyote. As of 2010, the eastern coyote's genetic makeup is fairly uniform, with minimal influence from eastern wolves or western coyotes.<ref name="way2010">{{cite journal|doi=10.1656/045.017.0202|jstor=40664873|author1=Way, J.G.|author2= Rutledge, L. |author3=Wheeldon, T. |author4=B.N. White|year= 2010|url=http://www.easterncoyoteresearch.com/downloads/GeneticsOfEasternCoywolfFinalInPrint.pdf |title=Genetic characterization of Eastern "Coyotes" in eastern Massachusetts|journal= Northeastern Naturalist|volume= 17|issue=2|pages= 189–204}}</ref> Adult eastern coyotes are larger than western coyotes, weighing an average of 30–40&nbsp;lbs, with female eastern coyotes weighing 21% more than male western coyotes.<ref name="way2010"/><ref name="way2007">{{cite journal|doi=10.1656/1092-6194(2007)14[111:ACOBMO]2.0.CO;2|author=Way, J. G. |year=2007|url=http://easterncoyoteresearch.com/downloads/BodyMassWay.PDF |title=A comparison of body mass of ''Canis latrans'' (Coyotes) between eastern and western North America|journal=Northeastern Naturalist|volume= 14|issue=1|pages= 111–24|jstor=4499900}}</ref> Eastern coyotes also weigh more at birth; while newborn western coyotes weigh 250–300 grams, eastern coyotes weigh 349–360 grams. By the age of 35 days, eastern coyote pups average 1590 grams, 200 grams more than western coyotes of similar age. By this time, physical differences become more apparent, with eastern coyote pups having longer legs than their western counterparts. Differences in dental development also occur, with [[tooth eruption]] being later, and in a different order in the eastern coyote.<ref name="bekoff1978"/> Aside from its size, the eastern coyote is physically not unlike the western coyote; both have erect ears, a straight and bushy tail, a conspicuous [[supracaudal gland]] and a narrow chest. There are four color phases, ranging from dark brown to blond or reddish blond, though the most common phase is gray-brown, with reddish legs, ears and flanks.<ref name="hilton1978">Hilton, Henry. (1978) "Systematics and Ecology of the Eastern Coyote", pp. 210–28 in M. Bekoff (ed.) ''Coyotes: Biology, Behavior, and Management''. Academic Press, New York. ISBN 1930665423</ref> There are no significant differences between eastern and western coyotes in expressing aggression and fighting, though eastern coyotes tend to fight less, and are more playful. Unlike western coyote pups, in which fighting precedes play behavior, fighting among eastern coyote pups occurs after the onset of play.<ref name="bekoff1978">Bekoff, M. (1978). "Behavioral Development in Coyotes and Eastern Coyotes", pp. 97–127 in M. Bekoff, (ed.) ''Coyotes: Biology, Behavior, and Management''. Academic Press, New York. ISBN 1930665423</ref> Eastern coyotes tend to reach [[sexual maturity]] when they reach two years of age, much later than in western coyotes.<ref name="way2010"/> In 2011, an analysis of 48,000 [[Single-nucleotide polymorphism|SNP]] chips in the [[genome]]s of various wolf and coyote populations revealed that the [[eastern wolf]] (native to [[Algonquin Provincial Park]]) and the [[red wolf]] (native to [[North Carolina]]), both previously labeled as species distinct from the gray wolf, are in fact products of varying degrees of wolf-coyote hybridization. The wolf-coyote admixture resulting in the development of the eastern wolf may have occurred on the order of 600–900 years ago between gray wolves and a now extinct [[Pre-Columbian era|pre-Columbian]] coyote population. The eastern wolf has since [[Backcrossing|backcrossed]] extensively with parent gray wolf populations. The red wolf may have originated later, approximately 287–430 years ago, when much of the southeastern U.S. was being converted to agriculture and predators were targeted for extermination. During this period, declining local wolf populations would have been forced to mate with coyotes, with the resulting hybrids backcrossing to coyotes as the wolves disappeared, to the extent that ~75–80% of the modern red wolf's genome is of coyote derivation.<ref name="genome">{{Cite journal 
+| last1 = Vonholdt | first1 = B. M. 
+| last2 = Pollinger | first2 = J. P. 
+| last3 = Earl | first3 = D. A. 
+| last4 = Knowles | first4 = J. C. 
+| last5 = Boyko | first5 = A. R. 
+| last6 = Parker | first6 = H. 
+| last7 = Geffen | first7 = E. 
+| last8 = Pilot | first8 = M. 
+| last9 = Jedrzejewski | first9 = W. 
+| last10 = Jedrzejewska 
+| doi = 10.1101/gr.116301.110 | first10 = B. 
+| last11 = Sidorovich | first11 = V. 
+| last12 = Greco | first12 = C. 
+| last13 = Randi | first13 = E. 
+| last14 = Musiani | first14 = M. 
+| last15 = Kays | first15 = R. 
+| last16 = Bustamante | first16 = C. D. 
+| last17 = Ostrander | first17 = E. A. 
+| last18 = Novembre | first18 = J. 
+| last19 = Wayne | first19 = R. K. 
+| title = A genome-wide perspective on the evolutionary history of enigmatic wolf-like canids 
+| journal = Genome Research 
+| volume = 21 
+| issue = 8 
+| pages = 1294–1305 
+| year = 2011 
+| pmid = 21566151 
+| pmc =3149496 
+}}</ref>{{clear}}
+
+==Behavior==
+
+===Social and reproductive behaviors===
+[[File:Gpa bill coyote pups 3.jpg|thumb|Mearns' coyote (''C. l. mearnsi'') pups playing.]]
+[[File:Pack of coyotes on snow.jpg|thumb|A pack of coyotes]]
+Like the [[golden jackal]], the coyote is gregarious, but not as dependent on [[Biological specificity|conspecifics]] as more social canid species like wolves are. This is likely linked to the fact that the coyote is not a specialized hunter of large prey as the latter species is.<ref name="fox1974">Fox, M. W., ed. (1974) "Evolution of Social Behavior in Canids", pp. 429–60 in M. W. Fox (ed.) ''The Wild Canids: Their Systematics, Behavioral Ecology, and Evolution''. New York: Van Nostrand Reinhold. ISBN 0442224303</ref> The basic social unit of a coyote pack is a [[nuclear family]] centered on a reproductive female. However, unrelated coyotes may join forces for companionship, or to bring down prey too large to attack singly. Such "non-family" packs are only temporary, and may consist of bachelor males, non-reproductive females and sub-adult young. Families are formed in midwinter, when females enter [[estrus]].<ref name="gier1974"/> Pair bonding can occur 2–3 months before actual [[copulation]] takes place.<ref>Bekoff, Marc, and Judy Diamond. "Precopulatory and copulatory behavior in coyotes." Journal of Mammalogy (1976): 372-375.</ref> A female entering estrus attracts males by scent marking and howling with increasing frequency.<ref name="bekoff2003">Bekoff, M. and Gese, E. M. (2003). "Coyote (''Canis latrans'')" pp. 467–481 in ''Wild Mammals of North America: Biology, Management, and Conservation, 2nd edition''. G. A. Feldhamer, B. C. Thompson, and J. A. Chapman (eds.). Johns Hopkins University Press, Baltimore, Maryland.</ref> A single female in heat can attract up to seven reproductive males, which can follow her for as much as a month. Although there may be some squabbling among the males, once the female has selected a mate and copulates, the rejected males do not intervene, and move on once they detect other estrous females.<ref name="gier1974"/> Unlike the wolf, which has been known to practice both monogamous and bigamous matings,<ref>Mech, D. L. (2003). ''The Wolves of Minnesota: Howl in the Heartland''. Voyageur Press. p. 75. ISBN 0896585093</ref> the coyote is strictly monogamous, even in areas with high coyote densities and abundant food.<ref>{{Cite journal | doi = 10.1644/11-MAMM-A-184.1|url=http://www.mammalsociety.org/articles/long-term-pair-bonding-and-genetic-evidence-monogamy-among-urban-coyotes-canis-latrans| title = Long-term pair bonding and genetic evidence for monogamy among urban coyotes (''Canis latrans'')| journal = Journal of Mammalogy| volume = 93| issue = 3| pages = 732| year = 2012| last1 = Hennessy | first1 = C. A. | last2 = Dubach | first2 = J. | last3 = Gehrt | first3 = S. D. }}</ref> Females that fail to mate sometimes assist their sisters or mothers in raising their pups, or will join their siblings until the next time they can mate. The newly mated pair then establish a territory and either construct their own den or clean out abandoned badger, marmot or skunk earths. During the pregnancy, the male frequently hunts alone and brings back food for the female. The female may line the den with dried grass or with fur pulled from her belly.<ref name="gier1974"/> The [[gestation period]] lasts 63 days, with an average litter size of six, though the number fluctuates depending on coyote population density and the abundance of food.<ref name="bekoff2003"/>
+
+Coyote pups are born in dens, hollow trees, or under ledges, and weigh 200-50 grams at birth. They are [[altricial]], and are completely dependent on [[milk]] for their first 10 days. The [[incisor]]s erupt at about 12 days, the [[canine teeth|canine]]s at 16, and the second [[premolar]]s at 21. Their eyes open after 10 days, by which point the pups become increasingly more mobile, walking by 20 days, and running at the age of six weeks. The parents begin supplementing the pup's diet with regurgitated solid food after 12–15 days. By the age of 4–6 weeks, when their [[milk teeth]] are fully functional, the pups are given small food items like mice, rabbits or pieces of ungulate carcasses, with [[lactation]] steadily decreasing after two months.<ref name="gier1974"/> Unlike wolf pups, coyote pups begin seriously fighting prior to engaging in play behavior. By 3 weeks of age, coyote pups bite each other with less inhibition than wolf pups. By the age of 4–5 weeks, pups have established dominance hierarchies, and are by then more likely to play rather than fight.<ref name="fox33">{{Harvnb|Fox|1978|p=33}}</ref> The male plays an active role in feeding, grooming and guarding the pups, but will abandon them if the female goes missing before the pups are completely [[Weaning|weaned]]. The den is abandoned by June–July, and the pups follow their parents in patrolling their territory and hunting. Pups may leave their families in August, though can remain for much longer. The pups attain adult dimensions at eight months, and gain adult weight a month later.<ref name="gier1974"/>{{clear}}
+
+===Territorial and sheltering behaviors===
+Individual feeding territories vary in size from {{convert|0.38|to|62|km2|sqmi|abbr=on}}, with the general concentration of coyotes in a given area depending on food abundance, adequate denning sites, and competition with conspecifics and other predators. The coyote generally does not defend its territory outside of the denning season,<ref name="gier1974"/> and is much less aggressive towards intruders than the wolf is, typically chasing and sparring with them, but rarely killing them.<ref>Mlot, Chris. [http://www.sciencenews.org/pages/sn_arc98/1_31_98/bob1.htm The Coyotes of Lamar Valley: In Yellowstone, the master adapter learns to deal with wolves]. [[Science News|Science News Online]]. (January 31, 1998).</ref> Conflicts between coyotes can arise during times of food shortage.<ref name="gier1974"/>
+
+Like wolves, coyotes use a den (usually the deserted holes of other species) when gestating and rearing young, though they may occasionally give birth under sagebrushes in the open. Coyote dens can be located in [[canyon]]s, [[washout]]s, [[coulee]]s, [[Bank (geography)|bank]]s, rock bluffs, or level ground. Some dens have been found under abandoned homestead shacks, grain bins, drainage pipes, railroad tracks, hollow logs, thickets and thistles. The den is continuously dug and cleaned out by the female until the pups are born. Should the den be disturbed or infested with fleas, the pups are moved into another den. A coyote den can have several entrances and passages branching out from the main chamber. <ref name="young82">{{Harvnb|Young|Jackson|1978|pp=82–90}}</ref> A single den can be used year after year.<ref name="bekoff2003"/>
+
+===Hunting and feeding behaviors===
+While the popular consensus is that olfaction is very important for hunting,<ref>Asa C. S., Mech D. (1995). “A review of the sensory organs in wolves and their importance to life history,” in Ecology and Conservation of Wolves in a Changing World eds. Carbyn L. D., Fritts S. H., Seip D. R., editors. (Edmonton: Canadian Circumpolar Institute; ) 287–291</ref> two studies that experimentally investigated the role of olfactory, auditory, and visual cues found that visual cues are the most important ones for hunting in red foxes<ref>osterholm H. (1964). The significance of distance reception in the feeding behaviour of fox (Vulpes vulpes L.). Acta Zool. Fenn. 106 1–31</ref> and coyotes.<ref>Wells M. C. (1978). Coyote senses in predation – environmental influences on their relative use. Behav. Processes 3 149–158 10.1016/0376-6357(78)90041-4</ref><ref>Wells M. C., Lehner P. N. (1978). Relative importance of distance senses in Coyote predatory behavior. Anim. Behav. 26 251–258 10.1016/0003-3472(78)90025-8</ref>
+
+When hunting large prey, the coyote often works in pairs or in small groups.<ref name="bekoff1977"/> Success in killing large ungulates depends on factors such as snow depth and crust density. Younger animals usually avoid participating in such hunts, with the breeding pair typically doing most of the work.<ref name="bekoff2003"/> Unlike the wolf, which attacks large prey from the rear, the coyote approaches from the front, lacerating its prey's head and throat. Like other canids, the coyote [[Hoarding (animal behavior)|cache]]s excess food.<ref name="young91">{{Harvnb|Young|Jackson|1978|pp=91–92}}</ref> Coyotes catch [[mouse]]-like rodents by pouncing, whereas [[ground squirrel]]s are chased. Although coyotes can live in large groups, small prey is typically caught singly.<ref name="bekoff2003"/> Coyotes have been observed to kill [[North American porcupine|porcupine]]s in pairs, using their paws to flip the rodents on their backs, then attacking the soft underbelly. Only old and experienced coyotes can successfully prey on porcupines, with many predation attempts by young coyotes resulting in them being injured by their prey's quills.<ref name="young97">{{Harvnb|Young|Jackson|1978|p=97}}</ref> Coyotes sometimes [[urination|urinate]] on their food, possibly to claim ownership over it.<ref name="young98">{{Harvnb|Young|Jackson|1978|p=98}}</ref>
+
+Coyotes may occasionally form [[mutualism (biology)|mutualistic]] relationships with [[American badger]]s, assisting each other in digging up rodent prey. The relationship between the two species may occasionally border on apparent friendship, as some coyotes have been observed laying their heads on their badger companions or licking their faces without protest. The amicable interactions between coyotes and badgers were known to pre-Columbian civilizations, as shown on a Mexican jar dated to 1250–1300 AD depicting the relationship between the two.<ref name="young93"/>
+
+==Ecology==
+
+===Habitat===
+Prior to the near extermination of wolves and cougars, the coyote was most numerous in [[grassland]]s inhabited by [[American bison|bison]], [[Pronghorn|antelope]], [[elk]] and other [[deer]], doing particularly well in short grass areas with [[prairie dog]]s, though it was just as much at home in semiarid areas with [[sagebrush]] and [[jackrabbit]]s or in [[desert]]s inhabited by [[cactus]], [[kangaroo rat]]s and [[rattlesnake]]s. As long as it was not in direct competition with the wolf, the coyote ranged from the [[Sonoran Desert]] to the alpine regions of adjoining mountains or the plains and mountainous areas of [[Alberta]]. With the extermination of the wolf, the coyote's range expanded to encompass broken forests from the tropics of [[Guatemala]] and the northern slope of [[Alaska]].<ref name="gier1974"/>
+
+===Diet===
+The coyote is highly versatile in its choice of food, but is primarily carnivorous, with 90% of its diet consisting of animal matter. Prey species include [[American bison|bison]], [[deer]], [[sheep]], [[rabbit]]s, [[rodent]]s, [[bird]]s, [[amphibian]]s (except [[toad]]s), [[lizard]]s, [[snake]]s, [[fish]], [[crustacean]]s, and [[insect]]s. Coyotes may be picky over the prey they target, as animals such as [[shrew]]s, [[mole (animal)|moles]] and [[brown rat]]s do not occur in their diet in proportion to their numbers.<ref name="gier1974"/> More unusual prey include [[Fisher (animal)|fisher]]s,<ref>Brundige, G.C. (1993) ''Predation ecology of the eastern coyote ''Canis latrans'' var., in the central Adirondacks, New York''. Ph.D. Dissertation. State University of New York, College of Environmental Science and Forestry, Syracuse.</ref> young [[American black bear|black bear]]s,<ref>{{cite journal|author=Boyer, R. H. |year=1949|title= Mountain coyotes kill yearling black bear in Sequoia National Park|journal=J. Mammal.|volume= 30|pages=75|doi=10.1093/jmammal/30.1.75}}</ref> [[harp seal]]s<ref>{{cite journal|author1=Way, J. G.|author2= Horton, J. |year=2004|url=http://web.archive.org/web/20060513151608/http://www.canids.org/canidnews/7/Coyote_kills_harp_seal.pdf|title=Coyote kills harp seal|journal=Canid News |volume=7|issue=1}}</ref> and [[rattlesnake]]s. Although coyotes prefer fresh meat, they will scavenge when the opportunity presents itself. It has been estimated that, excluding the insects, fruit and grass eaten, the coyote requires 600 g of food daily, or 250&nbsp;kg annually.<ref name="gier1974"/> The coyote readily [[cannibalism|cannibalizes]] the carcasses of [[conspecifics]], with coyote fat having been successfully used by coyote hunters as a lure or poisoned bait.<ref name="young63">{{Harvnb|Young|Jackson|1978|pp=63–4}}</ref> The coyote's winter diet consists mainly of large ungulate carcasses, with very little vegetable matter. Rodent prey increases in importance during the spring, summer, and fall.<ref name="bekoff1977"/>
+
+The coyote feeds on a variety of different [[fruit]]s, including [[blackberry|blackberries]], [[blueberry|blueberries]], [[peach]]es, [[pear]]s, [[apple]]s, [[Opuntia|prickly pears]], [[chapote]]s, [[persimmon]]s, and [[peanut]]s. Other vegetable foods include [[watermelon]], [[cantaloupe]] and [[carrot]]s. During the winter and early spring, the coyote eats large quantities of grass, such as green [[wheat]] blades. It sometimes eats unusual items like cotton cake, [[soybean]] meal, domestic animal droppings, and cultivated [[grain]] such as [[corn]], wheat, [[sorghum]], and [[bean]]s.<ref name="gier1974"/>
+{{clear}}
+
+===Enemies and competitors===
+[[File:USFWS - How to recognise a gray wolf.png|thumb|Comparative illustration of coyote and gray wolf]]
+[[File:Feeling Unwelcome.jpg|thumb|Mountain coyotes (''C. l. lestes'') cornering a juvenile [[cougar]]]]
+In areas where the ranges of coyotes and [[gray wolf|gray wolves]] overlap, interference competition and predation by wolves has been hypothesized to limit local coyote densities. Coyote ranges expanded during the 19th and 20th centuries following the extirpation of wolves, while coyotes were driven to extinction on Isle Royale after wolves colonized the island in the 1940s. One study conducted in Yellowstone National Park, where both species coexist, concluded that the coyote population in the Lamar River Valley declined by 39% following the reintroduction of wolves in the 1990s, while coyote populations in wolf inhabited areas of the [[Grand Teton National Park]] are 33% lower than in areas where they are absent.<ref name="berger2007">{{cite journal|author1=Berger, K. M.|author2= Gese, E. M. |year=2007|url=http://naldc.nal.usda.gov/download/6237/PDF |title=Does interference competition with wolves limit the distribution and abundance of coyotes?|journal=Journal of Animal Ecology|volume= 76|issue= 6 |pages=1075–1085|pmid=17922704|doi= 10.1111/j.1365-2656.2007.01287.x }}</ref> Wolves have been observed to not tolerate coyotes in their vicinity, though coyotes have been known to trail wolves in order to feed on their kills.<ref name="young93">{{Harvnb|Young|Jackson|1978|pp=93–96}}</ref>
+
+Coyotes rarely kill healthy adult [[red fox]]es, and have been observed to feed or den alongside them, though they often kill foxes caught in traps. Coyotes may kill fox kits, but this is not a major source of mortality.<ref>{{cite journal|author1=Sargeant, Alan B.|author2=Allen, Stephen H. |year=1989|title=Observed interactions between coyotes and red foxes|journal=Journal of Mammalogy|volume= 70|issue=3|pages=631–633|doi=10.2307/1381437|jstor=1381437}}</ref> In southern California, coyotes frequently kill [[gray fox]]es, and these smaller canids tend to avoid areas with high coyote densities.<ref name=fedriani2000>{{Cite journal|author1=Fedriani, J. M.|author2= Fuller, T. K. |author3=Sauvajot, R. M. |author4=York, E. C. |year= 2000|title= Competition and intraguild predation among three sympatric carnivores|journal= Oecologia |volume=125|pages=258–270|url=http://web.archive.org/web/20111006040228/http://www.ebd.csic.es/cani/public_html/Oecologia_00.pdf|doi=10.1007/s004420000448|pmid= 24595837|issue=2}}</ref>
+
+Coyotes may compete with [[cougar]]s in some areas. In eastern [[Sierra Nevada (U.S.)|Sierra Nevada]], coyotes compete with cougars over [[mule deer]]. Cougars usually outcompete coyotes, and may kill them occasionally, thus reducing coyote predation pressure on smaller carnivores like foxes and bobcats.<ref name=hornocker2009>Hornocker, M. et al. (2009). ''Cougar: Ecology and Conservation''. University of Chicago Press. p. 170. ISBN 0226353478</ref>
+
+In some areas, coyotes share their ranges with [[bobcat]]s. It is rare for these two similarly sized species to physically confront one another, though bobcat populations tend to diminish in areas with high coyote densities.<ref>{{Cite journal|doi=10.1139/z89-170|author=Litvaitis, J. A., and D. J. Harrison|year=1989|title= Bobcat-coyote niche relationships during a period of coyote population increase|journal= Canadian Journal of Zoology |volume=67|pages=1180–1188|issue=5}}</ref> However, several studies have demonstrated interference competition between coyotes and bobcats, and in all cases coyotes dominated the interaction.<ref name=bunnell2006>{{Cite journal|title=Potential Impacts of Coyotes and Snowmobiles on Lynx Conservation in the Intermountain West|journal=Wildlife Society Bulletin|doi=10.2193/0091-7648(2006)34[828:PIOCAS]2.0.CO;2|jstor=3784713|year=2006|volume=34|last1=Bunnell|first1=Kevin D.|last2=Flinders|first2=Jerran T.|last3=Wolfe|first3=Michael L.|issue=3|pages=828–838}}</ref> Multiple researchers<ref>Anderson, E. M. (1986). ''Bobcat behavioral ecology in relation to resource use in southeastern Colorado''. Dissertation, Colorado State University, Fort Collins, USA.</ref><ref>Jackson, D. H. (1986). ''Ecology of bobcats in east-central Colorado''. Dissertation, Colorado State University, Fort Collins, USA.</ref><ref>Toweill, D. E. (1986). ''Resource partitioning by bobcats and coyotes in a coniferous forest''. Thesis, Oregon State University, Corvallis, USA</ref><ref name=gipson2002/><ref>{{Cite journal|jstor=3830671|author=Knick, S. T. |year=1990|title= Ecology of bobcats relative to exploitation and a prey decline in southeastern Idaho|journal= Wildlife Monographs|volume=108|pages=1–42|issue=108}}</ref> all reported instances of coyotes killing bobcats, whereas bobcats killing coyotes is more rare.<ref name="bunnell2006" /> Coyotes attack bobcats using a bite-and-shake method similar to that used on medium-sized prey. Coyotes (both single individuals and groups) have been known to occasionally kill bobcats – in most cases, the bobcats were relatively small specimens, such as adult females and juveniles.<ref name=gipson2002>{{Cite journal|author1=Gipson, P. S.|author2= Kamler, J. F|jstor=3672519|title=Bobcat Killed by a Coyote|journal=The Southwestern Naturalist|volume=47|issue=3|year=2002|pages=511–513|doi=10.2307/3672519}}</ref> However, coyote attacks (by an unknown number of coyotes) on adult male bobcats have occurred. In California, coyote and bobcat populations are not negatively correlated across different habitat types, but predation by coyotes is an important source of mortality in bobcats.<ref name=fedriani2000/> Biologist [[Stanley Paul Young]] noted that in his entire trapping career, he had never successfully saved a captured bobcat from being killed by coyotes, and wrote of two incidences wherein coyotes chased bobcats up trees.<ref name="young93"/> Coyotes have been documented to directly kill [[Canadian lynx]] on occasion,<ref name=ripple2011>{{Cite journal | doi = 10.1002/wsb.59 |url=http://www.cof.orst.edu/leopold/papers/Ripple_etal_Lynx2011.pdf| title = Can restoring wolves aid in lynx recovery?| journal = Wildlife Society Bulletin| volume = 35| issue = 4| pages = 514| year = 2011| last1 = Ripple | first1 = W. J. | last2 = Wirsing | first2 = A. J. | last3 = Beschta | first3 = R. L. | last4 = Buskirk | first4 = S. W. }}</ref><ref>{{cite journal|author=O’Donoghue, M.|author2=Hofer,  E. J. |author3=Doyle, F. I. |year=1995|title= Predator versus predator|journal= Natural History |volume=104|pages=6–9}}</ref><ref>Rockwood, Larry L. (2015) [https://books.google.com/books?id=xHFuCAAAQBAJ&pg=PA273 ''Introduction to Population Ecology'']. Chichester (United Kingdom): John Wiley and Sons. p. 273. ISBN 111894755X.</ref> and compete with them for prey, especially [[snowshoe hare]]s.<ref name=ripple2011/> In some areas, including central [[Alberta]], lynx are more abundant where coyotes are few, thus interactions with coyotes appears to influence lynx populations more than the availability of snowshoe hares.<ref>Bushkirk, SW.; Ruggiero, LF.; and Krebs, CJ. (2000) [http://www.fs.fed.us/rm/pubs/rmrs_gtr030/rmrs_gtr030_083_100.pdf Ch. 4 "Habitat Fragmentation and Interspecific Competition: Implications for Lynx Conservation"], pp. 91–92 in L. F. Ruggiero, K. B. Aubry, S. W. Buskirk, G. M. Koehler, C. J. Krebs, K. S. McKelvey and J. R. Squires (eds.) ''Ecology and conservation of lynx in the United States]]. University Press of Colorado, Denver.</ref>
+{{clear}}
+
+==Communication==
+
+===Body language===
+Being both a gregarious and solitary animal, the variability of the coyote's visual and vocal repertoire is intermediate between that of the solitary foxes and the highly social wolf.<ref name="fox1974"/> The aggressive behavior of the coyote bears more similarities to that of foxes than it does that of wolves and dogs. An aggressive coyote arches its back and lowers its tail.<ref name="silver1969">{{cite journal|author1=Silver, H.|author2= Silver, W. T. |jstor=3830473|title=Growth and Behavior of the Coyote-like Canid of Northern New England and Observations on Canid Hybrids|year= 1969|journal=The Wildlife Society, Wildlife Monographs|volume= 17|pages= 24–25}}</ref> Unlike dogs, which solicit playful behavior by performing a "play-bow" followed by a "play-leap", play in coyotes consists of a bow, followed by side-to-side head flexions and a series of "spins" and "dives". Although coyotes will sometimes bite their playmates' scruff as dogs do, they typically approach low, and make upward directed bites.<ref name="fox134">{{Harvnb|Fox|1978|pp=134–135}}</ref> Pups will fight each other regardless of sex, while among adults aggression is typically reserved for members of the same sex. Combatants approach each other waving their tails and snarling with their jaws open, though fights are typically silent. Males tend to fight in a vertical stance, while females fight on all four paws. Fights among females tend to be more serious than ones among males, as females seize their opponents' forelegs, throat and shoulders.<ref name="silver1969"/>
+
+===Vocalizations===
+The coyote has been described as "the most vocal of North American wild mammals...", whose vocal proclivity lead to its being given the binomial name ''Canis latrans'', meaning "barking dog". At least 11 different vocalizations are known in adult coyotes. These sounds are divided into three categories: 1) Agonistic and alarm, 2) Greeting, and 3) Contact. Vocalizations of the first category include woofs, growls, huffs, barks, bark howls, yelps and high frequency whines. Woofs are used as low intensity threats or alarms, and are usually heard near den sites, prompting the pups to immediately retreat into their burrows. Growls are used as threats in short distances, but have also been heard among pups playing and copulating males. Huffs are high intensity threat vocalizations produced via rapid expiration of air. Barks can be classed as both long distance threat vocalizations and as alarm calls. Bark howls may serve similar functions. Yelps are emitted as a sign of submission, while high frequency whines are produced by dominant animals acknowledging the submission of subordinates. Greeting vocalizations include low frequency whines, ''wow-oo-wows'' and group yip howls. Low frequency whines are emitted by submissive animals, and are usually accompanied by tail wagging and muzzle nibbling. The sound known as ''wow-oo-wow'' has been described as a "greeting song". The group yip howl is emitted when two or more pack members reunite, and may be the final act of a complex greeting ceremony. Contact calls include lone howls and group howls, as well as the previously mention group yip howls. The lone howl is the most iconic sound of the coyote, and may serve the purpose of announcing the presence of a lone individual separated from its pack. Group howls are used as both substitute group yip howls and as responses to either lone howls, group howls or group yip howls.<ref name="lehner1978"/>
+
+==Range==
+The coyote's pre-Columbian range was limited to the south-west and plains regions of the U.S. and Canada, and northern and central Mexico. By the 19th century, the species expanded north and west, expanding further after 1900, coinciding with land conversion and the extirpation of wolves. By this time, its range encompassed all of the U.S. and Mexico, southward into Central America, and northward into most of Canada and Alaska. This expansion is ongoing, and the species now occupies the majority of areas between 8°N (Panama) and 70°N (northern Alaska).<ref name="iucn"/>
+
+===In Mexico and Central America===
+Although it was once widely believed that coyotes are recent immigrants to southern Mexico and Central America, aided in their expansion by deforestation, [[Pleistocene]]-Early [[Holocene]] records, as well as records from the Pre-Columbian period and early European colonization show that the animal was present in the area long before modern times. Nevertheless, range expansion did occur south of [[Costa Rica]] during the late 1970s and northern [[Panama]] in the early 1980s, following the expansion of cattle grazing lands into tropical rainforests. It has been predicted that the coyote should appear in northern [[Belize]] in the near future, as the habitat there is favorable to the species.<ref name="mihart2004">{{cite journal|author=Hidalgo-Mihart, M. G. |title=Historical and present distribution of coyote (''Canis latrans'') in Mexico and Central America|journal=Journal of Biogeography|year=2004|volume=31|issue=12|pages= 2025–2038|url=http://www.ots.ac.cr/bnbt/27408.html|doi=10.1111/j.1365-2699.2004.01163.x}}</ref> Concerns have been raised of a possible expansion into [[South America]] through the [[Isthmus of Panama|Panamanian Isthmus]], should the [[Darién Gap]] ever be closed by the [[Pan-American Highway]].<ref name="rosa2010">De la Rosa, C. L. et al. (2010). ''A Guide to the Carnivores of Central America: Natural History, Ecology, and Conservation''. University of Texas Press. ISBN 0292789513</ref> This fear was partially confirmed in January 2013, when the species was recorded in eastern Panama's [[Chepo District]], beyond the [[Panama Canal]].<ref name="mendez2014">{{cite journal|author=Méndez-Carvajal, P. |title=Mammalia, Carnivora, Canidae, ''Canis latrans'' (Say, 1823): actual distribution in Panama|journal=Checklist Journal|year= 2014|volume=10|issue=2|pages=376–379|issn= 1809-127X|url=http://www.checklist.org.br/getpdf?NGD046-13|doi=10.15560/10.2.376}}</ref>
+
+==Diseases and parasites==
+[[File:Mangy coyote Año Nuevo State Park.jpg|thumb|California Valley coyote (''C. l. ochropus'') suffering from [[sarcoptic mange]].]]
+Among large North American carnivores, the coyote probably carries the largest number of diseases and parasites, likely due to its wide range and varied diet.<ref name="young107">{{Harvnb|Young|Jackson|1978|pp=107–114}}</ref> [[Viral diseases]] known to infect coyotes include [[rabies]], [[canine distemper]], [[infectious canine hepatitis]], four strains of [[equine encephalitis (disambiguation)|equine encephalitis]], and [[Oral florid papillomatosis|oral papillomatosis]]. By the late 1970s, serious rabies outbreaks in coyotes had ceased to be a problem for over 60 years, though sporadic cases every 1–5 years did occur. Distemper causes the deaths of many pups in the wild, though some specimens can survive infection. [[Tularemia]], a [[bacterial disease]], infects coyotes through their rodent and lagomorph prey, and can be deadly for pups.<ref name="gier1978">Gier, H. T.; Kruckenberg, S. M.; Marler, R. J. (1978) "Parasites and diseases of coyotes", pp. 37–71 in M. Bekoff, (ed.) ''Coyotes: biology, behavior, and management''. Academic Press, New York. ISBN 1930665423.</ref>
+
+Coyotes can be infected by both [[Demodicosis|demodectic]] and [[sarcoptic mange]], the latter being the most common. [[Mite]] infestations are rare and incidental in coyotes, while [[tick]] infestations are more common, with seasonal peaks depending on locality (May–August in the Northwest, March–November in Arkansas). Coyotes are only rarely infested with [[lice]], while [[flea]]s infest coyotes from puphood, though they may be more a source of irritation than serious illness.  ''[[Pulex|Pulex simulans]]'' is the most common species to infest coyotes, while ''[[Ctenocephalides canis]]'' tends to occur only in areas where coyotes and dogs (its primary host) inhabit the same area. Although coyotes are rarely host to [[Trematoda|fluke]]s, they can nevertheless have serious effects on coyotes, particularly ''[[Nanophyetus salmincola]]'', which can infect them with [[salmon poisoning disease]], a fatal disease with a 90% mortality rate. [[Tapeworm]]s have been recorded to infest 60–95% of all coyotes examined. The most common species to infest coyotes is ''[[Taenia pisiformis]]'' and ''Taenia crassiceps'', which uses cottontail rabbits as intermediate hosts. The largest species known in coyotes is ''T. hydatigena'', which enters coyotes through infected ungulates, and can grow to lengths of 800–4000&nbsp;mm. Though once largely limited to wolves, ''[[Echinococcus granulosus]]'' has expanded to coyotes since the latter began colonizing former wolf ranges. The most frequent [[Ascarididae|ascaroid]] roundworm in coyotes is ''[[Toxascaris leonina]]'', which dwells in the coyote's short intestine and has no ill effects, save for causing the host to eat more frequently. [[Hookworm]]s of the genus ''[[Ancylostoma]]'' infest coyotes throughout their range, being particularly prevalent in humid areas. In areas of high moisture, such as coastal Texas, coyotes can carry up to 250 hookworms each. The blood-drinking ''[[Ancylostoma caninum|A. caninum]]'' is particularly dangerous, as it damages the coyote through blood-loss and lung congestion. A 10-day-old pup can die from being host to as few as 25 ''A. caninum''.<ref name="gier1978"/>
+{{clear}}
+
+==Relationships with humans==
+{{Further|Urban coyote}}
+
+===In folklore and mythology===
+{{Main|Coyote (mythology)}}
+[[File:Coyote spirit shield.jpg|thumb|Spirit shield fashioned from coyote skull and crow feathers.]]
+The coyote features prominently as a trickster figure in the folktales of [[Indigenous peoples of the Americas|America's indigenous people]]s, alternately assuming the form of an actual coyote or a man. As with other trickster figures, the coyote acts as a [[Picaresque novel|picaresque]] hero which rebels against social convention through deception and humor.<ref name="watts2006"/> The coyote was likely given its trickster role in light of the actual animal's intelligence and adaptability; pre-Columbian American people observed its behavior, and their folkloric representations reflected its attributes.<ref>Harris, M. (1979). ''Cultural Materialism: The Struggle for a Science of Culture''. New York: Random House. pp. 200–1. ISBN 0759101353.</ref> It is variously credited for having [[Theft of fire|brought fire]] to humanity, releasing the bison into the world, and of having slain monsters by [[Petrifaction in mythology and fiction|petrifying]] them. The [[Maidu]] [[creation myth]] has the coyote introducing work, suffering and death to the world. [[Zuni people|Zuni]] folklore has the coyote bringing winter into the world by stealing light from the [[kachina]]s. Some [[Tribe (Native American)|tribe]]s, such as the [[Chinookan peoples|Chinook]], Maidu, [[Paiute]], [[Pawnee people|Pawnee]], [[Tohono O'odham people|Tohono O'odham]], and [[Ute people|Ute]] portray the coyote as the companion of the [[Creator deity|creator]]. In the Paiute creation myth, the coyote was created by the wolf as a companion, and the two created land by piling dirt on the water-covered world. A Tohono O'odham [[flood myth]] has the coyote helping [[Montezuma (mythology)|Montezuma]] survive a global deluge that destroys humanity. After the [[Great Mystery]] creates humanity, the coyote and Montezuma teach people how to live. The [[Crow Nation|Crow]] creation myth portrays Old Man Coyote as the creator. In [[Diné Bahaneʼ|Navajo mythology]], the coyote was present in the First World with First Man and First Woman, though a different version has it being created in the Fourth World. The Navajo coyote brings death into the world, explaining that without death, there would be too many people, and thus no room to plant corn.<ref>Lynch, P. A. & Roberts, J. (2010). ''Native American Mythology A to Z''. Infobase Publishing. p. 27. ISBN 1438133111</ref>
+
+Prior to the [[Spanish conquest of the Aztec Empire]], the coyote played a significant role in [[Mesoamerica]]n [[cosmology]]. The coyote symbolized military might in pre-[[Aztec]] [[Teotihuacan]], with warriors dressing up in coyote costumes to call upon its predatory power. The species continued to be linked to Central Mexican warrior cults in the centuries leading up to Aztec rule.<ref name="schwartz1998">Schwartz, M. (1998). ''A History of Dogs in the Early Americas''. Yale University Press. pp. 146–149. ISBN 0300075197.</ref> In [[Aztec mythology]], [[Huehuecoyotl|Huehuecóyotl]] (meaning "old coyote"), the god of dance, music and carnality, is depicted in several codices as a man with a coyote's head.<ref>Miller, M. E. & Taube, K. A. (1993). ''The Gods and Symbols of Ancient Mexico and the Maya: An Illustrated Dictionary of Mesoamerican Religion''. Thames and Hudson. p.92. ISBN 0500050686</ref> He is sometimes depicted as a [[Promiscuity|womanizer]], responsible for bringing war into the world by seducing [[Xochiquetzal]], the goddess of love.<ref>Olivier, G. (2003). ''Mockeries and Metamorphoses of an Aztec God: Tezcatlipoca, "Lord of the Smoking Mirror"''. University Press of Colorado. p. 32. ISBN 0-87081-745-0.</ref> Epigrapher [[David H. Kelley]] argued that the god [[Quetzalcoatl]] owed its origins to pre-Aztec [[Uto-Aztecan languages|Uto-Aztecan]] mythological depictions of the coyote, which is portrayed as mankind's "Elder Brother", a creator, seducer, trickster and culture hero linked to the morning star.<ref name="kelley1995">{{cite journal|author=Kelley, D. H. |year=1955|title= Quetzalcoatl and his Coyote Origins|journal=El México Antiguo|volume=8|pages=397–416}}</ref>
+
+===Attacks on humans===
+{{Main|Coyote attacks on humans}}
+[[File:No Feeding.jpg|thumb|A sign discouraging people from feeding coyotes, which can lead to them habituating themselves to human presence, thus increasing the likelihood of attack]]
+Coyote attacks on humans are uncommon and rarely cause serious injuries, due to the relatively small size of the coyote, but have been increasingly frequent, especially in the state of [[California]].  In the 30 years leading up to March 2006, at least 160 attacks occurred in the United States, mostly in the [[Los Angeles County]] area.<ref name="smithsonian200603">{{cite web | url=http://www.smithsonianmag.com/science-nature/City-Slinkers.html?c=y&story=fullstory | title=City Slinkers |publisher=Smithsonian | date=March 2006 | accessdate=June 14, 2012 | author=Dell'Amore, Christine}}</ref> Data from USDA Wildlife Services, the California Department of Fish and Game, and other sources show that while 41 attacks occurred during the period of 1988–1997, 48 attacks were verified from 1998 through 2003. The majority of these incidents occurred in Southern California near the suburban-wildland interface.<ref name="AOH">{{cite web| title = Coyote Attacks: An Increasing Suburban Problem|url = http://www.co.san-diego.ca.us/awm/docs/coyoteattacks.pdf|accessdate =August 19, 2007 |archiveurl = http://web.archive.org/web/20070926044522/http://www.co.san-diego.ca.us/awm/docs/coyoteattacks.pdf |archivedate = September 26, 2007}}</ref>
+
+In the absence of the harassment of coyotes practiced by rural people{{citation needed|date=February 2014}}, urban coyotes are losing their fear of humans, which is further worsened by people intentionally or unintentionally feeding coyotes. In such situations, some coyotes have begun to act aggressively toward humans, chasing joggers and bicyclists, confronting people walking their dogs, and stalking small children.<ref name="AOH" /> Non [[Rabies|rabid]] coyotes in these areas will sometimes target small children, mostly under the age of 10, though some adults have been bitten.
+
+Although media reports of such attacks generally identify the animals in question as simply "coyotes," research into the genetics of the [[eastern coyote]] indicates those involved in attacks in northeast North America, including Pennsylvania, New York, New England, and eastern Canada, may have actually been [[coywolves]], hybrids of ''Canis latrans'' and ''Canis lupus,'' not fully coyotes.<ref>{{Cite journal | doi = 10.1098/rsbl.2009.0575|pmid=19776058|pmc=2817252| title = Rapid adaptive evolution of northeastern coyotes via hybridization with wolves| journal = Biology Letters| volume = 6|issue=1| pages = 89–93| year = 2009| last1 = Kays | first1 = R.| last2 = Curtis | first2 = A.| last3 = Kirchman | first3 = J. J.}}</ref>
+
+===Livestock and pet predation===
+[[File:Coyote vs Dog.jpg|thumb|Coyote confronting a dog]]
+Coyotes are presently the most abundant livestock predators in western North America, causing the majority of sheep, goat and cattle losses.<ref name="CP">{{cite web| title = Coyote Predation – Description|work=A. Wade, Dale & E. Bowns, James|publisher=Procedures for Evaluating Predation on Livestock and Wildlife|url = http://texnat.tamu.edu/ranchref/predator/coyote/t-coyote.htm|accessdate =August 19, 2007 |archiveurl = http://web.archive.org/web/20070806144513/http://texnat.tamu.edu/ranchref/predator/coyote/t-coyote.htm |archivedate = August 6, 2007}}</ref> For example, according to the [[National Agricultural Statistics Service]], coyotes were responsible for 60.5% of the 224,000 sheep deaths attributed to predation in 2004.<ref>{{Cite journal| publication-date =May 6, 2005|title =Sheep and Goats Death Loss|publisher=[[National Agricultural Statistics Service]]|url =http://usda.mannlib.cornell.edu/MannUsda/viewDocumentInfo.do?documentID=1628|accessdate =December 27, 2007}}</ref> The total number of sheep deaths in 2004 comprised 2.22% of the total sheep and lamb population in the United States.<ref>[http://web.archive.org/web/20081016035006/http://www.nass.usda.gov/QuickStats/indexbysubject.jsp?Text1=&site=NASS_MAIN&select=Select+a+State&Pass_name=&Pass_group=Livestock+%26+Animals&Pass_subgroup=Livestock National Agricultural Statistics Service]</ref> According to the [[National Agricultural Statistics Service]] USDA report, "All sheep and lamb inventory in the United States on July 1, 2005, totaled 7.80&nbsp;million head, 2% above July 1, 2004. [[Animal husbandry|Breeding]] sheep inventory at 4.66&nbsp;million head on July 1, 2005 was 2% above July 1, 2004."<ref>{{cite web|url=http://usda.mannlib.cornell.edu/usda/current/Shee/Shee-07-22-2005.txt |title=Sheep and lamb inventory  |publisher=usda.mannlib.cornell.edu |accessdate=February 1, 2010 }}</ref> Because coyote populations are typically many times greater and more widely distributed than those of wolves, coyotes cause more overall predation losses. However, an Idaho census taken in 2005 showed that individual coyotes were one-twentieth as likely to attack livestock than individual wolves.<ref name="relative">Collinge, Mark (2008). [http://web.archive.org/web/20150223045050/http://naldc.nal.usda.gov/naldc/download.xhtml?id=27917  ''Relative risks of predation on livestock posed by individual wolves, black bears, mountain lions and coyotes in Idaho'']. United States Department of Agriculture, Animal and Plant Health Inspection Service, Wildlife Services, Boise, Idaho. Proc. 23rd Vertbr. Pest Conf. R. M. Timm and M. B. Madon (eds.). pp. 129–133.</ref>
+
+[[Livestock guardian dog]]s are commonly used to aggressively repel predators and have worked well in both fenced pasture and range operations. A 1986 survey of sheep producers in the USA found that 82% reported the use of dogs represented an economic asset.<ref name=AIB588>{{cite web|title=Livestock Guarding Dogs|url=http://www.nal.usda.gov/awic/companimals/guarddogs/guarddogs.htm|work=Agricultural Information Bulletin 588|publisher=U.S. Department of Agriculture|accessdate=April 3, 2012}}</ref><ref name=LGDfact>{{cite web|title=Livestock guarding dogs fact sheet|url=http://www.lgd.org/usdafacts.html|publisher=Animal and Plant Health Inspection Service U.S. Department of Agriculture|accessdate=April 3, 2012}}</ref>
+
+Coyotes will typically bite the throat just behind the jaw and below the ear when attacking adult sheep or goats, with death commonly resulting from suffocation. Blood loss is usually a secondary cause of death. Calves and heavily fleeced sheep are killed by attacking the flanks or hindquarters, causing shock and blood loss. When attacking smaller prey, such as young lambs, the kill is made by biting the skull and spinal regions, causing massive tissue and bone damage. Small or young prey may be completely carried off, leaving only blood as evidence of a kill. Coyotes will usually leave the hide and most of the skeleton of larger animals relatively intact, unless food is scarce, in which case they may leave only the largest bones. Scattered bits of wool, skin and other parts are characteristic where coyotes feed extensively on larger carcasses.<ref name="CP" />
+[[File:coyote with typical hold on lamb.jpg|thumb|left|Coyote with a typical throat hold on domestic sheep]]
+Coyote predation can usually be distinguished from dog or coydog predation by the fact that coyotes partially consume their victims. Tracks are also an important factor in distinguishing coyote from dog predation. Coyote tracks tend to be more oval-shaped and compact than those of domestic dogs, and their claw marks are less prominent and the tracks tend to follow a straight line more closely than those of dogs. With the exception of [[sighthound]]s, most dogs of similar weight to coyotes have a slightly shorter stride.<ref name="CP" /> Coyote kills can be distinguished from wolf kills by the fact that there is less damage to the underlying tissues. Also, coyote scats tend to be smaller than wolf scats.<ref>[http://web.archive.org/web/20130409223159/http://animalrangeextension.montana.edu/articles/wildlife/wolf_depredation.htm Ranchers' Guide to Wolf Depredation], Montana State University</ref>
+
+The [[U.S. government]] routinely shoots, poisons, traps and kills about 90,000 coyotes each year to protect livestock.<ref>{{cite web|url=http://www.msnbc.msn.com/id/31880990/ns/us_news-environment/ |title=Controlling wily coyotes? Still no easy answers |publisher=MSNBC |date=December 7, 2009 |accessdate=September 14, 2013}}</ref>
+
+Coyotes are often attracted to [[dog food]] and animals that are small enough to appear as prey. Items such as garbage, pet food, and sometimes feeding stations for birds and squirrels will attract coyotes into backyards. About three to five pets attacked by coyotes are brought into the Animal Urgent Care hospital of south Orange County (California) each week, the majority of which are dogs, since cats typically do not survive the attacks.<ref name="AOP">{{cite web| title = For coyotes, pets are prey|work=Greg Hardesty|publisher=Orange County Register|url = http://web.archive.org/web/20070715134302/http://www.ocregister.com/ocr/sections/news/focus_in_depth/article_508026.php|date =May 5, 2005|author=Hardesty, Greg}}</ref> Scat analysis collected near [[Claremont, California]] revealed that coyotes relied heavily on pets as a food source in winter and spring.<ref name="AOH"/> At one location in Southern California, coyotes began relying on a colony of [[feral cat]]s as a food source. Over time, the coyotes killed most of the cats, and then continued to eat the cat food placed daily at the colony site by people who were maintaining the cat colony.<ref name="AOH" />
+Coyotes usually attack smaller-sized dogs, but they have been known to attack even large, powerful breeds such as the [[Rottweiler]] in exceptional cases.<ref>[http://web.archive.org/web/20130526200405/http://www4.whdh.com/news/articles/local/BO52127/ "A coyote attacks in Weymouth and kills a dog"]. WHDH-TV – New England News. May 14, 2007</ref> Dogs larger than coyotes are generally able to drive them off, and have been known to kill coyotes. Smaller breeds are more likely to suffer injury or death.
+
+===Uses===
+Prior to the mid-1800s, coyote fur was considered worthless. This changed with the diminution of [[North American beaver|beaver]]s, and by 1860, the hunting of coyotes for their fur became a great source of income (75 [[Penny (United States coin)|cent]]s to [[United States dollar|$]]1.50 per skin) for [[wolfers]] in the [[Great Plains]]. Coyote pelts were of significant economic importance during the early 1950s, ranging in price from $5 to $25 per pelt, depending on locality.<ref name="young115">{{Harvnb|Young|Jackson|1978|pp=115–116}}</ref> The coyote's fur is not durable enough to make rugs,<ref name="ern816">{{Harvnb|Seton|1909|p=816}}</ref> but can be used for coats and jackets, scarves or muffs. The majority of pelts are used for making [[Trim (sewing)|trimming]]s, such as coat collars and sleeves for women's clothing. Coyote fur is sometimes dyed black as imitation [[Silver fox (animal)|silver fox]].<ref name="young115"/>
+
+Coyotes were occasionally eaten by trappers and mountain men during the [[Manifest destiny|western expansion]]. Coyotes sometimes featured in the feasts of the [[Plains Indians]], and coyote pups were eaten by the indigenous people of [[San Gabriel, California]]. The taste of coyote meat has been likened to that of the wolf, and is more tender than [[pork]] when boiled. Coyote fat, when taken in the fall, has been used on occasion to grease leather or eaten as a [[Spread (food)|spread]].<ref name="young119">{{Harvnb|Young|Jackson|1978|pp=119–21}}</ref>
+
+===Tameability===
+Coyotes were probably semi-domesticated by various [[Pre-Columbian era|pre-Columbian]] cultures. Some 19th-century writers wrote of coyotes being kept in native villages in the Great Plains. The coyote is easily tamed as a pup, but can become destructive as an adult.<ref name="young64">{{Harvnb|Young|Jackson|1978|pp=64–9}}</ref> Both full-blooded and hybrid coyotes can be playful and confiding with their owners, but are suspicious and shy of strangers,<ref name="young121"/> though there are records of coyotes being tractable enough to be used for practical purposes like [[Retriever|retrieving]]<ref>Schultz, J. W. (1962). ''Blackfeet and Buffalo: Memories of Life Among the Indians''. University of Oklahoma Press. pp. 141–43. ISBN 0806117001</ref> and [[Pointing breed|pointing]].<ref>Etter, J. (February 15, 1998) [http://newsok.com/article/2602908?highlight=%255B%2522max%2522%252C%2522montgomery%2522%252C%2522coyote%2522%252C%2522wylie%2522%252C%2522durham%2522%252C%2522quail%2522%255D "Coyote Blends In as Best Bird Dog for Durham Man"]. ''The Oklahoman''.</ref> A tame coyote named "Butch", caught in the summer of 1945, had a short-lived career in [[Film|cinema]], appearing in ''[[Smoky (1946 film)|Smoky]]'' and ''[[Ramrod (film)|Ramrod]]'' before being shot while raiding a henhouse.<ref name="young64"/>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist|30em}}
+
+==Bibliography==
+*{{Cite book|last=Cartaino|first=Carol|title=Myths & Truths about Coyotes: What You Need to Know about America's Most Misunderstood Predator|publisher=Readhowyouwant.com|year=2011|isbn=1458726681|ref=harv}}
+*{{Cite book|last=Fox|first=M. W.|title=The Dog: Its Domestication and Behavior|publisher=Garland STPM Press|year=1978|isbn=0824098587|ref=harv}}
+*{{Cite book|last=Nowak|first=R. M.|url=http://archive.org/details/northamericanqua00nowa|title=North American Quaternary Canis|publisher=Lawrence, Kans. : Museum of Natural History, University of Kansas|year=1979|ref=harv}}
+*{{Cite book|last=Seton|first=E. T.|url=http://archive.org/details/lifehistoriesofn02seto|title=Life-histories of northern animals : an account of the mammals of Manitoba|place=New York City |publisher= Scribner|year=1909|ref=harv}}
+*{{Cite book|last1=Young|first1=S. P.|last2=Jackson|first2=H. H. T.|title=The Clever Coyote|publisher=University of Nebraska Press|year=1978|isbn=0-8032-5893-3|ref=harv}}
+
+==Further reading==
+*Dixon, J. S. (1920). ''[https://archive.org/details/controlofcoyotei320dixo Control of the coyote in California]''. Berkeley, Cal. : Agricultural Experiment Station
+*Harding, A. R. (1909). ''[https://archive.org/details/wolfcoyotetrappi00hard Wolf and coyote trapping; an up-to-date wolf hunter's guide, giving the most successful methods of experienced "wolfers" for hunting and trapping these animals, also gives their habits in detail]''. Columbus, Ohio, A. R. Harding pub. co.
+*{{cite journal | last1 = Kurtén | first1 = B | year = 1974 | title = A history of coyote-like dogs (Canidae, Mammalia) | url = | journal = Acta Zoologica Fennica | volume = 140 | issue = | pages = 1–38 }}
+*Leydet, François (1988). ''The Coyote: Defiant Songdog of the West''. University of Oklahoma Press. ISBN 0806121238
+*Morey, Paul. 2004. "Landscape use and diet of coyotes, Canis latrans, in the Chicago metropolitan area", Masters Thesis, Utah State University.
+*Murie, A. (1940). [https://archive.org/details/ecologyofcoyotei00muri ''Ecology of the coyote in the Yellowstone'']. Washington, D.C. : U.S. G.P.O.
+*Parker, Gerry. (1995). "Eastern Coyote: Story of Its Success", Nimbus Publishing, Halifax, Nova Scotia, Canada.
+*Wagner, M. M. (c. 1920). [http://archive.org/details/tamecoyote00wagnrich ''The autobiography of a tame coyote'']. San Francisco, Harr Wagner pub. co.
+
+==External links==
+{{Commons|Coyote}}
+{{Wiktionary|coyote}}
+{{wikispecies|Canis latrans}}
+{{Wikisource1911Enc}}
+* {{ITIS |id=180599 |taxon=Canis latrans |accessdate=March 23, 2006}}
+* [http://wolf.nrdpfc.ca/westerncoyote.htm Western coyote], Wolf and Coyote DNA Bank @ Trent University
+* View occurrences of "[http://biodiversitylibrary.org/name/Canis_latrans Canis latrans]" in the [[Biodiversity Heritage Library]].
+
+{{Carnivora|Ca.}}
+{{North American Game}}
+
+{{Authority control}}
+[[Category:Coyotes]]
+[[Category:Wolves]]
+[[Category:Animals described in 1823]]
+[[Category:Fauna of the California chaparral and woodlands]]
+[[Category:Fauna of the Rocky Mountains]]
+[[Category:Fauna of the Western United States]]
+[[Category:Mammals of Canada]]
+[[Category:Mammals of Central America]]
+[[Category:Mammals of Costa Rica]]
+[[Category:Mammals of North America]]
+[[Category:Mammals of the United States]]
+[[Category:Mammals of Mexico]]
+[[Category:Mammals of Panama]]
+[[Category:Mammals of Honduras]]
+[[Category:Megafauna of North America]]
+[[Category:Urban animals]]
+[[Category:Pleistocene first appearances]]

@@ -1,0 +1,102 @@
+{{lowercase|title=ed (text editor)}}
+{{infobox software
+| name                   = ed
+| author                 = [[Ken Thompson]]
+| released               = {{Release year|df=yes|1971}}{{disputed inline|Release year|date=September 2015}}
+| operating system       = [[Unix-like]]
+| genre                  = [[Text editor]]
+}}
+
+'''ed''' is a [[line editor]] for the [[Unix]] operating system. It was one of the first parts of the Unix operating system that were developed, in August 1969,<ref name="penguin">{{cite book |first=Peter H. |last=Salus |authorlink=Peter H. Salus |title=The Daemon, the Gnu and the Penguin |url=http://www.groklaw.net/article.php?story=20050422235450910 |publisher=[[Groklaw]] |year=2005}}</ref> and is still a standard part of any [[POSIX]] compliant operating system.<ref>{{man|cu|ed|SUS}}</ref>
+
+==History and influence==
+The ed text editor was one of the first three key elements of the Unix operating system--assembler, editor, and shell--developed by [[Ken Thompson]] in August 1969 on a [[PDP-7]] at [[AT&T Bell Labs]].<ref>The Peter H. Salus, Daemon, the Gnu and the Penguin.  Ch. 2 & 3. Thursday, April 14 2005 @ 10:56 PM EDT. http://www.groklaw.net/article.php?story=20050414215646742 Accessed 10/29/2015.</ref>  Many features of ed came from the [[QED (text editor)|qed]] text editor developed at Thompson's [[alma mater]] [[University of California at Berkeley]].<ref>D. M. Ritchie and K. L. Thompson, "QED Text Editor", [http://cm.bell-labs.com/cm/cs/who/dmr/qedman.pdf MM-70-1373-3] (June 1970), reprinted as "QED Text Editor Reference Manual", MHCC-004, Murray Hill Computing, Bell Laboratories (October 1972).</ref> Thompson was very familiar with qed, and had reimplemented it on the [[Compatible Time-Sharing System|CTSS]] and [[Multics]] systems. Thompson's versions of qed were notable as the first to implement [[regular expression]]s. Regular expressions are also implemented in ed, though their implementation is considerably less general than that in qed.
+
+[[Dennis M. Ritchie]] produced what [[Doug McIlroy]] later described as the "definitive" ed,<ref name="reader">{{cite techreport |first1=M. D. |last1=McIlroy |authorlink1=Doug McIlroy |year=1987 |url=http://www.cs.dartmouth.edu/~doug/reader.pdf |title=A Research Unix reader: annotated excerpts from the Programmer's Manual, 1971–1986 |series=CSTR |number=139 |institution=Bell Labs}}</ref> and aspects of ed went on to influence [[Ex (editor)|ex]], which in turn spawned [[vi]].  The non-interactive Unix command [[grep]] was inspired by a common special uses of qed and later ed, where the command <tt>g/re/p</tt> means globally search for the regular expression <TT>re</TT> and print the lines containing it.  The Unix stream editor, [[sed]] implemented many of the scripting features of [[QED (text editor)|qed]] that were not supported by ed on Unix. In turn sed influenced the design of the programming language [[AWK programming language|AWK]] – which inspired aspects of [[Perl]].
+
+== Features ==
+Features of ed include:
+* available on essentially all Unix systems (and mandatory on systems conforming to the [[Single Unix Specification]]).
+* a modal editor supporting command mode, text mode and viewing mode
+* support for [[regular expression]]s
+* powerful automation can be achieved by feeding commands from standard input
+
+(In)famous for its terseness, ed gives almost no visual feedback,<ref name="norman"/> and has been called (by [[Peter H. Salus]]) "the most user-hostile editor ever created", even when compared to the contemporary (and notoriously complex) [[TECO (text editor)|TECO]].{{r|penguin}} For example, the message that ed will produce in case of error, or when it wants to make sure the user wishes to quit without saving, is "?".  It does not report the current filename or line number, or even display the results of a change to the text, unless requested. Older versions (ca. 1981) did not even ask for confirmation when a quit command was issued without the user saving changes.<ref name="norman">{{cite journal |title=The truth about UNIX |author=Donald A. Norman |year=1981 |journal=[[Datamation]] |url=http://www.ceri.memphis.edu/people/smalley/ESCI7205_misc_files/The_truth_about_Unix_cleaned.pdf}}</ref> This terseness was appropriate in the early versions of Unix, when consoles were [[teletype]]s, [[modem]]s were slow, and [[Random Access Memory|memory]] was precious. As computer technology improved and these constraints were loosened, editors with more visual feedback became the norm.
+
+In current practice, ed is rarely used interactively, but does find use in some [[shell script]]s.  For interactive use, ed was subsumed by the [[sam (program)|sam]], [[vi]] and [[Emacs]] editors in the 1980s. ed can be found on virtually every version of Unix and [[Linux]] available, and as such is useful for people who have to work with multiple versions of Unix. If something goes wrong, ed is sometimes the only editor available. This is often the only time when it is used interactively.
+
+The ed commands are often imitated in other line-based editors. For example, [[edlin|EDLIN]] in early [[MS-DOS]] versions and [[32-bit]] versions of [[Windows NT]] has a somewhat similar syntax, and text editors in many [[MUD]]s ([[LPMud]] and descendants, for example) use ed-like syntax. These editors, however, are typically more limited in function.
+
+== Example ==
+Here is an example transcript of an ed session. For clarity, commands and text typed by the user are in normal face, and output from ed is '''emphasized'''.
+
+ a
+ ed is the standard Unix text editor.
+ This is line number two.
+ .
+ 2i
+  &nbsp;
+ .
+ %l
+ '''ed is the standard Unix text editor$.'''
+ '''$'''
+ '''This is line number two$.'''
+ 3s/two/three/
+ ,l
+ '''ed is the standard Unix text editor$.'''
+ '''$'''
+ '''This is line number three$.'''
+ w text
+ '''65'''
+ q
+
+The end result is a simple text file containing the following text:
+
+ ed is the standard Unix text editor.
+  &nbsp;
+ This is line number three.
+
+Started with an empty file, the ''a'' command appends text (all ed commands are single letters). The command put ed in ''insert mode'', inserting the characters that follow and is terminated by a single dot on a line. The two lines that are entered before the dot end up in the file buffer. The <code>2i</code> command also goes into insert mode, and will insert the entered text (a single empty line in our case) before line two. All commands may be prefixed by a line number to operate on that line.
+
+In the line <code>%l</code>, the lowercase L stands for the list command. The command is prefixed by a range, in this case <code>%</code> which is a shortcut for <code>1,$</code>. A range is two line numbers separated by a comma (<code>$</code> means the last line). In return, ed lists all lines, from first to last. These lines are ended with dollar signs, so that white space at the end of lines is clearly visible.
+
+Once the empty line is inserted in line 2, the line which reads "This is line number two." is now actually the third line. This error is corrected with <code>3s/two/three/</code>, a substitution command. The <code>3</code> will apply it to the correct line; following the command is the text to be replaced, and then the replacement. Listing all lines with <code>,l</code> (a lone comma is also a synonym for <code>%</code>) the line is shown now to be correct.
+
+<code>w text</code> writes the buffer to the file "text" making ed respond with ''65'', the number of characters written to the file. <code>q</code> will end an ed session.
+
+== ed as a design archetype ==
+
+The influence of ed on later Unix utilities has been noted.  More generally, ed continues to serve as an interface model for programs that must modify record sequences and for which scriptability is extremely important, even when the records bear little resemblance to the text lines manipulated by ed itself.
+
+== See also ==
+* [[ex (text editor)]], originally an '''ex'''tended version of ''ed''.
+* [[vi]], the '''vi'''sual full-screen editor based on ''ex''.
+* [[sed]], the standard UNIX '''s'''tream '''ed'''itor based on the scripting features in ''ed''.
+* [[Edlin]], the standard MS-DOS line editor which was inspired by ''ed''.
+* [[Sam (text editor)]]
+* [[Editor war]]
+* [[List of Unix programs]]
+
+==Footnotes==
+{{reflist}}
+
+== External links ==
+* {{man|cu|ed|SUS|edit text}}
+* [http://man.cat-v.org/unix-1st/1/ed Manual page from Unix First Edition describing ed].
+* [http://www.gnu.org/software/ed/ed.html GNU ed homepage]
+* {{man|1|ed|v7|text editor}}
+* {{man|1|ed|Plan 9|text editor}}, a direct descendant of the original ed.
+* [http://gnuwin32.sourceforge.net/packages/ed.htm GNU ed for Win32]
+* [http://snap.nlc.dcccd.edu/learn/nlc/ed.html Unix Editors I]
+* [http://wiki.bash-hackers.org/howto/edit-ed Examples for ed in scripts]
+* [http://www.gnu.org/fun/jokes/ed.msg.html ed Humor ("Ed is the standard text editor")]
+* [http://www.darwinsys.com/history/hist.html A History of UNIX before Berkeley] section 3.1 describes the history of ed.
+{{unix commands}}
+{{Ken Thompson navbox}}
+
+[[Category:Unix text editors]]
+[[Category:OS X text editors]]
+[[Category:Standard Unix programs]]
+[[Category:Unix SUS2008 utilities]]
+[[Category:Line editor]]
+[[Category:1971 software]]

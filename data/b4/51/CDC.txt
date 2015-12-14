@@ -1,0 +1,63 @@
+{{Wiktionary|CDC}}
+'''CDC'''  may refer to:
+{{TOC right}}
+
+==Organizations==
+
+===Government===
+* [[Centers for Disease Control and Prevention]], a United States government public health agency
+* [[Centers for Disease Control (Republic of China)]], an agency in Taiwan (the Republic of China) that combats the threat of communicable diseases
+* [[Community Development Council]], Singapore government-led community programs
+* [[Community of Democratic Choice]], an intergovernmental organization in Eastern Europe to promote democracy and human rights
+* [[Canadian Dairy Commission]], a Canadian government Crown Corporation that oversees dairy production
+
+===Politics===
+* [[Congress for Democratic Change]], a Liberian political party
+* [[Democratic Convergence of Catalonia]] (Convergència Democràtica de Catalunya), a political party in Catalonia, Spain
+* [[California Democratic Council]], in the United States
+
+===Non-profit===
+* [[Community Development Corporation]], any non-profit organization that promotes and supports a community
+* [[Certified Development Company]]
+* Commission for Developing Countries, a Commission of the [[International Mathematical Union]]
+
+===Business===
+* [[CDC Group]], formerly the Commonwealth Development Corporation and Colonial Development Corporation, a British development organisation owned by the UK Government
+* [[Cameroon Development Corporation]], an agribusiness company located in Limbe, Cameroon
+* [[Control Data Corporation]], former supercomputer company
+** [[CDC Software]], a computer software company spun off from Control Data Corporation
+* [[ComfortDelGro Cabcharge]], a major Australian operator of commuter buses.
+* [[Construction Data Company]], also known as CDC News and CDC Publishing, a commercial construction reporting service
+* [[Loong Air]], by ICAO code
+
+===Other organizations===
+* [[Cult of the Dead Cow]] (cDc), a computer hacker and DIY media organization
+
+==Places==
+* [[Center Day Camp]], a summer day camp in North Windham, Maine, US
+* [[Centre de documentation collégiale]], specialized library in  Quebec, Canada
+* [[Communicable Disease Centre]], a hospital at Moulmein Road in Novena, Singapore
+* [[Cedar City Regional Airport]], by IATA code
+
+==Science==
+* [[Cholesterol-dependent cytolysin]], pore forming exotoxins, secreted by Gram positive bacteria
+* [[Cell-division cycle]], also cell cycle in biology
+** Cell-division cycle protein, e.g. [[Cdc42]]
+
+==Technology==
+* [[Change data capture]], a methodology used in  data warehousing and  databases
+* [[Clock domain crossing]], a signal that crosses between different clock domains of a system
+* [[Connected Device Configuration]], Java framework for building Java ME applications on embedded devices
+* [[Communications daughter card]], an Ethernet, Modem or Bluetooth expansion card for mobiles
+* [[Carbide-derived carbon]], a family of carbon structures with tunable properties produced via etching of metal carbides
+* [[USB communications device class]], a composite Universal Serial Bus device class
+
+==Other uses==
+* ''[[CDC?]]'', a children's book by William Steig, and sequel to ''CDB!''
+* [[Combat Direction Center]], the tactical center of an aircraft carrier
+* [[Cul de canard]], duck feathers used in fly fishing
+
+==See also==
+* [[C.DC.]], the botany author abbreviation of Anne Casimir Pyrame de Candolle
+
+{{disambiguation}}

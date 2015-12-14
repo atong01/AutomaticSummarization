@@ -1,0 +1,435 @@
+{{redirect2|Colorblind|Colourblind|color blindness in other species|Color vision|other uses|Colorblind (disambiguation)}}
+{{refimprove|date=April 2014}}
+{{repetition|date=July 2014}}<!--the "causes" section and the classification "by cause" section appear to vastly overlap.-->
+<!-- NOTE: The spelling of the word "color" or "colour" in this article should match the title, which uses American English. Please do not change the spelling. -->
+{{Infobox disease
+ | Name           = Color blindness or color deficiency
+ | Image          = Colour perception in different types of colour blindness.svg
+ | Caption        = Colors as perceived by subjects affected by different types of color blindness.
+ | Width          = 250px
+ | Field          = [[Ophthalmology]]
+ | DiseasesDB     = 2999
+ | ICD10          = {{ICD10|H|53|5|h|53}}
+ | ICD9           = {{ICD9|368.5}}
+ | ICDO           =
+ | OMIM           =
+ | MedlinePlus    = 001002
+ | eMedicineSubj  =
+ | MeshID         = D003117
+}}
+'''Color blindness''', or '''color vision deficiency''', is the inability or decreased ability to see [[color]], or [[color vision|perceive color differences]], under normal lighting conditions. Color blindness affects a significant percentage of the population.<ref name=pmid21774112>{{cite journal |last1=Wong |first1=Bang |title=Color blindness |journal=Nature Methods |volume=8 |issue=6 |pages=441 |year=2011 |pmid=21774112 |doi=10.1038/nmeth.1618 }}</ref> There is no actual blindness but there is a deficiency of color vision. The most usual cause is a fault in the development of one or more sets of [[retina]]l [[cone cell|cones]] that perceive color in light and transmit that information to the [[optic nerve]]. This type of color blindness is usually a [[sex linkage|sex-linked]] condition. The genes that produce [[photopigment]]s are carried on the X chromosome; if some of these genes are missing or damaged, color blindness will be expressed in males with a higher probability than in females because males only have one X chromosome, whereas females have two and a functional gene on only one of the X chromosomes is sufficient to yield the necessary photopigments.<ref>{{cite book|last=Carlson|first=Neil R.|title=Psychology: The Science of Behaviour|year=2007|publisher=Pearson Education|location=New Jersey, USA|isbn=978-0-205-64524-4|page=145}}</ref>
+
+Color blindness can also be produced by physical or chemical damage to the eye, the optic nerve, or parts of the brain. For example, people with [[achromatopsia]] suffer from a completely different disorder, but are nevertheless unable to see colors.
+
+Color blindness is usually classified as a mild disability, however there are occasional circumstances where it can give an advantage. Some studies conclude that color blind people are better at penetrating certain color camouflages. Such findings may give an evolutionary reason for the high prevalence of red–green color blindness.<ref name=Morgan>{{cite journal |last=Morgan |first=M. J. |last2=Adam |first2=A. |last3=Mollon |first3=J. D. |title=Dichromats detect colour-camouflaged objects that are not detected by trichromats |journal=Proc. Biol. Sci. |volume=248 |issue=1323 |pages=291–5 |date=June 1992 |pmid=1354367 |doi=10.1098/rspb.1992.0074 }}</ref> There is also a study suggesting that people with some types of color blindness can distinguish colors that people with normal color vision are not able to distinguish.<ref>{{cite journal |last1=Bosten |first1=J.M. |last2=Robinson |first2=J.D. |last3=Jordan |first3=G. |last4=Mollon |first4=J.D. |title=Multidimensional scaling reveals a color dimension unique to ‘color-deficient’ observers |journal=Current Biology |volume=15 |issue=23 |pages=R950–2 |year=2005 |pmid=16332521 |doi=10.1016/j.cub.2005.11.031 }}</ref>
+{{TOC limit|3}}
+
+==Background==
+{{Main|Trichromatic color vision}}
+
+The first scientific paper on the subject of color blindness, ''Extraordinary facts relating to the vision of colours'', was published by the English chemist [[John Dalton]] in 1798<ref name="dalton">{{cite journal | last1 = Dalton | first1 = J | year = 1798 | title = Extraordinary facts relating to the vision of colours: with observations | journal = Memoirs of the Literary and Philosophical Society of Manchester | volume = 5 | pages = 28–45 | oclc=9879327}}</ref> after the realization of his own color blindness. Because of Dalton's work, the general condition has been called ''daltonism'', although in English this term is now used only for [[#Red–green color blindness|deuteranopia]].
+
+Color blindness affects a large number of individuals, with protanopia and deuteranopia being the most common types.<ref name=pmid21774112/> In individuals with Northern European ancestry, as many as 8 percent of men and 0.4 percent of women experience congenital color deficiency.<ref>{{cite journal |last1=Chan |first1=Xin |last2=Goh |first2=Shi |last3=Tan |first3=Ngiap |title=Subjects with colour vision deficiency in the community: what do primary care physicians need to know? |journal=Asia Pacific Family Medicine |volume=13 |issue=1 |year=2014 |pages=10 |doi=10.1186/s12930-014-0010-3 }}</ref> The typical human [[retina]] contains two kinds of light cells: the [[rod cell]]s ([[Scotopic vision|active in low light]]) and the [[cone cell]]s ([[Photopic vision|active in normal daylight]]). Normally, there are three kinds of cone cells, each containing a different pigment, which are activated when the pigments absorb light. The [[spectral sensitivity|spectral sensitivities]] of the cones differ; one is most sensitive to short wavelengths, one to medium wavelengths, and the third to medium-to-long wavelengths within the [[visible spectrum]], with their peak sensitivities in the blue, green, and yellow-green regions of the spectrum, respectively. The absorption spectra of the three systems overlap, and combine to cover the visible spectrum. These receptors are known as short (S), medium (M),and long (L) wavelength cones, but are also often referred to as blue, green, and red cones, although this terminology is inaccurate.<ref>{{cite web|url=http://www.nhs.uk/Conditions/Colour-vision-deficiency/Pages/Causes.aspx |title=Colour vision deficiency - Causes |publisher=NHS Choices |date=2012-12-14 |accessdate=2014-05-24}}</ref>
+
+The receptors are each responsive to a wide range of wavelengths. For example, the long wavelength, "red", receptor has its peak sensitivity in the yellow-green, some way from the red end (longest wavelength) of the visible spectrum. The sensitivity of normal color vision actually depends on the overlap between the absorption ranges of the three systems: different colors are recognized when the different types of cone are stimulated to different degrees. Red light, for example, stimulates the long wavelength cones much more than either of the others, and reducing the wavelength causes the other two cone systems to be increasingly stimulated, causing a gradual change in hue.
+
+Many of the genes involved in color vision are on the [[X chromosome]], making color blindness much more common in males than in females because males only have one X chromosome, while females have two. Because this is an X-linked trait, an estimated 2–3% of women have a 4th color cone<ref name=Roth2006>{{cite web
+  |url=http://www.post-gazette.com/pg/06256/721190-114.stm
+  |title=Some women may see 100,000,000 colors, thanks to their genes
+  |last=Roth
+  |first=Mark
+  |publisher=Pittsburgh Post-Gazette
+  |date=13 September 2006
+}}</ref> and can be considered [[Tetrachromacy#Possibility of human tetrachromats|tetrachromats]], although it is not clear that this provides an advantage in color discrimination.
+
+==Classification==
+
+===By cause===
+Color vision deficiencies can be classified as acquired or inherited.
+<!-- Could you find a source for acquired -->
+* Acquired: Diseases, drugs (e.g., [[Plaquenil]]), and chemicals may cause color blindness.<ref>http://www.colourblindawareness.org/colour-blindness/acquired-colour-vision-defects/{{full|date=August 2015}}</ref><ref>{{MedlinePlusEncyclopedia|001002|Color blindness}}</ref>
+* Inherited: There are three types of inherited or congenital color vision deficiencies: monochromacy, dichromacy, and anomalous trichromacy.
+**[[Monochromacy]], also known as "total color blindness", is the lack of ability to distinguish colors (and thus the person views everything as if it were on a black and white television); caused by cone defect or absence. Monochromacy occurs when two or all three of the cone pigments are missing and color and lightness vision is reduced to one dimension.
+***[[Achromatopsia|Rod monochromacy]] (achromatopsia) is an exceedingly rare, nonprogressive inability to distinguish any colors as a result of absent or nonfunctioning retinal cones. It is associated with light sensitivity ([[photophobia]]), involuntary eye oscillations ([[nystagmus]]), and poor vision.
+***[[Cone monochromacy]] is a rare total color blindness that is accompanied by relatively normal vision, electroretinogram, and electrooculogram. Cone monochromacy can also be a result of having more than one type of dichromatic color blindness. People who have, for instance, both protanopia and tritanopia are considered to have cone monochromacy. Since cone monochromacy is the lack of/damage of more than one cone in retinal environment, having two types of dichromacy would be an equivalent.
+**[[Dichromacy]] is a moderately severe color vision defect in which one of the three basic color mechanisms is absent or not functioning. It is hereditary and, in the case of protanopia or deuteranopia, sex-linked, affecting predominantly males. Dichromacy occurs when one of the cone pigments is missing and color is reduced to two dimensions. Dichromacy conditions are labeled based on whether the "first" ([[Greek language|Greek]]: ''prot-'', referring to the red photoreceptors), "second" (''deuter-'', the green), or "third" (''trit-'', the blue) photoreceptors are affected.
+***Protanopia is a severe type of color vision deficiency caused by the complete absence of red retinal photoreceptors. Protans have difficulties to distinguish between blue and green colors and also between red and green colors. It is a form of dichromatism in which the subject can only perceive light wavelengths from 400 to 650&nbsp;nm, instead of the usual 700&nbsp;nm. Pure reds cannot be seen, instead appearing black; purple colors cannot be distinguished from blues; more orange-tinted reds may appear as very dim yellows, and all orange-yellow-green shades of too long a wavelength to stimulate the blue receptors appear as a similar yellow hue. It is hereditary, sex-linked, and present in 1% of males.
+***Deuteranopia is a type of color vision deficiency where the green photoreceptors are absent. It affects hue discrimination in the same way as protanopia, but without the dimming effect. Like protanopia, it is hereditary, sex-linked, and found in about 1% of the male population.<ref>{{cite web|url=http://www.konanmedical.com/types-of-color-deficiencies | title=Types of Color Deficiencies | website=Konan Medical | access-date=2014-04-26}}</ref>
+***Tritanopia is a very rare color vision disturbance in which there are only two cone pigments present and a total absence of blue retinal receptors.  Blues appear greenish, yellows and oranges appear pinkish, and purple colors appear deep red. It is related to chromosome 7. Unlike protanopia and deuteranopia, tritanopia and tritanomaly are not sex-linked traits and can be acquired rather than inherited and can be reversed in some cases. 
+**Anomalous [[trichromacy]] is a common type of inherited color vision deficiency, occurring when one of the three cone pigments is altered in its spectral sensitivity.
+***Protanomaly is a mild color vision defect in which an altered spectral sensitivity of red retinal receptors (closer to green receptor response) results in poor red–green hue discrimination. It is hereditary, sex-linked, and present in 1% of males. The difference with protanopia is that in this case the L-cone is present but malfunctioning, whereas in the earlier the L-cone is completely missing.<ref>http://www.color-blindness.com/protanopia-red-green-color-blindness/{{full|date=August 2015}}</ref>
+***Deuteranomaly, caused by a similar shift in the green retinal receptors, is by far the most common type of color vision deficiency, mildly affecting red–green hue discrimination in 5% of European males. It is hereditary and sex-linked. The difference with deuteranopia is that in this case the green sensitive cones are not missing but malfunctioning.<ref>http://www.color-blindness.com/deuteranopia-red-green-color-blindness/{{full|date=August 2015}}</ref>
+***Tritanomaly is a rare, hereditary color vision deficiency affecting blue–green and yellow–red/pink hue discrimination. It is related to chromosome "7".<ref>{{cite book|last=Tovee|first=Martin J.|title=An Introduction to the Visual System|year=2008|publisher=Cambridge University Press|isbn=0-521-70964-4}}</ref> The difference is that the S-cone is malfunctioning but not missing.<ref>http://www.color-blindness.com/tritanopia-blue-yellow-color-blindness/{{full|date=August 2015}}</ref>
+
+===By clinical appearance===
+Based on clinical appearance, color blindness may be described as total or partial. Total color blindness is much less common than partial color blindness.<ref>{{cite web|url=http://micro.magnet.fsu.edu/primer/lightandcolor/humanvisionhome.html|title=Human Vision and Color Perception|publisher=[[Florida State University]]|last1=Spring |first1=Kenneth R. |first2=Matthew J. |last2=Parry-Hill |first3=Thomas J. |last3=Fellers |first4=Michael W. |last4=Davidson |accessdate=2007-04-05}}</ref> There are two major types of color blindness: those who have difficulty distinguishing between red and green, and who have difficulty distinguishing between blue and yellow.<ref>{{cite web|url=http://www.digitalspaceart.com/articles/ColorBlindness.pdf |format=PDF |title=Accommodating Color Blindness |first=Paul S. |last=Hoffman |accessdate=2009-07-01 |deadurl=yes |archiveurl=https://web.archive.org/20080515103432/http://www.digitalspaceart.com/articles/ColorBlindness.pdf |archivedate=15 May 2008 }}</ref><ref>{{cite web|url=http://healthlink.mcw.edu/article/999211295.html |title=Severity of Colorblindness Varies |last=Neitz |first=Maureen E. |publisher=[[Medical College of Wisconsin]] |accessdate=2007-04-05 |deadurl=yes |archiveurl=https://web.archive.org/20070205055320/http://healthlink.mcw.edu:80/article/999211295.html |archivedate=5 February 2007 }}</ref>
+* Total color blindness
+* Partial color blindness
+**Red–green
+***Dichromacy (protanopia and deuteranopia)
+***Anomalous trichromacy (protanomaly and deuteranomaly)
+**Blue–yellow
+***Dichromacy (tritanopia)
+***Anomalous trichromacy (tritanomaly)
+***Blue-green trichromacy (tritanomaly)
+Immunofluorescent imaging is a way to determine red-green color coding. Conventional color coding is difficult for individuals with red-green color blindness (protanopia or deuteranopia) to discriminate. Replacing red with magenta (top{{where|date=July 2014}}) or green with turquoise (bottom{{where|date=July 2014}}) improves visibility for such individuals.<ref>{{cite journal |last1=Jones |first1=Sara A |last2=Shim |first2=Sang-Hee |last3=He |first3=Jiang |last4=Zhuang |first4=Xiaowei |title=Fast, three-dimensional super-resolution imaging of live cells |journal=Nature Methods |volume=8 |issue=6 |pages=499–508 |year=2011 |pmid=21552254 |pmc=3137767 |doi=10.1038/nmeth.1605 }}</ref>{{failed verification|date=July 2014}}
+
+==Causes==
+
+===Genetics===
+Color blindness can be inherited. It is most commonly inherited from mutations on the [[X chromosome]] but the mapping of the human genome has shown there are many causative mutations—mutations capable of causing color blindness originate from at least 19 different chromosomes and 56 different genes (as shown online at the [[Online Mendelian Inheritance in Man]] (OMIM) database at [[Johns Hopkins University]]).
+Two of the most common inherited forms of color blindness are protanopia and deuteranopia.<ref name=pmid21774112/>
+One of the common color vision defects is red-green deficiency which is present in about 8 percent of males and 0.5 percent of females of Northern European ancestry.<ref name="Albrecht2010">{{cite journal|last1=Albrecht|first1=Mario|title=Color blindness|journal=Nature Methods |volume=7 |issue=10|year=2010|pages=775–775|issn=1548-7091|doi=10.1038/nmeth1010-775a}}</ref>
+
+Some of the inherited diseases known to cause color blindness are:
+* [[cone dystrophy]]
+* [[cone-rod dystrophy]]
+* [[achromatopsia]] (a.k.a. rod monochromatism, stationary cone dystrophy or cone dysfunction syndrome)
+* [[blue cone monochromatism]] (a.k.a. blue cone monochromacy or X-linked achromatopsia)
+* [[Leber's congenital amaurosis]]
+* [[retinitis pigmentosa]] (initially affects rods but can later progress to cones and therefore color blindness).
+
+Inherited color blindness can be congenital (from birth), or it can commence in childhood or adulthood. Depending on the mutation, it can be stationary, that is, remain the same throughout a person's lifetime, or progressive. As progressive phenotypes involve deterioration of the retina and other parts of the eye, certain forms of color blindness can progress to legal blindness, i.e., an acuity of 6/60 or worse, and often leave a person with complete blindness.
+
+Color blindness always pertains to the cone photoreceptors in retinas, as the cones are capable of detecting the color frequencies of light.
+
+About 8 percent of males, but only 0.5 percent of females, are color blind in some way or another, whether it is one color, a color combination, or another mutation.<ref>{{cite book|title=Color Vision: From Genes to Perception|last=Sharpe |first=L.T. |last2=Stockman |first2=A. |last3=Jägle |first3=H. |last4=Nathans |first4=J. |editor1-last=Gegenfurtner |editor1-first=K. R. |editor2-last=Sharpe |editor2-first=L. T. |chapter=Opsin genes, cone photopigments, color vision and color blindness|publisher=[[Cambridge University Press]] |year=1999 |isbn=978-0-521-00439-8 |url=http://books.google.com/?id=4zQMQLLVkFYC}}</ref> The reason males are at a greater risk of inheriting an X linked mutation is that males only have one X chromosome (XY, with the Y chromosome carrying altogether different genes than the X chromosome), and females have two (XX); if a woman inherits a normal X chromosome in addition to the one that carries the mutation, she will not display the mutation. Men do not have a second X chromosome to override the chromosome that carries the mutation. If 5% of variants of a given gene are defective, the probability of a single copy being defective is 5%, but the probability that two copies are both defective is 0.05 &times; 0.05 = 0.0025, or just 0.25%.
+
+===Other causes===
+Other causes of color blindness include brain or retinal damage caused by [[shaken baby syndrome]], accidents and other trauma which produce swelling of the brain in the occipital lobe, and damage to the retina caused by exposure to [[ultraviolet light]] (10–300&nbsp;nm). Damage often presents itself later on in life.
+
+Color blindness may also present itself in the spectrum of degenerative diseases of the eye, such as age-related [[macular degeneration]], and as part of the retinal damage caused by [[diabetes]]. Another factor that may affect color blindness includes a deficiency in [[Vitamin A]].<ref>{{cite book |title=Complete Medical Encyclopedia |year=2003|publisher=Random House Reference |location=New York, NY |isbn=0-8129-9100-1 |page=388 |author=American Medical Association |edition=First |editor1-last=Leikin |editor1-first=Jerrold B. |editor2-last=Lipsky |editor2-first=Martin S. |accessdate=1 December 2011|format=Encyclopedia}}</ref>
+
+===Types===
+{{Unreferenced section|date=August 2012}}
+The different kinds of inherited color blindness result from partial or complete loss of function of one or more of the different cone systems. When one cone system is compromised, [[dichromacy]] results. The most frequent forms of human color blindness result from problems with either the middle or long wavelength sensitive cone systems, and involve difficulties in discriminating reds, yellows, and greens from one another. They are collectively referred to as "red–green color blindness", though the term is an over-simplification and is somewhat misleading. Other forms of color blindness are much more rare. They include problems in discriminating blues from greens and yellows from reds/pinks, and the rarest forms of all, complete color blindness or ''[[monochromacy]]'', where one cannot distinguish any color from [[gray (color)|grey]], as in a [[black-and-white]] movie or photograph.
+
+===Congenital===
+Congenital color vision deficiencies are subdivided based on the number of primary hues needed to match a given sample in the [[visible spectrum]].
+
+====Monochromacy====
+[[Monochromacy]] is the condition of possessing only a single channel for conveying information about color. Monochromats possess a complete inability to distinguish any colors and perceive only variations in brightness. It occurs in two primary forms:
+# '''[[Rod monochromacy]]''', frequently called ''achromatopsia'', where the retina contains no cone cells, so that in addition to the absence of color discrimination, vision in lights of normal intensity is difficult. While normally rare, achromatopsia is very common on the island of [[Pingelap]], a part of the [[Pohnpei]] state, [[Federated States of Micronesia]], where it is called ''maskun'': about 10% of the population there has it, and 30% are unaffected carriers. The island was devastated by a storm in the 18th century (an example of a [[Population bottleneck|genetic bottleneck]]) and one of the few male survivors carried a gene for achromatopsia.  The population grew to several thousand before foreign troops introduced diseases to the island in the 1940s.  
+# '''[[Cone monochromacy]]''' is the condition of having both rods and cones, but only a single kind of cone. A cone monochromat can have good pattern vision at normal daylight levels, but will not be able to distinguish hues. ''' Blue cone monochromacy (X chromosome)''' is caused by lack of functionality of L and M cones (red and green). It is encoded at the same place as red–green color blindness on the X chromosome. Peak spectral sensitivities are in the blue region of the visible spectrum (near 440&nbsp;nm). People with this condition generally show [[nystagmus]] ("jiggling eyes"), photophobia (light sensitivity), reduced [[visual acuity]], and [[myopia]] (nearsightedness).<ref>{{cite journal |last1=Weiss |first1=A. H. |last2=Biersdorf |first2=W. R. |title=Blue cone monochromatism |journal=J Pediatr Ophthalmol Strabismus |volume=26 |issue=5 |pages=218–23 |year=1989 |pmid=2795409 }}</ref> Visual acuity usually falls to the 20/50 to 20/400 range.
+
+====Dichromacy====
+[[File:ConeMosaics.jpg|thumb|400px|left|Illustration of the distribution of cone cells in the fovea of an individual with normal color vision (left), and a color blind (protanopic) retina. Note that the center of the fovea holds very few blue-sensitive cones.]]
+<br>
+Protanopes, deuteranopes, and tritanopes are dichromats; that is, they can match any color they see with some mixture of just two [[primary color]]s (whereas normally humans are [[Trichromacy|trichromats]] and require three primary colors). These individuals normally know they have a color vision problem and it can affect their lives on a daily basis. Two percent of the male population exhibit severe difficulties distinguishing between red, orange, yellow, and green. A certain pair of colors, that seem very different to a normal viewer, appear to be the same color (or different shades of same color) for such a dichromat. The terms protanopia, deuteranopia, and tritanopia come from Greek and literally mean "inability to see (''anopia'') with the first (''prot-''), second (''deuter-''), or third (''trit-'') [cone]", respectively.
+{{clear}}
+
+* '''Protanopia''' (1% of males): Lacking the long-wavelength sensitive retinal cones, those with this condition are unable to distinguish between colors in the [[green]]–[[yellow]]–[[red]] section of the spectrum. They have a neutral point at a [[cyan]]-like wavelength around 492&nbsp;nm (see [[spectral color]] for comparison)&nbsp;– that is, they cannot discriminate light of this wavelength from [[white]]. For a protanope, the brightness of red, orange, and yellow are much reduced compared to normal. This dimming can be so pronounced that reds may be confused with black or dark gray, and red traffic lights may appear to be extinguished. They may learn to distinguish reds from yellows primarily on the basis of their apparent brightness or lightness, not on any perceptible hue difference. [[shades of violet|Violet]], [[shades of purple|lavender, and purple]] are indistinguishable from various [[shades of blue]] because their reddish components are so dimmed as to be invisible. For example, [[pink]] flowers, reflecting both red light and blue light, may appear just blue to the protanope. A very few people have been found who have one normal eye and one protanopic eye. These ''unilateral dichromats'' report that with only their protanopic eye open, they see wavelengths shorter than neutral point as blue and those longer than it as yellow. This is a rare form of color blindness.
+* '''Deuteranopia''' (1% of males): Lacking the medium-wavelength cones, those affected are again unable to distinguish between colors in the green–yellow–red section of the spectrum. Their neutral point is at a slightly longer wavelength, 498&nbsp;nm, a more greenish hue of cyan. A deuteranope suffers the same hue discrimination problems as protanopes, but without the abnormal dimming. [[line of purples|Purple colors]] are not perceived as something opposite to spectral colors; all these appear similarly. This form of colorblindness is also known as ''Daltonism'' after [[John Dalton (scientist)|John Dalton]] (his diagnosis was confirmed as deuteranopia in 1995, some 150 years after his death, by [[DNA]] analysis of his preserved eyeball). Equivalent forms for daltonism in [[Romanic languages]] such as ''daltonismo'' ([[Spanish language|Spanish]], [[Portuguese language|Portuguese]] and [[Italian language|Italian]]), ''daltonisme'' ([[French language|French]]), ''daltonism'' ([[Romanian language|Romanian]]) are still used to describe color blindess in a broad sense or deuteranopia in a more restricted sense. Deuteranopic unilateral dichromats report that with only their deuteranopic eye open, they see wavelengths shorter than neutral point as blue and longer than it as yellow.<ref>
+{{cite book
+ | title = Contributions to color science
+ | author = David L. MacAdam (ed.) and Deane B. Judd
+ | publisher = NBS
+ | year = 1979
+ | page = 584
+ | url = http://books.google.com/books?id=jgz_iI8NAzYC&pg=PA584
+ }}</ref>
+
+* '''Tritanopia''' (less than 1% of males and females): Lacking the short-wavelength cones, those affected see short-wavelength colors ([[blue]], [[indigo]] and a spectral [[Violet (color)|violet]]) greenish and drastically dimmed, some of these colors even as [[black]]. Yellow is indistinguishable from [[pink]], and purple colors are perceived as various [[shades of red]]. This form of color blindness is not sex-linked.
+
+====Anomalous trichromacy====
+Anomalous trichromacy is the least serious type of color deficiency.<ref>{{cite journal |last1=Simunovic |first1=M P |title=Colour vision deficiency |journal=Eye |volume=24 |issue=5 |pages=747–55 |year=2010 |pmid=19927164 |doi=10.1038/eye.2009.251 }}</ref> People with protanomaly, deuteranomaly, or tritanomaly are trichromats, but the color matches they make differ from the normal. They are called anomalous trichromats. In order to match a given spectral yellow light, protanomalous observers need more red light in a red/green mixture than a normal observer, and deuteranomalous observers need more green. From a practical standpoint though, many protanomalous and deuteranomalous people have very little difficulty carrying out tasks that require normal color vision. Some may not even be aware that their color perception is in any way different from normal.
+
+Protanomaly and deuteranomaly can be diagnosed using an instrument called an [[anomaloscope]], which mixes spectral red and green lights in variable proportions, for comparison with a fixed spectral yellow. If this is done in front of a large audience of males, as the proportion of red is increased from a low value, first a small proportion of the audience will declare a match, while most will see the mixed light as greenish; these are the deuteranomalous observers. Next, as more red is added the majority will say that a match has been achieved. Finally, as yet more red is added, the remaining, protanomalous, observers will declare a match at a point where normal observers will see the mixed light as definitely reddish.{{citation needed|date=August 2015}}
+* '''Protanomaly''' (1% of males, 0.01% of females):<ref name="KallColor">{{cite book |first1=Michael |last1=Kalloniatis |first2=Charles |last2=Luu |date=July 9, 2007 |chapter=The Perception of Color |chapterurl=http://www.ncbi.nlm.nih.gov/books/NBK11538/ |pmid=21413396 |editor1-first=Helga |editor1-last=Kolb |editor2-first=Eduardo |editor2-last=Fernandez |editor3-first=Ralph |editor3-last=Nelson |title=Webvision: The Organization of the Retina and Visual System}}</ref> Having a mutated form of the long-wavelength (red) pigment, whose peak sensitivity is at a shorter wavelength than in the normal retina, protanomalous individuals are less sensitive to red light than normal. This means that they are less able to discriminate colors, and they do not see mixed lights as having the same colors as normal observers. They also suffer from a darkening of the red end of the spectrum. This causes reds to reduce in intensity to the point where they can be mistaken for black. Protanomaly is a fairly rare form of color blindness, making up about 1% of the male population. Both protanomaly and deuteranomaly are carried on the X chromosome.
+* '''Deuteranomaly''' (most common—6% of males, 0.4% of females):<ref name="KallColor"/> These individuals have a mutated form of the medium-wavelength (green) pigment. The medium-wavelength pigment is shifted towards the red end of the spectrum resulting in a reduction in sensitivity to the green area of the spectrum. Unlike protanomaly the intensity of colors is unchanged. This is the most common form of color blindness, making up about 6% of the male population. The deuteranomalous person is considered "green weak". For example, in the evening, dark green cars appear to be black to Deuteranomalous people. Similar to the protanomates, deuteranomates are poor at discriminating small differences in [[hue]]s in the red, orange, yellow, green region of the spectrum. They make errors in the naming of hues in this region because the hues appear somewhat shifted towards green. One very important difference between deuteranomalous individuals and protanomalous individuals is deuteranomalous individuals do ''not'' have the loss of "brightness" problem.
+* '''Tritanomaly''' (equally rare for males and females [0.01% for both]):<ref name="KallColor"/> Having a mutated form of the short-wavelength (blue) pigment. The short-wavelength pigment is shifted towards the green area of the spectrum. This is the rarest form of anomalous trichromacy color blindness. Unlike the other anomalous trichromacy color deficiencies, the mutation for this color blindness is carried on [[chromosome 7]]. Therefore, it is equally prevalent in both male & female populations. The OMIM gene code for this mutation is 304000 "Colorblindness, Partial Tritanomaly".<ref>{{cite web | title = Disease-causing Mutations and protein structure | url = http://www.biochem.ucl.ac.uk/bsm/humgen/chr__034.html#304000 | publisher = UCL Biochemistry BSM Group | accessdate = 2007-04-02}}</ref>
+
+===Total color blindness===
+''[[Achromatopsia]]'' is strictly defined as the inability to see color. Although the term may refer to acquired disorders such as [[cerebral achromatopsia]] also known as color agnosia, it typically refers to congenital color vision disorders (i.e. more frequently [[rod monochromacy]] and less frequently [[cone monochromacy]]).<ref>{{cite web|url=http://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/|title=Types of Colour Blindness|work=Colour Blind Awareness}}</ref><ref name=blom>
+{{cite book
+ | title = A Dictionary of Hallucinations
+ | first= Jan Dirk |last=Blom
+ | publisher = Springer
+ | year = 2009
+ | isbn = 978-1-4419-1222-0
+ | page = 4
+ | url = http://books.google.com/books?id=KJtQptBcZloC&pg=PA4
+ }}</ref>
+ 
+In cerebral achromatopsia, a person cannot perceive colors even though the eyes are capable of distinguishing them. Some sources do not consider these to be true color blindness, because the failure is of perception, not of vision. They are forms of [[visual agnosia]].<ref name=blom/>
+
+===Red–green color blindness===
+[[Image:X-linked recessive.svg|thumb|X-linked recessive inheritance]]
+Protanopia, deuteranopia, protanomaly, and deuteranomaly are commonly inherited forms of red-green color blindness which affect a substantial portion of the human population. Those affected have difficulty with discriminating red and green hues due to the absence or mutation of the red or green retinal photoreceptors.<ref name=pmid21774112/><ref>{{cite journal |last1=Neitz |first1=Jay |last2=Neitz |first2=Maureen |title=The genetics of normal and defective color vision |journal=Vision Research |volume=51 |issue=7 |pages=633–51 |year=2011 |pmid=21167193 |pmc=3075382 |doi=10.1016/j.visres.2010.12.002 }}</ref> It is [[sex-linked]]: genetic red–green color blindness affects males much more often than females, because the [[gene]]s for the red and green color receptors are located on the X [[chromosome]], of which males have only one and females have two. Females (46, XX) are red–green color blind only if ''both'' their X chromosomes are defective with a similar deficiency, whereas males (46, XY) are color blind if their single X chromosome is defective.<ref>{{cite journal |last1=Fareed |first1=Mohd |last2=Anwar |first2=Malik Azeem |last3=Afzal |first3=Mohammad |title=Prevalence and gene frequency of color vision impairments among children of six populations from North Indian region |journal=Genes & Diseases |volume=2 |issue=2 |year=2015 |pages=211–8 |doi=10.1016/j.gendis.2015.02.006}}</ref>
+
+The gene for red–green color blindness is transmitted from a color blind male to all his daughters who are [[Zygosity|heterozygote]] carriers and are usually unaffected. In turn, a carrier woman has a fifty percent chance of passing on a mutated X chromosome region to each of her male offspring. The sons of an affected male will not inherit the trait from him, since they receive his Y chromosome and not his (defective) X chromosome. Should an affected male have children with a carrier or colorblind woman, their daughters may be colorblind by inheriting an affected X chromosome from each parent.{{citation needed|date=August 2015}}
+
+Because one X chromosome is [[Barr body|inactivated]] at random in each cell during a woman's development, it is possible for her to have four different cone types, as when a carrier of protanomaly has a child with a deuteranomalic man. Denoting the normal vision alleles by P and D and the anomalous by p and d, the carrier is PD pD and the man is Pd. The daughter is either PD Pd or pD Pd. Suppose she is pD Pd. Each cell in her body expresses either her mother's chromosome pD or her father's Pd. Thus her red–green sensing will involve both the normal and the anomalous pigments for both colors. Such females are [[Tetrachromacy|tetrachromats]], since they require a mixture of four spectral lights to match an arbitrary light.{{citation needed|date=August 2015}}
+
+Red-green color blindness can be caused by [[ethambutol]].<ref>{{cite web|url=http://www.rxlist.com/myambutol-drug.htm |title=Myambutol (Ethambutol) Drug Information: Description, User Reviews, Drug Side Effects, Interactions - Prescribing Information at RxList |publisher=Rxlist.com |date= |accessdate=2014-05-24}}</ref>
+
+===Blue–yellow color blindness===
+{{Unreferenced section|date=August 2012}}
+Those with tritanopia and tritanomaly have difficulty discriminating between bluish and greenish hues, as well as yellowish and reddish hues.
+
+Color blindness involving the inactivation of the short-wavelength sensitive cone system (whose absorption spectrum peaks in the bluish-violet) is called '''tritanopia''' or, loosely, blue–yellow color blindness. The tritanopes neutral point occurs near a yellowish 570&nbsp;nm; green is perceived at shorter wavelengths and red at longer wavelengths.<ref>{{cite book|last1=Goldstein|first1=E. Bruce|title=Sensation and perception|date=2007|publisher=Thomson|location=Wadsworth|isbn=978-0-534-55810-9|page=152|edition=7th}}</ref> Mutation of the short-wavelength sensitive cones is called '''tritanomaly'''. Tritanopia is equally distributed among males and females. Jeremy H. Nathans (with the [[Howard Hughes Medical Institute]]) demonstrated that the gene coding for the blue receptor lies on chromosome 7, which is shared equally by males and females. Therefore, it is not sex-linked. This gene does not have any neighbor whose DNA sequence is similar. Blue color blindness is caused by a simple mutation in this gene.
+
+==Diagnosis==
+<!-- Before removing these images, please review the Talk archives. If you do remove them, please explain why on the Talk page. -->
+[[Image:Ishihara 9.png|right|thumb|'''Example of an Ishihara color test plate.'''<ref group=Note name="tests">Because of variations in computer displays, these illustrations may not be accurately rendered.</ref> The numeral "74" should be clearly visible to viewers with normal color vision. Viewers with [[dichromacy]] or anomalous [[trichromacy]] may read it as "21", and viewers with [[achromatopsia]] may not see numbers.]]
+[[Image:Ishihara compare 1.jpg|right|thumb|An Ishihara test image as seen by subjects with normal color vision and by those with a variety of color deficiencies]]
+
+The [[Ishihara color test]], which consists of a series of pictures of colored spots, is the test most often used to diagnose red–green color deficiencies.<ref>{{cite journal |last1=Gordon |first1=N |title=Colour blindness |journal=Public Health |volume=112 |issue=2 |pages=81–4 |year=1998 |pmid=9581449 |doi=10.1038/sj.ph.1900446 }}</ref> A figure (usually one or more [[Arabic numerals|Arabic digits]]) is embedded in the picture as a number of spots in a slightly different color, and can be seen with normal color vision, but not with a particular color defect. The full set of tests has a variety of figure/background color combinations, and enable diagnosis of which particular visual defect is present. The anomaloscope, described above, is also used in diagnosing anomalous trichromacy.
+{{quote|Position yourself about 75cm from your monitor so that the colour test image you are looking at is at eye level, read the description of the image and see what you can see!! It is not necessary in all cases to use the entire set of images. In a large scale examination the test can be simplified to 6 tests; test, one of tests 2 or 3, one of tests 4, 5, 6 or 7, one of tests 8 or 9, one of tests 10, 11, 12 or 13 and one of tests 14 or 15.{{cite quote|date=August 2015}}}}
+
+Because the Ishihara color test contains only numerals, it may not be useful in diagnosing young children, who have not yet learned to use numerals. In the interest of identifying these problems early on in life, alternative color vision tests were developed using only symbols (square, circle, car).
+
+Besides the Ishihara color test, the US Navy and US Army also allow testing with the [[Farnsworth Lantern Test]]. This test allows 30% of color deficient individuals, whose deficiency is not too severe, to pass.
+
+Another test used by clinicians to measure chromatic discrimination is the [[Farnsworth-Munsell 100 hue test]]. The patient is asked to arrange a set of colored caps or chips to form a gradual transition of color between two anchor caps.<ref>{{cite journal |last1=Kinnear |first1=PR |last2=Sahraie |first2=A |title=New Farnsworth-Munsell 100 hue test norms of normal observers for each year of age 5-22 and for age decades 30-70 |journal=The British Journal of Ophthalmology |volume=86 |issue=12 |pages=1408–11 |year=2002 |pmid=12446376 |pmc=1771429 |doi=10.1136/bjo.86.12.1408 }}</ref>
+
+The HRR color test (developed by Hardy, [[Gertrude Rand|Rand]], and Rittler) is a red-green color test that, unlike the Ishihara, also has plates for the detection of the tritan defects.<ref>{{cite journal |last1=Cole |first1=Barry L |last2=Lian |first2=Ka-Yee |last3=Lakkis |first3=Carol |title=The new Richmond HRR pseudoisochromatic test for colour vision is better than the Ishihara test |journal=Clinical and Experimental Optometry |volume=89 |issue=2 |pages=73–80 |year=2006 |pmid=16494609 |doi=10.1111/j.1444-0938.2006.00015.x }}</ref>
+
+Most clinical tests are designed to be fast, simple, and effective at identifying broad categories of color blindness. In academic studies of color blindness, on the other hand, there is more interest in developing flexible tests to collect thorough datasets, identify [[copunctal point]]s, and measure [[just noticeable difference]]s.<ref>{{cite journal |last1=Toufeeq |first1=A |title=Specifying colours for colour vision testing using computer graphics |journal=Eye |volume=18 |issue=10 |pages=1001–5 |year=2004 |pmid=15192692 |doi=10.1038/sj.eye.6701378 }}</ref>
+
+==Management==
+There is generally no treatment to cure color deficiencies. ″The American Optometric Association reports a contact lens on one eye can increase the ability to differentiate between colors, though nothing can make you truly see the deficient color.″<ref>http://www.aoa.org/patients-and-public/eye-and-vision-problems/glossary-of-eye-and-vision-conditions/color-deficiency?sso=y{{full|date=August 2015}}</ref> Optometrists can supply colored spectacle lenses or a single red-tint contact lens to wear on the non-dominant eye, but although this may improve discrimination of some colors, it can make other colors more difficult to distinguish. A 1981 review of various studies to evaluate the effect of the X-chrom contact lens concluded that, while the lens may allow the wearer to achieve a better score on certain color vision tests, it did not correct color vision in the natural environment.<ref>{{cite journal |last=Siegel |first=I. M. |title=The X-Chrom lens. On seeing red |journal=Surv Ophthalmol |volume=25 |issue=5 |pages=312–24 |year=1981 |pmid=6971497}}</ref> A case history using the X-Chrom lens for a rod monochromat is reported<ref>{{cite journal |last1=Zeltzer |first1=HI |title=Use of modified X-Chrom for relief of light dazzlement and color blindness of a rod monochromat |journal=Journal of the American Optometric Association |volume=50 |issue=7 |pages=813–8 |year=1979 |pmid=315420 }}</ref> and an X-Chrom manual is online.<ref>[https://artoptical.com/lenses/special-lens-designs/x-chrom/ An X-Chrom manual]</ref>
+The [[GNOME]] [[desktop environment]] provides colorblind accessibility using the gnome-mag and the libcolorblind software. Using a gnome applet, the user may switch a color filter on and off, choosing from a set of possible color transformations that will displace the colors in order to disambiguate them. The software enables, for instance, a colorblind person to see the numbers in the Ishihara test.
+
+Many applications for iPhone and iPad have been developed to help colorblind people to view the colors in a better way. Many applications launch a sort of simulation of colorblind vision to make normal-view people understand how the color-blinds see the world. Others allow a correction of the image grabbed from the camera with a special "daltonizer" algorithm.
+
+In September 2009, the journal ''[[Nature (journal)|Nature]]'' reported that researchers at the [[University of Washington]] and [[University of Florida]] were able to give trichromatic vision to [[squirrel monkeys]], which normally have only dichromatic vision, using [[gene therapy]].<ref>{{cite journal |last1=Dolgin |first1=Elie |title=Colour blindness corrected by gene therapy |journal=Nature |year=2009 |doi=10.1038/news.2009.921}}</ref>
+
+In 2003, a cybernetic device called [[eyeborg]] was developed to allow the wearer to hear sounds representing different colors.<ref>Alfredo M. Ronchi: ''Eculture: Cultural Content in the Digital Age.'' Springer (New York, 2009). p. 319 ISBN 978-3-540-75273-8</ref> Achromatopsic artist [[Neil Harbisson]] was the first to use such a device in early 2004; the eyeborg allowed him to start painting in color by memorizing the sound corresponding to each color. In 2012, at a [[TED Conference]], Harbisson explained how he could now perceive colors outside the ability of human vision.<ref>[http://www.ted.com/talks/neil_harbisson_i_listen_to_color.html "I listen to color"], Neil Harbisson at TED Global, 27 June 2012.</ref>
+Portuguese Designer Miguel Neiva developed a code system, named [[Coloradd]], based on five basic shapes that, when combined, make it easier to identify various colors for colorblind people.
+Its use is currently{{When|date=May 2015}} expanding in Portugal (hospitals, transportation, education) and in other countries.
+
+Lenses that filter certain wavelengths of light can allow people suffering from a cone anomaly, but not dichromacy, to see a better spectrum of colors, especially those with classic "red/green" color blindness. They work by notching out wavelengths that strongly stimulate both red and green cones in a deuter- or protanomalous person, improving the distinction between the two cones' signals.  As of 2013, sunglasses that enhance colors for many colorblind people are available commercially.<ref>[http://www.smithsonianmag.com/innovation/scientist-accidentally-developed-sunglasses-that-could-correct-color-blindness-180954456/?no-ist A Scientist Accidentally Developed Sunglasses That Could Correct Color Blindness]</ref><ref>[http://enchroma.com/technology/ Introducing EnChroma]</ref><ref>{{cite news|last1=Pogue|first1=David|title=Glasses That Solve Colorblindness, for a Big Price Tag|url=http://pogue.blogs.nytimes.com/2013/08/15/glasses-that-solve-colorblindness-for-a-big-price-tag/?_r=0|accessdate=22 July 2015|publisher=The New York Times|date=15 August 2013}}</ref>
+
+==Epidemiology==
+Color blindness affects a significant number of people, although exact proportions vary among groups. In Australia, for example, it occurs in about 8 percent of males and only about 0.4 percent of females. Isolated communities with a restricted gene pool sometimes produce high proportions of color blindness, including the less usual types. Examples include rural [[Finland]], [[Hungary]], and some of the [[Scotland|Scottish]] islands. In the United States, about 7 percent of the male population—or about 10.5 million men—and 0.4 percent of the female population either cannot distinguish red from green, or see red and green differently from how others do (Howard Hughes Medical Institute, 2006). More than 95 percent of all variations in human color vision involve the red and green receptors in male eyes. It is very rare for males or females to be "blind" to the blue end of the spectrum.<ref>{{cite web|last= Ananya|first=Mandal|title=Color Blindness Prevalence|url=http://www.news-medical.net/health/Color-Blindness-Prevalence.aspx|work=Health|accessdate=27 February 2014}}</ref>
+
+{| class="wikitable"
+|+ Prevalence of color blindness{{clarify|date=March 2014}}<!--study? year? test sample?--><ref>{{cite web|title=Causes and Incidence of Colorblindness|url=http://www.webexhibits.org/causesofcolor/2C.html|work=Causes of Color|accessdate=27 February 2014}}{{unreliable source?|date=March 2014}}</ref>
+|-
+! !! Males !! Females
+|-
+| '''Dichromacy''' || 2.4% || 0.03%
+|-
+| Protanopia (red deficient: L cone absent) || 1.3% || 0.02%
+|-
+| Deuteranopia (green deficient: M cone absent) || 1.2% || 0.01%
+|-
+| Tritanopia (blue deficient: S cone absent) || 0.001% || 0.03%
+|-
+| '''Anomalous Trichromacy''' || 6.3% || 0.37%
+|-
+| Protanomaly (red deficient: L cone defect) || 1.3% || 0.02%
+|-
+| Deuteranomaly (green deficient: M cone defect) || 5.0% || 0.35%
+|-
+| Tritanomaly (blue deficient: S cone defect) || 0.0001% || 0.0001%
+|}
+
+===Frequency of red-green color blindness in males of various populations===
+{| border=1 cellpadding=4 cellspacing=0 class="toccolours" style="align: left; margin: 0.5em 0 0 0; border-style: solid; border: 1px solid #999; border-right-width: 2px; border-bottom-width: 2px; border-collapse: collapse; font-size: 100%;"
+|- 
+| style="background:#ddffdd;" | '''Population'''
+|  style="background:#f3fff3;" align="center" | '''N'''
+| colspan=1 style="background:#ddffdd;" align="center" | '''%'''
+|-
+| [[Arabs]] ([[Druzes]])
+|align="right"| 337
+|align="right"| 10.0
+|- 
+| style="background:#ddffdd;" | [[Aboriginal Australians]]
+| align="right"|4,455
+|align="right"| 1.9
+|- 
+| [[Belgians]]
+| align="right" | 9,540
+| align="right" | 7.4
+|-
+| style="background:#ddffdd;" | [[Bosnians]]
+| align="right" | 4,836
+| align="right" |6.2
+|-
+| [[Britons]]
+| align="right" | 16,180
+| align="right"| 6.6
+|-
+| style="background:#ddffdd;" | [[Chinese people|Chinese]]
+| align="right" | 1,164
+| align="right" | 6.9
+|-
+|[[Dutch people|Dutch]]
+|align="right"| 3,168  
+|align="right"| 8.0
+|-
+| style="background:#ddffdd;" | [[Eskimo]]
+| align="right" |297
+| align="right" |2.5 
+|-
+|[[Fiji|Fiji Islanders ]]
+| align="right" | 608
+| align="right" | 0.8
+|-
+| style="background:#ddffdd;" |[[French people|French]]
+|align="right"| 1,243  
+|align="right"| 8.6
+|-
+|[[Germans]]
+| align="right" | 7,861
+| align="right" | 7.7
+|-
+| style="background:#ddffdd;" | [[Hutu]]
+| align="right" |1,000
+| align="right" |2.9
+|-
+| [[India]] ([[Andra Pradesh]])
+| align="right" |292
+| align="right" |7.5
+|-
+| style="background:#ddffdd;" | [[Iranian people|Iranians]]
+| align="right" |16,180
+| align="right" |6.6
+|-
+| [[Japanese people|Japanese]]
+| align="right" |259,000
+| align="right" |4.0
+|-
+| style="background:#ddffdd;" | [[Navajo people|Navajo]]
+| align="right" |571
+| align="right" |2.3
+|-
+| [[Norwegians]]
+| align="right" |9,047
+| align="right" |9.0
+|-
+| style="background:#ddffdd;" | [[Mexicans]]
+| align="right" |571
+| align="right" |2.3
+|-
+|[[Russians]]
+|align="right"| 1,343   
+|align="right"| 9.2
+|-
+| style="background:#ddffdd;" |[[Scottish people|Scots]]  
+|align="right"| 463 
+|align="right"| 7.8
+|-
+| [[Swiss people|Swiss]]
+| align="right" |2,000
+| align="right" |8.0
+|-
+
+| style="background:#ddffdd;" | [[Tibetans]]
+| align="right" |241
+| align="right" |5.0
+|-
+| [[Tswana people|Tswana]]
+| align="right" |407
+| align="right" |2.0
+|-
+|style="background:#ddffdd;" | [[Tutsi]]
+| align="right" |1,000
+| align="right" |2.5
+|-
+|[[Voivodina|Vojvodinians]]
+|align="right"| 4,750  
+|align="right"| 7.4
+|-
+| style="background:#ddffdd;" | [[Democratic Republic of the Congo|DR Congolese]]
+| align="right" |929
+| align="right" |1.7
+|-
+|}
+<ref>Harrison et al. (1977): Human Biology, Oxford University Press, Oxford, ISBN 0-19-857164-X; ISBN 0-19-857165-8.</ref><ref>Hadžiselimović R., Berberović Lj., Sofradžija A. (1980): Populacijska genetika viđenja crvenog i zelenog dijela spektra u stanovništvu Bosne i Hercegovine / Population genetics of red and green spectrum vision of the population of Bosnia and Herzegovina. God. Biol. inst. Univ. u Sarajevu /  Annual  of Institute of Biology, University of Sarajevo, 33: 87-97.</ref>
+
+==Society and culture==
+
+===Design implications===
+[[File:Safe Chart Colors-F99-FEC-ADD.jpg|thumb|right|300px|alt=snippet of colored cells in a table (foreground), surrounded in background showing how the image appears in color-blindness simulations.|Testing the colors of a web chart, ''(center)'', to ensure that no information is lost to the various forms of color-blindness.]]
+{{Unreferenced section|date=August 2012}}
+[[Color code]]s present particular problems for those with color deficiencies as they are often difficult or impossible for them to perceive.
+
+Good [[graphic design]] avoids using color coding or using color contrasts alone to express information;<ref>{{cite journal |last1=Crow |first1=Kevin L. |title=Four Types of Disabilities: Their Impact on Online Learning |journal=TechTrends |volume=52 |issue=1 |year=2008 |pages=51–5 |doi=10.1007/s11528-008-0112-6 }}</ref> not only helps color blind people, but also aids understanding by normally sighted people.
+
+Designers need to take into account that color-blindness is highly sensitive to differences in material. For example, a red–green colorblind person who is incapable of distinguishing colors on a map printed on paper may have no such difficulty when viewing the map on a computer screen or television. In addition, some color blind people find it easier to distinguish problem colors on artificial materials, such as plastic or in acrylic paints, than on natural materials, such as paper or wood. Third, for some color blind people, color can only be distinguished if there is a sufficient "mass" of color: thin lines might appear black, while a thicker line of the same color can be perceived as having color.{{Citation needed|date=November 2011}}
+
+Designers should also note that red–blue and yellow–blue color combinations are generally safe. So instead of the ever popular "red means bad and green means good" system, using these combinations can lead to a much higher ability to use color coding effectively. This will still cause problems for those with monochromatic color blindness, but it is still something worth considering.
+
+When the need to process visual information as rapidly as possible arises, for example in an emergency situation, the visual system may operate only in shades of gray, with the extra information load in adding color being dropped.{{Citation needed|date=October 2009}} This is an important possibility to consider when designing, for example, emergency brake handles or emergency phones.
+
+===Occupations===
+Color blindness may make it difficult or impossible for a person to engage in certain occupations. Persons with color blindness may be legally or practically barred from occupations in which color perception is an essential part of the job (''e.g.,'' mixing paint colors), or in which color perception is important for safety (''e.g.,'' operating vehicles in response to color-coded signals). This occupational safety principle originates from the [[Lagerlunda rail accident|Lagerlunda train crash]] of 1875 in Sweden. Following the crash, Professor [[Alarik Frithiof Holmgren]], a physiologist, investigated and concluded that the color blindness of the engineer (who had died) had caused the crash. Professor Holmgren then created the first test using different-colored skeins to exclude people from jobs in the transportation industry on the basis of color blindness.<ref>{{cite journal |last1=Algis |first1=J. |last2=Vingrys |first2=J. |last3=Cole |first3=Barry L. |title=Origins of colour vision standards within the transport industry |journal=Ophthalmic & Physiological Optics |volume=6 |issue=4 |pages=369–75 |year=1986 |pmid=3306566 |doi=10.1111/j.1475-1313.1986.tb01155.x }}</ref> However, there is a claim that there is no ﬁrm evidence that color deﬁciency did cause the collision, and that it might have not been the sole cause.<ref>{{cite journal |last1=Mollon |first1=JD |last2=Cavonius |first2=LR |title=The Lagerlunda Collision and the Introduction of Color Vision Testing |journal=Survey of Ophthalmology |volume=57 |issue=2 |pages=178–94 |year=2012 |pmid=22301271 |doi=10.1016/j.survophthal.2011.10.003 }}</ref>
+
+Color vision is important for occupations using telephone or computer networking cabling, as the individual wires inside the cables are color-coded using green, orange, brown, blue and white colors.<ref>{{cite book|last=Meyers|first=Michael|title=All in One A+ Certification Exam Guide|edition=4th|year=2002|publisher=McGraw-Hill/Osborne|location=Berkeley, California|isbn=0-07-222274-3}}{{page needed|date=August 2015}}</ref> Electronic wiring, transformers, resistors, and capacitors are color-coded as well, using black, brown, red, orange, green, yellow, blue, violet, gray, white, silver, gold.<ref>{{cite book|last=Grob|first=Bernard|title=Basic Electronics|year=2001|publisher=Glencoe/McGraw-Hill|location=Columbus, Ohio|isbn=0-02-802253-X}}{{page needed|date=August 2015}}</ref>
+
+===Driving motor vehicles===
+Some countries (for example, [[Romania]]) have refused to grant driving licenses to individuals with color blindness. In Romania, there is an ongoing campaign to remove the legal restrictions that prohibit colorblind citizens from getting drivers' licenses.<ref>{{cite web | url=http://discromat.wordpress.com/2007/08/15/time-out/ | title = Petition to European Union on Colorblind's condition in Romania | accessdate = 2007-08-21}}{{self-published inline|date=August 2015}}</ref>
+
+The usual justification for such restrictions is that drivers of motor vehicles must be able to recognize color-coded signals, such as [[traffic lights]] or warning lights.
+
+===Piloting aircraft===
+While many aspects of aviation depend on color coding, only a few of them are critical enough to be interfered with by some milder types of color blindness. Some examples include color-gun signaling of aircraft that have lost radio communication, color-coded glide-path indications on runways, and the like. Some jurisdictions restrict the issuance of pilot credentials to persons who suffer from color blindness for this reason. Restrictions may be partial, allowing color-blind persons to obtain certification but with restrictions, or total, in which case color-blind persons are not permitted to obtain piloting credentials at all.{{citation needed|date=August 2015}}
+
+In the United States, the [[Federal Aviation Administration]] requires that pilots be tested for normal color vision as part of their medical clearance in order to obtain the required medical certificate, a prerequisite to obtaining a pilot's certification. If testing reveals color blindness, the applicant may be issued a license with restrictions, such as no night flying and no flying by color signals—such a restriction effectively prevents a pilot from holding certain flying occupations, such as that of an airline pilot, although commercial pilot certification is still possible, and there are a few flying occupations that do not require night flight and thus are still available to those with restrictions due to color blindness (e.g., agricultural aviation). The government allows several types of tests, including medical standard tests (''e.g.,'' the [[Ishihara test|Ishihara]], [[Israel Dvorine|Dvorine]], and others) and specialized tests oriented specifically to the needs of aviation. If an applicant fails the standard tests, they will receive a restriction on their medical certificate that states: "Not valid for night flying or by color signal control". They may apply to the FAA to take a specialized test, administered by the FAA. Typically, this test is the "color vision light gun test". For this test an FAA inspector will meet the pilot at an airport with an operating control tower. The color signal light gun will be shone at the pilot from the tower, and they must identify the color. If they pass they may be issued a waiver, which states that the color vision test is no longer required during medical examinations. They will then receive a new medical certificate with the restriction removed. This was once a Statement of Demonstrated Ability (SODA), but the SODA was dropped, and converted to a simple waiver (letter) early in the 2000s.<ref>{{cite web | url=http://www.faa.gov/about/office_org/headquarters_offices/avs/offices/aam/ame/guide/app_process/exam_tech/item52/amd/ | title = Aerospace Medical Dispositions — Color vision | accessdate = 2009-04-11}}</ref>
+
+Research published in 2009 carried out by the [[City University of London]]'s Applied Vision Research Centre, sponsored by the UK's [[Civil Aviation Authority]] and the US Federal Aviation Administration, has established a more accurate assessment of color deficiencies in pilot applicants' red–green and yellow–blue color range which could lead to a 35% reduction in the number of prospective pilots who fail to meet the minimum medical threshold.<ref>{{cite web|url=http://www.flightglobal.com/articles/2009/05/29/327137/colour-blindness-research-could-clear-more-pilots-to-fly-uk.html|title=Colour-blindness research could clear more pilots to fly: UK CAA |last=Warburton|first=Simon|date=29 May 2009|work=Air transport|publisher=Reed Business Information|accessdate=29 October 2009}}</ref>
+
+===Art===
+Inability to distinguish color does not necessarily preclude the ability to become a celebrated artist. The 20th century expressionist painter [[Clifton Pugh]], three-time winner of Australia's [[Archibald Prize]], on biographical, gene inheritance and other grounds has been identified as a protanope.<ref>{{cite journal |last1=Cole |first1=Barry L |last2=Harris |first2=Ross W |title=Colour blindness does not preclude fame as an artist: celebrated Australian artist Clifton Pugh was a protanope |journal=Clinical and Experimental Optometry |volume=92 |issue=5 |pages=421–8 |year=2009 |pmid=19515095 |doi=10.1111/j.1444-0938.2009.00384.x }}</ref> 19th century French artist [[Charles Méryon]] became successful by concentrating on [[etching]] rather than painting after he was diagnosed as having a red–green deficiency.<ref>{{cite web|url=http://www.answers.com/topic/charles-m-ryon|title=Charles Meryon|last=Anon|work=Art Encyclopedia. The Concise Grove Dictionary of Art.|publisher=Oxford University Press|accessdate=7 January 2010}}</ref>
+
+===Rights of people with color blindness===
+{{globalize|date=November 2014}}
+
+====Brazil====
+A Brazilian court ruled that people with color blindness are protected by the Inter-American Convention on the Elimination of All Forms of Discrimination against Person with Disabilities.<ref>{{cite web | url=http://pt.scribd.com/doc/65834303/Acordao-Direito-Educacao-Deficientes | title = Full text of the decision of the court – in Portuguese language | accessdate = 2012-03-09}}</ref><ref>{{cite web | url=http://www.planalto.gov.br/ccivil_03/decreto/2001/d3956.htm | title = Decree issued by president of a republic ratifying Legislative Decree No. 198, of june 13, which approved the Inter-American Convention AG/RES. 1608 – in Portuguese language | accessdate = 2012-03-09}}</ref><ref>{{cite web | url=http://www.oas.org/juridico/english/ga-res99/eres1608.htm | title = Inter-American Convention on the Elimination of All Forms of Discrimination against Person with Disabilities. | accessdate = 2012-03-09}}</ref>
+
+At trial, it was decided that the carriers of color blindness have a right of access to wider knowledge, or the full enjoyment of their human condition.
+
+==Problems and compensations==
+[[Image:Braeburn GrannySmith dichromat sim.jpg|right|thumb|190px|Simulation of the normal (above) and dichromatic (below) perception of red and green apples{{citation needed|date=May 2015}}<!--I am Deuteranomaly and these are totally differn't. [[user:scientus]]-->]]
+[[Image:Colourblind traffic signal.JPG|right|thumb|190px|Horizontal traffic light in Halifax, Nova Scotia, Canada]]
+
+Color blindness very rarely means complete monochromatism. In almost all cases, color blind people retain blue–yellow discrimination, and most color-blind individuals are anomalous trichromats rather than complete dichromats. In practice, this means that they often retain a limited discrimination along the red–green axis of color space, although their ability to separate colors in this dimension is severely reduced.{{citation needed|date=August 2015}}
+
+Dichromats often confuse red and green items. For example, they may find it difficult to distinguish a [[Braeburn]] apple from a [[Granny Smith]] and in some cases, the red and green of traffic lights without other clues—for example, shape or position. The vision of dichromats may also be compared to images produced by a color printer that has run out of the ink in one of its three color cartridges (for protanopes and deuteranopes, the magenta cartridge, and for tritanopes, the yellow cartridge). Dichromats tend to learn to use texture and shape clues and so are often able to penetrate camouflage that has been designed to deceive individuals with color-normal vision.<ref name="Morgan"/>
+
+Colors of traffic lights are confusing to some dichromats, as there is insufficient apparent difference between the red/amber traffic lights, and that of sodium street lamps; also, the green can be confused with a grubby white lamp. This is a risk factor on high-speed undulating roads where angular cues cannot be used. British Rail color lamp signals use more easily identifiable colors: The red is blood red, the amber is yellow and the green is a bluish color. Most British road traffic lights are mounted vertically on a black rectangle with a white border (forming a "sighting board") and so dichromats can look for the position of the light within the rectangle—top, middle or bottom. In the Eastern provinces of Canada horizontally mounted traffic lights are generally differentiated by shape to facilitate identification for those with color blindness. In the United States, this is not done by shape but by position, as the red light is always on the left if the light is horizontal, or on top if the light is vertical. However, a single flashing light (red indicating cars must stop, yellow for caution/yield) is indistinguishable, but these are rare. A [[Tipperary Hill#Green over red|famous traffic light on Tipperary Hill]] in [[Syracuse, New York]], is upside-down due to the sentiments of its [[Irish American]] community, but has been criticized due to the potential hazard it poses for color-blind persons.<ref>{{cite web|url=http://gizmodo.com/the-story-behind-syracuses-upside-down-traffic-light-1545301615|title=The Story Behind Syracuse's Upside-Down Traffic Light|author=Sarah Zhang|work=Gizmodo}}</ref>
+
+==See also==
+*[[Cerebral achromatopsia]]
+*[[Ishihara color test]]
+*[[Farnsworth Lantern Test]]
+*[[Motion blindness]]
+*[[Tetrachromacy]]
+
+==References==
+
+===Explanatory notes===
+<references group=Note/>
+
+===Citations===
+{{Reflist|30em}}
+
+==Further reading==
+* {{cite book |last1=Kaiser |first1=Peter K. |last2=Boynton |first2=Robert M. |title=Human color vision |publisher=Optical Society of America |location=Washington, DC |year=1996|isbn=1-55752-461-0 |oclc=472932250 }}
+* {{cite book |last=McIntyre |first=Donald |title=Colour blindness: causes and effects |publisher=Dalton Publishing |location=Chester |year=2002 |isbn=0-9541886-0-8 |oclc=49204679 }}
+* {{cite book |last=Rubin |first=Melvin L. |last2=Cassin |first2=Barbara |last3=Solomon |first3=Sheila |title=Dictionary of eye terminology |publisher=Triad Pub. Co |location=Gainesville, Fla |year=1984|isbn=0-937404-07-1 |oclc=10375427}}
+* {{cite book |last=Shevell |first=Steven K. |title=The science of color |publisher=Elsevier |location=Amsterdam |year=2003|isbn=0-444-51251-9 |oclc=52271315}}
+* {{cite book |last1=Hilbert |first1=David |last2=Byrne |first2=Alexander |title=Readings on color |publisher=MIT Press |location=Cambridge, Mass |year=1997|isbn=0-262-52231-4 |oclc=35762680}}
+* {{cite book |last1=Stiles |first1=W. S. |last2=Wyszecki |first2=Günter |title=Color science: concepts and methods, quantitative data and formulae |publisher=John Wiley & Sons |location=Chichester |year=2000 |isbn=0-471-39918-3 |oclc=799532137}}
+
+==External links==
+{{Commons category}}
+{{Wikisource}}
+* {{DMOZ|Health/Conditions_and_Diseases/Eye_Disorders/Color_Blindness/}}
+* [http://tigger.uic.edu/~hilbert/Glossary.html "A Glossary of Color Science."]
+
+{{Color vision}}
+{{Eye pathology}}
+{{Color topics}}
+
+{{Authority control}}
+
+[[Category:Color]]
+[[Category:Genetic disorders by system]]
+[[Category:Visual disturbances and blindness]]
+[[Category:Agnosia]]

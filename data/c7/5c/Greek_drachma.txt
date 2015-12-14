@@ -1,0 +1,381 @@
+{{redirect|Drachma|the moth genus|Drachma (moth)}}
+{{Use dmy dates|date=December 2012}}
+
+{{Special characters}}
+
+'''Drachma''' ('''₯'''; {{lang-el|[[wikt:δραχμή|δραχμή]]}} {{IPA-el|ðraxˈmi|mod}}, {{IPA-el|drakʰmέː|anc}};{{refn|group=n|{{IPA-el|draːkʰmέː|}} is also attested.<ref name=LSJdrachme/>}} pl. ''drachmae'' or ''drachmas'') was the [[currency]] used in [[Greece]] during several periods in its history:
+# An [[Ancient Greece|ancient Greek]] currency unit issued by many [[Greek city states]] during a period of ten centuries, from the [[Archaic Greece|Archaic period]] throughout the [[Classical Greece|Classical period]], the [[Hellenistic period]] up to the [[Roman Greece|Roman period]] under [[Roman provincial currency|Greek Imperial Coinage]].
+# Three [[History of modern Greece|modern Greek]] currencies, the first introduced in 1832 and the last replaced by the [[euro]] in 2001 (at the rate of 340.750 drachma to the euro). The euro did not begin circulating until 2002 but the exchange rate was fixed on 19 June 2000, with legal introduction of the euro taking place in January 2002.
+
+It was also a [[Dram (unit)|small unit of weight]].<ref name=LSJdrachme>{{LSJ|draxmh/|δραχμή|ref}}.</ref>
+
+==Ancient drachma==
+
+{{multiple image
+| direction = vertical
+| align = right
+| width = 210
+| header = Drachma in the Greek world
+| footer = 
+| image1 = Obolos2.jpg
+| alt1 = 
+| caption1 = Above: Six rod-shaped obeloi (oboloi) displayed at the [[Numismatic Museum of Athens]], discovered at [[Heraion of Argos]]. Below: grasp{{refn|group=n|{{lang|grc|δράσσομαι}}, ''drassomai'', "grasp"; [[cf.]]: {{LSJ|dra/c|δράξ}}, ''drax'', and ''drachma'' itself, i.e. "grasp with the hand".<ref name=LSJdrachme/><ref name=LSJdrassomai>{{LSJ|dra/ssomai|δράσσομαι|shortref}}.</ref>}} of six oboloi forming one drachma
+| image2 = Athens 545-510 BC Didrachm.jpg
+| caption2 = Athenian silver [[didrachm]] of ''"heraldic type"'' from the time of [[Peisistratos]], 545–510 BC. Obverse: Four-spoked wheel. Reverse: Incuse square, divided diagonally
+| alt2 =
+| image3 = BMC 193.jpg
+| caption3 = Greek [[drachma]] of Aegina. Obverse: Land [[Chelone (Greek mythology)|Chelone]] / Reverse: {{lang|grc|ΑΙΓ(INA)}} and dolphin. The oldest Aegina chelone coins depicted sea turtles and were minted ca. [http://www.snible.org/coins/bmc/attica/XXIII.jpg 700–550 BC].
+| image4 = Massalia-21.jpg
+| caption4 = Silver tetrobol (4/6 of drachma) from [[Massalia]]. Obverse: [[Artemis]] wearing stephane. Reverse: MAΣΣA[ΛIΗTΩN] (of Massalians), lion standing righ.
+| image5 = Olympia-02.jpg
+| caption5 = Tetradrachm from [[Olympia, Greece|Olympia]]. 105th [[Olympiad]], 360 BC. Obverse: Head of Zeus. Reverse: The nymph Olympia, inscription: OΛYMΠIA.
+| image6 = Philip III Arrhidaios.jpg
+| caption6 = Silver Drachma of [[Philip III of Macedon|Philip III Arrhidaios]], minted at [[Babylon]]. Obverse: Head of Herakles.  Reverse: Zeus Aëtophoros.
+}}
+
+The name ''drachma'' is derived from the verb δράσσομαι (''drássomai'', "(I) grasp").{{refn|group=n|"As much as one can hold in the hand".<ref name=LSJdrachme/><ref name=LSJdrassomai/>}} It is believed that the same word with the meaning of "''handful''" or "''handle''" is found in [[Linear B]] tablets of the [[Mycenaean Greece|Mycenean]] [[Pylos]].<ref>{{cite journal|url=http://www.deepdyve.com/lp/de-gruyter/two-new-linear-b-documents-from-bronze-age-pylos-rg10tOlmDC |last1=Shelmerdine|first1=Cynthia W.|last2=Bennet|first2=John|title=Two Linear B documents from Bronze Age Pylos|journal=Kadmos|volume=34 | issue = 2 |date=January 1, 1995}}</ref>{{refn|group=n|The word, whose meaning and translation is still uncertain, is {{lang|gmy|𐀈𐀏𐀔}}, ''do-ka-ma'' or {{lang|gmy|𐀈𐀏𐀔𐀂}}, ''do-ka-ma-i'', found on the [[Pylos|PY]] An 1282 and PY Wr 1480 tablets.<ref>{{cite web|title=PY 1282 An (Ciii)|url=https://www2.hf.uio.no/damos/Index/item/chosen_item_id/4362}}{{citation|chapter=PY 1480 Wr (unknown)|title=DĀMOS: Database of Mycenaean at Oslo|url=https://www2.hf.uio.no/damos/index/about|chapter-url=https://www2.hf.uio.no/damos/Index/item/chosen_item_id/5088|publisher=[[University of Oslo]]}}.</ref><ref>{{cite web|last=Raymoure|first=K.A.|url=http://minoan.deaditerranean.com/resources/linear-b-sign-groups/do/do-ka-ma-i/|title=do-ka-ma-i| work=Minoan Linear A & Mycenaean Linear B | publisher=Deaditerranean}}</ref>}} Initially a drachma was a fistful (a "grasp") of six [[obolus|''oboloí'' or ''obeloí'']] (metal sticks, literally "[[Spit (cooking aide)|spits]]") used as a form of currency as early as 1100&nbsp;BC and being a form of "bullion": bronze, copper, or iron ingots denominated by weight. A [[hoard]] of over 150 rod-shaped obeloi were uncovered at [[Heraion of Argos]] in [[Peloponnese]]. Six of them are displayed at the [[Numismatic Museum of Athens]].
+
+It was the standard unit of silver coinage at most ancient Greek mints, and the name 'obol' was used to describe a coin that was one-sixth of a drachma. The notion that "drachma" derived from the word for fistful was recorded by [[Heraclides Ponticus|Herakleides of Pontos]] (387–312&nbsp;BC) who was informed by the priests of Heraion that [[Pheidon]], king of Argos, dedicated rod-shaped obeloi to Heraion. Similar information about Pheidon's obeloi was also recorded at the [[Parian Chronicle]].
+
+[[Ancient Greek coinage|Ancient Greek coins]] normally had distinctive names in daily use. The Athenian [[tetradrachm]] was called [[owl of Athena|owl]],<ref>[[Philochorus]]: Scholion to Aristophanes, Birds 1106</ref> the [[Aegina#Coinage and sea power (7th–5th centuries BC)|Aeginetic stater]] was called [[Chelone (Greek mythology)|chelone]], the Corinthian [[stater]] was called ''hippos'' ([[horse]]) an so on. Each city would mint its own and have them stamped with recognizable [[Ancient Greek coinage#Coins as a symbol of the city-state|symbols of the city]], known as [[badge]] in numismatics, along with suitable inscriptions, and they would often be referred to either by the name of the city or of the image depicted. The exact exchange value of each was determined by the quantity and quality of the metal, which reflected on the reputation of each mint.
+
+Among the Greek cities that used the drachma were: [[Abdera, Thrace|Abdera]], [[Abydos (Hellespont)|Abydos]], [[Alexandria]], [[Aetna (city)|Aetna]], [[Antioch]], [[Athens]], [[Chios]], [[Cyzicus]], [[Corinth]], [[Ephesus]], [[Eretria]], [[Gela]], [[Catana]], [[Kos]], [[Maronia]], [[Naxos]], [[Pella]], [[Pergamum]], [[Reggio Calabria|Rhegion]], [[Salamis Island|Salamis]], [[Smyrni]], [[Sparta]], [[Syracuse, Sicily|Syracuse]], [[Tarsus, Mersin|Tarsus]], [[Thasos]], [[Tenedos]], [[Troy]] and more.
+
+The 5th century BC [[Athens|Athenian]] ''[[tetradrachm]]'' ("four drachmae") [[coin]] was perhaps the most widely used coin in the Greek world prior to the time of [[Alexander the Great]] (along with the [[Corinth]]ian [[stater]]). It featured the helmeted profile bust of [[Athena]] on the obverse (front) and an owl on the reverse (back). In daily use they were called {{lang|grc|γλαῦκες}} ''glaukes'' (owls),<ref>{{LSJ|glau/c|γλαύξ|shortref}}.</ref> hence [[List of Greek phrases#Γγ|the proverb]] {{lang|grc|Γλαῦκ’ Ἀθήναζε}}, 'an owl to Athens', referring to something that was in plentiful supply, like '[[coals to Newcastle]]'. The reverse is featured on the national side of the modern [[Greek euro coins|Greek 1 euro coin]].
+
+Drachmae were minted on different weight standards at different Greek mints. The standard that came to be most commonly used was the Athenian or Attic one, which weighed a little over 4.3&nbsp;grams.
+
+After [[Alexander the Great]]'s conquests, the name ''drachma'' was used in many of the [[Hellenistic]] kingdoms in the [[Middle East]], including the [[Ptolemaic dynasty|Ptolemaic]] kingdom in [[Alexandria]] and the [[Parthian Empire]] based in what is modern-day [[Iran]]. The [[Arabia|Arabic]] unit of currency known as ''[[dirham]]'' (in the [[Arabic language]], درهم), known from pre-[[Islam]]ic times and afterwards, inherited its name from the drachma or [[didrachm]] ({{lang|grc|δίδραχμον}}, 2 drachmae); the dirham is still the name of the official currencies of [[Moroccan Dirham|Morocco]] and the [[United Arab Emirates dirham|United Arab Emirates]]. The [[Armenia]]n [[Dram (currency)|dram]] also derives its name from the drachma.
+
+===Value===
+
+It is difficult to estimate comparative exchange rates with modern currency because the range of products produced by economies of centuries gone by were different from today, which makes [[Purchasing power parity|purchasing power parity (PPP)]] calculations very difficult; however, some historians and economists have estimated that in the 5th century BC a drachma had a rough value of 25 [[United States dollar|U.S. dollars]] (in the year 1990 – equivalent to 41 USD in 2009<ref>[http://www.westegg.com/inflation/ The Inflation Calculator] {{WebCite|url=http://www.webcitation.org/5QVXNUZmW|date =21 July 2007}}</ref>), whereas classical historians regularly say that in the heyday of ancient Greece (the fifth and fourth centuries) the daily wage for a skilled worker or a [[hoplite]]<ref>[[Thucydides]], ''[[History of the Peloponnesian War]]'' [http://www.perseus.tufts.edu/hopper/text.jsp?doc=thuc.%203.17 3.17.4].</ref> was one drachma, and for a [[Heliaia|heliast]] (juror) half a drachma since 425&nbsp;BC.<ref>It was originally set at 1/6 drachma by Pericles, until [[Cleon]] raised it in 425&nbsp;BC; see also [[Aristophanes]], ''Knights'' (line 255) and ''Wasps'' (line 609, 684, 690, 788–790, 1121).</ref>
+
+Modern commentators derived from [[Xenophon]]<ref>Cf. footnote 18 of H. G. Dakyns's translation of [http://onlinebooks.library.upenn.edu/webbin/gutbook/lookup?num=1179 ''Ways and Means: A Pamphlet on Revenues'' alias ''On Revenues''] (''The Works of Xenophon'', Macmillan, 1897). This footnote is quoting George Grote (''Plato, and the Other Companions of Sokrates'', vol. 3, J. Murray, 1865, p.[http://books.google.fr/books?id=58cYAAAAIAAJ&pg=PA597 597]).</ref> that half a drachma per day (360 days per year) would provide "a comfortable subsistence" for "the poor citizens" (for the head of a household in 355&nbsp;BC). Earlier in 422&nbsp;BC, we also see in Aristophanes (''Wasps'', line 300–302) that the daily half-drachma of a juror is just enough for the daily subsistence of a family of three.
+
+A modern person might think of one drachma as the rough equivalent of a skilled worker's daily pay in the place where they live, which could be as low as $1 [[USD]], or as high as $100 USD, depending on the country.
+
+Fractions and multiples of the drachma were minted by many states, most notably in [[Ptolemaic Egypt]], which minted large coins in gold, silver and bronze.
+
+Notable Ptolemaic coins included the gold ''pentadrachm'' and ''octadrachm'', and silver ''tetradrachm'', ''decadrachm'' and ''pentakaidecadrachm''. This was especially noteworthy as it would not be until the introduction of the [[Guldengroschen]] in 1486 that coins of substantial size (particularly in silver) would be minted in significant quantities.
+
+For the Roman successors of the drachma, see [[Roman provincial coins]].
+
+===Denominations of Ancient Greek drachma===
+The weight of the silver drachma was approximately 4.3 grams,<ref>British Museum Catalogue 11 – Attica Megaris Aegina</ref> although weights varied significantly from one city-state to another. It was divided into six obols of 0.72 grams, which were subdivided into four tetartemoria of 0.18 grams, one of the smallest coins ever struck, approximately 5–7&nbsp;mm in diameter.<ref>Photo gallery of [http://www.asiaminorcoins.com/gallery/thumbnails.php?search=Tetartemorion&submit=cerca&album=search&title=on&newer_than=&caption=on&older_than=&keywords=on&type=AND&pid=on&album_title=on&category_title=on Tetartemoria] and other small Greek coins</ref>
+
+{|class="wikitable" style="text-align:center; font-size: 90%"
+|-
+!colspan="5"| Denominations of silver drachma
+|-
+! Image !!Denomination !! Value !! Weight !! Greek
+|-
+|[[File:001-athens-dekadrachm-1.jpg|190px|center]]
+|Dekadrachm
+|10 drachmae
+|43 grams
+|{{lang|grc|Δεκάδραχμον}}
+|-
+|[[File:Kyme-01.jpg|140px|center]]
+|Tetradrachm
+|4 drachmae
+|17.2 grams
+|{{lang|grc|Τετράδραχμον}}
+|-
+|[[File:AR Didrachm 90001284.jpg|110px|center]]
+|Didrachm
+|2 drachmae
+|8.6 grams
+|{{lang|grc|Δίδραχμον}}
+|-
+|[[File:Naxos-02.jpg|89px|center]]
+|Drachma
+|6 obols
+|4.3 grams
+|{{lang|grc|Δραχμή}}
+|-
+|[[File:001-Massalia-tetrobol-02.jpg|70px|center]]
+|Tetrobol
+|4 obols
+|2.85 grams
+|{{lang|grc|Τετρώβολον}}
+|-
+|[[File:Metapontum Triobol 868740.jpg|60px|center]]
+|Triobol<br>(hemidrachm)
+|3 obols<br>({{frac|1|2}} drachma)
+|2.15 grams
+|{{lang|grc|Τριώβολον}}{{refn|group=n|Τριόβολον spelling variant is also attested.}}<br>{{lang|grc|(ἡμίδραχμον)}}<!-- Do not replace omega with an omicron; this is the more common spelling (omega by compositional lengthening) -->
+|-
+|[[File:Tarentum AR Diobol 851470.jpg|55px|center]]
+|Diobol
+|2 obols
+|1.43 grams
+|{{lang|grc|Διώβολον}}<!-- Do not replace omega with an omicron; this is the more common spelling (omega by compositional lengthening) -->
+|-
+|[[File:SNGCop 053.jpg|47px|center]]
+|Obol
+|4 tetartemoria<br>({{frac|1|6}} drachma)
+|0.72 grams
+|{{lang|grc|Ὀβολός<br>(ὀβελός)}}
+|-
+|[[File:Thasitischer Tritartemorion 630264 C.jpg|41px|center]]
+|Tritartemorion
+|3 tetartemoria
+|0.54 grams
+|{{lang|grc|Τριταρτημόριον<br>(τριτημόριον)}}
+|-
+|[[File:Hemiobol Corinth.jpg|36px|center]]
+|Hemiobol
+|2 tetartemoria<br>({{frac|1|2}} obol)
+|0.36 grams
+|{{lang|grc|Ἡμιωβέλιον<br>(ἡμιωβόλιον)}}{{refn|group=n|Ἡμιοβόλιον spelling variant is also attested.}}<!-- Do not replace omega with an omicron; this is the more common spelling (omega by compositional lengthening) -->
+|-
+|[[File:Triihemitartemorion Cilicia, 4th century BC.jpg|33px|center]]
+|Trihemitetartemorion
+| {{frac|3|2}} tetartemorion
+|0.27 grams
+|{{lang|grc|Τριημιτεταρτημόριον}}
+|-
+|[[File:001-Tetartemorion-3.jpg|28px|center]]
+|Tetartemorion
+|{{frac|1|4}} obol
+|0.18 grams
+|{{lang|grc|Τεταρτημόριον<br>(ταρτημόριον,<br>ταρτήμορον)}}
+|-
+|[[File:001-Hemitartemorion-02.jpg|25px|center]]
+|Hemitetartemorion
+|{{frac|1|2}} tetartemorion
+|0.09 grams
+|{{lang|grc|Ἡμιτεταρτημόριον}}
+|}
+
+===Historic currency divisions===
+<!-- Please decide upon which form (including NOM pl.) we should use: Transliterated Greek? Latin? Anglicised... Pick one and stick with it! --> 
+:8 ''chalkoi'' = 1 ''[[obolus]]''
+:6 ''oboloi'' = 1 ''drachma''
+:70 ''drachmae'' = 1 ''[[mina (unit)|mina]]'' (or ''mna''), later 100 ''drachmae'' = 1 ''mina'' <ref>[[Aristotle]], Athenian Constitution, 10.2</ref>
+:60 ''[[mina (unit)|minae]]'' = 1 ''[[Athenian Talent]]'' (Athenian standard) <ref>''Drachma'', The Catholic Encyclopedia, Volume V. Published 1909. New York: Robert Appleton Company. Nihil Obstat, 1 May 1909. Remy Lafort, Censor. Imprimatur. John M. Farley, Archbishop of New York</ref>
+
+Minae and talents were never actually minted: they represented weight measures used for commodities (e.g. grain) as well as metals like silver or gold. The [[New Testament]] mentions both didrachma and, by implication, tetradrachma in context of the [[Temple tax]]. [[Gospel of Luke|Luke's Gospel]] includes a [[Parable of the Lost Coin|parable]] told by Jesus of a woman with 10 drachmae, who lost one and searched her home until she found it.<ref>Luke 15:8–10</ref>
+
+==Modern drachma==
+{{Infobox currency
+| currency_name = Drachma
+| currency_name_in_local = {{lang|el|Δραχμή}}
+| image_1 = Drachmas.jpg
+| image_title_1 = Modern drachma coins
+| image_2 =
+| image_title_2 =
+| inflation_rate = 3.1% (2000)
+| inflation_source_date = [http://www.grecian.net/GREECE/facts.htm Grecian.net]
+| iso_code = GRD
+| using_countries = None, previously:<br />[[Greece]]
+| ERM_since = March 1998
+| ERM_fixed_rate_since = 19 June 2000
+| euro_replace_non_cash = 1 January 2001
+| euro_replace_cash = 1 January 2002
+| ERM_fixed_rate =  340.750 Δρ.
+| subunit_ratio_1 = 1/100
+| subunit_name_1 = [[Greek lepton|leptοn]] (Λ.)
+| symbol = Δρχ., Δρ. or ₯
+| frequently_used_coins = 5, 10, 20, 50, 100, 500 Δρ.
+| rarely_used_coins = 10 Λ., 20 Λ., 50 Λ., 1 and 2 Δρ.
+| frequently_used_banknotes = 100, 200, 500, 1000, 5000, 10,000 Δρ.
+| rarely_used_banknotes = 50 Δρ.
+| issuing_authority = [[Bank of Greece]]
+| issuing_authority_website = {{URL|www.bankofgreece.gr}}
+| printer = [[Bank of Greece]] {{Citation needed|date=February 2007}}
+| printer_website = {{URL|www.bankofgreece.gr}}
+| mint= [[Bank of Greece]] {{Citation needed|date=February 2007}}
+| mint_website = {{URL|www.bankofgreece.gr}}
+| obsolete_notice = Y
+}}
+[[File:Drachma-Symbol.svg|160px|right|₯ drachma sign]]
+
+===First modern drachma===
+The drachma was reintroduced in May 1832, shortly before the establishment of the modern state of Greece (with the exception of the subdivision Taurus).<ref>{{cite web |url=http://colnect.com/en/coins/list/country/1669-Greece/currency/757-%E2%82%AF_-_Greek_drachma |title=The first modern drachma coins catalog |date= |accessdate=2013-06-22}}</ref> It replaced the ''[[phoenix (currency)|phoenix]]'' at par. The drachma was subdivided into 100 [[Greek lepton|lepta]].{{refn|group=n|Greek: {{lang|el|λεπτά}}; plural of {{lang|el|λεπτόν}}, ''lepton''.}}
+
+===Coins===
+<!--{{Main|Coins of the Greek drachma}} It's a red link -->
+The first coinage consisted of copper denominations of 1, 2, 5 and 10 lepta, silver denominations of ¼, ½, 1 and 5 drachmae and a gold coin of 20 drachmae. The drachma coin weighed 4.5&nbsp;g and contained 90% silver, with the 20-drachma coin containing 5.8&nbsp;g of gold.
+
+In 1868, Greece joined the [[Latin Monetary Union]] and the drachma became equal in weight and value to the [[French franc]]. The new coinage issued consisted of copper coins of 1, 2, 5 and 10 lepta, with the 5- and 10-lepta coins bearing the names ''obolos'' ({{lang|el|ὀβολός}}) and ''diobolon'' ({{lang|el|διώβολον}}), respectively; silver coins of 20 and 50 lepta, 1, 2 and 5 drachmae and gold coins of 5, 10 and 20 drachmae. (Very small numbers of 50- and 100-drachma coins in gold were also issued.)
+
+In 1894, [[cupro-nickel]] 5-, 10- and 20-lepta coins were introduced.  No 1-lepton or 2-lepta coin had been issued since the late 1870s. Silver coins of 1 and 2 drachmae were last issued in 1911, and no coins were issued between 1912 and 1922, during which time the [[Latin Monetary Union]] collapsed due to [[World War I]].
+
+Between 1926 and 1930, a new coinage was introduced for the new Hellenic Republic, consisting of cupro-nickel coins in denominations of 20 lepta, 50 lepta, 1 drachma, and 2 drachmae; nickel coins of 5 drachmae; and silver coins of 10 and 20 drachmae. These were the last coins issued for the first modern drachma, and none were issued for the second.
+
+===Notes===
+[[File:NBG banknote-1912.jpg|thumb|Banknote of 1912 issued by the NBG]] 
+Notes were issued by the [[National Bank of Greece]] from 1841 until 2001 when Greece joined the [[Euro]]. Early denominations ranged from 10 to 500 drachmae. Smaller denominations (1, 2, 3 and 5 drachmae) were issued from 1885, with the first 5-drachma notes being made by cutting 10-drachma notes in half.
+
+When Greece finally achieved its independence from the Ottoman Empire in 1828, the [[Greek Phoenix|phoenix]] was introduced as the monetary unit; its use was short-lived, however, and in 1832 the phoenix was replaced by the drachma, adorned with the image of [[Otto of Greece|King Otto of Greece]], who reigned as modern Greece’s first king from 1832 to 1862. The drachma was divided into 100 lepta. In 2002 the drachma ceased to be legal tender after the euro, the monetary unit of the European Union, became Greece’s sole currency.
+
+Between 1917 and 1920, the Greek government issued paper money in denominations of 10 lepta, 50 lepta, 1 drachma, 2 drachmae, and 5 drachmae. The National Bank of Greece introduced 1000-drachma notes in 1901, and the Bank of Greece introduced 5000-drachma notes in 1928. The Greek government again issued notes between 1940 and 1944, in denominations ranging from 50 lepta to 20 drachmae.
+
+During the [[Nazi Germany|German]]-[[Kingdom of Italy (1861–1946)|Italian]] [[Axis Occupation of Greece|occupation of Greece]] from 1941 to 1944, catastrophic [[hyperinflation]] and [[Nazism|Nazi]] looting of the Greek treasury caused much higher denominations to be issued, culminating in 100,000,000,000-drachma notes in 1944.
+
+===Second modern drachma===
+In November 1944, after Greece was liberated from Germany, old drachmae were exchanged for new ones at the rate of 50,000,000,000 to 1. Only paper money was issued. The government issued notes of 1, 5, 10 and 20 drachmae, with the Bank of Greece issuing 50-, 100-, 500-, 1000-, 5000-, and 10,000-drachma notes. This drachma also suffered from high inflation. The government later issued 100-, 500-, and 1000-drachma notes, and the Bank of Greece issued 20,000-and 50,000-drachma notes.
+
+===Third modern drachma===
+In 1953, in an effort to halt inflation, Greece joined the [[Bretton Woods system]]. In 1954, the drachma was revalued at a rate of 1000 to 1. The new currency was pegged at 30 drachmae = 1 [[United States dollar]]. In 1973, the Bretton Woods System was abolished; over the next 25 years the official exchange rate gradually declined, reaching 400 drachmae to 1 U. S. dollar.  On 1 January 2002, the Greek drachma was officially replaced as the circulating currency by the [[euro]], and it has not been [[legal tender]] since 1 March 2002.
+
+====Third modern drachma coins====
+The first issue of coins minted in 1954 consisted of holed aluminium 5-, 10- and 20-lepton pieces, with 50-lepton, 1-, 2-, 5- and 10-drachma pieces in cupro-nickel. A silver 20-drachma piece was issued in 1960, replacing the 20-drachma banknote. Coins in denominations from 50 lepta to 20 drachmae carried a portrait of [[Paul of Greece|King Paul]] (1947–1964). New coins were introduced in 1966, ranging from 50 lepta to 10 drachmae, depicting [[Constantine II of Greece|King Constantine II]] (1964–1974). The reverse of all coins was altered in 1971 to reflect the military junta which was in power from 1967 to 1974. This design included a soldier standing in front of the flames of the rising phoenix.
+
+A 20-drachmae coin in cupro-nickel with an image of [[Europa (mythology)|Europa]] on the obverse was issued in 1973. In the latter part of 1973, several new coin types were introduced: unholed aluminium (10 and 20 lepta), nickel-brass (50 lepta, 1 drachma, and 2 drachmae) and cupro-nickel (5, 10, and 20 drachmae). These provisional coins carried the design of the phoenix rising from the flame on the obverse, and used the country's new designation as the "Hellenic Republic", replacing the coins also issued in 1973 as the Kingdom of Greece with King Constantine II's portrait. A new series of all 8 denominations was introduced in 1976 carrying images of early national heroes on the smaller values.
+
+Cupro-nickel 50-drachmae coins were introduced in 1980. In 1986, nickel-brass 50-drachma coins were introduced, followed by copper 1- and 2-drachma pieces in 1988 and nickel-brass coins of 20 and 100 drachmae in 1990. In 2000, a set of 6 themed 500-drachma coins was issued to commemorate the [[2004 Summer Olympics|2004 Athens Olympic Games]].
+
+[[Coin]]s in circulation at the time of the adoption of the euro<ref>http://www.bankofgreece.gr/en/Banknotes/coins.htm</ref> were
+* 50 lepta (€0.0015){{refn|group=n|name=coin1|Minted but rarely used. Usually, prices were rounded up to the next multiple of 10 drachmae.}}
+* 1 drachma (€0.0029){{refn|group=n|name=coin2|Not minted but remained legal tender (not in actual use in 2002).}}
+* 2 drachmae (€0.0059){{refn|group=n|name=coin2}}
+* 5 drachmae (€0.0147)
+* 10 drachmae (€0.0293)
+* 20 drachmae (€0.0587)
+* 50 drachmae (€0.147)
+* 100 drachmae (€0.293)
+* 500 drachmae (€1.47)
+
+====Gallery====
+<gallery>
+File:Otto-dr.jpg|Gold 20 Drachmai, 1833 of king [[Otto of Greece|Othon]]
+File:Geo 20dr.jpg|Gold 20 Drachmai, 1876 of king [[George I of Greece|Georgios I]]
+George-50dr.jpg|Gold 50 Drachmai, 1876 of king Georgios I
+File:5dracme1874front.jpg|5 drachmae (1876)
+File:1drachmi 1973.jpg|1 drachma (1973) during the [[Metapolitefsi#Prologue|1973-1974 military-controlled "Republic"]]
+File:Drachmi.png|1 drachma (1978)
+File:1drachmaowlfr.jpg|The design of this Drachma coin depicts the [[Owl of Athena]] and is reminiscent of ancient coins
+File:2drachma1971fbl.jpg|Two Drachma coin with a soldier standing in front of Phoenix
+</gallery>
+
+====Banknotes====
+The first issues of banknotes were in denominations of 10, 20 and 50 drachmae, soon followed by 100, 500 and 1000 drachmae by 1956. 5000-drachma notes were introduced in 1984, followed by 10,000-drachma notes in 1995 and 200-drachma notes in 1997.
+
+[[Banknote]]s in circulation at the time of the adoption of the euro<ref>{{cite web|url=http://greekcurrency.110mb.com |title=History of Greek Banknotes |publisher=Greekcurrency.110mb.com |date= |accessdate=2013-11-17}}</ref> were
+* 100 drachmae (€0.2935), depicting [[Athena]] and [[Adamantios Korais]]
+* 200 drachmae (€0.5869), depticing [[Rigas Feraios]]
+* 500 drachmae (€1.47), depicting [[Ioannis Capodistrias]]
+* 1000 drachmae (€2.93), depicting [[Apollo]]
+* 5000 drachmae (€14.67), depicting [[Theodoros Kolokotronis]]
+* 10,000 drachmae (€29.35), depicting [[Georgios Papanikolaou|George Papanicolaou]] and [[Asclepius]]
+
+{|class="wikitable" style="font-size: 90%"
+|-
+!colspan="7"| Banknotes of the Greek drachma <small>(circa AD 2000)</small>
+|-
+! Image !! Value !! Equivalent in [[Euro|Euro (€)]] !! Main Color !! Obverse !! Reverse !! Watermark
+|-
+|
+| 50 drachmae
+| €0.1467
+| Blue
+| Head of [[Poseidon]]
+| [[Laskarina Bouboulina]] directing cannon fire at two Ottoman ships at [[Palamidi]] during the [[Greek War of Independence]]
+| Head of the [[Charioteer of Delphi]]
+|-
+|
+| 100 drachmae
+| €0.2935
+| Brown and violet (obverse); Maroon, green and orange (reverse)
+| Head of [[Piraeus Athena]]; [[Christian Hansen (architect)|Christian Hansen]]'s [[National and Kapodistrian University of Athens]] building
+| Adamantios Korais; [[Arkadi Monastery]], [[Crete]]
+| Head of the Charioteer of Delphi
+|-
+| 
+| 200 drachmae
+| €0.5869
+| Deep orange
+| Rigas Feraios; Feraios singing his patriotic song at lower right
+| [[Nikolaos Gyzis]]'s ''[[Krifo scholio]]'' ("secret school")
+| Bust of [[Philip II of Macedon|Philip of Macedonia]]
+|-
+| 
+| 500 drachmae
+| €1.47
+| Deep green
+| Ioannis Kapodistrias;  Capodistrias's home on [[Corfu]]
+| [[Old Fortress, Corfu|Old Fortress]], [[Corfu City]]
+| Head of the Charioteer of Delphi
+|-
+| 
+| 1000 drachmae
+| €2.93
+| Brown
+| Bust of [[Apollon of Olympia]]
+| [[Myron]]'s [[Discobolus]]; [[Temple of Hera, Olympia]]
+| Head of the Charioteer of Delphi
+|-
+|align="center" | [http://coinsbanknotespictures.blogspot.com/2012/12/greece-banknotes-5000-greek-drachmas.html]
+| 5000 drachmae
+| €14.67
+| Deep Blue or Purple and yellow-green
+| Theodoros Kolokotronis; Church of the Holy Apostles, [[Kalamata]]
+| [[Karytaina]], [[Arcadia]]
+| Bust of Philip of Macedonia
+|-
+|
+| 10,000 drachmae
+| €29.35
+| Deep purple
+| George Papanicolaou; microscope
+| Asclepius
+| Bust of Philip of Macedonia
+|}
+
+====Gallery (banknotes)====
+<gallery>
+File:NBG banknote-1912.jpg|5 drachmae banknote (1912)
+File:5.000.000_drachmas,_1944_(3543707844).jpg|5.000.000 drachmae banknote (1944) during the [[Axis occupation of Greece|Axis Occupation]] [[hyperinflation]] period
+File:20_drachmas,_1955_(3542899543).jpg|20 drachmae banknote (1955)
+File:50GreekdrachmanNote.JPG|50 drachmae banknote (1964)
+File:100GreekdrachmaNote01.jpg|100 drachmae banknote (1967)
+</gallery>
+
+==Encoding==
+In Unicode, the currency symbol is {{unichar|20af|Drachma sign}}. There is a special [[Attic numerals|Attic numeral]] for the value of one drachma but it fails to render in current browsers.<ref>[http://www.fileformat.info/info/unicode/char/10142/index.htm fileformat.info] Entry for (U+10142)</ref>
+
+== In popular culture ==
+*The golden drachma is the main unit of currency in [[Rick Riordan|Rick Riordan's]] ''[[Percy Jackson & the Olympians]]'' series, as well as its spinoff ''[[The Heroes of Olympus]]'', the latter of which also features the Roman [[denarius]].
+
+==See also==
+* [[Commemorative coins of Greece]]
+* [[Economic history of Greece and the Greek world]]
+* [[Economy of Greece]]
+* [[Phoenix (currency)]]
+* [[Seleucid coinage]]
+
+==Restoration==
+
+The [[Drachmi Greek Democratic Movement Five Stars]] which was founded in 2013,<ref>{{cite web|url=http://greece.greekreporter.com/2013/05/09/political-party-drachma-5-launched|title=Political Party Drachma 5 Launched|work=greekreporter.com}}</ref> aims to restore the Drachma, as Greece's currency.
+
+==Notes and references==
+;Notes
+{{reflist|group=n}}
+;References
+{{reflist}}
+
+==External links==
+{{Commons|Drachma}}
+{{Commons|Modern Drachma}}
+{{Commons category|Banknotes of Greece}}
+* [http://news.bbc.co.uk/hi/english/static/in_depth/business/2001/euro_cash/spent_currencies/drachma.stm Overview of the modern Greek drachma from the BBC]
+
+{{s-start}}
+{{s-bef|before=[[Phoenix (currency)|Greek phoenix]]}} 
+{{s-ttl|title=[[Greece|Greek]] currency|years=1832–2001}} 
+{{s-aft|after=[[euro]]}}
+{{s-end}}
+{{Currency signs}}
+{{Euro topics}}
+{{Symbols of Greece}}
+
+{{DEFAULTSORT:Greek Drachma}}
+[[Category:Coins of ancient Greece]]
+[[Category:Currencies of Europe]]
+[[Category:Currencies replaced by the euro]]
+[[Category:Economic history of Greece]]
+[[Category:Modern obsolete currencies]]
+[[Category:Currencies of Greece]]

@@ -1,0 +1,29 @@
+A '''dramaturge''' or '''dramaturg''' is a professional position within a [[theatre]] or [[opera]] company that deals mainly with research and development of plays or operas.  Its modern-day function was originated by the innovations of [[Gotthold Lessing|Gotthold Ephraim Lessing]], an 18th-century [[Germans|German]] [[playwright]], [[philosopher]], and theorist about theatre.<ref>{{cite book| last= Schecter| page=27|editor=Cardullo, Bert|first=Joel|year=1995|title=What is Dramaturgy?|isbn=978-0-8204-2177-3|publisher=American University Press| quote= While at the Hamburg National Theatre, Lessing wrote Hamburg Dramaturgy, a collection of essays on theatre which popularized dramaturgy as both a word and a practice.  Today Lessing's successors — resident theatre critics throughout Germany and Austria — are called dramaturgs.}}</ref>
+
+==Responsibilities==
+
+One of the dramaturge's contributions is to categorize and discuss the various types of plays or operas, their interconnectedness and their styles.  The responsibilities of a dramaturge vary from one theatre or opera company to the next.  They might include the hiring of actors, the development of a season of plays or operas with a sense of coherence among them, assistance with and editing of new plays or operas by resident or guest playwrights or composers/librettists, the creation of programs or accompanying educational services, helping the director with rehearsals, and serving as elucidator of history or spokesperson for deceased or otherwise absent playwrights or composers. At larger theatres or opera houses, the dramaturge works on the historical and cultural research into the play or opera and its setting.
+
+In theatre companies, a dramaturge will create a workbook for the director and actors (usually these are different) and work extensively with the director prior to the first rehearsal.<ref>{{cite book|last=Proehl|first=Geoffrey S|year=2008|isbn=978-0-8386-4112-5|publisher=Associated University Press|title=Toward a Dramaturgical Sensibility:landscape and journey|page=19|quote=dramaturgy is the name given to that set of elements necessary to the working of a play at any moment in its passage from imagination to embodiment...}}</ref>
+
+Rehearsal and production dramaturgs are often assigned script-related duties. Most notably, in new productions, the production dramaturg is responsible for printing all new pages and distributing to actors, as well as being on-book, and serving as a dispenser of office supplies.<ref>{{cite book|last1=McKittens|first1=Ryan|title=Dramaturgy in the American (Repertory) Theatre|date=Spring 2015|publisher=Harvard University Press|location=Cambridge, Mass.|page=69}}</ref>
+
+== See also ==
+* [[Dramaturgy]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{Commons category|Playwrights}}
+* [http://www.lmda.org/ Literary Managers & Dramaturgs of the Americas], official website of the organization of these professionals in North America
+
+{{Authority control}}
+
+[[Category:Dramatists and playwrights|*]]
+[[Category:Theatrical occupations]]
+[[Category:Dramaturges| ]]
+
+
+{{job-stub}}
+{{theatre-stub}}

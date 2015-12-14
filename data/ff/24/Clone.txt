@@ -1,0 +1,52 @@
+{{wiktionary|clone}}
+'''Clone''' may refer to:
+
+{{TOC right}}
+
+==Biology== 
+* [[Cloning]], any organism whose genetic information is identical to that of a parent organism from which it was created
+* [[Clone (cell biology)]], a group of identical cells naturally derived from a common parent cell
+* [[Clone (B-cell biology)]], a process of immunological B-cell maturation
+* [[Molecular cloning]], an exact replica of all or part of a macromolecule (e.g. DNA)
+
+==Computing==
+* [[Clone (computing)]], computer hardware or software designed to function in the same way as an original
+** [[Video game clone]], a software game or game franchise heavily inspired by another
+* [[clone (Linux system call)]], in C, whereby a process creates a copy of itself
+* [[clone (Java method)]], a method in the Java programming language for object duplication
+* [[Clone tool]], a tool used in image manipulation programs
+
+==Telecommunications==
+* [[Phone cloning]], the transfer of identity from one cellular device to another
+
+==Entertainment==
+
+===Music===
+* [[Clone (Threshold album)|''Clone'' (Threshold album)]], 1998
+* [[Clone (Leo Kottke and Mike Gordon album)|''Clone'' (Leo Kottke and Mike Gordon album)]], 2002
+
+===Other===
+* ''[[O Clone]]'', a Brazilian soap opera
+* [[Clone Wars (disambiguation)]]
+* ''[[Clone Wars (Star Wars)|Clone Wars]]''[[Clone Wars (Star Wars)|(Star Wars)]], a TV show and movie set in the Star Wars universe
+* [[Clone trooper]], a fictional soldier in the Star Wars universe
+* The [[Clone Saga]], a controversial story-line from Marvel Comics' Spider-Man comic books
+* [[Clone (TV series)|''Clone'' (TV series)]], a 2008 BBC comedy series
+* [[Clone (film)|''Clone'' (film)]], a 2010 film originally released as ''Womb''
+* Clone Comet, a type of Prankster Comet from the video game ''[[Super Mario Galaxy 2]]''
+
+==Mathematics==
+* [[Clone (algebra)]], a collection of functions with certain properties
+
+==Other uses==
+* [[Clone (voting)]], in voting systems analysis, a candidate identical to one already present in an election
+* [[Castro clone]], a fashion movement arising from the gay community in the Castro district of San Francisco, California
+* A popular term for a [[replica]], particularly when referring to "recreations" of rare and desirable variants of collector cars, ''or'' an [[Licensed production|unlicensed]], [[Reverse engineering|reverse-engineered]] copy of a [[firearm]] produced in another nation (although the term can also apply to a simple direct copy, created under license).
+
+==See also==
+* [[Clon]], a South Korean dance music duo
+* [[Clonal (disambiguation)]]
+* [[Clones (disambiguation)]]
+* [[Cloning (disambiguation)]]
+
+{{disambiguation}}

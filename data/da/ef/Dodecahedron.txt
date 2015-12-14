@@ -1,0 +1,277 @@
+{| class=wikitable align=right width=320
+|+ Common dodecahedra
+|-  align=center
+!colspan=4|I<sub>h</sub>, order 120
+|- align=center valign=bottom
+|[[Regular dodecahedron|Regular-]]
+|[[Small stellated dodecahedron|Small stellated-]]
+|[[Great dodecahedron|Great-]]
+|[[Great stellated dodecahedron|Great stellated-]]
+|-  align=center valign=bottom
+|[[File:Dodecahedron.png|80px]]
+|[[File:Small stellated dodecahedron.png|80px]]
+|[[File:Great dodecahedron.png|80px]]
+|[[File:Great stellated dodecahedron.png|80px]]
+
+|-
+!T<sub>h</sub>, order 24
+!T, order 12
+!O<sub>h</sub>, order 48
+!T<sub>d</sub>, order 24
+|- align=center valign=bottom
+|[[Pyritohedron]]
+|[[Tetartoid]]
+|[[Rhombic dodecahedron|Rhombic-]]
+|[[trapezoidal dodecahedron|Trapezoidal-]]
+|-  align=center valign=bottom
+|[[File:Pyritohedron.png|80px]]
+|[[File:Tetartoid.png|80px]]
+|[[File:Rhombic dodecahedron.png|80px]]
+|[[File:Skew rhombic dodecahedron-150.png|80px]]
+
+|- align=center 
+!colspan=2|D<sub>4h</sub>, order 16
+!colspan=2|D<sub>3h</sub>, order 12
+|- align=center
+|[[rhombo-hexagonal dodecahedron|Rhombo-hexagonal-]]
+|[[Rhombic_dodecahedron#Parallelohedron|Rhombo-square-]]
+|[[Trapezo-rhombic dodecahedron|Trapezo-rhombic-]]
+|[[Triangular-rhombic dodecahedron|Rhombo-triangular-]]
+|- align=center 
+|[[File:Rhombo-hexagonal dodecahedron.png|80px]]
+|[[File:Squared rhombic dodecahedron.png|80px]]
+|[[File:Trapezo-rhombic dodecahedron.png|80px]]
+|[[File:Triangular square dodecahedron.png|80px]]
+|}
+In [[geometry]], a '''dodecahedron''' (Greek δωδεκάεδρον, from δώδεκα ''dōdeka'' "twelve" + ἕδρα ''hédra'' "base", "seat" or "face") is any [[polyhedron]] with twelve flat faces. The most familiar dodecahedron is the [[regular dodecahedron]], which is a [[Platonic solid]]. There are also three [[Kepler–Poinsot polyhedron|regular star dodecahedra]], which are constructed as [[stellation]]s of the convex form. All of these have [[icosahedral symmetry]], order 120.
+
+The [[#pyritohedron|pyritohedron]] is an irregular pentagonal dodecahedron, having the same topology as the regular one but [[pyritohedral symmetry]] while the [[#tetaroid|tetaroid]] has [[tetrahedral symmetry]]. The [[rhombic dodecahedron]], seen as a limiting case of the pyritohedron has [[octahedral symmetry]]. The [[elongated dodecahedron]] and [[trapezo-rhombic dodecahedron]] variations, along with the rhombic dodecahedra are [[space-filling polyhedra|space-filling]]. There are a large number of [[#Other dodecahedra|other dodecahedra]].
+
+==Pentagonal dodecahedron==
+
+{{main|Regular dodecahedron}}
+The convex regular dodecahedron is one of the five regular [[Platonic solid]]s and can be represented by its [[Schläfli symbol]] {5, 3}.
+
+The [[dual polyhedron]] is the regular [[icosahedron]] {3, 5}, having five equilateral triangles around each vertex.
+
+In [[crystallography]], two important dodecahedra can occur as crystal forms in some [[crystallographic point groups|symmetry classes]] of the [[cubic crystal system]] that are topologically equivalent to the regular dodecahedron but less symmetrical: the pyritohedron with [[pyritohedral symmetry]], and the [[tetartoid]] with [[tetrahedral symmetry]]:
+{{-}}
+=== Pyritohedron ===
+{| class=wikitable align=right width=230
+!bgcolor=#e7dcc3 colspan=2|Pyritohedron
+|-
+|align=center colspan=2|[[Image:Pyritohedron.png|220px]]<BR>A pyritohedron has 30 edges, divided into two lengths: 24 and 6 in each group.
+|-
+|bgcolor=#e7dcc3|Face polygon||[[pentagon|irregular pentagon]]
+|-
+|bgcolor=#e7dcc3|[[Coxeter diagram]]s||{{CDD|node|4|node_fh|3|node_fh}}<BR>{{CDD|node_fh|3|node_fh|3|node_fh}}
+|-
+|bgcolor=#e7dcc3|[[Face (geometry)|Faces]]||12
+|-
+|bgcolor=#e7dcc3|[[Edge (geometry)|Edges]]||30 (6+24)
+|-
+|bgcolor=#e7dcc3|[[Vertex (geometry)|Vertices]]||20 (8+12)
+|-
+|bgcolor=#e7dcc3|[[List of spherical symmetry groups#Polyhedral sym|Symmetry group]]||[[Pyritohedral symmetry|T<sub>h</sub>]], [4,3<sup>+</sup>], (3*2), order 24
+|-
+|bgcolor=#e7dcc3|[[Point groups in three dimensions#Rotation groups|Rotation group]]||[[Tetrahedral symmetry|T]], [3,3]<sup>+</sup>, (332), order 12
+|-
+|bgcolor=#e7dcc3|[[Dual polyhedron]]||[[Pseudoicosahedron]]
+|-
+|bgcolor=#e7dcc3|Properties||[[face transitive]]
+|- align=center
+|colspan=2|[[Net (polyhedron)|Net]]<BR>[[File:Pyritohedron flat.png|200px]]
+|}
+A '''pyritohedron''' is a dodecahedron with [[pyritohedral symmetry|pyritohedral]] (T<sub>h</sub>) symmetry. Like the [[regular dodecahedron]], it has twelve identical [[pentagon]]al faces, with three meeting in each of the 20 vertices. However, the pentagons are not constrained to be regular, and the underlying atomic arrangement has no true fivefold symmetry axes. Its 30 edges are divided into two sets – containing 24 and 6 edges of the same length. The only axes of [[rotational symmetry]] are three mutually perpendicular twofold axes.
+
+Although regular dodecahedra do not exist in crystals, the  pyritohedron form occurs in the crystals of the mineral [[pyrite]], and it may be an inspiration for the discovery of the regular [[Platonic solid]] form. Note that the true regular dodecahedron can occur as a shape for [[quasicrystal]]s with [[icosahedral symmetry]], which includes true fivefold rotation axes.
+
+==== Crystal pyrite ====
+Its name comes from one of the two common [[crystal habit]]s shown by [[pyrite]], the other one being the [[cube]].
+{| class=wikitable width=300
+|[[File:Pyriteespagne.jpg|150px]]<BR>Cubic pyrite
+|[[Image:Pyrite cristal.jpg|150px]]<BR>Pyritohedral
+|[[File:Ho-Mg-ZnQuasicrystal.jpg|150px]]<BR>Ho-Mg-Zn [[Quasicrystal#Materials science of quasicrystals|quasicrystal]]
+|}
+
+====Cartesian coordinates====
+[[File:Pyritohedron animation.gif|200px|left]]
+The coordinates of the eight vertices of the original cube are:
+: (±1, ±1, ±1)
+
+The coordinates of the 12 vertices of the cross-edges are:
+: (0, ±(1 + ''h''), ±(1 − ''h''<sup>2</sup>))
+: (±(1 + ''h''), ±(1 − ''h''<sup>2</sup>), 0)
+: (±(1 − ''h''<sup>2</sup>), 0, ±(1 + ''h''))
+
+where ''h'' is the height of the [[wedge (geometry)|wedge-shaped "roof"]] above the faces of the cube. When ''h''&nbsp;=&nbsp;1, the six cross-edges degenerate to points and a  [[rhombic dodecahedron]] is formed. When ''h''&nbsp;=&nbsp;0, the cross-edges are absorbed in the facets of the cube, and the pyritohedron reduces to a cube. When ''h''&nbsp;=&nbsp;(√5&nbsp;−&nbsp;1)/2, the inverse of the [[golden ratio]], the result is a regular dodecahedron.
+
+[[File:Compound_pyritohedron_and_dual.png|thumb|left|[[compound of two dodecahedra|Pyritohedra in dual positions]]
+<BR>{{CDD|node|4|node_fh3|3|node_fh3}}]]A reflected pyritohedron is made by swapping the nonzero coordinates above. The two pyritohedra can be superimposed to give the [[compound of two dodecahedra]] as seen in the image here.
+
+==== Geometric freedom ====
+The pyritohedron has a geometric degree of freedom with [[limiting case (mathematics)|limiting case]]s of a cubic [[convex hull]] at one limit of colinear edges, and a [[rhombic dodecahedron]] as the other limit as 6 edges are degenerated to length zero. The regular dodecahedron represents a special intermediate case where all edges and angles are equal.
+{{-}}
+{| class=wikitable width=600
+|+ Special cases of the pyritohedron
+|- valign=top
+!1 : 1
+!1 : 1
+!2 : 1
+!1.3092... : 1
+!1 : 1
+!0 : 1
+|- valign=top
+!''h'' = - (√5 + 1)/2
+!
+!''h'' = 0
+!
+!''h'' = (√5 − 1)/2
+!''h'' = 1
+|- valign=top
+||[[File:Great stellated dodecahedron.png|120px]]<BR>Regular star, [[great stellated dodecahedron]], with pentagons distorted into regular [[pentagram]]s
+||[[File:Concave pyritohedral dodecahedron.png|120px]]<BR>Concave pyritohedral dodecahedron is called a ''endo-dodecahedron'' and can tessellate space with the convex regular dodecahedron.
+|[[File:Pyritohedron cube.png|120px]]<BR>A [[cube]] can be divided into a pyritohedron by bisecting all the edges, and faces in alternate directions.
+|[[File:Irregular dodecahedron.png|120px]]<BR>The geometric proportions of the pyritohedron in the [[Weaire–Phelan structure]]
+|[[File:Dodecahedron.png|120px]]<BR>A regular dodecahedron is an intermediate case with equal edge lengths.
+|[[File:Rhombicdodecahedron.jpg|120px]]<BR>A [[rhombic dodecahedron]] is the limiting case with the 6 crossedges reducing to length zero.
+|}
+
+=== Tetartoid ===
+{| class=wikitable align=right width=280
+!bgcolor=#e7dcc3 colspan=2|Tetartoid<BR>Tetragonal pentagonal dodecahedron
+|-
+|align=center colspan=2|[[File:Tetartoid.png|280px]]
+|-
+|bgcolor=#e7dcc3|Face polygon||[[pentagon|irregular pentagon]]
+|-
+|bgcolor=#e7dcc3|[[Conway polyhedron notation]]||gT
+|-
+|bgcolor=#e7dcc3|[[Face (geometry)|Faces]]||12
+|-
+|bgcolor=#e7dcc3|[[Edge (geometry)|Edges]]||30 (6+12+12)
+|-
+|bgcolor=#e7dcc3|[[Vertex (geometry)|Vertices]]||20 (4+4+12)
+|-
+|bgcolor=#e7dcc3|[[List of spherical symmetry groups#Polyhedral sym|Symmetry group]]||[[tetrahedral symmetry|T]], [3,3]<sup>+</sup>, (332), order 12
+<!--|-
+|bgcolor=#e7dcc3|[[Dual polyhedron]]||[[Pseudoicosahedron]]-->
+|-
+|bgcolor=#e7dcc3|Properties||[[convex set|convex]], [[face transitive]]
+<!--|- align=center
+|colspan=2|[[Net (polyhedron)|Net]]<BR>[[File:Pyritohedron flat.png|200px]]-->
+|}
+[[File:Tetartoid-25.gif|thumb|Tetartoid]]
+A '''tetartoid''' (also '''tetragonal pentagonal dodecahedron''', '''pentagon-tritetrahedron''', and '''tetrahedric pentagon dodecahedron''') is a dodecahedron with chiral [[tetrahedral symmetry]], (T). Like the [[regular dodecahedron]], it has twelve identical [[pentagon]]al faces, with three meeting in each of the 20 vertices. However, the pentagons are not regular and the figure has no fivefold symmetry axes. 
+
+Although regular dodecahedra do not exist in crystals, the tetartoid form occurs in the crystals. The name tetartoid comes from the Greek root for one-fourth because it has one fourth of full octahedral symmetry, and half that of pyritohedral symmetry.<ref>https://www.uwgb.edu/dutchs/symmetry/xlforms.htm</ref> The mineral [[cobaltite]] can have this symmetry form.<ref>http://www.galleries.com/minerals/property/crystal.htm#dodecahe</ref>
+{|
+![[cobaltite]]
+|-
+|[[File:Koboltglans.jpg|240px]]
+|}
+
+Its topology can be as a cube with square faces bisected into 2 rectangles like the pyritohedron, and then the bisection lines are slanted retaining 3-fold rotation at the 8 corners. 
+====Cartesian coordinates====
+To generate a tetartoid pentagon under the tetrahedral group, choose numbers ''0≤a≤b≤c''.<ref>http://demonstrations.wolfram.com/TheTetartoid/</ref>
+
+Calculate  ''n = a<sup>2</sup>c-bc<sup>2</sup>'', ''d<sub>1</sub> = a<sup>2</sup>-ab+b<sup>2</sup>+ac-2bc'' , ''d<sub>2</sub> = a<sup>2</sup>+ab+b<sup>2</sup>-ac-2bc'' . If ''n×d<sub>1</sub>×d<sub>2</sub>≠0'', then the following are vertices of a tetartoid pentagon:
+:  ''((a, b, c), (-a, -b, c), (-n, -n, n)/d<sub>1</sub>, (-c, -a, b), (-n, n, n)/d<sub>2</sub>)''
+
+==== Variations====
+It can be seen as a tetrahedron, with edges divided into 3 segments, along with a center point of each triangular face. In [[Conway polyhedron notation]] it can be seen as gT, a gyro tetrahedron.
+:[[File:Tetartoid_cubic.png|160px]][[File:Tetartoid_tetrahedral.png|160px]]
+
+{| class=wikitable
+|+ Example tetartoid variations
+|[[File:Tetartoid-010.png|150px]]
+|[[File:Tetartoid-020.png|150px]]
+|[[File:Tetartoid-040.png|150px]]
+|-
+|[[File:Tetartoid-060.png|150px]]
+|[[File:Tetartoid-080.png|150px]]
+|[[File:Tetartoid-095.png|150px]]
+|}
+{{-}}
+
+==Rhombic dodecahedron==
+[[File:Rhombicdodecahedron.jpg|160px|thumb|Rhombic dodecahedron]]
+The ''[[rhombic dodecahedron]]'' is a [[zonohedron]] with twelve rhombic faces and octahedral symmetry. It is dual to the [[quasiregular polyhedron|quasiregular]] [[cuboctahedron]] (an [[Archimedean solid]]) and occurs in nature as a crystal form.<ref name=cryst1>[http://www.khulsey.com/jewelry/crystal_habit.html#h-5. Dodecahedral Crystal Habit]</ref> The rhombic dodecahedron packs together to fill space.
+
+The ''rhombic dodecahedron'' can be seen as a degenerate [[pyritohedron]] where the 6 special edges have been reduced to zero length, reducing the pentagons into rhombic faces.
+
+The rhombic dodecahedron has several [[stellation]]s, the [[First stellation of rhombic dodecahedron|first of which]] is also a [[rhombic dodecahedron#Parallelohedron|parallelohedral spacefiller]].
+
+Another important rhombic dodecahedron has twelve faces congruent to those of the [[rhombic triacontahedron]], i.e. the diagonals are in the ratio of the [[golden ratio]]. It is also a [[zonohedron]] and was described by Bilinski in 1960.<ref>[http://www.mi.sanu.ac.rs/vismath/hafner2/IntrodRhombic.html Hafner, I. and Zitko, T.; ''Introduction to golden rhombic polyhedra'']</ref> This figure is another spacefiller, and can also occur in non-periodic [[honeycomb (geometry)|spacefilling]]s along with the rhombic triacontahedron, the rhombic icosahedron and rhombic hexahedra.<ref>[http://met.iisc.ernet.in/~lord/webfiles/tcq.html Lord, K.; ''Tilings, coverings, clusters and quasicrystals'']</ref>
+
+{{-}}
+
+==Other dodecahedra==
+
+There are 6,384,634 topologically distinct ''convex'' dodecahedra, excluding mirror images, having at least 8 vertices.<ref>[http://www.numericana.com/data/polycount.htm Counting polyhedra]</ref> (Two polyhedra are "topologically distinct" if they have intrinsically different arrangements of faces and vertices, such that it is impossible to distort one into the other simply by changing the lengths of edges or the angles between edges or faces.)
+
+Topologically distinct dodecahedra (excluding pentagonal and rhombic forms)
+*Uniform polyhedra:
+**[[Decagonal prism]] – 10 squares, 2 decagons, [[Dihedral symmetry|D<sub>10h</sub>]] symmetry, order 40.
+**[[Pentagonal antiprism]] – 10 equilateral triangles, 2 pentagons, [[Dihedral symmetry|D<sub>5d</sub>]] symmetry, order 20
+*[[Johnson solid]]s (regular faced):
+**[[Pentagonal cupola]] – 5 triangles, 5 squares, 1 pentagon, 1 decagon, [[Cyclic symmetry|C<sub>5v</sub>]] symmetry, order 10
+**[[Snub disphenoid]] – 12 triangles, [[Dihedral symmetry|D<sub>2d</sub>]], order 8
+**[[Elongated square dipyramid]] – 8 triangles and 4 squares, [[Dihedral symmetry|D<sub>4h</sub>]] symmetry, order 16
+**[[Metabidiminished icosahedron]] – 10 triangles and 2 pentagons, [[Cyclic symmetry|C<sub>2v</sub>]] symmetry, order 4
+*Congruent irregular faced: ([[face-transitive]])
+**[[Hexagonal bipyramid]] – 12 isosceles [[triangle]]s, dual of [[hexagonal prism]], [[Dihedral symmetry|D<sub>6h</sub>]] symmetry, order 24
+**[[Hexagonal trapezohedron]] – 12 [[kite (geometry)|kites]], dual of [[hexagonal antiprism]], [[Dihedral symmetry|D<sub>6d</sub>]] symmetry, order 24
+**[[Triakis tetrahedron]] – 12 isosceles triangles, dual of [[truncated tetrahedron]], [[Tetrahedral symmetry|T<sub>d</sub>]] symmetry, order 24
+*Other less regular faced:
+**Hendecagonal [[pyramid (geometry)|pyramid]] – 11 isosceles triangles and 1 regular [[hendecagon]], [[Cyclic symmetry|C<sub>11v</sub>]], order 11
+**[[Trapezo-rhombic dodecahedron]] – 6 rhombi, 6 [[trapezoid]]s – dual of [[triangular orthobicupola]], [[Dihedral symmetry|D<sub>3h</sub>]] symmetry, order 12
+**[[Rhombo-hexagonal dodecahedron]] or ''elongated Dodecahedron'' – 8 rhombi and 4 equilateral [[hexagon]]s, [[Dihedral symmetry|D<sub>4h</sub>]] symmetry, order 16
+**[[Truncated trapezohedron|Truncated pentagonal trapezohedron]], [[dihedral symmetry|D<sub>5d</sub>]], order 20, topologically equivalent to regular dodecahedron
+
+==See also==
+*[[120-cell]]: a [[Convex regular 4-polytope|regular polychoron]] (4D polytope) whose surface consists of 120 dodecahedral cells.
+*[[Pentakis dodecahedron]]
+*[[Snub dodecahedron]]
+*[[Truncated dodecahedron]]
+
+==References==
+<!--See [[Wikipedia:Footnotes]] for instructions.-->
+{{reflist|2}}
+* ''Plato's Fourth Solid and the "Pyritohedron"'', by Paul Stephenson, 1993, The Mathematical Gazette, Vol. 77, No. 479 (Jul., 1993), pp.&nbsp;220–226 [http://www.jstor.org/pss/3619718]
+* [http://www.friesian.com/elements.htm THE GREEK ELEMENTS]
+
+==External links==
+{{Commons category|Regular dodecahedra}}
+*{{MathWorld |urlname=Dodecahedron |title=Dodecahedron}}
+*{{MathWorld |urlname=ElongatedDodecahedron |title=Elongated Dodecahedron}}
+* {{MathWorld | urlname=Pyritohedron | title=Pyritohedron}}
+* [http://bulatov.org/polyhedra/dodeca270/index.html Stellation of Pyritohedron] VRML models and animations of Pyritohedron and its [[stellation]]s.
+*{{KlitzingPolytopes|polyhedra.htm|3D convex uniform polyhedra|o3o5x – doe}}
+*[http://www.dr-mikes-math-games-for-kids.com/polyhedral-nets.html?net=1bk9bWiCSjJz6LpNRYDsAu8YDBWnSMrt0ydjpIfF8jmyc682nzINN9xaGayOA9FBx396IIYMhulg2mGXcK0mAk5Rmo8qm9ut0kE1qP&name=Dodecahedron#applet Editable printable net of a dodecahedron with interactive 3D view]
+*[http://www.mathconsult.ch/showroom/unipoly/ The Uniform Polyhedra]
+*[http://www.flickr.com/photos/pascalin/sets/72157594234292561/ Origami Polyhedra] – Models made with Modular Origami
+*[http://polyhedra.org/poly/show/3/dodecahedron Dodecahedron] – 3-d model that works in your browser
+*[http://www.georgehart.com/virtual-polyhedra/vp.html Virtual Reality Polyhedra] The Encyclopedia of Polyhedra
+** [http://www.georgehart.com/virtual-polyhedra/dodecahedra.html Dodecahedra] variations
+**[[VRML]] models
+*#[http://www.georgehart.com/virtual-polyhedra/vrml/dodecahedron.wrl Regular dodecahedron] regular
+*#[http://www.georgehart.com/virtual-polyhedra/vrml/rhombic_dodecahedron.wrl Rhombic dodecahedron] quasiregular
+*#[http://www.georgehart.com/virtual-polyhedra/vrml/decagonal_prism.wrl Decagonal prism] vertex-transitive
+*#[http://www.georgehart.com/virtual-polyhedra/vrml/pentagonal_antiprism.wrl Pentagonal antiprism] vertex-transitive
+*#[http://www.georgehart.com/virtual-polyhedra/vrml/hexagonal_dipyramid.wrl Hexagonal dipyramid] face-transitive
+*#[http://www.georgehart.com/virtual-polyhedra/vrml/triakistetrahedron.wrl Triakis tetrahedron] face-transitive
+*#[http://www.georgehart.com/virtual-polyhedra/vrml/hexagonal_trapezohedron.wrl hexagonal trapezohedron] face-transitive
+*#[http://www.georgehart.com/virtual-polyhedra/vrml/pentagonal_cupola_(J5).wrl Pentagonal cupola] regular faces
+*[http://www.kjmaclean.com/Geometry/GeometryHome.html K.J.M. MacLean, A Geometric Analysis of the Five Platonic Solids and Other Semi-Regular Polyhedra]
+*[http://www.bodurov.com/VectorVisualizer/?vectors=-0.94/-2.885/-3.975/-1.52/-4.67/-0.94v-3.035/0/-3.975/-4.91/0/-0.94v3.975/-2.885/-0.94/1.52/-4.67/0.94v1.52/-4.67/0.94/-1.52/-4.67/-0.94v0.94/-2.885/3.975/1.52/-4.67/0.94v-3.975/-2.885/0.94/-1.52/-4.67/-0.94v-3.975/-2.885/0.94/-4.91/0/-0.94v-3.975/2.885/0.94/-4.91/0/-0.94v-3.975/2.885/0.94/-1.52/4.67/-0.94v-2.455/1.785/3.975/-3.975/2.885/0.94v-2.455/-1.785/3.975/-3.975/-2.885/0.94v-1.52/4.67/-0.94/-0.94/2.885/-3.975v4.91/0/0.94/3.975/-2.885/-0.94v3.975/2.885/-0.94/2.455/1.785/-3.975v2.455/-1.785/-3.975/3.975/-2.885/-0.94v1.52/4.67/0.94/-1.52/4.67/-0.94v3.035/0/3.975/0.94/2.885/3.975v0.94/2.885/3.975/-2.455/1.785/3.975v-2.455/1.785/3.975/-2.455/-1.785/3.975v-2.455/-1.785/3.975/0.94/-2.885/3.975v0.94/-2.885/3.975/3.035/0/3.975v2.455/1.785/-3.975/-0.94/2.885/-3.975v-0.94/2.885/-3.975/-3.035/0/-3.975v-3.035/0/-3.975/-0.94/-2.885/-3.975v-0.94/-2.885/-3.975/2.455/-1.785/-3.975v2.455/-1.785/-3.975/2.455/1.785/-3.97v3.035/0/3.975/4.91/0/0.94v4.91/0/0.94/3.975/2.885/-0.94v3.975/2.885/-0.94/1.52/4.67/0.94v1.52/4.67/0.94/0.94/2.885/3.975 Dodecahedron 3D Visualization]
+*[http://www.software3d.com/Stella.php Stella: Polyhedron Navigator]: Software used to create some of the images on this page.
+*[http://video.fc2.com/content/20141015mMG9QR5R How to make a dodecahedron from a Styrofoam cube]
+
+{{Polyhedra}}
+{{Polyhedron navigator}}
+{{Polytopes}}
+
+[[Category:Planar graphs]]
+[[Category:Individual graphs]]
+[[Category:Platonic solids]]

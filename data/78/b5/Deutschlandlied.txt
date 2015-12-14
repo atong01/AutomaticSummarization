@@ -1,0 +1,284 @@
+{{Redirect|Über Alles}}
+{{refimprove|date=June 2014}}
+{{Use dmy dates|date=July 2012}}
+{{Infobox anthem
+|title         = {{Lang|de|Das Lied der Deutschen}}
+|english_title = The Song of the Germans
+|prefix        = National
+|alt_title     = {{Lang|de|Deutschlandlied}}
+|en_alt_title  = The Song of Germany
+|alt_title_2   = {{Lang|de|Deutschland über alles}}
+|en_alt_title_2= Germany above all
+|image         = Deutschlandlied.jpg
+|image_size    =
+|caption       = [[Facsimile]] of Hoffmann von Fallersleben's manuscript of "{{Lang|de|Das Lied der Deutschen}}"
+|country       = {{DEU}}
+|composer      = [[Joseph Haydn]]
+|music_date    = 1797
+|author        = [[August Heinrich Hoffmann von Fallersleben]]
+|lyrics_date   = 1841
+|adopted       = 1922
+|until         =
+|sound         = National anthem of Germany - U.S. Army 1st Armored Division Band.ogg
+|sound_title   = "Deutschlandlied" (instrumental)
+}}
+[[File:Nationalhymne der Bundesrepublik Deutschland.svg|thumb|upright=1.35|National anthem of Germany]]
+The "'''{{lang|de|Deutschlandlied}}'''" (English: "Song of Germany", {{IPA-de|ˈdɔʏtʃlantˌliːt}}; also known as "'''{{lang|de|Das Lied der Deutschen}}'''" or "The Song of the Germans"), or part of it, has been the [[national anthem]] of [[Germany]] since 1922, except in [[East Germany]], whose anthem was "[[Auferstanden aus Ruinen]]" ("Risen from Ruins") from 1949 to 1990.
+
+Since [[World War II]] and the fall of [[Nazi Germany]], only the third [[stanza]] has been used as the national anthem. The stanza's beginning, "{{Lang|de|[[Wikt:Einigkeit|Einigkeit]] und [[Wikt:Recht|Recht]] und [[Wikt:Freiheit|Freiheit]]}}" ("Unity and Justice and Freedom") is considered the unofficial [[national motto]] of Germany,<ref>[https://books.google.com/books?id=Y85XAAAAYAAJ&q=einigkeit+und+recht+und+freiheit+motto+federal+republic&dq=einigkeit+und+recht+und+freiheit+motto+federal+republic&hl=de&sa=X&ei=tHSeUt_UCMXbswan34HwCA&ved=0CEQQ6AEwAg ''The Complete Guide to National Symbols and Emblems'', James Minahan, Google Books<!-- Bot generated title -->]</ref> and is inscribed on modern German Army belt buckles and the rims of some [[German coins]].
+
+The music was written by Austrian composer [[Joseph Haydn]] in 1797 as an anthem for the birthday of [[Francis II, Holy Roman Emperor|Francis II]], Emperor of the [[Holy Roman Empire]] and later of [[Austrian Empire|Austria]]. In 1841, the German linguist and poet [[August Heinrich Hoffmann von Fallersleben]] wrote the lyrics of "{{Lang|de|Das Lied der Deutschen}}" to Haydn's melody, lyrics that were considered revolutionary at the time.
+
+The song is also well known by the beginning and refrain of the first stanza, "{{lang|de|Deutschland, Deutschland über alles}}" ("Germany, Germany above all"), but this has never been its title. The line "Germany, Germany above all" meant that the most important goal of 19th-century German liberal revolutionaries should be a unified Germany which would overcome the perceived anti-liberal ethos of then-fragmented Germany (''[[Kleinstaaterei]]''). Along with the [[flag of Germany]], it was one of the symbols of the [[Revolutions of 1848 in the German states|March Revolution of 1848]].
+
+In order to endorse its republican and liberal tradition, the song was chosen as the national anthem of Germany in 1922, during the [[Weimar Republic]]. [[West Germany]] adopted the "{{Lang|de|Deutschlandlied}}" as its official national anthem in 1952 for similar reasons, with only the third stanza sung on official occasions. Upon [[German reunification]] in 1990, only the third stanza was confirmed as the national anthem.
+
+== Melody ==
+[[File:Haydn portrait by Thomas Hardy (small).jpg|upright|thumb|left|Portrait of Haydn by [[Thomas Hardy (English painter)|Thomas Hardy]], 1792]]
+{{Main|Gott erhalte Franz den Kaiser}}
+The melody of the "{{Lang|de|Deutschlandlied}}" was originally written by [[Joseph Haydn]] in 1797 to provide music to the poem "[[Gott erhalte Franz den Kaiser]]" ("God save Franz the Emperor") by [[Lorenz Leopold Haschka]]. The song was a birthday anthem honouring [[Francis II, Holy Roman Emperor|Francis II]] (1768–1835), Habsburg emperor, and was intended as a parallel to the British "[[God Save the King]]".
+
+It has been conjectured that Haydn took the first four measures of the melody from a Croatian folk song. Supporters of this theory note that a similar melody appears in a composition by Telemann.<ref>{{cite web|work=Oxford Music Online|publisher=Oxford University Press|title=Emperor's Hymn|accessdate=6 November 2011|url= http://www.oxfordmusiconline.com/subscriber/article/opr/t114/e2247}}{{dead link|date=February 2014}}</ref> This hypothesis has never achieved unanimous agreement; the alternative theory is that Haydn's original tune was adapted from a folk song of different origin.
+
+The same melody was later used by Haydn as the basis for the second [[Movement (music)|movement]] (''poco adagio cantabile'') of his [[String Quartets, Op. 76 (Haydn)#Opus 76, No. 3|Opus 76 No. 3]], a [[string quartet]], often called the "Emperor" or "Kaiser" quartet. The melody in this movement is also termed the "Emperor's Hymn."
+
+== Historical background ==
+{{Main|Unification of Germany}}
+The [[Holy Roman Empire]], stemming from the [[Middle Ages]], was already disintegrating when the [[French Revolution]] and the ensuing [[Napoleonic Wars]] altered the political map of [[Central Europe]]. However, hopes for the [[Age of Enlightenment|Enlightenment]], [[human rights]] and [[republican government]] after [[Napoleon I]]'s defeat in 1815 were dashed when the [[Congress of Vienna]] reinstated many small German principalities. In addition, with the [[Carlsbad Decrees]] of 1819, Austrian Chancellor [[Klemens von Metternich]] and his secret police enforced [[censorship]], mainly in universities, to keep a watch on the activities of teachers and students, whom he held responsible for the spread of [[Political radicalism|radical]] [[liberalism|liberalist]] ideas. Since reactionaries among the monarchs were the main adversaries, demands for [[freedom of the press]] and other liberal rights were most often uttered in connection with the demand for a united Germany, even though many revolutionaries-to-be had different opinions about whether a republic or a [[constitutional monarchy]] would be the best solution for Germany.
+
+The [[German Confederation]] ''([[Deutscher Bund]]'' – 1815–1866) was a loose federation of 35 monarchical states and four republican free cities, with a [[Bundesversammlung (German Confederation)|Federal Assembly]] in Frankfurt. They began to remove internal customs barriers during the Industrial Revolution, and the German Customs Union (''[[Zollverein]]'') was formed among the majority of the states in 1834. In 1840 Hoffmann wrote a song about the ''Zollverein'', also to Haydn's melody, in which he praised the free trade of German goods which brought Germans and Germany closer.<ref>{{cite web|url=http://www.von-fallersleben.de/text252.html|title=Schwefelhölzer, Fenchel, Bricken (Der deutsche Zollverein)|work=www.von-fallersleben.de|accessdate=27 June 2010|language=German}}</ref>
+
+After the 1848 March Revolution, the German Confederation handed over its authority to the [[Frankfurt Parliament]], and the [[Kingdom of Prussia]] joined the Confederation. For a short period in the late 1840s, Germany was economically united with the borders described in the anthem, and a democratic constitution was being drafted, and with the [[Flag of Germany#Revolution and the Frankfurt Parliament|black-red-gold flag]] representing it. However, after 1849 the two largest German monarchies, Prussia and Austria, put an end to this liberal movement toward national unification.
+
+== Hoffmann's lyrics ==
+[[File:August Heinrich Hoffmann von Fallersleben.jpg|thumb|upright|August Heinrich Hoffmann von Fallersleben in 1841]]
+[[August Heinrich Hoffmann von Fallersleben|August Heinrich Hoffmann]] (who called himself ''Hoffmann von [[Fallersleben]]'' after his home town to distinguish himself from others with the same common name of "Hoffmann") wrote the text in 1841 on holiday on the [[North Sea]] island of [[Heligoland]], then a possession of the United Kingdom (now part of Germany).
+
+Hoffmann von Fallersleben intended "{{Lang|de|Das Lied der Deutschen}}" to be sung to Haydn's tune, as the first publication of the poem included the music. The first line, "{{Lang|de|Deutschland, Deutschland über alles, über alles in der Welt}}" (usually translated into English as "Germany, Germany above all, above all in the world"), was an appeal to the various German monarchs to give the creation of a united Germany a higher priority than the independence of their small states. In the third stanza, with a call for "{{Lang|de|Einigkeit und Recht und Freiheit}}" (unity and justice and freedom), Hoffmann expressed his desire for a united and free Germany where the [[rule of law]], not monarchical arbitrariness, would prevail.<ref>{{cite web |url=http://www.bundestag.de/blickpunkt/103_Parlament/0502/0502014.html |archiveurl=https://web.archive.org/web/20110906081233/http://www.bundestag.de/blickpunkt/103_Parlament/0502/0502014.html |archivedate=2011-09-06 |title=Staatssymbole Zeichen politischer Gemeinschaft |first=Nadja |last=Bareth |work=[[Bundestag|Blickpunt Bundestag]] |date=February 2005 |accessdate=1 December 2009 |language=German}}</ref>
+
+In the era after the [[Congress of Vienna]], influenced by [[Metternich]] and his [[secret police]], Hoffmann's text had a distinctly revolutionary and at the same time [[liberalism|liberal]] connotation, since the appeal for a united Germany was most often made in connection with demands for [[freedom of the press]] and other [[civil rights]]. Its implication that loyalty to a larger Germany should replace loyalty to one's local sovereign was then a revolutionary idea.
+
+The year after he wrote "Das Deutschlandlied", Hoffmann lost his job as a librarian and professor in [[Breslau]], Prussia (now [[Wrocław]], Poland), because of this and other revolutionary works, and was forced into hiding until being pardoned after the [[revolutions of 1848 in the German states]].
+
+== Lyrics and translation ==
+The following provides the lyrics of the "{{Lang|de|Lied der Deutschen}}" as written by [[August Heinrich Hoffmann von Fallersleben|Hoffmann von Fallersleben]].
+
+Only the third stanza is currently the Federal Republic of Germany's national anthem.<ref name=Geisler70 />
+
+{|
+|<poem>{{Lang|de|Deutschland, Deutschland über alles,
+Über alles in der Welt,
+Wenn es stets zu Schutz und Trutze
+Brüderlich zusammenhält.
+Von der Maas bis an die Memel,
+Von der Etsch bis an den Belt,
+&nbsp;{{!}}: Deutschland, Deutschland über alles,
+&nbsp; Über alles in der Welt! :{{!}}}}</poem>
+|style="padding-left:2em;"|<poem>
+Germany, Germany above all things,
+Above everything in the world,
+when, for protection and defense, 
+it always stands brotherly together .
+From the [[Meuse (river)|Meuse]] to the [[Neman River|Memel]],
+From the [[Adige]] to the [[Fehmarn Belt|Belt]],
+&nbsp;|: Germany, Germany above all things,
+&nbsp; Above everything in the world! :|</poem>
+|-
+|<poem>{{Lang|de|Deutsche Frauen, deutsche Treue,
+Deutscher Wein und deutscher Sang
+Sollen in der Welt behalten
+Ihren alten schönen Klang,
+Uns zu edler Tat begeistern
+Unser ganzes Leben lang.
+&nbsp;{{!}}: Deutsche Frauen, deutsche Treue,
+&nbsp; Deutscher Wein und deutscher Sang! :{{!}}}}</poem>
+|style="padding-left:2em;"|<poem>[[Women in Germany|German women]], German [[loyalty]],
+[[German wine]] and [[Music of Germany|German song]]
+Shall retain in the world
+Their old beautiful chime
+And inspire us to noble deeds
+During all of our life.
+&nbsp;|: German women, German loyalty,
+&nbsp; German wine and German song! :|</poem>
+|-
+|style="font-weight:bold;"|<poem>{{Lang|de|Einigkeit und Recht und Freiheit
+Für das deutsche Vaterland!
+Danach lasst uns alle streben
+Brüderlich mit Herz und Hand!
+Einigkeit und Recht und Freiheit
+Sind des Glückes Unterpfand;
+&nbsp;{{!}}: Blüh' im Glanze dieses Glückes,
+&nbsp; Blühe, deutsches Vaterland! :{{!}}}}</poem>
+| style="font-weight:bold; padding-left:2em;"|<poem>Unity and justice and freedom
+For the German fatherland!
+Let us all strive for this purpose
+Brotherly with heart and hand!
+Unity and justice and freedom
+Are the pledge of happiness;
+&nbsp;|: Bloom in the glow of happiness,
+&nbsp; Bloom, German fatherland! :|</poem>
+|}
+''Note: The last two lines, between the [[repeat sign]]s of'' |: ''and'' :|'', are repeated once when sung.''
+
+== Use before 1933 ==
+The melody of the "Deutschlandlied" was originally written by Joseph Haydn in 1797 to provide music to the poem "[[Gott erhalte Franz den Kaiser]]" ("God save Franz the Emperor") by Lorenz Leopold Haschka. The song was a birthday anthem to Francis II, Holy Roman Emperor of the House of Habsburg, and was intended to rival in merit the British "[[God Save the King]]".
+
+After the dissolution of the Holy Roman Empire in 1806, "{{Lang|de|Gott erhalte Franz den Kaiser}}" became the official anthem of the emperor of the [[Austrian Empire]] and the subsequent [[Austro-Hungarian Empire]], until the end of the Austrian monarchy in 1918. The first line of the anthem changed with the name of each new emperor until 1918. Austrian monarchists continued to use this anthem after 1918 in the hope of restoring the monarchy. The adoption of the Austrian anthem's melody by Germany in 1922 was not opposed by Austria.
+
+"{{Lang|de|Das Lied der Deutschen}}" was not played at an official ceremony until Germany and the United Kingdom had agreed on the [[Heligoland–Zanzibar Treaty]] in 1890, when it appeared only appropriate to sing it at the ceremony on the now officially German island of [[Heligoland]]. During the time of the German Empire it became one of the most widely known patriotic songs.
+
+The song became very popular after the [[Battle of Langemarck (1914)|1914 Battle of Langemarck]] during [[World War I]], when, supposedly, several German regiments, consisting mostly of students no older than 20, attacked the British lines singing the song, suffering heavy casualties. They are buried in the [[Langemark German war cemetery]]. The official report of the army embellished the event as one of young German soldiers heroically sacrificing their lives for the Fatherland. In reality the untrained troops were sent out to attack the British trenches and were mown down by machine guns and rifle fire. This report, also known as the "Langemarck Myth", was printed on the first page in newspapers all over Germany. It is doubtful whether the soldiers would have sung the song in the first place: carrying heavy equipment, they might have found it difficult to run at high speed toward enemy lines while singing the slow song. Nonetheless, the story was widely repeated.<ref>{{Cite book|last=Mosse|first=George L.|title=Fallen Soldiers: Reshaping the Memory of the World Wars|publisher=Oxford University Press|year=1991|pages=70–73|url=https://books.google.com/?id=JwzIUz8aIk4C&pg=PA70|isbn=978-0-19-507139-9|accessdate=2014-02-25}}</ref>
+
+The melody used by the "Deutschlandlied" was still in use as the anthem of the [[Austrian Empire]] until the demise of the latter in 1918. On 11 August 1922, German President [[Friedrich Ebert]], a Social Democrat, made the ''Deutschlandlied'' the official German national anthem. In 1919 the black, red, and gold tricolour, the colours of the 19th century liberal revolutionaries advocated by the political left and centre, was adopted (rather than the previous black, white, and red of Imperial Germany). Thus, in a political trade-off, the conservative right was granted a nationalistic anthem — though Ebert advocated using only the anthem's third stanza (which was done after World War II).<ref name=Geisler70>{{Cite book|last=Geisler|first=Michael E.|title=National symbols, fractured identities: Contesting the national narrative|publisher=UPNE|year=2005|page=70|url=https://books.google.com/?id=CLVaSxt-sV0C&pg=PA70|isbn=978-1-58465-437-7|accessdate=2014-02-25}}</ref>
+
+== Use during Nazi rule ==
+During the [[Nazism|Nazi]] era, only the first stanza was used, followed by the [[Sturmabteilung|SA]] song "[[Horst-Wessel-Lied]]".<ref>Geisler, [https://books.google.com/books?id=CLVaSxt-sV0C&pg=PA71 p.71.]</ref> The anthem was played at occasions of great national significance such as the opening of the [[1936 Summer Olympics]] in Berlin when Hitler and his entourage, along with Olympic officials, walked into the stadium amid a chorus of three thousand Germans singing "{{Lang|de|Deutschland, Deutschland über alles}}". In this way, the first verse of the anthem became closely identified with the Nazi regime.<ref>{{cite web|url=http://www.historyplace.com/worldwar2/triumph/tr-olympics.htm|title=The Triumph of Hitler|work=The History Place|year=2001|accessdate=9 September 2012}}</ref>
+
+== Use after World War II ==
+After the [[Second World War]] ended in 1945, singing "{{lang|de|Das Lied der Deutschen}}" was banned along with symbols of Nazi Germany by the [[Allies of World War II|Allies]].
+
+After its founding in 1949, [[West Germany]] did not have a national anthem for official events for some years despite the growing need for proper diplomatic procedures. In lieu of an official national anthem, popular German songs such as the ''[[Wir sind die Eingeborenen von Trizonesien|Trizonesien-Song]]'', a carnival song mocking the occupying Allied powers, were used at some sporting events. Different musical compositions were discussed or used, such as the fourth movement of [[Ludwig van Beethoven]]'s [[Symphony No. 9 (Beethoven)|Ninth Symphony]], which is a musical setting of [[Friedrich von Schiller]]'s poem "[[An die Freude]]" ("Ode To Joy"). Though the black, red and gold colours of the national flag had been incorporated into Article 22 of the [[Basic Law for the Federal Republic of Germany|(West) German constitution]], a national anthem was not specified. On 29 April 1952, Chancellor [[Konrad Adenauer]] asked President [[Theodor Heuss]] in a letter to accept "{{Lang|de|Das Lied der Deutschen}}" as the national anthem, with only the third stanza being sung on official occasions. President Heuss agreed to this on 2 May 1952. This exchange of letters was published in the Bulletin of the Federal Government. Since it was viewed as the traditional right of the President as head of state to set the symbols of the state, the "{{Lang|de|Deutschlandlied}}" thus became the national anthem.<ref>{{cite web|url=http://www.bmi.bund.de/SharedDocs/Downloads/PI/DE/Allgemeines/briefwechsel1952.html|title=Briefwechsel zur Nationalhymne 1952|work=[[Federal Ministry of the Interior (Germany)|Bundesministerium des Innern]]|date=6 May 1952|accessdate=1 December 2009|language=German}}</ref>
+
+Meanwhile, [[East Germany]] adopted its own national anthem, "[[Auferstanden aus Ruinen]]" ("Risen from Ruins"). As the lyrics of this anthem called for "Germany, united Fatherland", they were no longer officially used after the DDR abandoned its goal of uniting Germany under Communism. (With slight adaptions, the lyrics of "{{Lang|de|Auferstanden aus Ruinen}}" can be sung to the melody of the "{{Lang|de|Deutschlandlied}}" and vice versa.)
+
+When [[West Germany]] won the [[1954 FIFA World Cup Final]] in [[Bern]], Switzerland, the lyrics of the first stanza dominated when the crowd sang along{{Citation needed|date=July 2014}} to celebrate the surprise victory that was later dubbed [[1954 FIFA World Cup#Final: "The Miracle of Bern"|Miracle of Bern]]. The anthem had not been widely used then, and older people simply sang the first stanza which they knew from earlier times.{{Citation needed|date=August 2015}}
+
+In the 1970s and '80s, efforts were made by conservatives in Germany to reclaim all three stanzas for the anthem. The [[Christian Democratic Union (Germany)|Christian Democratic Union]] of [[Baden-Württemberg]], for instance, attempted twice (in 1985 and 1986) to require German high school students to study all three stanzas, and in 1989 CDU politician Christian Wagner decreed that all high school students in [[Hesse]] were to memorise the three stanzas.<ref>Geisler, [https://books.google.com/books?id=CLVaSxt-sV0C&pg=PA72 p.72.]</ref>
+
+On 7 March 1990, months before [[German reunification|reunification]], the Constitutional Court declared only the third stanza of Hoffmann's poem to be legally protected as a national anthem under German law; Section 90a of the Criminal Code (''[[Strafgesetzbuch]]'') makes defamation of the national anthem a crime — but does not specify what the national anthem is.<ref>{{Cite web|url = http://www.utexas.edu/law/academics/centers/transnational/work_new/german/case.php?id=631|title = Case: BVerfGE 81, 298 1 BvR 1215/87 German National Anthem -decision|date = 7 March 1990|accessdate = 18 January 2015|website = Institute for Transnational Law — Foreign Law Translations|publisher = The University of Texas School of Law|last = Nomos Verlagsgesellschaft |first = }}</ref>
+
+In November 1991, President [[Richard von Weizsäcker]] and Chancellor [[Helmut Kohl]] agreed in an exchange of letters to declare the third stanza alone be the national anthem of the enlarged republic.<ref name=PresidentsOffice>{{cite web | url = http://www.bundespraesident.de/DE/Amt-und-Aufgaben/Wirken-im-Inland/Repraesentation-und-Integration/repraesentation-und-integration-node.html| title = Repräsentation und Integration | author = Bundespräsidialamt | authorlink = Bundespräsidialamt | language = German | accessdate = 24 May 2013 | quote = Nach Herstellung der staatlichen Einheit Deutschlands bestimmte Bundespräsident von Weizsäcker in einem Briefwechsel mit Bundeskanzler Helmut Kohl im Jahr 1991 die dritte Strophe zur Nationalhymne für das deutsche Volk. }}</ref> On official occasions, Haydn's music is used, and only the third stanza is sung.
+
+[[File:2-EUR-Muenze-de-freiheit.png|thumb|The word "FREIHEIT" (freedom) on Germany's 2-Euro coin]]
+The opening line of the third stanza, "{{Lang|de|Einigkeit und Recht und Freiheit}}" ("Unity and Justice and Freedom"), is widely considered to be the national motto of Germany, although it was never officially proclaimed as such. It appears on [[Bundeswehr]] soldiers' belt buckles (replacing the earlier "[[Gott mit uns]]" ("God with Us") of the [[German Army (German Empire)|Imperial German Army]] and the Nazi-era [[Wehrmacht]]). "{{Lang|de|Einigkeit und Recht und Freiheit}}" appeared on the rim of 2- and 5-[[Deutsche Mark]] coins, and is present on 2-[[Euro coins]] minted in Germany.
+
+== Criticisms ==
+
+===Geographical===
+The geographical references of the first verse (no longer sung) of "{{Lang|de|Deutschlandlied}}", which names three rivers and one strait — the [[Meuse (river)|Meuse]], [[Adige]], and [[Neman (river)|Neman]] (known as the Memel in German) Rivers and the [[Little Belt]] strait — as the boundaries of what the author viewed as ''[[Deutschtum]]'', have been variously criticized as [[irredentism|irredentist]] or misleading.<ref>A History of Modern Germany: 1800 to the Present (2011) M. Kitchen.</ref> Of these, only the Belt (strait) and the Neman once were actual boundaries of Germany (the Belt until 1920, the Neman until 1945), whereas the Meuse and Adige were not. Today, no part of any of the four places mentioned in the "{{Lang|de|Deutschlandlied}}" lies in Germany.
+
+In an ethnic sense, none of these places formed a distinct ethnic border. The Duchy of [[Schleswig-Holstein]] (to which the Belt refers) was inhabited by both Germans and, in the north, Danes, with the Danes forming a clear majority near the strait. Around the Adige there was a mix of German speakers and Italian speakers, and the area around the Neman was not homogeneously German, but also accommodated [[Lithuanians]]. The Meuse (if taken as referencing the [[Duchy of Limburg (1839–67)|Duchy of Limburg]], nominally part of the looseknit 19th-century [[German Confederation]]), was ethnically [[Dutch language|Dutch]] with few Germans.
+
+Nevertheless, such nationalistic rhetoric was relatively common in 19th-century public discourse. For example: [[Georg Herwegh]] in his [[poem]] "The German Fleet" (1841), gives the Germans as the people "between the [[Po river|Po]] and the Sund ([[Øresund]])," and in 1832 Philipp Jakob Siebenpfeiffer, a noted journalist, declared at the [[Hambach Festival]] that he considered all "between the [[Alps]] and the [[North Sea]]" to be ''Deutschtum''.<ref>''Music and German National Identity'' (2002) by C. Applegate. pp. 254</ref> Since nowadays only the third stanza constitutes the official German anthem, the lyrics containing the outdated geographic references are never sung ceremonially.
+
+===Textual===
+Despite the text and tune of the song being quite peaceful compared to some other national anthems, the song has frequently been criticised for its generally nationalistic tone, the immodest geographic definition of Germany given in the first stanza, and the alleged male-chauvinistic attitude in the second stanza.<ref name="malzahn">{{Cite news|last=Malzahn|first=Claus Christian|title=Deutsche Nationalhymne: 'Die blödsinnigste Parole der Welt'|newspaper=[[Der Spiegel]]|language=German|date=24 June 2006|url=http://www.spiegel.de/kultur/literatur/0,1518,422419,00.html|accessdate=1 December 2009}}</ref><ref>{{cite news|url=http://www.dw-world.de/dw/article/0,,2065774,00.html?maca=en-tagesschau_englisch-335-rdf-mp|title=Germans Stop Humming, Start Singing National Anthem|publisher=[[Deutsche Welle]]|date=24 June 2006|accessdate=2 March 2010}}</ref> A relatively early critic was [[Friedrich Nietzsche]], who called the grandiose claim in the first stanza ("{{Lang|de|Deutschland über alles") "die blödsinnigste Parole der Welt}}" (the most ridiculous slogan in the world), and in ''[[Thus Spoke Zarathustra]]'' said, "{{Lang|de|Deutschland, Deutschland über alles}} — I fear that was the end of German philosophy."<ref name="malzahn" /> The pacifist [[Kurt Tucholsky]] was also negative about the song, and in 1929 published a photo book sarcastically titled ''Deutschland, Deutschland über alles'', criticising right-wing groups in Germany.
+
+German grammar distinguishes between ''{{Lang|de|über alles}}'' i.e. above everything (for me), and ''{{Lang|de|über allen}}'', meaning "above everyone else." However, the latter misleading translation was chosen by the Allies during both World Wars for propaganda purposes.<ref>{{cite book|title=Falsehood in War Time: Containing an Assortment of Lies Circulated Throughout the Nations During the Great War (Chapter 11)|first=Arthur|last=Ponsonby|isbn=1162798653|publisher=George Allen and Unwin, London|year=1928}}</ref>
+
+=== Modern use of the first stanza ===
+German president [[Theodor Heuss]], upon request from chancellor [[Konrad Adenauer]], declared  the  ''Lied der Deutschen''  the national anthem of the German Federal Republic in May 1952, along with the provision that the third verse was to be sung at official occasions.<ref>[http://www.protokoll-inland.de/SharedDocs/Downloads/PI/DE/Allgemeines/briefwechsel1952.html ''Briefwechsel zur Nationalhymne von 1952'', Abdruck aus dem Bulletin der Bundesregierung Nr.&nbsp;51/S. 537 vom 6.&nbsp;Mai 1952].</ref>
+The declaration was a compromise between Heuss, who wanted to retain only the third verse, and the [[Cabinet of Germany|Cabinet]]'s wish to keep the first two verses. As a result, the ''Lied'' (implicitly in its entirety) was declared the national anthem, with the provision that the third verse would have precedence.<ref>
+Das Deutschlandlied ist Nationalhymne. Ein Briefwechsel zwischen Bundespräsident Theodor Heuss und Bundeskanzler Konrad Adenauer. Bulletin des Presse- und Informationsamtes der Bundesregierung, Nr. 51 vom 6. Mai 1952, S. 537.</ref>
+
+In 1977, German pop singer [[Heino]] produced a record of the song, including all three verses, for use in primary schools in [[Baden-Württemberg]]. The inclusion of the first two verses was met with criticism at the time.<ref>Michael Jeismann: ''Die Nationalhymne''. In: Etienne Francois, Hagen Schulze (Hrsg.): ''Deutsche Erinnerungsorte. Band III''. C.H. Beck, München 2001, ISBN 3-406-47224-9, S. 663.
+[http://www.zeit.de/1978/14/natuerliches-verhaeltnis ''Natürliches Verhältnis. Deutschlandlied – dritte oder/und erste Strophe?''], [[Die Zeit]], 31. März 1978.</ref>
+After the [[German Reunification]] in 1990, the German national anthem was redefined as 
+the third verse of the song only.<ref>
+Bulletin des Presse- und Informationsamts der Bundesregierung Nr. 89 vom 27. August 1991, S. 713, auf [http://www.1000dokumente.de/index.html?c=dokument_de&dokument=0255_hym&object=abstract&st=&l=de 1000dokumente.de]
+[http://bundesrecht.juris.de/nhbrfbek/BJNR021350991.html Bekanntmachung der Briefe des Bundespräsidenten vom 19. August 1991 und des Bundeskanzlers vom 23. August 1991 über die Bestimmung der 3.&nbsp;Strophe des Liedes der Deutschen zur Nationalhymne der Bundesrepublik Deutschland], Bundesgesetzblatt 1991 Teil&nbsp;I Nr. 63, S. 2135.</ref>
+
+The first two verses are thus not now part of the national anthem, and their erroneous performance of the first verse in some cases been portrayed as controversial; thus,    
+[[Pete Doherty]] was supposed to sing the German national anthem live on radio at [[Bayerischer Rundfunk]] in Munich. As he erroneously sang the first verse, he was booed by the audience.<ref>{{cite web|url=http://www.rnw.nl/nl/nederlands/article/rockzanger-pete-doherty-schoffeert-duitsers |title=Rockzanger Pete Doherty schoffeert Duitsers |work=[[Radio Netherlands Worldwide]] |date=29 November 2009 |accessdate=1 December 2009 |language=Dutch |deadurl=yes |archiveurl=https://web.archive.org/20110607104627/http://www.rnw.nl/nl/nederlands/article/rockzanger-pete-doherty-schoffeert-duitsers |archivedate=7 June 2011 }}</ref> Three days later Doherty's speaker declared that the singer was "not aware of the historical background and regrets the misunderstanding". A speaker of Bayerischer Rundfunk welcomed the statement, stating that otherwise further cooperation with Doherty would not have been possible.<ref>{{Cite news|title = Deutschlandlied, die erste: Skandalrocker Doherty entschuldigt sich für Patzer|url = http://www.spiegel.de/panorama/leute/deutschlandlied-die-erste-skandalrocker-doherty-entschuldigt-sich-fuer-patzer-a-664418.html|newspaper = Spiegel Online|date = 2009-12-01|access-date = 2015-08-10}}</ref>
+When the first verse was erroneously played as the German national anthem
+at the [[canoe sprint]] world championships in Hungary in August 2011,<ref>{{Cite news|url=http://www.nieuwsblad.be/article/detail.aspx?articleid=DMF20110822_110|title=Nazivolkslied op WK kajak|work=[[Het Nieuwsblad]]|date=22 August 2011|language=Dutch}}</ref>
+[[Eurosport]] under the headline of 'Nazi anthem' erroneously reported that "the first stanza of the piece [was] banned in 1952" as its performance apparently left the German athletes "appalled".<ref>{{Cite news|url=http://au.eurosport.com/olympicgames/london-2012/2012/germans-appalled-by-gaffe_sto2916606/story.shtml |title='Nazi anthem' played at canoe championship |publisher=[[Eurosport]] |date=22 August 2011 |deadurl=yes |archiveurl=https://web.archive.org/20131029215213/http://au.eurosport.com/olympicgames/london-2012/2012/germans-appalled-by-gaffe_sto2916606/story.shtml |archivedate=29 October 2013 }}</ref>
+
+== Variants and additions ==
+
+=== Additional or alternative stanzas ===
+Hoffmann von Fallersleben also intended the text to be used as a [[drinking song]]; the second stanza's toast to German women and wine are typical of this genre.{{Citation needed|date=December 2009}} The original Heligoland manuscript included a variant ending of the third stanza for such occasions:
+{|
+|<poem>{{Lang|de|Einigkeit und Recht und Freiheit
+Für das deutsche Vaterland!
+Danach lasst uns alle streben
+Brüderlich mit Herz und Hand!
+Einigkeit und Recht und Freiheit
+Sind des Glückes Unterpfand;
+&nbsp;{{!}}: Stoßet an und ruft einstimmig,
+&nbsp;Hoch, das deutsche Vaterland. :{{!}}}}</poem>
+|style="padding-left:2em;"|<poem>Unity and justice and freedom
+For the German fatherland;
+This let us all pursue,
+Brotherly with heart and hand.
+Unity and justice and freedom
+Are the pledge of fortune.
+&nbsp;|: Lift your glasses and shout together,
+&nbsp;Prosper, German fatherland. :|</poem>
+|}
+
+An alternative version called "{{Lang|de|Kinderhymne}}" (Children's Hymn) was written by [[Bertolt Brecht]] shortly after his return from American exile to a war-ravaged, bankrupt and geographically smaller Germany at the end of World War II. It gained some currency after the 1990 unification of Germany, with a number of prominent Germans opting for his "antihymn" to be made official:<ref>[https://books.google.com/books?id=CLVaSxt-sV0C&pg=PA75 Geisler p. 75.]</ref>
+<!-- Please do not change the lyrics here, as they are Geisler's—see the source cited above -->
+{|
+|<poem>{{Lang|de|Anmut sparet nicht noch Mühe
+Leidenschaft nicht noch Verstand
+Daß ein gutes Deutschland blühe
+Wie ein andres gutes Land.
+
+Daß die Völker nicht erbleichen
+Wie vor einer Räuberin
+Sondern ihre Hände reichen
+Uns wie andern Völkern hin.
+
+Und nicht über und nicht unter
+Andern Völkern wolln wir sein
+Von der See bis zu den Alpen
+Von der Oder bis zum Rhein.
+
+Und weil wir dies Land verbessern
+Lieben und beschirmen wir's
+Und das Liebste mag's uns scheinen
+So wie anderen Völkern ihr's.}}</poem>
+|style="padding-left:2em;"|<poem>Grace spare not and spare no labour
+Passion nor intelligence
+That a decent German nation
+Flourish as do other lands.
+
+That the people give up flinching
+At the crimes which we evoke
+And hold out their hand in friendship
+As they do to other folk.
+
+Neither over or yet under
+Other peoples will we be
+From the Oder to the Rhineland
+From the Alps to the North Sea
+
+And because we'll make it better
+Let us guard and love our home
+Love it as our dearest country
+As the others love their own.</poem>
+|}
+
+=== Notable performances and covers ===
+The [[Unitarian Universalism|Unitarian Universalist]] hymnbook published in 1993, ''[[Singing the Living Tradition]]'', contains two versions of [[Henry Wadsworth Longfellow]]'s "Light of Ages and of Nations"; the second hymn (#190) is sung to the tune of the Emperor's Hymn, labelled as "Austria". [[John Newton]]'s hymn "[[Glorious Things of Thee Are Spoken]]" has, among others, been set to Haydn's melody.
+
+The German musician [[Nico]] sometimes performed the national anthem at concerts and dedicated it to militant [[Andreas Baader]], leader of the [[Red Army Faction]].<ref>{{Cite news|last=Rockwell|first=John|title=Cabaret: Nico is back|work=[[The New York Times]]|date=21 February 1979}}</ref> She included a version of "{{Lang|de|Das Lied der Deutschen}}" on her 1973 album ''[[The End...]]''. In 2006, the Slovenian "industrial" band [[Laibach (band)|Laibach]] incorporated Hoffmann's lyrics in a song titled "Germania", on the album ''Volk'', which contains fourteen songs with adaptations of national anthems.<ref>{{Cite news |url=http://www.tagesspiegel.de/kultur/art772,1975298 |title=Völker, hört die Fanale! |last=Hesselmann |first=Markus |work=[[Der Tagesspiegel]] |date=7 December 2006 |accessdate=1 December 2009 |language=German}}</ref><ref>{{cite web |url=http://www.popmatters.com/pm/review/laibach-volk/ |title= Rev. of Laibach, ''Volk'' |last=Schiller |first=Mike |work=[[PopMatters]] |date=6 December 2007 |accessdate=1 December 2009}}</ref> Performing the song in Germany in 2009, the band cited the first stanza in the closing refrain, while on a video screen images were shown of a German city bombed during World War II.<ref>{{Cite news |url = http://www.maerkischeallgemeine.de/cms/ziel/604050/DE?article_id=1892492|subscription = yes|title = Die slowenische Band Laibach stellte in der Arena ihr Album ''Volk'' vor|newspaper = [[Märkische Allgemeine]]|date = 21 July 2009|accessdate = 1 December 2009|language = German}}<!-- originally at http://www.maerkischeallgemeine.de/cms/beitrag/11563106/60709/Die-slowenische-Band-Laibach-stellte-in-der-Arena.html --></ref>
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+{{Commons category|Das Lied der Deutschen}}
+{{Wikisource|Das Deutschlandlied}}
+*[https://web.archive.org/web/20050503061826/http://www.bundesregierung.de/static/audio/hymne/nationalhymne.mp3 National Anthem of the Federal Republic of Germany (third stanza)] (MP3 sound file)
+*[http://www.bundesregierung.de/nn_774/Content/DE/StatischeSeiten/Breg/die-nationalhymne-der-bundesrepublik-deutschland.html German National Anthem] at Federal Government homepage
+*[http://nationalanthems.me/germany-deutschlandlied/ Audio of the "{{Lang|de|Deutschlandlied}}", with information and lyrics]
+*[http://ingeb.org/Lieder/deutschl.html "Das Lied der Deutschen"] at World Lieder
+*[http://www.brandenburghistorica.com/page5.html "Das Lied der Deutschen"] at Brandenburg Historica
+*{{IMSLP2|id=Das Kaiserlied, Hob.XXVIa:43 (Haydn, Joseph)|cname=Das Kaiserlied}}
+*[http://www.youtube.com/watch?v=VZaW63EJKKc Singing of the German National Anthem] during the official [[German Unity Day]] ceremony on 3 October 1990 (video)
+
+{{Germany topics}}
+{{National Anthems of Europe}}
+
+{{Authority control}}
+
+[[Category:German-language songs]]
+[[Category:German songs]]
+[[Category:1922 establishments in Germany]]
+[[Category:German anthems]]
+[[Category:National symbols of Germany]]
+[[Category:Weimar Republic]]
+[[Category:West Germany]]
+[[Category:German patriotic songs]]

@@ -1,0 +1,50 @@
+{{wiktionary|Dock|dock|docked}}
+'''Dock''' may refer to:
+
+{{TOC right}}
+
+==In transportation==
+*[[Dock (maritime)]], the area of water taken by a vessel when tied to a structure (pier, wharf, float, etc.).
+*[[Loading dock]], an unloading area for trucks to deliver cargo
+*[[Cross-docking|Cross dock]], moving material directly, one truck to another
+
+==In science==
+*Dock or tailhead, where the tail joins the [[rump (animal)|Rump]]
+*Dock, the plant genus ''[[Rumex]]''
+*[[DOCK (protein)]], a family of proteins involved in cell signalling
+*[[DOCK]] (UCSF), the docking program
+
+==In computing==
+* [[Dock (computing)]], a graphical user interface feature
+* Dock file see [[Doc (computing)|.DOC]] file
+* [[Dock (OS X)]], a toolbar-like application launcher in the OS X operating system
+* [[Docking station]], a laptop accessory
+
+==Places==
+*[[The Dock, Newfoundland and Labrador]], Canada
+*[[The Dock, Washington, D.C.]], United States
+*[[The Docks Waterfront Entertainment Complex]] in Toronto, Ontario, Canada
+*[[Docks (nightclub)]] in Hamburg, Germany
+*The former name of [[Devonport, Devon]], now a part of the city of Plymouth
+
+==People==
+*[[Dock (Hayden Scott-Barren)]], English manga illustrator
+*[[Dock Boggs]] (1898–1971), American folk singer and banjoist
+*[[Dock Ellis]] (1945–2008), American baseball pitcher
+*[[Dock J. Jordan]] (1866–1943), American lawyer and educator
+*[[Dock Walsh]] (1901–1967), American banjoist
+
+==Other uses==
+*To pierce dough during its handling to prevent the formation of large air pockets, such as with a [[roller docker]]
+*The area of a [[courtroom]] where an accused party sits during proceedings
+
+==See also==
+*[[Docking (disambiguation)]]
+*[[Docker (disambiguation)]]
+*[[Docklands (disambiguation)]]
+*[[Dox (disambiguation)]]
+*[[DOC (disambiguation)]]
+*[[Docs (disambiguation)]]
+*[[Hohe Dock]], one of the highest peaks in the Glockner Group of the Austrian Alps
+
+{{disambiguation}}

@@ -1,0 +1,187 @@
+{{About|the media franchise|the title character|Doraemon (character)}}
+{{Infobox animanga/Header
+| image           = [[File:Doraemon volume 1 cover.jpg]]
+| caption         = D1 cover
+| ja_kanji        = ドラえもん
+| ja_romaji       = 
+| genre           = Comedy, [[Science fiction]]
+}}
+{{Infobox animanga/Print
+| type            = manga
+| author          = [[Fujiko Fujio|Fujiko F. Fujio]]
+| publisher       = [[Shogakukan]]
+| publisher_en    = {{english anime licensees|NA=Fujiko Pro|SG=[[Shogakukan Asia]]}}<ref>"[http://shogakukan.asia/category/books/ Products]." [[Shogakukan Asia]]. Retrieved on June 2, 2015.</ref><br>(ROC) [[Chingwin Publishing Group]]  (Bilingual English-Chinese)<ref>"[http://www.ching-win.com.tw/?sinfo=bookinfo&view=49 輕小說嬌蠻貓娘大橫行第1集終於等到再刷了！]" ([http://www.webcitation.org/6bbaDdjy8 Archive]). [[Chingwin Publishing Group]]. Retrieved on September 17, 2015. "哆啦A夢英文版(中英對照)(03)          110 "</ref>
+| demographic     = [[Children's anime and manga|Children]]
+| magazine        = (various Shogakukan's kids magazines)
+| first           = December 1969
+| last            = 1996
+| volumes         = 45
+| volume_list     = List of Doraemon chapters
+}}
+{{Infobox animanga/Video
+| type            = tv series
+| title           = [[Doraemon (1973 anime)|Doraemon]]
+| studio          = [[TMS Entertainment]]
+| first           = April 1, 1973
+| last            = September 30, 1973
+| episodes        = 26 (52 segments, 2 segments per episode)
+| episode_list    = Doraemon_(1979_anime)#Episodes
+}}
+{{Infobox animanga/Video
+| type            = tv series
+| title           = [[Doraemon (1979 anime)|Doraemon]]
+| studio          = [[Shin-Ei Animation]]
+| first           = April 2, 1979
+| last            = March 18, 2005
+| episodes        = 1787
+| episode_list    = List of Doraemon episodes (1979 anime)
+}}
+{{Infobox animanga/Video
+| type            = tv series
+| title           = [[Doraemon (2005 anime)|Doraemon]]
+| studio          = [[Shin-Ei Animation]]<br>[[Pierrot (company)|Pierrot]]
+| first           = April 15, 2005
+| last            = 
+| episodes        = 730
+| episode_list    = List of Doraemon episodes (2005 anime) (seasons 1 - 3)
+}}
+{{Infobox animanga/Other
+| title           = Related works
+| content         = 
+* ''[[The Doraemons]]''
+* ''[[Dorabase]]''
+* ''[[Kiteretsu Daihyakka]]''
+}}
+{{Infobox animanga/Footer}}
+'''''Doraemon''''' ({{lang-ja|ドラえもん}}) is a Japanese [[manga]] series written and illustrated by the manga writing team [[Fujiko Fujio]]. The series has also been adapted into a successful [[anime]] series and [[media franchise]]. The story revolves around a [[Robot|robotic cat]] named [[Doraemon (character)|Doraemon]], who [[time travel|travels back in time]] from the 22nd century to aid a pre-teen boy named {{nihongo|Nobita Nobi|野比のび太|Nobi Nobita}}.
+
+The Doraemon manga series was first published in December 1969 in six different magazines. A total of 1,345 stories were created in the original series, which are published by [[Shogakukan]] under the {{nihongo|Tentōmushi|てんとう虫}} manga brand, extending to forty-five volumes. The volumes are collected in the Takaoka Central Library in [[Toyama Prefecture|Toyama]], Japan, where Fujiko Fujio was born. [[Turner Broadcasting System]] bought the rights to the Doraemon anime series in the mid-1980s for a United States English-language release,<ref>{{cite web |url=http://www.jref.com/japan/travel/prefectures/kanagawa/doraemon_museum.shtml |title=Fujiko F. Fujio Museum |publisher=Japan Reference |accessdate=September 11, 2012}}</ref> but canceled it without explanation before broadcasting any episodes. In July 2013 it was announced that the manga would be released digitally in English via the [[Amazon Kindle]] [[e-book]] service. It is [[List of best-selling manga|one of the best-selling manga in the world]], having sold over 100 million copies.
+
+Awards for Doraemon include the [[Japan Cartoonists Association Award]] for excellence in 1973, the first [[Shogakukan Manga Award]] for [[Children's anime and manga|children's manga]] in 1982,<ref>{{cite web | url=http://comics.shogakukan.co.jp/mangasho/rist.html | script-title=ja:小学館漫画賞: 歴代受賞者 | publisher=Shogakukan | language=Japanese | accessdate=August 19, 2007}}</ref> and the first [[Osamu Tezuka Culture Award]] in 1997. In March 2008 [[Ministry of Foreign Affairs (Japan)|Japan's Foreign Ministry]] appointed Doraemon as the nation's first "anime ambassador."<ref>Yamaguchi, Mari. [http://www.chinapost.com.tw/asia/japan/2008/03/20/147952/Doraemon-appointed.htm "Doraemon appointed Japan's first ever cartoon ambassador "China Post'', March 20, 2008.]</ref> Ministry spokesman explained the novel decision as an attempt to help people in other countries understand Japanese anime better and to deepen their interest in [[Japanese culture]]."<ref>[http://www.japantoday.com/jp/news/431177 "Doraemon named 'anime ambassador',"] ''[[Japan Today]].'' March 15, 2008.</ref> The Foreign Ministry action confirms that Doraemon has come to be considered a Japanese cultural icon. In India, its [[Hindi]], [[Telugu language|Telugu]], [[Tamil language|Tamil]] translation has been telecasted, where the anime version is the highest-rated kids' show; it won the best Kids' Show award at the [[Nickelodeon Kids' Choice Awards India]].<ref>[[Nickelodeon Kids' Choice Awards India]]</ref> In 2002 the anime character was acclaimed as an "Asian Hero" in a special feature survey conducted by ''[[Time Asia]]'' magazine.<ref>Iyer, Pico. [http://www.time.com/time/asia/features/heroes/doraemon.html "The Cuddliest Hero in Asia."] ''Time'' (Asia).</ref> An edited English dub distributed by [[TV Asahi]] aired on [[Disney XD]] in the United States that started on July 7, 2014 at 12:30 PM, 11:30 AM (Central). On August 17, 2015, [[Boomerang (UK & Ireland)|Boomerang UK]] started to broadcast the English dub of Doraemon. The [[List of Doraemon films|film series]] is the largest by number of admissions in Japan.
+
+==Name==
+The name "Doraemon" can be roughly translated  to "stray." "Dora" derives from "''dora neko''" (brazen or stray cat, どら猫), and is a corruption of ''nora'' (stray). "Emon" 衛門、右衛門 is an archaic component of male given names like Goemon. "Dora" is not derived (directly) from ''dora'' 銅鑼, meaning gong, but rather a pun on that and the fact that Doraemon loves [[dorayaki]]. The name {{Nihongo|"Doraemon"|ドラえもん}} is stylized as an unusual mixture of [[Katakana]] (ドラ 'dora') and [[Hiragana]] (えもん 'emon').
+
+==Plot==
+[[File:Doraemon first appearance.jpg|thumb|300px|The first appearance of Doraemon, who came via the time machine.]]
+
+{{main|List of Doraemon characters}}
+
+[[Doraemon (character)|Doraemon]] is sent back in time by a young boy named Sewashi Nobi to improve the circumstances of his grandfather, [[Nobita Nobi|Nobita]], so that his descendants may enjoy a better future. In the original timeline, Nobita experienced nothing but misery and misfortune manifested in the form of very poor grades and bullying throughout his life. This culminates in the burning down of a future business he sets up which leaves his family line beset with financial problems. In order to alter history and better the Nobi family's fortunes, Sewashi initially wanted to send a super-robot to protect Nobita, but with his meager allowance he could only afford an imperfectly-made factory-rejected toy: an anthropomorphic robot cat called Doraemon.
+
+Doraemon has a pocket from which he produces toys, medicines, and tools from the future, all of which are referred to as 'gadgets' by Doraemon. Some of the gadgets  are based on real Japanese household devices with fanciful twists, but most are completely [[science fiction]]. Thousands of gadgets have been featured in the series with such as the "[[bamboo-copter]]", a small head accessory that allows flight and the "Anywhere Door", a door that opens up to any place the user wishes.
+
+Nobita's closest friend is Shizuka Minamoto, who also serves as his romantic interest. Nobita is usually tormented by the bully Takeshi Goda, nicknamed "Gian", and the cunning and arrogant Suneo Honekawa. A typical story consists of Doraemon using one of his gadgets in order to assist Nobita in various ways, often causing more trouble than he was trying to solve.
+
+==Media==
+{{main|List of Doraemon media|List of non-Japanese Doraemon versions}}
+
+===Manga===
+{{See also|List of Doraemon chapters|List of Doraemon Plus chapters}}
+In December 1969 the ''Doraemon'' manga appeared in six different children's monthly magazines published by [[Shogakukan]]. The magazines were aimed at children from nursery school to fourth grade. In 1977 ''[[CoroCoro Comic]]'' was launched as the flagship magazine of ''Doraemon.''<ref name="Rough">{{cite book |title=[[The Rough Guide to Manga]] |last=S. Yada |first=Jason |publisher=[[Rough Guides]] |isbn=978-1-85828-561-0 |pages=114–115}}</ref>
+
+Since the debut of ''Doraemon'' in 1969, the stories have been selectively collected into forty-five books published from 1974 to 1996. Shogakukan published a ''master works'' collection consisting of Twenty volumes between July 24, 2009 and September 25, 2012.<ref>{{cite web |url=http://www.shogakukan.co.jp/comics/detail/_isbn_9784091434036 |title=藤子・Ｆ・不二雄大全集　ドラえもん　１|accessdate=January 5, 2015}}</ref><ref>{{cite web |url=http://www.shogakukan.co.jp/comics/detail/_isbn_9784091435019 |title=藤子・Ｆ・不二雄大全集　ドラえもん　２０|accessdate=January 5, 2015}}</ref>
+
+In addition, Doraemon has appeared in a variety of manga series by Shōgakukan. In 2005 Shōgakukan published a series of five more manga volumes under the title ''Doraemon+'' (''[[Doraemon Plus]]''), which were not found in the forty-five Tentōmushi pipi volumes. On December 1, 2014, a sixth volume of ''Doraemon Plus'' was published. This was the first volume for eight years.<ref>{{cite web |url=http://www.animenewsnetwork.com/news/2014-11-15/1st-doraemon-manga-volume-in-8-years-ships-in-december/.81061 |title=1st Doraemon Manga Volume in 8 Years Ships in December |work=[[Anime News Network]] |date=November 15, 2014 |accessdate=December 24, 2014}}</ref>
+
+Ten volumes of the series were available in a bi-lingual edition by Shogakukan English Comics.<ref name="Thompson">{{cite book |title=Manga:The Complete Guide |last=Thompson |first=Jason |authorlink=Jason Thompson (writer) |isbn=978-0-345-48590-8 |publisher=Del Rey Books|pages=85–86}}</ref>
+
+In July 2013, Fujiko Fujio Productions announced that they would be collaborating with ebook publisher [[Voyager Books|Voyager Japan]] and localization company [[AltJapan Co., Ltd.]] to release an English language version of the ''Doraemon'' manga in full-color digitally via the [[Amazon Kindle]] platform in North America.<ref>{{cite news|url=http://www.animenewsnetwork.com/news/2013-07-28/doraemon-manga-digital-release-coming-to-north-america|title=Classic Kids' Manga Doraemon Coming to N. America Digitally|publisher=Anime News Network|date=July 28, 2013|accessdate= December 4, 2013}}</ref> Shogakukan released the first volume in November 2013.<ref>{{cite web|url=http://www.amazon.com/DORAEMON-Vol-1-FUJIKO-F-FUJIO-ebook/dp/B00GTG4776/|title=DORAEMON Vol.1 [Kindle Edition]|publisher=Amazon.com|accessdate= December 4, 2013}}</ref> This English version incorporates a variety of changes to character names; Nobita is "Noby", Shizuka is "Sue", Suneo is "Sneech", and Gian is "Big G", while dorayaki is "Yummy Bun/Fudgy Pudgy Pie."<ref>{{cite news|url= http://ajw.asahi.com/article/behind_news/social_affairs/AJ201311230013|title=English version of 'Doraemon' to enter North American market|work=[[Asahi Shimbun]]|date=November 23, 2013|accessdate=December 4, 2013}}</ref>
+
+===Anime===
+
+====Television series====
+{{main|Doraemon (1973 anime)|Doraemon (1979 anime)|Doraemon (2005 anime)}}
+After a brief and unpopular animated series in 1973 by [[Nippon Television]], ''Doraemon'' remained fairly exclusive in manga form until 1979 when a newly formed animation studio, [[Shin-Ei Animation]] (Now owned by [[TV Asahi]]) produced an anime series of ''Doraemon.''<ref>{{cite book|last1=Schilling|first1=Mark|title=The Encyclopedia of Japanese Pop Culture|date=1997|publisher=Weatherhill|location=New York|page=39|accessdate=25 December 2014}}</ref> This series became incredibly popular, and ended with 1,787 episodes on March 25, 2005.
+
+Celebrating the anniversary of the franchise, a new ''Doraemon'' series began airing on TV Asahi on April 15, 2005 with new [[seiyū|voice actors]] and staff, and updated character designs. On May 12, 2014, TV Asahi Corporation announced an agreement with [[The Walt Disney Company]] to bring the 2005 series to the [[Disney XD]] television channel in the United States beginning in the summer of that year.<ref>{{cite news|url=http://asia.nikkei.com/Business/Consumers/Doraemon-plans-to-make-US-debut-this-summer|title=Doraemon plans to make U.S. debut this summer|date=May 9, 2004|accessdate=May 24, 2014}}</ref> Besides using the name changes that were used in AltJapan's English adaptation of the original manga, other changes and edits have also been made to make the show more relatable to an American audience, such as Japanese text being replaced with English text on certain objects like signs and graded papers, and items such as [[Japanese yen|yen notes]] being replaced by [[United States dollar|US dollar bills]]. Confirmed cast member of the new American adaptation include veteran anime voice actress [[Mona Marshall]] in the title role of Doraemon and [[Johnny Yong Bosch]] of ''[[Mighty Morphin Power Rangers|Power Rangers]]'' and ''[[Bleach (anime)|Bleach]]'' fame as Noby. The English dub is produced by [[Bang Zoom! Entertainment]].<ref>http://licensing14.mapyourshow.com/5_0/exhibitor_details.cfm?exhid=12699&CFID=36365735&CFTOKEN=aec74be628e68047-E8748238-C778-32EC-687CB555182920BF</ref> The series began broadcast in the [[United Kingdom]] on [[Boomerang (UK & Ireland)|Boomerang]] from August 17.<ref>{{cite web |url=http://www.animenewsnetwork.com/news/2015-08-11/doraemon-to-debut-on-british-cable-and-satellite/.91554 |title=Doraemon to Debut on British Cable and Satellite |date=August 11, 2015 |accessdate=August 12, 2015 |publisher=[[Anime News Network]]}}</ref>
+
+====Feature films====
+{{Further|List of Doraemon films}}
+In 1980, [[Toho]] released the first of a series of annual feature length [[animated film]]s based on the lengthy special volumes published annually. Unlike the anime and manga (some based on the stories in select volumes), they are more action-adventure oriented and have more of a [[Shōnen manga|shōnen]] demographic, taking the familiar characters of ''Doraemon'' and placing them in a variety of exotic and perilous settings. Nobita and his friends have visited the age of the [[dinosaur]]s, the far reaches of the [[galaxy]], the heart of darkest Africa (where they encountered a race of sentient bipedal dogs), the depths of the ocean, and a world of [[magic (paranormal)|magic]]. Some of the films are based on [[legend]]s such as [[Atlantis]], and on literary works including ''[[Journey to the West]]'' and ''[[Arabian Nights]].'' Some films also have serious themes, especially on environmental topics and the use of technology. Overall, the films have a somewhat darker tone in their stories, unlike the manga and anime.
+
+===Video games===
+{{details|List of Doraemon video games}}
+
+There are a total of 63 Japanese-only video games ranging from platformer games to RPG games, which began with the Emerson's [[Arcadia 2001]] system. Doraemon can also be seen in [[Namco]]'s popular ''[[Taiko no Tatsujin]]'' rhythm game series like ''Taiko no Tatsujin'' (11 – [[Taiko no Tatsujin 14|14]] only), ''[[Metcha! Taiko no Tatsujin DS: Nanatsu no Shima no Daibouken]]'', ''[[Taiko no Tatsujin Wii]]'', ''[[Taiko no Tatsujin Plus]]'', and ''[[Taiko no Tatsujin DS: Dororon! Yokai Daikessen!!]]''. The Chinese version of Microsoft's ''3D Movie Maker'' contained a Doraemon-themed expansion pack.
+
+===Musical===
+{{nihongo|''Doraemon the Musical: Nobita and the Animal Planet''|舞台版ドラえもん のび太とアニマル惑星(プラネット)｣。|Butaiban Doraemon: Nobita to Animaru Puranetto}} was a 2008 [[musical theatre|musical]] based on the 1990 [[anime]] film [[Doraemon: Nobita and the Animal Planet|of the same name]].<ref>[http://dora-world.com/information/event_animal.html Event information], [http://dora-world.com/news2112doga/index080808.html News about the musical]</ref> It debuted at [[Tokyo Metropolitan Art Space]] on September 4, 2008 running through September 14.<ref>{{cite web | url=http://www.geigeki.jp/english/event_200809_list.html#02 | title=Events Calendar | publisher=Tokyo Metropolitan Art Space | accessdate=August 13, 2008}} {{Dead link|date=September 2010|bot=H3llBot}}</ref><!--Wayback Internet archive does not have this page archived--> [[Wasabi Mizuta]] voiced Doraemon.
+
+==Reception==
+More than 100 million copies of the manga have been sold.<ref>{{cite web|url=http://license-new.shopro.co.jp/products/detail/53|title=ドラえもん（TVアニメ）|publisher=Shogakukan Production|accessdate=2013-11-28|language=Japanese}}</ref>
+
+Doraemon was awarded the first [[Shogakukan Manga Award]] for children's manga in 1982. In 1997, it was awarded the first [[Osamu Tezuka Culture Award]].<ref>{{cite web|url=http://www.asahi.com/shimbun/award/tezuka/97a.html|script-title=ja:第1回 マンガ大賞 藤子・Ｆ・不二雄 　『ドラえもん』（小学館）|work=[[Asahi Shimbun]]|language=Japanese|accessdate=July 18, 2010}}</ref> In 2008, the [[Ministry of Foreign Affairs (Japan)|Japanese Ministry of Foreign Affairs]] appointed Doraemon as the first anime cultural ambassador.<ref>[http://www.afpbb.com/article/life-culture/life/2364557/2736468 ドラえもん、初の「アニメ文化大使」に任命]". (March 15, 2008) ''AFPBB News''. Retrieved February 11, 2010.</ref><ref>{{ja icon}}Shingo, Takaoka . "[http://www.guardian.to/otaku.html Secret power of Otaku culture Spirits]". ''The WASEDA Guardian''. Retrieved February 11, 2010.</ref> On 22 April 2002, on the special issue of ''Asian Hero'' in ''Time'' magazine, Doraemon was selected as one of the 22 Asian Heroes. Being the only anime character selected, Doraemon was described as "The Cuddliest Hero in Asia".<ref>{{cite news|last=Iyer|first=Pico|url=http://www.time.com/time/asia/features/heroes/doraemon.html|title=The Cuddliest Hero in Asia|work=[[Time (magazine)|Time Asia]]|accessdate=February 17, 2010|archiveurl=http://www.webcitation.org/5ncD8NhOK|archivedate=February 17, 2010 | date=April 29, 2002}}</ref> In 2005, the Taiwan Society of New York selected ''Doraemon'' as a culturally significant work of Japanese [[otaku]] pop-culture in its exhibit ''Little Boy: The Arts of Japan's Exploding Subculture'', curated by renowned artist [[Takashi Murakami]].{{citation needed|date=January 2015}}
+
+[[Jason Thompson (writer)|Jason Thompson]] praised the "silly situations" and "old fashioned, simple artwork", with Doraemon's expression and comments adding to the "surrounding elementary-school mischief".<ref name="Thompson"/>
+
+On September 3, 2012, Doraemon was granted official residence in the city of Kawasaki, one hundred years before he was born.<ref>{{cite web|title=Doraemon becomes official resident of Kawasaki a century before his birth|url=http://www.japantimes.co.jp/text/nn20120904f1.html|work=Japan Times|accessdate=3 September 2012}}</ref>
+
+With the 2013 film, ''[[Doraemon: Nobita no Himitsu Dōgu Museum]]'', Doraemon has surpassed [[Godzilla]] in terms of overall ticket sales for a film franchise as Toho's most lucrative movie property. The 33 year series (1980-2013) has sold a combined 100 million tickets vs. the 50 year Godzilla series (1954-2004), which sold a combined 99 million tickets.<ref name="Wall Street Journal Japan">{{cite news|last=Sekiguchi|first=Toko|title=Godzilla Loses Top Spot to Kittybot Doraemon|url=http://blogs.wsj.com/japanrealtime/2013/03/26/godzilla-loses-top-spot-to-kittybot-doraemon/|accessdate=March 26, 2013|work=The Wall Street Journal|date=March 26, 2013}}</ref> It also became the largest franchise by numbers of admissions in Japan.<ref>{{cite web |url= http://www.hollywoodreporter.com/news/japan-box-office-doraemon-anime-786473|title= Japan Box Office: 'Doraemon' Anime Still All-Conquering|author= Gavin J. Blair|date= April 6, 2015|accessdate= May 28, 2015|work= [[hollywoodreporter.com]]}}</ref>
+
+==Legacy==
+
+[[File:Kawasakicitybus-w-1878.jpg|Shuttle bus featuring Doraemon to Fujiko.F.Fujio Museum in [[Kawasaki, Kanagawa|Kawasaki]]|thumb]] 
+A '''Fujiko F Fujio museum''' opened in [[Kawasaki, Kanagawa|Kawasaki]] on September 3, 2011, featuring Doraemon as the star of the museum.<ref>{{cite news| url=http://www.independent.co.uk/arts-entertainment/tv/anime-star-doraemon-to-have-own-museum-2345688.html | work=The Independent | date=29 August 2011 | location=London | title=Anime star Doraemon to have own museum}}</ref>
+
+As one of the oldest, continuously running icons, Doraemon is a recognizable character in this contemporary generation. Nobita, the show's protagonist, is a break from other characters typically portrayed as special or extraordinary, and this portrayal has been seen as reasons of its appeal as well as the contrary: especially in the United States.<ref>{{cite news|author=TETSUO IWAMOTO, Asahi Staff Writer|url=http://ajw.asahi.com/article/cool_japan/culture/AJ201209030098 |title=Happy birthday! Doraemon will be born 100 years from today |work=[[Asahi Shimbun]] |date=2012-09-03 |accessdate=2014-01-15}}</ref>
+
+[[ESP Guitars]] have made several Doraemon guitars aimed at children.<ref>{{cite web |url=http://espguitars.co.jp/doraemon/index.html |title=ESP X Doraemon |archiveurl=https://web.archive.org/web/20130903175610/http://espguitars.co.jp/doraemon/index.html |archivedate=September 3, 2013 |publisher=[[ESP Guitars]]}}</ref><ref>{{cite web |url=http://www.espguitars.co.jp/doraemon/index.html |title=ESP X Doraemon |accessdate=December 26, 2014 |publisher=[[ESP Guitars]]}}</ref>
+
+In late 2011, Shogakukan and [[Toyota]] joined forces to create a series of live-action commercials as part of Toyota's ReBorn ad campaign. The commercials depict the characters nearly 20 years older. Hollywood actor [[Jean Reno]] plays Doraemon.<ref>{{cite web|url=http://www.animenewsnetwork.com/news/2012-07-14/jean-reno-goes-to-olympics-as-doraemon-in-new-live-action-ad |title=Jean Reno Goes to Olympics as Doraemon in New Live-Action Ad – News |work=Anime News Network |date=2013-01-27 |accessdate=2013-01-31}}</ref>
+
+Doraemon has become a prevalent part of popular culture in Japan. Newspapers also regularly make references to Doraemon and his pocket as something with the ability to satisfy all wishes. Other characters in the series are also referenced frequently on TV shows if their cast resembles them.
+
+Doraemon appears in appeals for charity. [[TV Asahi]] launched the ''Doraemon Fund'' charity fund to raise money for natural disasters.<ref>{{cite web |title=Doraemon Fund |url=http://www.tv-asahi.co.jp/doraemonbokin/|archiveurl=https://web.archive.org/web/20040111135443/http://www.tv-asahi.co.jp/doraemonbokin/ |archivedate=January 11, 2004  |work=[[TV Asahi]]}}</ref>
+
+Doraemon, Nobita, and the other characters also appear in various educational manga.<ref>{{cite book |title=Manga:Sixty years of Japanese Comics |publisher=Laurence King Publishing |isbn=1-85669-391-0 |last=Gravett |first=Paul}}</ref><ref>{{cite web |url=http://www.animenewsnetwork.com/interest/2011-06-22/shogakukan-publishes-doraemon-earthquake-survival-guide |title=Shogakukan Publishes Doraemon Earthquake Survival Guide |work=[[Anime News Network]] |date=June 22, 2011 |accessdate=January 5, 2014}}</ref> Doraemon is also mentioned in several anime and manga by other [[Mangaka|manga artists]].{{Citation needed|date=March 2010}}
+
+==See also==
+{{Portal|Anime and Manga}}
+{{Wikipedia books}}
+* [[List of non-Japanese Doraemon versions]]
+* [[List of Doraemon media]]
+* ''[[Dorabase]]'', a spin-off about robot cats who play on a [[baseball]] team.
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{commons category}}
+* [http://www.dora-world.com/ ''Doraemon'' Official Website] {{ja icon}} 
+* [http://www.dora-movie.com/ ''Doraemon'' Movie Official Website (1980–2009)] {{ja icon}} 
+* [http://www.tv-asahi.co.jp/doraemon/ ''Doraemon'' Official TV Asahi Website''] {{ja icon}} 
+* [http://www.doraemon.com/ ''Doraemon'' Official US website] 
+* [http://doraemon.yahoo.co.jp/ ''Doraemon'' features for adults] (Opens January and closes May every year) {{ja icon}} 
+* [http://www.proc.org.tohoku.ac.jp/~hoshi/doraemon/doraemon.euc ''Doraemon'' Secret ''Dōgu'' List], a comprehensive list of ''dōgu'' featured in ''Doraemon'' {{ja icon}}
+* [http://www.shogakukan.co.jp/books/series/_id_B30012 ''Doraemon'' English Comics from Shogakukan]; [http://www.shogakukan.co.jp/books/detail/_isbn_4092270216 Complete set] {{ja icon}} 
+* {{ann|manga|1335}}
+
+{{Portal bar|Science fiction|Anime and manga|Japan}}
+{{Doraemon}}
+{{Fujiko Fujio}}
+{{Tezuka Osamu Cultural Prize}}
+{{GMA Network Shows (current and upcoming)}}
+
+[[Category:Doraemon| ]]
+[[Category:1969 manga]]
+[[Category:Adventure anime and manga]]
+[[Category:Children's manga]]
+[[Category:Comedy-drama anime and manga]]
+[[Category:CoroCoro Comic]]
+[[Category:Fantasy anime and manga]]
+[[Category:Fictional artificial intelligences]]
+[[Category:Fictional cats]]
+[[Category:Fujiko Fujio]]
+[[Category:Jetix]]
+[[Category:Viz Media anime]]
+[[Category:Manga adapted into films]]
+[[Category:Science fiction anime and manga]]
+[[Category:Shunsuke Kikuchi]]
+[[Category:TV Asahi shows]]
+[[Category:Winner of Tezuka Osamu Cultural Prize (Grand Prize)]]
+[[Category:Winners of the Shogakukan Manga Award for children's manga]]
+[[Category:Programs acquired by GMA Network]]
+[[Category:Shapeshifting in fiction]]
+[[Category:Time travel comics]]
+[[Category:Comics about cats]]

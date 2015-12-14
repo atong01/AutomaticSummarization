@@ -1,0 +1,940 @@
+{{About|the city in Spain|other uses|Barcelona (disambiguation)}}
+{{Use dmy dates|date=February 2015}}
+{{Infobox settlement
+| official_name           = Barcelona
+| native_name             = <!-- if different from the English name -->
+| other_name              =
+| settlement_type         = [[Municipalities of Catalonia|City and Municipality]]
+<!-- images, nickname, motto --->
+| image_skyline           = Barcelona collage.JPG
+| image_alt               = 
+| image_caption           = [[22@|Central business district]], [[Sagrada Família]], [[Camp Nou|Camp Nou stadium]], [[The Castle of the Three Dragons]], [[Palau Nacional]], [[W Barcelona|W Barcelona hotel]] and beach
+| image_flag              = Flag of Barcelona.svg
+| flag_alt                =
+| image_shield            = Coat of Arms of Barcelona.svg
+| shield_alt              =
+| nickname                = {{nowrap|''Ciutat Comtal''&nbsp;([[Catalan language|ca]]) / ''Ciudad Condal''&nbsp;([[Spanish language|es]]) <br> "City of Counts"}} <br> {{nowrap|''Cap i Casal de Catalunya''&nbsp;([[Catalan language|ca]]) <br> "Head and Hearth of Catalonia"}}
+<br> Abbreviation(s): <br/> ''Barna'', ''BCN''
+| motto                   =
+<!-- maps and coordinates ------>
+| pushpin_map1            = Spain Catalonia
+| pushpin_label_position1 =
+| pushpin_map_alt1        =
+| pushpin_map_caption1    = Location of Barcelona within Catalonia
+| pushpin_map             = Spain
+| pushpin_label_position  =
+| pushpin_map_alt         =
+| pushpin_map_caption     = Location of Barcelona within Spain
+| latd  = 41 | latm  = 23 | lats  = | latNS  = N
+| longd =  2 | longm = 11 | longs = | longEW = E
+| coordinates_type        = type:city(1,582,738)_region:ES
+| coordinates_display     = inline, title
+| coordinates_footnotes   =
+| coordinates_region      = ES
+<!-- location ------------------>
+| subdivision_type        = Country
+| subdivision_name        = {{flagicon|ESP}} [[Spain]]
+| subdivision_name2       = [[Province of Barcelona|Barcelona]]
+| subdivision_type3       = [[Comarques of Catalonia|Comarca]]
+| subdivision_type1       = [[Autonomous communities of Spain|Autonomous community]]
+| subdivision_name1       = {{flagicon|Catalonia}} [[Catalonia]]
+| subdivision_type2       = [[Provinces of Spain|Province]]
+| subdivision_name3       = [[Barcelonès]]
+<!-- established --------------->
+| established_title       =
+| established_date        =
+<!-- seat, smaller parts ------->
+| seat_type               = 
+| seat                    = [[Barcelona City Hall]] <!-- Casa de la Ciutat de Barcelona / Casa de la Ciudad de Barcelona -->
+| parts_type              = [[Districts of Barcelona|Districts]]
+| parts_style             = coll
+| parts                   = {{nobold|10}}
+| p1                      = [[Ciutat Vella]]
+| p2                      = [[Eixample]]
+| p3                      = [[Gràcia]]
+| p4                      = [[Horta-Guinardó]]
+| p5                      = [[Les Corts (district)|Les Corts]]
+| p6                      = [[Nou Barris]]
+| p7                      = [[Sant Andreu]]
+| p8                      = [[Sants-Montjuïc|Sants–Montjuïc]]
+| p9                      = [[Sarrià-Sant Gervasi]]
+| p10                     = [[Sant Martí (district)|Sant Martí]]
+<!-- government type, leaders -->
+| government_type         = [[Mayor–council government|Mayor–council]]
+| governing_body          = {{nowrap|Barcelona City Council}} <!-- Ajuntament de Barcelona / Ayuntamiendo de Barcelona -->
+| leader_party            = [[Barcelona en Comú]]
+| leader_title            = Mayor
+| leader_name             = [[Ada Colau]]
+<!-- display settings  --------->
+| total_type              = City
+| unit_pref               = <!-- enter: Imperial, to display imperial before metric -->
+<!-- area ---------------------->
+| area_total_km2          = 102.15
+| area_urban_km2          = 803
+<!-- elevation ----------------->
+| elevation_footnotes     =&nbsp;([[Above mean sea level|AMSL]])
+| elevation_m             = 12
+<!-- population ---------------->
+| population_footnotes    =
+| population_rank         = [[List of Spanish municipalities by population|2nd (Spain)]]
+| population_total        = 1620943
+| population_urban        = 4693000<ref name="demographia">[http://www.demographia.com/db-worldua.pdf Demographia: World Urban Areas] - Demographia, 2015</ref>
+| population_metro        = 5375774 
+| population_as_of        = 2011
+| population_density_km2  = 15991
+| population_demonym      = Barcelonan,&nbsp;Barcelonian <br/> ''barceloní'',&nbsp;''-ina''&nbsp;([[Catalan language|ca]]) <br/> 'barcelonés'',&nbsp;''-esa''&nbsp;([[Spanish language|es]])
+<!-- time zone(s) -------------->
+| timezone1               = [[Central European Time|CET]]
+| utc_offset1             = +1
+| timezone1_DST           = [[Central European Summer Time|CEST]]
+| utc_offset1_DST         = +2
+<!-- postal codes, area code --->
+| postal_code_type        = [[List of postal codes in Spain|Postal code]]
+| postal_code             = 080xx <!-- 08001–08080 -->
+| area_code_type          = [[Telephone numbers in Spain|Area code]]
+| area_code               = [[+34]] ([[Spain|E]]) 93 ([[province of Barcelona|B]])
+<!-- INE code, city budget ----------->
+| blank_name_sec1         = [[Instituto Nacional de Estadística (Spain)|INE code]]
+| blank_info_sec1         = 08 0193
+| blank1_name_sec1        = [[City budget]] {{nobold|(2014)}}
+| blank1_info_sec1        = €2.5 billion<ref>[http://www.lavanguardia.com/local/barcelona/20131231/54397686276/trias-aprueba-presupuesto-barcelona.html Trias aprueba definitivamente el presupuesto de Barcelona para 2014], ''[[La Vanguardia]]''.</ref>
+<!-- language(s), patron saint(s), main festivity --------------->
+| blank_name_sec2         = {{nowrap|[[Languages of Spain|Official language]]}}
+| blank_info_sec2         = [[Catalan language|Catalan]] and [[Spanish language|Spanish]] 
+| blank1_name_sec2        = [[Fiesta patronal|Main festitivity]]
+| blank1_info_sec2        = [[La Mercè]]
+| blank2_name_sec2        = [[Patron saint]]
+| blank2_info_sec2        = [[Eulalia of Barcelona]]
+<!-- website, footnotes -------->
+| website                 = {{URL|www.barcelona.cat/en/}}
+| footnotes               =
+}}
+'''Barcelona''' ({{IPAc-en|b|ɑr|s|ə|ˈ|l|oʊ|n|ə}}, {{IPA-ca|bəɾsəˈlonə|lang}}, {{IPA-es|barθeˈlona|lang}}) is the capital city of the [[Autonomous communities of Spain|autonomous community]] of [[Catalonia]] in [[Spain]] and Spain's second most populated city, with a population of 1.6 million<ref>{{cite web| title=Population of Barcelona | author=INE| publisher=Instituto Nacional de Estadistica| url=http://www.ine.es/jaxi/tabla.do|  date=1 January 2012 |accessdate=3 June 2013|archiveurl=http://www.webcitation.org/5dzZdiz9T|archivedate=21 January 2009}}</ref> within its administrative limits. Its [[urban area]] extends beyond the administrative city limits with a population of around 4.7 million people, being the [[Largest urban areas of the European Union|sixth-most populous urban area]] in the [[European Union]] after [[Paris]], [[London]], [[Madrid]], the [[Ruhr|Ruhr area]], and [[Milan]].<ref name="demographia"/> It is the largest metropolis on the [[Mediterranean Sea]], located on the coast between the mouths of the rivers [[Llobregat]] and [[Besòs (river)|Besòs]], and bounded to the west by the [[Serra de Collserola]] mountain range, the tallest peak of which is {{convert|512|m|ft|0}} high.
+
+Founded as a Roman city, in the Middle Ages Barcelona became the capital of the [[Counts of Barcelona|County of Barcelona]]. After merging with the [[Kingdom of Aragon]], Barcelona continued to be an important city in the [[Crown of Aragon]] as an economical and administrative center of this Crown and the capital of the [[Principality of Catalonia]]. Besieged several times during its history, Barcelona has a rich cultural heritage and is today an important cultural center and a major tourist destination. Particularly renowned are the architectural works of [[Antoni Gaudí]] and [[Lluís Domènech i Montaner]], which have been designated UNESCO [[World Heritage Site]]s. The headquarters of the [[Union for the Mediterranean]] is located in Barcelona. The city is known for hosting the [[1992 Summer Olympics]] as well as world-class [[Barcelona#Trade fair and exhibitions|conferences and expositions]] and also many [[Sport in Barcelona#International tournaments|international sport tournaments]].
+
+Barcelona is one of the world's leading tourist, economic, trade fair and cultural centers, and its influence in commerce, education, entertainment, media, fashion, science, and the arts all contribute to its status as one of the [[global city|world's major global cities]].<ref name="GAWC">{{cite web |url=http://www.lboro.ac.uk/gawc/world2010t.html |title=The World According to GaWC 2010 |publisher=Globalization and World Cities Study Group and Network, [[Loughborough University]] |accessdate=2011|archiveurl=http://web.archive.org/web/20131010004859/http://www.lboro.ac.uk:80/gawc/world2010t.html |archivedate=10 October 2013 }}</ref><ref>{{cite web |url=http://www.lboro.ac.uk/gawc/citylist.html |title=Inventory of World Cities |publisher=Globalization and World Cities (GaWC) Study Group and Network |accessdate=1 December 2007|archiveurl=http://web.archive.org/web/20131014191556/http://www.lboro.ac.uk:80/gawc/citylist.html |archivedate=14 October 2013 }}</ref> It is a major cultural and economic center in [[Iberian Peninsula|southwestern Europe]], 24th in the world (before [[Zürich]], after [[Frankfurt]])<ref>{{cite web|url=http://www.atkearney.com/documents/10192/dfedfc4c-8a62-4162-90e5-2a3f14f0da3a |title=2012 Global Cities Index |date= |accessdate=30 March 2014|archiveurl=http://web.archive.org/web/20131020223227/http://www.atkearney.com/documents/10192/dfedfc4c-8a62-4162-90e5-2a3f14f0da3a|archivedate=20 October 2013}}</ref> and a financial center. In 2008 it was the [[List of cities by GDP#Top 10 cities in the European Union|fourth most economically powerful city by GDP]] in the European Union and 35th in the world with GDP amounting to €177 billion.<ref name="pricewater">{{cite web|url=http://web.archive.org/web/20110504031739/https://www.ukmediacenter.pwc.com/imagelibrary/downloadMedia.ashx?MediaDetailsID=1562|title=Global city GDP rankings 2008–2025|publisher=Pricewaterhouse Coopers|accessdate=16 December 2009}}</ref> In 2012 Barcelona had a GDP of $170 billion; it is leading Spain in both [[employment rate]] and GDP per capita change.<ref>{{cite web|title=Brookings analysis of data from Oxford Economics, Moody’s Analytics, and the U.S. Census Bureau|url=http://www.brookings.edu/research/interactives/global-metro-monitor-3#|work=Brookings Global MetroMonitor|publisher=Brookings Institution|accessdate=14 January 2014|author=Emilia Istrate|author2=Carey Anne Nadeau|date=30 November 2012|archiveurl=http://www.webcitation.org/6H7Jql2A9|archivedate=4 June 2013}}</ref>  In 2009 the city was ranked Europe's third and one of the world's most successful as a city brand.<ref>{{cite web|url=http://www.citymayors.com/marketing/city-brands.html |title=Paris, London and Barcelona are Europe’s top city brands |publisher=Citymayors.com |date=28 August 2008 |accessdate=30 March 2014|archiveurl=http://web.archive.org/web/20130927073641/http://www.citymayors.com:80/marketing/city-brands.html |archivedate=27 September 2013 }}</ref> In the same year the city was ranked Europe's fourth best city for business and fastest improving European city, with growth improved by 17% per year,<ref name="BEBC">{{cite web|url=http://www.citymayors.com/business/euro_bizcities.html |title=Best European business cities |publisher=City Mayors |date=28 October 2009 |accessdate=15 September 2011|archiveurl=http://web.archive.org/web/20130723081225/http://www.citymayors.com/business/euro_bizcities.html |archivedate=23 July 2013 }}</ref> but it has since been in a full recession with declines in both employment and GDP per capita, with some recent signs of the beginning of an economic recovery.<ref>{{cite web|title=Spain: Seeds of recovery|url=http://www.ft.com/intl/cms/s/0/4a56f51c-2b60-11e3-bfe2-00144feab7de.html?siteedition=uk|work=Financial Times Analysis|publisher=Financial Times|accessdate=14 January 2014|author=Tobias Buck|date=3 October 2013}}</ref> Since 2011 Barcelona is a leading [[smart city]] in Europe.<ref>{{cite web|url=http://www.brusselnieuws.be/en/video/tvbrussel/barcelona-50-or-barcelona-smart-city-we-need-leaders-vision |title=Barcelona 5.0 or Barcelona smart city|publisher=tvbrussel|date=4 December 2014}}</ref> Barcelona is a [[transport hub]] with the [[Port of Barcelona]] being one of Europe's principal seaports and busiest European passenger port,<ref name=StatServ2014>{{cite web|title=Port of Barcelona traffic statistics Accumulated data December 2013|url=http://content.portdebarcelona.cat/cntmng/d/d/workspace/SpacesStore/1c206b0a-4787-49d8-9c8c-0563aa71719f/PortBcnTrafic2013_12_en.pdf|publisher=Statistics Service|accessdate=14 June 2014|archiveurl=http://web.archive.org/web/20140614141353/http://content.portdebarcelona.cat/cntmng/d/d/workspace/SpacesStore/1c206b0a-4787-49d8-9c8c-0563aa71719f/PortBcnTrafic2013_12_en.pdf|archivedate=6 June 2014|page=6}}</ref> an international airport, [[Barcelona–El Prat Airport]], which handles above 35 million passengers per year,<ref>{{cite web|title=2012 Annual Traffic Report|url=http://www.panynj.gov/airports/pdf-traffic/ATR2012.pdf|work=Annual Traffic Report of the Aviation Department|publisher=Port Authority of NY & NJ|accessdate=23 January 2014|author=Ralph Tragale|date=1 April 2013|archiveurl=http://web.archive.org/web/20130613012135/http://www.panynj.gov:80/airports/pdf-traffic/ATR2012.pdf|archivedate=13 June 2013}}</ref> an [[Barcelona#Roads and highways|extensive motorway network]] and a [[high-speed rail]] line with a link to France and the rest of Europe.<ref>{{cite web|url=http://www.europapress.es/economia/transportes-00343/noticia-economia-ave-reyes-inauguraran-ave-valencia-principes-conexion-albacete-20101210123611.html |title=First commercial trips|language=es |publisher=Europapress.es |date=10 December 2010 |accessdate=30 March 2014|archiveurl=http://web.archive.org/web/20140410223618/http://www.europapress.es/economia/transportes-00343/noticia-economia-ave-reyes-inauguraran-ave-valencia-principes-conexion-albacete-20101210123611.html|archivedate=10 April 2014}}</ref>
+
+==Names==
+The name ''Barcelona'' comes from the ancient Iberian ''Barkeno'', attested in an ancient coin inscription found on the right side of the coin in [[Iberian scripts|Iberian script]] as [[File:Barkeno.png|34px|Barkeno in Levantine Iberian script]],<ref>''Emerita: Revista de Lingüística y Filología clasica'' 11 (1943), p.468</ref> in [[Ancient Greek]] sources as {{lang|grc|Βαρκινών}}, ''Barkinṓn;<ref>[[Ptolemy]], ii. 6. §&nbsp;8</ref><ref name="Schütte1917">{{cite book|author=Gudmund Schütte|title=Ptolemy's Maps of Northern Europe: A Reconstruction of the Prototypes|url=http://books.google.com/books?id=SkngAAAAMAAJ&pg=PA45|year=1917|publisher=H. Hagerup|page=45}}</ref> and in [[Latin]] as ''Barcino'',<ref>{{cite book|last=Smith|first=Sir William|title=Dictionary of Greek and Roman Geography: Abacaenum-Hytanis|year=1854|publisher=Little, Brown and Company|location=Boston, Massachusetts|page=378}}</ref> ''Barcilonum''<ref>[[Rufus Festus Avienus]] ''Ora Maritima'' [http://www.thelatinlibrary.com/avienus.ora.html « et Barcilonum amoena sedes ditium. » v514] {{Wayback|df=yes|url=http://www.thelatinlibrary.com/avienus.ora.html|date =20130812170724}}</ref> and ''Barcenona''.<ref name="Parthey1848">{{cite book|author=Gustav Parthey|title=Itinerarium Antonini Avgvsti et Hierosolymitanvm: ex libris manvscriptis|url=http://books.google.com/books?id=s0oMAAAAYAAJ&pg=PA188|year=1848|publisher=F. Nicolai|page=188}}</ref><ref name="WesselingGrammarian1735">{{cite book|author1=Petrus Wesseling|author2=Hierocles (The Grammarian)|title=Vetera Romanorum itineraria, /: sive Antonini Augusti Itinerarium|url=http://books.google.com/books?id=iIJBAAAAcAAJ&pg=PA390|year=1735|publisher=apud J. Wetstenium & G. Smith|page=390}}</ref><ref name="Cook1910">{{cite book|author=Joel Cook|title=The Mediterranean and Its Borderlands|url=http://books.google.com/books?id=jEkWMQNh-8sC&pg=PA334|year=1910|page=334}}</ref>
+
+Sources suggest that the city may have been named after the Carthaginian general [[Hamilcar Barca]], who was supposed to have founded the city in the 3rd century BC.<ref>{{cite web|url=http://www.etymonline.com/index.php?term=Barcelona |title=Online Etymology Dictionary |publisher=Etymonline.com |accessdate=14 June 2010|archiveurl=http://web.archive.org/web/20140409161819/http://www.etymonline.com/index.php?term=Barcelona |archivedate=9 April 2014 }}</ref>
+
+During [[Middle Ages|the Middle Ages]], the city was variously known as ''Barchinona'', ''Barçalona'', ''Barchelonaa'', and ''Barchenona''.
+
+Internationally, Barcelona's name is usually abbreviated as 'Barsa' or 'Barça'. Locally, this name refers only to [[FC Barcelona]], the football club. Locals refer to the city instead as 'Barna'.
+
+Another common abbreviation is 'BCN', which is also the [[IATA airport code]] of the [[Barcelona-El Prat Airport]].
+
+The city is also referred to as the ''Ciutat Comtal'' in Catalan, and ''Ciudad Condal'' in Spanish, owing to its past as the seat of the [[Count of Barcelona]].
+
+==History==
+{{Main|History of Barcelona|Timeline of Barcelona}}
+[[File:Barcino marble barcelona.jpg|thumbnail|A marble plaque in the Museu d'Història de la Ciutat de Barcelona, dated from around 110-130 AD and dedicated to the Roman colony of Barcino]]
+
+The origin of the earliest settlement at the site of present-day Barcelona is unclear. Around the actual neighborhood of Raval have been found remains of an early settlement, including different tombs and a hut from 5.500 BC.
+The founding of Barcelona is the subject of two different legends. The first attributes the founding of the city to the mythological [[Hercules]]. The second legend attributes the foundation of the city directly to the historical [[Carthage|Carthaginian]] [[Hamilcar Barca]], father of [[Hannibal]], who named the city ''Barcino'' after his family in the Third century BC.<ref>Oros. vii. 143; Miñano, ''Diccion.'' vol.&nbsp;i. p.&nbsp;391; Auson. ''Epist.'' xxiv. 68, 69, ''Punica Barcino''.</ref>
+
+In about [[15 BC|15&nbsp;BC]], the [[Roman Empire|Romans]] redrew the town as a ''[[castra|castrum]]'' (Roman military camp) centerd on the "''Mons Taber''", a little hill near the contemporary city hall ([[Plaça de Sant Jaume]]). Under the Romans, it was a colony with the surname of ''Faventia'',<ref>[[Pliny the Elder|Plin.]] iii. 3. s.&nbsp;4</ref> or, in full, ''Colonia Faventia Julia Augusta Pia Barcino''<ref>Inscr. ap. Gruter, p. 426, nos. 5, 6.</ref> or ''Colonia Julia Augusta Faventia Paterna Barcino''. [[Pomponius Mela]]<ref>ii. 6</ref> mentions it among the small towns of the district, probably as it was eclipsed by its neighbour ''[[Tarragona|Tarraco]]'' (modern [[Tarragona]]), but it may be gathered from later writers that it gradually grew in wealth and consequence, favoured as it was with a beautiful situation and an excellent harbour.<ref>Avien. ''Ora Maritima.'' 520: "Et Barcilonum amoena sedes ditium."</ref> It enjoyed immunity from imperial burdens.<ref>Paul. Dig. 1. tit. 15, de Cens.</ref> The city minted its own coins; some from the era of [[Galba]] survive.
+[[File:Basílica de la Mercè es del carrer d'en Carabassa.jpg|thumb|left|upright|Basilica of La Mercè (''Mare de Déu de la Mercè'')]]
+Important Roman vestiges are displayed in [[Plaça del Rei]] underground, as a part of the [[Barcelona City History Museum]] MUHBA; the typically Roman grid plan is still visible today in the layout of the historical center, the ''[[El Gòtic|Barri Gòtic]]'' (Gothic Quarter). Some remaining fragments of the Roman walls have been incorporated into the cathedral.<ref>{{cite web|url=http://www.bluffton.edu/~sullivanm/spain/barcelona/walls/walls.html |title=Roman walls, Barcelona |publisher=Bluffton.edu |accessdate=5 May 2009|archiveurl=http://web.archive.org/web/20130723083724/http://www.bluffton.edu/~sullivanm/spain/barcelona/walls/walls.html |archivedate=23 July 2013 }}</ref> The cathedral, also known as the Basilica ''La Seu'', is said to have been founded in 343. The city was conquered by the [[Visigoths]] in the early 5th century, becoming for a few years the capital of all [[Hispania]]. After being conquered by the [[Arabs]] in the early 8th century, it was conquered in 801 by [[Charlemagne]]'s son [[Louis the Pious|Louis]], who made Barcelona the seat of the Carolingian "[[Marca Hispanica|Hispanic March]]" (''Marca Hispanica''), a [[buffer zone]] ruled by the [[Counts of Barcelona|Count of Barcelona]].
+
+The Counts of Barcelona became increasingly independent and expanded their territory to include all of [[Catalonia]], although on 6 July 985, Barcelona was [[Looting|sacked]] by the army of [[Almanzor]].<ref>'''The Usatges of Barcelona: The Fundamental Law of Catalonia''', ed. Donald J. Kagay, (University of Pennsylvania Press, 1994), 7.</ref> The sack was so traumatic that most of Barcelona's population was either killed or enslaved.<ref>Roger Collins, ''Caliphs and Kings, 796-1031'', (Blackwell Publishing, 2012), 191.</ref> In 1137, [[Kingdom of Aragon|Aragon]] and the [[Counts of Barcelona|County of Barcelona]] merged in [[dynastic union]]<ref name="bisson_31">{{cite book |title=The medieval Crown of Aragon. A short story |chapter=II. The age of the Early Count-Kings (1137–1213) (The Principate of Ramon Berenguer IV 1137–1162) |year=1986 |editor=Clarendon Press – Oxford |author=T.N. Bisson |page=31 |isbn=978-0-19-820236-3 |accessdate=3 May 2008}}</ref><ref>{{cite book |url=http://libro.uca.edu/aarhms/newsletters/AAHRMSFall07text.pdf |title=Els impostos indirectes en el regne de Mallorca. |author=Cateura Benàsser, Pau |accessdate=24 April 2008 |format=PDF |isbn=978-84-96019-28-7|archiveurl=http://web.archive.org/web/20130723095233/http://libro.uca.edu/aarhms/newsletters/AAHRMSFall07text.pdf |archivedate=23 July 2013 }} El Tall dels Temps, 14. (Palma de) Mallorca: El Tall, 1996.</ref> by the marriage of [[Ramon Berenguer IV, Count of Barcelona|Ramon Berenguer IV]] and [[Petronila of Aragon|Petronilla of Aragon]], their titles finally borne by only one person when their son [[Alfonso II of Aragon]] ascended to the throne in 1162. His territories were later to be known as the [[Crown of Aragon]], which conquered many overseas possessions and ruled the western [[Mediterranean Sea]] with outlying territories [[Naples|in Naples]] and Sicily and as far as [[Duchy of Athens|Athens]] in the 13th century. The forging of a dynastic link between the Crowns of Aragon and [[Crown of Castile|Castile]] marked the beginning of Barcelona's decline. The Bank of Barcelona, probably the oldest public bank in Europe, was established by the city [[magistrate]]s in 1401. It originated from necessities of the state, as did the [[Medici Bank#Rise|Bank of Venice]] (1402) and the [[Bank of Saint George|Bank of Genoa]] (1407).<ref>The Bankers magazine, volume 11, page 595, J. Smith Homans Jr., New York 1857.</ref>
+
+[[File:Barcelona 1563.JPG|thumb|Barcelona in 1563]]
+
+The marriage of [[Ferdinand II of Aragon]] and [[Isabella I of Castile]] in 1469 united the two royal lines. [[Madrid]] became the center of political power whilst the colonisation of the Americas reduced the financial importance (at least in relative terms) of Mediterranean trade. Barcelona was a center of [[Catalan separatism]], including the [[Catalan Revolt]] (1640–52) against [[Philip IV of Spain]]. The [[plague (disease)|great plague]] of 1650–1654 halved the city's population.<ref>[http://libro.uca.edu/payne1/payne15.htm Chapter 15: A History of Spain and Portugal], Stanley G. Payne {{Wayback|df=yes|url=http://libro.uca.edu/payne1/payne15.htm|date =20130921003150}}</ref>
+
+[[File:Castell de Montjuic - Fossat entrada - Barcelona (Catalonia).jpg|thumb|The [[Castle of Montjuïc|fortress at Montjuïc]], most southerly point from which measurements were made when calculating the [[meridional definition]] of the metre]]
+In the 18th century, a fortress was built at [[Montjuïc]] that overlooked the harbour. In 1794, this fortress was used by the French astronomer [[Pierre Méchain|Pierre François André Méchain]] for observations relating to a survey stretching to [[Dunkirk]] that provided the official basis of the measurement of a metre.<ref>{{cite book|last1=Adler |first1=Ken|title=The measure of all things – The seven year odyssey that transformed the world|year=2002|publisher=Abacus|isbn=978-0-349-11507-8}}</ref> The definitive metre bar, manufactured from platinum, was presented to the French legislative assembly on 22 June 1799. Much of Barcelona was negatively affected by the [[Peninsular War|Napoleonic wars]], but the start of industrialization saw the fortunes of the province improve.
+
+During the [[Spanish Civil War]], the city, and Catalonia in general, were resolutely Republican. Many enterprises and public services were "collectivised" by the [[Confederación Nacional del Trabajo|CNT]] and UGT unions. As the power of the Republican government and the Generalitat diminished, much of the city was under the effective control of [[anarchist]] groups. The anarchists lost control of the city to their own allies, the Communists and official government troops, after the street fighting of the Barcelona May Days. The fall of the city on 26 January 1939, caused a mass exodus of civilians who fled to the French border. The resistance of Barcelona to [[Francisco Franco|Franco]]'s [[coup d'état]] was to have lasting effects after the defeat of the Republican government. The autonomous institutions of [[Catalonia]] were abolished,<ref>Decree of 5 April 1938.</ref> and the use of the [[Catalan language]] in public life was suppressed. Barcelona remained the second largest city in Spain, at the heart of a region which was relatively industrialised and prosperous, despite the devastation of the [[Spanish Civil War|civil war]]. The result was a large-scale [[immigration]] from poorer regions of Spain (particularly [[Andalusia]], [[Murcia]] and [[Galicia (Spain)|Galicia]]), which in turn led to rapid urbanisation. The city gained vitality in 1992 when it hosted the Olympic games.<ref>"[http://www.britannica.com/EBchecked/topic/53030/Barcelona Barcelona (Spain)]". Encyclopædia Britannica. {{Wayback|df=yes|url=http://www.britannica.com/EBchecked/topic/53030/Barcelona|date =20131013185559}}</ref>
+
+==Geography==
+{{wide image|Barcelona. View from Tibidabo.jpg|800px|A panoramic view of Barcelona}}
+
+===Location===
+[[File:Barcelona ISS009-E-9987.jpg|thumb|right|Barcelona from high altitude]]
+
+Barcelona is located on the northeast coast of the [[Iberian Peninsula]], facing the [[Mediterranean Sea]], on a [[plain]] approximately {{convert|5|km|mi|0|abbr=on}} wide limited by the mountain range of [[Serra de Collserola|Collserola]], the [[Llobregat]] river to the southwest and the [[Besòs (river)|Besòs]] river to the north.<ref name="gec_3">{{cite encyclopaedia |encyclopedia=Gran Enciclopèdia Catalana |title=Barcelona |date=July 1971 |publisher=Edicions 62 |volume=3 |location=Barcelona |pages=193–229}}</ref> This plain covers an area of {{convert|170|km2|sqmi|0|abbr=on}},<ref name="gec_3"/> of which {{convert|101|km²|1|abbr=on}}<ref name="guies_estadistiques">{{cite web|url=http://www.bcn.es/estadistica/catala/dades/inf/guies/bcn.pdf |title=11 Barcelona.indd |format=PDF |accessdate=26 June 2010|archiveurl=http://web.archive.org/web/20120220062823/http://www.bcn.es/estadistica/catala/dades/inf/guies/bcn.pdf |archivedate=20 February 2011 }}</ref> are occupied by the city itself. It is {{convert|120|km|0|abbr=off}} south of the [[Pyrenees]] and the [[Catalonia|Catalan]] border with France.
+
+[[Tibidabo]], {{convert|512|m|ft|0|abbr=on}} high, offers striking views over the city<ref>{{cite web|url=http://www.panoramas.dk/fullscreen/fullscreen33.html |title=Barcelona Spain Tibidabo Sagrat Cor Church. Full Screen QTVR panoramic image |publisher=Panoramas.dk |accessdate=5 May 2009| archiveurl= http://web.archive.org/web/20090428050829/http://www.panoramas.dk/fullscreen/fullscreen33.html| archivedate= 28 April 2009 | deadurl= no}}</ref> and is topped by the {{convert|288.4|m|ft|1|abbr=on}} [[Torre de Collserola]], a [[Radio masts and towers|telecommunications tower]] that is visible from most of the city. Barcelona is peppered with small hills, most of them urbanised, that gave their name to the neighbourhoods built upon them, such as [[El Carmel|Carmel]] (267&nbsp;m), [[Putget]] (181&nbsp;m) and Rovira (261&nbsp;m). The escarpment of [[Montjuïc]] (173&nbsp;m), situated to the southeast, overlooks the harbour and is topped by Montjuïc castle, a fortress built in the 17–18th centuries to control the city as a replacement for the Ciutadella. Today, the fortress is a museum and Montjuïc is home to several sporting and cultural venues, as well as Barcelona's biggest park and gardens.
+
+The city borders on the municipalities of [[Santa Coloma de Gramenet]] and [[Sant Adrià de Besòs]] to the north; the [[Mediterranean Sea]] to the east; [[El Prat de Llobregat]] and [[L'Hospitalet de Llobregat]] to the south; and [[Sant Feliu de Llobregat]], [[Sant Just Desvern]], [[Esplugues de Llobregat]], [[Sant Cugat del Vallès]], and [[Montcada i Reixac]] to the west. The municipality includes two small sparsely-inhabited [[exclave]]s to the north-west.
+
+===Climate===
+{{Main|Climate of Barcelona}}
+Barcelona has a [[Mediterranean climate]]<ref>{{cite web|url=http://www.meteo.cat/mediamb_xemec/servmet/index.html |title=Servei Meteorològic de Catalunya |publisher=Meteo.cat |accessdate=22 May 2009|archiveurl=http://web.archive.org/web/20131228014408/http://www.meteo.cat/mediamb_xemec/servmet/index.html |archivedate=28 December 2013 }}</ref> ([[Köppen climate classification]]: ''Csa''),<ref>{{cite web|url=http://koeppen-geiger.vu-wien.ac.at/|title=World Map of Köppen−Geiger Climate Classification|archiveurl=http://web.archive.org/web/20140410225754/http://koeppen-geiger.vu-wien.ac.at/|archivedate=10 April 2014}}</ref> with mild, humid winters and warm, dry summers.
+
+Its average annual temperature is {{convert|21|°C|°F|abbr=on}} during the day and {{convert|14|°C|°F|abbr=on}} at night. The average annual temperature of the sea is about {{convert|20|°C|°F|abbr=on}}. In the coldest month – January, the temperature typically ranges from {{convert|7|to|17|C|F}} during the day, {{convert|4|to|10|C|F}} at night and the average sea temperature is {{convert|13|°C|°F|abbr=on}}.<ref name="weather2travel">{{cite web|url=http://www.weather2travel.com/climate-guides/spain/barcelona.php|title=Weather2Travel.com: Barcelona Climate Guide|accessdate=16 June 2011| archiveurl= http://web.archive.org/web/20110718005932/http://www.weather2travel.com/climate-guides/spain/barcelona.php| archivedate= 18 July 2011 | deadurl= no}}</ref> In the warmest month – August, the typical temperature ranges from {{convert|26|to|32|C|F}} during the day, about {{convert|23|°C|°F|abbr=on}} at night and the average sea temperature is {{convert|26|°C|°F|abbr=on}}.<ref name=weather2travel/> Generally – the summer / "holiday" season lasts about six months, from May to October. Two months – April and November – are transitional; sometimes the temperature exceeds {{convert|20|°C|0|abbr=on}}, with an average temperature of {{convert|18|-|19|C|F}} during the day and {{convert|10|-|13|C|F}} at night. December, January and February are the coldest months, with average temperatures around {{convert|15|°C|°F|abbr=on}} during the day and {{convert|9|°C|°F|abbr=on}} at night. Large fluctuations in temperature are rare, particularly in the summer months. Frosts are very infrequent in the city of Barcelona and only occur in decades. In fact, only 1 day in the last 30 years was recorded with a temperature under the freezing mark.<ref>http://w1.bcn.cat/temps/docs/Can_Bruixa%201987-2010.pdf</ref> Snow is infrequent, but it snows lightly once or twice in a decade.
+
+Barcelona averages several rainy days per month (≥ 1&nbsp;mm), and annual average relative humidity is 72%, ranging from 69% in July to 75% in October. Sunshine duration is 2,524&nbsp;hours per year, from 138 (average 4.5&nbsp;hours of sunshine a day) in December to 310 (average 10&nbsp;hours of sunshine a day) in July.<ref name="Meteorología">{{cite web |url=http://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=0076&k=cat |title=Valores Climatológicos Normales. Barcelona / Aeropuerto |accessdate=16 June 2011|archiveurl=http://web.archive.org/web/20140410153233/http://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=0076&k=cat|archivedate=10 April 2014}}</ref>
+
+
+{{Weather box
+|location=Barcelona Can Bruixa - Barcelona city (1987-2014)
+|metric first=yes
+|single line=yes
+|Jan record high C= 22.4
+|Feb record high C= 24.8
+|Mar record high C= 28.8
+|Apr record high C= 27.7
+|May record high C= 31.6
+|Jun record high C= 35.8
+|Jul record high C= 36.8
+|Aug record high C= 38.2
+|Sep record high C= 33.4
+|Oct record high C= 32.6
+|Nov record high C= 26.1
+|Dec record high C= 23.1
+|year record high C= 38.2
+| Jan high C=14.8
+| Feb high C=15.6
+| Mar high C=17.4
+| Apr high C=19.1
+| May high C=22.5
+| Jun high C=26.1
+| Jul high C=28.6
+| Aug high C=29.0
+| Sep high C=26.0
+| Oct high C=22.5
+| Nov high C=17.9
+| Dec high C=15.1
+|year high C=21.2
+| Jan mean C=11.8
+| Feb mean C=12.4
+| Mar mean C=14.2
+| Apr mean C=15.8
+| May mean C=19.3
+| Jun mean C=23.0
+| Jul mean C=25.7
+| Aug mean C=26.1
+| Sep mean C=23.0
+| Oct mean C=19.5
+| Nov mean C=14.9
+| Dec mean C=12.3
+|year mean C=18.2
+| Jan low C=8.8
+| Feb low C=9.3
+| Mar low C=10.9
+| Apr low C=12.5
+| May low C=16.1
+| Jun low C=19.8
+| Jul low C=22.7
+| Aug low C=23.1
+| Sep low C=20.0
+| Oct low C=16.5
+| Nov low C=11.9
+| Dec low C=9.5
+|year low C=15.1
+|Jan record low C= -1.0
+|Feb record low C= 0.6
+|Mar record low C= 0.4
+|Apr record low C= 6.2
+|May record low C= 6.3
+|Jun record low C= 12.4
+|Jul record low C= 15.5
+|Aug record low C= 15.2
+|Sep record low C= 12.5
+|Oct record low C= 5.4
+|Nov record low C= 1.7 
+|Dec record low C= 0.7
+|year record low C= -1.0
+| Jan precipitation mm=43.7
+| Feb precipitation mm=31.4
+| Mar precipitation mm=33.0
+| Apr precipitation mm=47.7
+| May precipitation mm=47.4
+| Jun precipitation mm=25.5
+| Jul precipitation mm=25.1
+| Aug precipitation mm=40.8
+| Sep precipitation mm=81.9
+| Oct precipitation mm=96.5
+| Nov precipitation mm=45.1
+| Dec precipitation mm=46.8
+|year precipitation mm=565.0
+| Jan precipitation days=6.0
+| Feb precipitation days=5.0
+| Mar precipitation days=6.2
+| Apr precipitation days=7.9
+| May precipitation days=7.5
+| Jun precipitation days=5.5
+| Jul precipitation days=3.1
+| Aug precipitation days=5.8
+| Sep precipitation days=8.0
+| Oct precipitation days=8.0
+| Nov precipitation days=6.6
+| Dec precipitation days=7.0
+|year precipitation days=
+|unit precipitation days=1&nbsp;mm
+|Jan snow days= 0
+|Feb snow days= 0
+|Mar snow days= 0
+|Apr snow days= 0
+|May snow days= 0
+|Jun snow days= 0
+|Jul snow days= 0
+|Aug snow days= 0
+|Sep snow days= 0
+|Oct snow days= 0
+|Nov snow days= 0
+|Dec snow days= 0
+|year snow days= 0
+
+
+|source 1 = [[Agencia Estatal de Meteorología]] - [[Barcelona City Hall]]<ref>{{cite web|url=http://w1.bcn.cat/temps/docs/Can_Bruixa%201987-2010.pdf|title=Barcelona Can Bruixa - climate (1987-2010) |accessdate=}}</ref>|date = September 2015}}
+
+
+
+
+{{Weather box
+|location=Barcelona Airport (1981-2010)
+|metric first=yes
+|single line=yes
+| Jan high C=13.6
+| Feb high C=14.3
+| Mar high C=16.1
+| Apr high C=18.0
+| May high C=21.1
+| Jun high C=24.9
+| Jul high C=28.0
+| Aug high C=28.5
+| Sep high C=26.0
+| Oct high C=22.1
+| Nov high C=17.3
+| Dec high C=14.3
+|year high C=20.3
+| Jan mean C=9.2
+| Feb mean C=9.9
+| Mar mean C=11.8
+| Apr mean C=13.7
+| May mean C=16.9
+| Jun mean C=20.9
+| Jul mean C=23.9
+| Aug mean C=24.4
+| Sep mean C=21.7
+| Oct mean C=17.8
+| Nov mean C=13.0
+| Dec mean C=10.0
+|year mean C=16.1
+| Jan low C=4.7
+| Feb low C=5.4
+| Mar low C=7.4
+| Apr low C=9.4
+| May low C=12.8
+| Jun low C=16.8
+| Jul low C=19.8
+| Aug low C=20.2
+| Sep low C=17.4
+| Oct low C=13.5
+| Nov low C=8.6
+| Dec low C=5.7
+|year low C=11.8
+| Jan precipitation mm=37
+| Feb precipitation mm=35
+| Mar precipitation mm=36
+| Apr precipitation mm=40
+| May precipitation mm=47
+| Jun precipitation mm=30
+| Jul precipitation mm=21
+| Aug precipitation mm=62
+| Sep precipitation mm=81
+| Oct precipitation mm=91
+| Nov precipitation mm=59
+| Dec precipitation mm=40
+|year precipitation mm=588
+| Jan precipitation days=4
+| Feb precipitation days=4
+| Mar precipitation days=5
+| Apr precipitation days=5
+| May precipitation days=5
+| Jun precipitation days=4
+| Jul precipitation days=2
+| Aug precipitation days=5
+| Sep precipitation days=5
+| Oct precipitation days=6
+| Nov precipitation days=5
+| Dec precipitation days=4
+|year precipitation days=53
+|unit precipitation days=1&nbsp;mm
+| Jan sun=158
+| Feb sun=171
+| Mar sun=206
+| Apr sun=239
+| May sun=258
+| Jun sun=287
+| Jul sun=293
+| Aug sun=264
+| Sep sun=229
+| Oct sun=196
+| Nov sun=153
+| Dec sun=137
+|year sun=2591
+|source 1 = [[Agencia Estatal de Meteorología]]<ref>{{cite web|url=http://www.aemet.es/en/conocermas/publicaciones/detalles/guia_resumida_2010|title=Guía resumida del clima en España (1981-2010) |accessdate=}}</ref>|date = January 2015}}
+
+==Main sights==
+[[File:Barcelona Iglesia Sagrada Familia.jpg|thumb|upright|[[Sagrada Família]] church, [[Antoni Gaudí|Gaudí]]'s masterpiece]]
+
+The ''[[El Gòtic|Barri Gòtic]]'' (Catalan for "Gothic Quarter") is the center of the old city of Barcelona. Many of the buildings date from medieval times, some from as far back as the Roman settlement of Barcelona. Catalan ''[[Modernisme|modernista]]'' architecture (related to the movement known as [[Art Nouveau]] in the rest of Europe), developed between 1885 and 1950 and left an important legacy in Barcelona. Several of these buildings are [[World Heritage Site]]s. Especially remarkable is the work of architect [[Antoni Gaudí]], which can be seen throughout the city. His best-known work is the immense but still unfinished church of the [[Sagrada Família]], which has been under construction since 1882, and is still financed by private donations. As of 2007, completion is planned for 2026.
+
+Barcelona was also home to [[Ludwig Mies van der Rohe|Mies van der Rohe]]'s [[Barcelona Pavilion]]. Designed in 1929 for the [[1929 Barcelona International Exposition|International Exposition]] for Germany, it is an iconic building that came to symbolize modern architecture as the embodiment of van der Rohe's aphorisms "less is more" and "God is in the details." The Barcelona pavilion was intended as a temporary structure, and was torn down in 1930 less than a year after it was constructed. A modern re-creation by Spanish architects now stands in Barcelona, however, constructed in 1986.
+
+Barcelona won the 1999 [[Royal Institute of British Architects|RIBA]] [[Royal Gold Medal]] for its architecture,<ref>{{cite web | url = http://www.architecture.com/Files/RIBATrust/Awards/RoyalGoldMedal/Royal%20Gold%20Medallists%201848%20-%202008.pdf | title = RIBA Royal Gold Medallists | publisher = RIBA | accessdate = 28 January 2014| archiveurl = http://web.archive.org/web/20140202101307/http://www.architecture.com/Files/RIBATrust/Awards/RoyalGoldMedal/Royal%20Gold%20Medallists%201848%20-%202008.pdf | archivedate = 2 February 2014 }}</ref> the first (and as of 2015, only) time that the winner has been a city, and not an individual architect.
+
+[[File:Barcelona - Plaça Reial.jpg|thumb|center|700px|[[Plaça Reial]]]]
+
+===World Heritage Sites===
+Barcelona is the home of many points of interest declared [[World Heritage Site]]s by [[UNESCO]]:<ref>The seventh element of Place [[World Heritage]] "Works of [[Antoni Gaudí]]" is the Crypt in [[Colònia Güell]], which is located at [[Santa Coloma de Cervelló]].</ref>
+
+{|class="wikitable"
+|- style="text-align:center;"
+!
+|[[File:Parc Güell (Barcelona) - 58.jpg|200px]]||[[File:Palau Güell (2).jpg|150px]]||[[File:Casa Milà - Barcelona, Spain - Jan 2007.jpg|200px]]||[[File:Casa Vicens (Barcelona) - 3.jpg|200px]]
+|- style="text-align:center;"
+!Name
+|[[Park Güell]]||[[Palau Güell]]||[[Casa Milà]]||[[Casa Vicens]]
+|- style="text-align:center;"
+!Code, year
+|320-001, 1984||320-002, 1984||320-003, 1984||320-004, 2005
+|- style="text-align:center;"
+!Coordinates
+|{{coord|41|24|59.6|N|2|09|07.9|E}}||{{coord|41.379183|N|2.174445|E}}||{{coord|41|23|51.3|N|2|09|46.9|E|name=Casa Milà}}||{{coord|41|22|50.5|N|2|10|30.6|E}}
+|}
+{|class="wikitable"
+|- style="text-align:center;"
+!
+|[[File:Sagradafamilia-overview.jpg|150px]]||[[File:Batllo House.jpg|200px]]||[[File:Palau de la Música - Interior general.JPG|150px]]||[[File:StPau-Administracio-façana-7179sh.jpg|150px]]
+|- style="text-align:center;"
+!Name
+|[[Sagrada Família]]||[[Casa Batlló]]||[[Palau de la Música Catalana]]||[[Hospital de Sant Pau]]
+|- style="text-align:center;"
+!Code, year
+|320-005, 2005||320-006, 2005||804-001, 1997||804-002, 1997
+|- style="text-align:center;"
+!Coordinates
+|{{coord|41|24|19.8|N|2|10|30.2|E|name=Temple Expiatori de la Sagrada Familia}}||{{coord|41|22|00.3|N|2|09|59.0|E}}||{{coord|41|23|16|N|2|10|30|E}}||{{coord|41|24|50|N|2|10|30|E}}
+|}
+{{clear}}
+
+===Historic buildings and monuments===
+{{Further|List of Modernista buildings in Barcelona}}
+{{Category see also|Buildings and structures in Barcelona}}
+[[File:Sta-eulalia.jpg|thumb|upright|[[Barcelona Cathedral]]]]
+
+* [[Minor basilica]] of [[Sagrada Família]], the international symbol of Barcelona
+* [[Palau de la Música Catalana]] and [[Hospital de Sant Pau]], designed by [[Lluís Domènech i Montaner]], included in the UNESCO Heritage List in 1997.
+* Works by [[Antoni Gaudí]], including [[Park Güell]], [[Palau Güell]], [[Casa Milà]] ([[La Pedrera]]), [[Casa Vicens]], [[Sagrada Família]] (Nativity façade and crypt), [[Casa Batlló]], Crypt in Colonia Güell. The first three works were inscribed as a World Heritage Site in 1984. The other four were added as extensions to the site in 2005.
+* [[Barcelona Cathedral|The Cathedral of the Holy Cross and St. Eulalia]] (Gothic)
+* Gothic basilica of [[Santa Maria del Mar, Barcelona|Santa Maria del Mar]]
+* Gothic basilica of [[Santa Maria del Pi]]
+* Romanesque church of [[Sant Pau del Camp]]
+* [[Palau Reial Major]], medieval residence of the sovereign [[Counts of Barcelona]], later [[Kingdom of Aragon|Kings of Aragon]]
+* The [[Barcelona Royal Shipyard|Royal Shipyard]] (gothic)
+* [[Monastery of Pedralbes]] (gothic)
+* The [[Columbus Monument, Barcelona|Columbus Monument]]
+* The [[Arc de Triomf]], a [[triumphal arch]] built for entrance to [[1888 Barcelona Universal Exposition]].
+* [[Sagrat Cor|Expiatory church of the Sacred Heart of Jesus]] on the summit of [[Tibidabo]].
+
+===Museums===
+{{Main|List of museums in Barcelona}}
+[[File:Palau Nacional.jpg|thumb||The [[Museu Nacional d'Art de Catalunya|National Museum of Art of Catalonia]].]]
+
+Barcelona has a great number of museums, which cover different areas and eras. The [[Museu Nacional d'Art de Catalunya|National Museum of Art of Catalonia]] possesses a well-known collection of [[Romanesque art]] while the [[Barcelona Museum of Contemporary Art]] focuses on [[Post-war|post-1945]] Catalan and [[Spanish art]]. The [[Fundació Joan Miró]], [[Museu Picasso|Picasso Museum]] and [[Fundació Antoni Tàpies]] hold important collections of these world-renowned artists, as well as [[Can Framis Museum]], focused on post 1960 Catalan Art owned by [[Fundacio Vila Casas|Fundació Vila Casas]].
+Several museums cover the fields of history and archeology, like the [[Barcelona City History Museum]] (MUHBA), the Museum of the [[History of Catalonia]], the [[Archaeology Museum of Catalonia|Archeology Museum of Catalonia]], the [[Barcelona Maritime Museum]] and the private-owned Egyptian Museum. The Erotic museum of Barcelona is among the most peculiar ones, while Cosmocaixa is a [[science museum]] that received the [[European Museum of the Year Award]] in 2006.
+The [[FC Barcelona Museum]] has been  the most visited museum in the city of Barcelona with 1506022 of visitors in 2013.
+
+===Parks===
+[[File:Parc Güell (Barcelona) - 58.jpg|thumb|Park Güell (''Parc Güell'')]]
+
+Barcelona contains sixty-eight municipal parks, of which twelve are historic parks, five are thematic (botanical) parks, forty-five are [[urban park]]s and six are forest parks.<ref>{{cite web|author=Parcs i Jardins, Institut Municipal |url=http://www.bcn.es/parcsijardins/cat/parcs/pa_mapa.htm |title=Parcs i Jardins> Els Parcs> Els Parcs de Barcelona |publisher=Bcn.es |accessdate=26 June 201|archiveurl=https://web.archive.org/web/20100105064630/http://www.bcn.es/parcsijardins/cat/parcs/pa_mapa.htm|archivedate=5 January 2010|deadurl=yes}}</ref> They range from vest-pocket parks to large recreation areas. The urban parks alone cover 10% of the city ({{convert|549.7|ha|acre|1|disp=or|abbr=on}}).<ref name="guies_estadistiques"/> The total park surface grows about {{convert|10|ha|acre|0|abbr=on}} per year,<ref>{{cite web|author=Parcs i Jardins, Institut Municipal |url=http://www.bcn.es/parcsijardins/cat/parcs/pa_his_ciu.htm |title=Parcs i Jardins> Els Parcs> Història> La ciutat i el verd |publisher=Bcn.es |accessdate=26 June 2010|archiveurl=https://web.archive.org/web/20091003183148/http://www.bcn.es/parcsijardins/cat/parcs/pa_his_ciu.htm|archivedate=3 October 2009|deadurl=yes}}</ref> with a proportion of {{convert|18.1|m2|sqft|0}} of park area per inhabitant.<ref>{{cite web|author=Parcs i Jardins, Institut Municipal |url=http://www.bcn.es/parcsijardins/cat/parcs/pa_his_demo.htm |title=Parcs i Jardins> Els Parcs> Història> La democràcia |publisher=Bcn.es |accessdate=26 June 2010|archiveurl=https://web.archive.org/web/20090331111427/http://www.bcn.es/parcsijardins/cat/parcs/pa_his_demo.htm|archivedate=31 March 2009|deadurl=yes}}</ref>
+
+[[File:050529 Barcelona 057.jpg|right|thumb|[[La Barceloneta|The Barceloneta]] beach]]
+
+Of Barcelona's parks, [[Montjuïc]] is the largest, with 203&nbsp;[[Hectare|ha]] located on the mountain of the same name.<ref name="guies_estadistiques"/> It is followed by [[Parc de la Ciutadella]] (which occupies the site of the old military [[citadel]] and which houses the [[Parliament of Catalonia|Parliament]] building, the [[Barcelona Zoo]] and several museums); {{convert|31|ha|acre|1|disp=or|abbr=on}} including the zoo), the [[Guinardó Park]] ({{convert|19|ha|acre|1|disp=or|abbr=on}}), [[Park Güell]] (designed by [[Antoni Gaudí]]; {{convert|17.2|ha|acre|1|disp=or|abbr=on}}), [[Oreneta Castle Park]] (also {{convert|17.2|ha|acre|1|disp=or|abbr=on}}), [[Diagonal Mar Park]] ({{convert|13.3|ha|acre|1|disp=or|abbr=on}}, inaugurated in 2002), [[Nou Barris Central Park]] ({{convert|13.2|ha|acre|1|disp=or|abbr=on}}), [[Can Dragó Sports Park]] and [[Poblenou Park]] (both {{convert|11.9|ha|acre|1|disp=or|abbr=on}}), the [[Parc del Laberint d'Horta|Labyrinth Park]] ({{convert|9.10|ha|acre|1|disp=or|abbr=on}}), named after the garden maze it contains.<ref name="guies_estadistiques"/> There are also several smaller parks, for example, the [[Parc de les Aigües]] ({{convert|2|ha|acre|1|disp=or|abbr=on}}). A part of the Collserolla Park is also within the city limits. [[PortAventura]], one of the largest [[amusement park]]s in Europe with 3,000,000 visitors per year, is located one hour's drive from Barcelona.<ref>[http://www.teaconnect.org/sites/default/files/misc/files/2009report.pdf The Global Attractions Attendance Report] – [[Themed Entertainment Association]], 2009</ref> Also, within the city lies [[Tibidabo Amusement Park]], a smaller amusement park in Plaza del Tibidabo, with the [[Muntanya Russa (Tibidabo Amusement Park)|Muntanya Russa]] amusement ride.
+
+===Beaches===
+Barcelona beach was listed as number one in a list of the top ten city beaches in the world according to ''[[National Geographic (magazine)|National Geographic]]''<ref name="NationalGeographic">{{cite web|url=http://travel.nationalgeographic.com/travel/top-10/beach-cities-photos/#/beach-barcelona-spain_21757_600x450.jpg|title=Top 10 Beach Cities|accessdate=30 July 2010| archiveurl= http://web.archive.org/web/20100721215624/http://travel.nationalgeographic.com/travel/top-10/beach-cities-photos/| archivedate= 21 July 2010 | deadurl= no}}</ref> and ''[[Discovery Channel]]''.<ref name="DiscoveryChannel">Movie "Worlds Best Beaches", Discovery Channel 2005 {{YouTube|8bdvj5gubnA}}</ref> Barcelona contains seven beaches, totalling {{convert|4.5|km|0|abbr=off}} (2.8&nbsp;mi) of coastline. [[Sant Sebastià]], [[La Barceloneta, Barcelona|Barceloneta]] and [[Somorrostro]] beaches, both {{convert|1100|m|ft|-1|abbr=on}} in length,<ref name="guies_estadistiques"/> are the largest, oldest and the most-frequented beaches in Barcelona. 
+
+[[File:Platges de Barcelona.svg|right|thumb|500px|Beaches of Barcelona]]
+
+The [[Olympic Harbour]] separates them from the other city beaches: [[Nova Icària]], [[Bogatell]], [[Mar Bella]], [[Nova Mar Bella]] and [[Llevant, Barcelona|Llevant]]. These beaches (ranging from {{convert|400|to|640|m|ft|abbr=on}} were opened as a result of the city restructuring to host the [[1992 Summer Olympics]], when a great number of industrial buildings were demolished. At present, the beach sand is artificially replenished given that storms regularly remove large quantities of material. The [[2004 Universal Forum of Cultures]] left the city a large concrete bathing zone on the eastmost part of the city's coastline.
+
+==Demographics==
+[[File:Demografía Barcelona (España).PNG|right|300px|thumb|Demographic evolution, 1900–2007, according to the Spanish Instituto Nacional de Estadística]]
+
+According to Barcelona's City Council, Barcelona's population as of 1 June 2006 was 1,673,075&nbsp;people,<ref>{{cite web|url=http://www.bcn.es/estadistica/catala/dades/anuari/cap02/C0203010.htm |archiveurl=http://web.archive.org/web/20071221131651/http://www.bcn.es/estadistica/catala/dades/anuari/cap02/C0203010.htm |archivedate=21 December 2007 |title=Ajuntament de Barcelona: Estadística: Indicadors demogràfics. 2005 |publisher=Web.archive.org |date=21 December 2007 |accessdate=26 June 2010}}</ref> on a land area of {{convert|101.4|km2|sqmi|0|abbr=on}}. It is the main component of an [[Àrea Metropolitana de Barcelona|administrative area of Greater Barcelona]], with a population of 3,218,071 in an area of {{convert|636|km²|0|abbr=off}} (density 5,060 hab/km²). The population of the urban area was 4,223,000. It is the central nucleus of the [[Barcelona metropolitan area]], which relies on a population of 5,083,000.<ref>United Nations Department of Economic and Social Affairs, [http://esa.un.org/wup2009/unup/index.asp?panel=2 World Urbanization Prospects (2009 revision)], (United Nations, 2010), Table A.12. Data for 2007. {{Wayback|df=yes|url=http://esa.un.org/wup2009/unup/index.asp?panel=2|date =20131031010136}}</ref>
+
+The population density of Barcelona was {{convert|15779|PD/km2}},<ref>{{cite web|url=http://www.bcn.es/estadistica/catala/dades/anuari/cap02/C0201040.htm|archiveurl=http://web.archive.org/web/20071221140514/http://www.bcn.es/estadistica/catala/dades/anuari/cap02/C0201040.htm |archivedate=21 December 2007 |title=Ajuntament de Barcelona: Estadística: Densitat de població. 2005 |publisher=Web.archive.org |date=21 December 2007 |accessdate=26 June 2010}}</ref> with [[Eixample]] being the most populated district. 62% of the inhabitants were born in [[Catalonia]], with a 23.5% coming from the rest of Spain. Of the 17.4% from other countries, a proportion which has more than quadrupled since 2001 when it was 3.9%,<ref name="guies_estadistiques"/> the majority come from (in order) [[Pakistan]], [[Italy]], [[China]], [[Ecuador]], [[Bolivia]], and [[Morocco]].<ref>http://barcelonacatalonia.cat/b/wp-content/uploads/2012/12/datasheet-2012-angles.pdf</ref> The city has the largest [[Muslim]] community in Spain, 322.698 people in Barcelona are of Muslim faith.<ref name="observatorio.hispanomuslim.es">http://observatorio.hispanomuslim.es/estademograf.pdf</ref><ref name="observatorio.hispanomuslim.es"/><ref name="europapress.es">{{cite web|url=http://www.europapress.es/murcia/noticia-casi-cada-10-nuevos-musulmanes-residentes-espana-son-espanoles-ellos-mas-mitad-nacido-pais-20140203190926.html |title=Casi 9 de cada 10 nuevos musulmanes residentes en España son españoles y, de ellos, más de la mitad ha nacido en el país |language={{es icon}} |publisher=Europapress.es |date= |accessdate=2015-10-08}}</ref> The city also has the largest [[Jews|Jewish]] community in Spain, with an estimated 3,500 Jews living in the city.<ref>{{cite web|url=https://www.jewishvirtuallibrary.org/jsource/vjw/barcelona.html |title=The Jewish Virtual History Tour: Barcelona |publisher=Jewishvirtuallibrary.org |date= |accessdate=27 August 2012|archiveurl=http://web.archive.org/web/20140410232811/https://www.jewishvirtuallibrary.org/jsource/vjw/barcelona.html|archivedate=10 April 2014}}</ref> There is a Japanese community clustered in [[Bonanova]], [[Les Tres Torres]], [[Pedralbes]], and other northern neighborhoods, and a [[Colegio Japonés de Barcelona|Japanese international school]] serves that community.<ref>Conte-Helm, Marie. ''[[The Japanese and Europe: Economic and Cultural Encounters]]'' (Bloomsbury Academic Collections). [[A&C Black]], 17 December 2013. ISBN 1780939809, 9781780939803. p. [https://books.google.ca/books?id=DKwVAgAAQBAJ&pg=PA111 111].</ref>
+
+[[Spanish Language|Spanish]] is the most spoken language in Barcelona (according to the linguistic census held by the Government of Catalonia in 2013) and it is understood almost universally. After Spanish, [[Catalan language]] is the second most spoken one in the city, and it is understood by 95% of the population, while 74.6% can speak it, 75% can read it, and 47.1% can write it,<ref>{{cite web|url=http://www.bcn.es/estadistica/catala/dades/anuari/cap02/C0202050.htm |archiveurl=http://web.archive.org/web/20071221140520/http://www.bcn.es/estadistica/catala/dades/anuari/cap02/C0202050.htm |archivedate=21 December 2007 |title=Ajuntament de Barcelona: Estadística: Coneixement de la llengua catalana per grans grups d'edat. 2001 |publisher=Web.archive.org |date=21 December 2007 |accessdate=26 June 2010}}</ref> thanks to the [[language immersion]] educational system.
+
+While most of the population state they are [[Catholic Church|Roman Catholic]] (208&nbsp;churches), a number of [[Muslim]]s due to immigration (169&nbsp;locations, mostly professed by [[Moroccans in Spain]]),<ref>{{cite web|author=Barcelona |url=http://www.20minutos.es/noticia/242726/0/mitad/mezquitas/barcelona/ |title=La mitad de las mezquitas de Catalunya están en Barcelona |publisher=20minutos.es |date= |accessdate=2015-10-08}}</ref> there are also a number of other groups, including [[Evangelicalism|Evangelical]] (71&nbsp;locations, mostly professed by [[Romani people in Spain|Roma]]), [[Jehovah's Witnesses]] (21&nbsp;[[Kingdom Hall]]s) and [[Buddhism|Buddhists]] (13&nbsp;locations),<ref>{{cite web|url=http://w3.bcn.es/ab/asia/equipament/controller/0,2317,1653_71890_3,00.html?accio=llista_eq&primera_busqueda=true&temaOriginal=&tema=0040101011_Religion&que=&opcio2=&opcio=districte&districte=&zona=&carrer=&numero=&al=|title=Barcelona: Directory: Theme: Religion |publisher=W3.bcn.es |accessdate=26 June 2010|archiveurl=http://web.archive.org/web/20091005011256/http://w3.bcn.es:80/ab/asia/equipament/controller/0,2317,1653_71890_3,00.html?accio=llista_eq&primera_busqueda=true&temaOriginal=&tema=0040101011_Religion&que=&opcio2=&opcio=districte&districte=&zona=&carrer=&numero=&al=|archivedate=5 October 2009}}</ref> and Eastern Orthodox.<ref>{{cite web|url=http://orthodoxengland.org.uk/oecatala.htm |title=Orthodox Church in Catalonia |publisher=Orthodoxengland.org.uk |date= |accessdate=30 March 2014|archiveurl=http://web.archive.org/web/20120617014750/http://orthodoxengland.org.uk/oecatala.htm|archivedate=17 June 2012}}</ref>
+
+[[File:BCN-ParcForum-4923.jpg|thumb|Forum Park in Barcelona]]
+
+In 1900, Barcelona had a population of 533,000 people,<ref name="gec_3"/> which grew steadily but slowly until 1950, when it started absorbing a high number of people from other less-industrialized parts of Spain. Barcelona's population peaked in 1979 with 1,906,998 people, and fell throughout the 1980s and 1990s as more people sought a higher [[quality of life]] in outlying cities in the Barcelona Metropolitan Area. After bottoming out in 2000 with 1,496,266 people, the city's population began to rise again as younger people started to return, causing a great increase in housing prices.<ref>{{cite web|url=http://www.bcn.es/estadistica/catala/dades/anuari/cap02/C0201010.htm |archiveurl=http://web.archive.org/web/20071221131641/http://www.bcn.es/estadistica/catala/dades/anuari/cap02/C0201010.htm |archivedate=21 December 2007 |title=Ajuntament de Barcelona: Estadística: Evolució de la població. 1900–2005 |publisher=Web.archive.org |accessdate=26 June 2010}}</ref>
+
+{| class="infobox" style="float:right;"
+|colspan="2"|'''Largest groups of foreign residents'''<ref>{{cite web|title=Barcelona DaTaSHeeT 2012|url=http://barcelonacatalonia.cat/b/wp-content/uploads/2012/12/datasheet-2012-angles.pdf|publisher=Ajuntament de Barcelona|accessdate=9 September 2014}}</ref>
+|-\
+!Nationality || Population (2012)
+|-
+|{{flag|Pakistan}} || 23,281
+|-
+|{{flag|Italy}} || 22,909
+|-
+|{{flag|China}} || 15,875
+|-
+|{{flag|Ecuador}} || 15,511
+|-
+|{{flag|Bolivia}} || 14,154
+|-
+|{{flag|Morocco}} || 13,674
+|-
+|{{flag|Peru}} || 13,464
+|-
+|{{flag|Colombia}} || 12,328
+|-
+|{{flag|France}} || 11,922
+|-
+|{{flag|Philippines}} || 8,482
+|}
+
+===Population density===
+''Note: This text is entirely based on the municipal statistical database provided by the city council.''
+
+Barcelona is one of the most densely populated cities in Europe. For the year 2008 the city council calculated the population to 1,621,090 living in the 102.2&nbsp;km<sup>2</sup> sized municipality, giving the city an average population density of 15,926 inhabitants per square kilometre.
+
+In the case of Barcelona though, the land distribution is extremely uneven. Half of the municipality or 50.2&nbsp;km<sup>2</sup>, all of it located on the municipal edge is made up of the ten least densely populated neighbourhoods containing less than 10% of the city's population, the uninhabited [[Zona Franca (Barcelona)|Zona Franca]] industrial area and [[Montjuïc]] forest park. Leaving the remaining 90% or slightly below 1.5 million inhabitants living on the remaining 52&nbsp;km2 at an average density close to 28,500 inhabitants per square kilometre.
+
+Of the 73 neighbourhoods in the city, 45 had a population density above 20,000 inhabitants per square kilometre with a combined population of 1,313,424 inhabitants living on 38.6&nbsp;km<sup>2</sup> at an average density of 33,987 inhabitants per square km. The 30 most densely populated neighbourhoods accounted for 57.5% of the city population occupying only 22,7% of the municipality, or in other words, 936,406 people living at an average density of 40,322 inhabitants per square kilometre. The city's highest density is found at and around the neighbourhood of [[Sagrada Família, Barcelona|la Sagrada Família]] where four of the city's most densely populated neighbourhoods are located side by side, all with a population density above 50,000 inhabitants per square kilometre.
+
+==Religion==
+{{Main|Religion in Barcelona}}
+In a 2011 survey conducted by InfoCatólica, 49.5% of Barcelona residents of all ages identified themselves as [[Catholic]].<ref name="cbn.com">{{cite web|last=Digital |first=Protestante |url=http://www.cbn.com/mundocristiano/elmundo/2011/July/Espana-es-el-pais-europeo-en-el-que-mas-retrocede-el-catolicismo/ |title=EspaÃ±a experimenta retroceso en catolicismo - El Mundo - Mundo Cristiano |publisher=CBN.com |date=2011-07-07 |accessdate=2015-10-08}}</ref> This was the first time that more than half of respondents did not identify themselves as Catholic.<ref name="cbn.com"/>  The numbers reflect a broader trend in Spain whereby the numbers of self-identified Catholics have declined.<ref name="cbn.com"/>
+
+In 2014, 322,698 people in Barcelona identified themselves as Muslim.<ref name="observatorio.hispanomuslim.es"/><ref name="observatorio.hispanomuslim.es"/><ref name="europapress.es"/>
+
+==Economy==
+
+===General information===
+{{double image|right|Centro de Convenciones Internacional de Barcelona.jpg|160|Façana Borsa de Barcelona.JPG|90|Forum Convention Center and Barcelona Stock Exchange}}
+
+The Barcelona metropolitan area comprises over 66% of the people in one of the richest regions in [[Europe]] – Catalonia, with a [[Gross domestic product|GDP]] per capita amounting to €28,400 (16% more than [[Economy of the European Union#Richest and poorest NUTS regions (GDP PPP 2010)|the EU average]]). The Barcelona metropolitan area had a [[List of cities by GDP|GDP amounting to $177 billion]], equivalent to $34,821 in per capita terms (44% more than the EU average) making it the 4th most economically powerful city by GDP in the European Union and 35th in the world in 2009.<ref name="pricewater"/> Barcelona city had a very high GDP of €80,894 per head in 2004, according to [[Eurostat]].<ref name="urbanaudit.org">[http://www.urbanaudit.org/CityProfiles.aspx?CityCode=ES002C&CountryCode=ES Urban Audit – CityProfiles: Barcelona] – Eurostat, 2004  {{Wayback|df=yes|url=http://www.urbanaudit.org/CityProfiles.aspx?CityCode=ES002C&CountryCode=ES|date =20130723093909}}</ref> Furthermore, Barcelona was Europe's fourth best business city and fastest improving European city, with growth improved by 17% per year as of 2009.<ref name=BEBC/>
+
+Barcelona is the [[World's most livable cities#Most Liveable Cities Index|14th most "livable city" in the world]] according to lifestyle magazine [[Monocle (2007 magazine)|Monocle]].<ref>{{cite web|url=http://www.monocle.com/sections/affairs/Magazine-Articles/The-Worlds-top-25-most-liveable-cities/ |title=Monocle, Issue June 2009 |publisher=Monocle.com |date=11 June 2009 |accessdate=26 June 2010| archiveurl= http://web.archive.org/web/20100517063032/http://www.monocle.com/sections/affairs/Magazine-Articles/The-Worlds-top-25-most-liveable-cities/| archivedate= 17 May 2010 | deadurl= no}}</ref> Similarly, according to Innovation Analysts 2thinknow, Barcelona occupies 13th place in the world on ''Innovation Cities™ Global Index''.<ref>{{cite web|url=http://www.innovation-cities.com/2thinknow-innovation-cities-global-256-index/|title=Independent city analysis and rankings for innovation in 2009|accessdate=1 August 2009|publisher=2thinknow|archiveurl=http://web.archive.org/web/20140409165153/http://www.innovation-cities.com/2thinknow-innovation-cities-global-256-index/|archivedate=9 April 2014}}</ref>
+
+Barcelona has a long-standing mercantile tradition. Less well known is that the region was one of the earliest to begin industrialization in [[continental Europe]], beginning with textile-related works from the mid-1780s but really gathering momentum in the mid-19th century, when it became a major center for the production of textiles and machinery. Since then, manufacturing has played a large role in its history.
+
+Borsa de Barcelona (''Barcelona Stock Exchange'') is the main stock exchange in the northeastern part of the Iberian Peninsula.
+
+Barcelona was recognised as the Southern European City of the Future for 2014/15, based on its economic potential,<ref>{{cite web|url=http://w42.bcn.cat/web/en/noticies-i-premsa/noticies/actives/Barcelona-recognized-as-the-top-Southern-European-city-with-future-economic-potential.jsp|title=Barcelona, recognized as the top Southern European city with future economic potential |date=5 March 2014|accessdate=11 April 2014|publisher=Barcelona Growth|archiveurl=http://web.archive.org/web/20140413160012/http://w42.bcn.cat/web/en/noticies-i-premsa/noticies/actives/Barcelona-recognized-as-the-top-Southern-European-city-with-future-economic-potential.jsp|archivedate=13 April 2014}}</ref> by [[FDi Magazine]] in their bi-annual rankings.<ref>{{cite web|url=http://www.fdiintelligence.com/Locations/Europe/European-Cities-and-Regions-of-the-Future-2014-15|title=European Cities and Regions of the Future 2014/15 |date=17 February 2014|accessdate=11 April 2014|publisher=fDi Magazine}}</ref>
+
+===Trade fair and exhibitions===
+[[File:Wtcbcn.JPG|thumb|right|[[World Trade Center Barcelona]]]]
+
+Drawing upon its tradition of creative art and craftsmanship, Barcelona is known for its award-winning [[industrial design]]. It also has several congress halls, notably [[Fira de Barcelona]] – the second largest trade fair and exhibition center in Europe,<ref>[http://www.roombarcelona.com/pl/hot-spots-pl/fira-de-barcelona-2.html Fira de Barcelona] {{Wayback|df=yes|url=http://www.roombarcelona.com/pl/hot-spots-pl/fira-de-barcelona-2.html|date =20121120211150}}</ref> that host a quickly growing number of national and international events each year (at present above 50). The total exhibition floor space of Fira de Barcelona venues is {{convert|405,000|m2|ha|0|abbr=on}}, not counting [[Gran Via (Barcelona)|Gran Via center]] on the [[Plaza de Europa]]. However, the [[Eurozone crisis]] and deep cuts in business travel affected the Council's positioning of the city as a convention center.
+
+An important business center, the [[World Trade Center Barcelona]], is located in Barcelona's [[Port Vell]] harbour.
+
+The city is known for hosting well as world-class conferences and expositions, including the 1888 ''[[Exposición Universal de Barcelona]]'', the [[1929 Barcelona International Exposition]] (Expo 1929), the [[2004 Universal Forum of Cultures]] and the 2004 [[World Urban Forum]].
+
+===Tourism===
+Barcelona is the 10th-most-visited city in the world and the third most visited in Europe after London and Paris, with 8 million tourists every year since 2012.<ref name="Bremner 2011">{{cite web |url=http://www.euromonitor.com/euromonitor-internationals-top-city-destinations-ranking/article|title=Euromonitor International’s top city destinations ranking |publisher=[[Euromonitor International]] |first=Caroline |last=Bremner |year=2011|accessdate=2 June 2011|archiveurl=http://web.archive.org/web/20111031073302/http://www.euromonitor.com:80/euromonitor-internationals-top-city-destinations-ranking/article|archivedate=31 October 2011}}</ref> With its [[La Rambla, Barcelona|Rambles]], Barcelona is ranked the most popular city to visit in Spain.<ref>{{cite web|url=http://gospain.about.com/od/topspanishcities/a/topspanishcity.htm |title=Best Spanish Cities |publisher=Gospain.about.com |date=25 March 2014 |accessdate=30 March 2014|archiveurl=http://web.archive.org/web/20140410225548/http://gospain.about.com/od/topspanishcities/a/topspanishcity.htm |archivedate=10 April 2014 }}</ref>
+
+Barcelona as internationally renowned a tourist destination, with numerous recreational areas, one of the best beaches in the world,<ref name=NationalGeographic/><ref name="discoverychannel">Movie "Worlds Best Beaches", Discovery Channel 2005</ref> mild and warm climate, historical monuments, including eight UNESCO [[World Heritage Site]]s, many good-quality hotels, and developed tourist infrastructure.
+
+===Manufacturing sector===
+{{double image|right|SEAT logo (2012).svg|120|Nissan logo.svg|120|The [[SEAT]] and [[Nissan]] factories and headquarters are in the city and suburbs}}
+
+Industry generates 21% of the total gross domestic product (GDP) of the region,<ref>[http://www.idescat.cat/territ/BasicTerr?TC=8&V3=1538&V4=1540&ALLINFO=TRUE&PARENT=100&V0=3&V1=0&CTX=B&VN=3&VOK=Confirmar "''Valor afegit brut a preus bàsics. Base 2000 Per sectors (%)''" (en: "''Gross value added at basic prices. Base by sector (%)''")] -  [[Institut d'Estadística de Catalunya|Idescat]], 2008 {{Wayback|df=yes|url=http://www.idescat.cat/territ/BasicTerr?TC=8&V3=1538&V4=1540&ALLINFO=TRUE&PARENT=100&V0=3&V1=0&CTX=B&VN=3&VOK=Confirmar|date =20140410224648}}</ref> with the energy, chemical and metallurgy industries accounting for 47% of industrial production.<ref>[http://www.idescat.cat/territ/BasicTerr?TC=5&V0=3&V1=0&V3=1538&V4=1541&ALLINFO=TRUE&PARENT=100&CTX=B "''Valor afegit brut. Indústria per branques d'activitat (%)''" (en: "''Gross Value Added. Branches of industry (%)''")] - [[Institut d'Estadística de Catalunya|Idescat]], 2008 {{Wayback|df=yes|url=http://www.idescat.cat/territ/BasicTerr?TC=5&V0=3&V1=0&V3=1538&V4=1541&ALLINFO=TRUE&PARENT=100&CTX=B|date =20140410224253}}</ref> The Barcelona metropolitan area had 67% of the total number of industrial establishments in Catalonia as of 1997.<ref>[http://www.grec.cat/cgibin/heccl2.pgm?USUARI=&SESSIO=&PGMORI=&NDCHEC=0224006 Els recursos econòmics i l'economia: La indústria i els sectors afins]</ref>
+
+Barcelona has long been an important European automobile manufacturing center. Formerly there were automobile factories of [[AFA (automobile)|AFA]], [[Abadal]], [[Actividades Industriales]], Alvarez, [[America (Spanish automobile)|America]], [[Artés de Arcos]], [[Balandrás]], [[Baradat-Esteve]], [[Biscúter]], [[J. Castro]], [[Clúa]], [[David (car)|David]], Delfín, [[Díaz y Grilló]], [[Ebro trucks]], [[Edis]], [[Elizalde (automobile)|Elizalde]], [[Automóviles España]], [[Eucort]], [[El Fenix (automobile)|Fenix]], [[Fábrica Hispano]], [[Auto Academia Garriga]], [[Fábrica Española de Automóviles Hebe]], [[Hispano-Suiza]], [[Huracán Motors]], [[Talleres Hereter]], [[Junior SL]], [[Kapi (car)|Kapi]], [[La Cuadra]], [[M.A. (automobile)|M.A.]], [[Automóviles Matas]], [[Motores y Motos]], [[Nacional Custals]], [[National Pescara]], [[Nacional RG]], [[Nacional Rubi]], [[Nacional Sitjes]], [[Automóviles Nike]], [[Orix (automobile)|Orix]], [[Otro Ford]], [[Fábrica Nacional de Motocicletas, Sidecares y Bicicletas Patria|Partia]], [[Pegaso]], [[PTV (car)|PTV]], [[Ricart]], [[Ricart-España]], [[Industrias Salvador]], [[Siata Española]], [[Stevenson, Romagosa y Compañía]], [[Garaje Storm]], [[Talleres Hereter]], [[Trimak]], [[Automóviles Victoria]], [[Manufacturas Mecánicas Aleu]].<ref>"''Die große Automobil-Enzyklopädie''" - Harald H. Linz, Halwart Schrader, BLV, Munich 1986, ISBN 978-3-405-12974-3</ref><ref>"''The Beaulieu Encyclopedia of the Automobile''" - [[Nick Georgano]], Fitzroy Dearborn Publishers, Chicago 2001, ISBN 978-1-57958-293-7</ref>
+
+Today, the headquarters and a large factory of [[SEAT]] (the largest Spanish automobile manufacturer) are in one of its suburbs. There is also a [[Nissan Motors|Nissan]] factory in the [[Zona Franca (Barcelona)|logistics and industrial area]] of the city.<ref>{{cite web|url=http://www.nissan-global.com/EN/COMPANY/PROFILE/EN_ESTABLISHMENT/EUROPE/ |title=NISSAN &#124;CORPORATE INFORMATION &#124;Outline of Company &#124;Facilities Overseas &#124;Europe |publisher=Nissan-global.com |date= |accessdate=30 March 2014|archiveurl=http://web.archive.org/web/20130802042524/http://www.nissan-global.com:80/EN/COMPANY/PROFILE/EN_ESTABLISHMENT/EUROPE/|archivedate=2 August 2013}}</ref> The factory of [[Derbi]], a large manufacturer of motorcycles, scooters and mopeds, also lies near the city.<ref>{{cite web|url=http://www.derbi.com/index.php?option=com_content&task=view&id=25&Itemid=191 |title=Cómo llegar |publisher=Derbi |date= |accessdate=30 March 2014|archiveurl=http://web.archive.org/web/20140410223719/http://www.derbi.com/index.php?option=com_content&task=view&id=25&Itemid=191|archivedate=10 April 2014}}</ref>
+
+As in other modern cities, the [[Secondary sector of the economy|manufacturing sector]] has long since been overtaken by the services sector, though it remains very important. The region's leading industries are [[textiles]], chemical, [[pharmaceutical]], motor, electronic, printing, [[logistics]], [[publishing]], [[telecommunications]] and [[information technology]] services.
+
+===Fashion===
+[[File:Pasarela The Brandery 2.jpg|thumb|right|The Brandery fashion show]]
+
+The traditional importance of textiles is reflected in Barcelona's drive to become a major fashion center. There have been many attempts to launch Barcelona as a fashion capital, notably ''Gaudi Home''.{{citation needed|reason=who or what is Gaudi Home; need cite for it and more info|date=January 2014}}
+
+Beginning in the summer of 2000, the city hosted the prestigious [[Bread and Butter tradeshow|Bread & Butter urban fashion fair]] until 2009, when its organisers announced that it would be returning to [[Berlin]]. This was a hard blow for the city as the fair brought €100&nbsp;m to the city in just three days.<ref>{{cite news |title=La feria de moda urbana Bread and Butter deja Barcelona |author=Leticia Blanco |work=[[El Mundo (Spain)|El Mundo]] |date=20 January 2009 |url=http://www.elmundo.es/elmundo/2009/01/19/barcelona/1232400722.html |accessdate=22 July 2009|archiveurl=http://web.archive.org/web/20131113115745/http://www.elmundo.es/elmundo/2009/01/19/barcelona/1232400722.html |archivedate=13 November 2013 }}</ref><ref>{{cite news|work=[[El Periódico de Catalunya|El Periódico]] |title=El presidente del Bread&Butter confirma oficialmente que la feria abandona Barcelona |author=[[EFE]] |date=23 January 2009 |url=http://www.elperiodico.com/default.asp?idpublicacio_PK=46&idioma=CAS&idtipusrecurs_PK=7&idnoticia_PK=580966 |quote=[Karl Heinz Muller, the entrepreneur behind B&B in announcing the move in a press conference held on January 23, 2009 said] No llores Barcelona, levántate y haz algo [don't cry Barcelona, get up and do something about it] Barcelona in Europe is a metropolis of fashion. |accessdate=22 July 2009 |deadurl=yes |archiveurl=https://web.archive.org/20090923215040/http://www.elperiodico.com:80/default.asp?idpublicacio_PK=46&idioma=CAS&idtipusrecurs_PK=7&idnoticia_PK=580966 |archivedate=23 September 2009 }}</ref>
+
+Since 2009, ''[[The Brandery]]'', an urban fashion show, has been held in Barcelona twice a year. In 2012, Barcelona was named as the third most important [[fashion capital]] according to the [[Global Language Monitor]]’s annual ranking of the world's top fifty fashion capitals.<ref name="global-fashion-capital">[http://www.languagemonitor.com/category/fashion/fashion-capitals/ The Top Global Fashion Capitals for 2012] – The Global Language Monitor, 2012 {{Wayback|df=yes|url=http://www.languagemonitor.com/category/fashion/fashion-capitals/|date =20140423211506}}</ref>
+
+==Government and administrative divisions==
+{{See also|Municipal elections in Barcelona|List of mayors of Barcelona}}
+[[File:Casa generalitat web.jpg|thumb|right|[[Palau de la Generalitat de Catalunya]]]]
+
+As the capital of the autonomous community of [[Catalonia]], Barcelona is the seat of the Catalan government, known as the ''[[Generalitat of Catalonia|Generalitat de Catalunya]]''; of particular note are the [[Government of Catalonia|executive branch]], the [[Parliament of Catalonia|parliament]], and the [[Supreme Court]] of [[Catalonia]]. The city is also the capital of the [[Province of Barcelona]] and the [[Barcelonès]] [[Comarques of Catalonia|comarca]] (district).
+
+Barcelona is governed by a city council formed by 41 city councillors, [[Municipal elections in Barcelona|elected]] for a four-year term by [[universal suffrage]]. As one of the two biggest cities in Spain, Barcelona is subject to a special law articulated through the ''Carta Municipal'' (Municipal Law). A first version of this law was passed in 1960 and amended later, but the current version was approved in March 2006.<ref name="ley 1/2006">{{cite web|url=http://www.boe.es/g/es/bases_datos/doc.php?coleccion=iberlex&id=2006/04583 |title=BOE – LEY 1/2006, de 13 de marzo, por la que se regula el Régimen Especial del municipio de Barcelona |publisher=Boe.es |date=14 March 2006 |accessdate=26 June 2010|archiveurl=http://web.archive.org/web/20080430052956/http://www.boe.es:80/g/es/bases_datos/doc.php?coleccion=iberlex&id=2006/04583 |archivedate=30 April 2008 }}</ref> According to this law, Barcelona's city council is organized in two levels: a political one, with elected city councillors, and one executive, which administrates the programs and executes the decisions taken on the political level.<ref>{{cite web|url=http://w3.bcn.es/V61/Home/V61HomeLinkPl/0,2687,200713899_200720868_1,00.html |title=Ajuntament de Barcelona> Ajuntament> El Govern de la Ciutat |publisher=W3.bcn.es |accessdate=26 June 2010| archiveurl= http://web.archive.org/web/20100728231233/http://w3.bcn.es/V61/Home/V61HomeLinkPl/0,2687,200713899_200720868_1,00.html| archivedate= 28 July 2010 | deadurl= no}}</ref> This law also gives the local government a special relationship with the central government and it also gives the mayor wider prerogatives by the means of municipal executive commissions.<ref>{{cite web|url=http://www.bcn.cat/catala/laciutat/barcelona/organitzacio.htm |title=Ajuntament de Barcelona: Organització política |publisher=Bcn.cat |accessdate=26 June 2010|archiveurl=http://web.archive.org/web/20130723081931/http://www.bcn.cat/catala/laciutat/barcelona/organitzacio.htm |archivedate=23 July 2013 }}</ref> It expands the powers of the city council in areas like telecommunications, city traffic, [[road traffic safety|road safety]] and [[public safety]]. It also gives a special economic regime to the city's treasury and it gives the council a veto in matters that will be decided by the central government, but that will need a favourable report from the council.<ref name="ley 1/2006"/>
+
+[[File:Barcelona-stjaume.jpg|thumb|left|The City Hall of Barcelona]]
+
+The ''Comissió de Govern'' (Government Commission) is the executive branch, formed by 24 councillors, led by the [[List of mayors of Barcelona|Mayor]], with 5 lieutenant-mayors and 17 city councillors, each in charge of an area of government, and 5 non-elected councillors.<ref>{{cite web|url=http://w3.bcn.es/V61/Home/V61HomeLinkPl/0,4358,200713899_200720894_3,00.html |title=Ajuntament de Barcelona> Council> The city government> Council Executive |publisher=W3.bcn.es |accessdate=26 June 2010|archiveurl=http://web.archive.org/web/20110122052303/http://w3.bcn.es:80/V61/Home/V61HomeLinkPl/0,4358,200713899_200720894_3,00.html |archivedate=22 January 2011 }}</ref> The plenary, formed by the 41 city councillors, has advisory, planning, regulatory, and fiscal executive functions.<ref>{{cite web|url=http://w3.bcn.es/V61/Home/V61HomeLinkPl/0,4358,200713899_200720876_3,00.html |title=Ajuntament de Barcelona> Council> The city government> Plenary |publisher=W3.bcn.es |accessdate=26 June 2010|archiveurl=http://web.archive.org/web/20110415090540/http://w3.bcn.es:80/V61/Home/V61HomeLinkPl/0,4358,200713899_200720876_3,00.html |archivedate=15 April 2011 }}</ref> The six ''Commissions del Consell Municipal'' (City council commissions) have executive and controlling functions in the field of their jurisdiction. They are composed by a number of councillors proportional to the number of councillors each political party has in the plenary.<ref>{{cite web|url=http://w3.bcn.es/V61/Home/V61HomeLinkPl/0,4358,200713899_200720890_3,00.html |title=Ajuntament de Barcelona> Council> The city government> Committees of the Municipal Council |publisher=W3.bcn.es |accessdate=26 June 2010|archiveurl=http://web.archive.org/web/20110415090118/http://w3.bcn.es:80/V61/Home/V61HomeLinkPl/0,4358,200713899_200720890_3,00.html |archivedate=15 April 2011 }}</ref> The city council has jurisdiction in the fields of [[Urban planning|city planning]], transportation, municipal taxes, public highways security through the ''[[Guàrdia Urbana de Barcelona|Guàrdia Urbana]]'' (the municipal police), city maintenance, gardens, parks and environment, facilities (like schools, nurseries, sports centers, libraries, and so on), culture, sports, youth and [[welfare|social welfare]]. Some of these competencies are not exclusive, but shared with the Generalitat de Catalunya or the central [[Government of Spain|Spanish government]]. In some fields with shared responsibility (such as public health, education or social services), there is a shared Agency or Consortium between the city and the Generalitat to plan and manage services.<ref>{{cite web|url=http://www.aspb.cat |title=Agència de Salut Pública de Barcelona |publisher=www.aspb.cat|accessdate=9 October 2014}}</ref>
+
+[[File:Salo de Cent.jpg|thumb|right|The Saló de Cent, in the City Hall of Barcelona.]]
+
+The executive branch is led by a Chief Municipal Executive Officer which answers to the Mayor. It is made up of departments which are legally part of the city council and by separate legal entities of two types: autonomous public departments and public enterprises.<ref>{{cite web|url=http://w3.bcn.es/V61/Home/V61HomeLinkPl/0,4358,200713899_200722250_3,00.html |title=Ajuntament de Barcelona> Council> The municipal administration |publisher=W3.bcn.es |accessdate=26 June 2010| archiveurl= http://web.archive.org/web/20100622011903/http://w3.bcn.es/V61/Home/V61HomeLinkPl/0,4358,200713899_200722250_3,00.html| archivedate= 22 June 2010 | deadurl= no}}</ref>
+
+The seat of the city council is on the Plaça de Sant Jaume, opposite the seat of Generalitat de Catalunya. Since the [[Spanish transition to democracy|coming of the Spanish democracy]], Barcelona [[Municipal elections in Barcelona|had been governed]] by the [[Socialists' Party of Catalonia|PSC]], first with an [[absolute majority]] and later in coalition with [[Republican Left of Catalonia|ERC]] and [[Initiative for Catalonia Greens|ICV]]. After the May 2007 election, the ERC did not renew the coalition agreement and the PSC governed in a minority coalition with ICV as the junior partner.
+
+After 32 years, on 22 May 2011, [[Convergence and Union|CiU]] gained a plurality of seats at the municipal election, gaining 15 seats to the PSC's 11. The [[People's Party (Spain)|PP]] hold 8 seats, ICV 5 and ERC 2.
+
+===Districts===
+[[File:Districtes de Barcelona.svg|right|thumb|Districts of Barcelona]]
+{{main|Districts of Barcelona}}
+
+Since 1987, the city has been divided into 10&nbsp;administrative [[Districts of Barcelona|districts]] (''districtes'' in Catalan, ''distritos'' in Spanish):
+* [[Ciutat Vella]]
+* [[Eixample]]
+* [[Sants-Montjuïc]]
+* [[District of Les Corts|Les Corts]]
+* [[Sarrià-Sant Gervasi]]
+* [[Gràcia]]
+* [[Horta-Guinardó]]
+* [[Nou Barris]]
+* [[Sant Andreu]]
+* [[Sant Martí (district)|Sant Martí]]
+
+The districts are based mostly on historical divisions, and several are former towns annexed by the city of Barcelona in the 18th and 19th centuries that still maintain their own distinct character. Each district has its own council led by a city councillor. The composition of each district council depends on the number of votes each political party had in that district, so a district can be led by a councillor from a different party than the executive council.
+
+==Education==
+{{Main|Education in Spain}}
+[[File:Paranimf de la Universitat de Barcelona.jpg|thumb|Main hall of the [[University of Barcelona]]]]
+
+Barcelona has a well-developed higher education system of [[public university|public universities]]. Most prominent among these is the [[University of Barcelona]] (established in 1450), a world-renowned research and teaching institution with campuses around the city. Barcelona is also home to the [[Polytechnic University of Catalonia]], and the newer [[Pompeu Fabra University]], and, in the private sector the [[EADA Business School]] founded in 1957, became the first Barcelona institution to run manager training programmes for the business community. [[IESE|IESE Business School]], as well as the largest private educational institution, the [[Ramon Llull University]], which encompasses internationally prestigious schools and institutes such as the [[ESADE]] Business School. The [[Autonomous University of Barcelona]], another public university, is located in [[Bellaterra]], a town in the [[Àmbit metropolità de Barcelona|Metropolitan Area]]. The [[Open University of Catalonia]], a private Internet-centered [[open university]], is also based in Barcelona.
+
+[[File:Vestíbul Universitat de Barcelona.jpg|thumb|right|Historic building of the [[University of Barcelona]], entrance vestibule]]
+
+The city has a network of public schools, from nurseries to high schools, under the responsibility of a consortium led by city council (though the curriculum is the responsibility of the Generalitat de Catalunya). There are also many private schools, some of them Roman Catholic. Most such schools receive a public subsidy on a per-student basis, are subject to inspection by the public authorities, and are required to follow the same curricular guidelines as public schools, though they charge tuition. Known as ''escoles concertades'', they are distinct from schools whose funding is entirely private (''escoles privades'').
+
+The language of instruction at public schools and ''escoles concertades'' is Catalan, as stipulated by the 2009 Catalan Education Act (in court for discrimination). Spanish may be used as a language of instruction by teachers of Spanish literature or language, and foreign languages by teachers of those languages. An experimental partial immersion programme adopted by some schools allows for the teaching of a foreign language (English, generally) across the curriculum, though this is limited to a maximum of 30% of the school day. No public school or ''escola concertada'' in Barcelona may offer 50% or full immersion programmes in a foreign language, nor does any public school or ''escola concertada'' offer International Baccalaureate programmes.
+
+==Culture==
+{{Main|Culture of Barcelona}}
+[[File:Palau de la Música - Interior general (2).JPG|thumb|[[Palau de la Música Catalana]]]]
+
+Barcelona's cultural roots go back 2000 years. Since the [[Spanish transition to democracy|arrival of democracy]], the Catalan language (very much repressed during the [[Spanish State|dictatorship of Franco]]) has been promoted, both by recovering works from the past and by stimulating the creation of new works. Barcelona is designated as a [[global city|world-class city]] by the Globalization and World Cities Study Group and Network.<ref>{{cite web |url=http://www.lboro.ac.uk/gawc/citylist.html |title=Globalization and World Cities Study Group & Network – Inventory of World Cities |accessdate=7 July 2007| archiveurl= http://web.archive.org/web/20070630222000/http://www.lboro.ac.uk/gawc/citylist.html| archivedate= 30 June 2007 | deadurl= no}}</ref>
+
+===Entertainment and performing arts===
+{{Main|List of theatres and concert halls in Barcelona}}
+[[File:Liceu - Interior.jpg|thumb|The [[Liceu]] opera house]]
+
+Barcelona has many venues for [[Concert|live music]] and theatre, including the world-renowned [[Liceu|Gran Teatre del Liceu]] opera house, the [[Teatre Nacional de Catalunya]], the [[Teatre Lliure]] and the [[Palau de la Música Catalana]] concert hall. Barcelona also is home to the Barcelona and Catalonia National [[Orchestra|Symphonic Orchestra]] (Orquestra Simfònica de Barcelona i Nacional de Catalunya, usually known as OBC), the largest symphonic orchestra in Catalonia. In 1999, the OBC inaugurated its new venue in the brand-new Auditorium (''l'Auditori''). It performs around 75 concerts per season and its current director is [[Eiji Oue]].<ref>{{cite web|url=http://www.auditori.org/seccions/auditori/oferta_musical/auditori_obc/index.aspx |title=L'Auditori: OBC |publisher=Auditori.org |accessdate=26 June 2010|archiveurl=http://web.archive.org/web/20110725024346/http://www.auditori.org/seccions/auditori/oferta_musical/auditori_obc/index.aspx |archivedate=25 July 2011 }}</ref>
+The major thoroughfare of Las Ramblas is home to mime artists and street performers.
+Yearly two major pop music festivals take place in the city, the [[Sónar|Sónar Festival]] and the [[Primavera Sound Festival]]. The city also has a thriving [[alternative rock|alternative music]] scene, with groups such as [[The Pinker Tones]] receiving international attention.<ref>{{cite web|last=Roberts |first=Nina |url=http://travel.nytimes.com/2006/08/06/arts/music/06rob.html |title=Catalan Musical Stew Keeps Barcelona Up All Night – New York Times |location=Barcelona (Spain) |publisher=Travel.nytimes.com |date=6 August 2006 |accessdate=5 May 2009|archiveurl=http://web.archive.org/web/20080110202608/http://travel.nytimes.com:80/2006/08/06/arts/music/06rob.html |archivedate=10 January 2008 }}</ref>
+
+===Media===
+''[[El Periódico de Catalunya]]'', ''[[La Vanguardia]]'' and ''[[Ara (newspaper)|Ara]]'' are Barcelona's three major daily newspapers (the first two with Catalan and Spanish editions, ''Ara'' only in Catalan) while ''[[Sport (newspaper)|Sport]]'' and ''[[El Mundo Deportivo (newspaper)|El Mundo Deportivo]]'' (both in Spanish) are the city's two major sports daily newspapers, published by the same companies. The city is also served by a number of smaller publications such as ''Ara'' and ''[[El Punt Avui]]'' (in Catalan), by nationwide newspapers with special Barcelona editions like ''[[El País|El Pais]]'' (in Spanish, with an online version in Catalan) and ''[[El Mundo (Spain)|El Mundo]]'' (in Spanish), and by several free newspapers like ''[[20 minutos]]'' and ''Què'' (all bilingual).
+
+Barcelona oldest and main online newspaper ''[[VilaWeb]]'' is the oldest one also in Europe (with Catalan and English editions)
+
+Several major FM stations include [[Catalunya Ràdio]], [[RAC 1]], [[RAC 105]] and [[Cadena SER]]. Barcelona also has a local [[Television channel|TV stations]], [[Barcelona Televisió|BTV]], owned by city council. The headquarters of [[Televisió de Catalunya]], Catalonia's public network, are located in [[Sant Joan Despí]], in Barcelona's metropolitan area.
+
+===Sports===
+{{Main|Sport in Barcelona}}
+[[File:BCN-EstadiOlimpic-4860.jpg|thumb|[[Estadi Olímpic de Montjuïc]] (Barcelona Olympic Stadium) built for the [[People's Olympiad|1936 Summer Olympics named ''People's Olympiad'']], main stadium of 1992 Summer Olympics.]]
+[[File:Campnoumatch.jpg|thumb|right|The [[Camp Nou]], the largest stadium in Europe.]]
+
+Barcelona has a long sporting tradition and hosted the highly successful [[1992 Summer Olympics]] as well as several matches during the [[1982 FIFA World Cup]] (at the two stadiums). It has also hosted, among others, about 30 sports events of international significance.
+
+[[FC Barcelona]] is a [[sports club]] best known worldwide for its [[association football|football]] team, one of the largest in the world and [[Deloitte Football Money League|second richest football club]] in the world.<ref>[http://www.deloitte.com/assets/Dcom-UnitedKingdom/Local%20Assets/Documents/Industries/Sports%20Business%20Group/UK_SBG_DFML2011.pdf Football Money League] – [[Deloitte]], 2011</ref> It has 64 of national (likewise 41 runners-up) and 16 continental (likewise 10 runners-up) trophies, including five of the [[UEFA Champions League]] (likewise 3 runners-up) and two of the [[FIFA Club World Cup]] (likewise 1 runners-up). Also, it is the only men's club in the world to accomplish [[The Sextuple|a sextuple]]. FC Barcelona also has teams in [[FC Barcelona Regal]] (basketball), [[FC Barcelona Handbol]] (the [[team handball|handball]]), [[FC Barcelona Hoquei]] ([[roller hockey]]), [[FC Barcelona Ice Hockey]] (ice hockey), [[FC Barcelona Futsal]] (futsal) and [[FC Barcelona Rugby]] (rugby union), all of them winners of the highest country or/and European competitions. The club's museum is the second most visited in Catalonia. Twice a season, FC Barcelona and cross-town rivals [[RCD Espanyol]] contest in the [[El derbi barceloní|local derby]] in [[La Liga]], while its basketball section has its own local derby in Liga ACB with nearby [[Joventut Badalona]]. Barcelona also has other clubs in lower categories, like [[CE Europa]] and [[UE Sant Andreu]].
+
+[[File:Barcelona Palau San Jordi 001.jpg|thumb|left|[[Palau Sant Jordi]] (St. George's sporting arena) and [[Montjuïc Communications Tower]]]]Barcelona has two [[UEFA elite stadium]]s: FC Barcelona's [[Camp Nou]], the largest stadium in Europe with a capacity of 100,000 and the publicly owned [[Estadi Olímpic Lluís Companys]], with a capacity of 55,000; used for the [[1992 Summer Olympics|1992 Olympics]]. Also, the city has several smaller stadiums such as [[Mini Estadi]], with a capacity of 15,000 and [[Camp Municipal Narcís Sala]], [[Nou Sardenya]] with a capacity of 7,000. In the suburbs of Barcelona there is a third UEFA elite stadium – [[Estadi Cornellà-El Prat]], with a capacity of 40,000. Also, except [[Palau Sant Jordi]] (''St. George's sporting arena''), with a capacity of 12,000–24,000 (depending on use), city has two other larger sporting and concert arena: [[Palau Blaugrana]], with a capacity of 7,500 and [[Palau dels Esports de Barcelona]].
+[[File:F1 Circuit de Catalunya - Tribuna.jpg|thumb|right|[[Circuit de Catalunya|Circuit de Catalunya/Circuit de Barcelona]], race track of [[Formula One|Formula 1]] and [[Grand Prix motorcycle racing|MotoGP]] on the suburb of Barcelona.]] 
+
+Barcelona was also the host city for the [[2013 World Aquatics Championships]], which were held at the Palau San Jordi.<ref>http://www.bcn2013.com  {{Wayback|df=yes|url=http://www.bcn2013.com|date =20131112195344}}</ref>
+
+Several [[road running]] competitions are organized year-round in Barcelona: the [[Barcelona Marathon]] every March with over 10,000 participants in 2010, the [[Cursa de Bombers]] in April, the [[Cursa de El Corte Inglés]] in May (with about 60,000 participants each year), the [[Cursa de la Mercè]], the [[Cursa Jean Bouin]], the Milla Sagrada Família and the San Silvestre. The [[Torneo Godó|Open Seat Godó]], a 50-year-old [[Association of Tennis Professionals|ATP World Tour]] [[ATP World Tour 500 series|500 Series tennis tournament]], is held annually in the facilities of the [[Real Club de Tenis Barcelona]] (Barcelona Royal Tennis Club). Also, each Christmas, a swimming race across the port is organized. Near Barcelona, in [[Montmeló]], the 107,000 capacity [[Circuit de Catalunya|Circuit de Catalunya / Circuit de Barcelona]] racetrack hosts the [[Formula One|Formula One World Championship]], [[Spanish Grand Prix|Formula One Spanish Grand Prix]], [[Catalan motorcycle Grand Prix]], [[Spanish GT Championship]] and [[GP2 Series]]. [[Skateboarding]] and [[bicycling]] are also very popular in Barcelona. In the city and the metropolitan area, there are tens of km of bicycle paths.
+
+{|class="wikitable" style="margin: 1em auto;"
+|+ '''Top sport clubs in Barcelona:'''
+|-
+! scope="col" |Club
+! scope="col" |League
+! scope="col" |Sport
+! scope="col" |Venue
+! scope="col" |Established
+! scope="col" |Capacity
+|-
+! scope="row" style="font-weight: normal; text-align: center;" |[[FC Barcelona]]
+|[[La Liga|Primera División]]
+|[[Association football|Football]]
+! scope="row" style="font-weight: normal; text-align: center;" |[[Camp Nou]]
+|1899
+! scope="row" style="font-weight: normal; text-align: center;" |100,000
+|-
+! scope="row" style="font-weight: normal; text-align: center;" |[[RCD Espanyol]]<ref>To 2009, home stadium of club is [[Estadi Olímpic Lluís Companys]] in Barcelona, today is [[Estadi Cornellà-El Prat]] lies in suburb of Barcelona, in [[El Prat de Llobregat]].</ref>
+|[[La Liga|Primera División]]
+|[[Association football|Football]]
+! scope="row" style="font-weight: normal; text-align: center;" |[[Estadi Cornellà-El Prat]]
+|1900
+! scope="row" style="font-weight: normal; text-align: center;" |40,500
+|-
+! scope="row" style="font-weight: normal; text-align: center;" |[[CE Europa]]
+|[[Tercera División]]
+|[[Association football|Football]]
+! scope="row" style="font-weight: normal; text-align: center;" |[[Nou Sardenya]]
+|1907
+! scope="row" style="font-weight: normal; text-align: center;" |7,000
+|-
+! scope="row" style="font-weight: normal; text-align: center;" |[[FC Barcelona Bàsquet]]
+|[[Liga ACB|Primera División]]
+|[[Basketball]]
+! scope="row" style="font-weight: normal; text-align: center;" |[[Palau Blaugrana]]
+|1926
+! scope="row" style="font-weight: normal; text-align: center;" |7,585
+|-
+! scope="row" style="font-weight: normal; text-align: center;" |[[FC Barcelona Handbol]]
+|[[Liga ASOBAL|Primera División]]
+|[[Team handball|Handball]]
+! scope="row" style="font-weight: normal; text-align: center;" |[[Palau Blaugrana]]
+|1942
+! scope="row" style="font-weight: normal; text-align: center;" |7,585
+|-
+! scope="row" style="font-weight: normal; text-align: center;" |[[FC Barcelona Ice Hockey]]
+|[[Liga Nacional de Hockey Hielo|Primera División]]
+|[[Ice hockey]]
+! scope="row" style="font-weight: normal; text-align: center;" |[[Palau de Gel]]
+|1972
+! scope="row" style="font-weight: normal; text-align: center;" |1,256
+|-
+! scope="row" style="font-weight: normal; text-align: center;" |[[FC Barcelona Hoquei]]
+|[[OK Liga|Primera División]]
+|[[Roller hockey]]
+! scope="row" style="font-weight: normal; text-align: center;" |[[Palau Blaugrana]]
+|1942
+! scope="row" style="font-weight: normal; text-align: center;" |7,585
+|-
+! scope="row" style="font-weight: normal; text-align: center;" |[[FC Barcelona Futsal]]
+|[[Primera División de Futsal|Primera División]]
+|[[Futsal]]
+! scope="row" style="font-weight: normal; text-align: center;" |[[Palau Blaugrana]]
+|1986
+! scope="row" style="font-weight: normal; text-align: center;" |7,585
+|-
+! scope="row" style="font-weight: normal; text-align: center;" |[[FC Barcelona Rugby]]
+|[[División de Honor de Rugby|Primera División]]
+|[[Rugby union]]
+! scope="row" style="font-weight: normal; text-align: center;" |[[Ciudad Deportiva Municipal Valle de Hebrón-Teixonera|CDMVdHT]]
+|1924
+! scope="row" style="font-weight: normal; text-align: center;" |no data
+|-
+! scope="row" style="font-weight: normal; text-align: center;" |[[Barcelona Dragons]]
+|[[World League of American Football|World League]]
+|[[American football]]
+! scope="row" style="font-weight: normal; text-align: center;" |[[Estadi Olímpic Lluís Companys]]
+|1991 <small>(withheld)</small>
+! scope="row" style="font-weight: normal; text-align: center;" |56,000
+|-
+! scope="row" style="font-weight: normal; text-align: center;" |[[Barcelona Búfals]]
+|[[Liga Nacional de Fútbol Americano|Primera División]]
+|[[American football]]
+! scope="row" style="font-weight: normal; text-align: center;" |[[Camp Municipal Narcís Sala]]
+|1987
+! scope="row" style="font-weight: normal; text-align: center;" | 6,550
+|}
+
+==Transport==
+{{Main|Transport in Barcelona}}
+
+===Airports===
+Barcelona is served by [[Barcelona-El Prat Airport]], about {{convert|17|km|mi|0|abbr=on}} from the center of Barcelona. It is the second-largest airport in Spain, and the largest on the [[Mediterranean]] coast, which handles above 37.5 million passengers per year, showing an annual upward trend.<ref>{{cite web|url=http://www.aena.es/csee/Satellite/Aeropuerto-Barcelona/es/Page/1045569607435/Presentacion.html |title=AENA Aeropuerto de Barcelona El Prat 2014 |publisher=Aena.es |date= |accessdate=2015-10-08}}</ref> It is a main hub for [[Vueling Airlines]] and [[Ryanair]], and also a focus for [[Iberia (airline)|Iberia]] and [[Air Europa]]. The airport mainly serves domestic and European destinations, although some airlines offer destinations in Latin America, Asia and the United States. The airport is connected to the city by highway, commuter train ([[Aeroport railway station (el Prat)|Barcelona Airport railway station]]) and scheduled bus service. A new terminal (T1) has been built, and entered service on 17 June 2009.
+
+Some low-cost airlines, such as [[Transavia.com]] and [[Ryanair]], also use [[Girona-Costa Brava Airport]], about {{convert|90|km|mi|0|abbr=on}} to the north, [[Reus Airport]], {{convert|77|km|mi|0|abbr=on}} to the south, or [[Lleida-Alguaire Airport]], about {{convert|150|km|mi|0|abbr=on}} to the west, of the city. [[Sabadell Airport]] is a smaller airport in the nearby town of [[Sabadell]], devoted to [[Flight training|pilot training]], aerotaxi and private flights.
+
+===Seaport===
+[[File:BarcelonaHarbour.jpg|thumb|[[Port of Barcelona]]]]
+
+The [[Port of Barcelona]] has a 2000-year-old history and a great contemporary commercial importance. It is Europe's ninth largest [[containerization|container]] port, with a trade volume of 1.72 million TEU's in 2013.<ref name="traffic statistics 2013">[http://content.portdebarcelona.cat/cntmng/d/d/workspace/SpacesStore/1c206b0a-4787-49d8-9c8c-0563aa71719f/PortBcnTrafic2013_12_en.pdf Port of Barcelona traffic statistics 2013] - Port de Barcelona, 2014</ref> The port is managed by the Port Authority of Barcelona. Its {{convert|10|km2|sqmi|0|abbr=on}} are divided into three zones: [[Port Vell]] (the old port), the commercial port and the logistics port ([[Barcelona Free Port]]). The port is undergoing an enlargement that will double its size thanks to diverting the mouth of the [[Llobregat]] river {{convert|2|km|0|abbr=off}} (1¼&nbsp;mi) to the south.<ref>{{cite web|url=http://www.apb.es/wps/portal/!ut/p/c1/04_SB8K8xLLM9MSSzPy8xBz9CP0os_hgz2DDIFNLYwMLfzcDAyNjQy9vLwNTV38LM_1wkA6zeH_nIEcnJ0NHAwNfUxegCh8XA2-nUCMDdzOIvAEO4Gig7-eRn5uqX5CdneboqKgIAAeNRE8!/dl2/d1/L2dJQSEvUUt3QS9ZQnB3LzZfU0lTMVI1OTMwOE9GMDAyMzFKS0owNUVPODY!/?WCM_GLOBAL_CONTEXT=/wps/wcm/connect/ExtranetAnglesLib/El%20Port%20de%20Barcelona/el+port/historia+del+port/cami+cap+el+futur/ |title=Port de Barcelona |language=es |publisher=Apb.es |accessdate=26 June 2010|archiveurl=http://web.archive.org/web/20131113091734/http://www.apb.es/wps/portal/!ut/p/c1/04_SB8K8xLLM9MSSzPy8xBz9CP0os_hgz2DDIFNLYwMLfzcDAyNjQy9vLwNTV38LM_1wkA6zeH_nIEcnJ0NHAwNfUxegCh8XA2-nUCMDdzOIvAEO4Gig7-eRn5uqX5CdneboqKgIAAeNRE8!/dl2/d1/L2dJQSEvUUt3QS9ZQnB3LzZfU0lTMVI1OTMwOE9GMDAyMzFKS0owNUVPODY!/?WCM_GLOBAL_CONTEXT=/wps/wcm/connect/ExtranetAnglesLib/El%20Port%20de%20Barcelona/el+port/historia+del+port/cami+cap+el+futur/ |archivedate=13 November 2013 }}</ref>
+
+The Barcelona harbour is the leading European cruiser port and a most important Mediterranean turnaround base.<ref>{{cite web|url=http://www.portdebarcelona.cat/en/web/port-del-ciudada/cruceros |title=Port Barcelona - Cruises |publisher=Portdebarcelona.cat |date= |accessdate=30 March 2014|archiveurl=http://web.archive.org/web/20140331005714/http://www.portdebarcelona.cat/en/web/port-del-ciudada/cruceros|archivedate=31 March 2014}}</ref> In 2013, 3,6 million of pleasure cruises passengers used services of the Port of Barcelona.<ref name="traffic statistics 2013"/>
+
+The Port Vell area also houses the Maremagnum (a commercial mall), a multiplex cinema, the [[IMAX]] Port Vell and one of Europe's largest [[aquarium]]s – [[Aquarium Barcelona]], containing 8,000 fish and 11 sharks contained in 22 basins filled with 4 million litres of sea water. The Maremagnum, being situated within the confines of the port, is the only commercial mall in the city that can open on Sundays and public holidays.
+[[File:Port Vell, Barcelona, Spain - Jan 2007.jpg|center|thumb|800px|The [[Port Vell]] in winter]]
+
+===Railway===
+[[File:Siemens Velaro high speed.jpg|thumb|Siemens Velaro designed for speeds of {{convert|310|km/h|0|abbr=on}} at Barcelona-Sants AVE station.]]
+
+Barcelona is a major hub for [[RENFE]], the Spanish state railway network. The city's main [[Inter-city rail]] [[railway station|station]] is [[Barcelona Sants railway station|Barcelona-Sants]] station, whilst [[Estació de França]] terminus serves a secondary role handling suburban, regional and medium distance services. Freight services operate to local industries and to the Port of Barcelona.
+
+RENFE's [[AVE]] [[high-speed rail]] system, which is designed for speeds of {{convert|310|km/h|0|abbr=on}}, was extended from [[Madrid]] to Barcelona in 2008 in the form of the [[Madrid–Barcelona high-speed rail line]]. A shared RENFE-SNCF high-speed rail connecting Barcelona and France ([[Paris]], [[Marseilles]] and [[Toulouse]], through [[LGV Perpignan–Figueres]]) was launched in 2013. Both these lines serve Barcelona Sants terminal station.<ref>{{cite web|url=http://www.avui.cat/noticia/article/2-societat/5-societat/252283-barcelona-estrena-tgv.html|title=Barcelona estrena TGV|publisher=[[Avui]] |date=9 February 2008 |accessdate=11 July 2011 |language=catalan}}</ref><ref>{{cite web|url=http://www.catalannewsagency.com/politics/item/the-last-high-speed-railway-stretch-between-barcelona-and-france-has-finally-been-unveiled-after-years-of-delays|title=The last High Speed railway stretch between Barcelona and France has finally been unveiled after years of delays|publisher=Catalan News Agency|date=8 January 2013|accessdate=27 January 2014|archiveurl=http://web.archive.org/web/20140410223210/http://www.catalannewsagency.com/politics/item/the-last-high-speed-railway-stretch-between-barcelona-and-france-has-finally-been-unveiled-after-years-of-delays|archivedate=10 April 2014}}</ref>
+
+Besides RENFE's services, other rail services in the Barcelona area are operated by the [[Ferrocarrils de la Generalitat de Catalunya]] (FGC), owned by the Catalonian government. The FGC operates largely [[commuter rail]] services, but also carries freight to the Port of Barcelona, as well as a number of [[rack railway]]s and [[funicular]]s, and three of the lines of the Barcelona Metro (see [[#Local public transport|''local public transport'']] below). Other suburban services are operated by [[Rodalies de Catalunya]] over RENFE tracks.
+
+===Roads and highways===
+[[File:BCN-rdaDalt-9976sh.jpg|thumb|upright|[[B-20 motorway (Spain)|B-20 motorway]] in Barcelona.]]
+
+Barcelona lies on three international routes, including [[European route E15]] that follows the Mediterranean coast, [[European route E90]] to Madrid and Lisbon, and [[European route E09]] to Paris. It is also served by a comprehensive network of motorways and highways throughout the metropolitan area, including [[Autovía A-2|A-2]], [[Autovía A-7|A-7]]/[[Autopista AP-7|AP-7]], [[C-16 highway (Spain)|C-16]], [[C-17 highway (Spain)|C-17]], [[C-31 highway (Spain)|C-31]], [[C-32 highway (Spain)|C-32]], [[Autopista C-33|C-33]], [[Autovia C-60|C-60]].
+
+The city is circled by three half [[Beltway|ring roads]] or bypasses, [[B20 motorway (Spain)|Ronda de Dalt (B-20)]] (on the mountain side), [[B10 motorway (Spain)|Ronda del Litoral (B-10)]] (along the coast) and [[Ronda del Mig]] (separated into two parts: [[Travessera de Dalt]] in the north and the [[Gran Via de Carles III]]), two partially covered<ref>{{cite web|url=http://www.bcn.es/turisme/english/turisme/rutes/rondes_fr.htm |title=The covered Rondes (by-pass) |publisher=Bcn.es |accessdate=26 June 2010|archiveurl=http://web.archive.org/web/20090516235933/http://www.bcn.es:80/turisme/english/turisme/rutes/rondes_fr.htm |archivedate=16 May 2009 }}</ref> fast highways with several exits that bypass the city.
+
+The city's main arteries include [[Avinguda Diagonal, Barcelona|Diagonal Avenue]], which crosses it diagonally, [[Avinguda Meridiana, Barcelona|Meridiana Avenue]] which leads to [[Plaça de les Glòries Catalanes, Barcelona|Glòries]] and connects with Diagonal Avenue and [[Gran Via de les Corts Catalanes, Barcelona|Gran Via de les Corts Catalanes]], which crosses the city from east to west, passing through its center. The famous boulevard of [[La Rambla, Barcelona|La Rambla]], whilst no longer an important vehicular route, remains an important pedestrian route.
+
+The [[Estació del Nord Sports Hall|Estació del Nord]] (Northern Station), a former [[railway station]] which was renovated for the 1992 Olympic Games, now serves as the terminus for long-distance and regional bus services.
+
+===Local public transport===
+[[File:LlefiàL10.JPG|thumb|right|Barcelona Metro]]
+
+Barcelona is served by a comprehensive local public transport network that includes a [[rapid transit|metro]], a [[bus]] network, two separate modern tram networks, a separate historic tram line, and several funiculars and [[aerial tramway|aerial cable cars]]. Most of these networks and lines form a coordinated fare system, administered by the [[Autoritat del Transport Metropolità]] (ATM), although they are operated by a number of different bodies.
+
+The largely underground [[Barcelona Metro]] network comprises eleven lines, identified by an "L" followed by the line number as well as by individual colours. Eight of these lines are operated on dedicated track by the [[Transports Metropolitans de Barcelona]] (TMB), whilst three lines are operated by the [[Ferrocarrils de la Generalitat de Catalunya]] (FGC) and share tracks with that company's commuter lines.
+
+[[File:Barcelona Tram 01.jpg|thumb|Barcelona Tram]]
+
+Another company, [[TRAMMET]], operates the city's two modern tram networks, known as [[Trambaix]] and [[Trambesòs]].<ref>{{cite web|url=http://w3.bcn.es/V01/Serveis/Noticies/V01NoticiesLlistatNoticiesCtl/0,2138,1653_35144087_1_573780100,00.html?accio=detall&home=HomeBCN&nomtipusMCM=Noticia |title=News related with the council plans for the tram network union |publisher=W3.bcn.es |accessdate=26 June 2010|archiveurl=http://web.archive.org/web/20091003195712/http://w3.bcn.es:80/V01/Serveis/Noticies/V01NoticiesLlistatNoticiesCtl/0,2138,1653_35144087_1_573780100,00.html?accio=detall&home=HomeBCN&nomtipusMCM=Noticia |archivedate=3 October 2009 }}</ref> The historic tram line, the [[Tramvia Blau]],<ref>{{cite web|url=http://www.tmb.net/en_US/barcelona/moute/planols/planotramviablau.jsp |title=Information of Tramvia Blau |publisher=Tmb.net |accessdate=26 June 2010|archiveurl=http://web.archive.org/web/20091224023817/http://www.tmb.net/en_US/barcelona/moute/planols/planotramviablau.jsp |archivedate=24 December 2009 }}</ref> connects the metro (L7, operated by FGC) to the [[Funicular del Tibidabo]] (operated by TMB). The Funicular de Tibidabo climbs the Tibidabo hill, as does the [[Funicular de Vallvidrera]] (FGC). The [[Funicular de Montjuïc]] (TMB) climbs the [[Montjuïc]] hill. The city has two [[aerial lift|aerial cable cars]]: the [[Montjuïc Cable Car]] (to the Montjuïc castle) and the [[Port Vell Aerial Tramway]] that runs via [[Torre Jaume I]] and [[Torre Sant Sebastia|Torre Sant Sebastià]] over the port.
+
+Buses in Barcelona are a major form of public transport, with extensive local, interurban and night bus networks. Most local services are operated by the TMB, although some other services are operated by a number of private companies, albeit still within the ATM fare structure. A separate private bus line, known as Aerobús, links the airport with the city center, with its own fare structure.
+
+[[File:Prius Taxi Barcelona.jpg|thumb|left|Barcelona taxi]]
+
+Barcelona has a [[taxicab|metered taxi]] fleet governed by the Institut Metropolità del Taxi (Metropolitan Taxi Institute), composed of more than 10,000 cars. Most of the licences are in the hands of [[Self-employment|self-employed]] drivers. With their black and yellow livery, Barcelona's taxis are easily spotted, and can be caught from one of many [[taxi rank]]s, hailed on street, or called by telephone.<ref>{{cite web | url = http://www.barcelona.com/barcelona_city_guide/all_about/taxis_in_barcelona | title = Barcelona Taxi Information | work = Barcelona.com | accessdate = 28 January 2014| archiveurl = http://web.archive.org/web/20140202102147/http://www.barcelona.com/barcelona_city_guide/all_about/taxis_in_barcelona | archivedate = 2 February 2014 }}</ref><ref>[http://bcnweb2.bcn.es:8885/taxi/infocorp/informacio.html L'Administració i la gestió del Taxi de Barcelona] {{dead link|date=May 2014}}</ref>
+
+On 22 March 2007,<ref>{{cite web|url=http://www.bicing.com/noticias/detalle_noticia.php?TU5fTk9USUNJQVM%3D&Ng%3D%3D&MQ%3D%3D |title=Noticies: Data d'inici 22 de març a les 14:00 h. Pots realitzar l'alta al servei a partir del dia 16/03/07 |publisher=Bicing |accessdate=26 June 2010|archiveurl=http://web.archive.org/web/20071029155839/http://www.bicing.com:80/noticias/detalle_noticia.php?TU5fTk9USUNJQVM%3D&Ng%3D%3D&MQ%3D%3D |archivedate=29 October 2007 }}</ref> Barcelona's City Council started the [[Bicing|Bicing service]], a bicycle service understood as a public transport. Once the user has their user card, they can take a bicycle from any of the more than 400 stations spread around the city and use it anywhere the urban area of the city, and then leave it at another station.<ref>{{cite web|url=http://www.bicing.com/modulos/modulos.php?TU5fSU5GT1JNQUNJT04%3D&NA%3D%3D&Nw%3D%3D |title=Què és |publisher=Bicing |accessdate=26 June 2010| archiveurl= http://web.archive.org/web/20100701054241/http://www.bicing.com/modulos/modulos.php?TU5fSU5GT1JNQUNJT04%3D&NA%3D%3D&Nw%3D%3D| archivedate= 1 July 2010 | deadurl= no}}</ref> The service has been a success, with 50,000 subscribed users in three months.<ref>{{cite web|url=http://www.bicing.com/noticias/detalle_noticia.php?TU5fTk9USUNJQVM%3D&Ng%3D%3D&MzA%3D |title=Notícies: El Biking ja té més de 50.000 abonats |publisher=Biking |accessdate=26 June 2010|archiveurl=http://web.archive.org/web/20091003183507/http://www.bicing.com:80/noticias/detalle_noticia.php?TU5fTk9USUNJQVM%3D&Ng%3D%3D&MzA%3D |archivedate=3 October 2009 }}</ref>
+
+==International relations==
+{{See also|List of twin towns and sister cities in Spain}}
+
+===Twin towns and sister cities===
+{{Refimprove section|date=February 2015}}
+Barcelona is [[twin towns and sister cities|twinned]] with the following cities:<sup>(in [[Chronology|chronological]] order)</sup><ref name="Barcelona">{{cite web |url=http://w3.bcn.es/XMLServeis/XMLHomeLinkPl/0,4022,229724149_257215678_1,00.html |title=Barcelona internacional – Ciutats agermanades |publisher= 2006–2009 [http://www.bcn.es/catala/copyright/welcome2.htm Ajuntament de Barcelona] |language=Catalan |accessdate=15 February 2015 |archiveurl=http://www.webcitation.org/61AlXWlzL |archivedate=24 August 2011}}</ref>
+
+{{Colbegin|3}}
+* {{flagicon|FRA}} [[Montpellier]], France, 1963
+* {{flagicon|BRA}} [[Rio de Janeiro]], Brazil, 1972
+* {{flagicon|MEX}} [[Monterrey]], Mexico, 1977
+* {{flagicon|USA}} [[Boston]], USA, 1983
+* {{flagicon|KOR}} [[Busan]], South Korea, 1983<ref>List of Busan's sister cities, Busan Metropolitan City; {{en icon}} [http://english.busan.go.kr/city_government/sister/sister_01.jsp?nSelected=6], {{ko icon}} [http://www.busan.go.kr/open_content/busan/brother_city/brother_list/6260000-arc-2.0-001.jsp?nSelected=8]  {{Wayback|df=yes|url=http://www.busan.go.kr/open_content/busan/brother_city/brother_list/6260000-arc-2.0-001.jsp?nSelected=8|date =20070620101152}}</ref>
+* {{flagicon|GER}} [[Cologne]], Germany, 1984
+* {{flagicon|BRA}} [[São Paulo]], Brazil, 1985 <ref name="São Paulo">{{cite web |url=http://www.netlegis.com.br/indexRJ.jsp?arquivo=/detalhesNoticia.jsp&cod=41796 |title=''São Paulo – Sister Cities Program'' |publisher=2005–2008 Fiscolegis – Todos os direitos reservados Editora de publicações periodicas – LTDA / 2008 City of São Paulo |accessdate=9 December 2008| archiveurl= http://web.archive.org/web/20081210171848/http://www.netlegis.com.br/indexRJ.jsp?arquivo=/detalhesNoticia.jsp&cod=41796| archivedate= 10 December 2008 | deadurl= no}}</ref><ref name="descentralized_cooperation">[http://www2.prefeitura.sp.gov.br/secretarias/relacoes_internacionais/ingles/descentralized_cooperation/sister_cities/0001 Prefeitura. Sp – Descentralized Cooperation] {{Wayback|df=yes|url=http://www2.prefeitura.sp.gov.br/secretarias/relacoes_internacionais/ingles/descentralized_cooperation/sister_cities/0001|date =20081224222805}}</ref><ref name="São Paulo2">{{cite web|url=http://www.prefeitura.sp.gov.br/cidade/secretarias/relacoes_internacionais/cidadesirmas/index.php?p=1066 |title=International Relations – São Paulo City Hall – Official Sister Cities |publisher=Prefeitura.sp.gov.br |accessdate=26 June 2010|archiveurl=http://web.archive.org/web/20130511050415/http://www.prefeitura.sp.gov.br/cidade/secretarias/relacoes_internacionais/cidadesirmas/index.php?p=1066 |archivedate=11 May 2013 }}</ref>
+* {{flagicon|URU}} [[Montevideo]], Uruguay, 1985
+* {{flagicon|RUS}} [[Saint Petersburg]], Russia, 1985
+* {{flagicon|POL}} [[Gdańsk]], Poland, 1990<ref name="Gdansk">{{cite web |url=http://www.gdansk.pl/samorzad,62,733.html |title=Miasta partnerskie i zaprzyjaźnione – Twin cities and partnerships |accessdate=20 August 2010|archiveurl=http://web.archive.org/web/20130723091807/http://www.gdansk.pl/samorzad,62,733.html|archivedate=23 July 2013}}</ref>
+* {{flagicon|CUB}} [[Havana]], Cuba, 1993
+* {{flagicon|JPN}} [[Kobe]], Japan, 1993<ref name="Kobe sisters">{{cite web|url=http://www.cityofkobe.org/sister_cities.html|title=Kobe's Sister Cities|accessdate=11 August 2013|work=Kobe Trade Information Office|archiveurl=http://web.archive.org/web/20130421095804/http://www.cityofkobe.org/sister_cities.html|archivedate=21 April 2013}}</ref>
+* {{flagicon|BEL}} [[Antwerp]], Belgium, 1997
+* {{flagicon|TUR}} [[Istanbul]], Turkey, 1997<ref name="Istanbul1">{{cite web|url=http://www.greatistanbul.com/sister_cities.htm|title=Sister Cities of Istanbul|accessdate=1 July 2009| archiveurl= http://web.archive.org/web/20090527130230/http://www.greatistanbul.com/sister_cities.htm| archivedate= 27 May 2009 | deadurl= no}}</ref><ref name="Istanbul2">{{cite news|url=http://www.radikal.com.tr/haber.php?haberno=94185|publisher=Radikal|language=Turkish|date=1 July 2009|quote=49 sister cities in 2003|title=İstanbul'a 49 kardeş|last=Erdem|first=Selim Efe|accessdate=22 July 2009|archiveurl=http://www.webcitation.org/5msQD8Sly|archivedate=18 January 2010}}</ref>
+* {{flagicon|PLE}} [[Gaza City|Gaza]], Palestinian Territories, 1998
+* {{flagicon|ISR}} [[Tel Aviv]], Israel, 1998
+* {{flagicon|IRL}} [[Dublin]], Ireland, 1998<ref name="Dublin">{{cite web|url=http://www.dublincity.ie/Press/FactsAboutDublin/Pages/FactsAboutDublin.aspx|title=Dublin City Council: Facts about Dublin City|publisher=2006–2009 Dublin City Council|accessdate=14 July 2009|archiveurl=http://web.archive.org/web/20140410225048/http://www.dublincity.ie/Press/FactsAboutDublin/Pages/FactsAboutDublin.aspx|archivedate=10 April 2014}}</ref>
+* {{flagicon|GRE}} [[Athens]], Greece, 1999
+* {{flagicon|IRN}} [[Isfahan]], Iran, 2000
+* {{flagicon|BIH}} [[Sarajevo]], Bosnia and Herzegovina, 2000<ref name="Sarajevo">{{cite web|author=daenet d.o.o. |url=http://www.sarajevo.ba/en/stream.php?kat=160 |title=Sarajevo Official Web Site : Sister cities |publisher=Sarajevo.ba |accessdate=6 May 2009| archiveurl= http://web.archive.org/web/20090412141407/http://www.sarajevo.ba/en/stream.php?kat=160| archivedate= 12 April 2009 | deadurl= no}}</ref>
+* {{flagicon|CHI}} [[Valparaíso]], Chile, 2001
+* {{flagicon|PRC}} [[Shanghai]], China, 2001
+* {{flagicon|UAE}} [[Dubai]], United Arab Emirates, 2006
+* {{flagicon|BOL}} [[Santa Cruz de la Sierra]], Bolivia, 2008<ref>{{cite web|url=http://www.wwf.es/que_hacemos/bosques/?uNewsID=3120 |title=WWF España - Barcelona y Santa Cruz de la Sierra (Bolivia): ciudades hermanadas por los bosques |language=es |publisher=Wwf.es |date= |accessdate=27 August 2012|archiveurl=http://web.archive.org/web/20131113093051/http://www.wwf.es/que_hacemos/bosques/?uNewsID=3120|archivedate=13 November 2013}}</ref>
+* {{flagicon|PHI}} [[Cebu City]], Philippines, 2009<ref name="Cebu">{{cite web|url=http://globalnation.inquirer.net/cebudailynews/news/view/20100302-256185/Province-eyes-investors-from-Spain|title=Province eyes investors from Spain – INQUIRER.net, Philippine News for Filipinos|work=globalnation.inquirer.net|accessdate=11 March 2010|archiveurl=http://web.archive.org/web/20140409161850/http://globalnation.inquirer.net/cebudailynews/news/view/20100302-256185/Province-eyes-investors-from-Spain|archivedate=9 April 2014}}</ref>
+* {{flagicon|VNM}} [[Ho Chi Minh City]], Vietnam, 2009<ref>{{cite web|url=http://www.mofahcm.gov.vn/vi/hoptac_qt/nr041014110554/#2O2JGVsVDHhB |title=CÁC ĐỊA PHƯƠNG NƯỚC NGOÀI ĐÃ THIẾT LẬP QUAN HỆ HỮU NGHỊ HỢP TÁC VỚI TPHCM |publisher=mofahcm.gov.vn |date=9 October 2010 |accessdate=8 January 2011|archiveurl=http://web.archive.org/web/20140409161729/http://www.mofahcm.gov.vn/vi/hoptac_qt/nr041014110554/ |archivedate=9 April 2014 }}</ref>
+* {{flagicon|USA}} [[San Francisco]], USA, 2010<ref>{{cite web|url=http://cbs5.com/local/sister.city.san.2.1812543.html |title=SF, Barcelona Sign Sister-City Pact |publisher=cbs5.com |date=19 July 2010 |accessdate=24 August 2010| archiveurl= http://web.archive.org/web/20100724025246/http://cbs5.com/local/sister.city.san.2.1812543.html| archivedate= 24 July 2010 | deadurl= yes}}</ref>
+{{Colend}}
+
+===Partnerships and cooperations===
+Other forms of cooperation and city friendship similar to the twin city programmes exist to many cities worldwide.<ref name="Barcelona City Cooperation Agreements">{{cite web|url=http://w3.bcn.es/XMLServeis/XMLHomeLinkPl/0,4022,229724149_257217612_3,00.html|title=Barcelona internacional – Cooperation agreements|publisher=Ajuntament de Barcelona|accessdate=23 September 2009|archiveurl=http://web.archive.org/web/20100429103018/http://w3.bcn.es:80/XMLServeis/XMLHomeLinkPl/0,4022,229724149_257217612_3,00.html|archivedate=29 April 2010}}</ref>
+* {{flagicon|ITA}} [[Turin]], Italy<ref name="Turin twinnings">{{cite web|url=http://www.comune.torino.it/relint/inglese/gemellaggieaccordi/index.shtml|title=International Affairs - Twinnings and Agreements|accessdate=6 August 2013|last=Pessotto|first=Lorenzo|work=International Affairs Service in cooperation with Servizio Telematico Pubblico|publisher=City of Torino|archiveurl=http://web.archive.org/web/20130618182559/http://www.comune.torino.it/relint/inglese/gemellaggieaccordi/index.shtml|archivedate=18 June 2013}}</ref>
+* {{flagicon|PRC}} [[Shenzhen]], China<ref>[http://www.szfao.gov.cn/zwgk/wsz/201103/t20110322_1645217.htm 友好城市 (Friendly cities)], 市外办 (Foreign Affairs Office), 22 March 2008. (Translation by [[Google Translate]].) {{WebCite|url=http://www.webcitation.org/684VwWBgc|date =31 May 2012}}</ref><ref>[http://www.szfao.gov.cn/ygwl/yxyc/ycgy/201101/t20110120_1631663.htm 国际友好城市一览表 (International Friendship Cities List)], 20 January 2011. (Translation by [[Google Translate]].) {{WebCite|url=http://www.webcitation.org/684VviYTN|date =31 May 2012}}</ref><ref>[http://www.szfao.gov.cn/ygwl/yxyc/yhjl/ 友好交流 (Friendly exchanges)], 13 September 2011. (Translation by [[Google Translate]].) {{WebCite|url=http://www.webcitation.org/6OU0GCxai|date =31 March 2014}}</ref>
+
+==Other sights==
+<gallery mode=packed>
+File:Barcelone_-_Santa_Maria_Del_Mar_-_Nef.jpg|[[Santa Maria del Mar, Barcelona|Santa Maria del Mar]] church
+File:050529 Barcelona 099.jpg|[[Santa Maria del Pi]] church
+File:Spain.Barcelona.Porta.del.Angel.jpg|The Roman and Medieval walls
+File:Museo Can Framis.jpg|[[Can Framis Museum]]
+File:Jfader batto facade.jpg|[[Casa Batlló]]
+File:Observatori Fabra - Vista des del Tibidabo - 1.jpg|[[Fabra Observatory]]
+File:Arc de Triomf Barcelona.jpg|The [[Arc de Triomf]]
+File:Casavicens.jpg|[[Casa Vicens]]
+File:Barcellona palazzo.jpg|[[Castell dels Tres Dragons]]
+File:PlayaBacelonetta2.JPG|[[Hotel Arts]] (left) and [[Torre Mapfre]] (each {{convert|154|m|ft|0|abbr=on}} in height) seen from [[La Barceloneta, Barcelona|Platja de la Barceloneta]]
+File:Torre Agbar.jpg|[[Torre Agbar]]
+File:Torre Collserola, Norman Foster.jpg|The [[Torre de Collserola]] on the Tibidabo is the tallest structure in Barcelona (288.4m).
+File:Barcelona in Parc Güell.JPG|The view from Gaudí's [[Park Güell]]
+File:Hospital de Sant Pau 01.jpg|[[Hospital de Sant Pau]]
+File:Telefèric del Port Barcelona.jpg|[[Port Vell Aerial Tramway]]
+File:Gardens of Joan Brossa 1.jpg|[[Montjuïc Cable Car]]
+File:Spain.Barcelona.Colon.from.Maremagnum 1.jpg|<center>[[Columbus Monument, Barcelona|Statue of Christopher Columbus]]</center>
+File:14-08-05-barcelona-RalfR-001.jpg|[[W Barcelona|W Barcelona (Hotel Vela)]]
+File:050529 Barcelona 027.jpg|[[La Monumental]]
+File:Barcelona Edificio Colón.jpg|Colón building
+File:Palau de musica 2.JPG|[[Palau de la Música Catalana]]
+File:Bcn 3530 Palauet Albeniz pp.jpg|Palauet d'Albéniz
+File:Tunnelaquarium 14-05-2009 15-54-09.JPG|[[Aquarium Barcelona]]
+File:Font Màgica de Montjuïc.jpg|[[Magic Fountain of Montjuïc]]
+File:Sagrado Corazón01.jpg|[[Sagrat Cor]]
+File:Plaça Espanya.jpg|The [[Venetian Towers]] in Plaça d'Espanya
+File:Catalunya Barcelona1 tango7174.jpg|[[Plaça de Catalunya, Barcelona|Plaça de Catalunya]]
+Barcelona-2007-rr-04.jpg|[[La Rambla, Barcelona|La Rambla]], famous for its living statues
+File:Barcelona - Carrer del Bisbe.jpg|[[Gothic Quarter, Barcelona|Gothic Quarter]]
+File:Cathedral of Santa Eulalia.jpg|[[Cathedral of Santa Eulalia]]
+</gallery>
+
+==See also==
+{{Portal|Spain|Catalan-speaking countries}}
+* [[List of markets in Barcelona]]
+* [[List of tallest buildings in Barcelona]]
+* [[Plans for Winter Olympics held in Barcelona]]
+
+==References==
+
+===Notes===
+{{Reflist|30em}}
+
+===Bibliography===
+* {{DGRG}}
+* {{cite encyclopedia |title=Barcelona|encyclopedia=Gran Enciclopèdia Catalana |publisher=Ed. Enciclopèdia Catalana S.A. |location=Barcelona}}
+* Busquets, Joan. ''Barcelona: The Urban Evolution of a Compact City'' (Harvard UP, 2006) 468 pp.
+* {{cite journal|doi=10.1177/0096144210384250|title=Review Essay: Barcelona: Forms, Images, and Conflicts: Joan Busquets (2005)|date=January 2011|last1=McDonogh|first1=G. W.|journal=Journal of Urban History|volume=37|pages=117–123|number=1}}
+* Marshall, Tim, ed. ''Transforming Barcelona'' (Routledge, 2004), 267 pp.
+* Ramon Resina, Joan. ''Barcelona's Vocation of Modernity: Rise and Decline of an Urban Image'' (Stanford UP, 2008). 272 pp.
+
+==External links==
+{{Sister project links|voy=Barcelona|Barcelona}}
+* [http://www.barcelona.cat/en/ Official website of Barcelona]
+* [http://www.spain.info/en/que-quieres/ciudades-pueblos/grandes-ciudades/barcelona.html Official website of Barcelona in the Spain's national tourism portal]
+* [http://www.aena-aeropuertos.es/barcelona/en Official website of Barcelona–El Prat International Airport]
+* [http://www.tmb.cat/en/ Official website of Barcelona's Metropolitan Transports]
+
+{{br}}
+{{Geographic location
+|Centre = Barcelona
+|N  = [[Montcada i Reixac]]
+|NE = [[Santa Coloma de Gramenet]]
+|E  = [[Sant Adrià de Besòs]]
+|SE = ''[[Balearic Sea]]''
+|S  = [[El Prat de Llobregat]]
+|SW = [[Esplugues de Llobregat]]<br>[[L'Hospitalet de Llobregat]]
+|W  = [[Molins de Rei]]<br>[[Sant Feliu de Llobregat]]<br>[[Sant Just Desvern]]
+|NW = [[Cerdanyola del Vallès]]<br>[[Sant Cugat del Vallès]]
+}}
+<!--Navigation boxes-->
+{{Navboxes
+|title=Articles related to Barcelona
+|list=
+{{Barcelona's Districts}}
+{{Barcelona landmarks}}
+{{Transport in Barcelona}}
+{{Barcelonès}}
+{{Municipalities in Barcelona}}
+{{Capitals of Provinces in Spain}}
+{{Autonomous Community capitals of Spain}}
+{{Olympic Summer Games Host Cities}}
+{{Paralympic Summer Games Host Cities}}
+{{Mediterranean Games}}
+}}
+
+{{Authority control}}
+
+[[Category:Barcelona| ]]
+[[Category:10s BC establishments in Spain]]
+[[Category:Historic Jewish communities]]
+[[Category:Mediterranean port cities and towns in Spain]]
+[[Category:Municipalities in Barcelonès]]
+[[Category:Phoenician colonies in Spain]]
+[[Category:Populated places in Barcelonès]]
+[[Category:Recipients of the Royal Gold Medal]]
+[[Category:Roman sites in Spain]]
+[[Category:University towns in Spain]]

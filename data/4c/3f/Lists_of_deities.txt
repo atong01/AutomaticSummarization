@@ -1,0 +1,232 @@
+This is an index to [[deity|deities]] of the different religions, cultures and mythologies of the world, listed by type and by region.
+
+For deified individuals see "[[List of people who have been considered deities]]", "[[Apotheosis]]" and "[[Imperial cult]]". 
+For epithets of gods of monotheistic religions, see [[Names of God]]. 
+For deities whose cult is fictional see "[[List of deities in fiction]]".
+
+{{TOC limit|2}}
+
+==By classification==
+[[File:Baronne Rigoley d'Ogny as Aurora by Nattier.jpg|thumb|right|125px|Baronne Rigoley d'Ogny as [[Aurora (mythology)|Aurora]], by [[Jean-Marc Nattier]], [[Baltimore Museum of Art]]]]
+{{see|Religious cosmology}}
+A basic classification of types of gods is given by [[Stith Thompson]]'s ''Motif-Index of Folk-Literature'': 
+*A0 [[Creator deity|Creator]] (not necessarily a god)
+*A100—A199. The gods in general 
+**A101. [[King of the Gods|Supreme god]]
+**A104. [[Theogony|The making of gods]]
+**A107. Gods of darkness and light (darkness thought of as evil, light as good)
+**A109.1. [[Triple deity|God as a triad]]
+**A116. [[Twin gods]]
+**A111.1. [[Mother goddess|Mother of the gods]]
+**A111.2. [[Father god|Father of the gods]]
+**A117.5. [[Ancestor worship|Gods are spirits of deified dead]]
+**A131. [[Therianthropy|Gods with animal features]]
+***A132.3. [[Horse worship| Equine god (goddess)]]
+***A132.5. [[Bear worship|Bear-god (goddess)]]
+***A132.9. [[Sacred bull|Bull-god]] 
+**A161.2. [[King of the gods]]
+**A177.1. God as dupe or [[trickster]]
+**A192. [[Death or departure of the gods]]
+**A193. [[dying-and-rising god|Resurrection of gods]]
+
+*A200—A299. Gods of the upper world
+**A210. [[Sky-god]]
+**A220. [[List of solar deities|Sun-god]]
+**A240. [[Moon-god]]
+**A250. [[Star-god]]
+**A260. [[God of light|Light]]
+**A270. [[God of dawn|Dawn]]
+**A280. [[Weather-god]]
+***A281. [[Storm-god]]
+***A282. [[list of wind deities|Wind-god]]
+***A284. [[list of thunder gods|God of thunder]]
+***A285. [[God of lightning]]
+***A287. [[list of rain deities|Rain-god]]
+*A300—A399. Gods of the [[underworld]]
+**A310. [[Death deity|God of the world of the dead]]
+**A311. [[Psychopomp|Conductor of the dead]]
+*A400—A499. Gods of the earth ([[human sphere]])
+**A400. [[God of the earth|Earth]]
+**A401. [[Earth Mother|Mother Earth]]
+**A405. [[List of nature deities|Nature]]
+**A410. [[tutelary deity|Local gods]]
+**A411. [[household deity|Household gods]]
+**A415. [[National deity|God of clans or nations]]
+**A420. [[Water deity|Water]]
+**A421. [[Sea-god|Sea]]
+**A425. [[River-god|River]]
+**A417. [[God of springs|Springs]]
+**A430. [[God of vegetation|Vegetation]]
+**A431. [[list of fertility deities|Fertility]]
+**A435. [[List of tree deities|Trees and forests]]
+**A440. [[God of animals|Animals]]
+**A450. trades and professions
+***A451. [[Artisan-god]]
+***A452. [[Hunting god|Hunting]]
+***A454. [[health deity|Healing]]
+**A460. Gods of abstractions (also Z110. [[allegory|Abstractions personified]])
+***A461. [[knowledge deity|Wisdom]]
+***A463. [[Time and fate deities|Fate]]
+****A463.1. [[The Fates]] (goddesses who preside over the fates of men)
+***A464. [[God of justice|Justice]]
+***A465. [[God of the arts|the Arts]]
+***A472. [[God of sleep|Sleep]]
+***A473. [[God of wealth|Wealth]]
+***A475. [[List of love and lust deities|Love]]
+***A484. [[Oath deity|Oath]] 
+***A485. [[List of war deities|War]]
+***A486. [[The Furies]] (goddesses of vengeance)
+***A487. [[Death deity|Death]]
+**A490. Miscellaneous gods of the earth
+***A491. [[God of travelers]]
+***A493. [[God of fire]]
+ 
+*A500—A599. [[Demigod]]s and [[culture hero]]es
+<!--
+**A502. Heroes or demigods as fourth race of men. 
+**A510. Origin of the culture hero (demigod).
+**A512.1. Culture hero's grandmother.
+**A512.2. Culture hero creator's son. 
+**A512.3. Culture hero as son of god. 
+**A512.4. Sun as father of culture hero.
+**A515.1.1. [[Divine twins|Twin culture heroes]].
+**A521. Culture hero as dupe or [[trickster]]
+**A531. Culture hero (demigod) [[Chaoskampf|overcomes monsters]]
+A566.1. Return of mortal reincarnation of celestial being to the country of the gods after his mission has been accomplished on earth. India: Thompson-Balys.
+A511.3. Culture hero incarnated through birth from virgin.
+A580. Culture hero's (divinity's) expected return.
+A581. Culture hero (divinity) returns.
+-->
+<!--
+[[List of night deities|Night]]
+[[Liminal deity|Thresholds, doorways]]
+[[List of people who have been considered deities|Deified Heroes]]
+[[Imperial cult]]
+[[Sacred king]]
+-->
+
+==By cultural sphere==
+
+===Near East and North Africa===
+[[File:Standing Osiris edit1.svg|thumb|right|125px|[[Osiris]], lord of the dead. His green skin symbolizes rebirth]]
+*[[Religions of the ancient Near East|Ancient Near East]]  
+**[[List of Egyptian deities]]
+**[[List of Mesopotamian deities|Mesopotamian deities]]
+***[[Kassite deities]]
+**[[Ancient Semitic religion|Semitic gods]]: see [[El (god)|El]], [[Elohim]]
+***[[Assyro-Babylonian pantheon]] (see also [[Family tree of the Babylonian gods]])
+***[[Canaanite religion|Canaanite deities]]
+**[[Anatolia]]
+***[[hittite mythology|Hittite deities]]
+***[[Hurrian deities]]
+***[[Lydian gods|Lydian deities]]
+**[[Caucasus]]
+***[[Armenian mythology#Pantheon|Armenian deities]]
+***[[Georgian mythology|Georgian deities]]
+***[[Ossetian deities]]
+**[[Persia]]: see [[Yazata]], see also [[Proto-Indo-Iranian religion]]
+*[[North Africa]]: [[Berber mythology]]
+*[[Arabian mythology|Pre-Islamic Arabian deities]]
+
+===Central / Northern Asia===
+*[[Siberian mythology|Siberian]]
+**[[Kutkh|Raven God of Kamchatka and Chukotka]]
+*[[Mythology of the Turkic and Mongolian peoples|Turco-Mongol]]
+**[[Tengri]]
+
+===East Asia===
+*[[chinese mythology|Chinese deities]]
+*[[Japanese deities]]
+*[[Korean deities]]
+*[[List of bodhisattvas]]
+
+===India / South Asia===
+[[File:Cowdivine.jpg|thumb|right|220px|The image illustrates the Hindu belief that each part of the [[cow]] embodies a particular deity]]
+*[[Hindu deities]] 
+**[[Rigvedic deities]] (see also [[Proto-Indo-Iranian religion]])
+
+===Southeast Asia===
+*[[Deities of Philippine mythology]]
+*[[Malaysian Chinese Gods]]
+
+===Europe===
+*[[Baltic deities]]
+*[[Celtic deities]]
+**[[List of Irish mythological figures|Irish deities]]
+*[[Etruscan deities]]
+*[[Finnic deities]]
+*[[Germanic deities]]
+**[[Anglo-Saxon deities]] 
+**[[List of Norse gods and goddesses]]
+*[[Religion in ancient Greece|Greek pantheon]]  (see also [[List of Greek mythological figures]], [[Twelve Olympians]], [[Greek hero cult]], [[Family tree of the Greek gods]], [[Mycenaean gods]], [[Hellenismos]])
+*[[Hungarian deities]]
+*[[List of Roman deities]]
+*[[Lusitani deities]] 
+*[[Paleo-Balkanic deities]] (Thracian/Dacian/Illyrian)
+*[[Sami mythology|Sami deities]]
+*[[Slavic deities]]
+
+===Sub-Saharan Africa===
+[[Image:Mami Wata poster.png|125px|thumb|right|Poster of a [[Mami Wata]], "serpent priestess" painted ca. 1926 by German ([[Hamburg]]) artist Schleisinger, displayed in shrines as a popular image of Mami Wata in Africa and in the Diaspora.<ref>Jell-Bahlsen 1997, p. 105</ref><ref>Chesi 1997, p. 255)</ref>]]
+
+*[[African deities]]
+**[[Alusi]]
+**[[Guanches#System of beliefs|Guanche deities]]
+**[[List of Yoruba deities|Yoruba deities]]
+*[[Afro-American religion]]
+**[[Loa]]
+**[[Orisha]]
+
+===Americas===
+*[[Mesoamerica]]
+**[[Aztec deities]]
+**[[Maya deities]]
+*[[North America]]
+**[[Inuit deities]]
+**[[Native American deities]]
+*[[South America]]
+**[[Incan deities]]
+**[[Guarani mythology|Guarani]]
+**[[Mapuche mythology|Mapuche]]
+
+===Australia—Oceania===
+*[[Australian Aboriginal deities]]
+*[[List of Māori deities|Māori deities]]
+*[[Polynesian mythology|Polynesian deities]]
+*[[Rapa Nui mythology|Rapa Nui deities]] (Easter Island)
+
+==Syncretic mythologies==
+* [[Ascended master|List of Theosophical/Ascended Master Teachings deities]]
+
+==See also==
+* [[Avatar]] 
+* [[Christ myth theory]]
+* [[Demigod]]
+* [[List of deities in fiction]]
+* [[Divinity]]
+* [[Entities]]
+* [[List of folklores]]
+* [[God (male deity)]]
+* [[Goddess]]
+* [[List of legendary creatures by type]]
+* [[List of mythologies]]
+* [[Names of God]]
+* [[Pantheon (gods)]]
+* [[List of goddesses]]
+* [[List of people who have been considered deities]]
+* [[Reincarnation]]
+* [[Resurrection]]
+* [[Spiritual Deism|Spiritual deity]]
+* [[Spiritual entity]]
+* [[Spiritual Hierarchy|Spiritual Hierarchy (Theosophy)]]
+
+==References==
+{{Reflist}}
+
+{{religion topics}}
+{{Theism}}
+
+{{DEFAULTSORT:List Of Deities}}
+[[Category:Lists of deities| ]]
+[[Category:Polytheism| ]]
+[[Category:Deities|*]]

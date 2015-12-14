@@ -1,0 +1,317 @@
+{{refimprove|date=August 2012}}
+{{Further|Vegetation type}}
+[[File:Vegetation.png|thumb|right|400px|[[China]] and the [[United States]] have the highest number of biomes.]]
+A '''biome''' {{IPAc-en|ˈ|b|aɪ|oʊ|m}} is a formation of [[plants]] and [[animals]] that have common characteristics due to similar climates and can be found over a range of continents.<ref>[http://www.ucmp.berkeley.edu/exhibits/biomes/index.php The World's Biomes], Retrieved August 19, 2008, from [http://www.ucmp.berkeley.edu/index.php University of California Museum of Paleontology]</ref> Biomes are distinct from [[habitats]], because any biome can comprise a variety of habitats.{{toclimit|3}}
+
+==Classification==
+Biomes are defined by climate regimes and [[biogeography]].
+
+A 1978 study on North American grasslands<ref>{{cite journal|last1=Sims|first1=Phillip L.|last2=Singh|first2=J.S.|title=The Structure and Function of Ten Western North American Grasslands: III. Net Primary Production, Turnover and Efficiencies of Energy Capture and Water Use|journal=Journal of Ecology|date=July 1978|volume=66|issue=2|pages=573–597|publisher=British Ecological Society}}</ref> found a positive [[Logistic regression|logistic correlation]] between [[evapotranspiration]] in mm/yr and above-ground net primary production in g/m<sup>2</sup>/yr. The general results from the study were that precipitation and water use led to above-ground primary production, while [[Sunlight|solar irradiation]] and temperature lead to below-ground primary production (roots), and temperature and water lead to cool and warm season growth habit.<ref>Pomeroy, Lawrence R. and James J. Alberts, editors. Concepts of Ecosystem Ecology. New York: Springer-Verlag, 1988.</ref>  These findings help explain the categories used in Holdridge’s bioclassification scheme (see below), which were then later simplified by Whittaker. The number of classification schemes and the variety of determinants used in those schemes, however, should be taken as strong indicators that biomes do not fit perfectly into the classification schemes created.
+
+===Holdridge===
+Holdridge classified climates based on the biological effects of temperature and rainfall on vegetation under the assumption that these two [[abiotic]] factors are the largest determinants of the types of vegetation found in a habitat. Holdridge uses the four axes to define 30 so-called "humidity provinces", which are clearly visible in his diagram. While this scheme largely ignores soil and sun exposure, Holdridge acknowledged that these were important.
+
+===Whittaker's biome-type classification scheme===
+
+[[File:PrecipitationTempBiomes.jpg|thumb|The distribution of vegetation types as a function of mean annual temperature and precipitation.]]
+[[Robert Harding Whittaker|Whittaker]] classified biomes using two abiotic factors: precipitation and temperature. His scheme can be seen as a simplification of Holdridge's; more readily accessible, but missing Holdridge's greater specificity.
+
+Whittaker based his approach on theoretical assertions and empirical sampling. He was in a unique position to make such a holistic assertion because he had previously compiled a review of biome classifications.<ref>Whittaker, Robert H., Botanical Review, Classification of Natural Communities, Vol. 28, No. 1 (Jan–Mar 1962), pp. 1–239.</ref>
+
+====Key definitions for understanding Whittaker's scheme====
+
+{{glossary}}
+ {{term|1=Physiognomy}}
+ {{defn|1=The apparent characteristics, outward features, or appearance of ecological communities or species.}}
+ {{term|1=Biome}}
+ {{defn|1=A grouping of terrestrial ecosystems on a given continent that are similar in vegetation structure, physiognomy, features of the environment and characteristics of their animal communities.}}
+ {{term|1=Formation}}
+ {{defn|1=A major kind of community of plants on a given continent.}}
+ {{term|1=Biome-type}}
+ {{defn|1=Grouping of convergent biomes or formations of different continents, defined by physiognomy.}}
+ {{term|1=Formation-type}}
+ {{defn|1=A grouping of convergent formations.}}
+ {{glossary end}}
+
+Whittaker's distinction between biome and formation can be simplified: formation is used when applied to plant communities only, while biome is used when concerned with both plants and animals. Whittaker's convention of biome-type or formation-type is simply a broader method to categorize similar communities.<ref name="Whittaker1975">Whittaker, Robert H. Communities and Ecosystems. New York: MacMillan Publishing Company, Inc., 1975.</ref> <!---The world biome-types, as displayed on a world map, can be viewed at the following link: [http://www.marietta.edu/~biol/biomes/biomemap.html here] (This link is now dead.)--->
+
+====Whittaker's parameters for classifying biome-types====
+
+Whittaker, seeing the need for a simpler way to express the relationship of community structure to the environment, used what he called "gradient analysis" of ecocline patterns to relate communities to climate on a worldwide scale. Whittaker considered four main ecoclines in the terrestrial realm.<ref name="Whittaker1975"/>
+# Intertidal levels: The wetness gradient of areas that are exposed to alternating water and dryness with intensities that vary by location from high to low tide
+# Climatic moisture gradient
+# Temperature gradient by altitude
+# Temperature gradient by latitude
+
+Along these gradients, Whittaker noted several trends that allowed him to qualitatively establish biome-types:
+* The gradient runs from favorable to extreme, with corresponding changes in productivity.
+* Changes in physiognomic complexity vary with how favorable of an environment exists (decreasing community structure and reduction of stratal differentiation as the environment becomes less favorable).
+* Trends in diversity of structure follow trends in species diversity; alpha and beta species diversities decrease from favorable to extreme environments.
+* Each growth-form (i.e. grasses, shrubs, etc.) has its characteristic place of maximum importance along the ecoclines.
+* The same growth forms may be dominant in similar environments in widely different parts of the world.
+
+Whittaker summed the effects of gradients (3) and (4) to get an overall temperature gradient, and combined this with gradient (2), the moisture gradient, to express the above conclusions in what is known as the Whittaker classification scheme. The scheme graphs average annual precipitation (x-axis) versus average annual temperature (y-axis) to classify biome-types.
+
+===Walter system===
+
+The eponymously-named Heinrich Walter classification scheme considers the seasonality of temperature and precipitation. The system, also assessing precipitation and temperature, finds nine major biome types, with the important climate traits and [[vegetation type]]s. The boundaries of each biome correlate to the conditions of moisture and cold stress that are strong determinants of plant form, and therefore the vegetation that defines the region. Extreme conditions, such as flooding in a swamp, can create different kinds of communities within the same biome.
+
+:'''I. Equatorial'''
+:*Always moist 
+:*Little temperature seasonality
+:*Evergreen tropical rain forest
+:'''II. Tropical'''
+:*Summer rainy season and cooler “winter” dry season
+:*Seasonal forest, scrub, or savanna
+:'''III. Subtropical'''
+:*Highly seasonal, arid climate
+:*Desert vegetation with considerable exposed surface
+:'''IV. Mediterranean'''
+:*Winter rainy season and summer drought
+:*[[Sclerophyll]]ous (drought-adapted), frost-sensitive shrublands and woodlands
+:'''V. Warm temperate'''
+:*Occasional frost, often with summer rainfall maximum
+:*Temperate evergreen forest, somewhat frost-sensitive
+:'''VI. Nemoral'''
+:*Moderate climate with winter freezing
+:*Frost-resistant, deciduous, temperate forest
+:'''VII. Continental'''
+:*Arid, with warm or hot summers and cold winters
+:*Grasslands and temperate deserts
+:'''VIII. Boreal'''
+:*Cold temperate with cool summers and long winters
+:*Evergreen, frost-hardy, needle-leaved forest ([[taiga]])
+:'''IX. Polar'''
+:*Short, cool summers and long, cold winters
+:*Low, evergreen vegetation, without trees, growing over permanently frozen soils
+
+===Bailey system===
+Robert G. Bailey nearly developed a [[biogeography|biogeographical]] classification system for the United States in a map published in 1976. He subsequently expanded the system to include the rest of North America in 1981, and the world in 1989. The Bailey system, based on climate, is divided into seven domains (polar, humid temperate, dry, humid, and humid tropical), with further divisions based on other climate characteristics (subarctic, warm temperate, hot temperate, and subtropical; marine and continental; lowland and mountain).<ref>http://www.fs.fed.us/land/ecosysmgmt/index.html Bailey System, US Forest Service</ref>
+
+* '''100 Polar Domain'''
+** 120 Tundra Division (Köppen: [[Ice Cap Climate|Ft]])
+** M120 Tundra Division&nbsp;– Mountain Provinces
+** 130 Subarctic Division (Köppen: [[Tundra|E]])
+** M130 Subarctic Division&nbsp;– Mountain Provinces
+* '''200 Humid Temperate Domain'''
+** 210 Warm Continental Division (Köppen: portion of [[Humid continental climate|Dcb]])
+** M210 Warm Continental Division&nbsp;– Mountain Provinces
+** 220 Hot Continental Division (Köppen: portion of [[Humid continental climate|Dca]])
+** M220 Hot Continental Division&nbsp;– Mountain Provinces
+** 230 Subtropical Division (Köppen: portion of [[Humid subtropical climate|Cf]])
+** M230 Subtropical Division&nbsp;– Mountain Provinces
+** 240 Marine Division (Köppen: [[Oceanic climate|Do]])
+** M240 Marine Division&nbsp;– Mountain Provinces
+** 250 Prairie Division (Köppen: arid portions of [[Humid subtropical climate|Cf]], [[Humid continental climate|Dca]], [[Humid continental climate|Dcb]])
+** 260 Mediterranean Division (Köppen: [[Mediterranean climate|Cs]])
+** M260 Mediterranean Division&nbsp;– Mountain Provinces
+* '''300 Dry Domain'''
+** 310 Tropical/Subtropical Steppe Division
+** M310 Tropical/Subtropical Steppe Division&nbsp;– Mountain Provinces
+** 320 Tropical/Subtropical Desert Division
+** 330 Temperate Steppe Division
+** 340 Temperate Desert Division
+* '''400 Humid Tropical Domain'''
+** 410 Savanna Division
+** 420 Rainforest Division
+
+===WWF system===
+A team of biologists convened by the [[World Wide Fund for Nature|World Wildlife Fund]] (WWF) developed an [[ecological land classification]] system that identified fourteen biomes,<ref>Olson et al. (2001); [http://wolfweb.unr.edu/~ldyer/classes/396/olsonetal.pdf Terrestrial Ecoregions of the World]: A New Map of Life on Earth, BioScience, Vol. 51, No. 11., pp. 933–938.</ref> called '''major habitat types''', and further divided the world's land area into 882 [[terrestrial ecoregions]] (includes new Antarctic ecoregions by Terrauds et al. 2012). Each terrestrial ecoregion has a specific EcoID, format XXnnNN (XX is the [[ecozone]], nn is the biome number, NN is the individual number). This classification is used to define the [[Global 200]] list of [[ecoregion]]s identified by the WWF as priorities for conservation. The WWF major habitat types are:
+
+*01 [[Tropical and subtropical moist broadleaf forests]] (tropical and subtropical, humid)
+*02 [[Tropical and subtropical dry broadleaf forests]] (tropical and subtropical, semihumid)
+*03 [[Tropical and subtropical coniferous forests]] (tropical and subtropical, semihumid)
+*04 [[Temperate broadleaf and mixed forests]] (temperate, humid)
+*05 [[Temperate coniferous forests]] (temperate, humid to semihumid)
+*06 [[Taiga|Boreal forests/taiga]] (subarctic, humid)
+*07 [[Tropical and subtropical grasslands, savannas, and shrublands]] (tropical and subtropical, semiarid)
+*08 [[Temperate grasslands, savannas, and shrublands]] (temperate, semiarid)
+*09 [[Flooded grasslands and savannas]] (temperate to tropical, fresh or brackish water inundated)
+*10 [[Montane grasslands and shrublands]] (alpine or montane climate)
+*11 [[Tundra]] (Arctic)
+*12 [[Mediterranean forests, woodlands, and scrub]] or [[sclerophyll forest]]s (temperate warm, semihumid to semiarid with winter rainfall)
+*13 [[Deserts and xeric shrublands]] (temperate to tropical, arid)
+*14 [[Mangrove]] (subtropical and tropical, salt water inundated)
+
+====Freshwater biomes====
+According to the WWF, the following are classified as [[freshwater]] biomes:<ref>"Freshwater Ecoregions of the World: Major Habitat Types" [http://www.feow.org/mht.php]. Accessed May 12, 2008.</ref>
+{{col-begin}}
+{{col-break}}
+* Large [[lake]]s
+* Large [[river deltas]]
+* Polar [[freshwater]]s
+* Montane [[freshwater]]s
+* Temperate [[Upland and lowland (freshwater ecology)|coastal rivers]]
+* Temperate floodplain rivers and [[wetland]]s
+{{col-break}}
+* Temperate [[Upland and lowland (freshwater ecology)|upland rivers]]
+* Tropical and subtropical [[Upland and lowland (freshwater ecology)|coastal rivers]]
+* Tropical and subtropical floodplain rivers and [[wetland]]s
+* Tropical and subtropical [[Upland and lowland (freshwater ecology)|upland rivers]]
+* Xeric freshwaters and [[endorheic basin]]s
+* [[Oceanic islands]]
+{{col-end}}
+* Streams and rivers
+
+====Realms or ecozones (terrestrial and freshwater, WWF)====
+{{col-begin}}
+{{col-break}}
+* NA [[Nearctic]]
+* PA [[Palearctic]]
+* AT [[Afrotropic]]
+* IM [[Indomalaya]]
+{{col-break}}
+* AA [[Australasia ecozone|Australasia]]
+* NT [[Neotropic]]
+* OC [[Oceania ecozone|Oceania]]
+* AN [[Antarctic ecozone|Antarctic]]
+{{col-end}}
+
+====Marine biomes====
+
+=====Marine biomes (H) (major habitat types), Global 200 (WWF)=====
+
+Biomes of the coastal and [[continental shelf]] areas ([[neritic zone]]&nbsp;– [[List of ecoregions (WWF)]])
+* Polar
+* Temperate shelves and sea
+* Temperate [[upwelling]]
+* Tropical [[upwelling]]
+* [[Coral reef|Tropical coral]]<ref>[[World Wide Fund for Nature|WWF]]: [http://www.worldwildlife.org/science/ecoregions/marine/item1266.html Marine Ecoregions of the World]</ref>
+
+=====Realms or ecozones (marine, WWF)=====
+{{col-begin}}
+{{col-break}}
+* North temperate Atlantic
+* Eastern tropical Atlantic
+* Western tropical Atlantic
+* South temperate Atlantic
+* North temperate Indo-Pacific
+* Central Indo-Pacific
+* Eastern Indo-Pacific
+{{col-break}}
+* Western Indo-Pacific
+* South temperate Indo-Pacific
+* Southern Ocean
+* Antarctic
+* Arctic
+* Mediterranean
+{{col-end}}
+
+=====Other marine habitat types=====
+* [[Hydrothermal vent]]s
+* [[Cold seep]]s
+* [[Benthic zone]]
+* [[Pelagic zone]] (trades and westerlies)
+* [[Abyssal]]
+* [[Hadal]] (ocean trench)
+
+======Major habitats, nonglobal 200 (WWF)======
+* [[Littoral zone|Littoral]]/[[Intertidal zone]]
+* [[Kelp forest]]
+* [[Pack ice]]
+* [[Rain forest]]
+
+====Summary – ecological taxonomy (WWF)====
+* [[Biosphere]] ([[List of ecoregions]])
+** [[Ecozones]] or realms (8)
+*** Terrestrial biomes (major habitat types, 14)
+**** [[Ecoregions]] (867) vbn,
+***** [[Ecosystems]] ([[biotope]]s)
+*** Freshwater biomes (major habitat types, 12)
+**** [[Ecoregions]] (426)
+***** [[Ecosystems]] (biotopes)
+** Marine ecozones or realms (13)
+*** [[Continental shelf|Continental Shelf]] biomes (major habitat types, 5)
+**** ([[Ecoregion#Marine|Marine provinces]]) (62)
+***** [[Ecoregions]] (232)
+****** [[Ecosystems]] (biotopes)
+*** Open & Deep Sea Biomes (major habitat types)
+** [[Endolith]]ic biome
+
+'''Example'''
+* [[Biosphere]]
+** [[Ecozone]]: [[Palearctic ecozone]]
+*** Terrestrial biome: [[temperate broadleaf and mixed forests]]
+**** [[Ecoregion]]: [[Dinaric Mountains mixed forests]] (PA0418)
+***** [[Ecosystem]]: [[Orjen]], vegetation belt between 1,100–1,450 m, Oromediterranean zone, nemoral zone (temperate zone)
+****** [[Biotope]]: ''Oreoherzogio-Abietetum illyricae'' Fuk. ([[Dinaric calcareous block fir forest#Plant list|Plant list]])
+******* Plant: Silver fir (''[[Abies alba]]'')
+
+==Anthropogenic biomes==
+Humans have altered global patterns of biodiversity and ecosystem processes. As a result, vegetation forms predicted by conventional biome systems can no longer be observed across much of Earth's land surface as they have been replaced by crop and rangelands or cities. [[Anthropogenic biomes]] provide an alternative view of the terrestrial biosphere based on global patterns of sustained direct human interaction with ecosystems, including agriculture, human settlements, urbanization, forestry and other uses of land. Anthropogenic biomes offer a new way forward in ecology and conservation by recognizing the irreversible coupling of human and ecological systems at global scales and moving us toward an understanding of how best to live in and manage our biosphere and the anthropogenic biomes we live in.
+
+===Major anthropogenic biomes===
+* Dense settlements
+
+* Croplands
+* Rangelands
+* Forested
+* Indoor<ref>{{Cite news|url = http://www.nytimes.com/2015/03/19/science/the-next-frontier-the-great-indoors.html?ref=science|title = The Next Frontier: The Great Indoors|last = Zimmer|first = Carl|date = March 19, 2015|work = [[New York Times]]|access-date = March 2015}}</ref>
+
+==Other biomes==
+The [[endolith]]ic biome, consisting entirely of microscopic life in rock [[porosity|pores]] and cracks, kilometers beneath the surface, has only recently been discovered, and does not fit well into most classification schemes.
+
+===Map of biomes===
+[[Image:Vegetation-no-legend.PNG|thumb|center|800px|Terrestrial biomes classified by vegetation|
+{| style="border:1px solid #CCCCCC; background-color:transparent;" align="center" width="100%"
+|width="17"|
+{{legend|#c0c0c0|[[ice sheet]] and [[polar desert]]}}
+{{legend|#9fd6c9|[[tundra]]}}
+{{legend|#006d64|[[taiga]]}}
+{{legend|#a4e05d|[[temperate broadleaf forest]]}}
+|width="20%"|
+{{legend|#F6EA64|[[Temperate steppe]]}}
+{{legend|#0d7e0d|[[Tropical and subtropical moist broadleaf forests|subtropical moist forest]]}}
+{{legend|#907699|[[Mediterranean vegetation]]}}
+{{legend|#6f956f|[[Tropical and subtropical moist broadleaf forests|monsoon forest]]}}
+|width="20%"|
+{{legend|#95583c|[[Desert|arid desert]]}}
+{{legend|#b97553|[[xeric shrubland]]}}
+{{legend|#9b8447|[[Steppe|dry steppe]]}}
+{{legend|#DAB17D|[[xeric shrubland|Semiarid desert]]}}
+|width="20%"|
+{{legend|#cdc954|[[Tropical and subtropical grasslands, savannas, and shrublands|grass savanna]]}}
+{{legend|#aca719|[[Temperate grasslands, savannas, and shrublands|tree savanna]]}}
+{{legend|#768e34|[[subtropical dry forest]]}}
+{{legend|#005c00|[[tropical rainforest]]}}
+|width="20%"|
+{{legend|#a7bddb|[[alpine tundra]]}}
+{{legend|#3c9798|[[Temperate coniferous forests|mountain forest]]}}
+|}
+]]
+
+===Freshwater biomes===
+
+[[Image:Ocean drainage.png|800px|center|Major [[continental divide]]s, showing drainage into the major oceans and seas of the world&nbsp;– grey areas are [[endorheic]] basins that do not drain to the ocean.]]
+
+The drainage basins of the principal oceans and seas of the world are marked by continental divides. The grey areas are [[endorheic basin]]s that do not drain to the ocean.
+
+==See also==
+{{Portal|Environment|Ecology|Earth sciences|Biology|Sustainable development}}
+{{div col|2}}
+*[[Biomics]]
+*[[Ecosystem]]
+*[[Ecotope]]
+*[[Climate classification]]
+*[[Life zones]]
+*[[Natural environment]]
+{{Div col end}}
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Wiktionary|Biome}}
+*[http://mbgnet.mobot.org Biomes of the world (Missouri Botanic Garden)]
+*[http://www.theglobaleducationproject.org/earth/global-ecology.php#3 Global Currents and Terrestrial Biomes Map]
+* [http://www.worldbiomes.com/ WorldBiomes.com] is a site covering the 5 principal world biome types: aquatic, desert, forest, grasslands, and tundra.
+*  UWSP's online textbook ''The Physical Environment'':&nbsp;– [http://www.uwsp.edu/geo/faculty/ritter/geog101/textbook/biomes/outline.html ''Earth Biomes'']
+* Panda.org's [http://wwf.panda.org/about_our_earth/ecoregions/about/habitat_types/ Habitats]&nbsp;– describes the 14 major terrestrial habitats, 7 major freshwater habitats, and 5 major marine habitats.
+* Panda.org's [http://wwf.panda.org/about_our_earth/ecoregions/about/habitat_types/habitats/ Habitats Simplified]&nbsp;– provides simplified explanations for 10 major terrestrial and aquatic habitat types.
+* UCMP Berkeley's [http://www.ucmp.berkeley.edu/glossary/gloss5/biome/ The World's Biomes]&nbsp;– provides lists of characteristics for some biomes and measurements of climate statistics.
+* Gale/Cengage has an excellent [http://www.galeschools.com/environment/biomes/overview.htm Biome Overview] of terrestrial, aquatic, and man-made biomes with a particular focus on trees native to each, and has detailed descriptions of desert, rain forest, and wetland biomes.
+* NASA's Earth Observatory [http://earthobservatory.nasa.gov/Experiments/Biome/ Mission: Biomes] gives an [[wikt:exemplar|exemplar]] of each biome that is described in detail and provides scientific measurements of the [[climate]] statistics that define each biome.
+{{biomes}}
+
+[[Category:Biomes| ]]
+[[Category:Habitats]]

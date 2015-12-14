@@ -1,0 +1,344 @@
+{{Timecell}}
+[[File:Chinese Zodiac Gregorian calendar.jpg|thumb|A combination calendar, with Gregorian system below and a [[Chinese zodiac]] chart above.]]
+
+The '''Chinese calendar'''  is a [[lunisolar calendar]] which arranges the year, month and day number upon the astronomical date. It is used for traditional activities in China and overseas Chinese communities. It determines the date for the Chinese traditional holidays, and instructs Chinese people in selecting the lucky day of a wedding or funeral, for opening a venture, or a relocation.
+
+In the Chinese calendar, the days begin and end at midnight. The months begin on the day with the [[new moon|dark (new) moon]]. The years begin with the dark moon near the midpoint between [[winter solstice]] and [[spring equinox]]. The [[solar term]]s are the important components of the Chinese calendar. There are one or two, and occasionally three, solar terms within a month.
+
+The present Chinese calendar is the product of evolution. Many astronomical and seasonal factors were added by ancient scientists, and people can reckon the date of natural phenomena such as the moon phase and tide upon the Chinese calendar. The Chinese calendar has over 100 versions, and the characteristics of these versions reflect the evolutionary route of the Chinese calendar. Like Chinese characters, these versions of Chinese calendar are adopted throughout the Sinosphere. In Korea, Vietnam, and the Ryukyu Islands, the Chinese calendar was adopted completely. In Japan, the Chinese calendar was used before the Edo period, and the later Japanese calendar used the algorithm of the Chinese calendar.
+
+The official calendar in China is the [[Gregorian calendar]], but the traditional Chinese calendar plays an important role there. The official name of the Chinese calendar is the ''Rural Calendar'' ({{zh|t=農曆|s=农历|p=Nónglì}}), but people often refer to the Chinese calendar with other names, such as the ''Former Calendar'' ({{zh|t=舊曆|s=旧历|p=Jiùlì}}), the ''Traditional Calendar'' ({{zh|t=老曆|s=老历|p=Lǎolì}}), or the ''[[Yin and yang|Yin]] Calendar'' ({{zh|t=陰曆|s=阴历|p=Yīnlì}}).
+
+==Structure==
+
+===Codes===
+Several coding systems are used for some special circumstances in order to avoid ambiguity, such as continuous day or year count. 
+*The [[heavenly stems]] is a decimal system. The characters of the heavenly stems are: ''jiǎ, yǐ, bǐng, dīng, wù, jǐ, gēng, xīn, rén, guì'' ({{zh|c=甲乙丙丁戊己庚辛壬癸}}).
+*The [[earthly branches]] is a duodecimal system. The characters of the earthly branches are: ''zǐ, chǒu, yín, mǎo, chén, sì, wǔ, wèi, shēn, yǒu, xū, hài'' ({{zh|c=子丑寅卯辰巳午未申酉戌亥}}). The earthly branches are used to mark the ''shí'' and climate terms usually.
+*The [[Sexagenary cycle|stem-branches]] is a sexagesimal system. The [[heavenly stems]] and [[earthly branches]] match together and form [[Sexagenary cycle|stem-branches]]. The stem-branches are used to mark the continuous day and year.
+
+===Day, hour, and week===
+In the Chinese calendar, the days begin at midnight and end at the next midnight, but people tend to regard the days as beginning at dawn.
+
+Currently, the time in days are scaled with hour-minute-second system. <br />In ancient China, the time is divided according to either the ''shí-kè'' and ''gēng-diǎn'' systems. There are 10 ''gēng'' or 12 ''shí'', 60 ''dián'' or 100 ''kè'', 6000 ''fēn'' in a day. For example: {{Chinese Time}}
+
+Currently, the days are grouped into 7-day weeks and the weekdays are marked with the ordinal number except Sunday.
+
+{| class="wikitable"
+|+ Chinese Weekdays
+|-
+|[[Chinese language|Chinese]]||星期日 Xīngqí rì||星期一 Xīngqí yī ||星期二 Xīngqí èr||星期三 Xīngqí sān ||星期四 Xīngqí sì||星期五 Xīngqí wǔ||星期六 Xīngqí liù
+|-
+|Meaning||Sun day || First day ||Second day  ||Third day ||Fourth day||Fifth day||Sixth day 
+|-
+| [[Japanese language|Japanese]]
+| [[:ja:日曜日|日曜日]]  ''Nichi yōbi''|| [[:ja:月曜日|月曜日]]  ''Getsu yōbi''|| [[:ja:火曜日|火曜日]]  ''Ka yōbi''|| [[:ja:水曜日|水曜日]]  ''Sui yōbi''|| [[:ja:木曜日|木曜日]]  ''Moku yōbi''|| [[:ja:金曜日|金曜日]]  ''Kin yōbi''|| [[:ja:土曜日|土曜日]]  ''Do yōbi''
+|-
+| [[Korean language|Korean]] ([[Hangul]])
+| [[:ko:일요일|일요일]]  ''Il yoil''|| [[:ko:월요일|월요일]]  ''Wol yoil''|| [[:ko:화요일|화요일]]  ''Hwa yoil''|| [[:ko:수요일|수요일]]  ''Su yoil''|| [[:ko:목요일|목요일]]  ''Mog yoil''|| [[:ko:금요일|금요일]]  ''Geum yoil''|| [[:ko:토요일|토요일]]  ''To yoil''
+|-
+|Meaning||Sol day|| Luna day||Mars day||Mercury day|| Jupiter day || Venus day|| Saturn day
+|-
+|English||Sunday||Monday||Tuesday||Wednesday||Thursday||Friday||Saturday
+|}
+
+In ancient China, the days were grouped into 60-day weeks with the stem-branches.
+
+===Month===
+In the Chinese calendar, the months begin on the day of the dark moon, and end on the day before the next dark moon. There are 29 or 30 days in a month, but the month length is float. The month with 30 days is called the long month ({{zh|c=大月}}), and the month with 29 days is called the short month ({{zh|c=小月}}). The days in the months are marked with the ordinal number from 1. However, in the Chinese calendar, the dates are normalized to two characters, such as ''Chūyī'' ({{zh|c=初一}}), ''Shíwǔ'' ({{zh|c=十五}}), ''Niànsān'' ({{zh|c=廿三}}).
+
+As a practice, the months are divided into 3 ''xún'' ({{zh|c=旬}}). The first 10 days is the ''early xún'' ({{zh|c=上旬}}), the middle 10 days is the ''mid xún'' ({{zh|c=中旬}}), and the last 9 or 10 days is the ''late xún'' ({{zh|c=下旬}}). The ten-day week was used in antiquity (reportedly as early as in the Bronze Age [[Xia Dynasty]]).<ref>
+{{cite book
+| author = 海上
+| title = 《中國人的歲時文化》
+| publisher = 岳麓書社
+| year = 2005
+| pages = 195
+| isbn = 7-80665-620-0}}</ref> The law in the [[Han Dynasty]] (206 BC – AD 220) required officials of the empire to rest every five days, called ''mu'' (沐), while it was changed into 10 days in the [[Tang Dynasty]] (AD 618 – 907), called ''huan'' (澣/浣) or ''xún'' (旬). 
+Months were almost three weeks long (alternating 29 and 30 days to keep in line with the [[lunation]]). The weeks were labelled ''shàng xún'' (上旬), ''zhōng xún'' (中旬), and ''xià xún'' (下旬) which mean roughly "early", "mid" and "late" week. Markets in Japan followed the Chinese ''jun'' (旬) system; see [[Japanese calendar]]. In Korea, it was called "Sun" (순,旬).
+
+====Relation between moon phases and dates====
+The first day of each month is the day with dark moon.
+In the 7th or 8th day of each month, the first quarter moon is visible in the afternoon and early evening. In the 15th or 16th day of each month, the full moon is visible all night, and in the 22nd or 23rd day of each month, the last quarter moon is visible late at night and in the morning .
+
+===Solar year and solar term===
+{{See also|solar term}}
+
+In the Chinese calendar, the [[tropical year|solar year]] ({{zh|s=岁|t=歲|p=Suì}}) is the time from a [[winter solstice]] to the next winter solstice. The solar year is divided into 24 solar terms which corresponding to 15° along the ecliptic each. Two solar terms are associated with each climate term. The beginning of the first term in each climate term is labelled "pre-climate" ({{zh|s=节气|t=節氣|p=Jiéqì}}), and the beginning of the last term in each couple is labelled "mid-climate" ({{zh|s=中气|t=中氣|p=Zhōngqì}}).
+{| class="wikitable" style="width:100%" border=0
+|+ The ecliptic position of each solar term
+|-
+! Climate Term !! Solar term !! Date || Longitude || Zodiac!! Climate Term !! Solar term !! Date !! Longitude !! Zodiac
+|-
+! rowspan="2" | ''Yín'' (寅)<br />Early Spring
+| '''VC''', Vernal Commences || Feb 3-5 || 315°|| Aquarius
+! rowspan="2" | ''Shēn'' (申)<br />Early Autumn
+| '''AC''', Autumn Commences || Aug 7-9 || 135°|| Leo
+|-
+| '''VS''', Vernal Showers || Feb 18-20 || 330°|| rowspan="2" | 330-360°<br />Pisces|| '''EH''', End of Heat || Aug 22-24 || 150°|| rowspan="2" | 150-180°<br />Virgo
+|-
+! rowspan="2" | ''Mǎo'' (卯)<br />Mid Spring
+| '''IA''', Insects Waken || Mar 5-7 || 345°
+! rowspan="2" | ''Yǒu'' (酉)<br />Mid Autumn
+| '''WD''', White Dew || Sep 7-9 || 165°
+|-
+| '''VE''', Vernal Equinox ||Mar 20-22 || 360°/0°|| rowspan="2" | 0-30°<br />Aries|| '''AE''', Autumnal Equinox || Sep 22-24 || 180°|| rowspan="2" | 180-210°<br />Libra
+|-
+! rowspan="2" | ''Chén'' (辰)<br />Late Spring
+| '''BC''', Bright and Clear || Apr 4-6 || 15°
+! rowspan="2" | ''Xū'' (戌)<br />Late Autumn
+| '''CD''', Cold Dew ||Oct 8-9 || 195°
+|-
+| '''CR''', Corn Rain || Apr 19-21 || 30°|| rowspan="2" | 30-60°<br />Taurus|| '''FF''', First Frost ||Oct 23-24 || 210°|| rowspan="2" | 210-240°<br />Scorpio
+|-
+! rowspan="2" | ''Sì'' (巳)<br />Early Summer
+| '''SC''', Summer Commences || May 5–7 || 45°
+! rowspan="2" | ''Hài'' (亥)<br />Early Winter
+| '''WC''',Winter Commences|| Nov 7-8 || 225°
+|-
+| '''CF''', Corn Forms || May 20–22 || 60°|| rowspan="2" | 60-90°<br />Gemini|| '''LS''', Light Snow || Nov 22-23 || 240°|| rowspan="2" | 240-270°<br />Sagittarius
+|-
+! rowspan="2" | ''Wǔ'' (午)<br />Mid Summer
+| '''CE''', Corn on Ear || Jun 5-7 || 75°
+! rowspan="2" | ''Zǐ'' (子)<br />Mid Winter
+| '''HS''', Heavy Snow || Dec 6-8 || 255° 
+|-
+| '''SS''', Summer Solstice || Jun 21-22 || 90°|| rowspan="2" | 90-120°<br />Cancer|| '''WS''', Winter Solstice || Dec 21-23 || 270°|| rowspan="2" | 270-300°<br />Capricornus
+|-
+! rowspan="2" | ''Wèi'' (未)<br />Late Summer
+| '''MH''', Moderate Heat || Jul 6-8 || 105°
+! rowspan="2" | ''Chǒu'' (丑)<br />Late Winter
+| '''MC''', Moderate Cold || Jan 5-7 || 285°
+|-
+| '''GH''', Great Heat || Jul 22-24 || 120°|| Leo|| '''GC''', Great Cold || Jan 20-21 || 300°|| Aquarius
+|}
+In a solar year, there are 11 or 12 whole months. The year with 11 whole months is a common year. The year with 12 whole months is a leap year, and the first month without a mid-climate is the intercalary month. <br/>The months in the solar year are numbered with the ordinal number from 0, except the intercalary month. The intercalary month follows the number of the previous month.
+
+====Relations between solar terms and months====
+The Chinese use an astronomical calendar, and the years and months are irregular. But, there are some rhythms for the laws of astronomy.
+*In general, the month number corresponds the climate term. 
+:1. The pre-climates are always within 15 days before or after the first day of the corresponding months.  
+:the Moderate Cold is always within 15 days before or after 1<sub>st</sub> of the 0<sub>th</sub> month(always ''Làyuè''), the Vernal Commences is always within 15 days before or after 1<sub>st</sub> of the 1<sub>st</sub> month(''Zhēngyuè''),
+:the Insects Waken is always within 15 days before or after 1<sub>st</sub> of the 2<sub>nd</sub> month(''Èryuè'') the Bright and Clear is always within 15 days before or after 1<sub>st</sub> of the 3<sub>rd</sub> month(''Sānyuè''),
+:the Summer Commences is always within 15 days before or after 1<sub>st</sub> of the 4<sub>th</sub> month(''Sìyuè'') the Corn on Ear is always within 15 days before or after 1<sub>st</sub> of the 5<sub>th</sub> month(''Wǔyuè''),
+:the Moderate Heat is always within 15 days before or after 1<sub>st</sub> of the <sub>6th</sub> month(''Liùyuè''), the Autumn Commences is always within 15 days before or after 1<sub>st</sub> of the 7<sub>th</sub> month(''Qīyuè''),
+:the White Dew is always within 15 days before or after 1<sub>st</sub> of the 8<sub>th</sub> month(''Bāyuè'') the Cold Dew is always within 15 days before or after 1<sub>st</sub> of the 9<sub>th</sub> month(''Jiǔyuè''),
+:the Winter Commences is always within 15 days before or after 1<sub>st</sub> of the 10<sub>th</sub> month(''Shíyuè''), the Heavy Snow is always within 15 days before or after 1<sub>st</sub> of the month with the winter solstice(''Shíyīyuè'').
+:2. The mid-climates are always within the corresponding months.
+:the Great Cold is always within ''Làyuè'', the Vernal Showers is always within ''Zhēngyuè'' the Vernal Equinox is always within ''Èryuè'',the Corn Rain is always within ''Sānyuè'', 
+:the Corn Forms is always within ''Sìyuè'', the Summer Solstice is always within ''Wǔyuè'', the Moderate Heat is always within ''Liùyuè'', the End of Heat is always within ''Qīyuè'', 
+:the Autumnal Equinox is always within ''Bāyuè'', the First Frost is always within ''Jiǔyuè'', the Light Snow is always within ''Shíyuè'', and the Winter solstice is bound to ''Shíyīyuè''.
+*The Chinese calendar follows the Metonic cycle in general. 
+:1. The pre-climates and mid-climates are about at the same date in the Chinese calendar 19 years later.
+:For example, the vernal commences is about at the New Year's Day of 1905,1924, 1943, ...; and the winter solstice is about at ''Shíyīyuè 1st'' of 2014, 2033, 2052,....
+:2. A representative sequence of common and leap years is lcc lcc lc lcc lcc lcc lc, and intercalary months are about following the 7<sub>th</sub>, 5<sub>th</sub>, 3<sub>rd</sub>, 8<sub>th</sub>, 6<sub>th</sub>, 4<sub>th</sub>, 2<sub>nd</sub> month in each section. 
+:The intercalary month of the leap year between 1854 and 2100 in the Chinese calendar is list as below:
+{| class="wikitable" style=width:100%
+|-align=center
+|Metonic cycle
+|colspan="2"|1854~1872||colspan="2"|1873~1891||colspan="2"|1892~1910||colspan="2"|1911~1929||colspan="2"|1930~1948||colspan="2"|1949~1967||colspan="2"|1968~1986||colspan="2"|1987~2005||colspan="2"|2006~2024||colspan="2"|2025~2043||colspan="2"|2044~2062||colspan="2"|2063~2081||colspan="2"|2082~2100
+|-align=center
+|leap 6/7||1854||7||1873||6||1892||6||1911||6||1930||6||1949||7||1968||7||1987||6||2006||7||2025||6||2044||7||2063||7||2082||7
+|-align=center
+|leap 5||1857||5||1876||5||1895||5||1914||5||1933||5||1952||5||1971||5||1990||5||2009||5||2028||5||2047||5||2066||5||2085||5
+|-align=center
+|leap 3/4||1860||3||1879||3||1898||3||1917||style="color:red"|2||1936||3||1955||3||1974||4||1993||3||2012||4||2031||3||2050||3||2069||4||2088||4
+|-align=center
+|leap 7/8||1862||8||1881||7||1900||8||1919||7||1938||7||1957||8||1976||8||1995||8|||2014||style="color:red"|9||2033||style="color:red"|11||2052||8||2071||8||2090||8
+|-align=center
+|leap 5/6||1865||5||1884||5||1903||5||1922||5||1941||6||1960||6||1979||6||1998||5||2017||6||2036||6||2055||6||2074||6||2093||6
+|-align=center
+|leap 4||1868||4||1887||4||1906||4||1925||4||1944||4||1963||4||1982||4||2001||4||2020||4||2039||style="color:red"|5||2058||4||2077||4||2096||4
+|-align=center
+|leap 2/3 ||style="color:red"|1870||style="color:red"|10||1890||2||1909||2||1928||2||1947||2||1966||3||style="color:red"|1984||style="color:red"|10||2004||3||2023||2||2042||2||2061||3||2080||3||2099||2
+|}
+
+===Year===
+In the Chinese calendar, the years begin on the 1st day of the 1st month, and the first and last month are named as ''Zhēngyuè''({{zh|c=正月}}) and ''Làyuè''({{zh|s=腊月|t=臘月}}) specially. The stem-branches are used to count the year, and according to usual practice, each branches corresponds an animal zodiac. people used to call the animal zodiac. After the era system was abolished, the stem-branches is the only formal year numbering method.
+
+There are 12 or 13 months in a year. The years with 12 months are common years, there are 353, 354 or 355 days in the common year. The years with 13 months are leap years, there are 383, 384 or 385 days in the leap year. For example, the year from ''{{Chinese Traditional Year}}'' is a ''{{Chinese Traditional Year|sb}} or {{Chinese Traditional Year|pz}} ({{Chinese Traditional Year|pzl}})'', {{Chinese Traditional Year|remark}}, {{Chinese Traditional Year|l}} long.
+
+====Age recognition in China====
+In China, age for official use is based on the Gregorian calendar. For traditional use, age is based on the Chinese calendar. From birthday to the end of the year, it's one year old. After each New Year's Eve, add one year. For example, if one's birthday is ''Làyuè'' 29th 2013, he is 2 years old at ''Zhēngyuè'' 1st 2014. On the other hand, people say months old instead of years old, if someone is too young. It's that the age sequence is "1 month old, 2 months old, ... 10 months old, 2 years old, 3 years old..."
+
+After the actual age ({{zh|t=實歲|s=实岁}}) was introduced into China, the Chinese traditional age was referred to as the nominal age ({{zh|t=虛歲|s=虚岁}}). Divided the year into two halves by the birthday in the Chinese calendar,<ref>The birthday is the day in each year that have the same date as the one on which someone was born. It's easy to confirm the birthday in the Chinese calendar for most people. But, if someone was born on the 30<sub>th</sub> of a month, his birthday is the last day of that month, and if someone is born in an intercalary month, his birthday is the day with the same date in the common month of the intercalary month.</ref> the nominal age is 2 older than the actual age in the first half, and the nominal age is 1 older than the actual age in the second half ({{zh|s=前半年前虚两岁,后半年虚一岁|t=前半年前虛兩歲,後半年虛一歲}}).<ref>The Gregorian calendar is a solar calendar and the Chinese calendar is a lunisolar calendar, and the birthday in the Chinese calendar is not same as in the Gregorian calendar always. so, there's a bias of +/-1 between the actual age in the Chinese calendar and in the Gregorian calendar. Thus, the nominal age in the Chinese calendar is 0~3 older than the actual age in the Gregorian calendar.</ref>
+
+====Year number system====
+*Era system
+In the ancient system, the years are numbered from 1 when the new emperor ascended the throne or the authority released the reign title. The first reign title is ''Jiànyuán'' ({{zh|t=建元|s=建元}}, from 140 BC), the last reign title is ''Xuāntǒng'' ({{zh|s=宣统|t=宣統}}, from 1908). The era system was abolished in 1910. The Christian era or [[Republic of China (1912–49)|Republican era]] took over to express the year in the Chinese calendar.
+
+On the other hand, the Christian era is simulated in the 20th century, such as:<br />
+
+Anno Huángdì ({{zh|t=黄帝紀年}}), upon the beginning of the reign of the [[Yellow Emperor]], 2698+AD=AH<br />
+
+Anno Yáo ({{zh|t=唐尧紀年}}), upon the beginning of the reign of [[Emperor Yao]], 2156+AD=AY<br />
+
+Anno Gònghé ({{zh|t=共和紀年}}), upon the beginning of the [[Gonghe Regency]], 841+AD=AG<br />
+
+Anno Confucius({{zh|t=孔子紀年}}), upon the birth year of [[Confucius]], 551+AD=AC<br />
+
+Anno Unity    ({{zh|t=統一紀年}}), upon the beginning of the reign of [[Qin Shi Huang]], 221+AD=AU<br />
+
+Generally, no reference date is widely accepted. On January 2, 1912, [[Sun Yat-sen]] declared a change to the official calendar and era. In his declaration, January 1, 1912 is called ''Shíyīyuè 13th, 4609 AH'' which implied an epoch of 2698 BC. The implication was adopted by many [[overseas Chinese]] communities outside [[Southeast Asia]] such as [[Chinatown, San Francisco|San Francisco's Chinatown]].<ref>Aslaksen, p.38.</ref>
+
+In the 17th century, the [[Jesuit China missions|Jesuits]] tried to determine what year should be considered the epoch of the Han calendar. In his ''Sinicae historiae decas prima'' (first published in [[Munich]] in 1658), [[Martino Martini]] (1614–1661) dated the ascension of the [[Yellow Emperor]] to 2697 BC, but started the Chinese calendar with the reign of [[Fuxi]], which he claimed started in 2952 BC. [[Philippe Couplet]]'s (1623–1693) ''Chronological table of Chinese monarchs'' (''Tabula chronologica monarchiae sinicae''; 1686) also gave the same date for the Yellow Emperor. The Jesuits' dates provoked great interest in Europe, where they were used for comparisons with Biblical chronology. Modern Chinese chronology has generally accepted Martini's dates, except that it usually places the reign of the Yellow Emperor in 2698 BC and omits the Yellow Emperor's predecessors Fuxi and [[Shennong]], who are considered "too legendary to include".
+
+Starting in 1903, radical publications started using the projected date of birth of the [[Yellow Emperor]] as the first year of the Han calendar. Different newspapers and magazines proposed different dates. [[Jiangsu]], for example, counted 1905 as year 4396 (use an epoch of 2491 BC), whereas the newspaper ''[[Ming Pao]]'' ({{zh|t=明報|s=明报}}) reckoned 1905 as 4603 (use an epoch of 2698 BC). [[Liu Shipei]] ({{lang|zh-t|劉師培}}; 1884–1919) created the Yellow Emperor Calendar, now often used to calculate the date, to show the unbroken continuity of the Han race and Han culture from earliest times. Liu's calendar started with the birth of the Yellow Emperor, which he determined to be 2711 BC. There is no evidence that this calendar was used before the 20th century.{{sfnb|Cohen|2012| p = 1, 4}} Liu calculated that the 1900 international expedition sent by the [[Eight-Nation Alliance]] to suppress the [[Boxer Rebellion]] entered [[Beijing]] in the 4611th year of the Yellow Emperor.
+
+*Calendric epoch
+There is an epoch for each version of the Chinese calendar, which is called ''Lìyuán'' ({{zh|t=曆元|s=历元}}). The epoch is the optimal origin of the calendar, and it's a ''Jiǎzǐrì'', the first day of a lunar month, and the dark moon and solstice are just at the midnight ({{zh|t=日得甲子夜半朔旦冬至|s=日得甲子夜半朔旦冬至}}). And tracing back to a perfect day, such as that day with the magical star sign, there's a supreme epoch ({{zh|t=上元|s=上元|p=shàngyuán}}). The continuous year based on the supreme epoch is ''shàngyuán jīnián'' ({{zh|t=上元積年|s=上元积年}}). More and more factors were added into the supreme epoch, and the ''shàngyuán jīnián'' became a huge number. So, the supreme epoch and ''shàngyuán jīnián'' were neglected from the ''Shòushí'' calendar. 
+
+*''Yuán-Huì-Yùn-Shì'' system
+[[Shao Yong]] ({{zh|t=邵雍|s=邵雍}} 1011–1077), a philosopher, cosmologist, poet, and historian who greatly influenced the development of [[Neo-Confucianism]] in China, introduced a timing system in his ''The Ultimate which Manages the World'' ({{zh|s=皇极经世|t=皇極經世|p=Huángjíjīngshì}})
+In his time system, 1 ''yuán'' ({{zh|t=元|s=元}}), which contains 12'9600 years, is a lifecycle of the world.  Each ''yuán'' is divided into 12 ''huì'' ({{zh|s=会|t=會}}).  Each ''huì'' is divided into 30 ''yùn'' ({{zh|s=运|t=運}}), and each ''yùn'' is divided into 12 ''shì'' ({{zh|s=世|t=世}}).  So, each ''shì'' is equivalent to 30 years.  The ''yuán-huì-yùn-shì'' corresponds with ''nián-yuè-rì-shí''.  So the ''yuán-huì-yùn-shì'' is called the ''major tend'' or the ''numbers of the heaven'', and the ''nián-yuè-rì-shí'' is called the ''minor tend'' or the ''numbers of the earth''.
+
+The ''minor tend'' of the birth is adapted by people for predicting destiny or fate. The numbers of ''nián-yuè-rì-shí'' are encoded with stem-branches and show a form of ''Bāzì''. The ''nián-yuè-rì-shí'' are called the [[Four Pillars of Destiny]]. For example, the ''Bāzì'' of the [[Qianlong Emperor]] is ''Xīnmǎo, Dīngyǒu, Gēngwǔ, Bǐngzǐ'' ({{lang|zh|辛卯、丁酉、庚午、丙子}}). Shào{{'s}} ''Huángjíjīngshì'' recorded the history of the timing system from the first year of the 180<sub>th</sub> ''yùn'' or 2149<sub>th</sub> ''shì'' (''HYSN 0630-0101'', 2577 BC) and marked the year with the reign title from the ''Jiǎchénnián'' of the 2156<sub>th</sub> ''shì'' (''HYSN 0630-0811'', 2357 BC, ''Tángyáo 1'', {{zh|t=唐堯元年|s=唐尧元年}}). According to this timing system, 2014-1-31 is ''HYSN/YR 0712-1001/0101''.
+
+The table below shows the kinds of year number system along with correspondences to the Western (Gregorian) calendar. Alternatively, see [[Chinese calendar correspondence table|this larger table]] of the full 60-year cycle.
+{|class="wikitable"
+|-
+!Year in cycle
+!s,b
+!Gānzhī (干支)
+!Year of the...
+!AD<sup>[1]</sup>
+![[Minguo calendar|ROC]]<sup>[1]</sup>
+!HYSN<sup>[2]</sup>
+!AH<sup>[3]</sup>
+!Begins
+|-align=right
+|27||7,3||gēngyín (庚寅)||Metal [[Tiger (zodiac)|Tiger]]||2010||99||0712-0927||4707||February 14
+|-align=right
+|28||8,4||xīnmǎo (辛卯)||Metal [[Rabbit (zodiac)|Rabbit]]||2011||100||0712-0928||4708||February 3
+|-align=right
+|29||9,5||rénchén (壬辰)||Water [[Dragon (zodiac)|Dragon]]||2012||101||0712-0929||4709||January 23
+|-align=right
+|30||10,6||guǐsì (癸巳)||Water [[Snake (zodiac)|Snake]]||2013||102||0712-0930||4710||February 10
+|-align=right
+|31||1,7||jiǎwǔ (甲午)||Wood [[Horse (zodiac)|Horse]]||2014||103||0712-1001||4711||January 31
+|-style bgcolor=grey; align=right
+|32||2,8||yǐwèi (乙未)||Wood [[Goat (zodiac)|Goat]]||2015||104||0712-1002||4712||February 19
+|-align=right
+|33||3,9||bǐngshēn (丙申)||Fire [[Monkey (zodiac)|Monkey]]||2016||105||0712-1003||4713||February 8
+|-align=right
+|34||4,10||dīngyǒu (丁酉)||Fire [[Rooster (zodiac)|Rooster]]||2017||106||0712-1004||4714||January 28
+|-align=right
+|35||5,11||wùxū (戊戌)||Earth [[Dog (zodiac)|Dog]]||2018||107||0712-1005||4715||February 16
+|-align=right
+|36||6,12||jǐhài (己亥)||Earth [[Pig (zodiac)|Pig]]||2019||108||0712-1006||4716||February 5
+|}
+
+<sup>'''1'''</sup> As of the beginning of the year.<br>
+<sup>'''2'''</sup> Timestamp according to ''Huángjíjīngshì'', as a format of ''Huìyùn-Shìnián''.<br>
+<sup>'''3'''</sup> ''Huángdì'' era, using an epoch (year 1) of 2697 BC. Subtract 60 if using an epoch of 2637 BC. Add 1 if using an epoch of 2698 BC.
+
+===Phenology===
+:The '''plum rains season''' is the rainy season during the late spring and early summer. The '''plum rains season''' starts on the first ''Bǐngrì'' after the Corn on Ear, and ends on the first ''Wèirì'' after the Moderate Heat.
+:The '''[[dog days|Sanfu days]]''' are the three sections from the first ''Gēng-day'' after the summer solstice. The first section is 10 days long, and named the ''fore fu'' ({{zh|c=初伏|p=chūfú}}). The second section is 10 or 20 days long, and named the ''mid fu'' ({{zh|c=中伏|p=zhōngfú}}). The last section is 10 days long from the first ''Gēng-day'' after autumn commences, and named the ''last fu'' ({{zh|c=末伏|p=mòfú}}).
+:The '''Shujiu cold days''' are the nine sections from the winter solstice. Each section is 9 days long. The ''shǔjǐu'' are the coldest days, and named with an ordinal number, such as ''Sìjǐu'' ({{zh|c=四九}}).
+:The '''forecast of drought'''({{zh|s=分龙|t=分龍}}) is the key day which forecast if it's a drought year. the day is the first ''Chénrì'' after the Summer Solstice.
+
+===Holidays===
+In the Sinosphere, the traditional festivals are upon the Chinese calendar (or local version of the Chinese calendar).
+*Major traditional holidays upon the date
+:The '''Preliminary Eve''' ({{zh|c=小年}}) is ''Làyuè 23<sub>rd</sub>'' or ''24<sub>th</sub>''. The following preliminary eve is at ''{{ctime:x|2015|12|23}}'' in north China, and at ''{{ctime:x|2015|12|24}}'' in south China.
+:The '''[[Chinese New Year|New Year's Eve]]''' ({{zh|c=除夕}}) is the last day of the year, ''Làyuè 29<sub>th</sub>'' or ''30<sub>th</sub>''. The following New Year's Eve is at ''{{ctime:x|2016|1|0}}'', which is a statutory holiday.
+:The '''[[Chinese New Year|New Year's Day]]''' ({{zh|t=春節|s=春节}}) is  ''Zhēngyuè 1<sub>st</sub>''.The following New Year's Day is at ''{{ctime:x|2016|1|1}}'', which is a statutory holiday.
+:The '''[[Lantern Festival|Yuanxiao]]''' ({{zh|c=元宵}}) is ''Zhēngyuè 15<sub>th</sub>''. The following Yuanxiao is at ''{{ctime:x|2015|1|15}}''
+:The '''[[Shangsi Festival|Shangsi]]''' ({{zh|c=上巳}}) is ''Sānyuè 3<sub>rd</sub>''. The following Shangsi is at ''{{ctime:x|2015|3|3}}''
+:The '''[[Buddha's Birthday]]''' ({{zh|t=佛誕|s=佛诞}}) is ''Sìyuè 8<sub>th</sub>''. The following Buddha's Birthday is at ''{{ctime:x|2015|4|8}}''
+:The '''[[Dragon Boat Festival|Duanwu]]''' ({{zh|c=端午}}) is ''Wǔyuè 5<sub>th</sub>''. The following Duanwu is at ''{{ctime:x|2015|5|5}}'', which is a statutory holiday.
+:The  '''[[Qi Xi|Qixi]]''' ({{zh|c=七夕}}) is ''Qīyuè 7<sub>th</sub>''. The following Qixi is at ''{{ctime:x|2015|7|7}}
+:The '''[[Ghost Festival|Zhongyuan]]''' ({{zh|c=中元}}) is ''Qīyuè 15<sub>th</sub>''. The following Zhongyuan is at ''{{ctime:x|2015|7|15}}''
+:The '''[[Mid-Autumn Festival|Mid-autumn]]''' ({{zh|c=中秋}}) is ''Bāyuè 15<sub>th</sub>''. The following Mid-autumn is at ''{{ctime:x|2015|8|15}}'', which is a statutory holiday.
+:The '''[[Double Ninth Festival|Dual-yang]]''' ({{zh|t=重陽|s=重阳}})  is ''Jiǔyuè 9<sub>th</sub>''. The following Dual-yang is at ''{{ctime:x|2015|9|9}}''
+:The '''[[Spirit Festival|Xiayuan]]''' ({{zh|c=下元}}) is ''Shíyuè 15<sub>th</sub>''. The following Xiayuan is at ''{{ctime:x|2015|10|15}}''
+:The '''[[Laba Festival]]''' ({{zh|t=臘八節|s=腊八节}}) is ''Làyuè 8<sub>th</sub>''. The following Laba Festival is at ''{{ctime:x|2015|12|8}}''
+*Major traditional holidays upon solar term
+:The '''[[Cold Food Festival|Hanshi]]''' ({{zh|c=寒食}}) is the 105<sub>th</sub> day after the Winter Solstice. The following Hanshi is ''April 4'' or ''Éryuè 16<sub>th</sub>, 2015''
+:The '''[[Qingming Festival]]''' ({{zh|c=清明}}) is just on the day of the Bright and Clear. The following Qingming Festival is ''April 5'' or ''Éryuè 17<sub>th</sub>, 2015'', which is a statutory holiday.
+:The '''[[Winter Solstice]]''' ({{zh|c=冬至}}) is just on the day of the Winter Solstice. The following Winter Solstice is ''December 22'' or ''Shíyīyuè 12<sub>th</sub>, 2015''.
+:The '''Vernal/Autumn Sacrifice''' ({{zh|c=春社/秋社}}) is the fifth ''Wùrì'' after Vernal/Autumn Commences.
+*The traditional business festivals
+:In the old days, merchants used to open their stores from ''Zhēngyuè 5<sub>th</sub>'', and host a prayer service on that day. ''Zhēngyuè 5<sub>th</sub>'' is called God of Wealth's Day, and the prayer service is called ''God of Wealth is Welcome''.
+:In the Fujian and Taiwan areas, businesses host a year-end dinner for employees at ''Làyuè 16<sub>th</sub>''. ''Làyuè 16<sub>th</sub>'' is called ''Weiya'' ({{zh|c=尾牙}}).
+
+==History==
+
+===Earlier Chinese calendars===
+Before the Spring and Autumn period, the Chinese Calendars were solar calendars. According to literature, the first version was the five-phases calendar ({{zh|s=五行历|t=五行曆}}). In the five-phases calendar, the year begins at the Vernal Commences, and consists of 10 months and a transition. Each month is 36 days long, and the transitions are 5 or 6 days long. The months are named with the heavenly stems, and a couple of months form a phase. Phases are named with [[Wu Xing|five-phases]]. The second version is the four-seasons calendar ({{zh|s=四时八节历|t=四時八節曆}}). In the four-seasons calendar, the year begins at the Vernal Commences, and consists of 12 months and a year day.
+
+===Ancient Chinese calendars===
+*Pre-[[Qin dynasty]] calendars
+During the [[Warring States period]], the primitive lunisolar calendars are established by the ruling [[Zhou dynasty]] and its vassal states.  Several representative calendars are the [[Yellow Emperor]]'s calendar ({{zh|t=黃帝曆|s=黄帝历}}), [[Zhuanxu]]'s calendar ({{zh|t=顓頊曆|s=颛顼历}}), [[Xia dynasty|Xia]]'s calendar ({{zh|t=夏曆|s=夏历}}), [[Shang dynasty|Yin]]'s calendar ({{zh|t=殷曆|s=殷历}}), [[Zhou dynasty|Zhou]]'s calendar ({{zh|t=周曆|s=周历}}), and [[Lu (state)|Lu]]'s calendar ({{zh|t=魯曆|s=鲁历}}). These six calendars are called as the six ancient calendars ({{zh|t=古六曆|s=古六历}}), and are the quarter remainder calendars ({{zh|t=四分曆|s=四分历|p=sìfēnlì}}). The months of these calendars begin on the day with the darkmoon, and there are 12 or 13 month within a year. The intercalary month is placed at the end of the year, and called as 13th month. But, the year beginning is different in these calendars. The years in the Xia calendar begin on the day with the darkmoon close to the Vernal Commences. The years in the Yin calendar end on the last day of the month with the [[Winter Solstice]]. The years in the Yellow Emperor's calendar, Zhou's calendar, and Lu's calendar begin on the first day of the month with the Winter Solstice. And, the years in the Zhuanxu's calendar begin on the day with the darkmoon close to the Winter Commences.
+
+*Calendar of the Qin and early [[Han dynasty|Han]] dynasties
+After [[Qin Shi Huang]] unified China under the Qin dynasty, the Qin's calendar ({{zh|t=秦曆|s=秦历}}) was released. The Qin's calendar follows the rules of Zhuanxu's calendar, but the months order follows the Xia calendar. The months in the year are from the 10th month to the 9th month, and the intercalary month is called as the second Jiuyue ({{zh|t=後九月|s=后九月}}). In the early Han dynasty, the Qin calendar continued to be used.
+
+*Taichu calendar and the calendars from the Han to [[Ming dynasty|Ming]] dynasties.
+[[Emperor Wu of Han|Emperor Wu]] of the Han dynasty introduced reforms in the halfway of his administration. His Taichu or Grand Inception Calendar ({{zh|t=太初曆|s=太初历)}} introduced 24 solar terms which decides the month names. The solar year was defined as 365 <sup>385</sup>/<sub>1539</sub> days, and divided into 24 solar terms. Each couples of solar terms are associated into 12 climate terms. The lunar month was defined as 29 <sup>43</sup>/<sub>81</sub> days and named according to the closest climate term. The mid-climate in the month decides the month name, and a month without mid-climate is an intercalary.
+
+The Taichu calendar established the frame of the Chinese calendar, Ever since then, there are over 100 official calendars in Chinese which are consecutive and follow the structure of ''Tàichū'' calendar both. There're several innovation in calendar calculation in the history of over 2100 years, such as:
+:In the Dàmíng Calendar released in Tiānjiān 9 ({{zh|c=天监九年}}, 510) of the [[Liang dynasty]], [[Zhu Chongzhi]] introduced the equation of equinoxes.
+:Actual syzygy method was adopted to decide the month from the ''Wùyín Yuán'' Calendar, which was released in ''Wǔdé'' 2 ({{zh|c=武德二年}}, 619) of the [[Tang dynasty]].
+:The real measured data was used in calendar calculation from ''Shòushí'' Calendar, which was released in ''Zhìyuán'' 18 ({{zh|c=至元十八年}}, 1281) of the [[Yuan dynasty]]. And the tropical year is fixed at 365.2425 days, the same as the [[Gregorian calendar]] established in 1582.,<ref>Asiapac Editorial. (2004). ''Origins of Chinese Science and Technology''. Translated by Yang Liping and Y.N. Han. Singapore: Asiapac Books Pte. Ltd. ISBN 981-229-376-0, p.132.</ref> and derived [[spherical trigonometry]].<ref>Needham, Joseph. (1959). ''Science and Civilization in China: Volume 3, Mathematics and the Sciences of the Heavens and the Earth''. Cambridge University Press., reprinted Taipei: Caves Books, Ltd.(1986), pp. 109–110.</ref><ref>Ho, Peng Yoke. (2000). ''Li, Qi, and Shu: An Introduction to Science and Civilization in China''. Mineola: Dover Publications. ISBN 0-486-41445-0. p. 105.</ref><ref>Restivo, Sal. (1992). ''Mathematics in Society and History: Sociological Inquiries''. Dordrecht: Kluwer Academic Publishers. ISBN 1-4020-0039-1. p. 32.</ref>
+
+===Modern Chinese calendars===
+*''Shíxiàn'' calendar 
+In the late [[Ming dynasty]], [[Xu Guangqi]] and his colleagues worked out the new calendar upon the western astronomical arithmetic. But, the new calendar is not released before the end of the Ming dynasty. In the early [[Qing dynasty]], [[Johann Adam Schall von Bell]] submitted the calendar to the [[Shunzhi Emperor]]. The Qing government released the calendar with a name,  the ''Shíxiàn'' calendar, which means seasonal charter.
+In the ''Shíxiàn'' calendar, the solar terms each correspond to 15° along the ecliptic. It makes the Chinese calendar develop into an astronomical calendar. However, the length of the climate term near the perihelion is shorter than 30 days and there may be two mid-climate terms. The rule of the mid-climate terms decides the months, which is used for thousands years, lose its validity. The ''Shíxiàn'' calendar changed the rule to "decides the month in sequence, except the intercalary month".
+*Current Chinese calendar
+Currently, the Chinese calendar follows the rules of the ''Shíxiàn'' calendar, except that: changed the baseline to the Chinese Standard Time, and adopt the real astronomical data of observatories against the theoretical calculation.
+*Optimize the Chinese calendar
+To optimize the Chinese calendar, astronomers and astrophiles released many proposals. A typical proposal was released by Gao Pingzi ({{zh|c=高平子}}; 1888-1970), a Chinese astronomer who was one of the founders of [[Purple Mountain Observatory]]. In his proposal, the month numbers are calculated before the dark moons and the solar terms were rounded to day. Upon his proposal, the month numbers are the same for the Chinese calendar upon different time zones.
+
+===Other practices===
+Among the ethnic groups inhabiting the mountain and plateau of southwestern China, and those living in the grasslands of northern China, the civil calendars shows a diversity of practice upon the characteristic phenology and culture, but they are based on the algorithm of the Chinese calendar of different periods, especially those of the Tang dynasty and pre-Qin dynasty period. For example, the Thai, Tibetan and Mongolian calendar is based on the algorithm of the Tang dynasty, while the Miao and Yi calendar is based on the algorithm of the pre-Qin dynasty period.
+
+==See also==
+* [[Culture of China]]
+* [[Dates in Chinese]]
+* [[East Asian age reckoning]]
+* [[Festivals of Korea]]
+* [[Guo Shoujing]], an astronomer tasked with calendar reform during the 13th century
+* [[List of festivals in Vietnam]]
+* [[Public holidays in China]]
+* [[Sexagenary cycle]]
+* [[template:ctime|Chinese Traditional Date and Time]]
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+* {{cite journal
+|last =Cohen   |first = Alvin |authorlink = |title =Brief Note: The Origin of the Yellow Emperor Era Chronology
+|journal =Asia Major |volume =25 |issue = pt 2 |pages =1–13 |publisher = |location = |date =2012 |language =
+|url = http://www2.ihp.sinica.edu.tw/file/1097kaBVwNb.pdf |jstor = |issn = |doi = |accessdate = | ref = harv}}
+
+==External links==
+
+;Calendars
+*[http://www.chinesetools.eu/tools/chinesecalendar Chinese months]
+*[http://www.hko.gov.hk/gts/time/conversion.htm Gregorian-Lunar calendar years] (1901–2100)
+*[http://china-calendar.com/en_calendar/ Chinese calendar and holidays]
+*[http://www.yourchineseastrology.com/calendar/ Chinese calendar with Auspicious Events]
+
+;Calendar conversion
+*[http://sinocal.sinica.edu.tw 2000-year Chinese-Western calendar converter] From 1 AD to 2100 AD. Useful for historical studies. To use, put the western year 年 month 月day 日in the bottom row and click on 執行.
+*[http://lunarcalendar.bitsoftidbits.com/ Western-Chinese calendar converter]
+
+;Rules
+*[http://www.math.nus.edu.sg/aslaksen/calendar/chinese.html Mathematics of the Chinese Calendar]
+*[http://www.hermetic.ch/cal_stud/chinese_cal.htm The Structure of the Chinese Calendar]
+
+{{Calendars}}
+{{S&T in China}}
+{{Portal bar|Time|China}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Chinese Calendar}}
+[[Category:Chinese calendars| ]]
+[[Category:Chinese culture]]
+[[Category:Lunisolar calendars]]
+[[Category:Specific calendars]]

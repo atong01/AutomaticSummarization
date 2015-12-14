@@ -1,0 +1,623 @@
+{{other uses}}
+{{pp-semi|small=yes}}
+{{pp-move-indef}}
+{{Use dmy dates|date=October 2012}}
+{{Taxobox
+ | name='''Blue whale'''<ref name=msw3>{{MSW3 Mead | id = 14300018 | page = 725}}</ref>
+ | status= EN
+ | status_system=iucn3.1
+ | status_ref=<ref name="iucn">{{IUCN2013.1 | assessors  = Reilly, S.B., Bannister, J.L., Best, P.B., Brown, M., Brownell Jr., R.L., Butterworth, D.S., Clapham, P.J., Cooke, J., Donovan, G.P., Urbán, J. & Zerbini, A.N.
+   | year = 2008 | id = 2477 | title = Balaenoptera musculus | downloaded = 27 July 2013}}</ref>
+ |image= Anim1754 - Flickr - NOAA Photo Library.jpg
+ | image_caption= Adult blue whale (''Balaenoptera musculus'')
+ | image2= blue_whale_size.svg
+ | image2_caption=Size compared to an average human
+ | regnum=[[Animal]]ia
+ | phylum=[[Chordata]]
+ | classis=[[Mammal]]ia
+ | ordo = [[Cetartiodactyla]]{{efn| The use of Order [[Cetartiodactyla]], instead of [[Cetacea]] with Suborders [[Odontoceti]] and [[Mysticeti]], is favored by most evolutionary mammalogists working with molecular data <ref>{{cite journal |title=The phylogeny of Cetartiodactyla: the importance of dense taxon sampling, missing data, and the remarkable promise of cytochrome b to provide reliable species-level phylogenies |journal=Mol Phylogenet Evol. |year=2008 |last1=Agnarsson |first1=I. |last2=May-Collado |first2=LJ. |volume=48 |issue=3 |pages=964–985 |url=http://www.ncbi.nlm.nih.gov/pubmed/18590827 |pmid=18590827 |doi=10.1016/j.ympev.2008.05.046}}</ref><ref>{{cite journal |title=A complete phylogeny of the whales, dolphins and even-toed hoofed mammals – Cetartiodactyla |journal=Biol Rev Camb Philos Soc.  |year=2005 |last1=Price |first1=SA. |last2=Bininda-Emonds |first2=OR. |last3=Gittleman |first3=JL. |volume=80 |issue=3 |pages=445–473 |url=http://www.ncbi.nlm.nih.gov/pubmed/16094808 |pmid=16094808 |doi=10.1017/s1464793105006743}}</ref><ref>{{cite journal |title=Phylogenetic relationships of artiodactyls and cetaceans as deduced from the comparison of cytochrome b and 12S RNA mitochondrial sequences |journal=Molecular Biology and Evolution |year=1997 |last1=Montgelard |first1=C. |last2=Catzeflis |first2=FM. |last3=Douzery |first3=E. |volume=14 |issue=5 |pages=550–559 |url=http://mbe.oxfordjournals.org/content/14/5/550.short |pmid=9159933 |doi=10.1093/oxfordjournals.molbev.a025792}}</ref><ref>{{cite journal |title=Relationships of Cetacea -Artiodactyla- Among Mammals: Increased Taxon Sampling Alters Interpretations of Key Fossils and Character Evolution |journal=PLoS ONE |volume=4 |issue=9 |pages=e7062 |year=2009 |last1= Spaulding |first1=M. |last2=O'Leary |first2=MA. |last3=Gatesy |first3=J. |doi=10.1371/journal.pone.0007062 |pmid=19774069 |url=http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0007062 |bibcode=2009PLoSO...4.7062S |pmc=2740860}}</ref> and is supported the [[IUCN]] Cetacean Specialist Group<ref>[http://www.iucn-csg.org/index.php/taxonomy/ Cetacean Species and Taxonomy]. iucn-csg.org</ref> and by Taxonomy Committee <ref>[https://www.marinemammalscience.org/species-information/list-of-marine-mammal-species-subspecies/ "The Society for Marine Mammalogy's Taxonomy Committee List of Species and subspecies"].</ref> of the [[Society for Marine Mammalogy]], the largest international association of marine mammal scientists in the world. See [[Cetartiodactyla]] and [[Marine mammal]] articles for further discussion.}}
+| unranked_subordo = [[Cetacea]]
+| unranked_superfamilia = [[Mysticeti]]
+ | familia=[[Balaenopteridae]]
+ | genus=''[[Balaenoptera]]''
+ | species='''''B. musculus '''''
+ | binomial=''Balaenoptera musculus''
+ | binomial_authority=([[Carl Linnaeus|Linnaeus]], [[10th edition of Systema Naturae|1758]])
+ | subdivision_ranks=[[Subspecies]]
+ | subdivision=
+* ''[[Pygmy blue whale|B. m. brevicauda]]'' <small>Ichihara, 1966</small>
+* ?''B. m. indica'' <small>Blyth, 1859</small>
+* ''B. m. intermedia'' <small>Burmeister, 1871</small>
+* ''B. m. musculus'' <small>Linnaeus, 1758</small>
+ | range_map=Cypron-Range Balaenoptera musculus.svg
+ | range_map_caption=Blue whale range (in blue)
+ | synonyms=
+* ''Balaenoptera gibbar'' <small>[[William Scoresby|Scoresby]], 1820</small>
+* ''Pterobalaena gigas'' <small>[[Pierre-Joseph van Beneden|Van Beneden]], 1861</small>
+* ''Physalus latirostris'' <small>[[William Henry Flower|Flower]], 1864</small>
+* ''Sibbaldius borealis'' <small>[[John Edward Gray|Gray]], 1866</small>
+* ''Flowerius gigas'' <small>[[Wilhelm Lilljeborg|Lilljeborg]], 1867</small>
+* ''Sibbaldius sulfureus'' <small>[[Edward Drinker Cope|Cope]], 1869</small>
+* ''Balaenoptera sibbaldii'' <small>[[Georg Ossian Sars|Sars]], 1875</small>
+}}
+
+The '''blue whale''' (''Balaenoptera musculus'') is a [[marine mammal]] belonging to the [[baleen whale]]s ([[Mysticeti]]).<ref name="factsheet" /> At {{convert|30|m|ft}}<ref>{{Cite book| title      = Blue Whales| last1=Calambokidis |first1=J.| last2=Steiger |first2=G.
+ | year       = 1998| publisher  = Voyageur Press| isbn       = 0-89658-338-4}}</ref> in length and {{convert|180|tonne|short ton|lk=on}}<ref>{{cite web| title      = Animal Records
+ | publisher  = Smithsonian National Zoological Park| url        = http://nationalzoo.si.edu/Animals/AnimalRecords/| accessdate = 29 May 2007}}</ref> or more in weight, it is the [[Largest organisms|largest extant animal]] and is the heaviest known to have existed.<ref>{{cite book |last=Paul |first1=Gregory S. |title=The Princeton Field Guide to Dinosaurs |chapter=The Evolution of Dinosaurs and their World |location=Princeton |publisher=Princeton University Press |year=2010 |page=19}}</ref>
+
+Long and slender, the blue whale's body can be various shades of bluish-grey dorsally and somewhat lighter underneath.<ref>{{cite web| title      = Species Fact Sheets: Balaenoptera musculus (Linnaeus, 1758)| publisher  = Fisheries and Aquaculture Department, [[Food and Agriculture Organization]], [[United Nations]]|url        = http://www.fao.org/fishery/species/2744| accessdate = 24 December 2012}}</ref> There are at least three distinct [[subspecies]]: ''B. m. musculus'' of the North Atlantic and North Pacific, ''B. m. intermedia'' of the [[Southern Ocean]] and ''B. m. brevicauda'' (also known as the [[pygmy blue whale]]) found in the Indian Ocean and [[South Pacific Ocean]]. ''B. m. indica'', found in the Indian Ocean, may be another subspecies. As with other baleen whales, its diet consists almost exclusively of small [[crustacean]]s known as [[krill]].<ref name="wheelock">{{cite web
+ | title      = Contaminant analysis of organochlorines in blubber biopsies from blue whales in the St. Lawrence Seaway | publisher  = Trent University |last1=de Koning |first1=Jason |last2=Wild |first2=Geoff | year       = 1997 | url        = http://whale.wheelock.edu/bwcontaminants/welcome.html | accessdate = 29 June 2007}}</ref>
+
+Blue whales were abundant in nearly all the oceans on [[Earth]] until the beginning of the twentieth century. For over a century, they were hunted almost to [[extinction]] by [[whaling|whalers]] until protected by the international community in 1966. A 2002 report estimated there were 5,000 to 12,000 blue whales worldwide,<ref name=pop>{{cite web | title      = Assessment and Update Status Report on the Blue Whale ''Balaenoptera musculus''
+ | publisher  = Committee on the Status of Endangered Wildlife in Canada | year       = 2002
+ | url        = http://www.sararegistry.gc.ca/virtual_sara/files/cosewic/sr_blue_whale_e.pdf
+ | format     = PDF | accessdate = 19 April 2007}}</ref> in at least five groups. More recent research into the Pygmy subspecies suggests this may be an overestimate.<ref name=BBC_pop>{{cite news | last=Kirby |first=Alex | title      = Science seeks clues to pygmy whale
+ | publisher  = [[BBC News Online]] | date       = 19 June 2003 | url        = http://news.bbc.co.uk/2/hi/science/nature/3003564.stm | accessdate = 21 April 2006
+}}</ref> Before whaling, the largest population was in the Antarctic, numbering approximately 239,000 (range 202,000 to 311,000).<ref name = Ant>{{cite journal |last1=Branch |first1=T. A.
+ |last2=Matsuoka |first2=K. |last3=Miyashita |first3=T. | title      = Evidence for increases in Antarctic blue whales based on Bayesian modelling | journal    = Marine Mammal Science
+ | volume     = 20 | pages      = 726–754 | year       = 2004 | doi        = 10.1111/j.1748-7692.2004.tb01190.x | issue     = 4}}</ref> There remain only much smaller (around 2,000) concentrations in each of the eastern North [[Pacific Ocean|Pacific]], [[Antarctica|Antarctic]], and Indian Ocean groups. There are two more groups in the North [[Atlantic Ocean|Atlantic]], and at least two in the [[Southern Hemisphere]]. As of 2014, the Californian blue whale population has rebounded to nearly its pre-hunting population.<ref>{{cite web|url=http://www.iflscience.com/plants-and-animals/california-blue-whales-bounce-back-whaling|title=California Blue Whales Bounce Back From Whaling|publisher=}}</ref>
+[[File:Large Blue Whale Off Southern California Coast Photo D Ramey Logan.jpg|thumb|''Balaenoptera musculus'']]
+
+==Taxonomy==
+{{See also|Evolution of cetaceans}}
+Blue whales are [[rorquals]] (family [[Balaenopteridae]]), a family that includes the [[humpback whale]], the [[fin whale]], [[Bryde's whale]], the [[sei whale]], and the [[minke whale]].<ref name="factsheet" /> The family [[Balaenopteridae]] is believed to have diverged from the other families of the suborder [[Mysticeti]] as long ago as the middle [[Oligocene]] (28 [[Year#SI prefix multipliers|Ma]] ago). It is not known when the members of those families diverged from each other.
+
+The blue whale is usually classified as one of eight species in the genus ''Balaenoptera''; one authority places it in a separate monotypic genus, ''Sibbaldus'',<ref>{{cite book
+ | author    = Barnes LG, McLeod SA.
+ | editor    = Jones ML
+ | title     = The Gray Whale
+ | year      = 1984
+ | publisher = Academic Press
+ | location  = Orlando, Florida
+ | isbn      = 0-12-389180-9
+ | pages     = 3–32
+ | chapter   = The fossil record and phyletic relationships of gray whales.
+|display-editors=etal}}</ref> but this is not accepted elsewhere.<ref name=msw3/> [[DNA]] sequencing analysis indicates that the blue whale is [[phylogenetics|phylogenetically]] closer to the sei whale (''Balaenoptera borealis'') and Bryde's whale (''Balaenoptera brydei'') than to other ''Balaenoptera'' species, and closer to the humpback whale (''Megaptera'') and the [[gray whale]] (''Eschrichtius'') than to the minke whales (''Balaenoptera acutorostrata'' and ''Balaenoptera bonaerensis'').<ref>{{cite journal
+ | author     = Arnason, U., Gullberg A. & Widegren, B.
+ | title      = Cetacean mitochondrial DNA control region: sequences of all extant baleen whales and two sperm whale species
+ | journal    = Molecular Biology and Evolution
+ | volume     = 10
+ | issue      = 5
+ | pages      = 960–970
+ | date       = 1 September 1993
+ | pmid       = 8412655
+ | url        = http://mbe.oxfordjournals.org/cgi/content/abstract/10/5/960
+ | accessdate = 25 January 2009
+}}</ref><ref>{{cite journal
+ | author     = Sasaki, T.
+ | title      = Mitochondrial phylogenetics and evolution of mysticete whales
+ | journal    = [[Systematic Biology]]
+ | volume     = 54
+ | issue      = 1
+ | pages      = 77–90
+ | date       = 4 March 2011
+ | doi        = 10.1080/10635150590905939
+ | url        = http://sysbio.oxfordjournals.org/content/54/1/77.full
+ | pmid       = 15805012
+|display-authors=etal}}</ref> If further research confirms these relationships, it will be necessary to reclassify the rorquals.
+
+There have been at least 11 documented cases of blue-[[Fin whale|fin]] hybrid adults in the wild. Arnason and Gullberg describe the genetic distance between a blue and a fin as about the same as that between a human and a gorilla.<ref>{{cite journal
+ |last1=Arnason |first1=A.
+ |last2=Gullberg |first2=A.
+ | title      = Comparison between the complete mtDNA sequences of the blue and fin whale, two species that can hybridize in nature
+ | journal    = [[Journal of Molecular Ecology]]
+ | year       = 1993
+ | volume     = 37
+ | issue      = 4
+ | pages      = 312–322
+ | pmid       = 8308901
+}}</ref> Researchers working off Fiji believe they photographed a hybrid [[Humpback whale|humpback]]-blue whale<ref>[http://www.whalecenter.org/amazarch.htm Amazing Whale Facts Archive]. Whale Center of New England (WCNE). Retrieved on 2008-02-27.</ref> including the case of discovery through DNA analyzing from a meat sample found on Japanese market.<ref>{{cite journal|ref=harv|last=Palumbi|first=S.R.|last2=Cipriano|first2=F.|title=Species Identification Using Genetic Tools: The Value of Nuclear and Mitochondrial Gene Sequences in Whale Conservation|journal=Journal of Heredity|year=1998|volume=89 | issue = 5|pages=459-|url=http://jhered.oxfordjournals.org/content/89/5/459.full.pdf|doi=10.1093/jhered/89.5.459|pmid=9768497}}</ref><ref>Ogino M. (2005)『クジラの死体はかく語る』, [[Kodansha]]</ref>
+
+The first published description of the blue whale comes from [[Robert Sibbald]]'s ''Phalainologia Nova'' (1694). In September 1692, Sibbald found a blue whale that had stranded in the [[Firth of Forth]]—a male {{convert|78|ft|m|abbr=on|disp=flip}}-long—which had "black, horny plates" and "two large apertures approaching a pyramid in shape".<ref name=Bortolotti/>
+
+The specific name ''musculus'' is [[Latin]] and could mean "muscle", but it can also be interpreted as "little mouse".<ref>{{cite book
+ | last       = Simpson | first      = D. P.
+ | title      = Cassell's Latin Dictionary
+ | publisher  = Cassell Ltd.
+ | year       = 1979
+ | edition    = 5
+ | location   = London
+ | page       = 883
+ | isbn       = 0-304-52257-0
+}}</ref> [[Carl Linnaeus]], who named the species in his seminal ''[[Systema Naturae]]'' of 1758,<ref>{{cite book
+ | last       = Linnaeus | first= C. | authorlink = Carl Linnaeus
+ | title      = Systema naturae per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis. Tomus I
+ | edition    = [[10th edition of Systema Naturae|Editio decima, reformata]]
+ | publisher  = Laurentii Salvii |location=Holmiae
+ | year       = 1758
+ | page       = 824
+ | url        =
+|language=la}}</ref> would have known this and may have intended the ironic [[double entendre|double meaning]].<ref>{{cite web
+ | title      = Blue Whale Fact Sheet
+ | publisher  = New York State Department of Environmental Conservation
+ | url        = http://www.dec.ny.gov/animals/9367.html
+ | accessdate = 29 June 2007
+}}</ref> [[Herman Melville]] called this species "sulphur-bottom" in his novel ''[[Cetology of Moby-Dick|Moby-Dick]]'' due to an orange-brown or yellow tinge on the underparts from [[diatom]] films on the skin. Other common names for the blue whale have included "Sibbald's rorqual" (after Sibbald, who first described the species), the "great blue whale" and the "great northern rorqual". These names have now fallen into disuse. The first known usage of the term "blue whale" was in Melville's ''Moby-Dick'', which only mentions it in passing and does not specifically attribute it to the species in question. The name was really derived from the Norwegian ''blåhval'', coined by [[Svend Foyn]] shortly after he had perfected the harpoon gun; the Norwegian scientist [[Georg Ossian Sars|G. O. Sars]] adopted it as the Norwegian common name in 1874.<ref name=Bortolotti>{{cite book
+ | last       = Bortolotti
+ | first      = Dan
+ | title      = Wild Blue: A Natural History of the World’s Largest Animal
+ | year       = 2008
+ | publisher  = St. Martin's Press}}</ref>
+
+Authorities classify the species into three or four subspecies: ''B. m. musculus'', the northern blue whale consisting of the North Atlantic and North Pacific populations, ''B. m. intermedia'', the southern blue whale of the [[Southern Ocean]], ''B. m. brevicauda'', the [[pygmy blue whale]] found in the Indian Ocean and South Pacific,<ref>Ichihara T. (1966). The pygmy blue whale ''B. m. brevicauda'', a new subspecies from the Antarctic in ''Whales, dolphins and porpoises'' Page(s) 79–113.</ref> and the more problematic ''B. m. indica'', the great Indian rorqual, which is also found in the Indian Ocean and, although described earlier, may be the same subspecies as ''B. m. brevicauda''.<ref name=msw3/>
+
+==Description and behaviour==
+[[File:Blue whale tail.JPG|thumb|right|A blue whale lifting its tail flukes]]
+[[File:Blue Whale 001 body bw.jpg|thumb|right|Adult blue whale]]
+The blue whale has a long tapering body that appears stretched in comparison with the stockier build of other whales.<ref name="des">{{cite web | title       = Size and Description of the Blue Whale Species | url         = http://www.wdcs.org/dan/publishing.nsf/allweb/F8FE8974A62E12F88025696D004A8EE9<!--http://uk.whales.org/species-guide/blue-whale-->| accessdate  = 15 June 2007 | archiveurl = https://web.archive.org/web/20071001144738/http://www.wdcs.org/dan/publishing.nsf/allweb/F8FE8974A62E12F88025696D004A8EE9 | archivedate = 1 October 2007 | publisher = Whale and Dolphin Conservation Society}}</ref> The head is flat, ''U''-shaped and has a prominent ridge running from the [[Blowhole (anatomy)|blowhole]] to the top of the upper lip.<ref name="des" /> The front part of the mouth is thick with [[baleen]] plates; around 300 plates (each around one metre (3.2&nbsp;ft) long)<ref name="des" /> hang from the upper jaw, running {{convert|0.5|m|ft|abbr=on}} back into the mouth. Between 70 and 118 grooves (called ventral pleats) run along the throat parallel to the body length. These pleats assist with evacuating water from the mouth after lunge feeding (see [[Blue whale#Feeding|feeding]] below).
+
+The [[dorsal fin]] is small,<ref name="des" /> ranging in height from {{convert|8|-|70|cm|in|sp=us}} (usually {{convert|20|-|40|cm|in|sp=us}}) and averaging about {{convert|28|cm}}.<ref name="MacWheel1929">{{cite journal | last1    = Mackintosh | first1   = N. A. | last2    = Wheeler | first2   = J. F. G. | year     = 1929 | title    = Southern blue and fin whales |journal  = Discovery Reports | volume   = I| pages    = 259–540}}</ref> It is visible only briefly during the dive sequence. Located around three-quarters of the way along the length of the body, it varies in shape from one individual to another; some only have a barely perceptible lump, but others may have prominent and falcate (sickle-shaped) dorsals. When surfacing to breathe, the blue whale raises its shoulder and blowhole out of the water to a greater extent than other large whales, such as the fin or sei whales. Observers can use this trait to differentiate between species at sea. Some blue whales in the North Atlantic and North Pacific raise their tail fluke when diving. When breathing, the whale emits a spectacular vertical single-column spout up to {{convert|12|m|ft}}, typically {{convert|9|m|ft}}. Its [[lung]] capacity is 5,000&nbsp;litres (1320 U.S. gallons). Blue whales have twin blowholes shielded by a large splashguard.<ref name="des" />
+
+The flippers are {{convert|3|-|4|m|ft}} long. The upper sides are grey with a thin white border; the lower sides are white. The head and tail fluke are generally uniformly grey. The whale's upper parts, and sometimes the flippers, are usually mottled. The degree of mottling varies substantially from individual to individual. Some may have a uniform slate-grey color, but others demonstrate a considerable variation of dark blues, greys and blacks, all tightly mottled.<ref name="factsheet">{{cite web | title       = American Cetacean Society Fact Sheet – Blue Whales | url         = http://www.acsonline.org/factpack/bluewhl.htm | accessdate  = 20 June 2007 | archiveurl  = https://web.archive.org/web/20070711025158/http://www.acsonline.org/factpack/bluewhl.htm <!-- Added by H3llBot --> | archivedate = 11 July 2007}}</ref>
+
+Blue whales can reach speeds of {{convert|50|km/h|mph}} over short bursts, usually when interacting with other whales, but {{convert|20|km/h|mph}} is a more typical traveling speed.<ref name="factsheet" /> When feeding, they slow down to {{convert|5|km/h|mph}}.
+
+Blue whales most commonly live alone or with one other individual. It is not known how long traveling pairs stay together. In locations where there is a high concentration of food, as many as 50 blue whales have been seen scattered over a small area. They do not form the large, close-knit groups seen in other baleen species.
+
+===Size===
+[[File:Bluewhale2 noaa.jpg|thumb|right|View of a blue whale and its bow wave, showing the [[Blowhole (biology)|blowhole]]]][[File:Bluewhale1 noaa crop.jpg|right|thumb|The blow of a blue whale]]
+[[File:Bl-10 blue.jpg|thumb|The small [[dorsal fin]] of this blue whale is just visible on the far left.]]
+The blue whale is the largest animal ever known to have lived.<ref name="afsc"/><ref name=wwf/> By comparison, one of the largest known [[dinosaurs]] of the [[Mesozoic]] Era was ''[[Argentinosaurus]]'',<ref>{{cite journal | author      = Bonaparte J, Coria R
+ | title       = Un nuevo y gigantesco sauropodo titanosaurio de la Formacion Rio Limay (Albiano-Cenomaniano) de la Provincia del Neuquen, Argentina | year        = 1993
+ | journal     = Ameghiniana | volume      = 30 | issue       = 3 | pages = 271–282
+|language=es}}</ref> which is estimated to have weighed up to {{convert|90|tonne|short ton}}, comparable to the average of blue whale.<ref name="crolletal2001">{{cite journal | last1 = Croll | first1 =  | display-authors = 1 | last2 = et al | year = 2001 | title = The diving behavior of blue and fin whales: is dive duration shorter than expected based on oxygen stores? | url = http://biol.wwu.edu/mbel/media/pdfs/CBP2001_129.pdf | format = PDF | journal = Comparative Biochemistry and Physiology Part A | volume = 129 | issue = | pages = 797–809 | doi=10.1016/s1095-6433(01)00348-8}}</ref> ''[[Amphicoelias]] fragillimus'', at an estimated {{convert|122.4|tonne|short ton}} is still lighter than the largest blue whales, despite being {{convert|190|feet|meter}} in length.<ref name="carpenter2006">Carpenter, K. (2006). "Biggest of the big: a critical re-evaluation of the mega-sauropod ''Amphicoelias fragillimus''." In Foster, J.R. and Lucas, S.G., eds., 2006, ''Paleontology and Geology of the Upper Jurassic Morrison Formation.'' New Mexico Museum of Natural History and Science Bulletin '''36''': 131–138.</ref>
+
+Blue whales are difficult to weigh because of their size. As is the case with most large whales targeted by whalers, adult blue whales have never been weighed whole, but cut up into manageable pieces first. This caused an underestimate of the total weight of the whale, due to the loss of blood and other fluids. As a whole, blue whales from the Northern Atlantic and Pacific appear to be smaller on average than those from sub-Antarctic waters. Nevertheless, measurements between {{convert|150|-|170|tonne|short ton}} were recorded of animals up to {{convert|27|m|ft}} in length. The weight of an individual {{convert|30|m|ft}} long is believed by the American [[National Marine Mammal Laboratory]] (NMML) to be in excess of {{convert|180|tonne|short ton}}. The largest blue whale accurately weighed by NMML scientists to date was a female that weighed {{convert|177|tonne|short ton}}.<ref name=pop />
+
+There is some uncertainty about the biggest blue whale ever found, as most data came from blue whales killed in [[Antarctica|Antarctic]] waters during the first half of the twentieth century, which were collected by whalers not well-versed in standard zoological measurement techniques. The heaviest whale ever recorded weighed in at approximately {{convert|190|MT|ST}}.<ref name = "Wood">{{cite book
+ | author      = Wood, Gerald
+ | title       = The Guinness Book of Animal Facts and Feats
+ | url         =
+ | year        = 1983
+ | page        = 256
+ | isbn        = 978-0-85112-235-9
+}}</ref> The longest whales ever recorded were two females measuring {{convert|33.6|and|33.3|m|ft}}, although in neither of these cases was the piecemeal weight gathered.<ref name = "SearsCal02">{{cite journal
+ | author      = Sears R, Calambokidis J
+ | title       = Update COSEWIC status report on the blue whale Balaenoptera musculus in Canada
+ | publisher   = Committee on the Status of Endangered Wildlife in Canada, Ottawa.
+ | year        = 2002
+ | page        = 32
+}}</ref> The longest whale measured by scientists at the NMML was a {{convert|29.9|m|ft}},<ref name=pop /> female caught in the Antarctic by Japanese whalers in 1946–47. Lieut. Quentin R. Walsh, USCG, while acting as whaling inspector of the factory ship ''Ulysses'', verified the measurement of a {{convert|30|m|ft|abbr=on}} pregnant blue whale caught in the Antarctic in the 1937–38 season.<ref>Capelotti, P.J. (ed.), Quentin R. Walsh. 2010. ''The Whaling Expedition of the Ulysses, 1937–38'', p. 28.</ref> The longest reported in the North Pacific was a {{convert|27.1|m|ft}} female taken by Japanese whalers in 1959, and the longest reported in the North Atlantic was a {{convert|28.1|m|ft}} female caught in the Davis Strait.<ref name=Bortolotti/>
+
+Due to its large size, several organs of the blue whale are the largest in the animal kingdom. A blue whale's [[tongue]] weighs around {{convert|2.7|tonne|short ton}}<ref name="SM">{{cite book
+|title=The Scientific Monthly
+|publisher=American Association for the Advancement of Science
+|year=1915
+|page=21}}</ref> and, when fully expanded, its mouth is large enough to hold up to {{convert|90|tonne|short ton}} of food and water.<ref name="wheelock" /> Despite the size of its mouth, the dimensions of its throat are such that a blue whale cannot swallow an object wider than a beach ball.<ref>Blue Planet: Frozen seas (BBC documentary)</ref> Its [[heart]] weighs {{convert|400|lb|kg}} and is {{convert|6|ft|m}} wide, with a [[thoracic aorta]] estimated to be {{convert|9|in|cm}} in diameter.<ref>http://www.bbc.com/earth/story/20150820-see-the-worlds-biggest-heart-blue-whales-is-first-to-be-preserved?ns_mchannel=social&ns_campaign=BBC_iWonder&ns_source=twitter&ns_linkname=knowledge_and_learning</ref> During the first seven months of its life, a blue whale calf drinks approximately {{convert|400|l|gal}} of milk every day. Blue whale calves gain [[body weight|weight]] quickly, as much as {{convert|90|kg|lb}} every 24&nbsp;hours. Even at birth, they weigh up to {{convert|2700|kg|lb}}—the same as a fully grown [[hippopotamus]].<ref name="factsheet" /> Blue whales have relatively small brains, only about {{convert|6.92|kg|lbs|sigfig=4}}<!-- 15.25 lbs (6.91&nbsp;kg) -->, about 0.007% of its body weight.<ref>Tinker, ''Whales of the World'' (1988, p. 76).</ref> The [[blue whale penis]] is the largest penis of any living organism<ref name = "bioweb">{{cite web|url=http://bioweb.uwlax.edu/bio203/s2012/olson_rile/reproduction.htm|title=Reproduction|publisher=[[University of Wisconsin]]|accessdate=3 October 2012}}</ref> and also set the [[Guinness World Record]] as the longest of any animal's.<ref>[http://www.guinnessworldrecords.com/world-records/59969-longest-animal-penis Longest animal penis]:<br>''the longest penis belongs to the blue whale at up to 2.4 m (8 ft).''</ref> The reported average length varies but is usually mentioned to have an average length of {{convert|8|ft|disp=flip|abbr=on}} to {{convert|10|ft|disp=flip|abbr=on}}.<ref name="Long2012">{{cite book|last=Long|first=John A.|title=The Dawn of the Deed: The Prehistoric Origins of Sex|url=https://books.google.com/books?id=TXs4e7eIB9cC&pg=PT24|accessdate=3 October 2012|date=11 October 2012|publisher=University of Chicago Press|isbn=978-0-226-49254-4|page=24}}</ref>
+[[File:Joey williams with a 19 foot long blue whale skull.jpg|thumb|upright|right|A  blue whale [[skull]] measuring {{convert|19|ft|m|disp=flip}}]]
+
+===Feeding===
+Blue whales feed almost exclusively on [[krill]], though they also take small numbers of [[copepods]].<ref name="afsc">{{cite web
+|url=http://www.afsc.noaa.gov/nmml/education/cetaceans/blue.php
+|title=Detailed Information about Blue Whales
+|publisher=Alaska Fisheries Science Center
+|year=2004
+| accessdate = 14 June 2007}}</ref> The species of this [[zooplankton]] eaten by blue whales varies from ocean to ocean. In the North Atlantic, ''[[Meganyctiphanes norvegica]]'', ''[[Thysanoessa raschii]]'', ''[[Thysanoessa inermis]]'' and ''[[Thysanoessa longicaudata]]'' are the usual food;<ref>{{cite journal
+|author= Hjort J, Ruud JT
+|year=1929
+|title=Whaling and fishing in the North Atlantic
+|journal= Rapp. Proc. Verb. Conseil int. Explor. Mer
+|volume= 56
+}}</ref><ref>{{cite journal
+|author=Christensen I, Haug T, Øien N
+|year=1992
+|title= A review of feeding and reproduction in large baleen whales (Mysticeti) and sperm whales ''Physeter macrocephalus'' in Norwegian and adjacent waters
+|journal= Fauna Norvegica Series a
+|volume= 13
+|pages=39–48}}</ref><ref>{{cite journal
+|author= Sears R, Wenzel FW, Williamson JM
+|year=1987
+|title=The Blue Whale: A Catalogue of Individuals from the Western North Atlantic (Gulf of St. Lawrence)
+|journal=Mingan Island Cetacean Study, St. Lambert, Quebec.
+|page=27}}</ref> in the North Pacific, ''[[Euphausia pacifica]]'', ''[[Thysanoessa inermis]]'', ''[[Thysanoessa longipes]]'', ''[[Thysanoessa spinifera]]'', ''[[Nyctiphanes symplex]]'' and ''[[Nematoscelis megalops]]'';<ref>{{cite journal
+|last=Sears
+|first=R
+|year=1990
+|title= The Cortez blues
+|journal= Whalewatcher
+|volume=24
+|issue=2
+|pages=12–15}}</ref><ref>{{cite journal
+|last=Kawamura
+|first=A
+|year= 1980
+|title= A review of food of balaenopterid whales
+|journal= Scientific Reports of the Whales Research Institute
+|volume=32
+|pages=155–197}}</ref><ref>{{cite book
+|author=Yochem PK, Leatherwood S
+|editor=Ridgway SH, Harrison R
+|title= Handbook of Marine Mammals, Vol. 3:The Sirenians and Baleen Whales.
+|edition=
+|year=1980
+|publisher=Academic Press
+|location=London
+|isbn=
+|oclc=
+|id=
+|pages= 193–240
+|chapter= Blue whale ''Balaenoptera musculus'' (Linnaeus, 1758)}}</ref> and in the Southern Hemisphere, ''[[Euphausia superba]]'', ''[[Euphausia crystallorophias]]'', ''[[Euphausia valentini]]'', and ''[[Nyctiphanes australis]]''.
+
+An adult blue whale can eat up to 40&nbsp;million krill in a day.<ref name=wwf>{{cite web|url=http://wwf.panda.org/what_we_do/endangered_species/cetaceans/about/blue_whale/|title=Blue whale|publisher=WWF|accessdate=11 March 2014}}</ref> The whales always feed in the areas with the highest concentration of krill, sometimes eating up to {{convert|3600|kg|lb}} of krill in a single day.<ref name="afsc" /> The daily energy requirement of an adult blue whale is in the region of 1.5&nbsp;million kilocalories.<ref>[[Ross Piper|Piper, Ross]] (2007), ''Extraordinary Animals: An Encyclopedia of Curious and Unusual Animals'', [[Greenwood Press]].</ref> Their feeding habits are seasonal. Blue whales gorge on krill in the rich waters of the Antarctic before migrating to their breeding grounds in the warmer, less-rich waters nearer the equator. The blue whale can take in up to 90 times as much energy as it expends, allowing it to build up considerable energy reserves.<ref>{{cite web|url=http://www.newscientist.com/article/dn19841-blue-whale-feeding-methods-are-ultraefficient.html|title=Blue whale feeding methods are ultra-efficient |publisher=New Scientist|author=Michael Marshall|date=December 2010}}</ref><ref>{{cite web|url=http://www.newscientist.com/article/dn17118-migrating-blue-whales-rediscover-forgotten-waters.html|title=Migrating blue whales rediscover 'forgotten' waters|publisher=New Scientist|author=Andy Coghlan|date=May 2009}}</ref><ref>{{cite journal|url=http://jeb.biologists.org/content/214/1/131.full|title=Mechanics, hydrodynamics and energetics of blue whale lunge feeding: efficiency dependence on krill density|author=J. A. Goldbogen1, J. Calambokidis, E. Oleson3, J. Potvin, N. D. Pyenson, G. Schorr2 and R. E. Shadwick|work=Journal of Experimental Biology|year=2011|volume=214|pages=131–146|doi=10.1242/jeb.048157}}</ref>
+
+Because krill move, blue whales typically feed at depths of more than {{convert|100|m|ft}} during the day and only surface-feed at night. Dive times are typically 10&nbsp;minutes when feeding, though dives of up to 21&nbsp;minutes are possible. The whale feeds by lunging forward at groups of krill, taking the animals and a large quantity of water into its mouth. The water is then squeezed out through the baleen plates by pressure from the ventral pouch and tongue. Once the mouth is clear of water, the remaining krill, unable to pass through the plates, are swallowed. The blue whale also incidentally consumes small fish, crustaceans and squid caught up with krill.<ref>{{cite journal
+|author= Nemoto T
+|year=1957
+|title=Foods of baleen whales in the northern Pacific
+|journal= Sci. Rep. Whales Res. Inst.
+|volume=12
+|pages=33–89}}</ref><ref>{{cite journal
+|author=Nemoto T, Kawamura A
+|year=1977
+|title= Characteristics of food habits and distribution of baleen whales with special reference to the abundance of North Pacific sei and Bryde's whales
+|journal=Rep. Int. Whal. Commn
+|volume= 1
+|issue=Special Issue
+|pages=80–87}}</ref>
+
+===Life history===
+[[File:BlueWhaleWithCalf.jpg|thumb|A blue whale calf with its mother]]
+Mating starts in late autumn and continues to the end of winter.<ref name="Art">{{cite web
+|url=http://www.articleworld.org/index.php/Blue_Whale
+|title=Blue Whale – ArticleWorld
+|accessdate=2 July 2007
+}}</ref> Little is known about mating behaviour or breeding grounds. Females typically give birth once every two to three years at the start of the winter after a [[gestation period]] of 10 to 12&nbsp;months.<ref name="Art" /> The calf weighs about {{convert|2.5|tonne|short ton}} and is around {{convert|7|m|ft}} in length. Blue whale calves drink 380–570&nbsp;litres (100–150 U.S. gallons) of milk a day. Blue whale milk has an energy content of about 18,300 kJ/kg (4,370 kcal/kg).<ref>Olav T. Oftedal1 (1997). ''Lactation in Whales and Dolphins: Evidence of Divergence Between Baleen- and Toothed-Species.'' pg 224</ref> The calf is [[weaning|weaned]] after six months, by which time it has doubled in length. Sexual maturity is typically reached at five to ten years of age. In the Northern Hemisphere, whaling records show that males averaged {{convert|20|–|21|m|ft|abbr=on}} and females {{convert|21|–|23|m|ft|abbr=on}} at sexual maturity,<ref name=Klinowska>{{cite book
+  | last = Klinowska
+  | first = M.
+  | title = Dolphins, Porpoises and Whales of the World: The IUCN Red Data Book
+  | publisher = IUCN
+  | year = 1991
+  | location = Cambridge, U.K.
+| url = }}</ref> while in the Southern Hemisphere it was {{convert|22.6|and|24|m|ft|abbr=on}}, respectively.<ref name="evans1987">Evans, Peter G. H. (1987). ''The Natural History of Whales and Dolphins''. Facts on File.</ref> In the Northern Hemisphere, as adults, males averaged {{convert|24|m|ft|abbr=on}} and females {{convert|25|m|ft|abbr=on}}, while in the Southern Hemisphere males averaged {{convert|25|m|ft|abbr=on}} and females {{convert|26.5|m|ft|abbr=on}}.<ref name=Klinowska/><ref name="evans1987"/> In the eastern North Pacific, photogrammetric studies have shown sexually mature (but not necessarily fully grown) blue whales today average {{convert|21.6|m|ft|abbr=on}}, with a maximum of over {{convert|24.4|m|ft|abbr=on}}<ref>{{cite journal | last1 = Gilpatrick | first1 = James W. | last2 = Perryman | first2 = Wayne L. | year = 2008 | title = Geographic variation in external morphology of North Pacific and Southern Hemisphere blue whales (''Balaenoptera musculus'')". | url = | journal = J. Cetacean Res. Manage | volume = 10 | issue = 1| pages = 9–21 }}</ref> – although a {{convert|26.5|m|ft|abbr=on}} female stranded near [[Pescadero, California]] in 1979.<ref>[http://seymourcenter.ucsc.edu/press_releases/Blue_Whale_Skeleton.pdf Blue whale skeleton at Seymour Center at Long Marine Lab]</ref>
+
+Scientists estimate that blue whales can live for at least 80&nbsp;years,<ref name = "SearsCal02"/><ref name="Art" /><ref name="npca">{{cite web
+|url=http://www.npca.org/protecting-our-parks/wildlife_facts/bluewhale.html
+|title=Blue Whale
+|publisher=National Parks Conservation Association
+|accessdate=21 June 2007
+}}</ref> but since individual records do not date back into the whaling era, this will not be known with certainty for many years. The longest recorded study of a single individual is 34&nbsp;years, in the eastern North Pacific.<ref name=Sears98>(Sears 1998)</ref> The whales' only natural predator is the [[orca]].<ref>{{cite journal
+| title = Sightings and movements of blue whales off central California from 1986–88 from photo-identification of individuals
+| author = J. Calambokidis, G. H. Steiger, J. C. Cubbage, K. C. Balcomb, C. Ewald, S. Kruse, R. Wells and R. Sears
+| journal = Rep. Whal. Comm.
+| volume = 12
+| pages = 343–348
+| year = 1990}}</ref> Studies report that as many as 25% of mature blue whales have scars resulting from orca attacks.<ref name = "SearsCal02"/> The mortality rate of such attacks is unknown.
+
+Blue whale strandings are extremely uncommon, and, because of the species' social structure, mass strandings are unheard of.<ref>William Perrin and Joseph Geraci. "Stranding" pp 1192–1197 in ''Encyclopedia of Marine Mammals'' (Perrin, Wursig and Thewissen eds)</ref> When strandings do occur, they can become the focus of public interest. In 1920, a blue whale washed up near [[Bragar]] on the [[Isle of Lewis]] in the [[Outer Hebrides]] of [[Scotland]]. It had been shot by whalers, but the harpoon had failed to explode. As with other mammals, the fundamental instinct of the whale was to try to carry on breathing at all costs, even though this meant beaching to prevent itself from drowning. Two of the whale's bones were erected just off a main road on Lewis and remain a tourist attraction.<ref>{{cite web
+| title=The Whale Bone Arch
+| work = Places to Visit around the Isle of Lewis
+| url=http://www.isle-of-lewis.com/attractions/historical-attractions/the-whale-bone-arch/
+| accessdate = 18 May 2005}}</ref>
+
+===Vocalizations===
+{{See also|Whale sound}}
+{{listen
+ | header = <div style="margin-left:-65px;">'''Multimedia relating to the blue whale'''<div class="small">''Note that the whale calls have been sped up 10x from their original speed.''</div></div>
+ | filename = Blue whale atlantic1.ogg
+ | title = A blue whale song
+ | description = Recorded in the Atlantic (1)
+ | format = [[Ogg]]
+ | filename2 = Blue whale atlantic2.ogg
+ | title2 = A blue whale song
+ | description2 = Recorded in the Atlantic (2)
+ | format2 = [[Ogg]]
+ | filename3 = Blue whale atlantic3.ogg
+ | title3 = A blue whale song
+ | description3 = Recorded in the Atlantic (3)
+ | format3 = [[Ogg]]
+ | filename4 = Blue_Whale_NE_Pacific.ogg
+ | title4 = A blue whale song
+ | description4 = Recorded in North Eastern Pacific
+ | format4 = [[Ogg]]
+ | filename5 = Blue_Whale_South_Pacific.ogg
+ | title5 = A blue whale song
+ | description5 = Recorded in the South Pacific
+ | format5 = [[Ogg]]
+ | filename6 = Blue_Whale_West_Pacific.ogg
+ | title6 = A blue whale song
+ | description6 = Recorded in the West Pacific
+ | format6 = [[Ogg]]
+}}
+Estimates made by Cummings and Thompson (1971) suggest the source level of sounds made by blue whales are between 155 and 188 [[decibel]]s when measured relative to a reference pressure of one [[micropascal]] at one metre.<ref>{{cite journal
+| title = Underwater sounds from the blue whale ''Balaenoptera musculus''
+| author = W.C. Cummings and P.O. Thompson
+| journal = Journal of the Acoustical Society of America
+| volume = 50 | issue = 4
+| pages = 1193–1198
+| year = 1971
+| doi = 10.1121/1.1912752|bibcode = 1971ASAJ...50.1193C }}</ref><ref>{{cite book
+| author= W.J. Richardson, C.R. Greene, C.I. Malme and D.H. Thomson
+| title = Marine mammals and noise
+| publisher = Academic Press, Inc., San Diego, CA.
+| year = 1995
+| isbn = 0-12-588441-9}}</ref> All blue whale groups make calls at a [[fundamental frequency]] between 10 and 40 [[Hertz|Hz]]; the lowest frequency sound a human can typically perceive is 20&nbsp;Hz. Blue whale calls last between ten and thirty seconds. Blue whales off the coast of [[Sri Lanka]] have been repeatedly recorded making "songs" of four notes, lasting about two minutes each, reminiscent of the well-known humpback whale songs. As this phenomenon has not been seen in any other populations, researchers believe it may be unique to the ''B. m. brevicauda'' (pygmy) subspecies.
+
+The purpose of vocalization is unknown. Richardson ''et al.'' (1995) discuss six possible reasons:<ref>{{cite web
+| author = National Marine Fisheries Service
+| year = 2002
+| title = Endangered Species Act – Section 7 Consultation Biological Opinion
+| url = http://www.nmfs.noaa.gov/prot_res/readingrm/ESAsec7/7pr_surtass-2020529.pdf
+| format = PDF }}</ref>
+
+# Maintenance of inter-individual distance
+# Species and individual recognition
+# Contextual information transmission (for example feeding, alarm, courtship)
+# Maintenance of social organization (for example contact calls between females and males)
+# Location of topographic features
+# Location of prey resources
+
+==Population and whaling==
+
+===Hunting era===
+{{Main|History of whaling}}
+[[File:Blue Whale population, Pengo.svg|thumb|400px|Blue whale populations have declined dramatically due to commercial whaling.]]
+[[File:Blue Whale skeleton, Canadian Museum of Nature.jpg|thumb|left|Blue whale skeleton at the [[Canadian Museum of Nature]] in [[Ottawa]], Ontario]]
+
+Blue whales are not easy to catch or kill. Their speed and power meant that they were rarely pursued by early whalers, who instead targeted [[Sperm whale|sperm]] and [[right whale]]s.<ref>{{cite book
+|author= Scammon CM
+|title=The marine mammals of the northwestern coast of North America. Together with an account of the American whale-fishery
+|year= 1874
+|publisher=John H. Carmany and Co.
+|location=San Francisco
+|page=319
+|isbn= }}</ref> In 1864, the Norwegian [[Svend Foyn]] equipped a [[steamboat]] with [[harpoon]]s specifically designed for catching large whales.<ref name="factsheet" /> Although it was initially cumbersome and had a low success rate, Foyn perfected the harpoon gun, and soon several whaling stations were established on the coast of [[Finnmark]] in northern Norway. Because of disputes with the local fishermen, the last whaling station in Finnmark was closed down in 1904.
+
+Soon, blue whales were being hunted off Iceland (1883), the Faroe Islands (1894), [[Newfoundland (island)|Newfoundland]] (1898), and [[Spitsbergen]] (1903). In 1904–05 the first blue whales were taken off [[South Georgia]]. By 1925, with the advent of the stern slipway in factory ships and the use of steam-driven whale catchers, the catch of blue whales, and baleen whales as a whole, in the Antarctic and sub-Antarctic began to increase dramatically. In the 1930–31 season, these ships caught 29,400 blue whales in the Antarctic alone.<ref>{{cite book | url=https://books.google.com/books?id=NzJmAwAAQBAJ&pg=PA23 | title=Whaling Diplomacy: Defining Issues in International Environmental Law | publisher=Edward Elgar Publishing Ltd. | author=Gillespie, Alexander | year=2005 | pages=23}}</ref> By the end of [[World War II]], populations had been significantly depleted, and, in 1946, the first quotas restricting international trade in whales were introduced, but they were ineffective because of the lack of differentiation between species. Rare species could be hunted on an equal footing with those found in relative abundance.
+
+[[Arthur C. Clarke]], in his 1962 book ''Profiles of the Future'', was the first prominent [[intellectual]] to call attention to the plight of the blue whale. He mentioned its large brain and said, "we do not know the true nature of the entity we are destroying."<ref>[[Arthur C. Clarke|Clarke, Arthur C.]] ''Profiles of the Future; an Inquiry into the Limits of the Possible''. New York: Harper & Row, 1962</ref>
+
+All of historical coastal Asian groups were driven into virtual extinctions in very short periods by Japanese industrial hunts.<ref name=JMOE1998>{{cite journal|publisher=[[:ja:自然環境局|Nature Conservation Bureau]] of [[Ministry of the Environment (Japan)]]|year=1998|title=海域自然環境保全基礎調査 - 海棲動物調査報告書, (2)- 19. シャチ Orcinus orca (Limaeus,1758)マイルカ科|url=http://www.biodic.go.jp/reports2/5th/kaisei_h10/5_kaisei_h10.pdf|page=54|journal=自然環境保全基礎調査|format=PDF|accessdate=2015-01-16}}</ref> Those groups once migrated along western Japan to [[East China Sea]] were likely to be wiped out much earlier as the last catches on [[Amami Oshima]] was between 1910s and 1930s,<ref>{{cite web|authors=Miyazaki N., Nakayama K.|year=1989|title=Records of Cetaceans in the Waters of the Amami Island|url=http://ci.nii.ac.jp/naid/110004313130|journal=国立科学博物館専報 22, 235-249, 1989|format=PDF|page=[[CiNii]]|publisher=[[National Museum of Nature and Science]], Museum of History and Folklore in Kasari|accessdate=2015-01-16}}</ref> and the last of known stranding records on Japanese archipelago excluding [[Ryukyu Islands]] were over a half - century ago. Commercial catches were continued until 1965 and whaling stations targeting blues were mainly placed along [[Hokkaido]] and [[Sanriku]] coasts.<ref name=JMOE1998 />
+
+Blue whale hunting was banned in 1966 by the [[International Whaling Commission]],<ref>{{cite journal
+|last=Gambell
+|first=R
+|year= 1979
+|title=The blue whale
+|journal= Biologist
+|volume= 26
+|pages=209–215}}</ref><ref>{{cite journal
+|last=Best
+|first=PB
+|year=1993
+|title=Increase rates in severely depleted stocks of baleen whales
+|journal=ICES J. Mar Sci.
+|volume=50
+|pages=169–186
+|doi=10.1006/jmsc.1993.1018
+|issue=2}}</ref> and illegal whaling by the Soviet Union finally halted in the 1970s,<ref>{{cite journal
+|last=Yablokov
+|first=AV
+|year=1994
+|title=Validity of whaling data
+|journal=Nature
+|volume=367
+|issue=6459
+|page=108
+|doi=10.1038/367108a0|bibcode = 1994Natur.367..108Y }}</ref> by which time 330,000 blue whales had been caught in the Antarctic, 33,000 in the rest of the Southern Hemisphere, 8,200 in the North Pacific, and 7,000 in the North Atlantic. The largest original population, in the Antarctic, had been reduced to 0.15% of their initial numbers.<ref name=Ant/>
+
+===Population and distribution today===
+[[File:Blauwal01.jpg|thumb|A blue whale set against the backdrop of the [[Azores]]]]
+[[File:Blue whale tail fluke.JPG|thumb|A blue whale's tail fluke with the [[Santa Barbara Channel Islands]] in the background]]
+
+Since the introduction of the whaling ban, studies have examined whether the [[conservation reliant species|conservation reliant]] global blue whale population is increasing or remaining stable. In the Antarctic, best estimates show an increase of 7.3% per year since the end of illegal Soviet whaling, but numbers remain at under 1% of their original levels.<ref name=Ant/> According to a 2014 study, the Californian Blue Whale population has rebounded to an estimated 97% of its pre-hunting population.<ref>Hines, Sandra (5 September 2014) "[http://www.washington.edu/news/2014/09/05/california-blue-whales-rebound-from-whaling-first-of-their-kin-to-do-so/ California blue whales rebound from whaling; first of their kin to do so]", University of Washington</ref>
+
+The total world population was estimated to be between 5,000 and 12,000 in 2002, although there are high levels of uncertainty in available estimates for many areas.<ref name=pop/>
+
+The [[IUCN Red List]] counts the blue whale as "endangered" as it has since the list's inception. In the United States, the [[National Marine Fisheries Service]] lists them as endangered under the [[Endangered Species Act]].<ref>{{cite web
+|url=http://www.nmfs.noaa.gov/pr/laws/esa/
+|title=Endangered Species Act
+}}</ref> The largest known concentration, consisting of about 2,800 individuals, is the northeast Pacific population of the northern blue whale (''B. m. musculus'') subspecies that ranges from [[Alaska]] to [[Costa Rica]], but is most commonly seen from California in summer.<ref>Blue Whale (''Balaenoptera musculus''): Eastern North Pacific Stock (''NOAA Stock Reports'', 2009), p. 178.</ref> Infrequently, this population visits the northwest Pacific between [[Kamchatka Peninsula|Kamchatka]] and the northern tip of Japan.
+
+====North Atlantic====
+In the North Atlantic, two stocks of ''B. m. musculus'' are recognised. The first is found off [[Greenland]], [[Newfoundland and Labrador|Newfoundland]], Nova Scotia and the [[Gulf of Saint Lawrence]]. This group is estimated to total about 500. The second, more easterly group is spotted from the [[Azores]] in spring to Iceland in July and August; it is presumed the whales follow the [[Mid-Atlantic Ridge]] between the two volcanic islands. Beyond Iceland, blue whales have been spotted as far north as [[Spitsbergen]] and [[Jan Mayen]], though such sightings are rare. Scientists do not know where these whales spend their winters. The total North Atlantic population is estimated to be between 600 and 1,500. Off [[Ireland]], the first ever confirmed sightings were made in 2008,<ref>{{cite web|url=http://www.wildlifeextra.com/go/news/ireland-blue-whales723.html#cr|title=Wildlife Extra News - Blue whales sighted off Irish coast|author=Powell Ettinger|publisher=}}</ref> since then [[Porcupine Seabight]] has been regarded as a prominent habitat for the species along with fin whales.
+
+====North Pacific====
+Of the populations that once existed off coastal Japan, the last recorded confirmed stranding was in the 1950s.<ref>{{cite web|authors=Yamada T., Watanabe Y.|title=Marine Mammals Stranding DataBase - Blue Whale|url=http://svrsh2.kahaku.go.jp/drift/e/FMPro?-db=rec2000web.fp5&-format=%2fdrift%2fe%2fresults.htm&-lay=hp&-sortfield=%90%bc%97%ef%94%4e%8c%8e%93%fa&sp%5fid=14&-format=/drift/e/detail.htm&-skip=3&-max=1&-find|publisher=The [[National Museum of Nature and Science]]|accessdate=2015-01-06}}</ref> Some scientists regard that historical populations off Japan were driven to extinction by whaling activities, mostly from the Kumanonada Sea off [[Wakayama]], in [[Tosa Bay]], and in the [[Sea of Hyūga]]. Nowadays, possible vagrants from either eastern or offshore populations are observed on very rare occasions off [[Kushiro]].<ref>{{cite web|author=Kurosawa K.|year=2009|title=釧路沖のシロナガスクジラ|url=http://blog.goo.ne.jp/s38050018k/e/6ce4cb0af909e237f42c958dab8b8b55|accessdate=2015-01-06}}</ref> There were also small, but constant catch records around the [[Korean Peninsula]] and in the coastal waters of the [[Sea of Japan]] although this species is considered not to enter into [[marginal sea]]s, such as the [[Sea of Okhotsk]], on usual migrations. Whales were known to migrate further north to eastern [[Kamchatka]], the [[Gulf of Anadyr]] and the [[Commander Islands]]. Only three sightings were made between 1994 and 2004 in Russia<ref>{{cite journal|authors=Chernyagina A.A., Burdin A.M., Artyuhin Y.B., Danilin D.D., Lobkova L.E., Tokranov A.M., Artyuhin Y.B., Gerasimov N., Lobkov E.G., Zagrebelnyi S.V., Nicanor A.P., Fil V.I., Shulezhko T.S., Chernyagina O.A., Gimelbrant D.E., Kirichenko V.E., Selivanov O.|year=2013|title=Справочник-определитель редких и охраняемых видов живот- ных и растений Камчатского края|url=http://www.knigakamchatka.ru/pdf/spravochnik.pdf|publisher=Kamchatka Branch FGBUN Pacific Institute of Geography, Petropavlovsk-Kamchatsky: Kamchatpress|format=PDF|isbn=978-5-9610-0216-4 |accessdate=2014-06-09}}</ref> and whales have not been confirmed in [[Commander Islands]] for over past 80 years.<ref>{{cite journal|authors=Mamaev E.|year=2012|title=The fauna of marine mammals of Commander Islands: investigations and modern status|url=http://www.2mn.org/downloads/bookshelf/mmh7_vol2.pdf|journal=MARINE MAMMALS OF THE HOLARCTIC COLLECTION OF SCIENTIFIC PAPERS VOLUME 2 - After the Seventh International Conference
+Suzdal, Russia, September 24–28, 2012|pages=50–54|publisher=State Nature Biosphere Reserve ―Komandorskiy, The Marine Mammal Council|format=PDF|accessdate=2015-01-20}}</ref> Historically, wintering grounds existed off the [[Hawaiian Archipelago]], [[Northern Mariana Islands]], [[Bonin Islands]] and [[Ryukyu Islands]], [[Philippines]], [[Taiwan]], [[Zhoushan Archipelago]], and [[South China Sea]] coasts<ref>{{cite web|publisher=The Sanya Institute of Deep-sea Science and Engineering at The Chinese Academy Of Sciences|title=Identification Guide for Marine Mammals In the South China Sea|url=http://124.16.218.4/index.php|accessdate=2015-01-19}}</ref> such as in [[Daya Bay]], [[Leizhou Peninsula]], and [[Hainan Island]], and further south to [[Paracel Islands]].<ref name=Parcel08>{{cite journal|authors=黄晖，董志军，练健生|year=2008|title=论西沙群岛珊瑚礁生态系统自然保护区的建立|url=http://159.226.115.21/rddl/CN/article/downloadArticleFile.do?attachType=PDF&id=357.|journal=热 带 地 理 - TROPICAL GEOGRAPHY, Vol.28，No.6 Nov.，2008|accessdate=2015-01-07}}</ref> Archaeological records suggest Blue whales once migrated into [[Sea of Japan]] coasts of [[Korean Peninsula]] and Japanese coasts, and to [[Yellow Sea|Yellow]] and [[Bohai Sea]] as well.<ref>{{cite web|authors=Mr.Z., Charlie|year=2008|url=http://wenwen.sogou.com/z/q103329192.htm?ch=from.t.qq|title=我国的渤海里有没有鲸鱼|page=[[Sogou]] - Wenwen|accessdate=2015-01-03}}</ref> During cetacean sighting visual surveys in [[Tsushima Strait]] conducted by [[Japanese Coast Guard]], several gigantic whales measuring over 20m in length have been observed in recent years, however their exact identities are unclear.<ref name=JCGlog>{{cite web|publisher=Japanese Coast Guard|title=Maritime Information and Communication System - 福岡海上保安部 - 海洋生物目撃情報|url=http://www6.kaiho.mlit.go.jp/07kanku/fukuoka/info/ms/01kujira/top1.html|accessdate=2015-01-11}}</ref> A stranding was recorded in [[Wanning]] in 2005.<ref name=SanyaStrandings>{{cite web|publisher=The Sanya Institute of Deep-sea Science and Engineering at The Chinese Academy Of Sciences|title=鲸豚搁浅事件列表|url=http://124.16.218.4/list.php?page=2|accessdate=2015-01-19}}</ref> For further status in Chinese and Korean waters, see ''[[Wildlife of China]]''.
+
+====Southern Hemisphere====
+In the Southern Hemisphere, there appear to be two distinct subspecies, ''B. m. intermedia'', the Antarctic blue whale, and the little-studied pygmy blue whale, ''B. m. brevicauda'', found in Indian Ocean waters. The most recent surveys (midpoint 1998) provided an estimate of 2,280 blue whales in the Antarctic<ref>{{cite journal
+|last=Branch |first=T.A.
+|title=Abundance of Antarctic blue whales south of 60°S from three complete circumpolar sets of surveys
+|journal=Journal of Cetacean Research and Management |volume=9 |issue=3 |pages=87–96
+|year=2007}}</ref> (of which fewer than 1% are likely to be pygmy blue whales).<ref>{{cite journal
+|last1=Branch |first1=T.A.
+|last2=Abubaker |first2=E. M. N.
+|last3=Mkango |first3=S.
+|last4=Butterworth |first4=D. S.
+|title=Separating southern blue whale subspecies based on length frequencies of sexually mature females
+|journal=Marine Mammal Science |volume=23 |issue=4 |pages=803–833 |year=2007
+|doi=10.1111/j.1748-7692.2007.00137.x
+}}</ref> Estimates from a 1996 survey show that 424 pygmy blue whales were in a small area south of [[Madagascar]] alone,<ref>{{cite journal
+| title = The abundance of blue whales on the Madagascar Plateau, December 1996
+| author = P.B. Best
+| journal = Journal of Cetacean Research and Management| volume = 5 | issue = 3 | pages = 253–260
+| url = https://archive.iwc.int/pages/search.php?search=!collection15&k= | accessdate = December 2013
+| publisher = [[International Whaling Commission|IWC]]
+| year = 2003|display-authors=etal}}</ref> thus it is likely that numbers in the entire Indian Ocean are in the thousands. If this is true, the global numbers would be much higher than estimates predict.<ref name=BBC_pop/>
+
+Several congregating grounds are recently confirmed in [[Oceania]], such as on Perth Canyon off [[Rottnest Island]], waters of [[Great Australian Bight]] off [[Portland, Victoria|Portland]], and in [[South Taranaki Bight]]. Both species of Southern Blues and Pygmy Blues use waters off [[Western Australia]], and coastal areas of eastern [[North Island]] of New Zealand, from [[Northland Region|Northland]] waters such as in the [[Bay of Islands]] and [[Hauraki Gulf]] in north to [[Bay of Plenty]] in the south as breeding and calving grounds by some females, and as migratory colliders (very close to shore in the NZ region<ref>http://www.wadedoak.com/_disc1/0000154e.htm</ref>). At least for whales off southern and Western Australia and some others are known to migrate into tropic coastal waters in [[Indonesia]],<ref>{{cite web|url=http://www.powerboat-world.com/index.cfm?Nid=59148&ntid=57&subid=72276&nlid=458744&tbl=Subs&pwd=j6o2ut|title=Sail World - The Worlds largest sailing news network: Sail and sailing, cruising, boating news|work=Sail-World.com}}</ref> [[Philippines]],<ref>{{cite web|url=http://www.gmanetwork.com/news/video/77783/24oras/24oras-blue-whale-namataan-sa-bohol|title=24oras: Blue whale, namataan sa Bohol - 24 Oras - GMA News Online|work=GMA News Online}}</ref> and off [[East Timor]] <ref>{{cite web|url=http://www.reuters.com/article/2008/12/31/us-whales-timor-idUSTRE4BU0LD20081231|title=Global whale hot spot discovered off East Timor|work=Reuters}}</ref> (animals in Philippines may or may not originate from North Pacific populations as whales regularly appear off [[Bohol]], north of the [[Equator]]<ref>http://largemarinevertebratesproject.blogspot.jp/2012/04/spotting-big-blue.html</ref><ref>{{cite web|url=http://www.lamave.org/media/|title=Media|author=Large Marine Vertebrates Project Philippines|publisher=|accessdate=14 May 2015}}</ref>).
+
+====Subspecies' distribution====
+A fourth subspecies, ''B. m. indica'', was identified by [[Edward Blyth|Blyth]] in 1859 in the northern Indian Ocean, but difficulties in identifying distinguishing features for this subspecies led to it being used as a synonym for ''B. m. brevicauda'', the pygmy blue whale. Records for Soviet catches seem to indicate that the female adult size is closer to that of the Pygmy Blue than ''B. m. musculus'', although the populations of ''B. m. indica'' and ''B. m. brevicauda'' appear to be discrete, and the breeding seasons differ by almost six months.<ref name = SHDistribution>{{cite journal
+|title=Past and present distribution, densities and movements of blue whales ''Balaenoptera musculus'' in the Southern Hemisphere and northern Indian Ocean
+|author=T. A. Branch, K. M. Stafford, D. M. Palacios
+|journal = Mammal Review |year=2007 |volume = 37 |issue=2 |pages = 116–175
+|doi=10.1111/j.1365-2907.2007.00106.x}}</ref>
+
+Migratory patterns of these subspecies are not well known. For example, pygmy blue whales have been recorded in the northern Indian Ocean ([[Oman]], Maldives and [[Sri Lanka]]), where they may form a distinct resident population.<ref name= SHDistribution /> In addition, the population of blue whales occurring off [[Chile]] and [[Peru]] may also be a distinct subspecies. Some Antarctic blue whales approach the eastern South Atlantic coast in winter, and occasionally, their vocalizations are heard off Peru, Western Australia, and in the northern Indian Ocean.<ref name= SHDistribution /> In Chile, the [[Cetacean Conservation Center]], with support from the [[Chilean Navy]], is undertaking extensive research and conservation work on a recently discovered feeding aggregation of the species off the coast of [[Chiloe Island]] in the [[Gulf of Corcovado]]([[Chiloé National Park]]), where 326 blue whales were spotted in 2007.<ref>{{cite web
+| title=Blue Whales in Chile: The Giants of Marine Conservation
+| publisher=[[Rufford Small Grants Foundation]]
+| url=http://www.rufford.org/files/I.41%20Detailed%20Final%20Report.pdf
+| author=Rodrigo Hucke-Gaete
+| format=PDF| accessdate=22 March 2009}}</ref> In this regions, it is normal for blue whales to enter [[Fiord]]s. Whales also reach southern Los Lagos, such as off [[Caleta Zorra]], live along with other rorquals.
+
+Efforts to calculate the blue whale population more accurately are supported by marine mammologists at [[Duke University]], who maintain the Ocean Biogeographic Information System—Spatial Ecological Analysis of Megavertebrate Populations (OBIS-SEAMAP), a collation of marine mammal sighting data from around 130 sources.<ref>The data for the blue whale, along with a species profile, may be found here [http://seamap.env.duke.edu/species/tsn/180528]</ref>
+
+===Threats other than hunting===
+[[File:Blue Whale (Balaenoptera musculus) Mysticeti baleen whale.jpg|thumb|right|A blue whale surfaces]]
+[[File:Example of Blue Whales' D calls in presence of MFA sonar - Melcón et al. 2012.png|thumb|right|Blue whales stop producing foraging D calls once a mid-frequency sonar is activated, even though the sonar frequency range (1–8 kHz) far exceeds their sound production range (25–100 Hz).<ref name="Melcón2012"/>]]
+Due to their enormous size, power and speed, adult blue whales have virtually no natural predators. There is one documented case in ''[[National Geographic Magazine]]'' of a blue whale being attacked by [[orca]]s off the [[Baja California Peninsula]]; although the orcas were unable to kill the animal outright during their attack, the blue whale sustained serious wounds and probably died as a result of them shortly after the attack.<ref>{{cite journal
+| author = Tarpy, C.
+| title = Killer whale attack!
+| journal = National Geographic
+| year = 1979
+| volume = 155
+| issue = 4
+| pages = 542–545 }}</ref> Up to a quarter of the blue whales identified in Baja bear scars from orca attacks.<ref name=Bortolotti/>
+
+Blue whales may be wounded, sometimes fatally, after colliding with ocean vessels, as well as becoming trapped or entangled in fishing gear.<ref name="recplan98"/> The ever-increasing amount of ocean noise, including [[Marine mammals and sonar|sonar]], drowns out the vocalizations produced by whales, which makes it harder for them to communicate.<ref name="Melcón2012">{{cite journal|title=Blue Whales Respond to Anthropogenic Noise | doi=10.1371/journal.pone.0032681 | volume=7 | journal=PLoS ONE | pages=e32681|bibcode = 2012PLoSO...732681M }}</ref><ref name="recplan98"/> Blue whales stop producing foraging D calls once a mid-frequency sonar is activated, even though the sonar frequency range (1–8&nbsp;kHz) far exceeds their sound production range (25–100&nbsp;Hz).<ref name="Melcón2012"/> Human threats to the potential recovery of blue whale populations also include accumulation of [[polychlorinated biphenyl]] (PCB) chemicals within the whale's body.<ref name="wheelock" />
+
+With [[global warming]] causing glaciers and permafrost to melt rapidly and allowing a large amount of fresh water to flow into the oceans, there are concerns that if the amount of fresh water in the oceans reaches a critical point, there will be a [[Shutdown of thermohaline circulation|disruption in the thermohaline circulation]].<ref>{{cite journal |last=Schiermeier |first=Quirin |year=2007 |title=Climate change: a sea change |journal=[[Nature (journal)|Nature]] |volume=439 |issue=7074 |pages=256–260 |url=http://www.nature.com/nature/journal/v439/n7074/full/439256a.html |doi=10.1038/439256a |pmid=16421539|bibcode = 2006Natur.439..256S }} (subscription required); see also {{cite web |title=Atlantic circulation change summary |date=19 January 2006 |work=RealClimate.org |url=http://www.realclimate.org/index.php?p=187}}</ref> Considering the blue whale's migratory patterns are based on ocean temperature, a disruption in this circulation, which moves warm and cold water around the world, would be likely to have an effect on their migration.<ref>{{cite web
+|url=http://www.bto.org/sites/default/files/u196/downloads/rr414.pdf
+|author=Robert A. Robinson, Jennifer A. Learmonth, Anthony M. Hutson, Colin D. Macleod, Tim H. Sparks, David I. Leech, Graham J. Pierce, Mark M. Rehfisch and Humphrey Q.P. Crick
+|title=Climate Change and Migratory Species
+|publisher=BTO
+|date=August 2005
+|accessdate = 9 July 2007
+|format=PDF}}</ref> The whales summer in the cool, high latitudes, where they feed in krill-abundant waters; they winter in warmer, low latitudes, where they mate and give birth.<ref>{{cite journal
+| author = Hucke-Gaete, Rodrigo, Layla P. Osman, Carlos A. Moreno, Ken P. Findlay, and Don K. Ljungblad
+| title = Discovery of a Blue Whale Feeding and Nursing Ground in Southern Chile
+| journal = The Royal Society
+| year = 2003
+| pages = s170–s173
+| url = http://www.pubmedcentral.nih.gov.oca.ucsc.edu/picrender.fcgi?artid=1810017&blobtype=pdf}}</ref>
+
+The change in ocean temperature would also affect the blue whale's food supply. The warming trend and decreased salinity levels would cause a significant shift in krill location and abundance.<ref>{{cite journal
+| author = Moline, Mark A., Herve Claustre, Thomas K. Frazer, Oscar Schofield, and Maria Vernet
+| title = Alteration of the Food Web Along the Antarctic Peninsula in Response to a Regional Warming Trend
+| journal = Global Change Biology
+| volume = 10 |issue=12
+| year = 2004
+| pages = 1973–1980
+| url = http://www.blackwell-synergy.com.oca.ucsc.edu/doi/abs/10.1111/j.1365-2486.2004.00825.x
+| doi = 10.1111/j.1365-2486.2004.00825.x}}</ref>
+
+==Museums==
+[[File:Marine Life Hall, American Museum of Natural History (7356570628).jpg|thumb|right|The [[AMNH Exhibitions Lab|Exhibition Lab's]] blue whale at the [[American Museum of Natural History]].]]
+
+[[File:BlueWhaleSkeleton.jpg|thumb|Blue whale skeleton, outside the Long Marine Laboratory at the [[University of California, Santa Cruz]]]]
+
+The [[Natural History Museum, London#Major specimens and exhibits|Natural History Museum]] in London contains a famous mounted skeleton and life-size model of a blue whale, which were both the first of their kind in the world, but have since been replicated at the [[University of California, Santa Cruz]]. Similarly, the [[American Museum of Natural History]] in New York City has a full-size model in its Milstein Family Hall of Ocean Life. A juvenile blue whale skeleton is installed at the [[New Bedford Whaling Museum]] in [[New Bedford, Massachusetts]].
+
+The [[Aquarium of the Pacific]] in [[Long Beach, California]] features a life-size model of a mother blue whale with her calf suspended from the ceiling of its main hall.<ref>{{cite web
+| title=Aquarium of the Pacific – Online Learning Center – Blue Whale
+| url=http://www.aquariumofpacific.org/onlinelearningcenter/species/blue_whale/
+| accessdate=12 August 2009}}</ref> The [[Beaty Biodiversity Museum]] at the [[University of British Columbia]], Canada, houses a display of a blue whale skeleton (skull is cast replica) directly on the main campus boulevard.<ref>{{cite web|url=http://www.beatymuseum.ubc.ca/projblue01.html|title=The Blue Whale Project |year=2010|work=Beaty Biodiversity Museum|publisher=University of British Columbia|accessdate=2 May 2010|location= Vancouver, BC|archiveurl=https://web.archive.org/web/20100404042222/http://www.beatymuseum.ubc.ca/projblue01.html |archivedate=4 April 2010}}</ref> A real skeleton of a blue whale at the [[Canadian Museum of Nature]] in Ottawa was also unveiled in May 2010.<ref>{{cite web|author=Canada |url=http://nature.ca/en/plan-your-visit/what-see-do/our-exhibitions/water-gallery |title=Exhibition: RBC Blue Water Gallery &#124; Canadian Museum of Nature |publisher=Nature.ca |accessdate=13 August 2012}}</ref>
+
+The Museum of Natural History in Gothenburg, Sweden contains the only stuffed blue whale in the world. There one can also find the skeleton of the whale mounted beside the whale.
+
+The [[Melbourne Museum]] and [[Museum of New Zealand Te Papa Tongarewa]]<ref>{{cite web|url=http://collections.tepapa.govt.nz/topic/999|title=Topic: Pygmy blue whale (Balaenoptera musculus)|quote=The suspended skeleton in Mountains to the Sea...}}</ref> both feature a skeleton of the [[pygmy blue whale]].
+
+The [[North Carolina Museum of Natural Sciences]] in [[Raleigh, North Carolina]] features a mounted skeleton of a blue whale which visitors can view from both the first and second floors.
+
+The [[South African Museum]] in [[Cape Town, South Africa]], features a considerable hall devoted to whales and natural history known as the Whale Well. The centrepiece of the exhibit is a suspended mounted Blue Whale skeleton, gleaned from the carcass of a partially mature specimen which washed ashore in the mid 1980s. The skeleton's jaw bones are mounted on the floor of Whale Well to permit visitors a direct contact with them, and to walk between them so as to appreciate the size of the animal. Other mounted skeletons include that of a [[Humpback Whale]] and a [[Right Whale]], together with in-scale composite models of other whales, dolphins and porpoises.
+
+The [[Tokyo National Museum]] in [[Ueno Park]] displays a life-sized model of a blue whale in the front. Several other institutions such as [[Tokai University]] and Taiji Whale Museum hold skeleton of skeleton model of Pygmy blue whales, while several churches and buildings in western Japan including [[Nagasaki Prefecture]] display jawbone of captured animals as a gate.
+
+==Whale-watching==
+Blue whales may be encountered (but rarely) on [[whale-watching]] cruises in the [[Gulf of Maine]]<ref>{{cite journal
+|author= Wenzel FW, Mattila DK, Clapham PJ
+|year=1988
+|title=''Balaenoptera musculus'' in the Gulf of Maine
+|journal= Mar Mammal Sci.
+|volume=4
+|pages= 172–175
+|doi=10.1111/j.1748-7692.1988.tb00198.x
+|issue= 2}}</ref> and are the main attractions along the north shore of the [[Gulf of Saint Lawrence]] and in the Saint Lawrence estuary.<ref name="recplan98">{{Cite book
+| author = Reeves RR, Clapham PJ, Brownell RL, Silber GK
+| title =Recovery plan for the blue whale ''(Balaenoptera musculus)''
+| year = 1998
+| page = 42
+| place = Silver Spring, MD
+| publisher = National Marine Fisheries Service
+| accessdate=20 June 2007
+| url=http://www.nmfs.noaa.gov/pr/pdfs/recovery/whale_blue.pdf
+|format=PDF}}</ref> Blue whales can also be seen off Southern California, starting as early as March and April, with the peak between July and September.<ref>{{cite news
+| url = http://www.huffingtonpost.com/2010/09/21/blue-whales-spotted-in-un_n_732181.html
+| title = Blue Whales Spotted In Unusually Large Numbers Off Southern California Shore
+| publisher = The Huffington Post
+| date = 21 September 2010
+| accessdate = 2 April 2012}}</ref> More whales have been observed close to shore along with fin whales.
+
+In [[Chile]], the [[Alfaguara project]] combines conservation measures for the population of blue whales feeding off [[Chiloé Island]] with whale watching and other ecotourism activities that bring economic benefits to the local people.<ref name=Rufford2008>{{cite web
+| url = http://www.rufford.org/files/I.28%20Detailed%20Final%20Report.pdf
+| title = Alfaguara project
+| publisher = Rufford Small Grant s Foundation
+| date = January 2008
+| accessdate = 1 April 2012}}</ref>
+Whale-watching, principally blue whales, is also carried out south of [[Sri Lanka]].<ref>{{cite web
+| url=http://www.wildlifeextra.com/go/whales/sri-lanka-whales.html#cr
+| title=Is southern Sri Lanka the world's top spot for seeing Blue and Sperm whales?
+| publisher=Wildlife Extra.com
+| author=Gehan de Silva Wijeyeratne
+| accessdate=15 April 2011}}</ref> Whales are widely seen along the coast of Chile and Peru near the coast, occasionally making mixed groups with fin, sei, and Bryde's whales.
+
+In Australia, pygmy blue and Antarctic blue whales have been observed from various tours in almost all the coastlines of the continent. Among these, tours with sightings likely the highest rate are on west coast such as in [[Geographe Bay]]<ref>{{cite web|url=http://legendcharters.net.au/blue-whales-arrive-geographe-bay/|title=Blue Whales arrive in Geographe Bay|work=Whale watching & Deep sea fishing charters in South West Australia|accessdate=14 May 2015}}</ref> and in [[Great South Australian Coastal Upwelling System|southern bight off Portland]].<!--<ref>{{cite web|url=http://www.melbourneplaygrounds.com.au/melbourneplaygrounds-info.php?id=24593|title=<br /> '''Warning''':  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: Unable to jump to row 0 on MySQL result index 6 in '''/home/melbplay/public_html/metatags_breadcrumb_inc.php''' on line '''19'''<br />  -|publisher=|accessdate=14 May 2015}}</ref>--> For later, special tours to observe pygmy blues by helicopters are organized.<ref>{{cite av media|url=https://www.youtube.com/user/HeliExplore/videos|title=HeliExplore|work=YouTube|accessdate=14 May 2015}}</ref>
+
+In New Zealand, whales have been seen in many areas close to shore, most notably around the Northland coast, in the Hauraki Gulf and the Bay of Plenty,<ref>{{cite web|url=http://www.gettyimages.co.jp/detail/photo/blue-whale-feeding-near-shore-new-zealand-high-res-stock-photography/91275736|title=Blue Whale Feeding Near Shore New Zealand ストックフォト 91275736|author=Kim Westerskov|work=Getty Images}}</ref> off South Taranaki Bight, in [[Cook Strait]] and off [[Kaikoura]] with remarkably increasing sighting trends in recent years<ref>{{cite web|url=https://www.facebook.com/photo.php?fbid=10151231146592439&set=a.10151189441912439.475676.80046347438&type=3&src=https%3A%2F%2Fscontent-a.xx.fbcdn.net%2Fhphotos-ash3%2Ft1.0-9%2F521574_10151231146592439_335296166_n.jpg&size=800%2C438|title=Project Jonah Photographer of the Month:... - Project Jonah New Zealand - Facebook|publisher=}}</ref> with some whales started staying in the same area near the shore for several days.<ref>{{cite web|url=http://www.stuff.co.nz/marlborough-express/news/kaikoura/8208859/Blue-whale-sightings-excite-tourists|title=Blue whale sightings excite tourists|work=Stuff|accessdate=14 May 2015}}</ref>
+Similar approaches with Portland's case to use helicopters was once attempted in South Taranaki Bight, but seemingly been cancelled according to considerations.<ref>{{cite web|url=http://www.stuff.co.nz/taranaki-daily-news/news/7157250/No-whale-watch-likely-here|title=No whale watch likely here|work=Stuff|accessdate=14 May 2015}}</ref>
+
+==See also==
+* [[List of cetaceans|List of whale and dolphin species]]
+* [[List of whale vocalizations]]
+{{Portal bar|Cetaceans|Marine life}}
+
+==Footnotes==
+{{notelist}}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==Further reading==
+{{Refbegin}}
+* {{RefAudubonMarineMammals}} pp.&nbsp;89–93.
+* {{Cite book
+| title = Blue Whales
+| author = J. Calambokidis and G. Steiger
+| year = 1998
+| publisher = Voyageur Press
+| isbn = 0-89658-338-4}}
+* {{cite web
+| title=Blue Whale
+| work= [[American Cetacean Society]]
+| url= http://www.acsonline.org/factpack/bluewhl.htm
+| accessdate = 7 January 2005
+| archiveurl= https://web.archive.org/web/20041229091633/http://www.acsonline.org/factpack/bluewhl.htm <!-- Added by H3llBot -->
+| archivedate= 29 December 2004}}
+* {{cite web
+| title=Blue whale, ''Balaenoptera musculus''
+| work = MarineBio.org
+| url = http://marinebio.org/species.asp?id=41
+| accessdate = 21 April 2006}}
+* [http://www.nmfs.noaa.gov/pr/species/mammals/cetaceans/bluewhale.htm NOAA Fisheries, Office of Protected Resources] Blue whale biology & status
+{{Refend}}
+
+==External links==
+{{Commons
+|Balaenoptera musculus}}
+{{Wikispecies
+|Balaenoptera musculus}}
+{{Spoken Wikipedia|Blue whale.ogg|2006-04-13}}
+* [http://www.arkive.org/species/GES/mammals/Balaenoptera_musculus/ Photographs and movies from ARKive]
+* [http://www.birds.cornell.edu/brp/listen-to-project-sounds/blue-whale Blue whale vocalizations] – [[Cornell]] Lab of Ornithology—Bioacoustics Research Program
+* [http://news.bbc.co.uk/2/hi/science_and_environment/10340277.stm BBC News – Great whales]
+* [http://www.bbc.co.uk/nature/species/Blue_Whale Blue whale video clips and news from the BBC – BBC Wildlife Finder]
+* {{YouTube|l9QaFkG17ds|Blue whales in Sri Lanka}}
+* [http://www.balaenopteramusculus.com/ ''Balaenoptera musculus'']
+* [http://cetus.ucsd.edu/voicesinthesea_org/species/baleenWhales/blue.html Voices in the Sea - Sounds of the Blue Whale]
+
+<!-- Meta-data goes here --->
+{{Cetacea|M.}}
+
+{{Featured article}}
+
+{{DEFAULTSORT:Blue Whale}}
+[[Category:Arctic cetaceans]]
+[[Category:Animals described in 1758]]
+[[Category:Blue whales| ]]
+[[Category:Cetaceans of Australia]]
+[[Category:Conservation-reliant species]]
+[[Category:Fauna of the Atlantic Ocean]]
+[[Category:Fauna of the Pacific Ocean]]
+[[Category:Fauna of the Indian Ocean]]

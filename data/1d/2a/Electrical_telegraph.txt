@@ -1,0 +1,184 @@
+{{Use dmy dates|date=May 2013}}
+[[File:Telegraf.jpg|thumb|275px|A printing electrical telegraph receiver, with transmitter key at bottom right]]
+
+An '''electrical telegraph''' is a [[telegraph]] that uses [[Signal (information theory)|electrical signals]], usually conveyed via dedicated [[Channel (communications)|telecommunication lines]] or [[radio]]. The ''electromagnetic telegraph'' is a [[Machine|device]] for human-to-human [[Transmission (telecommunications)|transmission]] of coded [[message]]s.
+
+The electrical telegraph, or more commonly just '''telegraph''', superseded [[Semaphore line|optical semaphore telegraph systems]], such as [[Claude Chappe]]'s cables designed for communication among the French military, and [[Friedrich Clemens Gerke]] for the [[Prussian semaphore system|Prussian military]], thus becoming the first form of electrical [[telecommunication]]s. In a matter of decades after their creation, electrical telegraph networks permitted people and commerce to transmit messages across both continents and oceans almost instantly, with widespread social and economic impacts.
+
+== History ==
+<!-- This section is linked from [[List of basic communication topics]] -->
+
+===Early work===
+
+[[File:Soemmerring 1810 telegraph overview.jpg|thumb|Sömmering's electric telegraph in 1809]]
+From early studies of electricity, electrical phenomena were known to travel with great speed, and many experimenters worked on the application of electricity to [[communication]]s at a distance.
+	 	
+All the known effects of electricity - such as [[electric spark|sparks]], [[electrostatic attraction]], [[chemical change]]s, [[electric shock]]s, and later [[electromagnetism]] - were applied to the problems of detecting controlled transmissions of electricity at various distances.
+	
+In 1753 an anonymous writer in the ''Scots Magazine'' suggested an electrostatic telegraph. Using one wire for each letter of the alphabet, a message could be transmitted by connecting the wire terminals in turn to an electrostatic machine, and observing the deflection of [[pith]] balls at the far end.<ref>E. A. Marland, ''Early Electrical Communication'', Abelard-Schuman Ltd, London 1964, no ISBN, Library of Congress 64-20875, pages 17-19;</ref> Telegraphs employing electrostatic attraction were the basis of early experiments in electrical telegraphy in Europe, but were abandoned as being impractical and were never developed into a useful communication system{{citation needed|date=February 2015}}.
+	 	
+In 1800 [[Alessandro Volta]] invented the [[voltaic pile]], allowing for a [[continuous current]] of [[electricity]] for experimentation. This became a source of a low-voltage current that could be used to produce more distinct effects, and which was far less limited than the momentary discharge of an [[electrostatic generator|electrostatic machine]], which with [[Leyden jar]]s were the only previously known man-made sources of electricity.
+	 	
+Another very early experiment in electrical telegraphy was an 'electrochemical telegraph' created by the [[Germans|German]] physician, anatomist and inventor [[Samuel Thomas von Sömmering]] in 1809, based on an earlier, less robust design of 1804 by [[Països Catalans|Catalan]] [[polymath]] and scientist [[Francisco Salva Campillo]].<ref name="Harvard1" /> Both their designs employed multiple wires (up to 35) to represent almost all Latin letters and numerals. Thus, messages could be conveyed electrically up to a few kilometers (in von Sömmering's design), with each of the telegraph receiver's wires immersed in a separate glass tube of acid. An electric current was sequentially applied by the sender through the various wires representing each digit of a message; at the recipient's end the currents electrolysed the acid in the tubes in sequence, releasing streams of hydrogen bubbles next to each associated letter or numeral. The telegraph receiver's operator would watch the bubbles and could then record the transmitted message.<ref name="Harvard1">Jones, R. Victor [http://people.seas.harvard.edu/~jones/cscie129/images/history/von_Soem.html Samuel Thomas von Sömmering's "Space Multiplexed" Electrochemical Telegraph (1808-10)], Harvard University website. Attributed to "[http://books.google.com/books?id=Oxc7AAAAMAAJ&q=Semaphore+to+Satellite,Published+by+the+International+Telecommunication+Union,+Geneva+1965&dq=Semaphore+to+Satellite,Published+by+the+International+Telecommunication+Union,+Geneva+1965&ei=XdL9SfrCIoOgNcChzLkK Semaphore to Satellite]" , International Telecommunication Union, Geneva 1965. Retrieved 2009-05-01</ref> This is in contrast to later telegraphs that used a single wire (with ground return).
+	 	
+[[Hans Christian Ørsted]] discovered in 1820 that an electric current produces a magnetic field which will deflect a compass needle. In the same year Johann Schweigger invented the [[galvanometer]], with a coil of wire around a compass, which could be used as a sensitive indicator for an electric current. In 1821, [[André-Marie Ampère]] suggested that telegraphy could be done by a system of galvanometers, with one wire per galvanometer to indicate each letter, and said he had experimented successfully with such a system. In 1824, [[Peter Barlow (mathematician)|Peter Barlow]] said that such a system only worked to a distance of about {{convert|200|ft|m}}, and so was impractical{{citation needed|date=March 2015}}.
+	 	
+In 1825 [[William Sturgeon]] invented the electromagnet, with a single winding of uninsulated wire on a piece of varnished [[iron]], which increased the magnetic force produced by electric current. [[Joseph Henry]] improved it in 1828 by placing several windings of insulated wire around the bar, creating a much more powerful electromagnet which could operate a telegraph through the high resistance of long telegraph wires. During his tenure at [[The Albany Academy]] from 1826 to 1832, Henry first demonstrated the theory of the magnetic telegraph by ringing a bell through a mile of wire strung around the room.<ref>{{cite book|last=Henry Pitt Phelps|first=|title=The Albany Hand-book: A Strangers' Guide and Residents' Manual|year=1884|publisher=Brandow & Barton|location=Albany|page=6}}</ref>
+	 	
+In 1835 [[Joseph Henry]] and [[Edward Davy]] invented the critical [[relay|electrical relay]]. Davy's relay used a magnetic needle which dipped into a mercury contact when an electric current passed through the surrounding coil.<ref name=adb>{{Australian Dictionary of Biography |last=Gibberd |first=William |year=1966 |id2=davy-edward-1966 |title=Edward Davy |accessdate= 7 June 2012}}</ref> This allowed a weak current to operate a powerful local electromagnet over very long distances.<ref>{{cite web| url=http://www.si.edu/archives/ihd/jhp/joseph20.htm| title=Joseph Henry: Inventor of the Telegraph? Smithsonian Institution | accessdate=2006-06-29 |archiveurl = http://web.archive.org/web/20060626163000/http://www.si.edu/archives/ihd/jhp/joseph20.htm <!-- Bot retrieved archive --> |archivedate = 2006-06-26}}</ref><ref>{{cite book| title=Joseph Henry: His Life and Work| author=Thomas Coulson | publisher =Princeton University Press| location = Princeton| year = 1950}}</ref>
+
+===First working systems===
+
+The first working electrostatic telegraph was built by the English inventor [[Francis Ronalds]]. In 1816 he laid down eight miles of wire insulated in glass tubing in his garden and connected both ends to two clocks marked with the letters of the alphabet. Electrical impulses sent along the wire were used to transmit messages. He offered his invention to the [[Admiralty]], describing it as "a mode of conveying telegraphic intelligence with great rapidity, accuracy, and certainty, in all states of the atmosphere, either at night or in the day, and at small expense." However, there was little official enthusiasm for his device in the aftermath of the [[Napoleonic Wars]]. He published an account of his apparatus in the 1823 ''Descriptions of an Electrical Telegraph, and of some other Electrical Apparatus''.<ref>{{cite web|url=http://www.historyofinformation.com/expanded.php?id=519|title=The First Working Electric Telegraph (1816)}}</ref>
+
+[[File:Pavel Shilling.jpg|thumb|[[Pavel Shilling]], an early pioneer of electrical telegraphy]]
+The telegraph invented by [[Baron Schilling]] von Canstatt in 1832 had a transmitting device which consisted of a keyboard with 16 black-and-white keys. These served for switching the electric current. The receiving instrument consisted of six [[galvanometer]]s with magnetic needles, suspended from [[silk]] [[Yarn|threads]]. Both stations of Shilling's telegraph were connected by eight wires; six were connected with the [[galvanometer]]s, one served for the return current and one - for a signal bell. When at the starting station the operator pressed a key, the corresponding pointer was deflected at the receiving station. Different positions of black and white flags on different disks gave combinations which corresponded to the letters or numbers. Pavel Shilling subsequently improved its apparatus. He reduced the number of connecting wires from eight to two.
+	 	
+On 21 October 1832, Schilling managed a short-distance transmission of signals between two telegraphs in different rooms of his apartment. In 1836 the British government attempted to buy the design but Schilling instead accepted overtures from [[Nicholas&nbsp;I of Russia]]. Schilling's telegraph was tested on a {{convert|5|km|mi|adj=mid|-long}} experimental underground and underwater cable, laid around the building of the main Admiralty in Saint Petersburg and was approved for a telegraph between the imperial palace at [[Peterhof Palace|Peterhof]] and the naval base at [[Kronstadt]]. However, the project was cancelled following Schilling's death in 1837.<ref>Huurdeman, A.A., ''The worldwide history of telecommunications'', p.54, Wiley-IEEE, 2003 ISBN 0-471-20505-2</ref> Schilling was also one of the first to put into practice the idea of the [[binary coding|binary]] system of signal transmission.
+	
+In 1833, [[Carl Friedrich Gauss]], together with the physics professor [[Wilhelm Eduard Weber|Wilhelm Weber]] in [[Göttingen]] installed a {{convert|1200|m|ft|adj=mid|-long}} wire above the town's roofs. Gauss combined the [[Johann Christian Poggendorff|Poggendorff]]-Schweigger multiplicator with his magnetometer to build a more sensitive device, the [[galvanometer]]. To change the direction of the electric current, he constructed a [[commutator (electric)|commutator]] of his own. As a result, he was able to make the distant needle move in the direction set by the commutator on the other end of the line.
+
+At first, they used the telegraph to coordinate time, but soon they developed other signals; finally, their own alphabet. The alphabet was encoded in a binary code which was transmitted by positive or negative voltage pulses which were generated by means of moving an induction coil up and down over a permanent magnet and connecting  the coil with the transmission wires by means of the commutator. The page of Gauss' laboratory notebook containing both his code and the first message transmitted, as well as a replica of the telegraph made in the 1850s under the instructions of Weber are kept in the faculty of physics of Göttingen University.
+
+Gauss was convinced that this communication would be a help to his kingdom's towns. Later in the same year, instead of a [[Voltaic pile]], Gauss used an [[Electromagnetic induction|induction]] pulse, enabling him to transmit seven letters a minute instead of two. The inventors and university were too poor to develop the telegraph on their own, but they received funding from [[Alexander von Humboldt]]. [[Carl August Steinheil]] in [[Munich]] was able to build a telegraph network within the city in 1835-6. He installed a telegraph line along the first German railroad in 1835.
+
+Across the Atlantic, in 1836 an American scientist, Dr. [[David Alter]], invented the first known American electric telegraph, in Elderton, Pennsylvania, one year before the Morse telegraph. Alter demonstrated it to witnesses but never developed the idea into a practical system.<ref>''Popular Science'', February 1882, '''vol.20''', no.28, p.568, Bonnier Corporation, ISSN 0161-7370.</ref> He was interviewed later for the book Biographical and Historical Cyclopedia of Indiana and Armstrong Counties, in which he said: "I may say that there is no connection at all between the telegraph of Morse and others and that of myself.... Professor Morse most probably never heard of me or my Elderton telegraph."
+
+=== Commercial telegraphy ===
+
+==== Cooke and Wheatstone system ====
+
+[[File:Cooke and Wheatstone electric telegraph.jpg|thumb|left|[[Cooke and Wheatstone telegraph|Cooke and Wheatstone's]] five-needle, six-wire telegraph]]
+The first commercial electrical telegraph, the [[Cooke and Wheatstone telegraph]], was co-developed by [[William Fothergill Cooke]] and [[Charles Wheatstone]]. In May 1837 they patented a telegraph system which used a number of needles on a board that could be moved to point to letters of the alphabet.  The patent recommended a five-needle system, but any number of needles could be used depending on the number of characters it was required to code.  A four-needle system was installed between [[Euston railway station|Euston]] and [[Camden Town]] in London on a rail line being constructed by [[Robert Stephenson]] between London and Birmingham.  It was successfully demonstrated on 25 July 1837.<ref>[http://www.connected-earth.com/journeys/Firstgenerationtechnologies/Thetelegraph/Thetelegraphicagedawns/index.htm The telegraphic age dawns] BT Group Connected Earth Online Museum. Accessed December 2010, [http://www.webcitation.org/6EKr7FUkw archived] 10 Feb 2013</ref> Euston needed to signal to an engine house at Camden Town to start hauling the locomotive up the incline.  As at Liverpool, the electric telegraph was in the end rejected in favour of a pneumatic system with whistles.<ref name="Bowers 129">Bowers, page 129</ref>
+
+Cooke and Wheatstone had their first commercial success with a system installed on the [[Great Western Railway]] over the {{convert|13|mi|km}} from [[Paddington station]] to [[West Drayton]] in 1838, the first commercial telegraph in the world.<ref>Huurdeman, page 67</ref>  This was a five-needle, six-wire<ref name="Bowers 129"/> system.  The cables were originally installed underground in a steel conduit.  However, the cables soon began to fail as a result of deteriorating insulation and were replaced with uninsulated wires on poles.<ref>Huurdeman, pages&nbsp;67–68<br/>Beauchamp, page 35</ref>  As an interim measure, a two-needle system was used with three of the remaining working underground wires, which despite using only two needles had a greater number of codes.<ref name="Mercer 7">Mercer, page 7</ref>  But when the line was extended to [[Slough]] in 1843, a one-needle, two-wire system was installed.<ref>Huurdeman, page 69</ref>
+
+From this point the use of the electric telegraph started to grow on the new railways being built from London.  The [[London and Blackwall Railway]] (another rope-hauled application) was equipped with the Cooke and Wheatstone telegraph when it opened in 1840, and many others followed.<ref>Beauchamp, page 35</ref>  The one-needle telegraph proved highly successful on British railways, and 15,000 sets were still in use at the end of the nineteenth century.  Some remained in service in the 1930s.<ref name="Huurdeman pages 67 69">Huurdeman, pages&nbsp;67–69</ref>  In September 1845 the financier [[John Lewis Ricardo]] and Cooke formed the [[Electric Telegraph Company]], the first public telegraphy company in the world.  This company bought out the Cooke and Wheatstone patents and solidly established the telegraph business.<ref>Nichols, John (1967). ''The Gentleman's magazine, Volumes 282–283.'' p. 545. University of California</ref><ref>{{cite web|url=http://www.bbc.co.uk/history/british/victorians/victorian_technology_01.shtml|title=Victorian Technology|author=Paul Atterbury|publisher=BBC}}</ref>
+
+As well as the rapid expansion of the use of the telegraphs along the railways, they soon spread into the field of mass communication with the instruments being installed in [[post office]]s across the country. The era of mass personal communication had begun.
+
+==== Morse system ====
+
+[[File:L-Telegraph1.png|thumb|left|200px|A Morse key]]
+An electrical telegraph was independently developed and patented in the United States in 1837 by [[Samuel Morse]]. His assistant, [[Alfred Vail]], developed the [[Morse code]] signalling [[alphabet]] with Morse. The first telegram in the United States was sent by Morse on 11 January 1838, across two miles (3&nbsp;km) of wire at [[Speedwell Ironworks]] near Morristown, New Jersey, although it was only later, in 1844, that he sent the message "[[Baltimore-Washington telegraph line|WHAT HATH GOD WROUGHT]]"<ref>Howe, p. 7</ref> from the [[United States Capitol|Capitol]] in Washington to the [[B&O Railroad Museum|old Mt. Clare Depot]] in [[Baltimore]]. The Morse/Vail telegraph was quickly deployed in the following two decades; the overland telegraph connected the west coast of the continent to the east coast by 24 October 1861, bringing an end to the [[Pony Express]].
+
+[[Edward Davy]] demonstrated his telegraph system in [[Regent's Park]] in 1837 and was granted a patent on 4 July 1838. He also developed an electric relay.<ref name=bsp>{{cite web |url=http://www.asap.unimelb.edu.au/bsparcs/other/iee_davy.htm |title=Edward Davy |publisher=Australian Science Archives Project  |accessdate=7 June 2012}}</ref>
+
+====Telegraphic improvements====
+A continuing goal in telegraphy was to reduce the cost per message by reducing hand-work, or increasing the sending rate.{{Citation needed|date=December 2007}} There were many experiments with moving pointers, and various electrical encodings. However, most systems were too complicated and unreliable. A successful expedient to increase the sending rate was the development of [[telegraphese]].
+
+The first system that didn't require skilled technicians to operate, was Charles Wheatstone's ABC system in 1840 where the letters of the alphabet were arranged around a clock-face, and the signal caused a needle to indicate the letter. This early system required the receiver to be present in real time to record the message and it reached speeds of up to 15 words a minute.
+
+In 1846, [[Alexander Bain (inventor)|Alexander Bain]] patented a chemical telegraph in Edinburgh. The signal current moved an iron pen across a moving paper tape soaked in a mixture of ammonium nitrate and potassium ferrocyanide, decomposing the chemical and producing a readable blue marks in Morse code. The speed of the printing telegraph was 1000 words per minute, but messages still required translation into English by live copyists. Chemical telegraphy came to an end in the US in 1851, when the Morse group defeated the Bain patent in the US District Court.<ref> Oslin, George P. The Story of Telecommunications, Mercer University Press, 1992. 69.</ref> 
+
+For a brief period, starting with the New York-Boston line in 1848, some telegraph networks began to employ sound operators, who were trained to understand Morse code aurally. Gradually, the use of sound operators eliminated the need for telegraph receivers to include register and tape. Instead, the receiving instrument was developed into a "sounder," an electromagnet that was energized by a current and attracted a small iron lever. When the sounding key was opened or closed, the sounder lever struck an anvil. The Morse operator distinguished a dot and a dash by the short or long interval between the two clicks. The message was then written out in long-hand. <ref>Oslin, George P. The Story of Telecommunications. Mercer University Press, 1992. 67 </ref>
+
+[[Royal Earl House]] developed and patented a letter-printing telegraph system in 1846 which employed an alphabetic keyboard for the transmitter and automatically printed the letters on paper at the receiver,<ref>{{cite web|url=http://blog.gatunka.com/2014/04/14/letter-printing-telegraph-us-patent-4464/|title=Royal Earl House Printing-Telegraph Patent #4464, 1846|accessdate=2014-04-25}}</ref> and followed this up with a steam-powered version in 1852.<ref>{{cite web|url=http://blog.gatunka.com/2014/04/15/steam-powered-letter-printing-telegraph-us-patent-9505/|title=Royal Earl House Steam-Powered Printing-Telegraph Patent #9505, 1852|accessdate=2014-04-25}}</ref> Advocates of printing telegraphy said it would eliminate Morse operators' errors. The House machine was used on four main American telegraph lines by 1852. The speed of the House machine was announced as 2600 words an hour. <ref> Oslin, George, P. The Story of Telecommunications, 1992. 71</ref> 
+
+[[File:Clavier Baudot.jpg|thumb|200px|upright=1.5|A Baudot keyboard, 1884]]
+[[David Edward Hughes]] invented the printing telegraph in 1855; it used a keyboard of 26 keys for the alphabet and a spinning type wheel that determined the letter being transmitted by the length of time that had elapsed since the previous transmission. The system allowed for automatic recording on the receiving end. The system was very stable and accurate and became the accepted around the world.<ref>{{cite web|url=http://people.clarkson.edu/~ekatz/scientists/hughes.html|title=David Edward Hughes|accessdate=2010-09-29|date=April 14, 2007|publisher=Clarkson University|archiveurl=http://web.archive.org/web/20080422072443/http://people.clarkson.edu/~ekatz/scientists/hughes.html|archivedate=2008-04-22}}</ref>
+
+The next improvement was the [[Baudot code]] of 1874. French engineer [[Émile Baudot]] patented a printing telegraph in which the signals were translated automatically into typographic characters. Each character was assigned a unique code based on the sequence of just five contacts. Operators had to maintain a steady rhythm, and the usual speed of operation was 30 words per minute.<ref>{{cite book | last = Beauchamp | first = K.G. | authorlink = | coauthors = | title = History of Telegraphy: Its Technology and Application | publisher = [[Institution of Engineering and Technology|IET]] | year = 2001 | location = | pages = 394–395 | url = | doi = | id = | isbn = 0-85296-792-6}}</ref>
+
+By this point reception had been automated, but the speed and accuracy of the transmission was still limited to the skill of the human operator. The first practical automated system was patented by Charles Wheatstone, the original inventor of the telegraph. The message (in [[Morse code]]) was typed onto a piece of perforated tape using a keyboard-like device called the 'Stick Punch'. The transmitter automatically ran the tape through and transmitted the message at the then exceptionally high speed of 70 words per minute.
+
+====Teleprinters====
+{{main|Teleprinter|Telex}}
+[[File:Phelps' Electro-motor Printing Telegraph.jpg|left|thumb|Phelps' Electro-motor Printing Telegraph from circa 1880, the last and most advanced telegraphy mechanism designed by [[George May Phelps]]]]
+An early successful [[teleprinter]] was invented by [[Frederick G. Creed]]. In [[Glasgow]] he created his first keyboard perforator, which used compressed air to punch the holes. He also created a reperforator (receiving perforator) and a printer. The reperforator punched incoming Morse signals on to paper tape and the printer decoded this tape to produce alphanumeric characters on plain paper. This was the origin of the Creed High Speed Automatic Printing System, which could run at an unprecedented 200 words per minute. His system was adopted by the ''[[Daily Mail]]'' for daily transmission of the newspaper contents.
+
+By the 1930s teleprinters were being produced by [[Teletype]] in the US, [[Creed & Company|Creed]] in Britain and [[Siemens]] in Germany.
+
+With the invention of the [[teletypewriter]], telegraphic encoding became fully automated. Early teletypewriters used the ITA-1 [[Baudot code]], a five-bit code. This yielded only thirty-two codes, so it was over-defined into two "shifts", "letters" and "figures". An explicit, unshared shift code prefaced each set of letters and figures.
+
+[[File:Telex.jpg|thumb|right|A [[Siemens AG|Siemens]] T100 Telex machine]]
+By 1935, message routing was the last great barrier to full automation. Large telegraphy providers began to develop systems that used [[telephone exchange|telephone-like rotary dialling]] to connect teletypewriters. These machines were called "Telex" (TELegraph EXchange). Telex machines first performed rotary-telephone-style [[pulse dialling]] for [[circuit switching]], and then sent data by [[ITA2]]. This "type A" Telex routing functionally automated message routing.
+
+The first wide-coverage Telex network was implemented in Germany during the 1930s{{Citation needed|date=December 2007}} as a network used to communicate within the government.
+
+At the rate of 45.45 (±0.5%) [[baud]] — considered speedy at the time — up to 25 telex channels could share a single long-distance telephone channel by using ''[[voice frequency telegraphy]] [[frequency-division multiplexing|multiplexing]]'', making telex the least expensive method of reliable long-distance communication.
+
+Automatic teleprinter exchange service was introduced into Canada by [[CPR Telegraphs]] and [[CN Telegraph]] in July 1957 and in 1958, [[Western Union Telegraph Company|Western Union]] started to build a Telex network in the United States.<ref>Phillip R. Easterlin, "Telex in New York", Western Union Technical Review, April 1959: 45</ref>
+
+===Oceanic telegraph cables===
+[[File:1891 Telegraph Lines.jpg|right|thumb|333px|Major telegraph lines in 1891.]]
+{{Main|Transatlantic telegraph cable||Submarine communications cable}}
+Soon after the first successful telegraph systems were operational, the possibility of transmitting messages across the sea by way of [[submarine communications cable]]s was first mooted. One of the primary technical challenges was to sufficiently insulate the submarine cable to prevent the current from leaking out into the water. In 1842, a Scottish surgeon [[William Montgomerie]]<ref name=Haigh26>{{cite book|last=Haigh|first=K R|title=Cable Ships and Submarine Cables|year=1968|publisher=Adlard Coles Ltd|location=London|pages=26–27}}</ref> introduced [[gutta-percha]], the adhesive juice of the ''[[Palaquium gutta]]'' tree, to Europe. [[Michael Faraday]] and Wheatstone soon discovered the merits of gutta-percha as an insulator, and in 1845, the latter suggested that it should be employed to cover the wire which was proposed to be laid from [[Dover]] to [[Calais]]. It was tried on a wire laid across the [[Rhine]] between [[Cologne-Deutz|Deutz]] and [[Cologne]].{{Citation needed|date=May 2013}} In 1849, [[C.V. Walker]], electrician to the [[South Eastern Railway (UK)|South Eastern Railway]], submerged a two-mile wire coated with gutta-percha off the coast from Folkestone, which was tested successfully.<ref name=Haigh26/>
+
+[[John Watkins Brett]], an engineer from [[Bristol]], sought and obtained permission from [[Louis-Philippe]] in 1847 to establish [[telegraph|telegraphic communication]] between France and England. The first undersea cable was laid in 1850, connecting the two countries and was followed by connections to Ireland and the Low Countries.
+
+The [[Atlantic Telegraph Company]] was formed in [[London]] in 1856 to undertake to construct a commercial telegraph cable across the Atlantic ocean. It was successfully completed on 18 July 1866 by the ship [[SS Great Eastern|SS ''Great Eastern'']], captained by [[Sir James Anderson]] after many mishaps along the away.<ref>Wilson, Arthur (1994). The Living Rock: The Story of Metals Since Earliest Times and Their Impact on Civilization. p. 203. Woodhead Publishing. ISBN 978-1-85573-301-5.</ref> Earlier transatlantic [[submarine communications cable|submarine cables]] installations were attempted in 1857, 1858 and 1865. The 1857 cable only operated intermittently for a few days or weeks before it failed. The study of underwater telegraph cables accelerated interest in mathematical analysis of very long [[transmission line]]s. The telegraph lines from Britain to India were connected in 1870 (those several companies combined to form the ''Eastern Telegraph Company'' in 1872).
+
+Australia was first linked to the rest of the world in October 1872 by a submarine telegraph cable at Darwin.<ref>Briggs, Asa and Burke, Peter: "A Social History of the Media: From Gutenberg to the Internet", p110. Polity, Cambridge, 2005.</ref> This brought news reportage from the rest of the world.<ref>Conley, David and Lamble, Stephen (2006) ''The Daily Miracle: An introduction to Journalism,''(Third Edition) Oxford University Press, Australia pp. 305-307</ref> The telegraph across the Pacific was completed in 1902, finally encircling the world.
+
+From the 1850s until well into the 20th century, British submarine cable systems dominated the world system. This was set out as a formal strategic goal, which became known as the [[All Red Line]].<ref name="kennedy197110">{{cite journal | url=http://www.jstor.org/stable/563928 | title=Imperial Cable Communications and Strategy, 1870-1914 | author=Kennedy, P. M. | journal=The English Historical Review |date=October 1971 | volume=86 | issue=341 | pages=728–752 | doi=10.1093/ehr/lxxxvi.cccxli.728}}</ref> In 1896, there were thirty cable laying ships in the world and twenty-four of them were owned by British companies. In 1892, British companies owned and operated two-thirds of the world's cables and by 1923, their share was still 42.7 percent.<ref>Headrick, D.R., & Griset, P. (2001). Submarine telegraph cables: business and politics, 1838-1939. The Business History Review, 75(3), 543-578.</ref> During World War I, Britain's telegraph communications were almost completely uninterrupted, while it was able to quickly cut Germany's cables worldwide.{{r|kennedy197110}}
+
+==End of the telegraph era==
+{{further2|[[Telegraphy]]}}
+In the United States, [[Western Union]] discontinued all telegram and commercial messaging services on 27&nbsp;January 2006,<ref>Wheen, Andrew. DOT-DASH TO DOT.COM: How Modern Telecommunications Evolved from the Telegraph to the Internet (Springer, 2011), p259</ref> although it still offered its electronic money transfer services.
+
+India's state-owned telecom company, [[Bharat Sanchar Nigam|BSNL]], ended its telegraph service on 14 July 2013. It was reportedly the world's last existing true electric telegraph system.<ref>{{cite news | url=http://timesofindia.indiatimes.com/city/goa/No-farewell-to-telegram-in-Goa-as-BSNL-takes-day-off/articleshow/21076275.cms | title=No farewell to telegram in Goa as BSNL takes day off | newspaper=The Times of India | date=15 July 2013 | accessdate=15 July 2013 }}</ref><ref>{{cite news|url=http://www.usatoday.com/story/news/world/2013/06/15/last-telegram/2426373/ | title=World's last telegram to be sent next month | newspaper=USA Today | date=15 June 2013  | accessdate=14 July 2013}}</ref>
+
+==See also==
+* [[92 Code]]
+* [[Aurora (astronomy)#Auroral events of historical significance|Aurora (astronomy)]]
+* [[Geomagnetically induced current]]
+* [[Great Northern Telegraph Company]]
+* [[Harrison Gray Dyar]], who supposedly erected the first telegraph line and dispatched the first telegram
+* [[Neutral direct-current telegraph system]]
+* [[Submarine communications cable]]
+* [[Western Electric Company]]
+* [[Wireless telegraphy]]
+* [[American Telephone and Telegraph Company]] (AT&T)
+* [[Bell Canada]]
+* [[Guglielmo Marconi]]
+* [[Marconi Wireless|Marconi Wireless Company]]
+
+== References ==
+
+{{Reflist|colwidth=30em}}
+
+== Bibliography ==
+*Beauchamp, Ken, '' History of Telegraphy'', IET, 2001 ISBN 0852967926.
+*Bowers, Brian, ''Sir Charles Wheatstone: 1802–1875'', IET, 2001 ISBN 0852961030.
+*Huurdeman, Anton A., ''The Worldwide History of Telecommunications'', John Wiley & Sons, 2003 ISBN 0471205052.
+*Mercer, David, ''The Telephone: The Life Story of a Technology'', Greenwood Publishing Group, 2006 ISBN 031333207X.
+
+== Further reading ==
+
+{{Refbegin}}
+* Cooke, W.F., ''The Electric Telegraph, Was it invented by Prof. Wheatstone?'', London 1856.
+* {{cite journal |last=Gray |first=Thomas |authorlink= |coauthors= |year=1892 |month= |title=The Inventors Of The Telegraph And Telephone  |journal=Annual Report of the Board of Regents of the Smithsonian Institution |volume= 71|issue= |pages=639–659 |id= |url=http://books.google.com/?id=tnjfe4vEBGwC&pg=PA639 |accessdate=2009-08-07 |quote= |doi=  }}
+* Gauß, C. F., ''Works'', Göttingen 1863-1933.
+* Howe, Daniel Walker, ''What Hath God Wrought: The Transformation of America, 1815-1848'', Oxford University Press, 2007 ISBN 0199743797.
+* Peterson, M.J. [http://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1040&context=edethicsinscience Roots of Interconnection: Communications, Transportation and Phases of the Industrial Revolution], International Dimensions of Ethics Education in Science and Engineering Background Reading, Version 1; February 2008.
+* Steinheil, C.A., ''Ueber Telegraphie'', München 1838.
+* Wiley, Samuel T. (ed.), ''Biographical and Historical Cyclopedia of Indiana and Armstrong Counties'', John M. Gresham and Co., Philadelphia PA, 1891, pages 475-476.
+* Yates, JoAnne. [http://www.thebhc.org/publications/BEHprint/v015/p0149-p0164.pdf The Telegraph's Effect on Nineteenth Century Markets and Firms]{{dead link|date=July 2015}},  [[Massachusetts Institute of Technology]], pp.&nbsp;149–163.
+{{Refend}}
+
+== External links ==
+{{Wikisourcepar|Littell's Living Age/Volume 4/Issue 34/The Magnetic Telegraph|"The Magnetic Telegraph" (1845) predicts the impact of the telegraph on the consolidation of American identity}}
+* [http://www.morsetelegraphclub.org/ Morse Telegraph Club, Inc.] (The Morse Telegraph Club is an international non-profit organization dedicated to the perpetuation of the knowledge and traditions of telegraphy.)
+* http://collections.ic.gc.ca/canso/index.htm
+*[http://www.rustelecom-museum.ru/objects/?ContainerID=757&containerType=62&objectID=399&langID=57 Shilling's telegraph], an exhibit of the [[A.S. Popov Central Museum of Communications]]
+* [http://www.du.edu/~jcalvert/tel/morse/morse.htm History of electromagnetic telegraph]
+* [http://www.connected-earth.co.uk/Galleries/Telecommunicationsage/Thetelegraph/Thefirstelectrictelegraphs/index.htm The first electric telegraphs]{{dead link|date=July 2015}}
+* [http://www.computer-museum.ru/connect/chlitlgr.htm The Dawn of Telegraphy] {{ru icon}}
+* [http://www.pcweek.ru/Year2002/N3/CP1251/Communications/chapt3.htm Pavel Shilling and his telegraph]{{dead link|date=July 2015}}- article in ''PCWeek'', Russian edition.
+* [http://distantwriting.co.uk/ Distant Writing] - The History of the Telegraph Companies in Britain between 1838 and 1868
+* [http://science.nasa.gov/headlines/y2008/06may_carringtonflare.htm? NASA - Carrington Super Flare] [[NASA]] 6 May 2008
+* [http://books.google.com/books?id=DI038d4SBFEC&printsec=titlepage#PPA2298,M1 How Cables Unite The World] - a 1902 article about telegraph networks and technology from the magazine ''[[The World's Work]]''
+
+{{Morse code}}
+{{Telecommunications}}
+
+{{Authority control}}
+{{DEFAULTSORT:Electrical Telegraph}}
+[[Category:Telegraphy]]
+[[Category:Telegrams]]
+[[Category:Russian inventions]]
+
+[[sl:Telegraf]]
+[[fi:Lennätin]]
+[[zh:电报]]

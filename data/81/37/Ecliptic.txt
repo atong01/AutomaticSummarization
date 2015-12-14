@@ -1,0 +1,348 @@
+{{Use dmy dates|date=July 2013}}
+[[File:Ecliptic with earth and sun animation.gif|thumb|upright=1.3|The [[Sun]] seems to move against the background stars as seen from the orbiting [[Earth]]. The ecliptic is the path the Sun appears to trace through the stars. The Earth completes its [[orbit]] and the Sun traces its entire path in a little over [[year|365 days]].]]
+{{Good article}}
+The '''ecliptic''' is the apparent path of the [[Sun]] on the [[celestial sphere]], and is the basis for the [[ecliptic coordinate system]]. It also refers to the [[Plane (geometry)|plane]] of this path, which is [[coplanarity|coplanar]] with both the [[orbit]] of the Earth around the Sun and the apparent orbit of the Sun around the Earth.<ref name="AA2010">
+{{cite book 
+ | author = U.S. Naval Observatory Nautical Almanac Office
+ | first =Nautical Almanac Office
+ | author2 = U.K. Hydrographic Office, H.M. Nautical Almanac Office
+ | title = The Astronomical Almanac for the Year 2010
+ | publisher = U.S. Govt. Printing Office
+ | date = 2008
+ | page = M5
+ | isbn = 978-0-7077-4082-9}}</ref>
+The path of the Sun is not normally noticeable from the Earth's surface because the [[Earth's rotation|Earth rotates]], carrying the observer through the cycles of [[sunrise]] and [[sunset]], obscuring the apparent motion of the Sun with respect to the stars.
+
+==Sun's apparent motion==
+The motions as described above are simplifications. Due to the movement of the Earth around the Earth-Moon [[center of mass]], the apparent path of the Sun wobbles slightly, with a period of about [[Orbit of the moon|one month]]. Due to further [[Perturbation (astronomy)|perturbations]] by the other [[planets]] of the [[Solar System]], the Earth-Moon [[barycenter]] wobbles slightly around a mean position in a complex fashion. The '''ecliptic''' is actually the apparent path of the Sun throughout the course of a [[year]].<ref>
+{{cite book 
+ | author = U.S. Naval Observatory Nautical Almanac Office
+ | editor = P. Kenneth Seidelmann
+ | title = Explanatory Supplement to the Astronomical Almanac
+ | publisher = University Science Books, Mill Valley, CA
+ | date = 1992
+ | isbn = 0-935702-68-7}}
+, p. 11</ref>
+
+Because the Earth takes one year to make a complete revolution around the Sun, the apparent position of the Sun also takes the same length of time to make a complete circuit of the ecliptic. With slightly more than 365 days in one year, the Sun moves a little less than 1° eastward<ref name="celes direc"/> every day. This small difference in the Sun's position against the stars causes any particular spot on the Earth's surface to catch up with (and stand directly north or south of) the Sun about 4 minutes later each day than it would if the Earth did not orbit; our day is 24 hours long rather than the approximately 23-hour 56-minute [[sidereal time|sidereal day]]. 
+Again, this is a simplification, based on a hypothetical Earth that orbits at uniform speed around the Sun. The actual speed with which the Earth orbits the Sun varies slightly during the year, so the speed with which the Sun seems to move along the ecliptic also varies. For example, the Sun is north of the celestial equator for about 185 days of each year, and south of it for about 180 days.<ref>''Astronomical Almanac 2010'', sec. C</ref> The variation of orbital speed accounts for part of the [[equation of time]].<ref>''Explanatory Supplement'' (1992), sec. 1.233</ref>
+
+== Relationship to the celestial equator ==
+{{Main|Axial tilt}}
+[[File:Earths orbit and ecliptic.PNG|thumb|upright=1.2|The [[plane (geometry)|plane]] of the [[Earth]]'s [[orbit]] projected in all directions forms the reference plane known as the ecliptic. Here, it is shown projected outward (gray) to the [[celestial sphere]], along with the Earth's [[equator]] and [[Earth's rotation|polar axis]] (green). The plane of the ecliptic intersects the celestial sphere along a [[great circle]] (black), the same circle on which the Sun seems to move as the Earth orbits it. The intersections of the ecliptic and the equator on the celestial sphere are the vernal and autumnal [[equinox]]es (red), where the Sun seems to cross the celestial equator. ]]
+
+Because the [[Earth's rotation|rotational axis]] of the Earth is not [[perpendicular]] to its [[Orbital plane (astronomy)|orbital plane]], the Earth's [[Equator|equatorial plane]] is not [[Coplanarity|coplanar]] with the ecliptic plane, but is inclined to it by an angle of about 23.4°, which is known as the [[axial tilt|obliquity of the ecliptic]].<ref>''Explanatory Supplement'' (1992), p. 733</ref> If the equator is projected outward to the [[celestial sphere]], forming the [[celestial equator]], it crosses the ecliptic at two points known as the [[equinox]]es. The Sun, in its apparent motion along the ecliptic, crosses the celestial equator at these points, one from south to north, the other from north to south.<ref name="celes direc">The directions ''north'' and ''south'' on the celestial sphere are in the sense ''toward the north [[celestial pole]]'' and ''toward the south celestial pole''. ''East'' is ''the direction toward which the Earth rotates'', ''west'' is opposite that.</ref> The crossing from south to north is known as the [[equinox|vernal equinox]], also known as the ''first point of Aries'' and the ''[[Orbital node|ascending node]] of the ecliptic'' on the celestial equator.<ref>''Astronomical Almanac 2010'', p. M2 and M6</ref> The crossing from north to south is the [[equinox|autumnal equinox]] or [[Orbital node|descending node]].
+
+{{Main|Axial precession (astronomy)}}
+
+The orientation of the [[Earth's rotation|Earth's axis]] and equator are not fixed in space, but rotate about the [[Ecliptic pole|poles of the ecliptic]] with a period of about 26,000 years, a process known as ''lunisolar [[precession]]'', as it is due mostly to the gravitational effect of the [[Moon]] and [[Sun]] on the [[Figure of the Earth|Earth's equatorial bulge]]. Likewise, the ecliptic itself is not fixed. The gravitational [[Perturbation (astronomy)|perturbations]] of the other bodies of the [[Solar System]] cause a much smaller motion of the plane of the Earth's orbit, and hence of the ecliptic, known as ''planetary [[precession]]''. The combined action of these two motions is called ''general [[precession]]'', and changes the position of the equinoxes by about 50 [[Minute of arc|arc seconds]] (about 0°.014) per year.<ref>''Explanatory Supplement'' (1992), sec. 1.322 and 3.21</ref>
+
+{{Main|Nutation}}
+
+Once again, this is a simplification. Periodic motions of the [[Moon]] and apparent periodic motions of the [[Sun]] (actually of the Earth in its orbit) cause short-term small-amplitude periodic oscillations of the Earth's axis, and hence the celestial equator, known as [[nutation]].<ref>
+{{cite book 
+ | author = U.S. Naval Observatory Nautical Almanac Office
+ |author2=H.M. Nautical Almanac Office
+ | title = Explanatory Supplement to the Astronomical Ephemeris and the American Ephemeris and Nautical Almanac
+ | publisher = H.M. Stationery Office, London
+ | date = 1961}}
+, sec. 2C</ref>
+This adds a periodic component to the position of the equinoxes; the positions of the celestial equator and (vernal) equinox with fully updated precession and nutation are called the ''true equator and equinox''; the positions without nutation are the ''mean equator and equinox''.<ref>''Explanatory Supplement'' (1992), p. 731 and 737</ref>
+
+== Obliquity of the ecliptic ==
+{{main|Axial tilt#Earth}}
+
+Obliquity of the ecliptic is the term used by astronomers for the inclination of [[Earth]]'s [[equator]] with respect to the ecliptic, or of [[Earth's rotation|Earth's rotation axis]] to a [[perpendicular]] to the ecliptic. It is about 23.4° and is currently decreasing 0.013 degrees (47 arcseconds) per hundred years due to planetary [[Perturbation (astronomy)|perturbations]].<ref>
+{{cite book 
+ | last = Chauvenet
+ | first = William
+ | title = A Manual of Spherical and Practical Astronomy
+ | publisher = J.B. Lippincott Co., Philadelphia
+ | date = 1906
+ | volume = I
+ |url=http://books.google.com/books?id=yobvAAAAMAAJ&dq=editions:QmrAl-CNghIC&source=gbs_navlinks_s}}
+, art. 365-367, p. 694-695, at Google books</ref>
+
+The angular value of the obliquity is found by observation of the motions of the [[Earth]] and [[solar system|planets]] over many years. Astronomers produce new [[fundamental ephemeris|fundamental ephemerides]] as the accuracy of [[Observational astronomy|observation]] improves and as the understanding of the [[Analytical dynamics|dynamics]] increases, and from these ephemerides various astronomical values, including the obliquity, are derived.
+
+[[File:Obliquity of the ecliptic laskar.PNG|thumb|upright=1.4|left|Obliquity of the ecliptic for 20,000 years, from Laskar (1986).<ref name="laskar"/> Note that the obliquity varies only from 24.2° to 22.5° during this time. The red point represents the year 2000.]]
+
+Until 1983 the obliquity for any date was calculated from [[Newcomb's Tables of the Sun|work of Newcomb]], who analyzed positions of the planets until about 1895:
+
+{{math|''&epsilon;'' {{=}} 23&deg; 27&prime; 08&Prime;.26 &minus; 46&Prime;.845 ''T'' &minus; 0&Prime;.0059 ''T''<sup>2</sup> + 0&Prime;.00181 ''T''<sup>3</sup>}}
+
+where {{math|''&epsilon;''}} is the obliquity and {{math|''T''}} is [[Tropical year|tropical centuries]] from [[Epoch (astronomy)|B1900.0]] to the date in question.<ref>''Explanatory Supplement'' (1961), sec. 2B</ref>
+
+From 1984, the [[Jet Propulsion Laboratory Development Ephemeris|Jet Propulsion Laboratory's DE series]] of computer-generated ephemerides took over as the [[fundamental ephemeris]] of the ''Astronomical Almanac''. Obliquity based on DE200, which analyzed observations from 1911 to 1979, was calculated:
+
+{{math|''&epsilon;'' {{=}} 23&deg; 26&prime; 21&Prime;.45 &minus; 46&Prime;.815 ''T'' &minus; 0&Prime;.0006 ''T''<sup>2</sup> + 0&Prime;.00181 ''T''<sup>3</sup>}}
+
+where hereafter {{math|''T''}} is [[Julian day|Julian centuries]] from [[Epoch (astronomy)|J2000.0]].<ref>
+{{cite book 
+ | last = U.S. Naval Observatory
+ | first =Nautical Almanac Office
+ |author2=H.M. Nautical Almanac Office
+ | title = The Astronomical Almanac for the Year 1990
+ | publisher = U.S. Govt. Printing Office
+ | date = 1989
+ | isbn = 0-11-886934-5}}
+, p. B18</ref>
+
+JPL's fundamental ephemerides have been continually updated. The ''Astronomical Almanac'' for 2010 specifies:<ref>''Astronomical Almanac 2010'', p. B52</ref>
+
+{{math|''&epsilon;'' {{=}} 23&deg; 26&prime; 21&Prime;.406 &minus; 46&Prime;.836769 ''T'' &minus; 0&Prime;.0001831 ''T''<sup>2</sup> + 0&Prime;.00200340 ''T''<sup>3</sup> &minus; 0&Prime;.576&times;10<sup>&minus;6</sup> ''T''<sup>4</sup> &minus; 4&Prime;.34&times;10<sup>&minus;8</sup> ''T''<sup>5</sup>}}
+
+These expressions for the obliquity are intended for high precision over a relatively short time span, perhaps {{math|&plusmn;}} several centuries.<ref>
+{{cite book
+ |url = http://books.google.com/books?id=CAxDAAAAIAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+ |title = A Compendium of Spherical Astronomy
+ |last = Newcomb
+ |first = Simon
+ |date = 1906
+ |publisher=MacMillan Co., New York}}
+, p. 226-227, at Google books</ref> 
+J. Laskar computed an expression to order {{math|''T''<sup>10</sup>}} good to {{math|0&Prime;.04}}/1000 years over 10,000 years.<ref name="laskar">
+{{cite web
+ |url = http://articles.adsabs.harvard.edu/full/1986A%26A...157...59L
+ |title = Secular Terms of Classical Planetary Theories Using the Results of General Relativity
+ |last = Laskar
+ |first = J.
+ |date = 1986}}
+, table 8, at SAO/NASA ADS</ref>
+
+All of these expressions are for the ''mean'' obliquity, that is, without the [[nutation]] of the equator included. The ''true'' or instantaneous obliquity includes the nutation.<ref>
+{{cite book 
+ | last = Meeus
+ | first = Jean
+ | title = Astronomical Algorithms
+ | publisher = Willmann-Bell, Inc., Richmond, VA
+ | date = 1991
+ |ISBN=0-943396-35-2 }}
+, chap. 21</ref>
+
+{{clr}}
+
+==Plane of the Solar System==
+{{main|Solar System}}
+
+{| class="wikitable" style="float:right;margin: 0em 0em .5em 1em;"
+|-
+|width=200px|[[File:Ecliptic plane top view.gif|200px]]
+|width=200px|[[File:Ecliptic plane side view.gif|200px]]
+|width=200px|[[File:FourPlanetSunset hao annotated.JPG|200px]]
+|-
+|colspan=2|Top and side views of the plane of the ecliptic, showing planets [[Mercury (planet)|Mercury]], [[Venus]], [[Earth]], and [[Mars]]. Most of the planets orbit the [[Sun]] very near the same plane in which the Earth orbits, the ecliptic.
+|colspan=1|Four planets lined up along the ecliptic in July 2010, illustrating how the planets orbit the Sun in nearly the same plane. Photo taken at sunset, looking west over Surakarta, Java, Indonesia.
+|}
+
+Most of the major bodies of the [[Solar System]] orbit the [[Sun]] in nearly the same plane. This is likely due to the way in which the Solar System formed from a [[protoplanetary disk]]. Probably the closest current representation of the disk is known as the ''[[invariable plane]] of the Solar System''. The Earth's orbit, and hence, the ecliptic, is inclined a little more than 1° to the invariable plane, and the other major planets are also within about 6° of it. Because of this, most Solar System bodies appear very close to the ecliptic in the sky. The ecliptic is well defined by the motion of the [[Sun]]. The invariable plane is defined by the [[angular momentum]] of the entire Solar System, essentially the [[summation]] of all of the [[Orbit|revolutions]] and [[Rotation#Astronomy|rotations]] of all the bodies of the system, a somewhat uncertain value which requires precise knowledge of every object in the system. For these reasons, the ecliptic is used as the reference plane of the Solar System out of convenience.<ref>
+{{cite book 
+ | last = Danby
+ | first = J.M.A.
+ | title = Fundamentals of Celestial Mechanics
+ | publisher = Willmann-Bell, Inc., Richmond, VA
+ | date = 1988
+ | ISBN=0-943396-20-4}}
+, sec. 9.1</ref><ref>
+{{cite book 
+ | last = Roy
+ | first = A.E.
+ | title = Orbital Motion
+ | publisher = Institute of Physics Publishing
+ | date = 1988
+ | ISBN=0-85274-229-0
+ |edition=third}}
+, sec. 5.3</ref>
+
+{{clr}}
+
+==Celestial reference plane==
+{{main|Celestial equator|Ecliptic coordinate system}}
+
+[[File:Ecliptic vs equator small.gif|thumb|upright=1|The apparent motion of the [[Sun]] along the ecliptic (red) as seen on the inside of the [[celestial sphere]]. [[Ecliptic coordinate system|Ecliptic coordinates]] appear in (red). The [[celestial equator]] (blue) and the [[Equatorial coordinate system|equatorial coordinates]] (blue), being inclined to the ecliptic, appear to wobble as the Sun advances.]]
+
+The ecliptic forms one of the two fundamental [[Plane (geometry)|planes]] used as reference for positions on the [[celestial sphere]], the other being the [[celestial equator]]. Perpendicular to the ecliptic are the [[ecliptic pole]]s, the north ecliptic pole being the pole north of the equator. Of the two fundamental planes, the ecliptic is closer to unmoving against the background stars, its motion due to planetary [[precession]] being roughly 1/100 that of the celestial equator.<ref name="montenbruck">
+{{cite book 
+ | last = Montenbruck
+ | first = Oliver
+ | title = Practical Ephemeris Calculations
+ | publisher = Springer-Verlag
+ | date = 1989
+ | isbn = 0-387-50704-3}}
+, sec 1.4</ref>
+
+[[Spherical coordinate system|Spherical coordinates]], known as ecliptic longitude and latitude or celestial longitude and latitude, are used to specify positions of bodies on the [[celestial sphere]] with respect to the ecliptic. Longitude is measured positively eastward<ref name="celes direc"/> 0° to 360° along the ecliptic from the vernal equinox, the same direction in which the [[Sun]] appears to move. Latitude is measured perpendicular to the ecliptic, to +90° northward or -90° southward to the poles of the ecliptic, the ecliptic itself being 0° latitude. For a complete spherical position, a distance parameter is also necessary. Different distance units are used for different objects. Within the [[Solar System]], [[astronomical unit]]s are used, and for objects near the [[Earth]], [[Earth radius|Earth radii]] or [[kilometre|kilometers]] are used. A corresponding right-handed [[Cartesian coordinate system|rectangular coordinate system]] is also used occasionally; the ''x''-axis is directed toward the vernal equinox, the ''y''-axis 90° to the east, and the ''z''-axis toward the [[Ecliptic pole|north ecliptic pole]]; the [[astronomical unit]] is the unit of measure. Symbols for ecliptic coordinates are somewhat standardized; see the table.<ref>''Explanatory Supplement'' (1961), sec. 2A</ref>
+
+{| class="wikitable" style="float: left;margin:0em 1em .5em 0em;"
+|+<br>'''Summary of notation for ecliptic coordinates'''<ref>''Explanatory Supplement'' (1961), sec. 1G</ref>
+| rowspan="2" bgcolor="#89CFF0" | &nbsp;
+| colspan="3" align="center" bgcolor="#89CFF0" | '''spherical'''
+| rowspan="2" align="center" bgcolor="#89CFF0" | '''rectangular''' 
+|- bgcolor="#89CFF0" align="center"
+| longitude
+| latitude
+| distance
+|- align="center"
+| bgcolor="#89CFF0" | '''geocentric'''
+|  ''λ''
+| ''β''
+| ''Δ''
+| &nbsp;
+|- align="center"
+| bgcolor="#89CFF0" | '''heliocentric'''
+| ''l''
+| ''b''
+| ''r''
+| ''x'', ''y'', ''z''<ref group="note">Occasional use; ''x'', ''y'', ''z'' are usually reserved for [[Equatorial coordinate system|equatorial coordinates]].</ref>
+|-
+| colspan="5" | {{Reflist|group="note"}}
+|}
+Ecliptic coordinates are convenient for specifying positions of [[Solar System]] objects, as most of the planets' [[orbit]]s have small [[Orbital inclination|inclinations]] to the ecliptic, and therefore always appear relatively close to it on the sky. Because the Earth's orbit, and hence the ecliptic, moves very little, it is a relatively fixed reference with respect to the stars.
+
+[[File:Ecliptic inclination dziobek.PNG|thumb|right|upright=1.3|Inclination of the ecliptic over 200,000 years, from Dziobek (1892).<ref>
+{{cite book 
+ | last = Dziobek
+ | first = Otto
+ | title = Mathematical Theories of Planetary Motions
+ | publisher = Register Publishing Co., Ann Arbor, Michigan
+ | date = 1892
+ |url = http://books.google.com/books?id=WTEaAAAAYAAJ&dq=dziobek+mathematical&source=gbs_navlinks_s}}
+, p. 294, at Google books</ref> This is the inclination to the ecliptic of 101,800 CE. Note that the ecliptic rotates by only about 7° during this time, while the [[celestial equator]] makes several complete cycles around the ecliptic. The ecliptic is a relatively stable reference compared to the celestial equator.]]Because of the [[precession|precessional motion of the equinox]], the ecliptic coordinates of objects on the celestial sphere are continuously changing. Specifying a position in ecliptic coordinates requires specifying a particular equinox, that is, the equinox of a particular date, known as an [[Epoch (astronomy)|epoch]]; the coordinates are referred to the direction of the equinox at that date. For instance, the ''Astronomical Almanac''<ref>''Astronomical Almanac 2010'', p. E14</ref> lists the [[Heliocentric#Modern use of geocentric and heliocentric|heliocentric]] position of [[Mars]] at 0h [[Terrestrial Time]], 4 Jan 2010 as: longitude 118° 09' 15".8, latitude +1° 43' 16".7, true heliocentric distance 1.6302454 AU, '''mean equinox and ecliptic of date'''. This specifies the [[ecliptic#Relationship to the equator|mean equinox]] of 4 Jan 2010 0h TT [[ecliptic#Relationship to the equator|as above]], without the addition of [[nutation]].
+
+{{clr}}
+
+==Eclipses==
+{{main|Eclipse}}
+Because the [[orbit of the Moon]] is inclined only about 5° to the ecliptic and the [[Sun]] is always very near the ecliptic, [[eclipse]]s always occur on or near it. Because of the inclination of the [[Moon]]'s [[orbit]], eclipses do not occur at every [[Conjunction (astronomy and astrology)|conjunction]] and [[Opposition (planets)|opposition]] of the Sun and Moon, but only when the Moon is near an [[Orbital node|ascending or descending node]] at the same time it is at conjunction or opposition. The ecliptic is so named because the ancients noted that eclipses only occurred when the Moon crossed it.<ref>
+{{cite book
+|url=http://books.google.com/books?id=hgU4AAAAMAAJ&source=gbs_navlinks_s
+|title=A Treatise on Spherical Astronomy
+|first=Robert S.
+|last=Ball
+|date=1908
+|publisher=Cambridge University Press
+|page=83}}, at [http://books.google.com/books Google books]
+</ref>
+
+== Equinoxes and solstices ==
+{{main|Equinox|Solstice}}
+{| class="wikitable" style="float: right;margin:0em 0 .5em 1em;"
+|+'''Positions of equinoxes and solstices'''
+| rowspan="2" bgcolor="#F4C2C2"|&nbsp;
+| align="center" bgcolor="#F4C2C2" | '''ecliptic'''
+| align="center" bgcolor="#F4C2C2" | '''[[Equatorial coordinate system|equatorial]]'''
+|- align="center" bgcolor="#F4C2C2" 
+| longitude
+| right ascension
+|- align="center"
+| bgcolor="#F4C2C2" | '''vernal equinox'''
+| 0°
+| 0h
+|- align="center"
+| bgcolor="#F4C2C2" | '''summer solstice'''
+| 90°
+| 6h
+|- align="center"
+| bgcolor="#F4C2C2" | '''autumnal equinox'''
+| 180°
+| 12h
+|- align="center"
+| bgcolor="#F4C2C2" | '''winter solstice'''
+| 270°
+| 18h
+|}
+
+The exact instants of equinoxes or solstices are the times when the apparent ecliptic longitude (including the effects of [[Aberration of light|aberration]] and [[nutation]]) of the [[Sun]] is 0°, 90°, 180°, or 270°. Because of [[Perturbation (astronomy)|perturbations]] of the [[Earth's orbit]] and [[Gregorian calendar|peculiarities of the calendar]], the dates of these are not fixed.
+<ref>Meeus (1991), chap. 26</ref>
+
+==In the constellations==
+The ecliptic currently passes through the following [[constellation]]s:
+{{columns-list|4|
+*[[Pisces (constellation)|Pisces]]
+*[[Aries (constellation)|Aries]]
+*[[Taurus (constellation)|Taurus]]
+*[[Gemini (constellation)|Gemini]]
+*[[Cancer (constellation)|Cancer]]
+*[[Leo (constellation)|Leo]]
+*[[Virgo (constellation)|Virgo]]
+*[[Libra (constellation)|Libra]]
+*[[Scorpius]]
+*[[Ophiuchus]]<ref>
+{{cite book
+|url=http://books.google.com/books?id=heQMAAAAYAAJ&source=gbs_navlinks_s
+|title=Astronomy With the Naked Eye
+|first=Garrett P.
+|last=Serviss
+|publisher=Harper & Brothers, New York and London
+|date=1908
+|pages=105, 106}} at [http://books.google.com/books Google books]</ref>
+*[[Sagittarius (constellation)|Sagittarius]]
+*[[Capricornus]]
+*[[Aquarius (constellation)|Aquarius]]
+}}
+<!--It also, for a very brief period of time (About 18 hours a year), touches the border of [[Cetus]]-->
+<!--commented out until we can confirm or deny it with a good source -->
+
+==Astrology==
+{{main|Astrology}}
+[[File:Hipparcos Catalogue equirectangular plot.svg|thumb|300px|Equirectangular plot of [[declination]] vs [[right ascension]] of the ecliptic, modern constellations (including the zodiac, shaded light grey), Milky Way (fuzzy band) and stars brighter than [[apparent magnitude]] 5]]
+The ecliptic forms the center of a band about 20° wide called the [[zodiac]], on which the Sun, Moon, and planets are seen always to move.<ref>
+{{cite book
+|url=http://books.google.com/books?id=BqLifAK2zJkC&dq=history+of+astronomy&source=gbs_navlinks_s
+|title=A History of Astronomy
+|last=Bryant
+|first=Walter W.
+|date=1907
+|page=3}}, at Google books</ref> 
+Traditionally, this region is divided into 12 [[astrological sign|sign]]s of 30° longitude, each of which approximates the Sun's motion through one month.<ref>
+Bryant (1907), p. 4</ref>
+In ancient times the signs corresponded roughly to 12 of the constellations which straddle the ecliptic.<ref>see, for instance, {{cite book
+ |url=http://books.google.com/books?id=8CwSAAAAYAAJ&dq=astrology&source=gbs_navlinks_s
+ |title=Astrology for All
+ |last=Leo
+ |first=Alan
+ |date=1899}} 
+, p. 8, at Google books</ref>
+These signs give us some of the terminology used today. The ''first point of Aries'' was named when the vernal equinox was actually in the constellation Aries; it has since moved into Pisces.<ref>
+{{cite book 
+ | last = Vallado
+ | first = David A.
+ | title = Fundamentals of Astrodynamics and Applications
+ | publisher = Microcosm Press, El Segundo, CA
+ | date = 2001
+ | isbn = 1-881883-12-4
+ | edition=second}}
+, p. 153</ref>
+
+==See also==
+* [[Formation and evolution of the Solar System]]
+* [[Invariable plane]]
+* [[Protoplanetary disc]]
+
+==Notes and references==
+{{reflist}}
+
+== External links ==
+{{Wiktionary|ecliptic}}
+{{Wikiversity|Ecliptic|at=Quizzes|at-link=Ecliptic/Quizzes}}
+* [http://www.dur.ac.uk/john.lucey/users/solar_year.html The Ecliptic: the Sun's Annual Path on the Celestial Sphere] Durham University Department of Physics
+* [http://astro.unl.edu/naap/motion1/animations/seasons_ecliptic.html Seasons and Ecliptic Simulator] University of Nebraska-Lincoln
+* [http://stars.astro.illinois.edu/celsph.html MEASURING THE SKY A Quick Guide to the Celestial Sphere] James B. Kaler, University of Illinois
+* [http://aa.usno.navy.mil/data/docs/EarthSeasons.php Earth's Seasons] U.S. Naval Observatory
+* [http://www.astrologyclub.org/articles/ecliptic/ecliptic.htm The Basics - the Ecliptic, the Equator, and Coordinate Systems] AstrologyClub.Org
+* {{cite journal
+|url=http://adsabs.harvard.edu/abs/1983CeMec..31..329K
+|title=The definition of the ecliptic
+|last1=Kinoshita
+|first1=H.
+|last2=Aoki
+|first2=S.
+|date=1983
+|work=Celestial Mechanics
+|volume=31
+|pages=329–338|bibcode = 1983CeMec..31..329K |doi = 10.1007/BF01230290 }}; comparison of the definitions of LeVerrier, Newcomb, and Standish.
+
+<!-- [[Category:Astronomy]] too general -->
+[[Category:Celestial coordinate system]]
+[[Category:Dynamics of the Solar System]]
+[[Category:Technical factors of astrology]]

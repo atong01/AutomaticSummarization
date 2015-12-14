@@ -1,0 +1,29 @@
+{{Wiktionary|benchmark}} 
+A '''[[Benchmark (surveying)|benchmark]]''' is a point of known elevation marked for the purpose of surveying. The term has been adopted in other fields:
+{{TOC right}}
+
+==Business==
+*[[Benchmarking]], evaluating performance in organizations
+*[[Benchmark Electronics]], an electronics manufacturer
+*[[Benchmark price]], a point of reference for setting the price of a commodity
+*[[Benchmark (crude oil)]], used in pricing crude oil
+*[[Benchmark (venture capital firm)]], a venture capital firm
+
+==Geology==
+*[[Benchmarking (geolocating)]], an activity involving finding benchmarks
+*[[Benchmark (crude oil)]], used in pricing crude oil
+
+==Music label==
+*[[Benchmark Recordings]], a music label with CDs by the Fabulous Thunderbirds and Mike Bloomfield.
+
+==Technology==
+*[[Benchmark (computing)]], the result of running a computer program to assess performance
+*A best-performing test, also called the [[Gold standard (test)|gold standard]]
+
+== Television ==
+*[[Benchmark (game show)]], Channel 4 game show
+
+==See also==
+*[[Specification (technical standard)]]
+
+{{disambiguation}}

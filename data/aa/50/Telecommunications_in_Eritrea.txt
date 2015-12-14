@@ -1,0 +1,73 @@
+'''Telecommunications in Eritrea''' are under the authority of the [[Government of Eritrea]].
+ 
+==Infrastructure==
+The [[Eritrean Telecommunications Corporation|Eritrea Telecommunication Services Corporation]], more commonly known as ''EriTel'', is the sole operator of both landline and mobile telephone communication infrastructure in [[Eritrea]]. However, it is one of several [[internet service provider]]s in the country.<ref>[http://www.itu.int/ITU-D/membership/portal/index.asp?Name=1226 "Eritrea Telecommunication Services Corporation (EriTel)"], International Telecommunications Union (ITU), 2011. Retrieved 1 November 2013.</ref>
+
+The domestic telecommunications infrastructure is very inadequate. Most fixed line telephones are located in [[Asmara]], the capital and largest city. Cell phones are in increasing use throughout the country. The government is seeking international tenders to improve the system.<ref name=WFB-Eritrea-2013/>
+
+On 13 April 2006, Eritrea received a soft loan from the government of [[China]] to upgrade their communication infrastructure. The total sum loaned to [[EriTel]] was $23 million. All major cities are connected to the mobile telephone system in Eritrea except for Nakfa, Afabet, and Asseb. Afabet and Nakfa are expected to be online by July 2006.{{update after|2013|11|1}}
+
+==Telephones==
+* Fixed phones in use: 58,500 lines, 159th in the world (2011).<ref name=WFB-Eritrea-2013>[https://www.cia.gov/library/publications/the-world-factbook/geos/er.html "Eritrea"], ''World Factbook'', U.S. Central Intelligence Agency. Retrieved 31 November 2013.</ref>
+
+* Mobile cellular phones in use: 241,900 lines, 175th in the world (2011).<ref name=WFB-Eritrea-2013/>
+
+* Combined fixed-line and mobile-cellular subscribership is less than 5 per 100 persons (2011).<ref name=WFB-Eritrea-2013/>
+
+* International country code: 291.<ref name=WFB-Eritrea-2013/>
+
+==Radio and television==
+* The government controls all broadcast media with private ownership prohibited. Purchases of satellite dishes and subscriptions to international broadcast media are permitted.<ref name=WFB-Eritrea-2013/>
+
+* Radio networks: 2 state-owned (2007).<ref name=WFB-Eritrea-2013/>
+
+* Radios: 345,000 (1997).{{update after|2013|11|1}}
+
+* TV stations: 1 state-owned (2007).<ref name=WFB-Eritrea-2013/>
+
+* Televisions: 1,000 (1997).{{update after|2013|11|1}}
+
+==Internet==
+* Internet users: 48,692 users, 180th in the world; 0.8% of the population, 211th in the world (2012).<ref name=ITU-IndividualsUsingTheInternet>[http://www.itu.int/en/ITU-D/Statistics/Documents/statistics/2013/Individuals_Internet_2000-2012.xls "Percentage of Individuals using the Internet 2000-2012"], International Telecommunications Union (Geneva), June 2013, retrieved 22 June 2013</ref>
+
+* Fixed broadband: 122 subscriptions, 192th (last) in the world; 0.0% of the population, 192nd (last) in the world (2012).<ref name="FixedBroadbandITUDynamic2012">[http://www.itu.int/ITU-D/ICTEYE/Reporting/DynamicReportWizard.aspx "Fixed (wired)-broadband subscriptions per 100 inhabitants 2012"], Dynamic Report, ITU ITC EYE, [[International Telecommunication Union]]. Retrieved on 29 June 2013.</ref>
+
+* Mobile broadband: unknown.<ref name="MobleBroadbandITUDynamic2012">[http://www.itu.int/ITU-D/ICTEYE/Reporting/DynamicReportWizard.aspx "Active mobile-broadband subscriptions per 100 inhabitants 2012"], Dynamic Report, ITU ITC EYE, [[International Telecommunication Union]]. Retrieved on 29 June 2013.</ref>
+
+* Internet hosts: 701 hosts, 177th in the world (2012).<ref name=WFB-Eritrea-2013/>
+
+* Internet service providers (ISPs): 4 (2005) - [[EriTel]], CTS, TFanus, Ewan.{{Citation needed |date=November 2013}}{{update after|2013|11|1}}
+
+* [[Country code]]: ER
+
+* [[Top level domain]]: [[.er]]
+
+===Internet censorship and surveillance===
+* Listed as Under Surveillance by [[Reporters Without Borders]] (RWB) in 2008, 2009, not in 2010, and again from 2011 to the present.<ref name=RWBEnemies2012>[http://march12.rsf.org/i/Report_EnemiesoftheInternet_2012.pdf ''Internet Enemies''], Reporters Without Borders (Paris), 12&nbsp;March 2012</ref>
+
+Eritrea has not set up a widespread automatic Internet filtering system, but it does not hesitate to order blocking of several diaspora websites critical of the regime. Access to these sites is blocked by two of the Internet service providers, Erson and Ewan, as are [[pornographic]] websites and [[YouTube]]. [[Self-censorship]] is said to be widespread.<ref>[http://en.rsf.org/surveillance-eritrea,39762.html "Countries under surveillance: Eritrea"], Reporters Without Borders, March 2011</ref>
+
+==See also==
+* [[Media of Eritrea]]
+
+==References==
+{{loc}}
+{{Reflist |32em}}
+
+==External links==
+* [http://www.eritel.com.er/ EriTel website]
+* [http://www.panafril10n.org/wikidoc/pmwiki.php/PanAfrLoc/Eritrea PanAfriL10n page on Eritrea]
+* [http://www.gsmworld.com/roaming/gsminfo/cou_er.shtml GSM World page on Eritrea] {{Dead link |date=November 2013}}
+* [http://www.shabait.com/staging/publish/article_004832.html Ministry of Information - Eritrea] {{Dead link |date=November 2013}}
+
+{{Economy of Eritrea}}
+{{Africa topic|Telecommunications in}}
+{{Telecommunications}}
+{{Internet censorship by country}}
+
+{{DEFAULTSORT:Telecommunications In Eritrea}}
+[[Category:Telecommunications in Eritrea| ]]
+[[Category:Internet censorship by country|Eritrea]]
+[[Category:Internet by country|Eritrea]]
+[[Category:Telecommunications by country|Eritrea]]
+[[Category:Telecommunications in Africa|Eritrea]]

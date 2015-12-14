@@ -1,0 +1,3 @@
+#REDIRECT [[Binomial distribution]]
+
+{{This is a redirect|from CamelCase|from subpage}}

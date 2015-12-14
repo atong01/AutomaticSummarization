@@ -1,0 +1,86 @@
+{{Redirect|Design patterns|the book|Design Patterns}}
+A '''design pattern''' is the re-usable form of a solution to a design problem. The idea was introduced by the architect [[Christopher Alexander]]<ref name="Alexander, A Pattern Language" >[[#Alexander, A Pattern Language|Alexander, A Pattern Language]]</ref> and has been adapted for various other disciplines, most notably [[computer science]].<ref name="Gang of Four" >[[#Gang of Four|Gamma ''et al.'']], 1994, Design Patterns (the "[[Design Patterns (book)|Gang of Four]]" book)</ref>
+
+An organized collection of design patterns that relate to a particular field is called a [[pattern language]]. This language gives a common terminology for discussing the situations designers are faced with.
+
+{{quote|The elements of this language are entities called patterns. Each pattern describes a problem that occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice.  — Christopher Alexander<ref name="Alexander, A Pattern Language"/>}}
+
+Documenting a pattern requires explaining why a particular situation causes problems, and how the components of the pattern relate to each other to give the solution.<ref>{{cite web
+| accessdate = 2011-03-21
+| author = James Maioriello
+| date = 2002-10-02
+| title = What Are Design Patterns and Do I Need Them?
+| quote = The patterns are documented from a template that identifies the information needed to understand the software problem and the solution in terms of the relationships between the classes and objects necessary to implement the solution.
+| url = http://www.developer.com/design/article.php/1474561/What-Are-Design-Patterns-and-Do-I-Need-Them.htm}}</ref> [[Christopher Alexander]] describes common design problems as arising from "conflicting forces" — such as the conflict between wanting a room to be sunny and wanting it not to overheat on summer afternoons. A pattern would not tell the designer how many windows to put in the room; instead, it would propose a set of values to guide the designer toward a decision that is best for their particular application. Alexander, for example, suggests that enough windows should be included to direct light all around the room. He considers this a good solution because he believes it increases the enjoyment of the room by its occupants. Other authors might come to different conclusions, if they place higher value on heating costs, or material costs. These values, used by the pattern's author to determine which solution is "best", must also be documented within the pattern.
+
+Pattern documentation should also explain when it is applicable. Since two houses may be very different from one another, a design pattern for houses must be broad enough to apply to both of them, but not so vague that it doesn't help the designer make decisions. The range of situations in which a pattern can be used is called its context. Some examples might be "all houses", "all two-story houses", or "all places where people spend time".
+
+For instance, in Christopher Alexander's work, bus stops and waiting rooms in a surgery center are both within the context for the pattern "A PLACE TO WAIT".
+
+== Domain-specific articles ==
+*[[Pattern (architecture)]], in architecture
+*[[Software design pattern]], in software design.
+**[[Architectural pattern]], for software architecture
+**[[Interaction design pattern]], used in interaction design / human-computer interaction
+*[[Pedagogical patterns]], in teaching.
+
+== See also ==
+* [[Design Patterns (book)]]
+* [[Style guide]], repeatable graphic design elements and styles.
+* [[Design paradigm]]
+* [[Anti-pattern]] a counterpart term, referring to a common situation that creates problems
+
+== Further reading ==
+* {{cite book
+  |first=Christopher  |last=Alexander
+  |authorlink=Christopher Alexander
+  |title=[[A Pattern Language|A Pattern Language: Towns, Buildings, Construction]]
+  |publisher=[[Oxford University Press]]
+  |year=1977
+  |isbn=0-19-501919-9
+  |ref=Alexander, A Pattern Language
+}}
+* {{cite book |author= [[Thomas Erl|Erl, Thomas]] |title=SOA Design Patterns |publisher=Prentice Hall/PearsonPTR |location=New York |year=2009 |pages=864 |isbn=0-13-613516-1 |oclc= |doi=}}
+* Frank Buschmann, [[Kevlin Henney]], [[Douglas C. Schmidt]] [http://media.wiley.com/product_data/excerpt/28/04700590/0470059028.pdf "On Patterns and Pattern Languages"]
+* {{cite book
+  |title=[[Design Patterns (book)|Design Patterns (the '''Gang of Four''' book)]]
+  |author=Gamma, Helm, Johnson & Vlissides
+  |publisher=Addison-Wesley
+  |year=1994
+  |isbn=0-201-63361-2
+  |ref=Gang of Four
+}} 
+<ref>{{cite web
+| accessdate = 2014-07-16
+| author = James Coplien
+| date = 2014-07-11
+| title = Patterns: The Notion is Grounded in Alexander's Work
+| quote = The GoF claims to take its pattern inspiration from Christopher Alexander (as they say in the front matter of the book), who popularized the term in the broader field of design. To Alexander a pattern: is always an element of pattern language; contributes to deep human feeling; and is always geometric in nature. At least some of the GoF patterns fail on at least one of these points, and several fail on all three. 
+| url = http://stackoverflow.com/questions/12981021/are-there-any-patterns-in-gof/24664544#24664544}}</ref>
+(Note: there is debate about whether the "Gang of Four" book actually contains any patterns in the Alexandrian's sense.)
+* Jenifer Tidwell. ''Designing Interfaces''
+* [[Wolfgang Pree]]. ''Design Patterns for Object-Oriented Software Development''
+* Leitner, Helmut (2015). ''Pattern Theory: Introduction and Perspectives on the Tracks of Christopher Alexander'', ISBN 1505637430.
+
+== References ==
+{{reflist}}
+
+
+== External links ==
+* [http://javadesign-patterns.blogspot.com/ Java Design Patterns] Full Tutorial
+* [http://codingplayground.blogspot.it/2009/01/design-patterns-c-full-collection-of.html Full collection of design patterns (Creational, Structural, Behavioural) in C++] by Antonio Gulli
+* [http://tcorral.github.io/Design-Patterns-in-Javascript/ Design Patterns in Javascript] by Tomás Corral
+<!--Interwikies-->
+
+{{Design}}
+
+{{DEFAULTSORT:Design Pattern}}
+<!--Categories-->
+[[Category:Architectural design]]
+[[Category:Software design patterns]]
+
+[[ja:デザインパターン]]
+[[pl:Wzorzec projektowy]]
+[[tr:Tasarım örüntüsü]]
+[[vi:Mẫu thiết kế]]
+[[zh:设计模式]]

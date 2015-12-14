@@ -1,0 +1,80 @@
+{{refimprove|date=February 2013}}
+{{Infobox programming language
+|name = CLU
+|logo =
+|paradigm = [[Multi-paradigm programming language|multi-paradigm]]: [[Object-oriented programming|object-oriented]], [[Procedural programming|procedural]]
+|year = 1974
+|designer = [[Barbara Liskov]] and her students at [[MIT]]
+|developer = Barbara Liskov and her students at MIT
+|latest release version =
+|latest release date =
+|typing = [[strong typing|strong]]
+|website = {{URL|www.pmg.lcs.mit.edu/CLU.html}}
+|implementations = [ftp://ftp.lcs.mit.edu/pub/pclu/ Portable CLU], [http://pmg.csail.mit.edu/~dcurtis/clu/ Native CLU], [http://woodsheep.jp/clu2c.html clu2c]
+|dialects =
+|influenced_by = [[ALGOL| ALGOL 60]], [[Lisp programming language|Lisp]], [[Simula]]
+|influenced = [[Ada (programming language)|Ada]], [[Argus (programming language)|Argus]], [[Lua (programming language)|Lua]], [[Ruby programming language|Ruby]], [[Sather]], [[Swift (Apple programming language)|Swift]]<ref name="lattner2014">{{cite web|url=http://nondot.org/sabre/|title=Chris Lattner's Homepage|last=Lattner|first=Chris|date=2014-06-03|accessdate=2014-06-03|publisher=Chris Lattner|quote=The Swift language is the product of tireless effort from a team of language experts, documentation gurus, compiler optimization ninjas, and an incredibly important internal dogfooding group who provided feedback to help refine and battle-test ideas. Of course, it also greatly benefited from the experiences hard-won by many other languages in the field, drawing ideas from Objective-C, Rust, Haskell, Ruby, Python, C#, CLU, and far too many others to list.}}</ref>
+}}
+
+'''CLU''' is a pioneering [[programming language]] created at [[Massachusetts Institute of Technology|MIT]] by [[Barbara Liskov]] and her students between 1974 and 1975. While it did not find extensive use itself, it introduced many features that are now widely used, and is seen as a step in the development of [[object-oriented programming]] (OOP). However, it is not object-oriented itself, instead being considered "object-based", as it lacked many features of OOP.
+
+Key contributions include [[abstract data type]]s,<ref>{{Cite conference| doi = 10.1145/800233.807045| chapter = Programming with abstract data types| title = Proceedings of the ACM SIGPLAN symposium on Very high level languages| pages = 50–59| year = 1974| last1 = Liskov | first1 = Barbara | authorlink1 = Barbara Liskov| last2 = Zilles | first2 = Stephen| ref = harv}}</ref> [[call-by-sharing]], [[iterator]]s, multiple return values (a form of [[parallel assignment]]), type-safe [[parameterized type]]s, and type-safe [[variant type]]s. It is also notable for its use of [[Class (computer programming)|classes]] with [[Constructor (object-oriented programming)|constructors]] and methods, but without [[Inheritance (object-oriented programming)|inheritance]].
+
+== Clusters ==
+The [[syntax]] of CLU was based on [[ALGOL]], then the starting point for most new language designs. The key addition was the concept of a ''cluster'', CLU's type extension system and the root of the language's name (CLUster).<ref name=Liskov1977>{{Cite journal| last1 = Liskov | first1 = B. | authorlink1 = Barbara Liskov| last2 = Snyder | first2 = A.| last3 = Atkinson | first3 = R.| last4 = Schaffert | first4 = C.| title = Abstraction mechanisms in CLU| doi = 10.1145/359763.359789| journal = [[Communications of the ACM|Comm. ACM]]| volume = 20| issue = 8| pages = 564–576| date=August 1977 | id = {{citeseerx|10.1.1.112.656}} }}</ref> Clusters correspond generally to the concept of an "class" in an OO language, and have similar syntax. For instance, here is the CLU syntax for a cluster that implements [[complex number]]s:
+<!-- Not actually Algol68, but this attribute is required-->
+<source lang="algol68">
+    complex_number = cluster is add, subtract, multiply, ...
+        rep = record [ real_part: real, imag_part: real ]
+        add = proc ... end add;
+        subtract = proc ... end subtract;
+        multiply = proc ... end multiply;
+        ...
+    end complex_number;
+</source>
+
+A cluster is a module that encapsulates all of its components except for those explicitly named in the "is" clause. These correspond to the public components of a class in recent OO languages. A cluster also defines a type that can be named outside the cluster (in this case, "complex_number"), but its representation type (rep) is hidden from external clients.
+
+Cluster names are global, and no namespace mechanism was provided to group clusters or allow them to be created "locally" inside other clusters.
+
+CLU does not perform implicit type conversions. In a cluster, the explicit type conversions 'up' and 'down' change between the abstract type and the representation. There is a universal type 'any', and a procedure force[] to check that an object is a certain type. Objects may be mutable or immutable, the latter being "base types" such as integers, booleans, characters and strings.<ref name=Liskov1977/>
+
+== Other features ==
+Another key feature of the CLU type system are ''[[iterator]]s'', which return objects from a collection one after the other.<ref name=Liskov1977 /> Iterators offer an identical [[application programming interface|API]] no matter what data they are being used with. Thus the iterator for a collection of <code>complex_number</code>s can be used interchangeably with that for an array of <code>integer</code>s. A distinctive feature of CLU iterators is that they are implemented as coroutines, with each value being provided to the caller via a "yield" statement. Iterators like those in CLU are now a common feature of many modern languages, such as C#, Ruby, and Python, though recently they are often referred to as generators.
+
+CLU also includes [[exception handling]], based on various attempts in other languages; exceptions are raised using <code>signal</code> and handled with <code>except</code>. Unlike most other languages with exception handling, exceptions are not implicitly resignaled up the calling chain; exceptions that are neither caught nor resignaled explicitly are immediately converted into a special failure exception that typically terminates the program.
+
+CLU is often credited as being the first language with type-safe [[variant type]]s (called oneofs), preceding ML in this respect.
+
+A final distinctive feature in CLU is [[parallel assignment]] ("multiple assignment"), where more than one variable can appear on the left hand side of an [[Assignment (computer science)|assignment operator]]. For instance, writing <code>x,y = y,x</code> would exchange values of <code>x</code> and <code>y</code>. In the same way, functions could return several values, like <code>x,y,z = f(t)</code>. Parallel assignment (though not multiple return values) predates CLU, appearing in [[CPL (programming language)|CPL]] (1963), under the name '''simultaneous assignment''',<ref>{{cite journal | first1 = D. W. | last1 = Barron | first2 = J. N. | last2 = Buxton | first3 = D. F. | last3 = Hartley | first4 = E. | last4 = Nixon | first5 = C. | last5 = Strachey | title = The main features of CPL | journal = Computer Journal | volume = 6 | issue = 2 | pages = 134–143 | date = 1963 | url = http://comjnl.oxfordjournals.org/cgi/reprint/6/2/134 | doi = 10.1093/comjnl/6.2.134 }}</ref> but CLU popularized it and is often credited as the direct influence leading to parallel assignment in later languages.
+
+All objects in a CLU program live in the heap, and memory management is automatic.
+
+CLU supported [[generic programming|type parameterized]] user-defined data abstractions. It was the first language to offer type-safe bounded parameterized types, using structure "where clauses" to express constraints on actual type arguments.
+
+== Influence on other programming languages ==
+<!-- this should probably be incorporated into the main article instead of having bullet points -->
+* [[Python (programming language)|Python]] and [[Ruby (programming language)|Ruby]] borrowed several concepts from CLU, such as [[call by sharing]], the ''yield'' statement, and multiple assignment{{Citation needed|date=July 2011}}
+* CLU and [[Ada (programming language)|Ada]] were major inspirations for [[C++]] templates.
+* CLU's exception handling mechanisms also influenced newer languages like C++ and [[Java (programming language)|Java]].
+* [[C++]], [[C Sharp (programming language)|C#]], Python, and [[Sather]] include [[iterator]]s, which first appeared in CLU.
+* [[Perl]] and [[Lua (programming language)|Lua]] took multiple assignment and multiple returns from function calls from CLU.<ref>{{Cite conference| last1 = Ierusalimschy | first1 = R.| last2 = De Figueiredo | first2 = L. H.| last3 = Celes | first3 = W.| doi = 10.1145/1238844.1238846| chapter = The evolution of Lua| title = Proceedings of the third ACM SIGPLAN conference on History of programming languages  - HOPL III| pages = 2-1–2-26| year = 2007| isbn = 978-1-59593-766-7|url=http://www.lua.org/doc/hopl.pdf}}</ref>
+
+{{Expand section|date=June 2008}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{Official website|www.pmg.lcs.mit.edu/CLU.html}}
+* [http://www.lcs.mit.edu/publications/pubs/pdf/MIT-LCS-TR-561.pdf A History of CLU] (pdf)
+* [http://woodsheep.jp/clu2c.html clu2c]: a program to compile CLU code to [[C (programming language)|C]]
+* [http://cgibin.erols.com/ziring/cgi-bin/cep/cep.pl?_key=CLU Dictionary of Programming Languages]
+* [http://99-bottles-of-beer.net/language-clu-133.html CLU] comparison at '99 bottles of beer' multi-language demo algorithm site
+
+{{DEFAULTSORT:Clu (programming language)}}
+[[Category:Academic programming languages]]
+[[Category:Class-based programming languages]]
+[[Category:Procedural programming languages]]
+[[Category:Programming languages created in the 1970s]]
+[[Category:Programming languages created by women]]

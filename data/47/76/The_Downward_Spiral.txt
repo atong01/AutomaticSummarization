@@ -1,0 +1,602 @@
+{{good article}}
+{{use mdy dates|date=May 2014}}
+{{Infobox album <!-- See Wikipedia:WikiProject Albums -->
+| Name        = The Downward Spiral
+| Type        = studio
+| Artist      = [[Nine Inch Nails]]
+| Cover       = The Downward Spiral.png
+| Caption     = 
+| Released    = March 8, 1994
+| Recorded    = 1992-1993; [[10050 Cielo Drive, Benedict Canyon, Los Angeles|Le Pig]] in [[Beverly Hills, California|Beverly Hills]]; [[Record Plant|Record Plant Studios]] and [[Henson Recording Studios|A&M Studios]] in [[Los Angeles]]
+| Genre       = {{flatlist|
+* [[Industrial rock]]
+* [[industrial metal]]
+* [[alternative rock]]
+}}
+| Length      = {{Duration|m=65|s=02}}
+| Label       = [[Nothing Records|Nothing]]/[[Interscope Records|Interscope]]
+| Producer    = {{flatlist|
+* [[Trent Reznor]]
+* [[Flood (producer)|Flood]]
+}}
+| Last album  = ''[[Broken (EP)|Broken]]''<br />(1992)
+| This album  = '''''The Downward Spiral'''''<br/>(1994)
+| Next album  = ''[[The Fragile (Nine Inch Nails album)|The Fragile]]''<br/>(1999)
+| Misc        = {{Extra chronology
+|  Artist         = [[Nine Inch Nails discography#Chronology|Halo numbers]]
+| Type = studio album
+|  Last single    = "[[March of the Pigs|Halo 7]]"<br />(1994)
+|  This single    = "'''Halo 8'''"<br />(1994)
+|  Next single    = "[[Closer to God|Halo 9]]"<br />(1994)
+}}{{singles
+| Name           = The Downward Spiral
+| Type           = studio
+| single 1       = [[March of the Pigs]]
+| Single 1 date  = February 25, 1994
+| single 2       = [[Closer (Nine Inch Nails song)|Closer]]
+| single 2 date  = May 30, 1994
+| single 3       = [[Piggy (Nine Inch Nails song)|Piggy]]
+| Single 3 date  = December 1994 <small>(promotional)</small>
+| single 4       = [[Hurt (Nine Inch Nails song)|Hurt]]
+| single 4 date  = April 17, 1995 <small>(promotional)</small>
+}}}}
+
+'''''The Downward Spiral''''' is the second [[studio album]] by American [[industrial rock]] band [[Nine Inch Nails]], released March 8, 1994, on [[Interscope Records]]. It is a [[concept album]] detailing the destruction of a man, from the beginning of his "downward spiral" to his attempt at [[suicide]]. ''The Downward Spiral'' features elements of industrial rock, [[techno]], and [[Heavy metal music|heavy metal]], in contrast to the [[synthpop]]-influenced ''[[Pretty Hate Machine]]''.
+
+Co-produced by [[Trent Reznor]] and [[Flood (producer)|Flood]], ''The Downward Spiral'' was conceived after the [[Lollapalooza]] 1991 festival tour as a pivot for Reznor's personal issues and the "negative vibe" felt by the band. Reznor moved to [[10050 Cielo Drive (Los Angeles)|10050 Cielo Drive]], Benedict Canyon, Los Angeles in [[Beverly Hills, California]] the following year, where actress [[Sharon Tate]] was murdered by members of the [[Manson Family]]. It was used as a studio called "Le Pig" for recording ''[[Broken (EP)|Broken]]'' and ''The Downward Spiral'' with collaborations from other musicians. The album was influenced by late 1970s rock music albums, [[David Bowie]]'s ''[[Low (David Bowie album)|Low]]'' and [[Pink Floyd]]'s ''[[The Wall]]'' in particular, and focused on texture and space, avoiding explicit usage of guitars or [[synthesizers]].
+
+''The Downward Spiral'' was promoted with the [[Self Destruct Tour]] and four songs from the album ("[[March of the Pigs]]", "[[Closer (Nine Inch Nails song)|Closer]]", "[[Piggy (song)|Piggy]]", and "[[Hurt (Nine Inch Nails song)|Hurt]]") became singles. The tour's concerts debuted the band's grungy and messy image and were violent and chaotic, with band members often injuring themselves and destroying their instruments. "March of the Pigs" and "Closer" were accompanied by music videos; the "March of the Pigs" video was shot twice and "Closer"'s was heavily censored. "Piggy" and "Hurt" were released as promotional singles.
+
+A major commercial success, ''The Downward Spiral'' established Nine Inch Nails as a reputable force in the 1990s music scene, with its sound being widely imitated and Reznor receiving media hype and multiple honors while diverging into drug abuse and depression. It has been regarded by music critics and audiences as one of the most important albums of the 1990s and was praised for its abrasive, eclectic nature and dark themes, although it was scrutinized by social conservatives for its lyrics. A companion [[remix album]], ''[[Further Down the Spiral]]'', was released in 1995. To mark the album's tenth anniversary, ''The Downward Spiral'' was remastered and re-released on November 23, 2004 in high-resolution [[Super Audio CD|SACD]] and [[DualDisc]] formats.
+
+==Writing and recording==
+[[File:Adrian Belew (2009).jpg|thumb|[[Adrian Belew]]'s approach to guitar parts on the album improved Reznor's confidence in the instrument.]]
+''The Downward Spiral'' was conceived after the Lollapalooza festival tour as Trent Reznor thought of a "negative vibe" felt by the band when they were in a European hotel. [[Nine Inch Nails live performances]] were known for its aggressive on-stage dynamic, in which band members act angry, injure themselves, and destroy instruments. Reznor had a [[Trent Reznor–TVT Records feud|feud]] with [[TVT Records]] that resulted in him co-founding Nothing Records with his former manager [[John Malm, Jr.]] and signing with Interscope. He wanted to explore a fictional character whose life is psychologically wounded and developed a concept about the album's themes; he later used the concept as lyrics. The concept was based on Reznor's social issues at the time: he had personal conflicts with band member [[Richard Patrick]] and was known for enjoying [[alcohol]].<ref name="Huxley">{{cite book 
+| last = Huxley
+| first = Martin
+| title = Nine Inch Nails: Self Destruct
+|date=September 1997
+| publisher = [[St. Martin's Press]]
+| isbn = 0-312-15612-X
+}}</ref><ref name="NIN Spin 1996"/><ref>{{Cite journal |author=Kristina Estlund|title=Trentspeak|journal=Rip|publisher=[[Larry Flynt Publications]]|date=November 1994}}</ref> When developing ''The Downward Spiral'', Reznor struggled with drug addiction and was depressed as he wrote songs related to personal issues. His friends suggested that he could take Prozac ([[fluoxetine]]), an [[antidepressant]], but this choice did not appeal to him.{{sfn|Huxley|1997|p=96}}<ref name="BillboardTDS20">{{cite web|url=http://www.billboard.com/articles/review/5930270/nine-inch-nails-the-downward-spiral-at-20-classic-track-by-track|title=Nine Inch Nails' 'The Downward Spiral' at 20: Classic Track-By-Track|work=[[Billboard (magazine)|Billboard]]|publisher=Prometheus Global Media|author=Kerri Mason|date=March 7, 2014|accessdate=March 8, 2014}}</ref> He wanted the album's sound to diverge from ''Broken'', emphasizing mood, texture, restraint and subtlety, although he was not sure about its musical direction.<ref name="Taylor" /> The album was made with "full range" and focused on texture and space, avoiding explicit usage of guitars or synthesizers.<ref name="theninhotline">{{cite journal| url = http://www.theninhotline.net/archives/articles/xart49.shtml| title = Down on the Spiral | journal = Hot Metal Magazine | author = Carl Hammerschmidt|date=April 1994| accessdate = January 21, 2009}}</ref>
+
+Reznor searched for and moved to [[10050 Cielo Drive (Los Angeles)|10050 Cielo Drive]] in 1992 for recording ''Broken'' and ''The Downward Spiral'',<ref name="Trent Reznor 1994 Select">{{cite journal| url = http://www.theninhotline.net/archives/articles/xart5a.shtml| title = Who Really Is Trent Reznor? | journal = Select | author = Gina Morris|date=April 1994| accessdate = January 21, 2009}}</ref> a decision made against his initial choice to record the album in [[New Orleans]].<ref name="Entertainment Weekly - The Downward Spiral">{{Cite news |newspaper=Entertainment Weekly |publisher=Time Warner |first=Lorraine |last=Ali |author-link=Lorraine Ali |url=http://www.ew.com/ew/article/0,,301460,00.html |title=Helter Shelter: Making records where Manson murdered |date=March 18, 1994 |issue=214 |page=100 |accessdate=November 1, 2007 |postscript=<!--None-->}}</ref> 10050 Cielo Drive is referred to as the "Tate House" since Sharon Tate was murdered by members of the Manson Family in 1969; Reznor named the studio "Le Pig" after the message that was scrawled on the front door with Tate's blood by her murderers, and stayed there with Malm for 18 months. He called his first night in 10050 Cielo Drive "terrifying" because he already knew it and read books related to the incident. Reznor chose the Tate house to calibrate his engineering skills and the band bought a large console and two Studer machines as resources, a move that he believed was cheaper than renting.{{sfn|Huxley|1997|p=97–99}} The studio was also used for the recording of [[Marilyn Manson (band)|Marilyn Manson]]'s debut album ''[[Portrait of an American Family]]'', which Reznor co-produced. Marilyn Manson accepted Reznor's offer of signing a contract with Nothing Records.<ref name="MansonLongHardRoad">{{cite book |last1= Manson |first1= Marilyn |last2=Strauss |first2=Neil |title= The Long Hard Road Out of Hell |url= http://books.google.com.ph/books?id=C4pJdhmTC7MC&dq=The+Long+Hard+Road+Out+of+Hell |date=February 14, 1998 |publisher=[[HarperCollins]] division [[ReganBooks]] |location=New York |isbn=0-06-039258-4 |ref=harv}}</ref>
+
+Reznor collaborated with former [[Jane's Addiction]] and [[Porno for Pyros]] drummer [[Stephen Perkins]], progressive rock guitarist [[Adrian Belew]], and Nine Inch Nails drummer [[Chris Vrenna]].<ref name="Taylor">{{cite book| url = http://books.google.com/?id=KPOsu8JOHO8C| title = The A to X of Alternative Music| author = Steve Taylor| publisher = Continuum International Publishing Group| year = 2004| pages = 165| isbn = 0-8264-8217-1| accessdate = February 20, 2008}}</ref> Belew's first visit to the studio involved playing the guitar parts in "Mr. Self-Destruct", and he was told to play freely, think on reacting to melodies, concentrate on rhythm, and use noise. This approach improved Reznor's confidence in the instrument: he found it to be more expressive than the keyboard due to the interface.{{sfn|Huxley|1997|p=106–108}} Belew praised Reznor for his "command of technology," and commented that the music of Nine Inch Nails made innovations "that are in [his] realm."<ref name="Guitar Player. April 1994, Nine Inch Nails.">{{cite journal|title=Adrian Belew & Trent Reznor: Nine Inch Nails Meets The Lone Rhino|journal=[[Guitar Player]]|publisher=NewBay Media|date=April 1994}}</ref> Vrenna and Perkins played drum parts recorded live in the studio; the tracks were rendered into looped samples. Reznor took a similar approach to recording guitar parts: he would tape 20 to 25-minute long sessions of himself playing guitars on a hard disc recorder with the Studio Vision sequencer.<ref name="Machine Head"/>
+
+Most of the music was recorded into a [[Macintosh]] computer using a board and manipulated with music editor programs on the computer. Unique effects such as analyzing and inverting the frequency were applied to the tracks to create original sounds. The band would "get an arrangement together" and convert it into analog tape.{{sfn|Huxley|1997|p=109–110}}<ref name="Machine Head">{{cite journal|url=http://theninhotline.net/archives/articles/manager/display_article.php?id=555|title=Machine Head|journal=[[Guitar World]]|publisher=NewBay Media|author=Alan Di Perna|date=April 1994}}</ref> Reznor sampled excerpts from guitar tracks and processed them to the point of randomness and expression.{{sfn|Huxley|1997|p=109}} Among the equipment Reznor used for recording the album are [[Pro Tools]], [[Digidesign]]'s TurboSynth, a [[Marshall Amplification|Marshall]] rack head, the [[Sequential Circuits#Sequential Circuits products|Prophet VS]] keyboard, and various [[Jackson Guitars|Jackson]] and [[Gibson Guitar Corporation|Gibson]] guitars.<ref name="Guitar Player. April 1994, Nine Inch Nails." />
+
+In December 1993, Reznor was confronted by Patti Tate, who asked if he was exploiting Sharon Tate's death in the house. Reznor responded that he was interested in the house as her death happened there. He later made a statement about this encounter during a 1997 interview with ''[[Rolling Stone]]'':
+
+{{quote|While I was working on ''[The] Downward Spiral'', I was living in the house where Sharon Tate was killed. Then one day I met her sister [Patti Tate]. It was a random thing, just a brief encounter. And she said: 'Are you exploiting my sister's death by living in her house?' For the first time, the whole thing kind of slapped me in the face. I said, 'No, it's just sort of my own interest in American folklore. I'm in this place where a weird part of history occurred.' I guess it never really struck me before, but it did then. She lost her sister from a senseless, ignorant situation that I don't want to support. When she was talking to me, I realized for the first time, 'What if it was my sister?' I thought, 'Fuck [[Charles Manson|Charlie Manson]].' I went home and cried that night. It made me see there's another side to things, you know?<ref name=RS1997>{{cite news |newspaper=[[Rolling Stone]] |publisher=Wenner Media |issue=755 |date=March 6, 1997 |page=36 |first=Mikal |last=Gilmore |author-link=Mikal Gilmore |title=The Lost Boys}} Trent Reznor's part of the interview article posted at {{cite web |url=http://www.lynchnet.com/lh/lhrs3.html |title=Trent Reznor Lost Highway Interview |accessdate=December 25, 2007 |work=lynchnet.com |postscript=<!--None-->}}</ref>}}
+
+Flood, known for engineering and producing [[U2 (band)|U2]] and [[Depeche Mode]] albums, was employed as co-producer on ''The Downward Spiral''. It became his last collaboration with Nine Inch Nails due to creative differences.<ref name="Taylor" /> A "very dangerously self-destructive," humorous short song written for the album, "Just Do It", was not included in the final version and criticized by Flood in that Reznor had "gone too far." Reznor completed the last song written for the album, "Big Man with a Gun", in late 1993.<ref name="Details"/><ref name="spin">{{cite journal |magazine=Spin |volume=15 |issue=9 |date=September 1999 |page=124 |first=Eric |last=Weisbard |title=The 90 Greatest Albums of the '90s: 11 Nine Inch Nails ''The Downward Spiral'' |url=http://books.google.com/books?id=bGjsvmNt8UgC&lpg=PA117&pg=PA124#v=onepage&q&f=false |accessdate=November 4, 2011 }} Also posted at {{cite journal |url=http://www.theninhotline.net/archives/articles/xart89.shtml |title=Rank 11. Nine Inch Nails (Spin - Aug '99) |accessdate=May 25, 2009 |work=theninhotline.net |postscript= <!--None-->}}</ref> After the album's recording, Reznor moved out and the house was demolished shortly thereafter.<ref name="Entertainment Weekly - The Downward Spiral" /> ''The Downward Spiral'' entered its mixing and mastering processes, done at [[Record Plant|Record Plant Studios]] and [[Henson Recording Studios|A&M Studios]] with [[Alan Moulder]], who subsequently took on more extensive production duties for future album releases.{{sfn|Huxley|1997|p=119}}<ref name="TDSbooklet"/><!-- HIDDEN BECAUSE OF APPARENTLY NO RELIABLE SOURCE: Another unreleased track, "The Beauty of the Drug," was briefly mentioned in a UK interview and was eventually leaked on the ''Disturbed'' bootleg. -->
+
+==Music and lyrics==
+<div style="float: right;">
+{{listen
+|pos=right
+| filename    = Nine Inch Nails - Mr. Self Destruct, 1994.ogg
+| title       = "Mr. Self Destruct"
+| description = Album version, as it appeared on ''The Downward Spiral''
+| format      = [[Ogg]]
+| filename2     = Nine Inch Nails - The Becoming, 1994.ogg
+| title2        = "The Becoming"
+| description2  = Album version, as it appeared on ''The Downward Spiral''
+| format2       = [[Ogg]]
+| filename3     = Nine Inch Nails - Ruiner, 1994.ogg
+| title3        = "Ruiner"
+| description3  = Album version, as it appeared on ''The Downward Spiral''
+| format3       = [[Ogg]]
+}}
+</div>
+Numerous layers of metaphors are present throughout ''The Downward Spiral'', which leaves it open to wide interpretation. The album relays [[nihilism]] and is defined by a prominent theme of [[self-destructive behaviour|self-abuse]] and [[Self-control|control]]. It is a semi-autobiographical concept album in which the overarching plot follows the protagonist's descent into madness in his own inner [[solipsism|solipsistic]] world, through a metaphorical "Downward Spiral", dealing with religion, dehumanization, violence, disease, society, drugs, sex, and finally suicide.{{sfn|Huxley|1997|p=120}}<ref name=Allmusic>{{Allmusic |class=album |tab=review |id=r198574 |first=Steve |last=Huey |accessdate=April 27, 2004 }}</ref><ref name="The Quietus"/> Reznor described the concept as consisting of "someone who sheds everything around them to a potential nothingness, but through career, religion, relationship, belief and so on."<ref name="Trent Reznor 1994 Select" /> Media journalists like ''[[The New York Times]]'' writer [[Jon Pareles]] noted the album's theme of angst had already been used by [[grunge]] bands like [[Nirvana (band)|Nirvana]], and that Nine Inch Nails' depiction was more generalized.<ref name="NY Times"/>
+
+''The Downward Spiral'' features elements of industrial rock, techno, and heavy metal, a change from the synthpop-influenced ''Pretty Hate Machine''. Reznor regularly uses noise and distortion in his song arrangements that do not follow [[verse–chorus form]], and incorporates dissonance with chromatic melody or harmony (or both). The treatment of metal guitars in ''Broken'' is carried over to ''The Downward Spiral'', which includes innovative techniques such as expanded song structures and unconventional time signatures.{{sfn|Huxley|1997|p=109–121}}<ref name="Allmusic"/> The album features a wide range of textures and moods to illustrate the mental progress a central character.<ref name="Details">{{cite journal | title = The Art of Darkness | last = Heath | first = Chris | authorlink = Chris Heath | journal = [[Details (magazine)|Details]] | publisher = [[Condé Nast Publications]] |date=April 1995}}</ref> Reznor's singing follows a similar pattern from beginning to end, frequently moving from whispers to screams.<ref name="NIN-WT-IGN">{{Cite web | url=http://www.theninhotline.net/archives/articles/manager/display_article.php?id=84 | work=IGN | title=Nine Inch Nails - With Teeth | author=Spence D. | date=May 3, 2005 | accessdate=January 29, 2014 | publisher=Ziff Davis}}</ref> These techniques are all used in the song "Hurt", which features a highly dissonant [[tritone]] played on guitar during the verses, a B5#11, emphasized when Reznor sings the eleventh note on the word "I" every time the B/E# [[dyad (music)|dyad]] is played.<ref>{{Cite book
+  | author = Reynolds, Tom
+  | title = I Hate Myself and I Want to Die
+  | page = 227
+  | isbn = 978-1-86074-628-4
+  | date = June 13, 2005
+  | publisher = Sanctuary Publishing
+}}</ref>
+
+"Mr. Self Destruct", a song about a powerful person, follows a build-up sampled from ''[[THX 1138]]'' with an "industrial roar" and is accompanied by an audio loop of a pinion rotating. "The Becoming" expresses the state of being dead and the protagonist's transformation into a non-human organism.<ref name="BillboardTDS20"/><ref name="The Quietus"/> "Closer" concludes with a chromatic piano [[motif (music)|motif]]: The melody is debuted during the second verse of "Piggy" on organ, then reappears in power chords at [[drop D tuning]] throughout the chorus of "Heresy", and recurs for the final time on "The Downward Spiral".<ref name="Limmer"/> The album was chiefly inspired by David Bowie's ''[[Low (David Bowie album)|Low]]'', an experimental rock album which Reznor related to on songwriting, mood, and structures, as well as progressive rock group Pink Floyd's ''[[The Wall]]''.<ref>{{cite journal| url = http://www.theninhotline.net/archives/articles/xart43.shtml| title = Techno Fear! | journal = [[Kerrang!]] | publisher = [[Bauer Media Group]] | author = Steffan Chirazi|date=April 1994| accessdate = January 21, 2009}}</ref>
+
+==Cover art==
+''Committere'', an installation featuring artwork and sketches for ''The Downward Spiral'', "Closer" and "March of the Pigs" by [[Russell Mills (artist)|Russell Mills]] was displayed at the [[Glasgow School of Art]]. Mills explained the ideas and materials that made up the painting (titled "Wound") that was used for the [[cover art]]:
+
+{{quote|I had been thinking about making works that dealt with layers, physically, materially and conceptually. I wanted to produce works that were about both exposure and revealing and at the same dealt with closure and covering. Given the nature of the lyrics and the power of the music I was working with, I felt justified in attempting to make works that alluded to the apparently contradictory imagery of pain and healing. I wanted to make beautiful surfaces that partially revealed the visceral rawness of open wounds beneath. The mixed media work 'Wound' was the first piece I tackled in this vein (no pun intended) and it became the cover of the album. It is made of plaster, acrylics, oils, rusted metals, insects, moths, blood (mine), wax, varnishes, and surgical bandaging on a wooden panel.<ref>{{cite web| url = http://web.archive.org/web/20100503082254/http://www.shedmatter.co.uk/russellmills/mills/installations/committere.html| title = Committere| author = Russell Mills| year = 2006| accessdate = April 25, 2009}}</ref>}}
+
+==Promotion==
+
+===Singles===
+"March of the Pigs" and "Closer" were released as singles; two other songs, "Hurt" and "Piggy", were issued to radio without a commercial single release.<ref name="Alternative Songs">{{cite web
+ | title = Nine Inch Nails Album & Song Chart History: Alternative Songs
+ | work = Billboard
+ | publisher = Prometheus Global Media
+ | url = {{BillboardURLbyName|artist=nine inch nails|chart=Alternative Songs}}
+ | accessdate = January 25, 2011}}</ref> "March of the Pigs" has an unusual [[meter (music)|meter]], alternating three [[bar (music)|bars]] of 7/8 time with one of 8/8 (in effect, a 29/8 time signature), and has a [[Beats per minute|BPM]] rate of 269.<ref name="BillboardTDS20"/> The song's music video was directed by [[Peter Christopherson]] and was shot twice; the first version scrapped due to Reznor's involvement, and the released second version being a live performance.{{sfn|Huxley|1997|p=133}}
+
+"Closer" features a heavily modified bass drum sample from the [[Iggy Pop]] song "[[Nightclubbing (song)|Nightclubbing]]" from his album ''[[The Idiot (album)|The Idiot]]''.<ref name="Reznor Keyboard">{{cite journal
+| title = Trent Reznor
+| author = Greg Rule
+| journal = [[Keyboard (magazine)|Keyboard]]
+| publisher = [[NewBay Media]]
+| date = April 1994
+| accessdate = April 25, 2007
+}}</ref> Lyrically, it is a meditation on self-hatred and obsession, but to Reznor's dismay, the song was widely misinterpreted as a lust anthem due to its chorus, which included the line "I wanna fuck you like an animal". The music video for "Closer" was directed by [[Mark Romanek]] and received frequent rotation on MTV, though the network heavily censored the original version, which they perceived to be too graphic.{{sfn|Huxley|1997|p=133–134, 179}} The video shows events in a laboratory dealing with religion, sexuality, animal cruelty, politics, and terror; controversial imagery included a nude bald woman with a crucifix mask, a monkey tied to a cross, a pig's head spinning on a machine, a diagram of a vulva, Reznor wearing an S&M mask while swinging in shackles, and of him wearing a ball gag.<ref name="Closer video">{{cite web
+  | title = Nine Inch Nails: Closure (VHS)
+  | publisher = DeepFocus.com
+  | url = http://www.deep-focus.com/flicker/closure.html
+  | accessdate = August 26, 2007}}</ref> A radio edit that partially censored the song's explicit lyrics also received extensive airtime.<ref name="CloserSOS">{{cite journal|url=http://www.soundonsound.com/sos/sep12/articles/classic-tracks-0912.htm|author=Richard Buskin|journal=[[Sound on Sound]]|publisher=SOS Publications Group|title=Nine Inch Nails 'Closer' (Classic Tracks)|date=September 2012|accessdate=April 17, 2014}}</ref> The video has since been made part of the permanent collection of the [[Museum of Modern Art]] in [[New York City]].<ref name="MOMA">{{cite web|last= McCahill|first= Will|url=http://www.newser.com/story/69218/most-controversial-music-videos.html|title=Most Controversial Music Videos|work=[[Newser]]|publisher=Newser|date=September 12, 2009|accessdate=March 29, 2014}}</ref>
+
+"Piggy" uses "nothing can stop me now", a line that recurs in "Ruiner" and "Big Man with a Gun".<ref name="BillboardTDS20"/> The frantic drumming on the song's outro is Reznor's only attempt at performing drums on the record, and one of the few "live" drum performances on the album. He had stated that the recording was from him testing the microphone setup in studio, but he liked the sound too much not to include it.<ref name="Reznor Keyboard"/> It was released as a promotional single in December 1994 and reached the Top 20 on the [[Billboard Modern Rock Tracks|''Billboard'' Modern Rock Tracks]] chart.<ref name="Alternative Songs"/>
+
+Released in 1995, "Hurt" clearly includes references to [[self-harm]] and [[Drug abuse|heroin addiction]], although the overall meaning of the song is disputed.<ref name="DS4"/> [[Johnny Cash]] covered the song for ''[[American IV: The Man Comes Around]]''. Its accompanying music video, featuring images from Cash's life and also directed by Mark Romanek, was named the best video of all time by ''[[NME]]''.<ref name="paradox">{{cite book
+| url = http://books.google.com/?id=DOIecLTkHaIC&printsec=frontcover#v=onepage&q&f=false
+| title = Johnny Cash and the Paradox of American Identity
+| last = Edwards
+| first = Leigh H.
+| pages = 59–60
+| publisher = [[Indiana University Press]]
+| isbn=0253220610
+| year=2009
+}}</ref><ref>{{cite web|url=http://www.nme.com/news/nme/57784 |title=NME names Johnny Cash's 'Hurt' the greatest music video of all time |work=NME |publisher=[[IPC Media]] |date=July 5, 2011 |accessdate=December 27, 2011}}</ref> British singer-songwriter [[Leona Lewis]] covered the song and included it on her first EP, ''[[Hurt: The EP]]''. Her cover garnered a mixed response from music critics. Lewis Corner for [[Digital Spy]] was complimentary of Lewis' rock interpretation of the song as it displays the singer's "emotive tones" on which she sings in "spine-chilling" [[falsetto]] notes.<ref name="DS4">{{cite web|last=Corner|first=Lewis|url=http://www.digitalspy.co.uk/music/singlesreviews/a355601/leona-lewis-hurt-ep-review.html|title=Leona Lewis: 'Hurt EP' review|work=[[Digital Spy]]|publisher=[[Hachette Filipacchi Médias]]|date=December 11, 2011|accessdate=March 24, 2012}}</ref>
+
+===Tour===
+{{See also|Self Destruct Tour}}
+[[File:Trent Reznor Self-Destruct.jpg|thumb|Reznor performing during the Self Destruct tour, circa 1994–1995]]
+The Nine Inch Nails live band embarked on the Self Destruct tour in support of ''The Downward Spiral''. Chris Vrenna and [[James Woolley]] performed drums and keyboards respectively, [[Robin Finck]] replaced [[Richard Patrick]] on guitar and bassist [[Danny Lohner]] was added to the line-up. The stage set-up consisted of dirty curtains which would pulled down and up for visuals shown during songs such as "Hurt". The back of the stage was littered with darker and standing lights, along with very little actual ones. The tour debuted the band's grungy and messy image in which they would come out in ragged clothes slathered in corn starch. The concerts were violent and chaotic, with band members often injuring themselves. They would frequently destroy their instruments at the end of concerts, attack each other, and stage-dive into the crowd.{{sfn|Huxley|1997|p=145–148}}
+
+The tour included a set at [[Woodstock '94]] broadcast on [[Pay-per-view]] and seen in as many as 24&nbsp;million homes. The band being covered in mud was a result of pre-concert backstage play, contrary to the belief that it was an attention-grabbing ploy, thus making it difficult for Reznor to navigate the stage: Reznor pushed Lohner into the mud pit as the concert began and saw mud from his hair entering his eyes while performing. Nine Inch Nails was widely proclaimed to have "stolen the show" from its popular contemporaries, mostly classic rock bands, and its fan base expanded.{{sfn|Huxley|1997|p=151–153}}<ref name="PPV">{{cite journal
+  | url = http://www.highbeam.com/doc/1G1-16319994.html
+  | title = Feedback muddy from Woodstock PPV
+  | last = Umstead
+  | first = Thomas R.
+  | journal = Multichannel News
+  | date = August 22, 1994
+  | volume = 15
+  | issue = 32
+  | pages = 3–4}}</ref><ref name="DFP Woodstock">{{cite journal
+  | title = Band's Hot Image Rooted In Woodstock '94 Mud
+  | last = Graff
+  | first = Gary
+  | publisher = [[Detroit Free Press]]
+  | date = August 1994}}</ref> The band received considerable mainstream success thereafter, performing with significantly higher production values and the addition of various theatrical visual elements.<ref>{{cite journal
+  | title = The Pit: Nine Inch Nails
+  | journal = Guitar School
+  | date = May 1995}}</ref> Its performance of "[[Happiness in Slavery]]" from the Woodstock concert earned the group a [[Grammy Award]] for [[Grammy Award for Best Metal Performance|Best Metal Performance]] in 1995.<ref name="Huxley"/> ''[[Entertainment Weekly]]'' commented about the band's Woodstock '94 performance: "Reznor unstrings rock to its horrifying, melodramatic core--an experience as draining as it is exhilarating".<ref>{{cite journal
+  | journal = Entertainment Weekly
+  | accessdate = May 1, 2008
+  | title = Trent Reznor : The Entertainers
+  | publisher = [[Time Warner]]
+  | date = December 1994
+  | last = Hajari
+  | first = Nisid}}</ref> Despite this acclaim, Reznor attributed his dislike of the concert to its technical difficulties.{{sfn|Huxley|1997|p=152–153}}
+
+The main leg of the tour featured Marilyn Manson as the supporting act, who featured bassist [[Jeordie White]] (then playing under the pseudonym "Twiggy Ramirez"); White later played bass with Nine Inch Nails from 2005 to 2007.<ref name="break-up">{{cite web
+  | url = http://starbulletin.com/2007/09/14/features/story05.html
+  | title = Reznor's edge cuts NIN's bleak outlook
+  | last = Chun
+  | first = Gary
+  | publisher = ''[[Honolulu Star-Bulletin]]''
+  | date = September 14, 2007
+  | accessdate = March 29, 2014}}</ref> After another tour leg supporting the remix album ''Further Down the Spiral'', Nine Inch Nails contributed to the [[Alternative Nation Festival]] in Australia and subsequently embarked on the [[Outside Tour|Dissonance Tour]], which included 26 separate performances with co-headliner David Bowie. Nine Inch Nails was the opening act for the tour, and its set transitioned into Bowie's set with joint performances of both bands' songs.{{sfn|Huxley|1997|p=215–220}} However, the crowds reportedly did not respond positively to the pairing due to their creative differences.<ref>{{cite news
+  | url = http://nl.newsbank.com/nl-search/we/Archives?p_product=DM&p_theme=dm&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0ED3D605D5D44A2F&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM
+  | title = Outside looking in
+  | author = Christensen, Thor
+  | work = [[The Dallas Morning News]]
+  | date = October 13, 1995
+  | accessdate = March 29, 2008
+  | format = fee required}}</ref>
+
+The tour concluded with "Nights of Nothing", a three-night showcase of performances from Nothing Records bands Marilyn Manson, [[Prick (band)|Prick]], [[Meat Beat Manifesto]], and [[Pop Will Eat Itself]], which ended with an 80-minute set from Nine Inch Nails. ''[[Kerrang!]]'' described the Nine Inch Nails set during the Nights of Nothing showcase as "tight, brash and dramatic", but was disappointed at the lack of new material. On the second of the three nights, Richard Patrick was briefly reunited with the band and contributed guitar to a performance of "[[Head Like a Hole]]".<ref name="Nights of Nothing">{{cite journal
+  | title = Nailed! Trent's Posse Pound New York
+  | first = Don
+  | last = Kaye
+  | work = Kerrang!
+  | publisher = Bauer Media Group
+  |date=September 1996}}</ref> After the Self Destruct tour, Chris Vrenna, member of the live band since 1988 and frequent contributor to Nine Inch Nails studio recordings, left the act permanently to pursue a career in [[record producer|producing]] and to form [[Tweaker (band)|Tweaker]].<ref name="Vrenna Tweaker">{{cite web
+  | url = http://www.mtv.com/news/articles/1448942/20010918/tweaker.jhtml
+  | title = Vrenna Leaves NIN Behind To Explore What's Uncertain
+  | accessdate = February 8, 2008
+  | work = [[MTV]]
+  | publisher = [[Viacom]]
+  | date = September 18, 2001
+  | last = Moss
+  | first = Coret}}</ref><ref name="Blue Divide">{{cite journal
+  | last = Ramirez
+  | first = Mike
+  | title = Nothing is Temporary
+  | journal = Blue Divide Magazine
+  | date = February 2001
+  | volume = 2
+  | issue = 1}}</ref>
+
+==Release and reception==
+{{Album reviews
+| rev1 = [[AllMusic]]
+|rev1Score = {{Rating|4|5}}<ref name=Allmusic/>
+| rev2 = ''[[Chicago Tribune]]''
+|rev2Score = {{Rating|3|4}}<ref name="Kot">{{Cite news |newspaper=Chicago Tribune |author=Greg Kot |author-link=Greg Kot |url=http://www.google.com/archivesearch?as_q=nine+inch+nails+star&num=10&hl=en&btnG=Search+Archives&as_epq=the+downward+spiral&as_oq=&as_eq=&as_user_ldate=03%2F1994&as_user_hdate=03%2F1994&lr=&as_src=chicago+tribune&as_price=p0&as_scoring=a |title=''The Downward Spiral'' |page=10 |date=March 6, 1994}}</ref>
+| rev3 = [[Robert Christgau]]
+|rev3score = {{Rating-Christgau|hm2}}<ref name="Christgau"/>
+| rev4 = ''[[Entertainment Weekly]]''
+|rev4Score = B+<ref name="Sinclair">{{Cite journal|author=Tom Sinclair|url=http://www.ew.com/ew/article/0,,301446,00.html|title=''The Downward Spiral''|journal=Entertainment Weekly|publisher=Time Warner|date=March 18, 1994|accessdate=August 29, 2009 }}</ref>
+| rev5 = ''[[Los Angeles Times]]''
+|rev5Score = {{Rating|4|4}}<ref name="Hilburn">{{cite journal|author=Robert Hilburn|url=http://articles.latimes.com/1994-03-06/entertainment/ca-30539_1_downward-spiral|title=''The Downward Spiral''|journal=Los Angeles Times|date=March 6, 1994|accessdate=August 29, 2009 }}</ref>
+| rev6 = [[Pitchfork Media]]
+|rev6Score = 8.3/10<ref name="Mitchum">{{cite web|author=Robert Mitchum|url=http://pitchfork.com/reviews/albums/5802-the-downward-spiral-deluxe-edition/|title=''The Downward Spiral''|work=Pitchfork|publisher=Pitchfork Media|accessdate=August 29, 2009 }}</ref>
+| rev7 = [[PopMatters]]
+|rev7Score = 9/10<ref name="Limmer">{{cite web|author=Seth Limmer|url=http://www.popmatters.com/review/nineinchnails-downwarddeluxe/|title=''The Downward Spiral''|website=PopMatters|accessdate=August 29, 2009 }}</ref>
+| rev8 = ''[[Rolling Stone]]''
+|rev8Score = {{Rating|4|5}}<ref name=RS1994/>
+| rev9 = ''[[The Rolling Stone Album Guide|The New Rolling Stone Album Guide]]''
+|rev9Score = {{Rating|5|5}}<ref name=RSguide/>
+| rev10 = ''[[USA Today]]''
+|rev10Score = {{Rating|3|4}}<ref name="Gundersen">{{cite news|author=Edna Gundersen|url=http://www.google.com/archivesearch?as_q=nine+inch+nails&num=10&hl=en&btnG=Search+Archives&as_epq=the+downward+spiral&as_oq=&as_eq=&as_user_ldate=04%2F20%2F1994&as_user_hdate=04%2F20%2F1994&lr=&as_src=usa+today&as_price=p0&as_scoring=a|title=''The Downward Spiral''|newspaper=USA Today|date=April 20, 1994}} Archived from [http://pqasb.pqarchiver.com/USAToday/access/55235955.html?dids=55235955:55235955&FMT=ABS&FMTS=ABS:FT&type=current&date=Apr+20%2C+1994&author=Edna+Gundersen&pub=USA+TODAY+(pre-1997+Fulltext)&desc=Costello's+%60Brutal+Youth'+brings+back+rough%2C+classic+edge&pqatl=google the original] on August 29, 2009.</ref>
+}}
+''The Downward Spiral''{{'}}s release date was delayed at various times to slow down Reznor's intended pace of the album's recording. The first delay caused the process of setting up Le Pig to take longer than he expected, and its release was postponed again as he was educating himself different ways to write songs that did not resemble those on ''Broken'' and ''Pretty Hate Machine''. He considered delivering the album to Interscope in early 1993, only to experience a [[writer's block]] as he was unable to produce any satisfactory material. Interscope grew impatient and concerned with this progress, but Reznor was not forced by their demands of expediency despite crediting the label for giving him creative freedom. He told rock music producer [[Rick Rubin]] that his motivation for creating the album was to get it finished, thus Rubin responded that Reznor might not do so until he makes music that is allowed to be heard. Reznor realized that he was in the most fortunate situation he imagined when the album was recorded with a normal budget, "cool" equipment, and a studio to work at.<ref name="Huxley"/>
+
+Released on March 8, 1994 to instant success,<ref name="Huxley"/> ''The Downward Spiral'' debuted the following week at number two on the US ''[[Billboard magazine|Billboard]]'' [[Billboard 200|200]] chart; American grunge band [[Soundgarden]]'s ''[[Superunknown]]'' had topped the chart in the same week and also shipped on March 8.<ref>{{cite news |newspaper=Entertainment Weekly |publisher=Time Warner |issue=215 |date=March 25, 1994 |page=55 |first=Michele |last=Romero |first2=James |last2=Bernard |url=http://www.ew.com/ew/article/0,,301554,00.html |title=Changing of the Garden |accessdate=October 26, 2007|archiveurl=http://web.archive.org/web/20080830000510/http://www.ew.com/ew/article/0,,301554,00.html |archivedate=August 30, 2008}}</ref> On October 28, 1998 the [[Recording Industry Association of America]] (RIAA) certified the album [[Music recording sales certification|quadruple platinum]], denoting shipments of four million in the United States.<ref name="RIAA.com">{{cite web |url=http://www.riaa.com/goldandplatinumdata.php?table=SEARCH |publisher=[[Recording Industry Association of America]] |title=RIAA.com |accessdate=August 10, 2007}} Note: User must define search parameters, i.e. "Nine Inch Nails".</ref><ref name=Spin2005>{{cite journal |magazine=Spin |volume=21 |issue=5 |title=The Shadow of Death |url=http://books.google.com/books?id=U1mdDlPSC9YC&lpg=PA16&dq=shadow%20of%20death&pg=PA62#v=onepage&q&f=false |first=Marc |last=Spitz |date=May 2005 |pages=62–67 |accessdate=March 7, 2010 }}</ref> The album peaked at number nine on the [[UK Albums Charts]]<ref name="UK Charts"/> and the [[British Phonographic Industry]] (BPI) gave the album a gold certification on July 22, 2013 for sales of over 100,000 copies in the United Kingdom.<ref name="UK certs">{{cite web
+  | title = Blue Lines Certified Awards
+  | publisher = [[British Phonographic Industry]]
+  | url = http://www.bpi.co.uk/certified-awards.aspx
+  | accessdate = April 9, 2014}}  Note: User must define search parameters, i.e. "Nine Inch Nails".</ref> It reached number 13 on the Canadian ''[[RPM (magazine)|RPM]]'' album charts<ref name="TDS CAN"/> and received a triple platinum certification from the [[Canadian Recording Industry Association]] (CRIA) for selling 300,000 copies in Canada.<ref name="TDS CRIA"/> A group of early listeners of the album viewed it as "commercial suicide," but Reznor did not make it for profit as his goal was to slightly broaden Nine Inch Nails' scope. Reznor felt that the finished product he delivered to Interscope was complete and faithful to his vision and thought its commercial potential was limited, but after its release he was surprised by the success and received questions about a follow-up single with a music video to be shown on MTV.{{sfn|Huxley|1997|p=129–130}} The album has since sold over four million copies worldwide.<ref>{{cite web
+ | url = http://www.cleveland.com/kidsnewsday/content.ssf?/homegrown/index.ssf?/homegrown/more/reznor/timeline.html
+ | title = Trent Reznor: Timeline
+ | publisher = Cleveland.com
+ | accessdate = December 18, 2006}}</ref>
+
+Many music critics and audiences praised ''The Downward Spiral'' for its abrasive, eclectic nature and dark themes and commented on the concept of a destruction of a man.<ref name="Huxley"/> ''The New York Times'' writer Jon Pareles' review of the album found the music to be highly abrasive. Pareles asserted that unlike other electro-industrial groups like [[Ministry (band)|Ministry]] and [[Nitzer Ebb]], "Reznor writes full-fledged tunes" with stronger use of melodies than riffs. He noticed criticisms of Nine Inch Nails from industrial purists for popularizing the genre and the album's transgression.<ref name="NY Times">{{cite news |newspaper=[[The New York Times]] |date=May 8, 1994 |first=Jon |last=Pareles |author-link=Jon Pareles |url=http://query.nytimes.com/gst/fullpage.html?res=9904EFDC1130F93BA35756C0A962958260 |title=A Noise Sculptor Reveals An Ear for the Commercial |accessdate=November 26, 2007}}</ref> [[Robert Christgau]] gave the album an honorable mention ({{Rating-Christgau|hm2}}) rating and commented that, musically, the album was comparable to "[[Heironymus Bosch]] as postindustrial atheist", but lyrically more closely resembled "[[Transformers]] as kiddie porn."<ref name="Christgau">{{cite web| author-link=Robert Christgau | url=http://www.robertchristgau.com/get_artist.php?name=Nine+Inch+Nails | title=Consumer Guide: ''The Downward Spiral'' | journal=[[The Village Voice]] | date=February 21, 1995 | archiveurl=http://www.robertchristgau.com/xg/cg/cgv395-95.php | archivedate=August 29, 2009}}</ref> Jonathan Gold, writing for ''Rolling Stone'', likened the album to cyberpunk fiction.<ref name=RS1994>{{cite news |newspaper=[[Rolling Stone]] |publisher=Wenner Media |issue=678 |date=August 1, 1997 |page=92 |first=Jonathan |last=Gold |title=The Downward Spiral |url=http://www.rollingstone.com/music/albumreviews/the-downward-spiral-19970801 |accessdate=March 26, 2012}}</ref> ''Entertainment Weekly'' reviewer Tom Sinclair commented: "Reznor's pet topics (sex, power, S&M, hatred, transcendence) are all here, wrapped in hooks that hit your psyche with the force of a blowtorch."<ref name="Sinclair"/>
+
+=== Accolades ===
+''The Downward Spiral'' has been listed on several publications' best album lists. In 2003, the album was ranked number 201 on ''Rolling Stone'' magazine's list of [[The 500 Greatest Albums of All Time|the 500 greatest albums of all time]]<ref name="200great500">{{cite book
+| editor-last=Levy
+| editor-first=Joe
+| editor2-last=Van Zandt
+| editor2-first=Steven
+| editor2-link=Steven Van Zandt
+|title=Rolling Stone 500 Greatest Albums of All Time
+|origyear=2005
+|edition=3rd
+|year=2006
+|publisher=Turnaround
+|location=London
+|isbn=1-932958-61-4
+|oclc=70672814
+|ref=RS500
+}}</ref> and number 201 on its 2012 online edition. The ''Rolling Stone'' staff wrote: "Holing up in the one-time home of Manson-family victim Sharon Tate, Trent Reznor made an overpowering meditation on NIN's central theme: control."<ref name="201great500">{{cite web|url=http://www.rollingstone.com/music/lists/500-greatest-albums-of-all-time-20120531/nine-inch-nails-the-downward-spiral-20120524|title=''500 Greatest Albums of All Time''|journal=Rolling Stone|author=Rolling Stone staff|publisher=Wenner Media|date=May 5, 2012|accessdate=March 5, 2014}}</ref> The album was placed 10th on ''[[Spin (magazine)|Spin]]''{{'}}s ''125 Best Albums of the Past 25 Years'' list; the ''Spin'' staff quoted Ann Powers' review that appreciated its bleak, aggressive style.<ref name="125Best25">{{cite web|url=http://www.spin.com/spin25/125-best-albums-past-25-years#page=12|title=125 Best Albums of the Past 25 Years: Nine Inch Nails - The Downward Spiral|journal=Spin|author=Spin staff|year=2010|accessdate=April 24, 2010}}</ref> It was ranked number 488 in the book ''The Top 500 Heavy Metal Albums of All Time'' by heavy metal music critic [[Martin Popoff]].<ref>{{cite book|author=Martin Popoff|title=The Top 500 Heavy Metal Albums of All Time|publisher=[[ECW Press]]|year=2004|isbn=1-55022-600-2}}</ref> In 2001, ''[[Q (magazine)|Q]]'' named ''The Downward Spiral'' as one of the ''50 Heaviest Albums of All Time'';<ref name="Q50Heav">{{cite journal|url=http://www.rocklistmusic.co.uk/qlistspage2.html#50%20Heaviest|title=Q 50 Heaviest Albums of All Time|journal=Q|author=Q staff|year=2001|accessdate=April 15, 2007}}</ref> in 2010, the album was ranked number 102 on their ''250 Best Albums of Q's Lifetime (1986-2011)'' list.<ref name="Q250">{{cite journal|url=http://www.rocklistmusic.co.uk/q1001_songs.htm#q250|title=Q Magazine 250 Best Albums of Q's Lifetime|journal=Q|author=Q staff|year=2011|accessdate=April 1, 2012}}</ref> ''The Downward Spiral'' was featured in Robert Dimery's book ''[[1001 Albums You Must Hear Before You Die]]''.<ref name="1001albums">{{cite book|title=[[1001 Albums You Must Hear Before You Die]]|year=2005|editor-first=Robert|editor-last=Dimery|first=Joel|last=McIver|authorlink=Joel McIver|edition=1st|publisher=[[Universe Publishing]]|isbn=978-0-7893-1371-3}}</ref><!-- HIDDEN BECAUSE OF NOT ENOUGH DETAILS: On August 23, 2009 at [[Webster Hall]], Nine Inch Nails played the album in its entirety for the first time ever.<ref>[http://www.spinner.com/2009/08/24/nine-inch-nails-perform-complete-downward-spiral-at-wave-good Nine Inch Nails Perform 'Downward Spiral' in Entirety]</ref><ref>[http://www.theninhotline.net/news/index.php#1251087586 On September 2, 2009 at the Palladium, Los Angeles, Nine Inch Nails played the album in its entirety for the 2nd time]</ref> --> In May 2014, ''[[Loudwire]]'' placed ''The Downward Spiral'' at number two on its "10 Best Hard Rock Albums of 1994" list.<ref>{{cite web|url=http://loudwire.com/best-hard-rock-albums-1994/ |title=10 Best Hard Rock Albums of 1994 |date=May 20, 2014 |work=[[Loudwire]] |accessdate=May 21, 2014}}</ref> In July 2014, ''[[Guitar World]]'' placed ''The Downward Spiral'' at number 43 in their "Superunknown: 50 Iconic Albums That Defined 1994" list.<ref>{{cite web|url=http://www.guitarworld.com/superunknown-50-iconic-albums-defined-1994 |title=Superunknown: 50 Iconic Albums That Defined 1994 |date=July 14, 2014 |work=[[Guitar World|GuitarWorld.com]] |accessdate=July 14, 2014}}</ref>
+
+==Legacy==
+The immediate success of ''The Downward Spiral'' established Nine Inch Nails as a reputable force in the 1990s. The band's image and musical style became highly recognizable that a [[Gatorade]] commercial featured a remix of "[[Down in It]]" without its involvement. Reznor felt uncomfortable with the media hype and success the band earned, received false reports of his death, depression, and relationship with mass murderer [[Jeffrey Dahmer]], and was depicted as a sex icon due to his visual identity.{{sfn|Huxley|1997|p=165–180}} Nine Inch Nails received several honors, including Grammy Award nominations for [[Grammy Award for Best Alternative Music Album|Best Alternative Performance]] for ''The Downward Spiral'' and [[Grammy Award for Best Rock Song|Best Rock Song]] for "Hurt".{{sfn|Huxley|1997|p=207}} After the release of ''The Downward Spiral'', many bands such as [[Gravity Kills]], [[Stabbing Westward]], [[Filter (band)|Filter]], and [[Mötley Crüe]] made albums that imitated the sound of Nine Inch Nails.<ref name=RS763>{{cite news |newspaper=Rolling Stone |publisher=Wenner Media |issue=763 |date=June 26, 1997 | first=Jon |last=Wiederhorn |title=Generation Swine |url=http://www.rollingstone.com/music/albumreviews/generation-swine-19970626 |accessdate=March 8, 2014}}</ref><ref name="StereogumTDS20">{{cite web|url=http://www.stereogum.com/1668716/the-downward-spiral-turns-20/franchises/the-anniversary|title=The Downward Spiral turns 20|author=Tom Breihan|work=Stereogum|date=March 7, 2014|accessdate=March 27, 2014}}</ref>
+
+Reznor interpreted ''The Downward Spiral'' as an extension of himself that "became the truth fulfilling itself," as he experienced personal and social issues presented in the album after its release. He had already struggled with [[social anxiety disorder]] and depression and started his abuse of [[narcotic]]s including cocaine while he went on an alcohol binge.<ref name = "Hell"/> Around this time, his studio perfectionism,<ref>{{Cite journal
+  | title = Trent Reznor
+  | journal = [[Alternative Press (music magazine)|Alternative Press]]
+  |date=January 1998
+  | issue = 114}}</ref> struggles with addiction, and bouts of writer's block prolonged the production of ''[[The Fragile (Nine Inch Nails album)|The Fragile]]'', and Reznor completed rehabilitation from drugs in 2001.<ref name = "Hell">{{Cite journal
+  | title = To Hell and back
+  | author = Chick, Steve
+  | journal = [[Kerrang!]] |publisher= [[Bauer Media Group]]
+  | date = March 30, 2005}}</ref><ref name="Metal Edge July 2005 Nine Inch Nails">{{cite journal|title=Trent Reznor Bites Back|journal=Metal Edge|date=July 2005}}</ref>
+
+One year after ''The Downward Spiral''<nowiki>'s</nowiki> release, Reznor produced an accompanying remix album entitled ''Further Down the Spiral'', the only non-major Nine Inch Nails release to be certified gold in the United States.<ref name="RIAA.com" /> It features contributions from [[Coil (band)|Coil]] with [[Danny Hyde]], [[J. G. Thirlwell]], electronic musician [[Aphex Twin]], producer Rick Rubin, and Jane's Addiction guitarist [[Dave Navarro]].{{sfn|Huxley|1997|p=207–208}} The album peaked at number 23 on the ''Billboard'' 200 and received mixed reviews.<ref>{{cite web|url={{BillboardURLbyName|artist=nine inch nails|chart=all}}|title=Further Down the Spiral [US<nowiki>]</nowiki> - Nine Inch Nails|publisher=''[[Billboard (magazine)|Billboard]]''}}</ref><ref>{{Allmusic|class=album|id=r315477|label=Further Down the Spiral (US)}}</ref> ''[[Recoiled]]'', a remix EP of "[[Gave Up (song)|Gave Up]]", "Closer", "The Downward Spiral", and "Eraser" by Coil, was released on February 24, 2014 via British record label [[Cold Spring (label)|Cold Spring]].<ref name="exclaim">{{cite journal | url=http://exclaim.ca/News/rare_nine_inch_nails_remixes_appear_unearthed_on_coil_ep | title=Rare Nine Inch Nails Remixes Unearthed on Coil EP | work=[[Exclaim!]] | date=December 6, 2013 | accessdate=January 17, 2014 | author=Hughes, Josiah}}</ref>
+
+Retrospective reviews regard ''The Downward Spiral'' as one of the most important albums of the 1990s and Reznor's greatest work. The 2004 edition of ''[[The Rolling Stone Album Guide|The New Rolling Stone Album Guide]]'' gave the album five out of five stars and called it "a powerful statement, and one of the landmark albums of the Nineties."<ref name=RSguide>{{cite book |chapter=Nine Inch Nails |pages=587–588 |editor1-last=Brackett |editor1-first=Nathan |editor2-last=Hoard |editor2-first=Christian |first=Mac |last=Randall |title=[[The New Rolling Stone Album Guide]] |year=2004 |publisher=Fireside |location=London |isbn=0-7432-0169-8 |accessdate=November 4, 2011 }} Portions posted at {{cite web |work=rollingstone.com |title=Nine Inch Nails > Album Guide |url=http://www.rollingstone.com/music/artists/nine-inch-nails/albumguide |accessdate=May 21, 2011 }}</ref> Writing for ''Entertainment Weekly'', Kyle Anderson remembered watching the music video of "Closer" on MTV as an adolescent and expressed that the album changed his perception of popular music from that of songs heard on the radio to albums with cover art.<ref name="EWTDS20">{{cite web|url=http://music-mix.ew.com/2014/03/07/nine-inch-nails-the-downward-spiral-20th-anniversary/|author=Kyle Anderson|title=Nine Inch Nails' 'The Downward Spiral': 20 years of filth and fury|work=Entertainment Weekly|publisher=Time Warner|date=March 7, 2014|accessdate=March 9, 2014}}</ref> ''[[Stereogum]]''{{'}}s Tom Breihan remains favorable toward the album since it is "the one that most fully inhabits" Nine Inch Nails' characteristics and influenced youth culture, with teenagers wearing ripped fish nets on their arms.<ref name="StereogumTDS20"/>
+
+==Controversy==
+Its emphasis on transgressive themes made ''The Downward Spiral''{{'}}s lyrics vulnerable to criticism from [[Conservatism in the United States#Social conservatism and tradition|American social conservatives]]. Senator [[Bob Dole]], then head of the Republican Party, sharply denounced [[Time Warner]] after a meeting between [[Michael J. Fuchs]] (head of the [[Warner Music Group]]), [[William Bennett]], and [[C. Delores Tucker]], at which Tucker and Bennett demanded that Fuchs recite lyrics from "Big Man with a Gun" because they thought the song was an attack on American conservatives by metaphorically claiming within the lyrics that they have a [[jingoism|jingoistic]] agenda.<ref>{{cite journal|author=Larry Leibstein with Thomas Rosenstiel|title=The Right Takes a Media Giant to Political Task|journal=Newsweek|date=June 12, 1995|page=30}}</ref> Interscope was blamed for releasing [[gangster rap]] albums by [[Dr. Dre]], [[Tupac Shakur]], and [[Snoop Dogg]] that were deemed objectionable. Reznor called Tucker (who referred to Nine Inch Nails as a gangster rap act) "such a fucking idiot" and claimed "Big Man with a Gun" was a satire of the genre and was originally about madness. Reznor conceded ''The Downward Spiral'' could be "harmful, through implying and subliminally suggesting things," whereas [[hardcore hip hop]] can be "cartoonish."<ref name="NIN Spin 1996">{{cite journal |magazine=Spin |volume=11 |issue=11 |date=February 1996 |page=34 |first=Eric |last=Weisbard |title=Sympathy for the Devil |url=http://books.google.com/books?id=td2yO_T3DPEC&lpg=PP1&pg=PA34#v=onepage&q&f=false |accessdate=November 4, 2011}} Also posted at {{cite journal |title=Sympathy for the Devil |url=http://www.theninhotline.net/archives/articles/xint8a.shtml |work=theninhotline.net |accessdate=August 20, 2011}}</ref>{{sfn|Huxley|1997|p=208–210}} [[Robert Bork]] also repeatedly referenced "Big Man with a Gun" in his book ''[[Slouching Toward Gomorrah]]'' as evidence of a cultural decline. The book incorrectly states that it is a rap song.<ref>{{cite book|last = Bork| first = Robert| title = Slouching Toward Gomorrah:  Modern Liberalism and American Decline | publisher = Regan Books| year = 1996|
+ isbn =0-06-098719-7|pages = 123–124, 131–132}}</ref>
+{{Quote box |quoted=true |bgcolor=#FFFFF0 |salign=center|quote=Another form of '''the Downward Spiral'''... deeper & deeper it goes. to cuddle w. her, to be one w. her, to love; just laying there. I need a gun. This is a weird entry... I should feel happy, but shit brought me down.|source=Dylan Klebold from one of his journals two years before the shooting.<ref name="Blakep267">{{Harvnb|Blake|2008|p=267}}</ref>|align=right|width=33%}}
+Before the [[Columbine High School massacre]], perpetrator [[Dylan Klebold]] referenced lyrics from Nine Inch Nails multiple times in his journal. Klebold heavily identified with the protagonist of the album as a symbol of his own depression.<ref name="cullen">{{cite news |url=http://www.slate.com/id/2099203/sidebar/2099208/ |work=[[Slate magazine|Slate]] |title=The Depressive and the Psychopath |first=Dave |last=Cullen |date=April 20, 2004 |accessdate=August 24, 2008 |archiveurl=http://web.archive.org/web/20080615143737/http://www.slate.com/id/2099203/sidebar/2099208/ <!--Added by H3llBot--> |archivedate=June 15, 2008}}</ref><ref>{{cite web|url=http://acolumbinesite.com/music.html |title=Music for Columbine High School |publisher=Acolumbinesite.com |accessdate=September 13, 2011 }}</ref> On May 4, 1999, a hearing on the marketing and distribution practices of violent content to minors by the television, music, film, and video game industries was conducted before the [[United States Senate Committee on Commerce, Science and Transportation]].<ref name="VH1 Senators Criticize">{{cite web |last=O'Connor |first=Christopher |url=http://www.vh1.com/news/articles/513971/19990504/index.jhtml |title=Senators Criticize Marilyn Manson, Nine Inch Nails At Hearing |work=VH1 |publisher=MTV Networks (Viacom) |date=June 4, 1999 |accessdate=May 3, 2011}}</ref> The committee heard testimony from cultural observers, professors, and mental-health professionals that included conservative William Bennett and the Archbishop of [[Denver, Colorado|Denver]], Reverend [[Charles J. Chaput]].<ref name="VH1 Senators Criticize"/> Participants criticized the album, Nine Inch Nails' label-mate Marilyn Manson, and the 1999 film ''[[The Matrix]]'' for their alleged contribution to the environment that made tragedies like Columbine possible.<ref name="VH1 Senators Criticize"/> The committee requested that the [[Federal Trade Commission]] and the [[United States Department of Justice]] investigate the entertainment industry's marketing practices to minors.<ref name="VH1 Senators Criticize"/><ref name="Salon Hollywood on Trial">{{cite web |last=Tapper |first=Jake |url=http://www.salon.com/news/politics/feature/2000/08/29/hollywood/index.html |title=Hollywood on trial |work=Salon |publisher=Salon Media Group |date=August 29, 2000 |accessdate=May 4, 2011}}</ref>
+
+In 2009, [[Apple Inc.|Apple]] rejected a proposal for a Nine Inch Nails [[iPhone]] application, citing objectionable content in ''The Downward Spiral''. Days later, Apple reversed the decision but refused to explain its reasoning.<ref>{{cite news| url = http://news.bbc.co.uk/1/hi/technology/8039779.stm| title = Reznor takes a byte out of Apple| work = [[BBC News]]| date = May 8, 2009}}</ref>
+
+==Track listing==
+{{Track listing
+| all_writing     = Trent Reznor
+| title1          = [[Mr. Self Destruct]]{{efn|1=The opening sounds of "Mr. Self Destruct" are a sample from the film ''THX 1138'' in which a man is being beaten by a prison guard.<ref name="The Quietus">{{cite journal| url = http://thequietus.com/articles/14684-nin-nine-inch-nails-downward-spiral-review| author = Val Siebert | title = Two Way Alchemy: Nine Inch Nails' The Downward Spiral Revisited | work = The Quietus | date = March 10, 2014 | accessdate = March 29, 2014}}</ref>}}
+| length1         = 4:30
+| title2          = [[Piggy (song)|Piggy]]
+| length2         = 4:24
+| title3          = Heresy
+| length3         = 3:54
+| title4          = [[March of the Pigs]]
+| length4         = 2:58
+| title5          = [[Closer (Nine Inch Nails song)|Closer]]
+| length5         = 6:13
+| title6          = Ruiner
+| length6         = 4:58
+| title7          = The Becoming{{efn|1=The sample of screams that plays throughout "The Becoming" is from the film ''[[Robot Jox]]'', when a giant robot falls on a crowd of spectators.<ref name="JoxBecoming">{{cite web |last=Kushner |first=Nick |title=Films, Samples and Influences |url=http://www.nachtkabarett.com/NIN/Samples |work=The Nachtkabarett |accessdate=March 29, 2014}}</ref>}}
+| length7         = 5:31
+| title8          = I Do Not Want This
+| length8         = 5:41
+| title9          = Big Man with a Gun{{efn|1=The sample at the beginning of "Big Man with a Gun" comes from a studio-altered recording of a porn star having an orgasm. According to the album booklet, this "sample" is titled "Steakhouse" and is credited to [[Tommy Lee]].<ref name="TDSbooklet">{{Cite AV media notes |title=The Downward Spiral |others=Nine Inch Nails |year=1994 |page=28 |type=booklet |publisher=Interscope Records}}</ref>}}
+| length9         = 1:36
+| title10         = A Warm Place{{efn|1=Japanese pressings contain a cover of [[Joy Division]] song "Dead Souls", originally released on ''[[The Crow (1994 film)|The Crow]]'' [[The Crow (soundtrack)|original soundtrack]]. This track is placed in between "Big Man with a Gun" and " A Warm Place".{{sfn|Huxley|1997|p=191}}<ref name="Dead Souls">{{cite web| title = Halo Eight - Japanese first pressing CD5| url = http://nincollector.com/archive/releases/halo_08/08_jap_cd_firstpressing.htm| publisher = NIN Collector| accessdate = November 22, 2007}}</ref>}}
+| length10        = 3:22
+| title11         = Eraser
+| length11        = 4:54
+| title12         = Reptile{{efn|1=The break in "Reptile" contains an audio sample (starting at 5:36) of a woman falling down a hill from the 1974 film ''[[The Texas Chain Saw Massacre]]''.<ref>{{cite web|url=http://www.fuse.tv/2014/03/nine-inch-nails-the-downward-spiral-facts|author=Samantha Vincenty|title=13 things you didn't know about Nine Inch Nails' 'The Downward Spiral'|work=[[Fuse (TV channel)|Fuse]]|publisher=[[The Madison Square Garden Company]]|date=March 7, 2014|accessdate=April 17, 2014}}</ref>}}
+| length12        = 6:51
+| title13         = The Downward Spiral
+| length13        = 3:57
+| title14         = [[Hurt (Nine Inch Nails song)|Hurt]]{{efn|1=The first Australian pressing has track time errors. Affected tracks do not play at their beginnings when selected individually ("Big Man with a Gun" has the beginning of "A Warm Place" tacked on, likewise all the songs up to "Hurt" start 41 seconds earlier than they should. "Hurt" itself has 44 seconds of silence on the end as a result), however the disc plays and flows correctly as a whole.<ref>{{cite web| title = Halo Eight - Australian First Pressing CD5| url = http://www.nincollector.com/archive/releases/halo_08/08_aus_cd_firstpressing.htm| publisher  = NIN Collector| accessdate = October 17, 2011}}</ref>}}
+| length14        = 6:13
+| total_length    = 65:02
+}}
+
+===Footnotes===
+{{notelist|close}}
+
+;'''Deluxe Edition''' (Halo 8 DE)
+To mark the album's tenth anniversary, ''The Downward Spiral'' was re-released on November 23, 2004 in high-resolution SACD and DualDisc formats. Disc one of the album's deluxe edition re-release is nearly identical to the original version; track anomalies such as sounds from previous tracks creeping up on start of tracks are fixed, and it includes a stereo and multi-channel [[Super Audio CD|SACD]] layer. The second bonus disc is a collection of remixes and b-sides and also includes a stereo SACD layer in addition to the Redbook CD layer. The last three tracks on the bonus disc are previously unreleased demo recordings from the original album.<ref name="TDS10">{{cite web|url=http://www.billboard.com/articles/news/66210/nin-revisits-the-downward-spiral|author=Billboard staff|title=NIN Revisits ''The Downward Spiral''|work=Billboard|publisher=Prometheus Global Media|date=November 2004|accessdate=November 14, 2013}}</ref><ref name="Allmusic TDSDE">{{Allmusic|author=Steve Huey|class=album|id=r717657|label=The Downward Spiral (Deluxe Edition)|accessdate=March 29, 2014}}</ref>
+{{Track listing
+| collapsed       = yes
+| headline        = Bonus disc
+| title1          = [[Burn (Nine Inch Nails song)|Burn]]
+| note1           = from ''[[Natural Born Killers (soundtrack)|Natural Born Killers]]''
+| length1         = 5:00
+| title2          = Closer (Precursor)
+| note2           = from "[[Closer to God]]"
+| length2         = 7:16
+| title3          = Piggy (Nothing Can Stop Me Now)
+| note3           = from ''[[Further Down the Spiral]]''
+| length3         = 4:03
+| title4          = A Violet Fluid
+| note4           = from "[[March of the Pigs]]"
+| length4         = 1:04
+| title5          = Dead Souls
+| note5           = from ''[[The Crow (album)|The Crow]]''
+| length5         = 4:53
+| title6          = Hurt (Quiet)
+| note6           = from ''Further Down the Spiral'', US version
+| length6         = 5:08
+| title7          = Closer to God
+| note7           = from "Closer to God"
+| length7         = 5:06
+| title8          = All the Pigs, All Lined Up
+| note8           = from "March of the Pigs"
+| length8         = 7:26
+| title9          = Memorabilia
+| note9           = from "Closer to God"
+| length9         = 7:22
+| title10         = The Downward Spiral (The Bottom)
+| note10          = from ''Further Down the Spiral''
+| length10        = 7:32
+| title11         = Ruiner (Demo)
+| length11        = 4:51
+| title12         = Liar (Reptile Demo)
+| length12        = 6:57
+| title13         = Heresy (Demo)
+| length13        = 4:00
+| total_length    = 70:38
+}}
+;'''DualDisc''' (Halo 8 DVD-A)
+The DualDisc edition of ''The Downward Spiral'' contains the same CD content on Side A as the Deluxe Edition, with a [[DVD-Audio]] layer on Side B. When played on DVD-Video players a Dolby Digital 5.1 multi-channel or Dolby Digital 2.0 stereo mix of ''The Downward Spiral'' can be selected, along with videos of "March of the Pigs", "Hurt" and an uncensored video of "Closer". There is also an interactive discography and an image gallery. High resolution 24-bit/48&nbsp;kHz 5.1 Surround sound and stereo versions of ''The Downward Spiral'' can be played on a DVD-Audio player, allowing the user a similar high fidelity experience as the SACD layer of the Deluxe Edition. The DualDisc release does not contain the additional b-sides and demo tracks.<ref name="TDS10"/><ref name="Allmusic TDSDE"/><ref>{{cite web| title = Halo Eight - DualDisc Edition| url = http://www.nincollector.com/archive/releases/halo_08/08dvda_d_cd.htm| publisher  = NIN Collector| accessdate = February 3, 2011}}</ref>
+
+==Personnel==
+Credits from ''The Downward Spiral'' taken from liner notes.<ref name="TDSbooklet"/>
+{{col-begin}}
+{{col-2}}
+* [[Trent Reznor]] – vocals, all instruments, drums (on "Piggy"), arranger, producer
+* [[Flood (producer)|Mark "Flood" Ellis]] – producer, hi-hat (on "Closer"), [[ARP 2600]] synthesizer (on "The Becoming")
+* [[Chris Vrenna]] – drums (on "Hurt"), programming, sampling, additional drums  (on "Burn")
+* [[Adrian Belew]] – texture generating guitar (on "Mr. Self Destruct"), ring mod guitar (on "The Becoming")
+* [[Danny Lohner]] – additional guitar (on "Big Man with a Gun")
+* [[Andy Kubiszewski]] – drums (on "The Downward Spiral")
+* [[Stephen Perkins]] – drum loops (on "I Do Not Want This")
+* [[Charlie Clouser]] – programming, continuity
+* John Aguto – engineer
+* Brian Pollack – engineer
+* [[Sean Beavan]] – mixing
+{{col-2}}
+* Bill Kennedy – mixing
+* [[Alan Moulder]] – mixing
+* Tom Baker – mastering
+* [[Bob Ludwig]] – high-resolution mastering (reissue)
+* James Brown – 5.1 mix (reissue)
+* Neal Ferrazzani – assistance (reissue)
+* [[Russell Mills (artist)|Russell Mills]] – paintings
+* David Buckland – photography
+* [[Gary Talpas]] – package
+* [[Rob Sheridan]] – package, additional photography (reissue)
+{{col-end}}
+
+==Charts and certifications==
+{{col-begin}}
+{{col-2}}
+
+===Album charts===
+{|class="wikitable sortable"
+|-
+!align="left"|Charts (1994)
+!style="text-align:center;"|Peak<br />position
+|-
+|align="left"|[[ARIA Charts|Australia]] ([[Australian Recording Industry Association|ARIA]])<ref name="irch">{{cite web |url=http://irish-charts.com/showitem.asp?interpret=Nine+Inch+Nails&titel=The+Downward+Spiral&cat=a)&cat=a |title=International charting positions for Nine Inch Nails - The Downward Spiral (Album) |publisher=Irish-charts |accessdate=June 25, 2011}}</ref>
+| style="text-align:center;"|12
+|-
+|align="left"|[[Canada]] ([[Canadian Online Explorer|CANOE]])<ref name="TDS CAN">{{cite journal | title = Top Albums/CDs - Volume 59, No. 11, April 04 1994 | publisher = ''[[RPM (magazine)|RPM]]'' | volume = 59 | issue = 11 | date = April 4, 1994 | url = http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?&file_num=nlc008388.2434&volume=59&issue=11&issue_dt=April%2004%201994&type=1&interval=24&PHPSESSID=q7a8kho0gp0ecl1bcihne0pto6 | accessdate = July 5, 2008}}</ref>
+| style="text-align:center;"|13
+|-
+|align="left"|[[New Zealand]] ([[Recording Industry Association of New Zealand|RIANZ]])<ref name="irch"/>
+| style="text-align:center;"|23
+|-
+|align="left"|[[Sweden]] ([[Sverigetopplistan]])<ref name="irch"/>
+| style="text-align:center;"|33
+|-
+|align="left"|[[United Kingdom]] ([[The Official Charts Company|OCC]])<ref name="UK Charts">
+{{cite web
+| title      = UK Top 40 Hit Database
+| publisher  = everyHit.com
+| url        = http://www.everyhit.com/
+| accessdate = September 28, 2007
+}} Note: User must define search parameters, i.e. "Nine Inch Nails."
+</ref>
+| style="text-align:center;"|9
+|-
+|align="left"|[[United States]] ([[Billboard 200|''Billboard'' 200]])<ref>{{cite web |url={{BillboardURLbyName|artist=nine inch nails|chart=all}} |title=The Downward Spiral - Nine Inch Nails |work=Billboard |publisher=Prometheus Global Media |accessdate=June 25, 2011}}</ref>
+| style="text-align:center;"|2
+|}
+
+{{col-2}}
+
+===Certifications===
+{| class="wikitable"
+|-
+!Region
+!Provider
+!Certification
+!Shipment
+!Actual sales
+|-
+| Canada
+| [[Canadian Recording Industry Association|CRIA]]
+| 3× Platinum<ref name="TDS CRIA">{{cite web|url=http://www.musiccanada.com/gpSearchResult.aspx|title= Gold and Platinum Search|publisher= [http://www.cria.ca Canadian Recording Industry Association (CRIA)]|accessdate= April 9, 2014}} Note: User must define search parameters, i.e. "Nine Inch Nails".</ref>
+| 300,000+
+| style="text-align:center;"| —
+|-
+| United Kingdom
+| [[British Phonographic Industry|BPI]]
+| Gold<ref name="UK certs"/>
+| 100,000+
+| style="text-align:center;"| —
+|-
+| United States
+| [[Recording Industry Association of America|RIAA]]
+| 4× Platinum<ref name="RIAA.com"/>
+| 4,000,000+
+| style="text-align:center;"| —
+|}
+{{col-end}}
+
+===Single charts===
+{{col-begin}}
+{{col-2}}
+{| class="wikitable"
+|-
+!Single
+!Chart (1994)
+!Peak position
+|-
+|rowspan="4"|"[[March of the Pigs]]"
+|[[ARIA Charts|Australia]] ([[Australian Recording Industry Association|ARIA]])<ref name="ARIA singles">{{cite web
+ | title = Search results for: Nine Inch Nails
+ | publisher = Australian-Charts.com
+ | url = http://www.australian-charts.com/search.asp?search=nine+inch+nails&cat=s
+ | accessdate = September 28, 2007}}</ref>
+| style="text-align:center;"|98
+|-
+|[[Canada]] ([[Canadian Online Explorer|CANOE]])<ref name="allmusic">{{cite web
+  | url = http://www.allmusic.com/artist/nine-inch-nails-p5033/charts-awards/billboard-singles
+  | title = Nine Inch Nails > Charts & Awards  > Billboard Singles
+  | work = [[AllMusic]]
+  | publisher = [[Rovi Corporation|Macrovision]]
+  | accessdate = June 25, 2011}}</ref><ref name="Canadian Hot 100">{{cite web
+  | title = Nine Inch Nails Album & Song Chart History: Canadian Hot 100
+  | work = Billboard
+  | publisher = Prometheus Global Media
+  | url = {{BillboardURLbyName|artist=nine inch nails|chart=Billboard Canadian Hot 100}}
+  | accessdate = August 17, 2010}}</ref>
+ | style="text-align:center;"|20
+|-
+|[[United Kingdom]] ([[The Official Charts Company|OCC]])<ref name="UK Charts" />
+| style="text-align:center;"|45
+|-
+|[[United States|US]] ([[Billboard Hot 100|US]])<ref name="Billboard Hot 100">{{cite web
+ | title = Nine Inch Nails Album & Song Chart History: ''Billboard'' Hot 100
+ | work = Billboard
+ | publisher = Prometheus Global Media
+ | url = {{BillboardURLbyName|artist=nine inch nails|chart=Hot 100}}
+ | accessdate = January 25, 2011}}</ref>
+| style="text-align:center;"|59
+|-
+|rowspan="6"|"[[Closer (Nine Inch Nails song)|Closer]]"
+|[[ARIA Charts|Australia]] ([[Australian Recording Industry Association|ARIA]])<ref name="irchcloser">{{cite web |url=http://irish-charts.com/showitem.asp?interpret=Nine+Inch+Nails&titel=Closer&cat=s |title=International charting positions for Nine Inch Nails - Closer (Song) |publisher=Irish-charts |accessdate=June 25, 2011}}</ref>
+| style="text-align:center;"|3
+|-
+|[[Canada]] ([[Canadian Online Explorer|CANOE]])<ref name="allmusic" /><ref name="Canadian Hot 100"/>
+ | style="text-align:center;"|5
+|-
+|[[Denmark]] (DanishCharts)<ref name="Danish Charts">{{cite web
+  | url = http://danishcharts.com/showinterpret.asp?interpret=Nine+Inch+Nails
+  | title = danishcharts.com–Nine Inch Nails discography
+  | publisher = danishcharts.com
+  | accessdate = July 7, 2008}}</ref>
+  | style="text-align:center;"|12
+|-
+|[[United Kingdom]] ([[The Official Charts Company|OCC]])<ref name="UK Charts" />
+| style="text-align:center;"|25
+|-
+|[[United States|US]] (''[[Billboard (magazine)|Billboard]]'' [[Billboard Hot 100|Hot 100]])<ref name="Billboard Hot 100"/>
+| style="text-align:center;"|41
+|-
+|[[United States|US]] (''[[Billboard (magazine)|Billboard]]'' [[Alternative Songs]])<ref name="Alternative Songs"/>
+| style="text-align:center;"|11
+|-
+|rowspan="1"|"[[Piggy (song)|Piggy]]" <small>(promotional)</small>
+|[[United States|US]] (''[[Billboard (magazine)|Billboard]]'' [[Alternative Songs]])<ref name="Alternative Songs"/>
+| style="text-align:center;"|20
+|}
+
+{{col-2}}
+
+{| class="wikitable"
+|-
+!Single
+!Chart (1995)
+!Peak position
+|-
+|rowspan="3"|"[[Hurt (Nine Inch Nails song)|Hurt]]" <small>(promotional)</small>
+|[[Canada]] (''[[RPM (magazine)|RPM]]'' Alternative Chart)<ref>{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=c6btf3r8hs459qqt5ln3o3dcv5&q1=Nine+Inch+Nails&q2=Rock%2FAlternative&interval=20|title=Nine Inch Nails Rock/Alternative positions |publisher=[[RPM (magazine)|RPM]] |accessdate=August 17, 2010}}</ref>
+| style="text-align:center;"|8
+|-
+|[[United States|US]] (''[[Billboard (magazine)|Billboard]]'' [[Billboard Hot 100|Hot 100]])<ref name="Billboard Hot 100"/>
+| style="text-align:center;"|54{{ref label|RS|A}}
+|-
+|[[United States|US]] (''[[Billboard (magazine)|Billboard]]'' [[Alternative Songs]])<ref name="Alternative Songs"/>
+| style="text-align:center;"|8
+|}
+{{col-end}}
+
+'''Notes'''
+{{refbegin}}
+*'''A.''' {{Note|RS}}"Hurt" peaked on the US [[Hot 100 Airplay (Radio Songs)|Radio Songs]] chart.
+{{refend}}
+
+==Notes==
+{{Reflist|3}}
+
+==References==
+* {{Cite book	
+| last = Huxley
+| first = Martin
+| title = Nine Inch Nails: Self Destruct
+|date=September 1997
+| publisher = [[St. Martin's Press]]
+| isbn = 0-312-15612-X
+| ref = harv
+}}
+
+==External links==
+* ''[http://www.discogs.com/Nine-Inch-Nails-The-Downward-Spiral/master/3719 The Downward Spiral]'' at [[Discogs]]
+* [http://www.absolutepunk.net/showthread.php?t=806532 Album Review] — By [[AbsolutePunk]]
+* [http://www.theninhotline.net/archives/articles/xrevw11.shtml Album Review] — By ''[[Alternative Press]]''
+* [http://www.time.com/time/magazine/article/0,9171,980595,00.html Album Review] — By ''[[Time (magazine)|Time]]''
+* [http://www.nincollector.com/archive/releases/halo_08/halo08.htm ''Halo 8''] at NIN Collector
+* [http://www.ninwiki.com/The_Downward_Spiral_(halo) ''Halo 8''] at NinWiki.com
+
+{{Nine Inch Nails}}
+
+{{DEFAULTSORT:Downward Spiral}}
+[[Category:1994 albums]]
+[[Category:Albums produced by Flood (producer)]]
+[[Category:Albums produced by Trent Reznor]]
+[[Category:Concept albums]]
+[[Category:Interscope Records albums]]
+[[Category:Nine Inch Nails albums]]
+[[Category:Nothing Records albums]]
+[[Category:Universal Deluxe Editions]]
+[[Category:Obscenity controversies in music]]

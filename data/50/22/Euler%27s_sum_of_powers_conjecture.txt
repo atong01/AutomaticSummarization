@@ -1,0 +1,101 @@
+'''Euler's conjecture''' is a disproved [[conjecture]] in [[mathematics]] related to [[Fermat's last theorem]].  It was proposed by [[Leonhard Euler]] in 1769. It states that for all [[integers]] ''n'' and ''k'' greater than 1, if the sum of ''n'' ''k''th powers of non-zero integers is itself a ''k''th power, then ''n'' is greater than or equal to ''k''.
+
+In symbols, the conjecture falsely states that if
+<math>
+\sum_{i=1}^{n} a_i^k = b^k
+</math>
+where <math>n>1</math> and <math>a_1, a_2, \dots, a_n, b</math> are non-zero integers, then <math>n\geq k</math>.
+
+The conjecture represents an attempt to generalize [[Fermat's last theorem]], which is the special case ''n''&nbsp;=&nbsp;2: if <math>a_1^k + a_2^k = b^k</math>, then <math>2 \geq k</math>.
+
+Although the conjecture holds for the case ''k'' = 3 (which follows from Fermat's last theorem for the third powers), it was disproved for ''k'' = 4 and ''k'' = 5. It is unknown whether the conjecture fails or holds for any value ''k'' ≥ 6.
+
+== Background ==
+Euler had an equality for four fourth powers <math>59^4 + 158^4 = 133^4 + 134^4;</math> this however is not a counterexample because no term is isolated on one side of the equation. He also provided a complete solution to the four cubes problem as in [[Plato's number]] <math>3^3+4^3+5^3=6^3</math> or the [[taxicab number]] 1729.<ref>{{cite book |title=The Genius of Euler: Reflections on His Life and Work |url=http://books.google.com/books?id=M4-zUnrSxNoC&pg=PA220 |editor=William Dunham |publisher= The MAA|page=220 |year=2007 |isbn=978-0-88385-558-4}}</ref><ref>{{cite web| url=http://www.oocities.org/titus_piezas/Equalsums.htm |title=Euler's Extended Conjecture |author=Titus Piezas III |year=2005}}</ref> The general solution for:
+:<math>x_1^3+x_2^3=x_3^3+x_4^3</math>
+is
+:<math>x_1 = 1-(a-3b)(a^2+3b^2), x_2 = (a+3b)(a^2+3b^2)-1</math>
+:<math>x_3 = (a+3b)-(a^2+3b^2)^2, x_4 = (a^2+3b^2)^2-(a-3b)</math>
+where <math>a</math> and <math>b</math> are any integers.
+
+== Counterexamples ==
+Euler's conjecture was disproven by [[Leon J. Lander|L. J. Lander]] and [[Thomas Parkin|T. R. Parkin]] in [[1966 in science|1966]] when, through a direct computer search on a [[CDC 6600]], they found a counterexample for ''k'' = 5.<ref>{{cite journal |author=L. J. Lander, T. R. Parkin |title=Counterexample to Euler's conjecture on sums of like powers |journal=Bull. Amer. Math. Soc. |volume=72 |issue=6 |year=1966 |page=1079 |doi=10.1090/S0002-9904-1966-11654-3|last2=Parkin }}</ref> A total of three primitive (that is, in which the summands do not all have a common factor) counterexamples are known:
+::27<sup>5</sup> + 84<sup>5</sup> + 110<sup>5</sup> + 133<sup>5</sup> = 144<sup>5</sup>  (Lander & Parkin, 1966),
+
+::(−220)<sup>5</sup> + 5027<sup>5</sup> + 6237<sup>5</sup> + 14068<sup>5</sup> = 14132<sup>5</sup>  (Scher & Seidl, 1996), and
+
+::55<sup>5</sup> + 3183<sup>5</sup> + 28969<sup>5</sup> + 85282<sup>5</sup> = 85359<sup>5</sup>  (Frye, 2004).
+
+In 1986, [[Noam Elkies]] found a method to construct an infinite series of counterexamples for the ''k'' = 4 case.<ref name="Elkies1988">{{cite journal |author=Noam Elkies |title=On ''A''<sup>4</sup> + ''B''<sup>4</sup> + ''C''<sup>4</sup> = ''D''<sup>4</sup> |journal=[[Mathematics of Computation]] |year=1988 |volume=51 |issue=184 |pages=825–835 |doi=10.1090/S0025-5718-1988-0930224-9 |mr=0930224 |jstor=2008781 |url=http://www.ams.org/journals/mcom/1988-51-184/S0025-5718-1988-0930224-9/S0025-5718-1988-0930224-9.pdf}}</ref> His smallest counterexample was
+::2682440<sup>4</sup> + 15365639<sup>4</sup> + 18796760<sup>4</sup> = 20615673<sup>4</sup>.
+
+A particular case of Elkies' solutions can be reduced to the identity<ref>{{cite web|url=http://groups.google.com/group/sci.math/browse_thread/thread/15beef75eaddcb1b?hl=en#|title=Elkies' a^4+b^4+c^4 = d^4}}</ref><ref>{{cite web|url=http://sites.google.com/site/tpiezas/014|title=Sums of Three Fourth Powers}}</ref>
+::(85''v''<sup>2</sup> + 484''v'' − 313)<sup>4</sup> + (68''v''<sup>2</sup> − 586''v'' + 10)<sup>4</sup> + (2''u'')<sup>4</sup> = (357''v''<sup>2</sup> − 204''v'' + 363)<sup>4</sup>
+where
+::''u''<sup>2</sup> = 22030 + 28849''v'' − 56158''v''<sup>2</sup> + 36941''v''<sup>3</sup> − 31790''v''<sup>4</sup>.
+This is an [[elliptic curve]] with a [[rational point]] at ''v''<sub>1</sub> = −31/467. From this initial rational point, one can compute an infinite collection of others. Substituting ''v''<sub>1</sub> into the identity and removing common factors gives the numerical example cited above.
+
+In 1988, [[Roger Frye]] found the smallest possible counterexample 
+::95800<sup>4</sup> + 217519<sup>4</sup> + 414560<sup>4</sup> = 422481<sup>4</sup>
+for ''k'' = 4 by a direct computer search using techniques suggested by Elkies. This solution is the only one with values of the variables below 1,000,000.<ref>{{citation
+ | last = Frye | first = Roger E.
+ | contribution = Finding 95800<sup>4</sup> + 217519<sup>4</sup> + 414560<sup>4</sup> = 422481<sup>4</sup> on the Connection Machine
+ | doi = 10.1109/SUPERC.1988.74138
+ | pages = 106–116
+ | title = Proceedings of Supercomputing 88, Vol.II: Science and Applications
+ | year = 1988}}.</ref>
+
+== Generalizations ==
+{{main|Lander, Parkin, and Selfridge conjecture}}
+In 1967, L. J. Lander, T. R. Parkin, and [[John Selfridge]] conjectured<ref name="autogenerated446">{{cite journal |author=L. J. Lander, T. R. Parkin, J. L. Selfridge |title=A Survey of Equal Sums of Like Powers |journal=[[Mathematics of Computation]] |volume=21 |issue=99 |year=1967 |pages=446–459 |doi=10.1090/S0025-5718-1967-0222008-0 |jstor=2003249|last2=Parkin |last3=Selfridge }}</ref> that if ''k'' > 3 and <math>\sum_{i=1}^{n} a_i^k = \sum_{j=1}^{m} b_j^k</math>, where ''a<sub>i</sub>''&nbsp;≠&nbsp;''b<sub>j</sub>'' are positive integers for all 1&nbsp;≤&nbsp;''i''&nbsp;≤&nbsp;''n'' and 1&nbsp;≤&nbsp;''j''&nbsp;≤&nbsp;''m'', then ''m''+''n''&nbsp;≥&nbsp;''k''.  In the special case ''m'' = 1, the conjecture states that if
+::<math>\sum_{i=1}^{n} a_i^k = b^k</math>
+(under the conditions given above) then ''n''&nbsp;≥&nbsp;''k'' − 1.
+
+The special case may be described as the problem of giving a [[partition (number theory)|partition]] of a perfect power into few like powers.  For ''k'' = 4, 5, 7, 8 and ''n'' = ''k'' or ''k'' − 1, there are many known solutions.  Some of these are listed below.  There are no solutions for ''k'' = 6 where ''b'' ≤ 272580.{{citation needed|date=October 2014}}
+
+===''k'' = 4===
+::95800<sup>4</sup> + 217519<sup>4</sup> + 414560<sup>4</sup> = 422481<sup>4</sup>  (R. Frye, 1988)<ref name="Elkies1988"/>
+
+::30<sup>4</sup> + 120<sup>4</sup> + 272<sup>4</sup> + 315<sup>4</sup> = 353<sup>4</sup> (R. Norrie, 1911)<ref name="autogenerated446"/>
+
+===''k'' = 5===
+::27<sup>5</sup> + 84<sup>5</sup> + 110<sup>5</sup> + 133<sup>5</sup> = 144<sup>5</sup>  (Lander & Parkin, 1966)
+
+::19<sup>5</sup> + 43<sup>5</sup> + 46<sup>5</sup> + 47<sup>5</sup> + 67<sup>5</sup> = 72<sup>5</sup> (Lander, Parkin, Selfridge, smallest, 1967)<ref name="autogenerated446"/>
+
+::7<sup>5</sup> + 43<sup>5</sup> + 57<sup>5</sup> + 80<sup>5</sup> + 100<sup>5</sup> = 107<sup>5</sup>  (Sastry, 1934, third smallest)<ref name="autogenerated446"/>
+
+===''k'' = 7===
+::127<sup>7</sup> + 258<sup>7</sup> + 266<sup>7</sup> + 413<sup>7</sup> + 430<sup>7</sup> + 439<sup>7</sup> + 525<sup>7</sup> = 568<sup>7</sup>  (M. Dodrill, 1999){{citation needed|date=October 2014}}
+
+===''k'' = 8===
+::90<sup>8</sup> + 223<sup>8</sup> + 478<sup>8</sup> + 524<sup>8</sup> + 748<sup>8</sup> + 1088<sup>8</sup> + 1190<sup>8</sup> + 1324<sup>8</sup> = 1409<sup>8</sup>  (S. Chase, 2000){{citation needed|date=October 2014}}
+
+==See also==
+* [[Jacobi–Madden equation]]
+*[[Prouhet–Tarry–Escott problem]]
+*[[Beal's conjecture]]
+*[[Pythagorean quadruple]]
+*[[Generalized taxicab number]]
+*[[Sums of powers]], a list of related conjectures and theorems
+
+== References ==
+{{reflist}}
+
+== External links ==
+* Tito Piezas III, [http://sites.google.com/site/tpiezas/Home/  A Collection of Algebraic Identities]
+* Jaroslaw Wroblewski, [http://www.math.uni.wroc.pl/~jwr/eslp/  Equal Sums of Like Powers]
+* Ed Pegg Jr., [http://www.maa.org/editorial/mathgames/mathgames_11_13_06.html  Math Games, Power Sums]{{dead link|date=April 2015}}
+* James Waldby, [http://pat7.com/jp/s515-10007-t A Table of Fifth Powers equal to a Fifth Power (2009)] 
+* R. Gerbicz, J.-C. Meyrignac, U. Beckert, [http://arxiv.org/abs/1108.0462 All solutions of the Diophantine equation a^6+b^6=c^6+d^6+e^6+f^6+g^6 for a,b,c,d,e,f,g < 250000 found with a distributed Boinc project]
+* [http://euler.free.fr/ EulerNet: Computing Minimal Equal Sums Of Like Powers]
+* {{MathWorld |title=Euler's Sum of Powers Conjecture |urlname=EulersSumofPowersConjecture}}
+* {{MathWorld |title=Euler Quartic Conjecture |urlname=EulerQuarticConjecture}}
+* {{MathWorld |title=Diophantine Equation--4th Powers |urlname=DiophantineEquation4thPowers}}
+* [http://library.thinkquest.org/28049/Euler's%20conjecture.html Euler's Conjecture] at library.thinkquest.org
+* [http://www.mathsisgoodforyou.com/conjecturestheorems/eulerconjecture.htm A simple explanation of Euler's Conjecture] at Maths Is Good For You!
+
+{{Disproved conjectures}}
+
+[[Category:Diophantine equations]]
+[[Category:Disproved conjectures]]

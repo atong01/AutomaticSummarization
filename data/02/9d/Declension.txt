@@ -1,0 +1,160 @@
+{{Refimprove|date=April 2014}}
+In [[linguistics]], '''declension''' is the [[inflection]] of [[noun]]s, [[pronoun]]s, [[adjective]]s, and [[article (grammar)|articles]] to indicate [[grammatical number|number]] (at least singular and plural), [[grammatical case|case]] ([[nominative case|nominative or subjective]], [[genitive case|genitive or possessive]], etc.), and [[grammatical gender|gender]]. A declension is also a group of nouns that follow a particular pattern of inflection.
+
+Declension occurs in many of the world's languages, and features very prominently in many [[European languages]]. [[Old English]] was a highly inflected language, as befits its [[Indo-European]] and especially its [[Germanic languages|Germanic]] linguistic ancestry, but its declensions greatly simplified as it evolved into [[Modern English]].
+
+==Modern English==
+{{further2|[[Old English grammar#Nouns|Old English grammar: nouns]]}}
+In [[Modern English]], nouns have distinct singular and plural forms; that is, they ''decline'' to reflect their [[grammatical number]]; consider the difference between ''book'' and ''books''. In addition, a few English pronouns have distinct [[nominative case|nominative]] (also called [[nominative case#Subjective|subjective]]) and [[oblique case|oblique]] (or objective) forms; that is, they decline to reflect their relationship to a [[verb]] or [[preposition]], or [[grammatical case|case]]. Consider the difference between ''he'' (subjective) and ''him'' (objective), as in "He saw it" and "It saw him"; similarly, consider ''who'', which is subjective, and the objective ''whom''. Further, these pronouns and a few others have distinct [[grammatical possession|possessive]] forms, such as ''his'' and ''whose''. By contrast, nouns have no distinct nominative and objective forms, the two being merged into a single ''plain case''. For example, ''chair'' does not change form between "the chair is here" (subject) and "I saw the chair" (direct object). Possession is shown by the [[clitic]] ''-'s'' attached to a possessive [[noun phrase]], rather than by declension of the noun itself.
+
+Gender is at best only weakly grammaticalized in Modern English. While masculine, feminine, and neuter genders are recognized, nouns do not normally decline for gender, though some nouns, especially Latin words and personal names, exist in multiple forms corresponding to different genders: alumnus (masculine singular) and alumna (feminine singular); Andrew and Andrea, Paul and Paula, etc. Suffixes such as ''-ess'', ''-ette'', and ''-er'' can also derive overtly gendered versions of nouns, with marking for feminine being much more common than marking for masculine. Many nouns can actually function as members of two genders or even all three, and the gender classes of English nouns are usually determined by their agreement with pronouns, rather than marking on the nouns themselves.
+
+Adjectives are rarely declined for any purpose.  They can be declined for number when they are used as substitutes for nouns (as in, "I'll take the reds", meaning "I'll take the red ones" or as shorthand for "I'll take the red wines", for example). Also the demonstrative determiners ''this'' and ''that'' are declined for number, as ''these'' and ''those''. Some adjectives borrowed from other languages are, or can be, declined for gender, at least in writing: ''blond'' (male) and ''blonde'' (female) or a ''bonie'' lad as compared to a ''bonnie'' lass.  Adjectives are not declined for case in Modern English, though they were in Old English. The [[English articles|article]] is never regarded as declined in Modern English, although formally, the words ''that'' and possibly ''[[she]]'' correspond to forms of the predecessor of ''the'' (''se'' m., ''þæt'' n., ''sēo'' f.) as it was declined in Old English.
+
+==Basic declension theory==
+===Core examples===
+The following hypothetical English grammar demonstrates how declension works in practice. Assume that in English the subject of a sentence has the suffix -troo and the object (noun) takes the suffix -woo. Sentences would appear as follows:
+
+*John-troo read an article-woo.
+*My friend-troo saw fireworks-woo.
+*The article-troo talked about language-woo.
+*A businessman-troo used his mobile-woo.
+*The mobile-troo automatically called the last number-woo.
+
+These examples show how simple declension works in action. Note that, because the subjects and objects are marked with suffixes, the word order can change. As English depends on word order to identify the subject and object, word order cannot change. In the following, the first sentence is the only way to express John reading his book. The second example has a different meaning.
+
+*John reads a book.
+*A book reads John.
+
+However in our theoretical English with declensions, the word order can be changed but the meaning will remain the same as long as the subject and object are marked with the correct suffix.
+
+*John-troo saw the high speed train-woo.
+*The high speed train-woo saw John-troo.
+
+Note that the suffixes remain the same even though the word order has changed. In many languages with declension, the word order is not important; however, the declension is not optional and nouns must be marked. The following are hypothetical cases and suffixes that would be used in this declined English.
+
+===Other possible cases===
+Now assume that: using something as a tool takes the suffix -pree, going to/in direction of takes the suffix -zee, doing something with an object or person takes the suffix -pow, and addressing someone by their name takes the suffix -croo.
+
+The following sentences in this theoretical English will demonstrate how this would seem to us if there were declensions.
+
+*John-troo went home-zee his friend-pow.
+*My father-troo wrote a book-woo his computer-pow.
+*Sarah-croo, would you-troo please bring me-zee a whisky-woo ice-pow.
+
+Note that these sentences could be written in any order and the meaning would stay the same:
+
+*Mark-troo goes work-zee car-pow.
+*Car-pow Mark-troo goes work-zee.
+*Work-zee Mark-troo goes car-pow.
+
+This word order is not possible in modern English as there are no cases or declension as in some other languages. This means that in English, word order is essential to constructing coherent sentences.
+
+This theoretical system of declension is relatively simple and is more or less how declension works in languages such as Hungarian. Other languages have a far more complicated set of declensions where the suffixes (or prefixes or infixes) change depending on the gender of the noun, the quantity of the noun and many other possible factors. There may also be irregular nouns where the declensions are unique for each word. In many languages, articles, demonstratives and adjectives are also declined. The following example demonstrates such declension in our theoretical English.
+
+===Cases applied to adjectives and particles===
+
+*The-troo big-troo man-troo saw a-woo big-woo bear-woo.
+*Our-troo favourite-troo teacher-troo taught us-woo how to get the-zee city-zee centre-zee.
+
+===Cases exotic to Indo-European languages===
+
+Finally, assume that: an object that another object is located on top of takes the suffix -kroo, the object a person is moving away from takes the suffix -thee, and a person mentioned who is being ordered to do something takes the suffix -zaa.
+
+*The food-troo is plate-kroo.
+*The man-troo is walking car-thee.
+*Stop talking John-zaa!
+
+==Latin==
+
+{{main|Latin declension}}
+
+An example of a [[Latin]] noun declension is given below, using the singular forms of the word ''homo'' (''man''), which belongs to [[wikt:Appendix:Latin third declension|Latin's third declension]].
+
+*{{lang|la|''homo''}} ([[nominative case|nominative]]) "[the] man" [as a subject] (e.g., {{lang|la|''homo ibi stat''}} the man is standing there)
+*{{lang|la|''hominem''}} ([[accusative case|accusative]]) "[the] man" [as a direct object] (e.g., {{lang|la|''ad hominem''}} toward the man, in the sense of argument directed personally; {{lang|la|''hominem vidi''}} I saw the man)
+*{{lang|la|''hominis''}} ([[genitive case|genitive]]) "of [the] man" [as a possessor] (e.g., {{lang|la|''nomen hominis est Claudius''}} the man's name is Claudius)
+*{{lang|la|''hominī''}} ([[dative case|dative]]) "to [the] man" [as an indirect object] (e.g., {{lang|la|''homini donum dedi''}} I gave a present to the man; {{lang|la|''homo homini lupus est''}} Man is a wolf to man.)
+*{{lang|la|''homine''}} ([[ablative case|ablative]]) "[the] man" [in various uses not covered by the above] (e.g., {{lang|la|''sum altior homine''}} I am taller than the man).
+There are two further noun cases in Latin, the [[vocative]] and the [[locative]]:
+* The vocative case indicates that a person or thing is being addressed (e.g., ''O Tite, cur ancillam pugnas?'' O Titus, why do you fight the slave girl?).
+* The locative case is used for specific spatial relationships. It indicates that a locative-case noun is the location of another noun or a verb (e.g., ''Romulus regnat Romae,'' Romulus rules in Rome). It is only a feature of certain place-names, especially of cities and towns (e.g., Roma, Tarquinii, Carthago), small islands (e.g., Samos), and the nouns {{lang|la|''rūs''}}, {{lang|la|''humus''}}, and {{lang|la|''domus''}}. The locative case is rare in classic Latin, and it is mostly absorbed in the ablative case. An important feature of the locative-case nouns is that they are not accompanied by a preposition (as the example illustrates).
+
+==Sanskrit==
+{{main|Sanskrit nouns}}
+Sanskrit has eight cases: nominative, [[vocative case|vocative]], [[accusative case|accusative]], genitive, [[dative case|dative]], [[ablative case|ablative]], [[locative case|locative]] and [[instrumental case|instrumental]].<ref>[[James Clackson]] (2007) [http://books.google.com/books?id=DJDjNp6wODoC&pg=PA90 ''Indo-European linguistics: an introduction''], p.90</ref> Some count vocative not as a separate case, despite it having a distinctive ending in the singular, but consider it as a different use of the nominative.<ref>Amba Kulkarni and Peter Scharf (eds), ''[http://books.google.com.au/books?id=t2f1hneiV08C&pg=PA68 Sanskrit Computational Linguistics: First and Second International Symposia Rocquencourt, France, October 29-31, 2007 and Providence, RI, USA, May 15-17, 2008, Revised Selected Papers]'', Volume 5402 of Lecture notes in artificial intelligence, Springer, 2009, ISBN 3-642-00154-8, pp. 64–68.</ref>
+
+[[Sanskrit]] grammatical case was analyzed extensively. The grammarian [[Pāṇini]] identified seven semantic [[Thematic relation|roles]] or ''karaka'', which correspond closely to the eight cases:<ref>Pieter Cornelis Verhagen, ''[http://books.google.com.au/books?id=5vmaX_JQzc4C&pg=PA281 Handbook of oriental studies: India. A history of Sanskrit grammatical literature in Tibet, Volume 2]'', BRILL, 2001, ISBN 90-04-11882-9, p. 281.</ref>
+* agent (''kartṛ'', related to the nominative)
+* patient (''karman'', related to the accusative)
+* means (''karaṇa'', related to the instrumental)
+* recipient (''sampradāna'', related to the dative)
+* source (''apādāna'', related to the ablative)
+* locus (''adhikaraṇa'', related to the locative)
+* address (''sambodhan'', related to the vocative)
+For example, consider the following sentence:
+:{| style="text-align: center;"
+| style="padding-right: 1em;" | vṛkṣ-āt
+| style="padding-right: 1em;" | parṇ-aṁ
+| style="padding-right: 1em;" | bhūm-āu
+| patati
+|-
+|from the tree || a leaf || to the ground || falls
+|}"a leaf falls from the tree to the ground"
+
+Here ''leaf'' is the agent, ''tree'' is the source, and ''ground'' is the locus. The endings ''-aṁ'', ''-at'', ''-āu'' mark the cases associated with these meanings.
+
+==See also==
+
+===Declension in specific languages===
+*[[ʾIʿrab|Arabic ʾIʿrab]]
+*[[Basque grammar#Declension|Basque declension]]
+*[[Czech declension]]
+*[[Dutch declension system]]
+*[[Finnish language noun cases]]
+*[[German declension]]
+*[[Greek declension]]
+*[[Icelandic language|Icelandic declension]]
+*[[Irish declension]]
+*[[Latin declension]]
+*[[Latvian declension]]
+*[[Lithuanian declension]]
+*[[Middle English declension]]
+*[[Polish grammar#Nouns|Polish declension]]
+*[[Russian grammar|Russian declension]]
+*[[Slovak declension]]
+*[[Slovenian nouns#Declensions|Slovenian declension]]
+*[[Ukrainian grammar|Ukrainian declension]]
+
+====Latin and Greek====
+*[[First declension]]
+*[[Second declension]]
+*[[Third declension]]
+
+===Related topics===
+*[[Grammatical conjugation]]
+*[[Strong inflection]]
+*[[Weak inflection]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Wiktionary|declension}}
+*[http://www.hi.is/~eirikur/cases.pdf The Status of Morphological Case in the Icelandic Lexicon] by Eiríkur Rögnvaldsson. Discussion of whether cases convey any inherent syntactic or semantic meaning.
+*[http://web.phil-fak.uni-duesseldorf.de/~wdl/OptCase.pdf Optimal Case: The Distribution of Case in German and Icelandic] by Dieter Wunderlich
+<!--*[http://phrontistery.info/cases.html A long list of names for cases] found in one language or another--><!--dead link-->
+* <small>Lexicon of Linguistics:</small> [http://www2.let.uu.nl/UiL-OTS/Lexicon/zoek.pl?lemma=Declension Declension]
+* <small>Lexicon of Linguistics:</small> [http://www2.let.uu.nl/UiL-OTS/Lexicon/zoek.pl?lemma=Base Base], [http://www2.let.uu.nl/UiL-OTS/Lexicon/zoek.pl?lemma=Stem Stem], [http://www2.let.uu.nl/UiL-OTS/Lexicon/zoek.pl?lemma=Root Root]
+* <small>Lexicon of Linguistics:</small> [http://www2.let.uu.nl/UiL-OTS/Lexicon/zoek.pl?lemma=Defective+paradigm Defective Paradigm]
+* <small>Lexicon of Linguistics:</small> [http://www2.let.uu.nl/UiL-OTS/Lexicon/zoek.pl?lemma=Strong+verb Strong Verb]
+* <small>Lexicon of Linguistics:</small> [http://www2.let.uu.nl/UiL-OTS/Lexicon/zoek.pl?lemma=IP Inflection Phrase (IP)], [http://www2.let.uu.nl/UiL-OTS/Lexicon/zoek.pl?lemma=INFL INFL], [http://www2.let.uu.nl/UiL-OTS/Lexicon/zoek.pl?lemma=AGR AGR], [http://www2.let.uu.nl/UiL-OTS/Lexicon/zoek.pl?lemma=tense Tense]
+* <small>Lexicon of Linguistics:</small> [http://www2.let.uu.nl/UiL-OTS/Lexicon/zoek.pl?lemma=Lexicalist+Hypothesis Lexicalist Hypothesis]
+*[http://mysite.du.edu/~etuttle/classics/nugreek/app1.htm classical Greek declension]
+*[http://aztekium.pl/skloneniye.py?szukaj=%D0%B3%D0%BD%D1%83%D1%81&lang=en automatic declension in foreign languages (Polish, Russian, Slovak, Croatian and other)]
+
+
+[[Category:Grammatical cases]]
+[[Category:Grammar]]
+[[Category:Linguistic morphology]]
+[[Category:Declension| ]]

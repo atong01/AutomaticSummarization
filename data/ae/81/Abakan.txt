@@ -1,0 +1,256 @@
+{{Other uses}}
+
+{{Infobox Russian city
+|en_name=Abakan
+|ru_name=Абакан
+|loc_name1=Ағбан
+|loc_lang1=Khakas
+|image_skyline=Wallpaper meria.jpg
+|image_caption=Abakan City Administration building
+|latd=53
+|latm=43
+|lats=
+|longd=91
+|longm=28
+|longs=
+|map_label_position=right
+|image_coa=Coat of Arms of Abakan (Khakassia).png
+|coa_caption=
+|image_flag=Flag of Abakan (Khakassia).png
+|flag_caption=
+|anthem=''none''
+|anthem_ref=<ref name="Anthem">Article&nbsp;7 of the Charter of Abakan lists a flag and a coat of arms but not an anthem among the symbols of the city</ref>
+|holiday=Second to last Saturday in August
+|holiday_ref=<ref name="Holiday">Charter of Abakan, Article&nbsp;7</ref>
+|federal_subject=[[Republic of Khakassia]]
+|federal_subject_ref=<ref name="Ref54" />
+|adm_data_as_of=May 2014
+|adm_city_jur=[[City of federal subject significance|City]] of Abakan
+|adm_city_jur_ref=<ref name="Ref54" />
+|adm_ctr_of=City of Abakan
+|adm_ctr_of_ref=<ref name="Ref54" />
+|capital_of=Republic of Khakassia
+|capital_of_ref=<ref name="Ref54" /><ref name="ODW">{{harvnb|Munro|1995|p=2}}</ref>
+|inhabloc_cat=City
+|inhabloc_cat_ref=<ref name="Ref54" />
+|inhabloc_type=
+|inhabloc_type_ref=
+|mun_data_as_of=November 2014
+|urban_okrug_jur=Abakan Urban Okrug
+|urban_okrug_jur_ref=<ref name="Ref741" />
+|mun_admctr_of=Abakan Urban Okrug
+|mun_admctr_of_ref=<ref name="Ref741" />
+|leader_title=Head
+|leader_title_ref=<ref name="HeadLegis">Charter of Abakan, Article&nbsp;20</ref>
+|leader_name=Nikolay Bulakin
+|leader_name_ref=<ref name="HeadNm">Official website of Abakan. [http://мэрия.абакан.рф/administration/14365.html Nikolay Genrikhovich Bulakin] {{ru icon}}</ref>
+|representative_body=[[Council of Deputies of Abakan|Council of Deputies]]
+|representative_body_ref=<ref name="HeadLegis" />
+|area_of_what=
+|area_as_of=
+|area_km2=
+|area_km2_ref=
+|pop_2010census=165214
+|pop_2010census_rank=109th
+|pop_2010census_ref=<ref name="2010Census" />
+|pop_density=
+|pop_density_as_of=
+|pop_density_ref=
+|pop_latest=173200
+|pop_latest_date=January 2014
+|pop_latest_ref=<ref name="2014Est">Republic of Khakassia Territorial Branch of the [[Russian Federal State Statistics Service|Federal State Statistics Service]]. [http://hakasstat.gks.ru/wps/wcm/connect/rosstat_ts/hakasstat/resources/7e23de0043e1d7da821ccbd92111eac8/%D0%A7%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C+%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F.htm Численность населения на начало года] {{ru icon}}</ref>
+|established_date=1675
+|established_title=
+|established_date_ref=<ref name="gr" />
+|current_cat_date=April&nbsp;30, 1931
+|current_cat_date_ref=<ref name="XformRename" />
+|prev_name1=
+|prev_name1_date=
+|prev_name1_ref=
+|postal_codes=655000–655012, 655014–655019, 655022, 655400, 655899, 655961, 655965, 655966
+|dialing_codes=3902
+|dialing_codes_ref=
+|website=http://абакан.рф
+|website_ref=
+|date=April 2010
+}}
+'''Abakan''' ({{lang-rus|Абакан|p=ɐbɐˈkan}}; [[Khakas language|Khakas]]: {{lang|kjh|Ағбан}}, ''Ağban'') is the [[capital city|capital]] [[types of inhabited localities in Russia|city]] of the [[Republic of Khakassia]], [[Russia]], located in the central part of [[Minusinsk Depression]], at the [[confluence]] of the [[Yenisei River|Yenisei]] and [[Abakan River]]s. As of the [[Russian Census (2010)|2010 Census]], it had a population of&nbsp;165,214<ref name="2010Census">{{ru-pop-ref|2010Census}}</ref>—a slight increase over&nbsp;165,197 recorded during the [[Russian Census (2002)|2002 Census]]<ref name="2002Census">{{ru-pop-ref|2002Census}}</ref> and a further increase from&nbsp;154,092 recorded during the [[Soviet Census (1989)|1989 Census]].<ref name="1989Census">{{ru-pop-ref|1989Census}}</ref>
+
+==History==
+Abakansky ''[[ostrog (fortress)|ostrog]]'' ({{lang|ru|Абаканский острог}}), also known as '''Abakansk''' ({{lang|ru|Абаканск}}), was built at the mouth of the [[Abakan River]] in 1675.<ref name="gr">{{cite book|title=Энциклопедия Города России|trans_title="Cities and Towns of Russia" Encyclopedia|year=2003|publisher=Большая Российская Энциклопедия|location=Moscow|isbn=5-7107-7399-9|page=13}}</ref> In the 1780s, the ''[[village#Russia|selo]]'' of '''Ust-Abakanskoye''' ({{lang|ru|Усть-Абаканское}}) was established in this area.<ref name="gr" /> It was granted town status and given its current name on April&nbsp;30, 1931.<ref name="XformRename">Resolution of April&nbsp;30, 1931</ref>
+
+===Chinese exiles===
+In 1940, Russian construction workers found ancient ruins during the construction of a highway between Abakan and [[Askiz (rural locality)|Askiz]]. When the site was excavated by Soviet archaeologists in 1941–1945, they realized that they had discovered a building absolutely unique for the area: a large (1500 square meters) Chinese-style, likely [[Han Dynasty]] era (206&nbsp;BCE–220&nbsp;CE) palace. The identity of the high-ranking personage who lived luxuriously in Chinese style, far outside of the borders of the Han Empire, has remained a matter for discussion ever since. Russian archaeologist L.A.&nbsp;Yevtyukhova surmised, based on circumstantial evidence, that the palace may have been the residence of [[Li Ling]], a Chinese general who had been defeated by the [[Xiongnu]] in 99&nbsp;BCE, and defected to them as a result.<ref>{{harvnb|Yevtyukhova|1954}}{{page needed|date=August 2014}}</ref> While this opinion has remained popular, other views have been expressed as well. More recently, for example, it was claimed by A.A.&nbsp;Kovalyov as the residence of Lu Fang ([[:zh:卢芳|盧芳]]), a Han throne pretender from the [[Emperor Guangwu of Han|Guangwu]] era.<ref>{{harvnb|Kovalyov|2007|p=148}}</ref>
+
+===Lithuanian exiles===
+In the late 18th and during the 19th century, Lithuanian participants in the 1794, 1830–1831, and 1863 rebellions against the Russian rule were exiled to Abakan. A group of [[labor camp|camp]]s was established where prisoners were forced to work in the coal mines. After [[Joseph Stalin|Stalin]]'s death, Lithuanian exiles from the nearby settlements moved in.<ref>{{harvnb|Juodvalkytė|2001}}{{page needed|date=August 2014}}</ref>
+
+==Administrative and municipal status==
+Abakan is the [[capital city|capital]] of the republic.<ref name="Ref54">Law #20</ref><ref name="EB">{{harvnb|Hoiberg|1993|p=7}}</ref> Within the [[subdivisions of Russia#Administrative divisions|framework of administrative divisions]], it is incorporated as the '''[[City of federal subject significance|City]] of Abakan'''—an administrative unit with the status equal to that of the [[administrative divisions of the Republic of Khakassia|districts]]<ref name="Ref54" /> As a [[subdivisions of Russia#Municipal divisions|municipal division]], the City of Abakan is incorporated as '''Abakan Urban Okrug'''.<ref name="Ref741">Law #59</ref>
+
+==Economy==
+The city has a [[river port]], industry enterprises, [[Katanov State University of Khakasia]], and three theatres. Furthermore, it has a commercial center that produces [[footwear]], [[foodstuffs]], and [[metal product]]s.
+
+===Transportation===
+Abakan (together with [[Tayshet]]) was a terminal of the major [[Abakan-Taishet Railway]]. Now it is an important railway junction.
+
+The city is served by the [[Abakan International Airport]].
+
+==Military==
+The 100th Air Assault Brigade of the [[Russian Airborne Troops]] was based in the city until ca.&nbsp;1996.<ref>{{harvnb|Schofield|1993}}{{page needed|date=August 2014}}</ref>
+
+==Sites==
+[[File:Abakan-02.JPG|thumb|Statue of [[Vladimir Lenin]] in Abakan]]
+[[File:Cathedral in Abakan.jpg|thumb|Abakan Cathedral of the Transfiguration]]
+
+Abakan's sites of interest include Holy Transfiguration Cathedral, "Good Angel of Peace" sculpture, park of topiary art, and many others.
+
+==Sports==
+[[Bandy]] is the one of the most popular sports in the city. [[Sayany-Khakassia]]<ref>[http://xakac.info/files/news/43/11/news1425826770.jpeg Team picture of Sayany-Khakassia]</ref> was playing in the top-tier Super League in the 2012–13 season but was relegated for the 2013–14 season. [[Russian Government Cup]] was played here in 1988 and in 2012.
+
+==Climate==
+Abakan has a continental climate with semi-arid influences (Köppen climate classification "BSk"). Temperature differences between seasons are extreme, which is typical for Siberia. Precipitation is concentrated in the summer and is less common because of rain shadow from nearby mountains.
+<div style="width:75%">
+{{Weather box
+|location=Abakan
+|single line=yes
+|metric first=yes
+|Jan record high C=7.0
+|Feb record high C=9.0
+|Mar record high C=20.0
+|Apr record high C=27.2
+|May record high C=38.0
+|Jun record high C=37.2
+|Jul record high C=39.0
+|Aug record high C=37.0
+|Sep record high C=34.0
+|Oct record high C=24.0
+|Nov record high C=16.1
+|Dec record high C=11.0
+|year record high C=39.0
+|Jan high C=−13.9
+|Feb high C=−9.4
+|Mar high C=1.1
+|Apr high C=9.4
+|May high C=18.9
+|Jun high C=23.3
+|Jul high C=26.1
+|Aug high C=23.9
+|Sep high C=16.7
+|Oct high C=6.7
+|Nov high C=-5.6
+|Dec high C = −13.9
+|year high C = 7.2
+|Jan mean C = -18.3
+|Feb mean C = -15.6
+|Mar mean C = -4.4
+|Apr mean C = 2.8
+|May mean C = 11.7
+|Jun mean C = 17.2
+|Jul mean C = 20.0
+|Aug mean C = 17.2
+|Sep mean C = 10.6
+|Oct mean C = 1.7
+|Nov mean C = -9.4
+|Dec mean C = -17.2
+|year mean C = 1.7
+|Jan low C = −22.8
+|Feb low C = −21.1
+|Mar low C = −10.0
+|Apr low C = -3.3
+|May low C = 5.0
+|Jun low C = 11.1
+|Jul low C = 13.9
+|Aug low C = 11.1
+|Sep low C = 4.4
+|Oct low C = -2.8
+|Nov low C = −12.8
+|Dec low C = −20.6
+|year low C = −3.9
+|Jan record low C = −45.0
+|Feb record low C = −40.0
+|Mar record low C = −38.1
+|Apr record low C = −22.2
+|May record low C = −10.5
+|Jun record low C =  −4.9
+|Jul record low C =   4.1
+|Aug record low C =  0.5
+|Sep record low C = −8.0
+|Oct record low C = −23.0
+|Nov record low C = −37.5
+|Dec record low C = −42.8
+|year record low C = −45.0
+|Jan precipitation mm = 7.6
+|Feb precipitation mm = 5.8
+|Mar precipitation mm = 4.2
+|Apr precipitation mm = 11.2
+|May precipitation mm = 29.1
+|Jun precipitation mm = 58.4
+|Jul precipitation mm = 67.5
+|Aug precipitation mm = 59.1
+|Sep precipitation mm = 35.7
+|Oct precipitation mm = 17.8
+|Nov precipitation mm = 10.2
+|Dec precipitation mm = 7.8
+|year precipitation mm = 314.4
+|source 1 = climatebase.ru<ref name=climatebase>{{harvnb|Anon|2012a}}
+</ref>
+|date=November 2011}}
+</div>
+
+==References==
+
+===Notes===
+{{Reflist}}
+
+==Sources==
+{{Ref begin}}
+*{{RussiaAdmMunRef|kk|adm|law}}
+*{{RussiaAdmMunRef|kk|mun|list|abakan}}
+*{{RussiaBasicLawRef|kk|abakan}}
+*{{Cite Soviet law
+|ru_entity=Президиум Центрального исполнительного комитета СССР
+|ru_type=Постановление
+|ru_date=30 апреля 1931 г.
+|ru_title=О преобразовании села Усть-Абаканское, центра Хакасской автономной области, в город с переименованием его в "Абакан"
+|ru_effective_date=
+|ru_published_in=
+|ru_published_date=
+|ru_url=
+|en_entity=Presidium of the Central Executive Committee of the USSR
+|en_type=Resolution
+|en_date=April&nbsp;30, 1931
+|en_title=On the Transformation of the ''Selo'' of Ust-Abakanskoye, the Center of Khakas Autonomous Oblast, into a City and on Renaming It "Abakan"
+|en_effective_date=
+|en_url=
+}}
+*{{Cite web|author=Anon|date=March 6, 2012|url=http://bandynet.ru/node/28437|trans-title="Saya-Khakassia" - the Winner of the Championship Russia Among the Teams of the Major League|script-title=ru:"Саяны-Хакасия" - победитель Первенства России среди команд Высшей лиги|accessdate=August 14, 2014|archivedate=August 14, 2014|archiveurl=http://www.webcitation.org/6RonV9VRY|website=badynet.ru|ref=harv|language=Russian}}
+*{{Cite web|author=Anon|url=http://climatebase.ru/station/29865/?lang=en|title=Abakan, Khakasia, Russia #29865|year=2012a|website=climatebase.ru|accessdate=August 14, 2014|archivedate=August 14, 2014|archiveurl=http://www.webcitation.org/6RonmKSKw|ref=harv}}
+*{{Cite web|author=Anon|year=2011|url=http://www.timetemperature.com/europe/russia_time_zones.shtml|website=TimeTemperature.com|accessdate=August 13, 2014|title=Russia Time Zones - Russia Current Times|archivedate=August 13, 2014|archiveurl=http://www.webcitation.org/6RoQKUUPo|ref=harv}}
+*{{Cite book|last=Yevtyukhova|first=L. A.|chapter=Южная Сибирь в древности [Southern Siberia in Ancient Times]|script-title=ru:По следам древних культур: от Волги до Тихого Океана|trans-title=Tracing Ancient Cultures between the Volga and the Pacific|location=Moscow, Russia|year=1954|pages=195–224|language=Russian|ref=harv}}
+*{{Cite encyclopedia|editor-last=Hoiberg|editor-first=Dale H.|encyclopedia=Encyclopædia Britannica|title=|edition=15th|year=1993|publisher=Encyclopædia Britannica, Inc.|volume=1: A-ak Bayes|location=Chicago, IL|isbn=0-85229-961-3|lccn=2002113989|ref=harv}}
+*{{Cite encyclopedia|last=Juodvalkytė|first=Aldona|title=Abakanas|volume=I: A-Ar|encyclopedia=Universal Lithuanian Encyclopedia|year=2001|language=Lithuanian|publisher=Science and Encyclopedia Publishing Institute|location=Vilnius, Lithuania|ref=harv}}
+*{{Cite book|last=Kovalyov|first=A. A.|chapter=Китайский император на Енисее? Ещё раз о хозяине ташебинского «дворца» [Chinese Emperor on the Yenisy? Once Again About the Owner of the Tashebik "Palace"]|trans-title=The Ethnohistory and Archaeology of Northern Eurasia: Theory, Methods, and Practice|script-title=ru:Этноистория и археология Северной Евразии: теория, методология и практика исследования|location=Irkutsk, Russian|year=2007|pages=145–148|language=Russian|isbn=978-5-8038-0430-7|url=http://otval.spb.ru/library/kovalov-aa-2007.pdf|format=PDF|archivedate=August 14, 2014|archiveurl=http://www.webcitation.org/6RomIYeHR|ref=harv}}
+*{{Cite encyclopedia|editor-last=Munro|editor-first=David|year=1995|encyclopedia=Oxford Dictionary of the World|isbn=0-19-866184-3|publisher=Oxford University Press|location=Oxford, UK|title=Abakan|ref=harv}}
+*{{Cite book|last=Schofield|first=Carey|year=1993|title=The Russian Elite: Inside Spetsnaz and the Airborne Forces|pages=249–251|publisher=Greenhill Press|isbn=1-8536-7155-X|ref=harv}}
+{{ref end}}
+
+==External links==
+{{Wikivoyage|Abakan}}
+{{Wikisource1911Enc|Abakansk}}
+
+*{{ru icon}} [http://абакан.рф/ Official website of Abakan]
+*{{ru icon}} [http://www.abakan.ru Unofficial website of Abakan]
+*[http://www.turism19.ru/en Tourist Information Centre of the Republic of Khakassia]
+*[http://i.khak.asia/cam Abakan live cam]
+*[http://russiatrek.org/abakan-city Abakan city streets views]
+*{{tr icon}} [http://www.pdx.edu/turkish_studies_center/books] Beyaz Arif Akbas, "Khakassia: The Lost Land", Portland State Center for Turkish Studies, 2007
+
+{{Republic of Khakassia}}
+{{Russian republics capitals}}
+{{Use mdy dates|date=May 2011}}
+
+[[Category:Cities and towns in Khakassia]]
+[[Category:Yeniseysk Governorate]]
+[[Category:Populated places established in 1675]]
+[[Category:17th-century establishments in Russia]]

@@ -1,0 +1,143 @@
+{{refimprove |date=March 2013}}
+{{Infobox writer <!-- for more information see
+[[:Template:Infobox writer/doc]] -->
+| birth_name   = Catherine Lucille Moore
+| image        = Catherine Lucille Moore.jpg
+| caption      = Moore <!--when? where?-->
+| pseudonym    = {{plainlist|
+* Lawrence O'Donnell
+* C. H. Liddell
+* Lewis Padgett
+}}
+| birth_date  = {{birth date|1911|1|24|mf=y}}
+| birth_place = [[Indianapolis]], [[Indiana]], US
+| death_date  = {{death date and age|1987|4|4|1911|1|24|mf=y}}
+| death_place = Hollywood, California, US
+| occupation  = Writer
+| nationality = American
+| period      = 1933–1963
+| genre       = [[Science fiction]], [[Fantasy fiction|fantasy]]
+| spouse      = {{plainlist|
+* [[Henry Kuttner]] (1940–1958, his death)
+* Thomas Reggie (1963–1987, her death)
+}}
+}}
+
+'''Catherine Lucille Moore''' (January 24, 1911 – April 4, 1987) was an [[American people|American]] [[science fiction]] and [[fantasy]] writer, who most often used the pen name '''C. L. Moore'''. She was among the first women to write in either genre (though earlier woman writers in these genres include Sophie Wenzel Ellis, Clare Winger Harris, Lilith Lorraine, Greye La Spina, Francis F. Stevens, Leslie F. Stone, and Everil Worrell). Moore's work paved the way for many other female [[speculative fiction]] writers. She and her first husband [[Henry Kuttner]] were prolific co-authors under their own names and three [[pseudonym]]s.
+
+== Biography ==
+
+===Early life===
+Moore was born on January 24, 1911 in [[Indianapolis, Indiana]]. She was chronically ill as a child and spent much of her time reading literature of the fantastic. She left college during the [[Great Depression in the United States|Great Depression]] to work as a secretary at the [[Fletcher Trust Building|Fletcher Trust Company]] in Indianapolis.
+
+===Writing career===
+Her first stories appeared in [[pulp magazines]] during the mid-1930s, including two significant series in ''[[Weird Tales]]'', then edited by [[Farnsworth Wright]]. One features the rogue and adventurer [[Northwest Smith]] wandering through the [[Solar System]]; the other features the swordswoman/warrior [[Jirel of Joiry]], one of the first female protagonists in [[sword-and-sorcery]] fiction. Both series are sometimes named for their lead characters.<ref name=isfdb/>
+
+The most famous Northwest Smith story is "[[Shambleau]]", which was also Moore's first professional sale. It originally appeared in the November 1933 issue of ''Weird Tales'',<ref name=isfdb/>netting her $100, and later becoming a popular anthology reprint.[[File:Weird Tales October 1934.jpg|thumb|lef,t|Cover of ''Weird Tales'', October 1934, featuring "The Black God's Kiss" by Moore (painting by [[Margaret Brundage]])]] Her most famous Jirel story is also the first one, "Black God's Kiss", which was the cover story in the October 1934 issue of ''Weird Tales'', subtitled "the weirdest story ever told" (see figure).<ref name=isfdb/> Moore's early stories were notable for their emphasis on the senses and emotions, which was unusual in genre fiction at the time.
+
+Moore's work also appeared in ''[[Astounding Science Fiction]]'' magazine throughout the 1940s. Several stories written for that magazine were later collected in her first published book, ''[[Judgment Night (collection)|Judgment Night]]'' (1952)<ref>{{cite book|author=Moore, C.L.|publisher=[[Gnome Press]]|date= 1952|title=Judgment Night}}</ref><ref name=isfdb/>{{efn|In 1951 Gnome had published ''Tomorrow and Tomorrow and the Fairy Chessmen'', the omnibus edition of two short novels by Moore & Kuttner as Lewis Padgett, which had been two-part serials in ''Astounding'' during 1947 and 1946. ''Judgment Night'' comprised five stories by Moore alone—none from the Northwest Smith and Jirel series, which Gnome collected in part one year later.<ref name=isfdb/>}} One of the most remarkable was the novella "No Woman Born" (1944), which went on to be included in more than 10 different science fiction anthologies including ''The Best of C. L. Moore''.<ref>{{isfdb title |47580 |No Woman Born}} ('''ISFDB'''). Retrieved 2012-04-20.</ref>
+
+Included in that collection were "Judgment Night" (first published in August and September 1943), the lush rendering of a future [[galactic empire]] with a sober meditation on the nature of power and its inevitable loss; "The Code" (July 1945), an homage to the classic [[Faust]] with modern theories and [[H. P. Lovecraft|Lovecraftian]] dread; "Promised Land" (February 1950) and "Heir Apparent" (July 1950), both documenting the grim twisting that mankind must undergo in order to spread into the Solar System; and "Paradise Street" (September 1950), a futuristic take on the [[American Old West|Old West]] conflict between lone hunter and wilderness-taming settlers.
+
+Moore met [[Henry Kuttner]], also a science fiction writer, in 1936 when he wrote her a fan letter under the impression that "C. L. Moore" was a man. They married in 1940 and thereafter wrote almost all of their stories in collaboration—under their own names and using the joint pseudonyms C. H. Liddell, Lawrence O'Donnell, and Lewis Padgett—[[Lewis Padgett#Bibliography|most commonly the latter]], a combination of their mothers' maiden names.
+
+In this very prolific partnership they managed to combine Moore's style with Kuttner's more cerebral storytelling. Their works include a classic, "[[Mimsy Were the Borogoves]]" (February 1943), the basis for the film ''[[The Last Mimzy]]'' (2007), and "[[Vintage Season]]" (September 1946), the basis for the film ''[[Timescape (1992 film)|Timescape]]'' (1992). They also collaborated on a story that combined Moore’s signature characters, Northwest Smith and Jirel of Joiry: "Quest of the Starstone" (1937).
+
+After Kuttner's death in 1958, Moore continued teaching his writing course at the [[University of Southern California]] but wrote almost no fiction. She did write for a few [[television]] shows under her married name, but upon marrying Thomas Reggie (who was not a writer) in 1963, she ceased writing entirely.
+
+Moore was the author guest of honor at [[Kansas City, MO]]'s fantasy and science fiction convention [[ConQuesT|BYOB-Con 6]], held over the U. S. [[Memorial Day]] weekend in May, 1976. 
+
+In 1981, Moore received two annual awards for her career in fantasy literature: the [[World Fantasy Award for Life Achievement]], chosen by a panel of judges at the [[World Fantasy Convention]], and the [[Gandalf Grand Master Award]], chosen by vote of participants in the [[World Science Fiction Convention]].<ref name=SFAwards/> (Thus she became the eighth and final Grand Master of Fantasy, sponsored by the [[Swordsmen and Sorcerers' Guild of America]], in partial analogy to the Grand Master of Science Fiction sponsored by the [[Science Fiction Writers of America]].)
+
+Moore was an active member of the Tom and Terri Pinckard Science Fiction literary salon and a frequent contributor to literary discussions with the regular membership, including [[Robert Bloch]], [[George Clayton Johnson]], [[Larry Niven]], [[Jerry Pournelle]], [[Norman Spinrad]], [[A. E. van Vogt]], and others, as well as many visiting writers and speakers.
+
+===Later life===
+She developed [[Alzheimer's disease]] but that was not obvious for several years. She had ceased to attend the meetings when{{when|date=March 2013}} she was nominated to be the first woman [[SFWA Grand Master|Grand Master]] of the Science Fiction Writers of America; the nomination was withdrawn at the request of her husband, Thomas Reggie, who said the award and ceremony would be at best confusing and likely upsetting to her, given the progress of her disease.{{Citation needed|reason=The footnote at the end of the paragraph is about Gene Wolfe's nomination and does not mention Moore or her husband|date=March 2014}} That caused dismay among the former SFWA presidents, for she was a great favorite to receive the award.{{clarify|date=March 2013|reason=does this mean a betting favorite, expected to be the next Grand Master? perhaps the source is clear. what is it?}} (Former presidents and current officers select a living writer as Grand Master of SF, no more than one annually.)<ref name=SFWA/>
+
+===Death===
+Moore died on April 4, 1987 at her home in [[Hollywood, California]] after a long battle with Alzheimer's.{{citation needed|date=September 2015}}
+
+==Posthumous award==
+The [[EMP Museum#Science Fiction and Fantasy Hall of Fame|Science Fiction and Fantasy Hall of Fame]] inducted Moore in 1998, its third class of two deceased and two living writers.<ref name=sfhof-old/>
+
+== Selected works ==
+{{Library resources box|by=yes|onlinebooksby=yes|viaf=86946787}}
+* ''[[Earth's Last Citadel]]'' (with Henry Kuttner; 1943)
+* ''[[Vintage Season]]'' (with Henry Kuttner, as "Lawrence O'Donnell"; 1946)—filmed in 1992 as ''[[Timescape (1992 film)|Timescape]]''<ref>http://www.imdb.com/title/tt0104362/</ref>
+* ''[[The Mask of Circe]]'' (with Henry Kuttner; 1948)
+* ''[[Beyond Earth's Gates]]'' (1949)
+* ''[[Judgment Night (collection)|Judgment Night]]'' (stories, 1952)
+* ''[[Shambleau and Others]]'' (stories, 1953)
+* ''[[Northwest of Earth]]'' (stories, 1954)
+* ''No Boundaries'' (with Henry Kuttner; stories, 1955)
+* ''[[Doomsday Morning]]'' (1957)
+* ''[[Jirel of Joiry (collection)|Jirel of Joiry]]'' (Paperback Library, 1969); ''[[Black God's Shadow]]'' (Donald M. Grant, 1977)—the five Jirel stories collected; the latter a limited edition with color plates, signed, numbered, and boxed
+* ''The Best of C. L. Moore'', edited by [[Lester Del Rey]] (Nelson Doubleday, 1975)—includes a biographical introduction by Del Rey, which is carefully noncommittal about the influence of her personal life on her writing, and an autobiographical afterword by Moore
+* ''Black God's Kiss'' (Paizo Publishing, 2007; ISBN 978-1-60125-045-2)—the five Jirel stories collected
+* ''Northwest of Earth: The Complete Northwest Smith'' (Paizo Publishing, 2008; ISBN 978-1-60125-081-0)—the thirteen Northwest Smith stories collected
+
+== See also ==
+{{Portal bar |Speculative fiction}}
+
+== Notes ==
+{{notelist |35em}}
+
+== References ==
+{{Reflist |35em |refs=
+<ref name=isfdb>
+{{isfdb name |453}} ('''ISFDB'''). Retrieved 2013-04-20. Select a title to see its linked publication history and general information. Select a particular edition (title) for more data at that level, such as a front cover image or linked contents.</ref>
+
+<!-- some awards refs -->
+<ref name=SFAwards>
+[http://www.locusmag.com/SFAwards/Db/NomLit93.html#3689 "Moore, C. L."]. ''The Locus Index to SF Awards: Index of Literary Nominees''. [[Locus Publications]]. Retrieved 2013-03-26.</ref>
+<ref name=SFWA>
+[http://www.sfwa.org/nebula-awards/nebula-weekend/events-program/grandmaster/ "Damon Knight Memorial Grand Master"]. Science Fiction and Fantasy Writers of America (SFWA). Retrieved 2013-03-26.</ref>
+<ref name=sfhof-old>
+[http://www.midamericon.org/halloffame/ "Science Fiction and Fantasy Hall of Fame"]. Mid American Science Fiction and Fantasy Conventions, Inc. Retrieved 2013-03-26. This was the official website of the hall of fame to 2004.</ref>
+}}
+
+==Further reading==
+Bleiler, E.F. "Fantasy, Horror...and Sex: The Early Stories of C.L. Moore". ''Scream Factory'' (1988): 41-47
+
+== External links ==
+{{wikiquote}}
+{{commons category|Catherine Lucille Moore}}
+{{wikisource author|Catherine Lucille Moore}}
+* {{Gutenberg author | id=Moore,+C.+L.+(Catherine+Lucile)}}
+* {{Internet Archive author |sname=Catherine Lucille Moore}}
+* {{Librivox author |id=1520}}
+* {{sfhof |947 | C. L. Moore }}
+* [http://www.fantasticfiction.co.uk/m/c-l-moore/ Moore at Fantastic Fiction]
+* {{isfdb name |453}}
+* [http://www.imdb.com/name/nm0600987/ Moore at IMDb]
+* [http://www.depauw.edu/SFs/birs/bir35.htm#h35 Rosemarie Arbur: Literary Descendants of C. L. Moore]{{Dead link|date=January 2013}}
+* [http://www.philsp.com/articles/pastmasters_12.html Past Masters - A Kuttner Above the Rest (But Wait!  There's Moore!)] by Bud Webster, at Galactic Central
+* [https://sites.google.com/site/jeffgilleland/catherine_lucille_moore Shambleau / read by the author, C. L. Moore]
+
+{{World Fantasy Award Life Achievement}}
+{{Authority control}}
+
+{{Persondata
+|NAME=Moore, C. L.
+|ALTERNATIVE NAMES= O'Donnell, Lawrence (pseud.); Liddell, C. H. (pseud.); Padgett, Lewis (pseud.)
+|SHORT DESCRIPTION=American science fiction and fantasy writer
+|DATE OF BIRTH    =January 24, 1911
+|PLACE OF BIRTH   =Indianapolis, Indiana, USA
+|DATE OF DEATH    =April 4, 1987
+|PLACE OF DEATH   =Hollywood, California, USA
+}}
+{{DEFAULTSORT:Moore, C.L.}}
+[[Category:1911 births]]
+[[Category:1987 deaths]]
+[[Category:20th-century American novelists]]
+[[Category:20th-century women writers]]
+[[Category:American fantasy writers]]
+[[Category:American science fiction writers]]
+[[Category:American women novelists]]
+[[Category:Deaths from Alzheimer's disease]]
+[[Category:Writers from Indianapolis, Indiana]]
+[[Category:Science Fiction Hall of Fame inductees]]
+[[Category:University of Southern California faculty]]
+[[Category:Women science fiction and fantasy writers]]
+[[Category:World Fantasy Award winning writers]]
+[[Category:Writers from California]]

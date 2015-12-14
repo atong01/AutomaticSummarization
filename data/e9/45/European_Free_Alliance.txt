@@ -1,0 +1,265 @@
+{{EngvarB|date=May 2013}}
+{{Use dmy dates|date=May 2013}}
+{{Infobox political party
+| name               = European Free Alliance
+| native_name        = Alliance libre européenne
+| logo               = [[File:European Free Alliance.svg|150px|Logo of the European Free Alliance]]
+| country            = European Union
+| colorcode          = {{European Free Alliance/meta/color}}	
+| president          = [[François Alfonsi]] ([[Party of the Corsican Nation|PNC]])
+| leader1_title      = Secretary-General
+| leader1_name       = [[Jordi Solé]] ([[Republican Left of Catalonia|ERC]])
+| leader2_title      = Treasurer
+| leader2_name       = {{nowrap|[[Lorena Lopez de Lacalle]] ([[Eusko Alkartasuna|EA]])}}
+| foundation         = {{start date|9 July 1981}}
+| ideology           = [[Regionalism (politics)|Regionalism]]<ref>{{cite web|author=Wolfram Nordsieck |url=http://www.parties-and-elections.eu/eu.html |title=Parties and Elections in Europe |publisher=Parties-and-elections.eu |date= |accessdate=10 May 2014}}</ref><br>[[Separatism]]/[[Autonomism (political doctrine)|Autonomism]]<br>[[Progressivism]] (majority)
+| europarl           = [[The Greens–European Free Alliance|Greens/EFA]] (7 MEPs)<br>[[European Conservatives and Reformists|ECR]] (N-VA, 4 MEPs)<br>[[European United Left–Nordic Green Left|GUE/NGL]] (EH Bildu, 1 MEP)
+| think_tank         = {{nowrap|[[Centre Maurits Coppieters]]}}
+| colours            = [[Purple]]
+| seats1_title       = [[European Parliament]]
+| seats1             = {{Composition bar|12|751|{{European Free Alliance/meta/color}}}}
+| seats2_title       = [[European Council]]
+| seats2             = {{Composition bar|0|27|{{European Free Alliance/meta/color}}}}
+| youth              = [[European Free Alliance Youth]]
+| headquarters       = Boomkwekerijstraat 1,<br>1000 [[Brussels]], [[Belgium]]
+| website            = [http://www.e-f-a.org/ www.e-f-a.org]
+}}
+
+The '''European Free Alliance''' ('''EFA''') is a [[European political party]].
+
+It consists of various [[Regionalism (politics)|regionalist]]<ref name="Demossier2007">{{cite book|author=Marion Demossier|title=The European Puzzle: The Political Structuring of Cultural Identities at a Time of Transition|url=http://books.google.com/books?id=NDA--EGAr40C&pg=PA152|date=15 August 2007|publisher=Berghahn Books|isbn=978-0-85745-863-6|pages=152–}}</ref><ref name="BombergPeterson2012">{{cite book|author1=Elizabeth Bomberg|author2=John Peterson|author3=Richard Corbett|title=The European Union: How Does it Work?|url=http://books.google.com/books?id=rXFgGVC9b98C&pg=PA155|year=2012|publisher=Oxford University Press|isbn=978-0-19-957080-5|pages=155–}}</ref> political parties in Europe advocating either full political [[independence]] and [[sovereignty]], or some form of [[devolution]] or [[self-governance]] for their country or region.<ref>{{cite web|url=http://www.e-f-a.org/about-us/whats-efa-and-history/|title=What's EFA and history|publisher=|accessdate=26 August 2015}}</ref> The alliance has generally limited its membership to progressive parties,<ref>{{Citation|last=Gupta|first=Devashree|title=Nationalism Across Borders: Transnational Nationalist Advocacy in the European Union|journal=Comparative European Politics|volume=6|issue=6|page=61|date=|year=2008|doi=10.1057/palgrave.cep.6110127}}</ref> therefore only a minority among European regionalist parties are members of the EFA.
+
+Since 1999 the EFA and the [[European Green Party]] (EGP) have joined forces within [[The Greens–European Free Alliance]] (Greens/EFA) [[Political groups of the European Parliament|group]] in the [[European Parliament]], albeit some EFA members have joined other groups from time to time.
+
+The EFA's youth wing is the [[European Free Alliance Youth]] (EFAY).
+
+==History==
+Since the [[European Parliament election, 1979|1979 election]], regionalists have been represented in the [[European Parliament]]. Four regionalist parties obtained seats in that election: the [[Scottish National Party]] (SNP), the Flemish [[People's Union (Belgium)|People's Union]] (VU), the Brussels-based [[Fédéralistes Démocrates Francophones|Democratic Front of Francophones]] (FDF) and the [[South Tyrolean People's Party]] (SVP). The SNP, although being predominantly [[social democracy|social-democratic]], joined the [[European Progressive Democrats]], a [[conservatism|conservative]] group led by the French [[Gaullism|Gaullist]] [[Rally for the Republic]]. The VU and the FDF joined the heterogeneous [[Technical Group of Independents (1979–84)|Technical Group of Independents]], while the SVP joined the [[European People's Party (European Parliament group)|European People's Party]].<ref>{{cite web|author=Wolfram Nordsieck |url=http://www.parties-and-elections.eu/eu-groups1979.html |title=Parties and Elections in Europe |publisher=Parties-and-elections.eu |date= |accessdate=10 May 2014}}</ref>
+
+In 1981 six parties (VU, the [[Frisian National Party]], [[Independent Fianna Fáil]], the [[Party of German-speaking Belgians]], the [[Party for the Organization of a Free Brittany]] and the [[Alsace-Lorraine National Association]]), plus three observers (the [[Union of the Corsican People]], the [[Occitan Party]] and the [[Democratic Convergence of Catalonia]], CDC), joined forces to form the '''European Free Alliance'''.<ref>http://www.e-f-a.org/fileadmin/user_upload/documents/3.4.4.3_EFA-THE-INTERNATIONALISM.pdf</ref><ref name="GouldMessina2014">{{cite book|author1=Andrew C. Gould|author2=Anthony M. Messina|title=Europe's Contending Identities: Supranationalism, Ethnoregionalism, Religion, and New Nationalism|url=http://books.google.com/books?id=zCVOAgAAQBAJ&pg=PA132|date=17 February 2014|publisher=Cambridge University Press|isbn=978-1-107-03633-8|pages=132–}}</ref> Regionalist MEPs continued, however, to sit in different groups in the European Parliament: the SNP in the Gaullist-dominated [[European Democratic Alliance]]; the VU, the [[Sardinian Action Party]] (PSd'Az) and [[Eusko Alkartasuna|Basque Solidarity]] (EA) in the [[Rainbow Group (1984–89)|Rainbow Group]], together with Green parties; the SVP in the [[European People's Party (parliamentary group)|European People's Party group]]; the CDC with the [[European Liberal Democrat and Reform Party (European Parliament group)|Liberal Democrats]]; and [[Batasuna]] among [[Non-Inscrits]].<ref>{{cite web|author=Wolfram Nordsieck |url=http://www.parties-and-elections.eu/eu-groups1984.html |title=Parties and Elections in Europe |publisher=Parties-and-elections.eu |date= |accessdate=20 October 2013}}</ref>
+
+Only after the [[European Parliament election, 1989|1989 European Parliament election]] did EFA members form a united group, called [[Rainbow Group (1989–94)|Rainbow]] like its green predecessor. It consisted of three Italian MEPs (two for [[Lega Lombarda]] and one for the PSd'Az), two Spanish MEPs (one each for the PNV and the [[Andalusian Party]], PA), one Belgian MEP (for VU), one French MEP ([[Union of the Corsican People]], UPC), one British MEP (SNP) and one independent MEP from Ireland. They were joined by 4 MEPs from the Danish left-wing Eurosceptic [[People's Movement against the EU]], while the other regionalist parties, including the SVP, Batasuna and the [[Convergence and Union|Convergence and Union of Catalonia]] (CiU) declined to join.<ref>{{cite web|author=Wolfram Nordsieck |url=http://www.parties-and-elections.eu/eu-groups1989.html |title=Parties and Elections in Europe |publisher=Parties-and-elections.eu |date= |accessdate=20 October 2013}}</ref>
+
+In the [[European Parliament election, 1994|1994 European Parliament election]] the regionalists lost many seats. Moreover, the EFA had suspended its major affiliate, [[Lega Nord]], for having joined forces in government with the post-fascist [[National Alliance (Italy)|National Alliance]]. Also, the PNV chose to switch to the [[European People's Party]] (EPP). The three remaining EFA MEPs (representing the SNP, the VU and the [[Canarian Coalition]]) formed a group with the French ''[[Radical Party of the Left|Énergie Radicale]]'' list and the Italian [[Pannella List]]: the [[European Radical Alliance]].<ref>{{cite web|author=Wolfram Nordsieck |url=http://www.parties-and-elections.eu/eu-groups1994.html |title=Parties and Elections in Europe |publisher=Parties-and-elections.eu |date= |accessdate=20 October 2013}}</ref>
+
+Following the [[European Parliament election, 1999|1999 European Parliament election]], in which EFA parties did quite well, EFA elected MEPs formed a joint group with the [[European Green Party]], under the name [[The Greens–European Free Alliance]] (Greens/EFA). In the event the EFA supplied ten members: two each from the Scottish SNP, the Welsh [[Plaid Cymru]], and the Flemish VU, and one each from the Basque PNV and EA, the Andalusian PA and the [[Galician Nationalist Bloc]] (BNG).<ref>{{cite web|author=Wolfram Nordsieck |url=http://www.parties-and-elections.eu/eu-groups1999.html |title=Parties and Elections in Europe |publisher=Parties-and-elections.eu |date= |accessdate=20 October 2013}}</ref>
+
+In the [[European Parliament election, 2004|2004 European Parliament election]], the EFA, which had formally become a [[European political party]],<ref>{{cite web|author=Wolfram Nordsieck |url=http://www.parties-and-elections.eu/eu-groups2004.html |title=Parties and Elections in Europe |publisher=Parties-and-elections.eu |date= |accessdate=20 October 2013}}</ref> was reduced to four MEPs: two from the SNP ([[Ian Hudghton]] and [[Alyn Smith]]), one from [[Plaid Cymru]] ([[Jill Evans]]) and one from the [[Republican Left of Catalonia]] (ERC; [[Bernat Joan i Marí]], replaced at the mid-term by MEP [[Mikel Irujo]] of the Basque EA). They were joined by two associate members: [[Tatjana Ždanoka]] of [[Latvian Russian Union|For Human Rights in United Latvia]] (PCTVL) and [[László Tőkés]], an independent MEP and former member of the [[Democratic Union of Hungarians in Romania]] (UMDR). Co-operation between the EFA and the Greens continued.
+
+Following the 2008 revision of the EU Regulation that governs European political parties allowing the creation of [[Political foundation at European level|European foundations]] affiliated to European political parties, the EFA established its official foundation/[[think tank]], the [[Centre Maurits Coppieters]] (CMC), in September 2007.<ref>{{cite web|url=http://www.ideasforeurope.eu |title=Centre Maurits Coppieters (CMC) - Ideas for Europe |publisher=Ideasforeurope.eu |date= |accessdate=20 October 2013}}</ref>
+
+In the [[European Parliament election, 2009|2009 European Parliament election]], six MEPs were returned for the EFA: two from the SNP (Ian Hudghton and Alyn Smith), one from Plaid Cymru (Jill Evans), one from the [[Party of the Corsican Nation]] (PNC; [[François Alfonsi]]), one from the ERC ([[Oriol Junqueras i Vies]]), and Tatjana Ždanoka, an individual member of the EFA from Latvia. After the election, the [[New Flemish Alliance]] (N-VA) also joined the EFA. The EFA subgroup thus counted seven MEPs.<ref>{{cite web|author=Wolfram Nordsieck |url=http://www.parties-and-elections.eu/eu-groups2009.html |title=Parties and Elections in Europe |publisher=Parties-and-elections.eu |date= |accessdate=10 May 2014}}</ref>
+
+In the [[European Parliament election, 2014|2014 European Parliament election]], EFA-affiliated parties returned twelve seats to the Parliament: four for the N-VA, two for the SNP, two for ''[[L'Esquerra pel Dret a Decidir]]'' (an electoral list primarily composed of the ERC), one for ''[[The Peoples Decide|Los Pueblos Deciden]]'' (an electoral list maily comprising [[EH Bildu]], a Basque coalition including EA), one for ''[[Primavera Europea]]'' (an electoral list comprising the [[Valencian Nationalist Bloc]], BNV, and the [[Chunta Aragonesista|Aragonese Union]], ChA), one from Plaid Cymru, and one from the [[Latvian Russian Union]] (LKS). Due to ideological divergences with the Flemish [[Groen (political party)|Greens]],<ref>{{cite web|url=http://www.euractiv.com/sections/eu-elections-2014/will-flemish-separatists-save-tories-europe-302068|title=Will Flemish separatists save the Tories in Europe?|work=EurActiv - EU News & policy debates, across languages|accessdate=26 August 2015}}</ref> the N-VA defected to the [[European Conservatives and Reformists]] (ECR) group<ref>{{cite web |url= http://www.standaard.be/cnt/dmf20140618_01146790|title=
+N-VA kiest voor ECR-fractie in Europees Parlement|first= Johan|last= Van Overtveldt|date= 2014-06-18|work= standaard.be|language= Dutch|trans_title= N-VA chooses ECR Group in the European Parliament|accessdate= 2014-06-18}}</ref><ref>{{cite web|url=http://www.flanderstoday.eu/politics/n-va-joins-ecr-group-european-parliament|title=N-VA joins ECR group in European Parliament|publisher=|accessdate=26 August 2015}}</ref> and the EH Bildu MEP joined the [[European United Left–Nordic Green Left]] (GUE/NGL) group: the EFA representation within the Greens/EFA group was thus of seven MEPs.<ref>{{cite web|url=http://www.greens-efa.eu/up-to-date-list-of-the-meps-for-the-new-legislative-period-12490.html|title=Up-to-date list of the MEPs for the new legislative period|publisher=|accessdate=26 August 2015}}</ref>
+
+==Ideology==
+In the Brussels declaration of 2000 the EFA codified its political principles. The EFA stands for "a Europe of Free Peoples based on the principle of [[subsidiarity]], which believe in solidarity with each other and the peoples of the world."<ref name="STAT">{{cite web|url=http://www.e-f-a.org/efaactive.php?id=12 |title=European Free Alliance |publisher=E-f-a.org |date= |accessdate=10 May 2014}}</ref> The EFA sees itself as an alliance of [[Statelessness|stateless]] peoples, which are striving towards independence, autonomy, recognition or wanting a proper voice in Europe. It supports European integration on basis of the subsidiarity-principle. It believes also that Europe should move away from further centralisation and works towards the formation of a "Europe of regions". It believes that regions should have more power in Europe, for instance participating in the [[Council of the European Union]], when matters within their [[Jurisdiction|competence]] are discussed. It also wants to protect the [[languages of the European Union|linguistic]] and cultural diversity within the EU.
+
+The EFA broadly stands on the [[left-wing politics|left-wing]] of the political spectrum. The Brussels declaration emphasises the protection of [[human rights]], [[sustainable development]] and [[social justice]]. In 2007 the EFA congress in [[Bilbao]] added several progressive principles to the declaration, including a commitment to fight against [[racism]], [[antisemitism]], [[discrimination]], [[xenophobia]] and [[islamophobia]], and a commitment to get full [[citizenship]] for [[immigration|immigrants]], including [[suffrage|voting rights]].
+
+EFA members are generally [[progressivism|progressive]], although there are some notable exceptions as the conservative [[New Flemish Alliance]], [[Bavaria Party]], [[Schleswig Party]] and [[Future of Åland]], the Christian-democratic [[Slovene Union]], the centre-right [[Liga Veneta Repubblica]] and the far-right<ref>{{cite web|url=http://www.corriere.it/editoriali/09_maggio_08/editoriale_alto_adige_ernesto_galli_della_loggia_fb5d76a4-3b8e-11de-a872-00144f02aabc.shtml |title=I separati dell’Alto Adige - Corriere della Sera |publisher=Corriere.it |date= |accessdate=10 May 2014}}</ref><ref>{{cite web|url=http://ricerca.gelocal.it/altoadige/archivio/altoadige/2010/10/14/AZBPO_AZB03.html |title=Digos e carabinieri nella sede del partito - Alto Adige dal 2004.it » Ricerca |publisher=Ricerca.gelocal.it |date=14 October 2010 |accessdate=10 May 2014}}</ref><ref>{{cite web|url=http://altoadige.gelocal.it/cronaca/2011/10/03/news/frattini-denuncia-il-diario-della-klotz-1.4288768 |title=Frattini denuncia il "diario" della Klotz - Cronaca - Alto Adige |publisher=Altoadige.gelocal.it |date=24 July 2012 |accessdate=10 May 2014}}</ref><ref>{{cite web|url=http://www.lastampa.it/2011/10/04/italia/cronache/nel-diario-scolastico-sudtirolesei-terroristi-si-scoprono-eroi-39Rsc1svaFlvWfi53OBIBJ/pagina.html |title=La Stampa - Nel diario scolastico sudtirolesei terroristi si scoprono eroi |publisher=Lastampa.it |date= |accessdate=10 May 2014}}</ref> [[South Tyrolean Freedom]].
+
+==Organisation==
+The main organs of the EFA organisation are the General Assembly, the Bureau and the Secretariat.
+
+===General Assembly===
+In the General Assembly, the supreme council of the EFA, every member party has one vote.
+
+===Bureau and Secretariat===
+The Bureau takes care of daily affairs. It is chaired by [[François Alfonsi]] ([[Party of the Corsican Nation]]), president of the EFA, while [[Jordi Solé]] ([[Republican Left of Catalonia]]) is secretary-general and [[Lorena Lopez de Lacalle]] ([[Eusko Alkartasuna|Basque Solidarity]]) treasurer and vice-president. The Bureau is completed by other nine vice-presidents: [[Gustave Alirol]] ([[Occitan Party]]), [[Olrik Bouma]] ([[Frisian National Party]]), [[Fabrizio Comencini]] ([[Liga Veneta Repubblica]]), [[Eric Defoort]] ([[New Flemish Alliance]]), [[Jill Evans]] ([[Plaid Cymru]]),
+[[Ian Hudghton]] ([[Scottish National Party]]), [[Davyth Hicks]] ([[Mebyon Kernow]]), [[Axel Jonsson]] ([[Future of Åland]]) and [[Ana Miranda (politician)|Ana Miranda]] ([[Galician Nationalist Bloc]]).<ref>{{cite web|url=http://www.e-f-a.org/whos-who/members-of-the-bureau/ |title=Members of the Bureau |publisher=European Free ALliance |date= |accessdate=22 April 2015}}</ref>
+
+===Member parties===
+This is a list of EFA member parties.<ref name="members">{{cite web |url=http://www.e-f-a.org/whos-who/member-parties/ |title=Member Parties |website=http://www.e-f-a.org/whos-who/member-parties/ |publisher=European Free Alliance |access-date=17 May 2015}}</ref>
+
+====Full members====
+{{Refimprove|section|date=May 2014}}
+Before becoming a member party, an organization needs to have been an observer of the EFA for at least one year. Only one member party per region is allowed. If a second party from a region wants to join the EFA, the first party needs to agree, at which point these two parties will then form a common delegation with one vote. The EFA also recognises friends of the EFA, a special status for regionalist parties outside of the European Union.<ref name="STAT"/>
+
+{| class="wikitable sortable" cellpadding="5"
+|-
+!Current state(s)||Party||Seeking to represent||Joined<br>{{small|(Observer/Member)}}||MEPs
+|-
+|{{flag|Austria}}||[[Unity List (Austria)|Unity List]]||{{flagicon|Slovenia}} [[Carinthian Slovenes|ethnic Slovenes]]||2005/2006||0
+|-
+|{{flag|Belgium}}||[[New Flemish Alliance]]||{{flag|Flanders}}||2010||4<ref name="EFA member parties perform well in the European elections #EP2014">{{cite web|url=http://www.e-f-a.org/news/news/?no_cache=1&tx_ttnews%5Btt_news%5D=761&cHash=6e54e3d15bd816251e05b91587735a23|title=EFA member parties perform well in the European elections #EP2014|publisher=|accessdate=26 August 2015}}</ref>
+|-
+|{{flag|Bulgaria}}||[[United Macedonian Organization Ilinden–Pirin]]||{{flagicon|Macedonia}} [[Ethnic Macedonians in Bulgaria|ethnic Macedonians]]||2006/2007||0
+|-
+|{{flag|Czech Republic}}||[[Moravané]]||{{flag|Moravia}}||2006||0
+|-
+|{{flag|Croatia}}||[[Lista za Rijeku - Lista per Fiume|List for Rijeka]]||{{Flagicon image|Vlag_rijeka.gif}} [[Rijeka]]||2009/2010||0
+|-
+|{{flag|Denmark}}||[[Schleswig Party]]||{{flagicon|Germany}} [[North Schleswig Germans|ethnic Germans]] in [[South Jutland County|North Schleswig]]||2011||0
+|-
+|{{flag|Finland}}||[[Future of Åland]]||{{flag|Åland}}||2005/2006||0
+|-
+|{{flag|France}}||[[Savoy Region Movement]]||{{flagicon|Savoy}} [[Savoie]]||1991||0
+|-
+|{{flag|France}}||[[Occitan Party]]||{{flag|Occitania}}||1982||0
+|-
+|{{flag|France}}||[[Party of the Corsican Nation]]||{{flag|Corsica}}||1981||0
+|-
+|{{flag|France}}||[[Union Démocratique Bretonne|Breton Democratic Union]]||{{flag|Brittany}}||1987||0
+|-
+|{{flag|France}}||[[Unser Land|Our Land]]||{{flag|Alsace}}||1991||0
+|-
+|{{flag|France}}||[[Catalan Unity]]||{{flagicon|Catalonia}} [[Northern Catalonia]], [[Països Catalans|Catalan Countries]]||1991||0
+|-
+|{{flag|Germany}}||[[Bavaria Party]]||{{flag|Bavaria}}||2007/2008||0
+|-
+|{{flag|Germany}}||[[Die Friesen|The Friesen]]||{{flagicon image|Ostfriesland Flagge mit Wappen.0.2.svg}}  [[East Frisia]]||2008/2009||0
+|-
+|{{flag|Germany}}||[[Lusatian Alliance]]||{{flagicon image|Flag of Sorbs.svg}} [[Sorbs]], [[Lusatia]]||2009/2013||0
+|-
+|{{flag|Germany}}||[[South Schleswig Voters' Association]]||{{flagicon|Denmark}} [[Danes|ethnic Danes]], {{flagicon image|Nordfriesischeflagge.svg}} [[North Frisia]]||2009/2010||0
+|-
+|{{flag|Greece}}||[[Rainbow (political party)|Rainbow]]||{{flagicon|Macedonia}} [[Slavic speakers of Greek Macedonia|ethnic Macedonians]]||1999/2000||0
+|-
+|{{flag|Italy}}||[[South Tyrolean Freedom]]||{{flag|South Tyrol}}||2009||0
+|-
+|{{flag|Italy}}||[[Liga Veneta Repubblica]]||{{flag|Veneto}}||1999/2000||0
+|-
+|{{flag|Italy}}||[[Sardinian Action Party]]||{{flag|Sardinia}}||1984||0
+|-
+|{{flag|Italy}}||[[Slovene Union]]||{{flagicon|Slovenia}} [[Slovene minority in Italy|ethnic Slovenes]]||1991||0
+|-
+|{{flag|Italy}}||[[Autonomy Liberty Participation Ecology]]||{{flag|Aosta Valley}}||2007/2011||0
+|-
+|{{flag|Netherlands}}||[[Frisian National Party]]||{{flag|Friesland}}||1981||0
+|-
+|{{flag|Poland}}||[[Silesian Autonomy Movement]]||{{flagicon image|Flagge Preußen - Provinz Oberschlesien.svg}} [[Upper Silesia]]||2002/2003||0
+|-
+|{{flag|Slovakia}}||[[Hungarian Christian Democratic Association]]||{{flagicon|Hungary}} [[Hungarians in Slovakia|ethnic Hungarians]]||2008/2009||0
+|-
+|{{flag|Spain}} / {{flag|France}}||[[Aralar Party]]||{{flagicon image|Flag of the Basque Country.svg}} [[Basque Country (greater region)|Basque Country]]|||2012/2013||0
+|-
+|{{flag|Spain}} / {{flag|France}}||[[Eusko Alkartasuna|Basque Solidarity]]||{{flagicon image|Flag of the Basque Country.svg}} [[Basque Country (greater region)|Basque Country]]|||1986||1<ref name="EFA member parties perform well in the European elections #EP2014"/>
+|-
+|{{flag|Spain}} / {{flag|France}}||[[Republican Left of Catalonia]]||{{flagicon|Catalonia}} [[Catalonia]], [[Països Catalans|Catalan Countries]]||1989||2<ref name="EFA member parties perform well in the European elections #EP2014"/>
+|-
+|{{flag|Spain}}||[[Andalusian Party]]||{{flag|Andalusia}}||1999||0
+|-
+|{{flag|Spain}}||[[Chunta Aragonesista|Aragonese Union]]||{{flag|Aragon}}||2003/2004||0
+|-
+|{{flag|Spain}}||[[Socialist Party of Majorca]]||{{flag|Balearic Islands}}, [[Països Catalans|Catalan Countries]]||2000/2008||0
+|-
+|{{flag|Spain}}||[[Galician Nationalist Bloc]]||{{flag|Galicia}}||1994/2000||0
+|-
+|{{flag|Spain}}||[[Valencian Nationalist Bloc]]||{{flagicon|Valencian Community}} [[Valencian Community|Valencia]], [[Països Catalans|Catalan Countries]]|||2012/2013||1<ref name="EFA member parties perform well in the European elections #EP2014"/>
+|-
+|{{flag|United Kingdom}}||[[Mebyon Kernow]]||{{flag|Cornwall}}||2003||0
+|-
+|{{flag|United Kingdom}}||[[Plaid Cymru]]||{{flag|Wales}}||1983||1<ref name="EFA member parties perform well in the European elections #EP2014"/>
+|-
+|{{flag|United Kingdom}}||[[Scottish National Party]]||{{flag|Scotland}}||1989||2
+|}
+
+====Observer members====
+{{Refimprove|section|date=May 2014}}
+{| class="wikitable" cellpadding="5"
+|-
+!Current state(s)||Party||Seeking to represent||Joined<br>{{small|(as observer)}}||MEPs
+|-
+|{{flag|Italy}}||[[The Other South]]||{{flag|Sicily}}|||2014||0
+|-
+|{{flag|Latvia}}||[[Latvian Russian Union]]||{{flagicon|Russia}} [[Russians in the Baltic states|ethnic Russians]], {{flagicon image|Latgalian flag.jpg}} [[Latgalians (modern)|Latgalians]]||2010||1<ref name="EFA member parties perform well in the European elections #EP2014"/>
+|-
+|{{flag|Spain}}||[[New Canaries]]||{{flag|Canary Islands}}|||2013||0
+|-
+|{{flag|United Kingdom}}||[[Yorkshire First]]<ref>http://www.yorkshirefirst.org.uk/about/opinion/</ref>||{{flag|Yorkshire}}||2015||0
+|-
+|{{flag|Greece}} ||[[Party of Friendship, Equality and Peace]] || {{flagicon|Turkey}} [[Turks of Western Thrace|ethnic Turks]] in [[File:Thrace_Periphery_Emblem.png|12px]] [[Western Thrace]] || 2015 || 0
+|-
+|{{flag|Romania}} ||[[Hungarian People's Party of Transylvania]] ||{{flagicon|Hungary}}[[Hungarian minority in Romania|ethnic Hungarians]] in {{flag|Transylvania}} || 2015 || 0
+|}
+
+====Associate members====
+{| class="wikitable sortable" cellpadding="5"
+|-
+!Current state(s)||Party||Seeking to represent||Joined<br>{{small|(as associate)}}||MEPs
+|-
+|{{flag|Azerbaijan}}||[[Democratic Party of Artsakh]]<ref>{{cite web |url=http://www.e-f-a.org/whos-who/member-parties/ |title=Member Parties |website=http://www.e-f-a.org/whos-who/member-parties/ |publisher=European Free Alliance |access-date=26 Aug 2015}}</ref><ref>{{cite web |url=http://www.dpa.am/wp/?p=2062/ |title=Democratic Party of Artsakh is the Associated Member of the European Free Alliance |website=http://www.dpa.am/wp/?p=2062/ |publisher=Democratic Party of Artsakh |access-date=26 Aug 2015}}</ref>||{{flag|Nagorno-Karabakh}}|||2015||0
+|}
+
+====Former members====
+{{Refimprove|section|date=May 2014}}
+{| class="wikitable" border cellpadding=5
+|-
+!Current state(s)||Party||Seeking to represent||Joined<br>{{small|(Observer/Member)}}||Notes
+|-
+|{{flag|Belgium}}||[[People's Union (Belgium)|People's Union]]||{{flag|Flanders}}||1981||{{small|Split into the [[New-Flemish Alliance]] and [[Sociaal-Liberale Partij|SPIRIT]]}}
+|-
+|{{flag|Belgium}}||[[Sociaal-Liberale Partij|Social Liberal Party]]||{{flag|Flanders}}||2001||{{small|Ceased activity in 2009}}
+|-
+|{{flag|Belgium}}||[[Walloon Popular Rally]]||{{flag|Wallonia}}||1982||{{small|Ceased activity as party in 2011}}
+
+|-
+|{{flag|Belgium}}||[[Party of German-speaking Belgians]]||{{flagicon image|BE DG Fahne randlos.png}} [[German-speaking Community of Belgium|German Community]]||1981||{{small|Merged into [[ProDG (Belgium)|ProDG]] in 2008}}
+|-
+|{{flag|Belgium}}||[[ProDG (Belgium)|Pro German-speaking Community]]||{{flagicon image|BE DG Fahne randlos.png}} [[German-speaking Community of Belgium|German Community]]||2009/2011||
+|-
+|{{flag|France}}||[[Alsace-Lorraine National Association]]||{{flag|Alsace}}, {{flag|Lorraine}}||1981||
+|-
+|{{flag|France}}||[[Union of the Corsican People]]||{{flag|Corsica}}||1981||{{small|Merged into the [[Party of the Corsican Nation|PNC]] in 2002}}
+|-
+|{{flag|France}}||[[Party for the Organization of a Free Brittany]]||{{flag|Brittany}}||1981||{{small|Ceased activity in 2000}}
+|-
+|{{flag|France}}||[[Savoyan League]]||{{flagicon|Savoy}} [[Savoie]]||1999/2000 ||
+|-
+|{{flag|Hungary}}||[[Renewed Roma Union Party of Hungary]]||{{flagicon image|Flag of the Romani people.svg}} [[Romani people in Hungary|Romani people]]||2009||{{small|Ceased activity in 2012}}
+|-
+|{{flag|Ireland}}||[[Independent Fianna Fáil]]||{{flag|Ireland}}||1981||{{small|Ceased activity in 2006}}
+|-
+|{{flag|Italy}}||[[Lega Lombarda]]||{{flag|Lombardy}}||1989/1990||{{small|Joined [[Lega Nord]] in 1991}}
+|-
+|{{flag|Italy}}||[[Liga Veneta]]||{{flag|Veneto}}||1989/1990||{{small|Joined [[Lega Nord]] in 1991}}
+|-
+|{{flag|Italy}}||[[Lega Nord]]||{{flag|Padania}}||1991||{{small|Suspended in 1994, left in 1996 and joined [[European Liberal Democrat and Reform Party (European Parliament group)|ELDR]]}}
+|-
+|{{flag|Italy}}||[[Emilian Free Alliance]]||{{flagicon image|Flag_of_Emilia.svg}} [[Emilia (region of Italy)|Emilia]]||1999/2000||{{small|Ceased activity in 2010}}
+|-
+|{{flag|Italy}}||[[Movement for the Independence of Sicily]]||{{flag|Sicily}}||2009||
+|-
+|{{flag|Italy}}||[[Valdostan Union]]||{{flag|Aosta Valley}}||||{{small|Expelled in 2007 after lack of activity in EFA structures}}
+|-
+|{{flag|Lithuania}}||[[Lithuanian Polish People's Party]]||{{flagicon|Poland}} [[Poles in Lithuania|ethnic Poles]]||2003/2004||{{small|Ceased activity in 2010}}
+|-
+|{{flag|Italy}}||[[Citizens' Union for South Tyrol|Union for South Tyrol]]||{{flag|South Tyrol}}||||{{small|Expelled in 2008 for opposition to the Bilbao declaration}}
+|-
+|{{flag|Romania}}||[[Transilvania–Banat League]]||{{flagicon image|Flag of Transylvania before 1918.svg}} [[Transylvania]], [[Banat]]||||{{small|Ceased activity}}
+|-
+|{{flag|Slovakia}}||[[Hungarian Federalist Party]]||{{flagicon|Hungary}} [[Hungarians in Slovakia|ethnic Hungarians]]||||{{small|Banned in 2005<ref>{{cite web|url=http://www.e-f-a.org/news/news/?tx_ttnews[tt_news]=623&cHash=f4e6f9b1f60ea7e2fa04bb68fc485939|title=EFA PARTY IN SLOVAK REPUBLIC BANNED|publisher=|accessdate=26 August 2015}}</ref>}}
+|-
+|{{flag|Spain}}||[[Democratic Convergence of Catalonia]]||{{flag|Catalonia}}|||1981||{{small|Joined the [[European Liberal Democrat and Reform Party (European Parliament group)|LDR Group]] in 1987}}
+|-
+|{{flag|Spain}}||[[Canarian Coalition]]||{{flag|Canary Islands}}|||1994||{{small|Left in 1999 and joined the [[European Liberal Democrat and Reform Party (European Parliament group)|ELDR Group]]}}
+|-
+|{{flag|Spain}} / {{flag|France}}||[[Basque Nationalist Party]]||{{flagicon image|Flag of the Basque Country.svg}} [[Basque Country (greater region)|Basque Country]]|||1999||{{small|Left in 2004 and joined the [[European Democratic Party|EDP]]}}
+|}
+
+==See also==
+*[[List of regional and minority parties in Europe]]
+*[[List of active separatist movements in Europe]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.e-f-a.org/ EFA official website]
+*[http://www.greens-efa.org/ The Greens/EFA official website]
+*[http://efa.greens-efa.eu/ EFA in the European Parliament]
+*[http://www.efay.eu European Free Alliance Youth]
+*[http://www.e-f-a.org/fileadmin/user_upload/documents/3.4.3.5_Other_EFA_texts_Declaration_of_Brussels_of_9_November_2000_ENG.pdf Declaration of Brussels of 9 November 2000]
+*[http://www.e-f-a.org/fileadmin/user_upload/documents/2004_EFA_Manifesto_EN.pdf Toward a Europe of diversity – Manifesto for the 2004 EP election]
+*[http://www.e-f-a.org/fileadmin/user_upload/documents/2009_EFAManifesto_ENG.pdf Vision for a People's Europe – Manifesto for the 2009 EP election]
+*[http://www.e-f-a.org/fileadmin/user_upload/documents/EFA_3263_manifesto_ENG_230114.pdf It's time for self-determination for all the peoples of Europe – Manifesto for the 2014 EP election]
+*[[Eric Defoort]] (editor), ''[http://www.e-f-a.org/fileadmin/user_upload/documents/3.4.4.2_Studies_of_EFA_-_EFA_30yrs.pdf The European Free Alliance: The voice of nations and peoples of Europe. 30 years EFA]'', 2011
+*Tudi Kernalegenn, ''[http://www.e-f-a.org/fileadmin/user_upload/documents/3.4.4.3_EFA-THE-INTERNATIONALISM.pdf The internationalism of the EFA]'', European Free Alliance, 2011
+*Peter Lynch, ''[http://aei.pitt.edu/7954/1/lynch-p-11e.pdf Organising for a Europe of the Regions: The European Free Alliance-DPPE and Political Representation in the European Union]'', 2007
+{{Members of the European Free Alliance}}
+{{EU politics}}
+[[Category:Pan-European political parties]]
+[[Category:Politics of Europe]]
+[[Category:European Free Alliance| ]]

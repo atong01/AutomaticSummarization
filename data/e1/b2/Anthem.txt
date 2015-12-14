@@ -1,0 +1,37 @@
+{{other uses}}
+{{TOC_Right}}
+An '''anthem''' is a [[musical composition]] of [[wikt:celebration|celebration]], usually used as a symbol for a distinct group, particularly the [[national anthem]]s of [[country|countries]]. Originally, and in [[music theory]] and religious contexts, it also refers more particularly to short sacred [[choral music|choral work]] and still more particularly to a specific form of [[Anglican church music]].
+
+{{anchor|Word|Name}}
+==Etymology==
+''Anthem'' is derived from the [[Ancient Greek language|Greek]] {{lang|grc|ἀντίφωνα}} (''antíphōna'') via [[Old English]] {{lang|ang|''antefn''}}. Both words originally referred to [[antiphon]]s, a [[call and response (music)|call-and-response]] style of singing.{{sfnp|''EB''|1878}} The adjectival form is "anthemic".
+
+==History==
+Anthems were originally a form of [[liturgical music]]. In the [[Church of England]], the [[rubric]] appoints them to follow the third [[collect]] at morning and evening prayer. Several anthems are included in the [[Coronation of the British monarch|British coronation service]].{{sfnp|''EB''|1878}} The words are selected from [[Holy Scripture]] or in some cases from the [[Liturgy]] and the music is generally more elaborate and varied than that of [[psalm]] or [[hymn tune]]s.{{sfnp|''EB''|1878}} Being written for a trained [[choir]] rather than the congregation, the Anglican anthem is analogous to the [[motet]] of the [[Roman Catholic Church|Roman Catholic]] and [[Lutheran Church]]es but represents an essentially English [[musical form]].{{sfnp|''EB''|1911}} Anthems may be described as "[[verse anthem|verse]]", "full", or "full with verse", depending on whether they are intended for [[solo (music)|solo]]ists, the [[choir|full choir]], or both.{{sfnp|''EB''|1878}}
+
+The anthem developed as a replacement for the [[Roman Catholic Church|Catholic]] "votive antiphon" commonly sung as an appendix to the main [[Liturgy of the Hours|office]] to the [[Blessed Virgin Mary]] or [[saint (Christianity)|other saints]]. During the [[Elizabethan period]], notable anthems were composed by [[Thomas Tallis]], [[William Byrd]], Tye, and Farrant{{sfnp|''EB''|1878}} but they were not mentioned in the [[Book of Common Prayer]] until 1662 when the famous [[rubric]] "In quires and places where they sing here followeth the Anthem" first appears. Early anthems tended to be simple and [[homophony|homophonic]] in texture, so that the words could be clearly heard. During the 17th century, notable anthems were composed by [[Orlando Gibbons]], [[Henry Purcell]], and [[John Blow]],{{sfnp|''EB''|1878}} with the [[verse anthem]] becoming the dominant musical form of the [[English Restoration|Restoration]].{{fact|date=August 2015}} In the 18th century, famed anthems were composed by Croft, Boyce, [[James Kent]], [[James Nares]], [[Benjamin Cooke]], and [[Samuel Arnold (composer)|Samuel Arnold]].{{sfnp|''EB''|1878}} In the 19th, [[Samuel Sebastian Wesley]] wrote anthems influenced by contemporary [[oratorio]] which stretch to several [[movement (music)|movements]] and last twenty minutes or longer. Later in the century, [[Charles Villiers Stanford]] used symphonic techniques to produce a more concise and unified structure. Many anthems have been composed since this time, generally by [[organist]]s rather than professional [[composer]]s and often in a conservative style. Major composers have usually composed anthems in response to commissions and for special occasions. Examples include [[Edward Elgar]]'s 1912 "Great is the Lord" and 1914 "Give unto the Lord" (both with orchestral accompaniment), [[Benjamin Britten]]'s 1943 ''[[Rejoice in the Lamb]]'' (a modern example of a multi-movement anthem, today heard mainly as a concert piece), and, on a much smaller scale, [[Ralph Vaughan Williams]]'s 1952 "O Taste and See" written for the coronation of [[Elizabeth II of the United Kingdom|Queen Elizabeth II]]. With the relaxation of the rule, in [[England]] at least, that anthems should be only in English, the repertoire has been greatly enhanced by the addition of many works from the Latin repertoire.
+
+The word "anthem" is now commonly used to describe any celebratory song or composition for a distinct group, as in [[national anthem]]s. Many [[Pop music|pop song]]s are used as [[sports anthem]]s, notably including [[Queen (band)|Queen]]'s "[[We Are the Champions]]" and "[[We Will Rock You]]", and some sporting events have their own anthems, most notably including [[UEFA Champions League Anthem|UEFA Champions League]]. Further, some songs are artistically styled as anthems, whether or not they are used as such, including [[Marilyn Manson (band)|Marilyn Manson]]'s "[[Irresponsible Hate Anthem]]", [[Silverchair]]'s "[[Anthem for the Year 2000]]", and [[Toto (band)|Toto]]'s "Child's Anthem".
+
+==See also==
+{{divcol}}
+*[[Antiphon]]
+*[[Earth Anthem]]
+*[[Motet]]
+*[[National anthem]] ([[List of national anthems|list]])
+*[[Sports anthem|Sports]] & [[stadium anthem]]s
+*[[Verse anthem]]
+{{divcol-end}}
+
+==References==
+===Citations===
+{{Reflist|2}}
+
+===Bibliography===
+* {{citation |contribution=[[s:Encyclopædia Britannica, Ninth Edition/Anthem|Anthem]] |title=''[[s:Encyclopædia Britannica, Ninth Edition|''Encyclopædia Britannica'', 9th ed.]], [[s:Encyclopædia Britannica, Ninth Edition/Volume II|Vol.&nbsp;II]]'' |editor-last=Baynes |editor-first=Thomas Spencer |display-editors=0 |publisher=Charles Scribner's Sons |location=New York |date=1878 |ref={{harvid|EB|1878}} |p=102 }}.
+* {{citation |contribution=[[s:1911 Encyclopædia Britannica/Anthem|Anthem]] |title=''[[s:1911 Encyclopædia Britannica|''Encyclopædia Britannica'', 11th ed.]], [[s:1911 Encyclopædia Britannica/Volume II|Vol.&nbsp;II]]'' |editor-last=Chisholm |editor-first=Hugh |editor2-last=Phillips |editor2-first=Walter Alison |display-editors=0 |publisher=Cambridge University Press |location=[[Cambridge, England|Cambridge]] |date=1911 |ref={{harvid|EB|1911}} |p=93 }}.
+
+{{Authority control}}
+[[Category:Anthems|*]]
+[[Category:Christian songs|*]]
+[[Category:Song forms]]

@@ -1,0 +1,1079 @@
+[[File:Big and little dog 1.jpg|thumb|right|This [[Chihuahua (dog)|Chihuahua]] [[mixed-breed dog|mix]] and [[Great Dane]] show some of the tremendous variety of dog breeds.]]
+[[Dog]]s have been selectively bred for thousands of years, sometimes by [[inbreeding]] dogs from the same ancestral lines, sometimes by mixing dogs from very different lines.<ref>{{cite book| last = Rice | first = Dan | isbn = 978-0-8120-9604-0 | publisher = Barron's Educational Series | year = 1996 | title = The Complete Book of Dog Breeding}}</ref> The process continues today, resulting in a wide variety of [[dog breed|breeds]], [[Dog hybrid|hybrids]], and [[Dog type|types]] of dog. As such, dogs are the only animal with such a wide variation in appearance without [[speciation]], "from the Chihuahua to the Great Dane."<ref>{{cite journal | url = http://www.sciam.com/article.cfm?id=different-dog-breeds-same-species | title = Why are different breeds of dogs all considered the same species? | last = Swaminathan | first = Nikhil | journal = [[Scientific American]] |date=March 5, 2008 |accessdate = July 14, 2008 | quote = Dogs are highly unusual in their variation...}}</ref>
+
+The  following list uses a wide interpretation of "breed." Breeds are usually categorized by the functional type from which the breed was developed. The basic types are [[companion dog]]s, [[guard dog]]s, [[hunting dog]]s, [[herding dog]]s, and [[Working Group (dogs)|working dogs]], although there are many other [[List of dog types|types]] and subtypes. Breeds listed here may be traditional breeds with long histories as registered breeds, rare breeds with their own registries, or new breeds that may still be under development.
+
+In some cases, a breed's origin overlaps the boundaries of two or more countries; the dog is normally listed only in the country with which it is most commonly associated (for example, by its designated country according to the [[Fédération Cynologique Internationale]] (FCI). Some dogs, such as the [[Löwchen]], have an uncertain origin and are listed under several countries.
+
+{{Compact ToC|center=yes|num=no|seealso=yes|refs=yes|nobreak=yes}}
+{{Clear}}
+
+== List with classification and standards ==
+{|class="wikitable sortable"
+|-
+!Breed!!Origin!![[Fédération Cynologique Internationale]]<ref>{{cite web |url = http://www.fci.be/en/Nomenclature/Default.aspx|title = FCI breeds nomenclature|publisher = Fédération Cynologique Internationale|accessdate = 2015-06-30}}</ref>!![[American Kennel Club]]<ref>{{cite web | url=http://www.akc.org/breeds/index.cfm | title=Breed Matters | publisher=American Kennel Club | accessdate=February 4, 2013}}</ref>!![[Australian National Kennel Council]]<ref>{{cite web | url=http://www.ankc.org.au/breeds.aspx | title=Breeds | publisher=Australian National Kennel Council | accessdate=February 4, 2013}}</ref>!![[Canadian Kennel Club]]<ref>{{cite web | url=http://www.ckc.ca/en/Default.aspx?tabid=99 | title=CKC Breed Standards | publisher=Canadian Kennel Club | accessdate=February 4, 2013}}</ref>!![[The Kennel Club]]<ref>{{cite web | url=http://www.thekennelclub.org.uk/breedstandards | title=Breed Standards | publisher=The Kennel Club | accessdate=February 4, 2013}}</ref>!![[New Zealand Kennel Club]]<ref>{{cite web | url=http://www.nzkc.org.nz/dogselect.html | title=Breed Search | publisher=New Zealand Kennel Club | accessdate=February 4, 2013}}</ref>!![[United Kennel Club]]<ref>{{cite web | url=http://www.ukcdogs.com/Web.nsf/WebPages/Library/BreedStandards | title=Breed Standards | publisher=United Kennel Club | accessdate=February 4, 2013}}</ref>!!class="unsortable"|Image
+|-
+|{{Anchor|A}}[[Affenpinscher]]||[[Germany]], [[France]]||Group 02 Section 01 #186 ||Toy Group||Group 01 (Toys)||Group 05 - (Toys)||Toy  ||Toy ||Companion Dog ||[[File:Affenpinscher.jpg|200px]]
+|-
+|[[Afghan Hound]]||[[Afghanistan]]||Group 10 Section 01 #228 ||Hound Group ||Group 04 (Hounds) ||Group 02 - (Hounds)||Hound ||Hound ||Sighthound and Pariah ||[[File:Afghan Hound.jpg|200px]]
+|-
+|[[Kuchi (dog)|Afghan Shepherd]]||[[Afghanistan]]||||||||||||||||[[File:Afghan Shepherd.jpg|200px]]
+|-
+|[[Aidi]]||[[Morocco]]||Group 02 Section 02 #247 ||||||||||||Guardian Dog ||[[File:Aidi.jpg|200px]]
+|-
+|[[Airedale Terrier]]|| [[United Kingdom]] ([[England]])||Group 03 Section 01 #007 ||Terrier Group ||Group 02 (Terriers) ||Group 04 - (Terriers) ||Terrier || Terrier ||Terrier ||[[File:Airedale Terrier.jpg|200px]]
+|-
+|[[Akbash Dog|Akbash]]||[[Turkey]]||||||||||||||Guardian Dog||[[File:Turkish akbash.jpg|200px]]
+|-
+|[[Akita Inu]]||[[Japan]]||Group 05 Section 05 #255 ||''See [[Akita Inu#Breed name and related issues: American Akita.2C Akita or Akita Inu|American Akita]]''||''See [[Akita Inu#Breed name and related issues: American Akita.2C Akita or Akita Inu|American Akita]]''||''See [[Akita Inu#Breed name and related issues: American Akita.2C Akita or Akita Inu|American Akita]]''||Utility ||Utility||Northern Breed||[[File:Japaneseakita.jpg|200px]]
+|-
+|[[Alano Español]]||[[Spain]]||||||||||||||||[[File:Alano-espanol-0003.jpg|200px]]
+|-
+|[[Alaskan Klee Kai]]||[[United States]]||||||||||||||Northern Breed ||[[File:WOWAKK-Kukai-Alaskan-Klee-Kai.jpg|200px]]
+|-
+|[[Alaskan Malamute]]||[[United States]]||Group 05 Section 01 #243 ||Working Group||Group 06 (Utility) ||Group 03 – (Working Dogs) ||Working ||Utility ||Northern Breed ||[[File:Alaskanmalamute0b.jpg|200px]]
+|-
+|[[Alpine Dachsbracke]]||[[Austria]] ||Group 06 Section 02 #254||||||||||||Scenthound |||[[File:Alpejski gończy krótkonożny g99.jpg|200px]]
+|-
+|[[Alpine Spaniel]]||[[Switzerland]], [[Savoy]]||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||[[File:Alpine spaniel.jpg|200px]]
+|-
+|[[American Akita]]||[[Japan]]/[[United States]]||Group 05 Section 05 #344 ||Working Group ||Group 6 (Utility) || Group 03 - (Working Dogs) || Utility || Utility || Northern Breed ||[[File:American akita.jpg|200px]]
+|-
+|[[American Bulldog]]||[[United States]] ||||||||||||||Guardian Dog||[[File:Saylor's Doc Holliday.jpg|200px]]
+|-
+|[[American Cocker Spaniel]]||[[United States]]||Group 08 Section 02 #167 ||Sporting Group||Group 03 (Gundogs) ||Group 01 Sporting Dogs ||Gundog ||Gundogs ||Gun Dog ||[[File:American Cocker in Tallinn 2.JPG|200px]]
+|-
+|[[American Eskimo Dog]]||[[Germany]]||||Non-Sporting Group||||Group 06 (Non-sporting) ||||||Northern Breed ||[[File:American Eskimo Dog.jpg|200px]]
+|-
+|[[American Foxhound]]||[[United States]]||Group 06 Section 01 #303 ||Hound Group||||Group 02 (Hounds) ||||||Scenthound ||[[File:AmericanFoxhound2.jpg|200px]]
+|-
+|[[American Hairless Terrier]]||[[United States]]||||FSS (Miscellaneous)||||||||||Terrier ||[[File:TagnonPond9-6-03.jpg|200px]]
+|-
+|[[American Pit Bull Terrier]]||[[United States]]||||||||||||||Terrier ||[[File:American Pit Bull Terrier - Seated.jpg|200px]]
+|-
+|[[American Staffordshire Terrier]]||[[United States]]||Group 03 Section 03 #286 ||Terrier Group ||Group 02 (Terriers) ||Group 04 - Terrier ||||Terrier ||||[[File:Amerykański staford 222.jpg|200px]]
+|-
+|[[American Water Spaniel]]||[[United States]]||Group 08 Section 03 #301 ||Sporting Group ||||Sporting||||||Gun Dog ||[[File:Chien d'eau americain champion 1.JPG|200px]]
+|-
+|[[Anatolian Shepherd Dog]]||[[Turkey]]||Group 02 Section 02 #331 ||Working Group ||Group 06 (Utility) ||||Pastoral ||Utility||Guardian Dog||[[File:Anatolian 589.jpg|200px]]
+|-
+|[[Andalusian Hound]]||[[Spain]]||||||||||||||||[[File:Sheila (podenco andaluz).jpg|200px]]
+|-
+|[[Anglo-Français de Petite Vénerie]]||[[France]]||Group 06 Section 01 #325||||||||||||Scenthound||[[File:Anglo-Français de petite vénerie.jpg|200px]]
+|-
+|[[Appenzeller Sennenhund]]||[[Switzerland]]||Group 02 Section 03 #046 ||FSS||||||||||Guardian Dog||[[File:Appenzeller czerń 045.jpg|200px]]
+|-
+|[[Ariege Pointer]]||[[France]]||Group 07 Section 01 #177||||||||||||Gun Dog||[[File:Pointer of Ariege from 1915.JPG|200px]]
+|-
+|[[Ariegeois]]||[[France]]||Group 06 Section 01 #020||||||||||||Scenthound||[[File:Gończy 059.jpg|200px]]
+|-
+|[[Armant (dog)|Armant]]||[[Egypt]]||||||||||||||||[[File:Armant dog, with some orange stuff and trees in background.jpg|200px]]
+|-
+|[[Armenian Gampr dog]]||[[Armenia]]||||||||||||||||[[File:Gampr Hamlik Parsanyan 2.jpg|200px]]
+|-
+|[[Artois Hound]]||[[France]]||Group 06 Section 01 #028||||||||||||||[[File:Artois from 1915.JPG|200px]]
+|-
+|[[Australian Cattle Dog]]||[[Australia]]||Group 01 Section 02 #287||Herding Group||Group 05 (Working Dogs)||Group 07 - (Herding Dogs)||Pastoral||Working||Herding Dog||[[File:ACD-blue-spud.jpg|200px]]
+|-
+|[[Australian Kelpie]]||[[Australia]]||Group 01 Section 01 #293||||Group 05 (Working Dogs)||Group 07 - (Herding Dogs)||||Working||Herding Dog||[[File:Hilu the Australian Kelpie dog.jpg|200px]]
+|-
+|[[Australian Shepherd]]||[[United States]]||Group 01 Section 01 #342||Herding Group||Group 05 (Working Dogs)||Group 07 - (Herding Dogs)||Pastoral||Working||Herding Dog||[[File:Redtriaussie01.jpg|200px]]
+|-
+|[[Australian Silky Terrier]]||[[Australia]]||Group 03 Section 04 #236||Toy Group||Group 1 (Toys)||Group 05 (Toys)||Toy||Toy||Terrier||[[File:Silkyterrier125.jpg|200px]]
+|-
+|[[Australian Stumpy Tail Cattle Dog]]<ref>The New Zealand Kennel Club and the United Kennel Club recognize this breed as the Stumpy Tail Cattle Dog instead of the ''Australian'' Stumpy Tail Cattle Dog</ref>||[[Australia]]||Group 01 Section 02 #351 Provisional||||Group 05 - (Working dogs)||Group 07 - (Herding Dogs)||||Working||Herding Dog||[[File:Australian Stumpy Tail Cattle Dog.jpg|200px]]
+|-
+|[[Australian Terrier]]||[[Australia]]||Group 03 Section 02 #008||Terrier Group||Group 02 (Terrier)||Group 04 (Terriers)||Terriers||Terrier||Terrier||[[File:Australian Terrier 002 U.jpg|200px]]
+|-
+|[[Austrian Black and Tan Hound]]||[[Austria]]||Group 06 Section 01 #063||||||||||||Scenthound||[[File:Brandlbracke.JPG|200px]]
+|-
+|[[Austrian Pinscher]]||[[Austria]]||Group 02 Section 01 #064||||||||||||Terrier||[[File:Pinczer austiacki 678.jpg|200px]]
+|-
+|[[Azawakh]]||[[Mali]]||Group 10 Section 03 #307||FSS (Miscellaneous)||Hound||||Hound||||Sighthound and Pariah||[[File:Azawakh-Red male black mantle.jpg|200px]]
+|-
+|{{Anchor|B}}[[Bakharwal Dog]]||[[Pakistan]]||||||||||||||||
+|-
+|[[Barbet (dog)|Barbet]]||[[France]]||Group 08 Section 03 #105||FSS||||Group 01 (Sporting)||||||Gun Dog||[[File:Chien de race Barbet.jpg|200px]]
+|-
+|[[Basenji]]||[[Democratic Republic of the Congo]]||Group 05 Section 06 #043||Hound Group||Group 04 (Hounds)||Group 02 - Hounds||Hound||Hound||Sighthound and Pariah||[[File:Basenji 600.jpg|200px]]
+|-
+|[[Villanuco de Las Encartaciones|Basque Ratter]]||[[Spain]]||||||||||||||||
+|-
+|[[Basque Shepherd Dog]]||[[Spain]]||||||||||||||||[[File:Pastor vasco m 14months loby 3018.jpg|200px]]
+|-
+|[[Basset Artésien Normand]]||[[France]]||Group 06 Section 01 #034||||||||||||Scenthound||[[File:Basset artezyjsko-normandzki. Umbra z Romiszówki.jpg|200px]]
+|-
+|[[Basset Bleu de Gascogne]]||[[France]]||Group 06 Section 01 #035||||||Hound||||||Scenthound||[[File:Basset bleu de Gascogne.jpg|200px]]
+|-
+|[[Basset Fauve de Bretagne]]||[[France]]|||||FSS|||||||Hound||||Scenthound||[[File:Basset Fauve de Bretagne 600.jpg|200px]]
+|-
+|[[Grand Basset Griffon Vendéen|Basset Griffon Vendéen, Grand]]||[[France]]||||FSS (Miscellaneous)||||||||||Scenthound||[[File:G Basset Griffon Vendeen 600.jpg|200px]]
+|-
+|[[Petit Basset Griffon Vendéen|Basset Griffon Vendéen, Petit]]||[[France]]||Group 06 Section 01 #067||Hound Group||Group 04 (Hounds)||Group 02 - Hound||Hound||Hounds||Scenthound||[[File:P Basset Griffon Vendeen 600.jpg|200px]]
+|-
+|[[Basset Hound]]||[[France]]||Group 06 Section 01 #163||Hound Group||Group 4 (Hounds)||Group 02 - Hounds||Hound||Hound||Scenthound||[[File:Bluebasset.jpeg|200px]]
+|-
+|[[Bavarian Mountain Hound]]||[[Germany]]||Group 06 Section 02 #217||||||||||||||[[File:Zoran Spod Ruskiej Granicy the Bavarian Mountain Hound.jpg|200px]]
+|-
+|[[Beagle]]||[[United Kingdom]] ([[England]])||Group 06 Section 01 #161||Hound Group||Group 04 (Hounds)||Group 02 – Hounds||Hound||Hound||Scenthound||[[File:Beagle 600.jpg|200px]]
+|-
+|[[Beagle-Harrier]]||[[France]]||Group 06 Section 01 #290||||||||||||Scenthound||[[File:Beagle-Harrier-fr.jpg|200px]]
+|-
+|[[Bearded Collie]]||[[United Kingdom]] ([[Scotland]])||Group 01 Section 01 #271||Herding Group||Group 05 (Working Dogs)||Group 07 - Herding||Pastoral||Working||Herding Dog||[[File:Bearded Collie 600.jpg|200px]]
+|-
+|[[Beauceron]]||[[France]]||Group 01 Section 01 #044||Herding Group||||||Working||||Herding Dog||[[File:Owczarek francuski beauceron 009pl.jpg|200px]]
+|-
+|[[Bedlington Terrier]]||[[United Kingdom]]||Group 03 Section 01 #009||Terrier Group||Group 02 (Terriers)||Group 04 - Terriers||Terrier||Terrier||Terrier||[[File:Bedlington Terriers.jpg|200px]]
+|-
+|[[Belgian Shepherd Dog (Groenendael)]]||[[Belgium]]||Group 01 Section 01 #015||Herding Group||Group 05 (Working Dogs)||Group 07 - Herding Dogs||Pastoral||Working||Herding Dog||[[File:European Groenendael male.jpg|200px]]
+|-
+|[[Belgian Shepherd Dog (Laekenois)]]||[[Belgium]]||Group 01 Section 01 #015||FSS (Miscellaneous)||Group 05 (Working Dogs)||Group 07 - Herding Dogs||Pastoral||Working||Herding Dog||[[File:Fang-sitt-040728.jpg|200px]]
+|-
+|[[Belgian Shepherd Dog (Malinois)]]||[[Belgium]]||Group 01 Section 01 #015||Herding Group||Group 05 (Working Dogs)||Group 07 - Herding Dogs||Pastoral||Working||Herding Dog||[[File:Malinois rybnik-kamien pl.jpg|200px]]
+|-
+|[[Belgian Shepherd (Tervuren)]]||[[Belgium]]||Group 01 Section 01 #015||Herding Group||Group 05 (Working Dogs)||Group 07 - Herding Dogs||Pastoral||Working||Herding Dog||[[File:Tervueren.jpg|200px]]
+|-
+|[[Bergamasco Shepherd]]||[[Italy]]||Group 01 Section 01 #194||Herding Group||||Pastoral||||Working||Herding Dog||[[File:Ortensia di Valle Scrivia.jpg|200px]]
+|-
+|[[Berger Blanc Suisse]]||[[Switzerland]]||Group 01 Section 01 #347||||||||||||||[[File:A-Wurf von den Spessartraeubern.jpg|200px]]
+|-
+|[[Berger Picard]]||[[France]]||Group 01 Section 01 #176||Herding Group||||Group 07 (Herding)||||||Herding Dog||[[File:BergerPicard.jpg|200px]]
+|-
+|[[Berner Laufhund]]||[[Switzerland]]||||||||||||||||[[File:Gonczy bernenski pl1.jpg|200px]]
+|-
+|[[Bernese Mountain Dog]]||[[Switzerland]]||Group 02 Section 03 #045||Working Group||Group 06 (Utility)||Group 03 - Working Dogs||Working||Utility||Guardian Dog||[[File:Berner sennhund.jpg|200px]]
+|-
+|[[Bichon Frisé]]||[[Spain]], [[Belgium]]||Group 09 Section 01 #215||Non-Sporting Group||Group 01 (Toys)||Group 06 - Non-Sporting||Toy||Toy||Companion Dog||[[File:Bichon Frisé - studdogbichon.jpg|200px]]
+|-
+|[[Billy (dog)|Billy]]||[[France]]||Group 06 Section 01 #025||||||||||||Scenthound||
+|-
+|[[Black and Tan Coonhound]]||[[United States]]||Group 06 Section 01 #300||Hound Group||||Group 02 - Hounds||||Hound||Scenthound||[[File:Black and Tan Coonhound.jpg|200px]]
+|-
+|[[Black and Tan Virginia Foxhound]]||[[United States]]||||||||||||||||
+|-
+|[[Black Norwegian Elkhound]]||[[Norway]]||Group 05 Section 02 #242,268||||Group 04 (Hounds)||||||Hounds||||[[File:Norwegian elkhound puppy.jpg|200px]]
+|-
+|[[Black Russian Terrier]]||[[Russia]]||Group 02 Section 01 #327||Working Group||Group 06 (Utility)||Group 03 - Working||Working||Utility||Guardian Dog||[[File:Czarny terier rosyjski 64.jpg|200px]]
+|-
+|[[Blackmouth Cur]]||[[United States]]||||||||||||||Scenthound||[[File:MurphysKassieBlackmouthAlabama2.jpg|200px]]
+|-
+|[[Grand Bleu de Gascogne|Bleu de Gascogne, Grand]]||[[France]]||Group 06 Section 01 #022||||||||||||Scenthound||[[File:Grand Bleu de Gascogne in a blue dogcollar.jpg|200px]]
+|-
+|[[Petit Bleu de Gascogne|Bleu de Gascogne, Petit]]||[[France]]||Group 06 Section 01 #031||||||||||||Scenthound||[[File:Mały gończy gaskoński Cita z Beckova Cb5.jpg|200px]]
+|-
+|[[Bloodhound]]||[[Belgium]], [[France]]||Group 06 Section 01 #084||Hound Group||Group 04 (Hounds)||Group 02 - Hounds||Hound||Hound||Scenthound||[[File:Bloodhound 800.jpg|200px]]
+|-
+|[[Blue Heeler]]||[[Australia]]||''see [[Australian Cattle Dog]]''||||||||||||||
+|-
+|[[Blue Lacy]]||[[United States]]||||||||||||||||[[File:BlueLacyPhoto1.jpg|200px]]
+|-
+|[[Blue Paul Terrier]]||[[United Kingdom]] ([[Scotland]])||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||
+|-
+|[[Bluetick Coonhound]]||[[United States]]||||Hound Group||Group 04 (Hounds)||||||Hound||Scenthound||[[File:BluetickCoonhound.jpg|200px]]
+|-
+|[[Boerboel]]||[[South Africa]]||||Working Group||||||||||Guardian Dog||[[File:Boerboel.jpg|200px]]
+|-
+|[[Bohemian Shepherd]]||[[Czech Republic]]||||||||||||||||[[File:IRLUKA KROSANDRA (1).jpg|200px]]
+|-
+|[[Bolognese (dog)|Bolognese]]||[[Italy]]||Group 09 Section 01 #196||FSS||||||Toy||Toy||Companion Dog||[[File:Bolończyk 5e3.jpg|200px]]
+|-
+|[[Border Collie]]||[[United Kingdom]] ([[Scotland]], [[England]], [[Wales]])||Group 01 Section 01 #297||Herding Group||Group 05 (Working Dogs)||Group 07 - Herding||Pastoral||Working||Herding Dog||[[File:Border Collie 600.jpg|200px]]
+|-
+|[[Border Terrier]]||[[United Kingdom]] ([[Scotland]], [[England]])||Group 03 Section 01 #010||Terrier Group||Group 02 (Terriers)||Group 04 - Terriers||Terrier||Terrier||Terrier||[[File:Border Terrier.jpg|200px]]
+|-
+|[[Borzoi]]||[[Russia]]||Group 10 Section 01 #193||Hound Group||Group 04 (Hounds)||Group 02 - Hounds||Hound||Hound||Sighthound and Pariah||[[File:Borzoi female.jpg|200px]]
+|-
+|[[Bosnian Coarse-haired Hound]]||[[Bosnia and Herzegovina]]||Group 06 Section 01 #155||||||||||||Scenthound||[[File:Gonic.jpg|200px]]
+|-
+|[[Boston Terrier]]||[[United States]]||Group 09 Section 8 #140||Non-Sporting Group||Group 07 (Non-Sporting)||Group 06 - Non-Sporting||Utility||Non Sporting||Companion Dog||[[File:BostonTerrierBrindleStand w.jpg|200px]]
+|-
+|[[Bouvier des Ardennes]]||[[Belgium]]||||||||||||||Herding Dog||[[File:Bouvier des Ardennes.JPG|200px]]
+|-
+|[[Bouvier des Flandres]]||[[Belgium]]||Group 01 Section 02 #191||Herding Group||Group 05 (Working Dogs)||Group 07 - Herding Dogs||Working||Working||Herding Dog||[[File:Bouvier.JPG|200px]]
+|-
+|[[Boxer (dog)|Boxer]]||[[Germany]]||Group 02 Section 02 #144||Working Group||Group 06 (Utility)||Group 03 - Working||Working||Utility||Guardian Dog||[[File:Boxer (dog).jpg|200px]]
+|-
+|[[Boykin Spaniel]]||[[United States]]||||Sporting Group||||||||||Gun Dog||[[File:Boykin spaniel.jpg|200px]]
+|-
+|[[Bracco Italiano]]||[[Italy]]||Group 07 Section 01 #202||FSS||||||Gundogs||Gundogs||Gun Dog||[[File:Umago.dei.Ronchi.JPG|200px]]
+|-
+|[[Braque d'Auvergne]]||[[France]]||Group 07 Section 01 #180||||||||||||Gun Dog||[[File:Braque d Auvergne.jpg|200px]]
+|-
+|[[Braque du Bourbonnais]]||[[France]]||Group 07 Section 01 #179||FSS||||||||||Gun Dog||[[File:Braque du Bourbonnais.jpg|200px]]
+|-
+|[[Braque du Puy]]||[[France]]||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||[[File:Dupuy Pointer from 1915.JPG|200px]]
+|-
+|[[Braque Francais]]||[[France]]||#133, 134||||||||||||||[[File:Wyżeł pirenejski 308.jpg|200px]]
+|-
+|[[Braque Saint-Germain]]||[[France]]||Group 07 Section 01 #115||||||||||||Gun Dog||[[File:Braque saint-germain 666.jpg|200px]]
+|-
+|[[Brazilian Dogo]]||[[Brazil]]||||||||||||||||[[File:Doguepelolongo.jpg|200px]]
+|-
+|[[Brazilian Terrier]]||[[Brazil]]||Group 03 Section 01 #341||||||||||||||[[File:Brazilian terrier.JPG|200px]]
+|-
+|[[Briard]]||[[France]]||Group 01 Section 01 #113||Herding Group||Group 05 (Working Dogs)||Group 07 - Herding Dogs||Pastoral||Working||Herding Dog||[[File:Briard fauve.JPG|200px]]
+|-
+|[[Briquet Griffon Vendéen]]||[[France]]||Group 06 Section 01 #019||||||||||||||[[File:Briquet Griffon Vendeen.jpg|200px]]
+|-
+|[[Brittany (dog)|Brittany]]||[[France]]||Group 07 Section 01 #095||Sporting Group||Group 03 (Gundogs)||Group 01 - Sporting Dogs||Gundog||Gundogs||Gun Dog||[[File:Epagneul Breton.jpg|200px]]
+|-
+|[[Broholmer]]||[[Denmark]]||Group 02 Section 02 #315||FSS||||||||||Guardian Dog||[[File:Ivarr03.JPG|200px]]
+|-
+|[[Bruno Jura Hound]]||[[Switzerland]], [[France]]||||||||||||||||[[File:09057110 Jura Laufhund.jpg|200px]]
+|-
+|[[Bucovina Shepherd Dog]]||[[Romania]]||Group 02 Section 02 #357 Provisional||||||||||||||[[File:Bucovina Sheepdog.jpg|200px]]
+|-
+|[[Bull and Terrier]]||[[United Kingdom]]||||||||||||||||[[File:Benjamin Marshall - Dustman - Bulldog and Terrier Mix.jpg|200px]]
+|-
+|[[Bull Terrier]]||[[United Kingdom]] ([[England]])||Group 03 Section 03 #011||Terrier Group||Group 02 (Terriers)||Group 04 - Terriers||Terrier||Terrier||Terrier||[[File:Bull Terrier Chico 10.jpg|200px]]
+|-
+|[[Bull Terrier (Miniature)]]||[[United Kingdom]] ([[England]])||Group 03 Section 03 #011b||Terrier Group||Group 02 (Terriers)||Group 04 - Terriers||Terrier||Terrier||Terrier||[[File:Bull terier i bull terier miniatura d46.jpg|200px]]
+|-
+|[[Bulldog]]||[[United Kingdom]] ([[England]])||Group 02 Section 02 #149||Non-sporting Group||Group 7 (Non-Sporting)||Group 06 - (Non-sporting)||Utility||Non Sporting||Companion Dog||[[File:Racibórz 2007 082.jpg|200px]]
+|-
+|[[Bullenbeisser]]||[[Germany]]||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||[[File:Bullenbeiser.jpg|200px]]
+|-
+|[[Bullmastiff]]||[[United Kingdom]] ([[England]])||Group 02 Section 02 #157||Working Group||Group 06 (Utility)||Group 03 - Working Dogs||Working||Utility||Guardian Dog||[[File:Brutus bullmastiff.jpg|200px]]
+|-
+|[[Bully Kutta]]||[[Pakistan]]||||||||||||||||[[File:PakistaniMastiffPunjab.jpg|200px]]
+|-
+|[[Burgos Pointer]]||[[Spain]]||||||||||||||Gun Dog||[[File:Burgos Pointer or Perdiguero de Burgos.JPG|200px]]
+|-
+|{{Anchor|C}}[[Cairn Terrier]]||[[United Kingdom]] ([[Scotland]])||Group 03 Section 02 #004||Terrier Group||Group 02 (Terriers)||Group 04 - Terriers||Terrier||Terrier||Terrier||[[File:Cairn-Terrier-Garten1.jpg|200px]]
+|-
+|[[Canaan Dog]]||[[Middle East]] [[Israel]]||Group 05 Section 06 #273||Herding Group||Group 07 (Nonsporting)||Group 03 - Working Dogs||Utility||Non Sporting||Sighthound and Pariah||[[File:CanaanDog3.jpg|200px]]
+|-
+|[[Canadian Eskimo Dog]]||[[Canada]]||||||Group 06 (Utility)||Working Dogs||Working||Utility||Northern Breed||[[File:Spoonsced.jpg|200px]]
+|-
+|[[Cane Corso]]||[[Italy]]||Group 02 Section 02 #343||Working Group||||||||Utility||Guardian Dog||[[File:Cane corso temi 2 1024x768x24.png|200px]]
+|-
+|[[Cantabrian Water Dog]]||[[Spain]]||||||||||||||||[[File:Kantauriar ur-txakurra1.jpg|200px]]
+|-
+|[[Cão da Serra de Aires]]||[[Portugal]]||Group 01 Section 01 #093||FSS||||||||||Herding Dog||[[File:Cao de Serra de Aires600.jpg|200px]]
+|-
+|[[Cão de Castro Laboreiro]]||[[Portugal]]||Group 02 Section 02 #170||||||||||||Guardian Dog||[[File:Cao de castro laboreiro.jpg|200px]]
+|-
+|[[Cão Fila de São Miguel]]||[[Portugal]]||Group 02 Section 02 #340||||||||||||||[[File:Caofila.jpg|200px]]
+|-
+|[[Carolina Dog]]||[[United States]]||||||||||||||Sighthound and Pariah||[[File:American Dingo aka Carolina Dog1.jpg|200px]]
+|-
+|[[Carpathian Shepherd Dog]]||[[Romania]]||Group 01 Section 01 #350 Provisional||||||||Pastoral||||Herding Dog||[[File:Carpatin.jpg|200px]]
+|-
+|[[Catahoula Cur]]||[[United States]]||||FSS||||||||||Herding Dog||[[File:Ch-Catahoula 002.jpg|200px]]
+|-
+|[[Catalan Sheepdog]]||[[Spain]]||Group 01 Section 01 #087||||||||||||||[[File:Gos d'Atura Català.JPG|200px]]
+|-
+|[[Caucasian Shepherd Dog]]||[[Georgia (country)|Georgia]], [[Armenia]], [[Azerbaijan]]||Group 02 Section 02 #328||FSS||||||||||Guardian Dog||[[File:CaucasianOvcharka-Julius.jpg|200px]]
+|-
+|[[Cavalier King Charles Spaniel]]||[[United Kingdom]] ([[England]])||Group 09 Section 06 #136||Toy Group||Group 01 (Toys)||Group 05 - Toys||Toy||Toy||Companion Dog||[[File:Miss Betty.jpg|200px]]
+|-
+|[[Central Asian Shepherd Dog]]||[[Russia]]||Group 02 Section 02 #335||FSS||||||||Utility||Guardian Dog||[[File:Centralasianovcharka.jpg|200px]]
+|-
+|[[Cesky Fousek]]||[[Czech Republic]]||Group 07 Section 01 #245||||||||||Gundogs||Gun Dog||[[File:Czeski fousek 777.jpg|200px]]
+|-
+|[[Cesky Terrier]]||[[Czech Republic]]||Group 03 Section 02 #246||Terrier Group||Group 02 (Terriers)||Group 04 - Terriers||Terrier||Terrier||Terrier||[[File:Cesky-Terier.jpg|200px]]
+|-
+|[[Chesapeake Bay Retriever]]||[[United States]]||Group 08 Section 01 #263||Sporting Group||Group 03 (Gundogs)||Group 01 - Sporting Dogs||Gundog||Gundogs||Gun Dog||[[File:CH Chesapeake.jpg|200px]]
+|-
+|[[Chien Français Blanc et Noir]]||[[France]]||Group 06 Section 01 #220||||||||||||Scenthound||
+|-
+|[[Chien Français Blanc et Orange]]||[[France]]||Group 06 Section 01 #316||||||||||||Scenthound||
+|-
+|[[Chien Français Tricolore]]||[[France]]||Group 06 Section 01 #219||||||||||||Scenthound||[[File:MeuteBourbansais.jpg|200px]]
+|-
+|[[Chien-gris]]||[[France]]||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||[[File:Gris De Saint-Louis from 1915.JPG|200px]]
+|-
+|[[Chihuahua (dog)|Chihuahua]]||[[Mexico]]||Group 09 Section 09 #218||Toy Group||Group 01 (Toys)||Group 05—Toys||Toy||Toy||Companion Dog||[[File:Chihuahua1 bvdb.jpg|200px]]
+|-
+|[[Chilean Fox Terrier]]||[[Chile]]||||||||||||||||[[File:Fox terrier chileno.JPG|200px]]
+|-
+|[[Chinese Chongqing Dog]]||[[China]]||||||||||||||||[[File:Sichuan-chongqing, han orientali, molosso, II sec, 02.JPG|200px]]
+|-
+|[[Chinese Crested Dog]]||[[China]]||Group 09 Section 04 #288||Toy Group||Group 01 (Toys)||Group 05—Toys||Toy||Toy||Companion Dog||[[File:IndyStands.jpg|200px]]
+|-
+|[[Chinese Imperial Dog]]||[[China]]||||||||||||||||[[File:Chinese Imperial Dog.jpg|200px]]
+|-
+|[[Chinook (dog)|Chinook]]||[[United States]]||||Working Group||||||||||Northern Breed||[[File:Mountan Laurel Ajax the Chinook dog.jpg|200px]]
+|-
+|[[Chippiparai]]||[[India]]||||||||||||||Sight hound||[[File:Female Chippiparai sitting.jpg|200px]]
+|-
+|[[Chow Chow]]||[[China]]||Group 05 Section 05 #205||Non-Sporting Group||Group 07 (Non-sporting)||Group 06 Non-sporting||Utility||Non Sporting||Northern Breed||[[File:ChowChow2Szczecin.jpg|200px]]
+|-
+|[[Cierny Sery]]||[[Slovakia]]||Group canpanion dog|||||||||||||||[[File:8s45heryprobaobraz 018.jpg|200px]]
+|-
+|[[Cirneco dell'Etna]]||[[Italy]]||Group 05 Section 07 #199||Hound Group||||||Hound||||||[[File:Cirneco dell Etna 611.jpg|200px]]
+|-
+|[[Clumber Spaniel]]||[[United Kingdom]] ([[England]])||Group 08 Section 02 #109||Sporting Group||Group 03 (Gundogs)||Group 01 - Sporting Dogs||Gundog||Gundogs||Gun Dog||[[File:Clumber spaniel 767.jpg|200px]]
+|-
+|[[Rough Collie|Collie, Rough]]||[[United Kingdom]] ([[Scotland]])||Group 01 Section 01 #156||Herding Group||Group 05 (Working dogs)||Group 07 - Herding dogs||Pastoral||Working||Herding Dog||[[File:Rough Collie 600.jpg|200px]]
+|-
+|[[Smooth Collie|Collie, Smooth]]||[[United Kingdom]] ([[Scotland]])||Group 01 Section 01 #296||Herding Group||Group 05 (Working dogs)||Group 07 - Herding dogs||Pastoral||Working||Herding Dog||[[File:SmoothCollieTri2 wb.jpg|200px]]
+|-
+|[[Combai]]||[[India]]||||||||||||||Sight hound and Bear hound||[[File:Combai dog.jpg|200px]]
+|-
+|[[Cordoba Fighting Dog]]||[[Argentina]]||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||[[File:Cordoba profile.jpg|200px]]
+|-
+|[[Coton de Tulear]]||[[Madagascar]]||Group 09 Section 01 #283||Non-Sporting Group||FSS||Toy||Toy||||Companion Dog||[[File:Coton de Tular 1.jpg|200px]]
+|-
+|[[Cretan Hound]]||[[Greece]]||||||||||||||||[[File:Kritikosichnilatis 1.jpg|200px]]
+|-
+|[[Croatian Sheepdog]]||[[Croatia]]||Group 01 Section 01 #277||||||||||||Herding Dog||[[File:Gera062005sed.jpg|200px]]
+|-
+|[[Cumberland Sheepdog]]||[[United Kingdom]] ([[England]])||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||
+|-
+|[[Curly Coated Retriever]]||[[United Kingdom]] ([[England]])||Group 08 Section 01 #110||Sporting Group||||Group 01 - Sporting||Gundogs||Gundogs||Gun Dog||[[File:Curly Coated Retriever.jpg|200px]]
+|-
+|[[Cursinu]]||[[Corsica]] ([[France]])|| || || || || || || ||[[File:Cursinu 1.jpg|200px]]
+|-
+|[[Czechoslovak Wolfdog]]||[[Czechoslovakia]]||Group 01 Section 01 #332 Hunting group||FSS||||||||||||[[File:TWH-jolly.JPG|200px]]
+|-
+|{{Anchor|D}}[[Dachshund]]||[[Germany]]||Group 04 Section 01 #148||Hound Group||Group 04 (Hounds)||||||Hound||Scenthound||[[File:Short-haired-Dachshund.jpg|200px]]
+|-
+|[[Dalmatian (dog)|Dalmatian]]||[[Croatia]]||Group 06 Section 03 #153||Non-Sporting Group||Group 07 (Non-Sporting)||Group 06 (Non-Sporting)||Utility||Non Sporting||Companion Dog||[[File:Dalmatian liver stacked.jpg|200px]]
+|-
+|[[Dandie Dinmont Terrier]]||[[United Kingdom]] ([[Scotland]])||Group 03 Section 02 #168||Terrier Group||Group 02 (Terriers)||Group 04 - Terriers||Terrier||Terrier||Terrier||[[File:Dandie Dinmont Terrier 600.jpg|200px]]
+|-
+|[[Danish Swedish Farmdog]]||[[Denmark]], [[Sweden]]||Group 02 Section 01 #356 Provisional||FSS||||||||||||[[File:Danish Swedish Farmdog.jpg|200px]]
+|-
+|[[Decker Rat Terrier]]||[[United States]]||||||||||||||||[[File:BriarBey Decker Terrier.jpg|200px]]
+|-
+|[[Deutsche Bracke]]||[[Germany]]||Group 06 Section 01 #299||||||||||||||[[File:DeutscheBracke.jpg|200px]]
+|-
+|[[Doberman Pinscher]]||[[Germany]]||Group 02 Section 01 #143||Working Group||Group 06 (Utility)||Group 03 - Working Dogs||Working||Utility||Guardian Dog||[[File:European Dobermann.jpg|200px]]
+|-
+|[[Dogo Argentino]]||[[Argentina]] ||Group 02 Section 02 #292||FSS (Miscellaneous)||||||||||Guardian Dog ||[[File:Dogo.jpg|200px]]
+|-
+|[[Dogo Cubano]]||[[Cuba]]||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||[[File:DogoCubano2.jpg|200px]]
+|-
+|[[Dogue de Bordeaux]]||[[France]]|||Group 02 Section 02 #116||Working Group||Group 6 (Utility)||||Working||Utility||Guardian Dog||[[File:Dogo de Burdeos.jpg|200px]]
+|-
+|[[Drentse Patrijshond]]||[[Netherlands]]||Group 07 Section 01 #224||FSS||||||||||Gun Dog||[[File:Drentse Patrijshond.jpg|200px]]
+|-
+|[[Drever]]||[[Sweden]]||Group 06 Section 01 #130||||||Canadian Kennel Club Group 02||||||Scenthound||[[File:Drever NUCh Tanjo.jpg|200px]]
+|-
+|[[Dunker]]||[[Norway]]||Group 06 Section 01 #203||||||||||||Scenthound||[[File:Dunker.jpg|200px]]
+|-
+|[[Dutch Shepherd Dog]]||[[Netherlands]]||Group 01 Section 01 #223||FSS||||||||||Herding Dog||[[File:Hollandse herder ruwhaar.jpg|200px]]
+|-
+|[[Dutch Smoushond]]||[[Netherlands]]||Group 02 Section 01 #308||||||||||||Terrier||[[File:Hollandsche smoushonden 2.JPG|200px]]
+|-
+|{{Anchor|E}}[[East Siberian Laika]]||[[Russia]]||Group 05 Section 02 #305||||||||||||||[[File:East Siberian Laika.jpg|200px]]
+|-
+|[[East-European Shepherd]]||[[Russia]]||||||||||||||||[[File:Owczarek wschodnioeuropejski MB 01.jpg|200px]]
+|-
+|[[Elo (dog)|Elo]]||[[Germany]]||||||||||||||||[[File:Elo.jpg|200px]]
+|-
+|[[English Cocker Spaniel]]||[[United Kingdom]] ([[England]])||Group 08 Section 02 #005||Sporting Group||Group 03 (Gundogs)||Group 01 - Sporting Dogs||Gundog||Gundog||Gun Dog||[[File:EnglishCockerSpaniel wb.jpg|200px]]
+|-
+|[[American English Coonhound]]||[[United States]]||||Hound Group||||||||||Scenthound||[[File:English Coonhound.jpg|200px]]
+|-
+|[[English Foxhound]]||[[United Kingdom]] ([[England]])||Group 06 Section 01 #159||Hound Group||Group 04 (Hounds)||Group 02 - Hounds||Hound||Hound||Scenthound||[[File:English Foxhound portrait.jpg|200px]]
+|-
+|[[English Mastiff]]||[[United Kingdom]] ([[England]])||Group 02 Section 02 #264||Working Group||Group 06 (Utility)||Group 03 - Working||Working||Utility||Guardian Dog||[[File:EnglishMastiffChurchill.JPG|200px]]
+|-
+|[[English Setter]]||[[United Kingdom]] ([[England]])||Group 07 Section 02 #002||Sporting Group||Group 03 (Gundogs)||Group 01 - Sporting Dogs||Gundog||Gundogs||Gun Dog||[[File:EnglishSetter9 fx wb.jpg|200px]]
+|-
+|[[English Shepherd]]||[[United States]]||||||||||||||Herding Dog||[[File:TricolorEnglishShepherdDog.jpg|200px]]
+|-
+|[[English Springer Spaniel]]||[[United Kingdom]] ([[England]])||Group 08 Section 02 #125||Sporting Group||Group 03 (Gundogs)||Group 01 - Sporting Dogs||Gundog||Gundogs||Gun Dog||[[File:English-Springer-Spaniel show.jpg|200px]]
+|-
+|[[English Toy Terrier (Black & Tan)]]||[[United Kingdom]] ([[England]])||Group 03 Section 04 #013||||Toy||||Toy||Toy||||[[File:English Toy Terrier 600 01.jpg|200px]]
+|-
+|[[English Water Spaniel]]||[[United Kingdom]]||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||[[File:English Water Spaniel.jpg|200px]]
+|-
+|[[English White Terrier]]||[[United Kingdom]]||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||[[File:Old English White Terrier.jpg|200px]]
+|-
+|[[Entlebucher Mountain Dog]]||[[Switzerland]]||Group 02 Section 03 #047||Herding Group||||Group 03 - Working Dogs||Working||||Guardian Dog||[[File:Elio v Schaerlig im Juni 2007 klein.jpg|200px]]
+|-
+|[[Épagneul Bleu de Picardie]]||[[France]]||Group 07 Section 01 #106||||||Group 01 - Sporting||||||Gun Dog||[[File:Epagneul bleu de picardie 868.jpg|200px]]
+|-
+|[[Estonian Hound]]||[[Estonia]]||||||||||||||||[[File:Gończy estoński MB 01.jpg|200px]]
+|-
+|[[Estrela Mountain Dog]]||[[Portugal]]||Group 02 Section 02 #173||FSS||||||Pastoral||Utility||Guardian Dog||[[File:Estrela Mountain Dog 6 month old male.jpg|200px]]
+|-
+|[[Eurasier]]||[[Germany]]||Group 05 Section 05 #291||FSS||Group 07 (Non-Sporting)||Group 03 - Working Dogs||Utility||Non Sporting||Northern Breed||[[File:Eurasier Image 001.jpg|200px]]
+|-
+|{{Anchor|F}}[[Field Spaniel]]||[[United Kingdom]] ([[England]])||Group 08 Section 02 #123||Sporting Group||Group 03 (Gundogs)||Group 01 - Sporting Dogs||Gundog||Gundogs||Gun Dog||[[File:Field spaniel 581.jpg|200px]]
+|-
+|[[Fila Brasileiro]]||[[Brazil]]||Group 02 Section 02 #225||||||||||Utility||||[[File:Fila brasileiro ppk9.jpg|200px]]
+|-
+|[[Finnish Hound]]||[[Finland]]||Group 06 Section 01 #051||||||||||||Scenthound||[[File:Nuori-suomenajokoira.jpg|200px]]
+|-
+|[[Finnish Lapphund]]||[[Finland]]||Group 05 Section 03 #189||Herding Group||Group 05 (Working Dogs)||Group 07||Pastoral||Working||Northern Breed||[[File:Finnish Lapphund Glenchess Revontuli.jpg|200px]]
+|-
+|[[Finnish Spitz]]||[[Finland]]||Group 05 Section 02 #049||Non-Sporting Group||Group 04 (Hounds)||Group 02 - Hounds||Hound||Hound||Northern Breed||[[File:Finnish Spitz 600.jpg|200px]]
+|-
+|[[Flat-Coated Retriever]]||[[United Kingdom]]||Group 08 Section 01 #121||Sporting Group||Group 03 (Gundogs)||Group 01 - Sporting Dogs||Gundog||Gundogs||Gun Dog||[[File:Flat Coated Retriever - black.jpg|200px]]
+|-
+|[[Fox Terrier (Smooth)]]||[[United Kingdom]] ([[England]])||Group 03 Section 01 #012||Terrier Group||Group 02 (Terriers)||Group 04 - Terriers||Terrier||Terrier||Terrier||[[File:Patrick the Smooth Fox Terrier.jpg|200px]]
+|-
+|[[Wire Fox Terrier|Fox Terrier, Wire]]||[[United Kingdom]] ([[England]])||Group 03 Section 01 #169||Terrier Group||Group 02 (Terriers)||Group 04 - Terriers||Terrier||Terrier||Terrier||[[File:Elias1červen2006.jpg|200px]]
+|-
+|[[French Brittany (dog)|French Brittany]]||[[France]]||Group 07 Section 01||||||||||||||[[File:Timba arret.jpg|200px]]
+|-
+|[[French Bulldog]]||[[United Kingdom]] ([[England]]), [[France]]||Group 09 Section 8 #101||Non-Sporting Group||Group 07 (Non-Sporting)||Group 06 - Non-Sporting||Utility||Non Sporting||Companion Dog||[[File:Tiger the French Bulldog.jpg|200px]]
+|-
+|[[French Spaniel]]||[[France]]||Group 07 Section 01 #175||FSS||||Group 01 (Sporting)||||||Gun Dog||[[File:04031137 Epagneul Francais.jpg|200px]]
+|-
+|{{Anchor|G}}[[Gaddi Kutta|Gaddi Dog]]||[[Pakistan]]||||||||||||||||
+|-
+|[[Galgo Español]]||[[Spain]]||Group 10 Section 03 #285||||||||||||Sighthound and Pariah||[[File:Galgo espagnol Hembra.jpg.jpg|200px]]
+|-
+|[[Can de Palleiro|Galician Cattle Dog]]||[[Spain]]||||||||||||||||[[File:Palleiro1.JPG|200px]]
+|-
+|[[Garafía Shepherd Dog]]||[[Spain]]||||||||||||||||[[File:Garafiano2.jpg|200px]]
+|-
+|[[Gascon Saintongeois]]||[[France]]||Group 06 Section 01 #21||||||||||||Scenthound||[[File:Virelade from 1915.JPG|200px]]
+|-
+|[[Georgian Shepherd Dog]]||[[Georgia (country)|Georgia]]||||||||||||||Guardian Dog||[[File:Georgia Shepherd.jpg|200px]]
+|-
+|[[German Longhaired Pointer]]||[[Germany]]||||FSS||FSS||Group 01 (Sporting)||||Gundogs||Gun Dog||[[File:DeutschLanghaarneu.jpg|200px]]
+|-
+|[[German Pinscher]]||[[Germany]]||Group 02 Section 01 #184||Working Group||Group 06 (Utility)||Group 06 - Non-Sporting||Working||Utility||Terrier||[[File:German Pinscher.JPG|200px]]
+|-
+|[[German Rough-haired Pointer]]||[[Germany]]||||||||||||||Gun Dog||[[File:03030288 Deutsch Stichelhaa.jpg|200px]]
+|-
+|[[German Shepherd Dog]]||[[Germany]]||Group 01 Section 01 #166||Herding Group||Group 05 (Working Dogs)||Group 07 - Herding Dogs||Pastoral||Working||Herding Dog||[[File:Berger allemand en montagne.jpg|200px]]
+|-
+|[[German Shorthaired Pointer]]||[[Germany]]||Group 07 Section 01 #119||Sporting Group||Group 03 (Gundogs)||Group 01 - Sporting Dogs||Gundog||Gundogs||Gun Dog||[[File:Duitse staande korthaar 10-10-2.jpg|200px]]
+|-
+|[[German Spaniel]]||[[Germany]]||Group 08 Section 02 #104||FSS||||||||||Gun Dog||[[File:Deutscher Wachtel 2.jpg|200px]]
+|-
+|[[German Spitz]]||[[Germany]]||Group 05 Section 04 #097||FSS||Group 07 (Non Sporting)||||Utility||Non Sporting||Northern Breed||[[File:Un chien Spitz allemand.jpg|200px]]
+|-
+|[[German Wirehaired Pointer]]||[[Germany]]||Group 07 Section 01 #098||Sporting Group||Group 03 (Gundogs)||Group 01 - Sporting Dogs||Gundog||Gundogs||Gun Dog||[[File:GermanWirehrPtr1 wb.jpg|200px]]
+|-
+|[[Giant Schnauzer]]||[[Germany]]||Group 02 Section 01 #181||Working Group||Group 06 (Utility)||Group 03 - Working Dogs||Working||Utility||Herding Dog||[[File:GiantSchnauzer.jpg|200px]]
+|-
+|[[Glen of Imaal Terrier]]||[[Ireland]]||Group 03 Section 01 #302||Terrier Group||Group 02 (Terriers)||||Terrier||Terrier||Terrier||[[File:Wheaten glen of imaal.jpg|200px]]
+|-
+|[[Golden Retriever]]||[[United Kingdom]] ([[Scotland]])||Group 08 Section 01 #111||Sporting Group||Group 03 (Gundogs)||Group 01 - Sporting Dogs||Sporting Dog||Gundogs||Gun Dog||[[File:Golden Retriever standing Tucker.jpg|200px]]
+|-
+|[[Gordon Setter]]||[[United Kingdom]] ([[Scotland]])||Group 07 Section 02 #006||Sporting Group||Group 03 (Gundogs)||Group 01 - Sporting Dogs||Gundog||Gundogs||Gun Dog||[[File:Orrvilas enska w800px.jpg|200px]]
+|-
+|[[Gran Mastín de Borínquen]]||[[Puerto Rico]]||||||||||||||||
+|-
+|[[Grand Anglo-Français Blanc et Noir]]||[[France]]||Group 06 Section 02 #323||||||||||||Scenthound||[[File:Grand anglo francais noir.jpg|200px]]
+|-
+|[[Grand Anglo-Français Blanc et Orange]]||[[France]]||Group 06 Section 02 #324||||||||||||Scenthound||[[File:06101298 Grand anglo francais orange.jpg|200px]]
+|-
+|[[Grand Anglo-Français Tricolore]]||[[France]]||Group 06 Section 02 #322||||||||||||Scenthound||[[File:Grand anglo francais tricol.jpg|200px]]
+|-
+|[[Grand Griffon Vendéen]]||[[France]]||Group 06 Section 01 #282||||||||||||||[[File:Rosa Bonheur Grand Griffon Vendeen.jpg|200px]]
+|-
+|[[Great Dane]]||[[Germany]]||Group 02 Section 02 #235||Working Group||||||Working||Non Sporting||Guardian Dog||[[File:Kehleyr1.jpg|200px]]
+|-
+|[[Great Pyrenees]]||[[France]], [[Spain]]||Group 02 Section 02 #137||Working Group||Group 06 (Utility)||Group 03 - Working Dogs||Pastoral||Utility||Guardian Dog||[[File:Pyreneittenkoira.jpg|200px]]
+|-
+|[[Greater Swiss Mountain Dog]]||[[Switzerland]]||Group 02 Section 03 #058||Working Group||||Working||||||Guardian Dog||[[File:Duży szwajcarski pies pasterski 72.jpg|200px]]
+|-
+|[[Greek Harehound]]||[[Greece]]||Group 06 Section 1.2 #214||||||||||||[http://www.ukcdogs.com/WebSite.nsf/Breeds/HellenicHoundRevisedJuly12009?OpenDocument&Click= Scenthound Group]||[[File:Hellinikos Ichnilatis.jpg|200px]]
+|-
+|[[Greenland Dog]]||[[Greenland]]||Group 05 Section 01 #274||||||Group 03 - Working Dogs||Working||||Northern Breed||[[File:Greenland Dog.jpg|200px]]
+|-
+|[[Greyhound]]||[[United Kingdom]], [[Middle East]]||Group 10 Section 03 #158||Hound Group||Group 04 (Hounds)||Group 02 - Hounds||Hound||Hound||Sighthound and Pariah||[[File:GraceTheGreyhound.jpg|200px]]
+|-
+|[[Griffon Bleu de Gascogne]]||[[France]]||Group 06 Section 01 #032||||||||||||Scenthound||[[File:04031124 Griffon Bleu de Gascogne.jpg|200px]]
+|-
+|[[Griffon Bruxellois]]||[[Belgium]]||Group 09 Section 03 #080,081,082||Toy Group||Group 01 (Toy)||Group 05(Toy)||Toy||Toy||Companion Dog||[[File:Brussels Griffon Rembrant.png|200px]]
+|-
+|[[Griffon Fauve de Bretagne]]||[[France]]||Group 06 Section 01 #066||||||||||||Scenthound||[[File:08115500 Griffon Fauve Bretagne.jpg|200px]]
+|-
+|[[Griffon Nivernais]]||[[France]]||Group 06 Section 01 #017||||||||||||Scenthound||[[File:Griffon nivernais.jpg|200px]]
+|-
+|[[Guatemalan Dogo]]||[[Guatemala]]||||||||||||||||[[File:Dogo1.jpg|200px]]
+|-
+|-
+|[[Gull Terrier]]||[[Pakistan]]||||||||||||||||[[File:Gull terr in india owned by Sahil thakur 2014-05-29 17-44.jpeg|200px]]
+|-
+|{{Anchor|H}}[[Hamiltonstövare]]||[[Sweden]]||Group 06 Section 01 #132||||Group 04 (Hounds)||||Hound||Hound||Scenthound||[[File:Hamiltonstovare 600.jpg|200px]]
+|-
+|[[Hanover Hound]]||[[Germany]]||Group 06 Section 02 #213||||||||||||Scenthound||[[File:Hannoverscher Schweisshund.jpg|200px]]
+|-
+|[[Hare Indian Dog]]||[[Canada]], [[United States]]||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||[[File:Hareindiandog.jpg|200px]]
+|-
+|[[Harrier (dog)|Harrier]]||[[United Kingdom]]||Group 06 Section 01 #295||Hound Group||Group 04 (Hounds)||Group 02 (Hounds)||||Hound||Scenthound||[[File:Harrier tricolour.jpg|200px]]
+|-
+|[[Havanese]]||[[Mediterranean|Western Mediterranean Region]]||Group 09 Section 01 #250||Toy Group||Group 01 (Toys)||Group 05 — Toys||Toy||Toy||Companion Dog||[[File:Havanese cd1.jpg|200px]]
+|-
+|[[Hawaiian Poi Dog]]||[[United States]]||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||[[File:Hawaiian dog, 19th century.png|200px]]
+|-
+|[[Himalayan Sheepdog]]||[[Nepal]]||||||||||||||||[[File:Jackie Himalayan Shephard.jpg|200px]]
+|-
+|[[Hokkaido (dog)|Hokkaido Ken]]||[[Japan]]||Group 05 Section 05 #261||||||||||||Northern Breed||[[File:Hokkaidou inu.jpg|200px]]
+|-
+|[[Hortaya Borzaya]]||[[Ukraine]], [[Russia|Southern Russia]], [[Belarus]]||||||||||||||||[[File:Hortaya Borzaya.jpg|200px]]
+|-
+|[[Hovawart]]||[[Germany]]||Group 02 Section 02 #190||FSS||FSS||Group 02 - Working||Working||||Guardian Dog||[[File:Hovawart black and tan.jpg|200px]]
+|-
+|[[Huntaway]]||[[New Zealand]]||||||||||||||||[[File:Huntaway.JPG|200px]]
+|-
+|[[Hygenhund]]||[[Norway]]||||||||||||||||[[File:Norwegian Hygenhound.jpg|200px]]
+|-
+|{{Anchor|I}}[[Ibizan Hound]]||[[Spain]]||Group 05 Section 07 #089||Hound Group||Group 04 (Hounds)||Group 02 - Hounds||Hound||Hound||Sighthound and Pariah||[[File:Podenco z ibizy 645.jpg|200px]]
+|-
+|[[Icelandic Sheepdog]]||[[Iceland]]||Group 05 Section 03 #289||Herding Group||||Group 07 - Herding||||Working||Northern Breed||[[File:Ulfur.jpg|200px]]
+|-
+|[[Indian pariah dog]]||[[India]]||||||||||||||||[[File:The Indian Pariah Dog.jpg|200px]]
+|-
+|-
+|[[Indian Spitz]]||[[India]]||||||||||||||||[[File:Greater indian spitz.jpg|200px]]
+|-
+|[[Irish Red and White Setter]]||[[Ireland]]||Group 07 Section 02 #330||Sporting Group||Group 03 (Gundogs)||Group 01 - Sporting Dogs||Gundog||Gundogs||Gun Dog||[[File:Irish Red And White Setter 2005.jpg|200px]]
+|-
+|[[Irish Setter]]||[[Ireland]]||Group 07 Section 02 #120||Sporting Group||Group 03 (Gundogs)||Group 01 - Sporting Dogs||Gundog||Gundogs||Gun Dog||[[File:Can Setter dog GFDL.jpg|200px]]
+|-
+|[[Irish Terrier]]||[[Ireland]]||Group 03 Section 01 #139||Terrier Group||Group 02 (Terriers)||Group 04 - Terrier||Terrier||Terrier||Terrier||[[File:Irish-terrier.jpg|200px]]
+|-
+|[[Irish Water Spaniel]]||[[Ireland]]||Group 08 Section 03 #124||Sporting Group||Group 03 (Gundogs)||Group 01 - Sporting Dogs||Gundog||Gundogs||Gun Dog||[[File:Irlandzki spaniel wodny 676.jpg|200px]]
+|-
+|[[Irish Wolfhound]]||[[Ireland]]||Group 10 Section 02 #160||Hound Group||Group 04 (Hound)||Group 02 (Hound)||Hound||Hound||Sighthound and Pariah||[[File:Irish Wolfhound Sam.jpg|200px]]
+|-
+|[[Istrian Coarse-haired Hound]]||[[Croatia]]||Group 06 Section 01 #152||||||||||||Scenthound||[[File:Istrian hound2.jpg|200px]]
+|-
+|[[Istrian Shorthaired Hound]]||[[Croatia]]||Group 06 Section 01 #151||||||||||||Scenthound||[[File:Istrische Bracke.jpg|200px]]
+|-
+|[[Italian Greyhound]]||[[Italy]]||Group 10 Section 03 #200||Toy Group||Group 01 (Toys)||Group 05 - Toys||Toy||Toy||Companion Dog||[[File:Italian Greyhound standing gray.jpg|200px]]
+|-
+|{{Anchor|J}}[[Jack Russell Terrier]]||[[United Kingdom]] ([[England]])||Group 03 Section 02 #345||||Group 2 (Terriers)||||||Terrier||Terrier||[[File:Jrt02.jpg|200px]]
+|-
+|[[Jagdterrier]]||[[Germany]]||Group 03 Section 01 #103||FSS||||||||||Terrier||[[File:Jagdterrier.jpg|200px]]
+|-
+|[[Jämthund]]||[[Sweden]]||Group 05 Section 02 #042||||||||||||Northern Breed||[[File:Jämthund.jpg|200px]]
+|-
+|[[Japanese Chin]]||[[Japan]]||Group 09 Section 07 #206||Toy Group||Group 01 (Toys)||Group 05 (Toys)||Toy||Toy||Companion Dog||[[File:Czin japoński 554.jpg|200px]]
+|-
+|[[Japanese Spitz]]||[[Japan]]||Group 05 Section 05 #262||||7 (Non-Sporting)||VI, Non-Sporting||Utility||Non Sporting||Northern Breed||[[File:Japspitzpup.jpg|200px]]
+|-
+|[[Japanese Terrier]]||[[Japan]]||Group 03 Section 02 #259||||||||||||||
+|-
+|{{Anchor|K}}[[Kaikadi (dog)|Kaikadi]]||[[India]]||||||||||||||||
+|-
+|[[Kai Ken]]||[[Japan]]||Group 05 Section 05 #317||FSS||||||||||Northern Breed||[[File:Kai.jpg|200px]]
+|-
+|[[Kangal Dog]]||[[Turkey]]||||||Group 06 (Utility)||||Pastoral||Utility||Guardian Dog||[[File:Varish.jpg|200px]]
+|-
+|[[Kanni]]||[[India]]|||||||||||||||||[[File:Kanni.png|200px]]
+|-
+|[[Karakachan Dog]]||[[Bulgaria]]||||||||||||||||[[File:Karakatschan.jpg|200px]]
+|-
+|[[Karelian Bear Dog]]||[[Finland]]||Group 05 Section 02 #048||FSS||||Group 03 - Working Dogs||||||Northern Breed||[[File:Karelski pies na niedźwiedzie 123.jpg|200px]]
+|-
+|[[Karst Shepherd]]||[[Slovenia]]||Group 02 Section 02 #278||||||||||||Guardian Dog||[[File:Owczarek kraski 654.jpg|200px]]
+|-
+|[[Keeshond]]||[[Netherlands]], [[Germany]]||Group 05 Section 04 #097||Non-Sporting Group||Group 07 (Non-sporting)||Group 06 (Non-sporting)||Utility||Non Sporting||Northern Breed||[[File:Keeshond Majic standing cropped.jpg|200px]]
+|-
+|[[Kerry Beagle]]||[[Ireland]]||||||||||||||||[[File:Kerry Beagle from 1915.JPG|200px]]
+|-
+|[[Kerry Blue Terrier]]||[[Ireland]]||Group 03 Section 01 #003||Terrier Group||Group 02 (Terriers)||Group 04 - Terriers||Terrier||Terrier||Terrier||[[File:Kerry blue terier 545.jpg|200px]]
+|-
+|[[King Charles Spaniel]]||[[United Kingdom]] ([[England]])||Group 09 Section 06 #128||Toy Group||Group 01 Toys||Group 05 - Toys||Toy||Toy||Companion Dog||[[File:King Charles Spaniel 200.jpg|200px]]
+|-
+|[[King Shepherd]]||[[United States]]||||||||||||||||[[File:SabreKingShepherd.JPG|200px]]
+|-
+|[[Kintamani (dog)|Kintamani]]||[[Indonesia]]||||||||||||||||[[File:Kintamani dog black.jpg|200px]]
+|-
+|[[Kishu|Kishu Ken]]||[[Japan]]||Group 05 Section 05 #318||FSS||||||||||Northern Breed||[[File:Kishu.jpg|200px]]
+|-
+|[[Komondor]]||[[Hungary]]||Group 01 Section 01 #053||Working Group||Group 05 (Working Dogs)||Group 03 - Working Dogs||Pastoral||Working||Guardian Dog||[[File:Komondor delvin.jpg|200px]]
+|-
+|[[Kooikerhondje]]||[[Netherlands]]||Group 08 Section 02 #314||FSS (Miscellaneous)||||||Gundog||||Gun Dog||[[File:Kooiker03.jpg|200px]]
+|-
+|[[Koolie]]||[[Australia]]||||||||||||||||[[File:Pete may01 web.JPG|200px]]
+|-
+|[[Korean Jindo Dog]]||[[South Korea|Korea (South)]]||Group 05 Section 05 #334||FSS||||||||||Northern Breeds||[[File:Korean Jindo Dog.jpg|200px]]
+|-
+|[[Kromfohrländer]]||[[Germany]]||Group 09 Section 11 #192||FSS||||||||||Companion Dog||[[File:Kromfohrlaender glatt.jpg|200px]]
+|-
+|[[Kumaon Mastiff]]||[[India]]||||||||||||||||
+|-
+|[[Kunming Wolfdog]]||[[China]]||||||||||||||||[[File:Kunming Dog.jpg|200px]]
+|-
+|[[Kurī]]||[[New Zealand]]||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||[[File:ChiefsWithKuri1828.jpg|200px]]
+|-
+|[[Kuvasz]]||[[Hungary]]||Group 01 Section 01 #054||Working Group||Group 05 (Working Dogs)||Group 03 - Working Dogs||Pastoral||Working||Guardian Dog||[[File:Kuvasz Prince Juninho Poster.jpg|200px]]
+|-
+|[[Kyi-Leo]]||[[United States]]||||||||||||||||[[File:KyiLeoGus.jpg|200px]]
+|-
+|{{Anchor|L}}[[Labrador Husky]]||[[Canada]]||||||||||||||||[[File:Labrador huskies.JPG|200px]]
+|-
+|[[Labrador Retriever]]||[[Canada]], [[United Kingdom]] ([[England]])||Group 08 Section 01 #122||Sporting Group||Group 03 (Gun dogs)||Group 01 — Sporting Dogs||Gun dog||Gundogs||Gun Dog||[[File:YellowLabradorLooking new.jpg|200px]]
+|-
+|[[Lagotto Romagnolo]]||[[Italy]]||Group 08 Section 03 #298||Sporting Group||||Group 03 Gundogs||Gundogs||Gundogs||Gun Dog||[[File:Lagotto Romagnolo.jpg|200px]]
+|-
+|[[Lakeland Terrier]]||[[United Kingdom]] ([[England]])||Group 03 Section 01 #070||Terrier Group||Group 02 (Terriers)||Group 04 - Terrier||Terrier||Terrier||Terrier||[[File:Lakeland Terrier.jpg|200px]]
+|-
+|[[Lancashire Heeler]]||[[United Kingdom]] ([[England]])||||FSS||||||Pastoral||||||[[File:Lancashire Heeler 600.jpg|200px]]
+|-
+|[[Landseer (dog)|Landseer]]||[[Canada]]||Group 02 Section 02 #226||||||||||||||[[File:Landseer.jpg|200px]]
+|-
+|[[Lapponian Herder]]||[[Finland]]||Group 05 Section 03 #284||||||||||||Herding Dog||[[File:Lapskvallhund.jpg|200px]]
+|-
+|[[Leonberger]]||[[Germany]]||Group 02 Section 02 #145||Working Group||Group 06 (Utility)||Working Dogs||Working||Utility||Guardian Dog||[[File:Leonberg-Male-Adulte-Ursus.jpg|200px]]
+|-
+|[[Lhasa Apso]]||[[Tibet]]||Group 09 Section 05 #227||Non-Sporting Group||Group 07 (Non-Sporting)||Group 06 - Non-sporting Dogs||Utility||Non Sporting||Companion Dog||[[File:Aishia.jpg|200px]]
+|-
+|[[Lithuanian Hound]]||[[Lithuania]]||||||||||||||||
+|-
+|[[Longhaired Whippet]]||[[United States]]||||||||||||||||[[File:Whippet długowłosy pies MB 01.jpg|200px]]
+|-
+|[[Löwchen]]||[[Germany]], [[France]], [[Netherlands]], [[Spain]]||Group 09 Section 01 #233||Non-Sporting Group||Group 01(Toys)||Group 06 (Non-Sporting)||Toys||Toys||Companion Dog||[[File:Lowchen.jpg|200px]]
+|-
+|{{Anchor|M}}[[Magyar Agár]]||[[Hungary]], [[Transylvania]]||||||||||||||||[[File:Magyar agár male.jpg|200px]]
+|-
+|[[Mahratta Greyhound]]||[[India]]||||||||||||||||
+|-
+|[[Majorca Ratter]]||[[Spain]]||||||||||||||||[[File:Ratero mallorquin.JPG|200px]]
+|-
+|[[Majorca Shepherd Dog]]||[[Spain]]||Group 01 Section 01 #321||||||||||||||[[File:Ca de bestiar.jpg|200px]]
+|-
+|[[Maltese (dog)|Maltese]]||[[Italy]]||Group 09 Section 01 #065||Toy Group||Group 01 (Toys)||Group 05 - Toys||Toy||Toy||Companion Dog||[[File:Maltese 600.jpg|200px]]
+|-
+|[[Manchester Terrier]]||[[United Kingdom]] ([[England]])||Group 03 Section 01 #071||Terrier Group, Toy Group||||||Terrier||Terrier||Terrier||[[File:Mancherster Terrier.jpg|200px]]
+|-
+|[[Maremma Sheepdog]]||[[Italy]]||Group 01 Section 01 #201||||Group 05 (Working Dogs)||||Pastoral||Working||Guardian Dog||[[File:Cane Pastore Abruzzese Abruzzo.jpg|200px]]
+|-
+|[[McNab (dog)|McNab]]||[[United States]]||||||||||||||||[[File:McNab (dog).jpg|200px]]
+|-
+|[[Mexican Hairless Dog]]||[[Mexico]]||Group 05 Section 06 #234||Non-Sporting Group||||Toys/Non Sporting||Utility||||Sighthound and Pariah||[[File:Mexico.Xoloitzcuintle.01.jpg|200px]]
+|-
+|[[Miniature Australian Shepherd]]||[[United States]]|||||||||||||||||[[File:Miniature Australian Shepherd red tricolour.jpg|200px]]
+|-
+|[[Miniature American Shepherd]]||[[United States]]||||Herding Group|||||||||||Herding Dog||
+|-
+|[[Miniature Fox Terrier]]||[[Australia]]||||||||||||||||[[File:Miniature Fox Terrier.jpg|200px]]
+|-
+|[[Miniature Pinscher]]||[[Germany]]||Group 02 Section 01 #185||Toy Group||Group 01 (Toys)||Group 05 - Toys||Toy||Toy||Companion Dog||[[File:Gotti.JPG|200px]]
+|-
+|[[Miniature Schnauzer]]||[[Germany]]||Group 02 Section 01 #183||Terrier Group||Group 06 (Utility)||Group 04 - Terriers||Utility||Utility||Terrier||[[File:Miniature Schnauzer 02.jpg|200px]]
+|-
+|[[Miniature Shar Pei]]||[[China]]|||||||||||||||||[[File:XBlack.JPG|200px]]
+|-
+|[[Mioritic]]||[[Romania]]||Group 01 Section 01 #349 Provisional||||||||||||||[[File:Mioritic.jpg|200px]]
+|-
+|[[Molossus (dog)|Molossus]]||[[Greece]]||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||[[File:Molossian Hound, British Museum.jpg|200px]]
+|-
+| [[Molossus of Epirus]]||[[Greece]]||''Not recognised''||''Not recognised''||''Not recognised''||''Not recognised''||''Not recognised''||''Not recognised''||''Not recognised''||
+|-
+|[[Montenegrin Mountain Hound]]||[[Montenegro]]||Group 06 Section 01 #279||||||||||||||
+|-
+|[[Moscow Watchdog]]||[[Russia]]||||||||||||||||[[File:Moscowwatchdog.jpg|200px]]
+|-
+|[[Moscow Water Dog]]||[[Russia]]||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||
+|-
+|[[Mountain Cur]]||[[United States]]||||||||||||||Scenthound||[[File:MountainCur.jpg|200px]]
+|-
+|[[Mucuchies]]||[[Venezuela]]||||||||||||||||[[File:Mucuchies natural habitat.jpg|200px]]
+|-
+|[[Mudhol Hound]]||[[India]]||||||||||||||||[[File:Caravan hound Closeupfire.jpg|200px]]
+|-
+|[[Mudi]]||[[Hungary]]||Group 01 Section 01 #238||FSS||||||||||Herding Dog||[[File:Hondenras Mudi.jpg|200px]]
+|-
+|[[Large Münsterländer|Münsterländer, Large]]||[[Germany]]||Group 07 Section 01 #118||||Group 03 (Gundogs)||||Gundog||Gundogs||Gun Dog||[[File:GrosserMuensterlaender.jpg|200px]]
+|-
+|[[Small Münsterländer|Münsterländer, Small]]||[[Germany]]||Group 07 Section 01 #102||FSS||||Miscellaneous||Gundog||||Gun Dog||[[File:Kleiner Munsterlander edit.jpg|200px]]
+|-
+|[[Murcian Ratter]]||[[Spain]]||||||||||||||||
+|-
+|{{Anchor|N}}[[Neapolitan Mastiff]]||[[Italy]]||Group 02 Section 02 #197||Working Group||Group 06 (Utility)||Miscellaneous||Working||Utility||Guardian Dog||[[File:Cannon - Male Neapolitan Mastiff 1998.jpeg|200px]]
+|-
+|[[Newfoundland (dog)|Newfoundland]]||[[Canada]]||Group 02 Section 02 #050||Working Group||Group 06 (Utility)||Group 03 - Working Dogs||Working||Utility||Guardian Dog||[[File:Bear-Sparkle fx.jpg|200px]]
+|-
+|[[New Zealand Heading Dog]]||[[New Zealand]]||||||||||||||||
+|-
+|[[Norfolk Spaniel]]||[[United Kingdom]]||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||[[File:Dash-II-Norfolk-Spaniel.jpg|200px]]
+|-
+|[[Norfolk Terrier]]||[[United Kingdom]]||Group 03 Section 02 #272||Terrier Group||Group 02 Terriers||Terrier||Terrier||Terrier||Terrier||[[File:Norfolk show.jpg|200px]]
+|-
+|[[Norrbottenspets]]||[[Sweden]]||Group 05 Section 02 #276||FSS (Miscellaneous)||||Group 02 - Hounds||||||Northern Breed||[[File:Nordic Spitz.jpg|200px]]
+|-
+|[[North Country Beagle]]||[[United Kingdom]]||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||
+|-
+|[[Northern Inuit Dog]]||[[United Kingdom]] ([[England]])||||||||||||||||
+|-
+|[[Norwegian Buhund]]||[[Norway]]||Group 05 Section 03 #237||Herding Group||Group 05 (Working Dogs)||Group 07 - Herding||Pastoral||Working||Northern Breed||[[File:Norwegian Buhund 600.jpg|200px]]
+|-
+|[[Norwegian Elkhound]]||[[Norway]]||Group 05 Section 02 #242||Hound Group||Group 04 (Hounds)||Group 02 - Hounds||Hound||Hound||Northern Breed||[[File:Norwegian Elkhound.jpg|200px]]
+|-
+|[[Norwegian Lundehund]]||[[Norway]]||Group 05 Section 02 #265||Non-Sporting Group||||Group 02 - Hounds||||||Northern Breed||[[File:Lundehund-2003.jpg|200px]]
+|- Norwich_terrier_kacy.jpg
+|[[Norwich Terrier]]||[[United Kingdom]]||Group 03 Section 02 #072||Terrier Group||Group 02 (Terriers)||Group 04 - Terriers||Terrier||Terrier||Terrier||[[File:Norwichterrier.jpg|200px]]
+|-
+|[[Nova Scotia Duck-Tolling Retriever]]||[[Canada]]||Group 08 Section 01 #312||Sporting Group||Group 03 (Gundogs)||Group 01 - Sporting Dogs||Gundog||Gundogs||Gun Dog||[[File:Tollers.jpg|200px]]
+|-
+|{{Anchor|O}}[[Old Croatian Sighthound]]||[[Croatia]]||||||||||||||||
+|-
+|[[Old Danish Pointer]]||[[Denmark]]||Group 07 Section 01 #281||||||||||||||[[File:Wyżeł duński 123.jpg|200px]]
+|-
+|[[Old English Sheepdog]]||[[United Kingdom]] ([[England]])||Group 01 Section 01 #016||Herding Group||Working Group||Group 07 - Herding Dogs||Pastoral||Working||Herding Dog||[[File:Old english sheepdog Ch Bobbyclown's Dare for More.jpg|200px]]
+|-
+|[[Old English Terrier]]||[[United Kingdom]] ([[England]])||||||||||||||||[[File:Old english terrier 041.jpg|200px]]
+|-
+|[[Old German Shepherd Dog]]||[[Germany]]||||||||||||||||[[File:Altdeutscher Schaeferhund cropped.jpg|200px]]
+|-
+|[[Old time farm shepherd|Old Time Farm Shepherd]]||[[United States]]||||||||||||||||[[File:Sable and White Female OTFS Dog.JPG|200px]]
+|-
+|[[Olde English Bulldogge]]||[[United States]]||||||||||||||Guardian||[[File:UKC Olde English Bulldogge Male.jpg|200px]]
+|-
+|[[Otterhound]]||[[United Kingdom]] ([[England]])||Group 06 Section 02 #294||Hound Group||Group 04 (Hounds)||Group 02 - Hounds||Hound||Hound||Scenthound||[[File:Two otterhounds.jpg|200px]]
+|-
+|{{Anchor|P}}[[Pachon Navarro]]||[[Spain]]||||||||||||||||
+|-
+|[[Pandikona]]||[[India]]||||||||||||||||
+|-
+|[[Paisley Terrier]]||[[United Kingdom]] ([[Scotland]])||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||[[File:Paisley1903.jpg|200px]]
+|-
+|[[Papillon (dog)|Papillon]]||[[Spain]], [[Belgium]], [[France]]||Group 09 Section 10 #077||Toy Group||Group 01 (Toys)||Group 02- Toys||Toy||Toy||Companion Dog||[[File:RileyPapillon.JPG|200px]]
+|-
+|[[Parson Russell Terrier]]||[[United Kingdom]] ([[England]])||Group 03 Section 01 #339||Terrier Group||Group 02 (Terrier)||Terrier||Terrier||Terrier||Terrier||[[File:05052881 PRT braun rau.jpg|200px]]
+|-
+|[[Patterdale Terrier]]||[[United Kingdom]] ([[England]])||||||||||||||Terrier||[[File:Truf2.JPG|200px]]
+|-
+|[[Pekingese]]||[[China]]||Group 09 Section 07 #207||Toy Group||Group 01 (Toys)||Group 05- Toys||Toy||Toy||Companion Dog||[[File:Pekingese1904.jpg|200px]]
+|-
+|[[Perro de Presa Canario]]||[[Spain]]||Group 02 Section 02 #346||FSS||||||||||Guardian Dog||[[File:Dogo Canario.jpg|200px]]
+|-
+|[[Perro de Presa Mallorquin]]||[[Spain]]||Group 02 Section 02 #249||||||||||||Guardian Dog||[[File:Ca de bou dog.jpg|200px]]
+|-
+|[[Perro fino Colombiano]]||[[Colombia]]||||||||||||||scenthount Dog||
+|-
+|[[Peruvian Hairless Dog]]||[[Peru]]||Group 05 Section 06 #310||FSS (Miscellaneous)||||||||Non Sporting||Sighthound and Pariah||[[File:PHDStandardStanding - Perro Sin Pelo del Perú.jpg|200px]]
+|-
+|[[Phalène]]||[[Belgium]], [[Spain]]||||||||||||||||[[File:Spaniel miniaturowy kontynentalny phalene 00.jpg|200px]]
+|-
+|[[Pharaoh Hound]]||[[Malta]]||Group 05 Section 06 #248||Hound Group||Group 04 (Hounds)||Group 02 - Hounds||Hound||Hound||Sighthound and Pariah||[[File:Pies faraona e34.jpg|200px]]
+|-
+|[[Phu Quoc ridgeback dog]]||[[Vietnam]]||||||||||||||||[[File:Phu Quoc dog.jpg|200px]]
+|-
+|[[Picardy Spaniel]]||[[France]]||Group 07 Section 01 #108||||||Miscellaneous||||||Gun Dog||[[File:Epagneul picard 685.jpg|200px]]
+|-
+|[[Plott Hound]]||[[United States]]||||Hound Group||||||||||Scenthound||[[File:Plotthound.jpg|200px]]
+|-
+|[[Podenco Canario]]||[[Spain]]||Group 05 Section 07 #329||FSS||||||||||Sighthound and Pariah||[[File:Podenco canario hembra.jpg|200px]]
+|-
+|[[Pointer (dog breed)|Pointer]]||[[United Kingdom]] ([[England]])||Group 07 Section 02 #001||Sporting Group||Group 03 (Gundogs)||Group 01 - Sporting Dogs||Gundog||Gundogs||Gun Dog||[[File:English pointer.jpg|200px]]
+|-
+|[[Poitevin (dog)|Poitevin]] || [[France]] ||||||||||||||||
+|-
+|[[Polish Greyhound]]||[[Poland]]||Group 10 Section 03 #333||||||Miscellaneous||||||Sighthound and Pariah||[[File:Chart polski 67u7.jpg|200px]]
+|-
+|[[Polish Hound]]||[[Poland]]||Group 06 Section 01 #052||||||||||||||[[File:PolishHound-MlChPl-OKSANA-ZOstregoBoru-wl.JoannaZembrzuska 3.JPG|200px]]
+|-
+|[[Polish Hunting Dog]]||[[Poland]]||Group 06 Section 01 #354 Provisional||||||||||||||[[File:PolishScenthound-"NUTKA Klusujaca Sfora wl A.Balcerzak.jpg|200px]]
+|-
+|[[Polish Lowland Sheepdog]]||[[Poland]]||Group 01 Section 01 #251||Herding Group||Group 05 (Working)||Group 07 - Herding||Pastoral||Working||Herding Dog||[[File:Polski owczarek nizinny rybnik-kamien pl.jpg|200px]]
+|-
+|[[Polish Tatra Sheepdog]]||[[Poland]]||Group 01 Section 01 #252||||||||||||Guardian Dog||[[File:Polski Owczarek Podhalanski.jpg|200px]]
+|-
+|[[Pomeranian (dog)|Pomeranian]]||[[Germany]], [[Poland]]||Group 05 Section 04 #097||Toy Group||Group 01 (Toys)||Group 05- Toys||Toy||Toy||Companion Dog||[[File:Pomeranian 600.jpg|200px]]
+|-
+|[[Pont-Audemer Spaniel]]||[[France]]||Group 07 Section 01 #114||||||||||||||[[File:04031158 Epagneul Pont Audemer.jpg|200px]]
+|-
+|[[Poodle]]||[[Germany]], [[France]]||Group 09 Section 02 #172||Non-Sporting Group, Toy Group||Group 07 (Non-Sporting)||Group 06 - Non-Sporting, Group 05 - Toys||Utility||Utility||Companion Dog, Gun Dog||[[File:Silver Miniature Poodle stacked.jpg|200px]]
+|-
+|[[Porcelaine]]||[[France]]||Group 06 Section 01 #030||||||||||||||[[File:Porcelaine.jpg|200px]]
+|-
+|[[Portuguese Podengo]]||[[Portugal]]||Group 05 Section 07 #094||Hound, FSS (Miscellaneous)||||||Hound||||Sighthound and Pariah||[[File:Evitarocks.jpg|200px]]
+|-
+|[[Portuguese Pointer]]||[[Portugal]]||Group 07 Section 01 #187||FSS||||||||||Gun Dog||[[File:Portuguese pointer 11yo.jpg|200px]]
+|-
+|[[Portuguese Water Dog]]||[[Portugal]]||Group 08 Section 03 #037||Working Group||Group 06 (Utility)||Group 03 - Working dogs||Working||Utility||Gun Dog||[[File:Cão de agua Português 2.jpg|200px]]
+|-
+|[[Posavac Hound]]||[[Croatia]]||Group 06 Section 01 #154||||||||||||Scenthound||
+[[File:Posavac.jpg|200px]]
+|-
+|[[Pražský Krysařík]]||[[Czech Republic]]||||||||||||||||[[File:Prazsky krysarik 1.jpg|200px]]
+|-
+|[[Pudelpointer]]||[[Germany]]||Group 07 Section 01 #216||||||Group 01 - Sporting Dogs||||||Gun Dog||[[File:Pudelpointer on point.jpg|200px]]
+|-
+|[[Pug]]||[[China]]||Group 09 Section 8 #253||Toy Group||Group 01 (Toys)||Group 05- Toys||Toy||Toy||Companion Dog||[[File:Fawn pug 2.5year-old.JPG|200px]]
+|-
+|[[Puli]]||[[Hungary]]||Group 01 Section 01 #055||Herding Group||Group 05 (Working)||Group 07 - Herding Dogs||Pastoral||Working||Herding Dog||[[File:PuliBlack wb.jpg|200px]]
+|-
+|[[Pumi (dog)|Pumi]]||[[Hungary]]||Group 01 Section 01 #056||FSS (Miscellaneous)||Group 05 (Working)||||||Working||Herding Dog||[[File:Pumi 2.jpg|200px]]
+|-
+|[[Pungsan Dog]]||[[North Korea|Korea (North)]]||||||||||||||||[[File:Poongsandogs.JPG|200px]]
+|-
+|[[Pyrenean Mastiff]]||[[Spain]]||Group 02 Section 02 #092||FSS||||||||Utility||||[[File:MasPiri-Puma-FIN.jpg|200px]]
+|-
+|[[Pyrenean Shepherd]]||[[France]]||Group 01 Section 01 #141||Herding Group||||Group 07 (Herding)||Pastoral||Utility||Herding Dog||[[File:PyreneanShepSmooth wb.jpg|200px]]
+|-
+|{{Anchor|Q}}{{Anchor|R}}[[Rafeiro do Alentejo]]||[[Portugal]]||Group 02 Section 02 #096||FSS||||||||||Guardian Dog||[[File:Rafeiro male.jpg|200px]]
+|-
+|[[Rajapalayam (dog)|Rajapalayam]]||[[India]]||||||||||||||Sight hound||[[File:Rajapalayam Hound.PNG|200px]]
+|-
+|[[Rampur Greyhound]]||[[India]]||||||||||||||Sight hound||[[File:Rampurgreyhound.jpg|200px]]
+|-
+|[[Rastreador Brasileiro]]||[[Brazil]]||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||
+|-
+|[[Ratonero Bodeguero Andaluz]]||[[Spain]]||||||||||||||||[[File:Ratonero Bodeguero Andaluz.jpg|200px]]
+|-
+|[[Ratonero Valenciano]]||[[Spain]]||||||||||||||||[[File:Ratonero valenciano hell.jpg|200px]]
+|-
+|[[Rat Terrier]]||[[United States]]||||Terrier Group||||||||||Terriers||[[File:AmRatTerr2 wb.jpg|200px]]
+|-
+|[[Redbone Coonhound]]||[[United States]]||||Hound Group||||||||||Scenthound||[[File:Memphis the Redbone Coonhound (7 Nov 2004).jpg|200px]]
+|-
+|[[Rhodesian Ridgeback]]||[[Zimbabwe]]||Group 06 Section 03 #146||Hound Group||Group 04 (Hounds)||Group 02 - Hounds||Hound||Hound||Sighthound and Pariah||[[File:Rhodesian Ridgeback 600.jpg|200px]]
+|-
+|[[Rottweiler]]||[[Germany]]||Group 02 Section 02 #147||Working Group||Group 06 (Utility)||Group 03 - Working||Working||Utility||Guardian Dog||[[File:Rottweiler.jpg|200px]]
+|-
+|[[Russian Spaniel]]||[[Russia]]||||||||||||||||[[File:Russpaniel.jpg|200px]]
+|-
+|[[Russian Toy]]||[[Russia]]||Group 09 Section 10 #352 Provisional||FSS||||||||||Companion Dog||[[File:RusskiyToyWelpe.jpg|200px]]
+|-
+|[[Russian tracker]]||[[Russia]]||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||[[File:Russian Yellow Retriever from 1915.jpg|200px]]
+|-
+|[[Russo-European Laika]]||[[Russia]]||Group 05 Section 02 #304||||||||||||||[[File:Russo European Laika 2.jpg|200px]]
+|-
+|[[Russell Terrier]]||[[United Kingdom]] ([[England]])||Group 03 Section 02 #345||Terrier Group||Group 02 (Terriers)||||||||Terrier||[[File:FCI JRT.jpg|200px]]
+|-
+|{{Anchor|S}}[[Saarlooswolfhond]]||[[Netherlands]], [[Germany]]||Group 01 Section 01 #311||||||||||||Herding Dog||[[File:Bow bow.jpg|200px]]
+|-
+|[[Sabueso Español]]||[[Spain]]||Group 06 Section 01 #204||||||||||||Scenthound||[[File:Angoi de A Fonsagrada.JPG|200px]]
+|-
+|[[Saint-Usuge Spaniel]]||[[France]]||||||||||||||||[[File:EpagneuldeSaintUsuge.jpg|200px]]
+|-
+|[[Sakhalin Husky]]||[[Japan]]||||||||||||||||
+|-
+|[[Saluki]]||[[Fertile Crescent]]||Group 10 Section 01 #269||Hound Group||Group 04 (Hounds)||Group 02 - Hounds||Hound||Hound||Sighthound and Pariah||[[File:Saluki dog breed.jpg|200px]]
+|-
+|[[Samoyed (dog)|Samoyed]]||[[Russia]]||Group 05 Section 01 #212||Working Group||Group 06 (Utility)||Group 03 - Working Dogs||Pastoral||Utility||Northern Breed||[[File:Samoyed 600.jpg|200px]]
+|-
+|[[Santal Hound]]||[[India]]||||||||||||||||[[File:Santal.jpg|200px]]
+|-
+|[[Sapsali]]||[[Korea]]||||||||||||||||[[File:Sapsali.jpg|200px]]
+|-
+|[[Šarplaninac]]|| [[Serbia]], [[Republic of Macedonia]], [[Kosovo]] || Group 02 Section 02 #041||||||Miscellaneous List||||||Guardian Dog||[[File:Шарпланинецот од Св.Јован Бигорски.jpg|200px]]
+|-
+|[[Schapendoes]]||[[Netherlands]]||Group 03 Section 01 #313||FSS||||Herding Group||||||Herding Dog||[[File:Nederlandse-schapendoes-02.jpg|200px]]
+|-
+|[[Schillerstövare]]||[[Sweden]]||Group 06 Section 01 #131||||||||||||Scenthound||[[File:Schillerstövare bearbeitet.jpg|200px]]
+|-
+|[[Schipperke]]||[[Belgium]]||Group 01 Section 01 #083||Non-Sporting Group||Group 07 (Non-sporting)||Group 06 (Non-sporting)||Utility||Non Sporting||Companion Dog||[[File:Schipperke gismo 12.jpg|200px]]
+|-
+|[[Standard Schnauzer]]||[[Germany]]||Group 02 Section 01 #182||Working Group||Group 6 (Utility)||Group 3 - Working Dogs||Utility||Utility||Herding Dog||[[File:Emppumenossa.jpg|200px]]
+|-
+|[[Schweizer Laufhund]]||[[Switzerland]]||Group 06 Section 01 #059|||||||||||||||[[File:Swiss Hound.jpg|200px]]
+|-
+|[[Schweizerischer Niederlaufhund]]||[[Switzerland]]||Group 06 Section 01 #060||||||||||||Scenthound||[[File:08115491 Schwyzer Niederlaufhund.jpg|200px]]
+|-
+|[[Scotch Collie]]||[[United Kingdom]] ([[Scotland]])||||||||||||||||[[File:Smooth Collie 600.jpg|200px]]
+|-
+|[[Scottish Deerhound]]||[[United Kingdom]] ([[Scotland]])||Group 10 Section 02 #164||Hound Group||Group 4 (Hounds)||Group 2 - Hounds||Hound||Hound||Sighthound and Pariah||[[File:Deerhound. F's K.jpg|200px]]
+|-
+|[[Scottish Terrier]]||[[United Kingdom]] ([[Scotland]])||Group 03 Section 02 #073||Terrier Group||Group 2 (Terriers)||Group 4 - Terriers||Terrier||Terrier||Terrier||[[File:ScottishTerrier.jpg|200px]]
+|-
+|[[Sealyham Terrier]]||[[United Kingdom]] ([[Wales]])||Group 03 Section 02 #074||Terrier Group||Group 2 (Terriers)||Group 4 - Terrier||Terrier||Terrier||Terrier||[[File:SealyhamTerrier2.jpg|200px]]
+|-
+|[[Segugio Italiano]]||[[Italy]]||Group 06 Section 01 #337 #198||||||||Hound||||||[[File:Segugioitalianopelorasofulvo.JPG|200px]]
+|-
+|[[Seppala Siberian Sleddog]]||[[Canada]]||||||||||||||||[[File:Seppala Siberian Sleddog.jpg|200px]]
+|-
+|[[Serbian Hound]]||[[Serbia]]||Group 06 Section 01 #150||||||||||||||[[File:Serbian Hound Face.JPG|200px]]
+|-
+|[[Serbian Tricolour Hound]]||[[Serbia]]||Group 06 Section 01 #229||||||||||||||[[File:Srpski Trobojni Gonic.gif|200px]]
+|-
+|[[Seskar Seal Dog]]||[[Finland]]||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||[[File:Seiskarinkoira Seiskari dog.jpg|200px]]
+|-
+|[[Shar Pei]]||[[China]]||Group 02 Section 02 #309||Non-Sporting Group||Group 7 (Non-Sporting)||Group 6 - Non-Sporting||Utility||Non Sporting||Northern Breed||[[File:BandWSharPei.JPG|200px]]
+|-
+|[[Shetland Sheepdog]]||[[United Kingdom]] ([[Scotland]])||Group 01 Section 01 #088||Herding Group||Group 5 (Working Dogs)||Group 7 - Herding Dogs||Pastoral||Working||Herding Dog||[[File:Shetland Sheepdog 600.jpg|200px]]
+|-
+|[[Shiba Inu]]||[[Japan]]||Group 05 Section 05 #257||Non-Sporting Group||Group 6 (Utility)||Group 6 - Non-Sporting||Utility||Utility||Northern Breed||[[File:Taka Shiba.jpg|200px]]
+|-
+|[[Shih Tzu]]||[[China]]||Group 09 Section 05 #208||Toy Group||Group 7 - Non-Sporting||Group 6 - Non-Sporting||Utility||Non Sporting||Companion Dog||[[File:Shih-Tzu.JPG|200px]]
+|-
+|[[Shikoku (dog)|Shikoku Ken]]||[[Japan]]||Group 05 Section 05 #319||||||||||||Northern Breed||[[File:Shikokuken.jpg|200px]]
+|-
+|[[Shiloh Shepherd Dog]]||[[United States]]||||||||||||||||[[File:Plushcoatshilohshepherd.jpg|200px]]
+|-
+|[[Siberian Husky]]||[[Russia]]||Group 05 Section 01 #270||Working Group||Group 6 (Utility)||Group 3 (Working)||Working||Utility||Northern Breed||[[File:Siberian-husky.jpg|200px]]
+|-
+|[[Silken Windhound]]||[[United States]]||||||||||||||Sighthound and Pariah ||[[File:Fallon the Silken Windhound.jpg|200px]]
+|-
+|[[Sinhala Hound]]||[[Sri Lanka]]||||||||||||||||
+|-
+|[[Skye Terrier]]||[[United Kingdom]] ([[Scotland]])||Group 03 Section 02 #075||Terrier Group||Group 2 (Terriers)||Group 4 (Terriers)||Terrier||Terrier||Terrier||[[File:Skye terrier 800.jpg|200px]]
+|-
+|[[Sloughi]]||[[Morocco]]||Group 10 Section 03 #188||FSS (Miscellaneous)||Group 4 (Hounds)||||Hound||Hound||Sighthound and Pariah||[[File:Sloughi sandcolor.jpg|200px]]
+|-
+|[[Slovak Cuvac]]||[[Slovakia]]||Group 01 Section 01 #142||FSS||||||||||Guardian Dog||[[File:Cuvac 1.jpg|200px]]
+|-
+|[[Slovakian Rough-haired Pointer]]||[[Slovakia]]||Group 07 Section 01 #320||||||||||||||[[File:ICh Brita z Ruzenice.jpg|200px]]
+|-
+|[[Slovenský Kopov]]||[[Slovakia]]||Group 06 Section 01 #244||||||||||||Scenthound||[[File:MVP Nitra 2004 (8).jpg|200px]]
+|-
+|[[Smålandsstövare]]||[[Sweden]]||||||||||||||||[[File:Smaland-Stövare.jpg|200px]]
+|-
+|[[Small Greek Domestic Dog]]||[[Greece]]||||||||||||||||[[File:SmallGreekDomesticDog.jpg|200px]]
+|-
+|[[Soft-Coated Wheaten Terrier]]||[[Ireland]]||Group 03 Section 01 #040||Terrier Group||Group 2 (Terriers)||Group 4 - Terriers||Terrier||Terrier||Terrier||[[File:Dog2wheaten.jpg|200px]]
+|-
+|[[South Russian Ovcharka]]||[[Russia]]||Group 01 Section 01 #326||||||||||||Guardian Dog||[[File:South Russian Ovcharka.jpg|200px]]
+|-
+|[[Southern Hound]]||[[United Kingdom]]||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||[[File:Southern Hound.jpg|200px]]
+|-
+|[[Spanish Mastiff]]||[[Spain]]||Group 02 Section 02 #091||FSS||||||||||||[[File:Mastif hiszpanski pl.jpg|200px]]
+|-
+|[[Spanish Water Dog]]||[[Spain]]||Group 08 Section 03 #336||Herding Group||||||Gundog||Gundogs||Gun Dog||[[File:Perro agua.jpg|200px]]
+|-
+|[[Spinone Italiano]]||[[Italy]]||Group 07 Section 01 #165||Sporting Group||Group 3 (Gundogs)||Sporting||Gundog||Gundogs||Gun Dog||[[File:Spinone italiano Oliver.jpg|200px]]
+|-
+|[[Sporting Lucas Terrier]]||[[United Kingdom]] ([[England]])||||||||||||||Terrier||[[File:LucasTerrier.jpg|200px]]
+|-
+|[[St. Bernard (dog)|St. Bernard]]||[[Italy]], [[Switzerland]]||Group 02 Section 02 #061||Working Group||Utility Group||Working Group||Working||Utility||Guardian Dog||[[File:Stbernardinsnow.jpg|200px]]
+|-
+|[[St. John's water dog]]||[[Dominion of Newfoundland|Newfoundland]], [[Canada]]||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||[[File:St Johns dog.jpg|200px]]
+|-
+|[[Stabyhoun]]||[[Netherlands]]||Group 07 Section 01 #222||FSS||||||||||Gun Dog||[[File:Frisianstaby.jpg|200px]]
+|-
+|[[Staffordshire Bull Terrier]]||[[United Kingdom]] ([[England]])||Group 03 Section 03 #076||Terrier Group||Group 2 (Terriers)||Group 4 - Terriers||Terrier||Terrier||Terrier||[[File:Staffordshire Bull Terrier 600.jpg|200px]]
+|-
+|[[Stephens Cur]]||[[United States]]||||||||||||||Scenthound||[[File:Stephens Cur.jpg|200px]]
+|-
+|[[Styrian Coarse-haired Hound]]||[[Austria]]||Group 06 Section 01 #062||||||||||||Scenthound||[[File:Steirische Rauhhaarbracke.jpg|200px]]
+|-
+|[[Sussex Spaniel]]||[[United Kingdom]] ([[England]])||Group 08 Section 02 #127||Sporting Group||Group 3 (Gundogs)||Group 1 - Sporting Dogs||Gundog||Gundogs||Gun Dog||[[File:Sussex spaniel t43.jpg|200px]]
+|-
+|[[Swedish Lapphund]]||[[Sweden]]||Group 05 Section 03 #135||FSS||||||||Working||||[[File:Svensk lapphund.JPG|200px]]
+|-
+|[[Swedish Vallhund]]||[[Sweden]]||Group 05 Section 03 #014||Herding Group||Group 5 (Working Dogs)||Group 7 (Herding Dogs)||Pastoral||Working||Herding Dog||[[File:SwedishVallhundAgility wb.jpg|200px]]
+|-
+|{{Anchor|T}}[[Tahltan Bear Dog]]||[[Canada]]||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||[[File:Tahltan Bear Dog sketch2.jpg|200px]]
+|-
+|[[Taigan]]||[[Kyrgyzstan]]||||||||||||||||[[File:Taigan.jpg|200px]]
+|-
+|[[Taiwan Dog]]||[[Taiwan]]||Group 05 Section 07 #348 Provisional||||||||||||||[[File:Formosan nina.jpg|200px]]
+|-
+|[[Talbot (dog)|Talbot]]||[[United Kingdom]], [[Belgium]], [[France]]||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||[[File:Cartercrest.jpg|200px]]
+|-
+|[[Tamaskan Dog]]||[[Finland]]||||||||||||||||[[File:Tamaskan.jpg|200px]]
+|-
+|[[Teddy Roosevelt Terrier]]||[[United States]]||||||||||||||Terrier||[[File:Teddyterrier.jpg|200px]]
+|-
+|[[Telomian]]||[[Malaysia]]||||||||||||||||[[File:Telomian.jpg|200px]]
+|-
+|[[Tennessee Treeing Brindle]]||[[United States]]||||FSS||||||||||||[[File:Sienna TTBD.jpg|200px]]
+|-
+|[[Tenterfield Terrier]]||[[Australia]]||||||Group 2 (Terriers)||||||Terrier||||[[File:TenterfieldTerrier.jpg|200px]]
+|-
+|[[Terceira Mastiff]]||[[Portugal]]||||||||||||||||[[File:Fila de Terceira.jpg|200px]]
+|-
+|[[Thai Bangkaew Dog]]||[[Thailand]]||Group 05 Section 05 #358 Provisional||||||||||||||[[File:Bangkaew.jpg|200px]]
+|-
+|[[Thai Ridgeback]]||[[Thailand]]||Group 05 Section 07 #338||FSS||||||||||Sighthound and Pariah||[[File:Thai-Ridgeback.jpg|200px]]
+|-
+|[[Tibetan Mastiff]]||[[Tibet]]||Group 02 Section 02 #230||Working Group||Group 6 (Utility)||||Working||Utility||Guardian Dog||[[File:Bea Miu Nan Šan, CAC.jpg|200px]]
+|-
+|[[Tibetan Spaniel]]||[[Tibet]]||Group 09 Section 05 #231||Non-Sporting Group||Group 1 (Toys)||Group 6 - Non-Sporting Dogs||Utility||Non Sporting||Companion Dog||[[File:Tibetansk spaniel.jpg|200px]]
+|-
+|[[Tibetan Terrier]]||[[Tibet]]||Group 09 Section 05 #209||Non-Sporting Group||Group 1 (Toys)||Group 6 - Non-Sporting Dogs||Utility||Non Sporting||Companion Dog||[[File:Tibetan-terrier-Blue-Blossom-Guldborg-Denmarkjpg.jpg|200px]]
+|-
+|[[Tornjak]]||[[Bosnia and Herzegovina]], [[Croatia]]||Group 02 Section 02 #355 Provisional||FSS||||||||||||[[File:Bosnian and Herzegovinian - Croatian Shepherd Dog aka Tornjak.jpg|left|230x230px]]
+|-
+|[[Tosa (dog)|Tosa]]||[[Japan]]||Group 02 Section 02 #260||FSS||||||||||Guarding Dog||[[File:Tosa inu - głowa.jpg|200px]]
+|-
+|[[Toy Bulldog]]|| ||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||[[File:Toy Bulldog Little Knot 1903.jpg|200px]]
+|-
+|[[Toy Fox Terrier]]||[[United States]]||||Toy Group||||||||||Terrier||[[File:Toy Fox Terrier 2.jpg|200px]]
+|-
+|[[Toy Manchester Terrier]]||[[United Kingdom]] ([[England]]), [[United States]]||||Toy Group||Toy Group||||||||Terrier||[[File:Toy-manchester-terrier-weave.png|200px]]
+|-
+|[[Toy Trawler Spaniel]]||[[United Kingdom]]||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||[[File:Trawler spaniel goblin.jpg|200px]]
+|-
+|[[Transylvanian Hound]]||[[Hungary]]||Group 06 Section 01 #241||FSS||||||||||Scenthound||[[File:Erdelyi kopo VadaszNimrodSzeder01.jpg|200px]]
+|-
+|[[Treeing Cur]]||[[United States]]||||||||||||||||
+|-
+|[[Treeing Walker Coonhound]]||[[United States]]||||Hound Group||||||||||Scenthound||[[File:Treeing-walker-coonhound-standing.jpg|200px]]
+|-
+|[[Trigg Hound]]||[[Kentucky, United States]]||||||||||||||||[[File:Ned (Trigg).png|200px]]
+|-
+|[[Tweed Water Spaniel]]||[[United Kingdom]]||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||''Extinct''||[[File:Tweed Water Spaniel.jpg|200px]]
+|-
+|[[Tyrolean Hound]]||[[Austria]]||Group 06 Section 01 #068||||||||||||||[[File:Tiroler Bracke.jpg|200px]]
+|-
+|{{Anchor|U}}|[[Cimarrón Uruguayo|Uruguayan Cimarron]]||[[Uruguay]]||Group 02 Section 02 #353 Provisional||||||||||||Guardian Dog||[[File:Boqueron de Quilligan.JPG|200px]]
+|-
+|{{Anchor|V}}[[Vanjari Hound]]||[[India]]||||||||||||||||[[File:Banjara from 1915.JPG|200px]]
+|-
+|[[Villano de las Encartaciones]]||[[Spain]]||||||||||||||||[[File:Billano arra1.JPG|200px]]
+|-
+|[[Vizsla]]||[[Hungary]]||Group 07 Section 01 #057||Sporting Group||Group 3 (Gundogs)||Group 1 - Sporting Dogs||Gundog||Gundogs||Gun Dog||[[File:Vizsla.jpg|200px]]
+|-
+|[[Volpino Italiano]]||[[Italy]]||Group 05 Section 04 #195||||||||||||||[[File:Volpino04.jpg|200px]]
+|-
+|{{Anchor|W}}[[Weimaraner]]||[[Germany]]||Group 07 Section 01 #099||Sporting Group||Group 3 (Gun dogs)||Group 1 - Sporting||Gun dog||Gundogs||Gun Dog||[[File:Weimaraner wb.jpg|200px]]
+|-
+|[[Cardigan Welsh Corgi|Welsh Corgi, Cardigan]]||[[United Kingdom]] ([[Wales]])||Group 01 Section 01 #038||Herding Group||Group 5 (Working Dogs)||Group 7 - Herding Dogs||Pastoral||Working||Herding Dog||[[File:Cardigan Welsh Corgi 600.jpg|200px]]
+|-
+|[[Pembroke Welsh Corgi|Welsh Corgi, Pembroke]]||[[United Kingdom]] ([[Wales]])||Group 01 Section 08 #039||Herding Group||Group 5 (Working Dogs)||Group 7 - Herding Dogs||Pastoral||Working||Herding Dog||[[File:Pembroke Welsh Corgi 600.jpg|200px]]
+|-
+|[[Welsh Sheepdog]]||[[United Kingdom]] ([[Wales]])||||||||||||||||[[File:Welsh Sheepdog.jpg|200px]]
+|-
+|[[Welsh Springer Spaniel]]||[[United Kingdom]] ([[Wales]])||Group 08 Section 02 #126||Sporting Group||Group 3 (Gundogs)||Sporting dogs||Gundog||Gundogs||Gun Dog||[[File:Welsh Springer Spaniel 1.jpg|200px]]
+|-
+|[[Welsh Terrier]]||[[United Kingdom]] ([[Wales]])||Group 03 Section 01 #078||Terrier Group||Group 2 (Terriers)||Group 4 - Terrier||Terrier||Terrier||Terrier||[[File:Welch Terrier on sand - 2007.png|200px]]
+|-
+|[[West Highland White Terrier]]||[[United Kingdom]] ([[Scotland]])||Group 03 Section 02 #085||Terrier Group||Group 2 (Terriers)||Group 4 - Terrier||Terrier||Terrier||Terrier||[[File:West Highland White Terrier Krakow.jpg|200px]]
+|-
+|[[West Siberian Laika]]||[[Russia]]||Group 05 Section 02 #306||||||||||||||[[File:West Siberian Laika.jpg|200px]]
+|-
+|[[Westphalian Dachsbracke]]||[[Germany]]||Group 06 Section 01 #100||||||||||||Scenthound||[[File:Westfälische Dachsbracke.jpg|200px]]
+|-
+|[[Wetterhoun]]||[[Netherlands]]||Group 08 Section 03 #221||||||||||||Gun Dog||[[File:Fryzyjski pies wodny u68.jpg|200px]]
+|-
+|[[Whippet]]||[[England]]||Group 10 Section 03 #162||Hound Group||Group 4 (Hounds)||Group 2 (Hounds)||Hound||Hound||Sighthound and Pariah||[[File:WhippetWhiteSaddled wb.jpg|200px]]
+|-
+|[[White Shepherd]]||[[United States]]||||||||||||Working||Herding Dog||[[File:Schweizer Schäferhund, 9 Monate.JPG|200px]]
+|-
+|[[Wirehaired Pointing Griffon]]||[[Netherlands]], [[France]]||Group 07 Section 01 #107||Sporting Group||||Group 1 - Sporting Dogs||Gundog||||Gun Dog||[[File:Korthalsgriffon.jpg|200px]]
+|-
+|[[Wirehaired Vizsla]]||[[Hungary]]||Group 07 Section 01 ##239||Sporting Group||Group 1 - Sporting Dogs||Gundog||||||Gun Dog||[[File:Drahthaarvizsla.jpg|200px]]
+|-
+|{{Anchor|X}}[[Xiasi Dog]]||[[China]]||||||||||||||||[[File:Xiasi Quan dog.jpg|200px]]
+|-
+|{{Anchor|Y}}{{Anchor|Z}}[[Yorkshire Terrier]]||[[United Kingdom]] ([[England]])||Group 03 Section 04 #086||Toy Group||Group 1 (Toys)||Group V, Toys||Toy Group||Toy||Companion Dog||[[File:Yorkshire Terrier WA Mozart Dolce Sinfonia.jpg|200px]]
+|- class="sortbottom"
+!Breed!!Origin!![[Fédération Cynologique Internationale]]!![[American Kennel Club]]!![[Australian National Kennel Council]]!![[Canadian Kennel Club]]!![[The Kennel Club]]!![[New Zealand Kennel Club]]!![[United Kennel Club]]!!Image
+|}
+
+== See also ==
+* [[List of police dog breeds]]
+* [[List of dog breeds recognized by the FCI]]
+* [[:Category:Extinct dog breeds]]
+
+== References ==
+{{Reflist|30em}}
+
+==Further reading==
+* {{cite encyclopedia|title=Encyclopedia of Dogs |first1=David |last1=Alderton |date=September 2008 |publisher=Parragon Inc |type=Hardcover |isbn=1407524380 |id=ISBN 9781407524382 |location=Bath |pages=384}}
+* {{cite encyclopedia|title=Encyclopedia of Dog Breeds: нσввℓєяѕ Profiles of More than 150 Breeds |first1=D. Caroline |last1=Coile |isbn=9780764157004 |publisher= Barron's Educational Series, Incorporated |date=April 1, 2005 |edition=2nd |pages=368}}
+* {{cite encyclopedia|last1=De Prisco |first1=Andrew |first2=James B. |last2=Johnson |title=Canine Lexicon |publisher=T. F. H. Publications |year=1993 |id=ISBN 978-3-929545-60-9, |isbn=3-929545-60-8 |pages=886}}
+* {{cite encyclopedia |title=World Atlas of Dog Breeds |type=Hardcover |edition=September 1, 2005  |first1=Dominique |last1=De Vito |pages=960 |location=Neptune City, NJ Lanham, MD |type=Print |date=March 1995 |publisher=TFH Publications, Inc. Distributed in the U.S. to the Bookstore and library trade by National Book Network  |edition=6th  |date=September 1, 2005 |isbn=0793806569 |id=ISBN 978-0793806560}}
+* {{cite encyclopedia|title=The Dog Encyclopedia |type=Hardcover |author=DK Publishing |pages=360 |publisher=DK Adult |edition=1st |date=July 15, 2013 |isbn=1465408444 |id=ISBN 978-1465408440}}
+* {{cite encyclopedia |title=Atlas of Dog Breeds of the World |edition=5th |first1=Bonnie |last1=Wilcox |first2=Chris |last2=Walkowicz |isbn=0793812844 |id=ISBN 9780793812844 |location=Neptune City, NJ |type=Print |pages=912 |date=March 1995 |publisher=TFH Publications, Inc. Distributed in the U.S. to the Bookstore and library trade by National Book Network}}
+<!--
+I'm not sure this needs to be included now that they're cited at the top
+* Lists of recognized breeds for major kennel clubs as listed in breed boxes in all dog breed articles:
+** [http://www.akc.org/breeds/complete_breed_list.cfm American Kennel Club]
+** [http://www.ankc.org.au/Breeds.aspx Australian National Kennel Council]
+** [http://www.ckc.ca/en/ Canadian Kennel Club]
+** [http://www.fci.be/nomenclatures.asp?lang=en&sel=0 Fédération Cynologique Internationale]
+** [http://www.thekennelclub.org.uk/item/435 The Kennel Club]
+** [http://www.nzkc.org.nz/dogselect.html New Zealand Kennel Club]
+** [http://www.ukcdogs.com/RegistrationBreeds.htm United Kennel Club]
+** [http://www.rarebreed.com/breedlist.html Rare Breed Network] -->
+
+{{Domestic dog}}
+{{Breed}}
+
+{{DEFAULTSORT:List Of Dog Breeds}}
+[[Category:Dog types| ]]
+[[Category:Dog breeds]]
+[[Category:Lists of dogs|Breeds]]
+[[Category:Lists of breeds|Dog]]
+
+[[es:Raza de perro#Razas de perros]]
+[[pl:Rasy psa#Rasy psa domowego]]

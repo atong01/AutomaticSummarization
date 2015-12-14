@@ -1,0 +1,186 @@
+{{Infobox organization
+|name           = Committee on Data <br/>for Science and Technology
+|image          = 
+|image_border   = 
+|size           = 
+|alt            =
+|caption        = CODATA
+|map            =
+|msize          =
+|malt           =
+|mcaption       =
+|abbreviation   = CODATA
+|motto          = 
+|formation      = 1966 
+|extinction     =
+|type           = [[International nongovernmental organization|INGO]]
+|status         =
+|purpose        = 
+|headquarters   = 
+|location       = [[Paris]], {{flagcountry|France}}
+|region_served  = Worldwide
+|membership     =
+|language       = English, French
+|leader_title   = President
+|leader_name    = Geoffrey Boulton<ref>[http://www.codata.org/message-from-president-geoffrey-boulton Message from President Geoffrey Boulton]. Retrieved 25/06/2015.</ref>
+|main_organ     =
+|parent_organization = [[International Council for Science]] (ICSU) 
+|affiliations   = 
+|num_staff      =
+|num_volunteers =
+|budget         = 
+|website        =   [http://www.codata.org/ CODATA Official website]
+|remarks        = 
+}}
+
+The '''Committee on Data for Science and Technology''' ('''CODATA''') was established in 1966 as an interdisciplinary committee of the [[International Council for Science]]. It seeks to improve the compilation, critical evaluation, storage, and retrieval of data of importance to [[science]] and [[technology]].
+
+CODATA sponsors the [http://www.codata.org/archives/conferences.html CODATA international conference] every two years.
+
+== Task Group on Fundamental Constants ==
+CODATA is best known for (and sometimes confused with) its Task Group on Fundamental Constants.  Established in 1969, its purpose is to periodically provide the international scientific and technological communities with an internationally accepted set of values of the [[dimensionless physical constant|fundamental physical constant]]s and closely related [[conversion factor]]s for use worldwide.
+
+The first such CODATA set was published in 1973.<ref name=CODATA1973/>  Later versions are named based on the year of the data incorporated; the 1986 CODATA (published April 1987) used data up to 1 January 1986.<ref name=CODATA1986/>  All subsequent releases use data up to the ''end'' of the stated year, and are necessarily published a year or two later: 1998 (April 2000),<ref name=CODATA1998/> 2002 (January 2005),<ref name=CODATA2002/> 2006 (June 2008)<ref name=CODATA2006/> and the sixth in 2010 (November 2012).<ref name=CODATA2010/> The latest version is Version 7.0 called "2014 CODATA" published on 25 June 2015.<ref name=CODATA2014/>
+
+The CODATA recommended values of fundamental physical constants are published at the NIST Reference on Constants, Units, and Uncertainty.<ref name=NISTCUU>
+{{cite web
+ |author=CODATA
+ |year=2015
+ |title=CODATA Recommended Values of the Fundamental Physical Constants: 2014
+ |url=http://physics.nist.gov/cuu/Constants/
+ |publisher=[[NIST]]
+}}</ref>
+
+=== Schedule ===
+Since 1998, the task group has produced a new version every four years, incorporating results published up to the end of the specified year.
+
+In order to support the upcoming [[Proposed redefinition of SI base units|redefinition of the SI base units]], expected<ref name=Minutes2014/> to be adopted at the 26th [[General Conference on Weights and Measures]] in the fall of 2018, CODATA will make two special releases.<ref name=CODATA2014Summary/>
+
+The first, incorporating all data up to 2017-07-01, will determine the final numerical values of [[Planck constant|''h'']], [[Elementary charge|''e'']], [[Boltzmann constant|''k'']], and [[Avogadro constant|''N''<sub>A</sub>]] that will be used for the new SI definitions.
+
+A second, with a closing date of 2018-07-01 (6 months ahead of the usual schedule) will be used to produce a new 2018 CODATA simultaneously with the formal adoption of the new SI.  This is necessary because the redefinitions have a significant (mostly beneficial) effect on the uncertainties and correlation coefficients reported by CODATA.
+
+== See also ==
+*[[International Council for Science]]
+*[[Commission on Isotopic Abundances and Atomic Weights]]
+*[[Particle Data Group]]
+
+==References==
+{{reflist|refs=
+<ref name=CODATA1973>{{cite journal
+ |last1=Cohen |first1=E. R.
+ |last2=Taylor |first2=B. N.
+ |year=1973
+ |title=The 1973 least-squares adjustment of the fundamental constants
+ |url=http://www.nist.gov/data/PDFfiles/jpcrd37.pdf
+ |journal=[[Journal of Physical and Chemical Reference Data]]
+ |volume=2 |issue=4 |pages=663–734
+ |bibcode=1973JPCRD...2..663C
+ |doi=10.1063/1.3253130
+}}</ref>
+<ref name=CODATA1986>{{cite journal
+ |last1=Cohen |first1=E. R.
+ |last2=Taylor |first2=B. N.
+ |year=1987
+ |title=The 1986 CODATA recommended values of the fundamental physical constants
+ |journal=[[Journal of Research of the National Bureau of Standards]]
+ |volume=92 |issue= 2|pages=1–13
+ |bibcode=
+ |doi=10.6028/jres.092.010
+}}</ref>
+<ref name=CODATA1998>{{cite journal
+ |last1=Mohr |first1=P. J.
+ |last2=Taylor |first2=B. N.
+ |year=1999
+ |title=CODATA recommended values of the fundamental physical constants: 1998
+ |url=http://www.nist.gov/pml/div684/fcdc/upload/rmp1998-2.pdf
+ |journal=[[Journal of Physical and Chemical Reference Data]]
+ |volume=28 |issue=6 |pages=1713–1852
+ |bibcode=1999JPCRD..28.1713M
+ |doi=10.1063/1.556049
+}}</ref>
+<ref name=CODATA2002>{{cite journal
+ |last1=Mohr |first1=P. J.
+ |last2=Taylor |first2=B. N.
+ |year=2005
+ |title=CODATA recommended values of the fundamental physical constants: 2002
+ |url=http://www.nist.gov/pml/div684/fcdc/upload/rmp2002-2.pdf
+ |journal=[[Reviews of Modern Physics]]
+ |volume=77 |issue=1 |pages=1–107
+ |bibcode=2005RvMP...77....1M
+ |doi=10.1103/RevModPhys.77.1
+}}</ref>
+<ref name=CODATA2006>{{cite journal
+ |last1=Mohr |first1=P. J.
+ |last2=Taylor |first2=B. N.
+ |last3=Newell |first3=D. B.
+ |year=2008
+ |title=CODATA recommended values of the fundamental physical constants: 2006
+ |url=http://www.nist.gov/pml/div684/fcdc/upload/rmp2006-2.pdf
+ |journal=[[Reviews of Modern Physics]]
+ |volume=80 |issue=2 |pages=633–730
+ |arxiv=0801.0028
+ |bibcode=2008RvMP...80..633M
+ |doi=10.1103/RevModPhys.80.633
+}}</ref>
+<ref name=CODATA2010>{{cite journal
+ |last1=Mohr |first1=P. J.
+ |last2=Taylor |first2=B. N.
+ |last3=Newell |first3=D. B.
+ |year=2012
+ |title=CODATA recommended values of the fundamental physical constants: 2010
+ |url=http://physics.nist.gov/cuu/Constants/article2010.html
+ |journal=[[Reviews of Modern Physics]]
+ |volume=84 |issue=4 |pages=1527–1605
+ |arxiv=1203.5425
+ |doi=10.1103/RevModPhys.84.1527
+|bibcode = 2012RvMP...84.1527M }}</ref>
+<ref name=CODATA2014>{{cite journal
+ |last1=Mohr |first1=Peter J.
+ |last2=Newell |first2=David B.
+ |last3=Taylor |first3=Barry N.
+ |year=2015
+ |title=CODATA recommended values of the fundamental physical constants: 2014
+ |journal=Zenodo
+ |arxiv=1507.07956
+ |doi=10.5281/zenodo.22826
+}}</ref>
+<ref name=CODATA2014Summary>{{cite journal
+ |last1=Mohr |first1=Peter J.
+ |last2=Newell |first2=David B.
+ |last3=Taylor |first3=Barry N.
+ |year=2015
+ |title=CODATA recommended values of the fundamental physical constants: 2014 – Summary
+ |url=http://codata.org/blog/2015/08/04/codata-recommended-values-of-the-fundamental-physical-constants-2014/
+ |journal=Zenodo
+ |doi=10.5281/zenodo.22827
+}}</ref>
+<ref name=Minutes2014>{{Cite web
+ |url=http://www.bipm.org/cc/TGFC/Allowed/Minutes/CODATA_Minutes_14-BIPM-public.pdf
+ |title=Report on the Meeting of the CODATA Task Group on Fundamental Constants
+ |date=3–4 November 2014
+ |place=[[BIPM]]
+ |first=B. |last=Wood
+ |page=7
+ |quote=[BIPM director Martin] Milton responded to a question about what would happen if ... the CIPM or the CGPM voted not to move forward with the redefinition of the SI. He responded that he felt that by that time the decision to move forward should be seen as a foregone conclusion.
+}}</ref>
+}}
+
+== Further reading ==
+*{{cite book
+ |last1=Cox |first1=J. D.
+ |last2=Wagman |first2=D. D.
+ |last3=Medvedev |first3=V. A.
+ |year=1989
+ |title=CODATA Key values for thermodynamics
+ |publisher=[[Hemisphere Publishing Corporation]]
+ |isbn=0-89116-758-7
+}}
+
+== External links ==
+* {{Official website|http://www.codata.org/}}
+* [http://www.icsu.org/ International Council for Science]
+* [http://www.physics.nist.gov/cuu/ The NIST References on Constants, Units, and Uncertainty]
+
+[[Category:International standards]]
+[[Category:Standards organizations]]

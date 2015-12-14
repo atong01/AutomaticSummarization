@@ -1,0 +1,42 @@
+'''Dionysius Thrax''' ({{lang-grc-gre|Διονύσιος ὁ Θρᾷξ}}, {{IPA-el|di.o.ný.si.os ho tʰrâːɪ̯ks|a}}, Contemporary [[Koine]]: {{IPA-el|di.o.ný.si.os ho tʰrâːks|k}}; 170–90 BC) was a [[Hellenization|Hellenistic]] [[Philologist|grammarian]] and a pupil of [[Aristarchus of Samothrace]]. His place of origin was not [[Thrace]] as the epithet "Thrax" denotes, but probably [[Alexandria]] (his father's descent was Thracian). He lived and worked in this city but later taught at [[Rhodes]].
+
+The first extant grammar of [[Greek language|Greek]], ''[[Art of Grammar]]'' ({{lang|grc|Τέχνη γραμματική}} ''Tékhnē grammatiké'') is attributed to him but many scholars today doubt that the work really belongs solely to him due to the difference between the technical approach of most of the work and the more literary approach (similar to the 2nd century's Alexandrian tradition) of the first few sections. It concerns itself primarily with a [[morphology (linguistics)|morphological]] description of Greek, lacking any treatment of [[syntax]]. The work was translated into [[Armenian language|Armenian]] and [[Syriac]] in the early [[Christian]] era.
+
+Thrax defines grammar at the beginning of the ''Tékhnē'' as "the practical knowledge of the general usages of [[poet]]s and [[prose]] writers." Thus Dionysius Thrax, like contemporary Alexandrian scholars who edited [[Attic Greek]] and [[Homer|Homeric texts]], was concerned with facilitating the teaching of classic Greek literature to an audience who spoke [[Koine]] Greek.<ref>There are extensive scholia to the Techne, which have been edited by A. Hilgard in 1901: Scholia in Dionysii Thracis Artem Grammaticam, recensuit et apparatum criticum indicesque adiecit Alfredus Hilgard, Lipsiae: in aedibus B.G. Teubneri 1901. The collections of scholia are the following: Prolegomena Vossiana (p.1); Commentarius Melampodis seu Diomedis (p. 10); Commentarius Heliodori (p. 67); Scholiorum collectio Vaticana (p. 106); Scholiorum collectio Marciana (p. 292); Scholiorum collectio Londinensis (p. 442); Commentariolus Byzantinus (pp. 565–586).</ref>
+
+==Notes==
+{{Reflist}}
+
+==References==
+* ''The Tekhne Grammatike of Dionysius Thrax'' Translated into English by J. Alan Kemp (''Historiographia Linguistica'' 13:2/3, 1986, pp.&nbsp;343–363).
+* Robins, R. H. ''A Short History of Linguistics'' (Indiana UP, 1967). (ISBN 0-253-35210-X)
+* Robins, R. H. ''The Technē Grammatikē of Dionysius Thrax in historical perspective.'' In P. Swiggers, W. van Hoecke (Eds.), ''Mots et parties du discours''. Leuven: Leuven University Press, 1987.
+* [[Vincenzo Di Benedetto]], "At the Origins of Greek Grammar," Glotta 68 (1990): 19–39.
+* Vivien Law, [[Ineke Sluiter]] (eds.), ''Dionysius Thrax and the Techne grammatike'' Münster: Nodus Publikationen, 1995.
+* J. Lallot, ''La grammaire de Denys le Thrace'', Paris: CNRS Éditions, 1998 (2e édition 2003).
+
+==External links==
+*{{cite web |author=Dionysius Thrax|url=http://www.fh-augsburg.de/~harsch/graeca/Chronologia/S_ante02/DionysiosThrax/dio_tec0.htm |title=τέχνη γραμματική |trans-title=Art of Grammar |language=Greek |archiveurl=https://web.archive.org/web/20040825223124/http://www.fh-augsburg.de/~harsch/graeca/Chronologia/S_ante02/DionysiosThrax/dio_tec0.html |archivedate=2004-08-25}}
+*{{Wikisourcelang-inline|el|Διονύσιος ο Θραξ|Διονύσιος ὁ Θρᾷξ}}
+
+{{Authority control}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Dionysius Thrax
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Ancient Greek grammarian
+| DATE OF BIRTH     = 170 BC
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Dionysius Thrax}}
+[[Category:170 BC]]
+[[Category:90 BC]]
+[[Category:Ancient Greek grammarians]]
+[[Category:Linguists from Greece]]
+[[Category:Ancient Thracian Greeks]]
+[[Category:Thracians]]
+[[Category:Koine Greek]]
+[[Category:170s BC births]]
+[[Category:90s BC deaths]]

@@ -1,0 +1,424 @@
+[[File:Fleet 5 nations.jpg|thumb|300px|Four modern aircraft carriers of various types—{{USS|John C. Stennis|CVN-74|6}}, [[French aircraft carrier Charles de Gaulle (R91)|''Charles de Gaulle'']], {{USS|John F. Kennedy|CV-67|6}}, helicopter carrier {{HMS|Ocean|L12|6}}—and escort vessels.]]
+[[File:Principe-de-Asturias Wasp Forrestal Invincible 1991 DN-ST-92-01129s.jpg|thumb|upright=1.25|''From bottom to top:'' Spanish light [[V/STOL]] carrier [[Spanish aircraft carrier Príncipe de Asturias|''Príncipe de Asturias'']], fleet carrier {{USS|Forrestal|CV-59|6}}, [[amphibious assault ship]] {{USS|Wasp|LHD-1|6}}, and light V/STOL carrier {{HMS|Invincible|R05|6}}, showing size differences of late 20th century carriers]]
+
+An '''aircraft carrier''' is a [[warship]] that serves as a seagoing [[airbase]], equipped with a full-length [[flight deck]] and facilities for [[Carrier-based aircraft|carrying, arming, deploying, and recovering aircraft]].<ref>{{Citation|title=Dictionary|publisher=Reference|contribution-url= http://dictionary.reference.com/browse/aircraft%20carrier|contribution=Aircraft carrier}}</ref> Typically, it is the [[capital ship]] of a fleet, as it allows a [[navy|naval force]] to [[power projection|project]] [[air power]] worldwide without depending on [[staging area|local bases for staging aircraft operations]]. Aircraft carriers are expensive to build and are critical assets. Aircraft carriers have evolved from converted cruisers to [[Nuclear marine propulsion|nuclear-powered warships]] that carry numerous fighter planes, strike aircraft, helicopters, and other types of aircraft.
+
+There is no single definition of an "aircraft carrier",<ref name="gscarrier">{{Citation|title=Military|publisher=Global Security|url= http://www.globalsecurity.org/military/world/carriers.htm|contribution=World Wide Aircraft Carriers}}</ref> and modern navies use several variants of the type. These variants are sometimes categorized as sub-types of aircraft carriers,<ref>{{Citation|title=Encyclopaedia|publisher=Britannica| contribution-url=http://www.britannica.com/EBchecked/topic/10957/aircraft-carrier | contribution = Aircraft Carrier|quote=Subsequent design modifications produced such variations as the light carrier, equipped with large amounts of electronic gear for the detection of submarines, and the helicopter carrier, intended for conducting amphibious assault.&nbsp;... Carriers with combined capabilities are classified as multipurpose carriers.}}</ref> and sometimes as distinct types of [[naval aviation]]-capable ships.<ref name="gscarrier"/><ref>[http://www.navy.mil/navydata/fact_display.asp?cid=4200&tid=400&ct=4 United States Navy fact file: Amphibious Assault Ships – LHA/LHD/LHA(R)]</ref> Aircraft carriers may be classified according to the type of aircraft they carry and their operational assignments. [[Admiral (Royal Navy)|Admiral]] Sir [[Mark Stanhope]], former [[First Sea Lord|head]] of the [[Royal Navy]], has said that "To put it simply, countries that aspire to strategic international influence have aircraft carriers".<ref>[http://www.bbc.co.uk/news/uk-18706505 "Aircraft carriers crucial, Royal Navy chief warns."] ''BBC'', 4 July 2012.</ref>
+
+Carriers have evolved since their inception in the early twentieth century from wooden vessels used to deploy [[balloon]]s to [[Nuclear marine propulsion|nuclear-powered]] warships that carry dozens of aircraft, including fighter jets and helicopters. As of {{date}}, there are thirty-seven active aircraft carriers in the world within twelve navies. The [[United States Navy]] has 10 large nuclear-powered carriers (known as [[supercarrier]]s, carrying up to 90 aircraft each), the largest carriers in the world; the total deckspace is over twice that of all other nations' combined.<ref>[http://www.flightglobal.com/news/articles/us-carrier-gap-could-see-naval-air-power-dip-in-gulf-414440/ US “carrier gap” could see naval air power dip in Gulf region] ([http://web.archive.org/web/20150802135522/http://www.flightglobal.com/news/articles/us-carrier-gap-could-see-naval-air-power-dip-in-gulf-414440/ archive)]</ref> As well as the supercarrier fleet, the US Navy has nine [[amphibious assault ship]]s used primarily for helicopters (sometimes called helicopter carriers); these can also carry up to 25 fighter jets, and in some cases, are as large as some other nations' fixed-wing carriers.
+{{TOClimit|3}}
+
+==Types of carrier==
+[[File:A12 & CVN76.jpg|thumb|Brazilian aircraft carrier [[Brazilian aircraft carrier São Paulo (A12)|NAe ''São Paulo'']], foreground, and U.S. Navy carrier [[USS Ronald Reagan (CVN-76)|USS ''Ronald Reagan'']] during a combined training exercise]]
+[[File:USS Enterprise FS Charles de Gaulle.jpg|thumb|[[USS Enterprise (CVN-65)|USS ''Enterprise'']] a [[supercarrier]] of the [[US Navy]] (left), sails alongside [[French aircraft carrier Charles de Gaulle (R91)|''Charles de Gaulle'']], a [[fleet carrier]] of the [[French Navy]] (right) both of which have the [[CATOBAR]] configuration.]]
+[[File:Cavour (550) - Civitavecchia harbour, Italy - June 2011.jpg|thumb|right|[[Italian aircraft carrier Cavour (550)|''Cavour'']], a [[light aircraft carrier]] of the [[Italian Navy]]]]
+[[File:HMS Ocean MOD 45151277.jpg|thumb|right|[[HMS Ocean (L12)|HMS ''Ocean'']] of the [[Royal Navy]], an [[amphibious assault ship]]/[[helicopter carrier]] ]]
+
+===Basic types===
+* [[Amphibious assault ship]]
+* [[Anti-submarine warfare carrier]]
+* [[Balloon carrier]] and [[balloon tenders]]
+* [[Escort carrier]]
+* [[Fleet carrier]]
+* [[Flight deck cruiser]]
+* [[Helicopter carrier]]
+* [[Light aircraft carrier]]
+* [[Sea Control Ship]]
+* [[Seaplane tender]] and seaplane carriers
+* [[Supercarrier]]
+<small>''(note: some of the types listed here are not strictly defined as aircraft carriers by some sources)''</small>
+
+===By role===
+A ''[[fleet carrier]]'' is intended to operate with the main fleet and usually provides an offensive capability. These are the largest carriers capable of fast speeds. By comparison, ''[[escort carrier]]s'' were developed to provide defense for convoys of ships. They were smaller and slower with lower numbers of aircraft carried. Most were built from mercantile hulls or, in the case of [[merchant aircraft carrier]]s, were bulk cargo ships with a flight deck added on top. ''[[Light aircraft carrier]]s'' were carriers that were fast enough to operate with the fleet but of smaller size with reduced aircraft capacity. Soviet aircraft carriers now in use by Russia are actually called ''heavy aviation cruisers'', these ships while sized in the range of large fleet carriers were designed to deploy alone or with escorts and provide both strong defensive weaponry and heavy offensive missiles equivalent to a guided missile cruiser in addition to supporting fighters and helicopters.
+
+===By configuration===
+[[File:INS Vikramaditya (R33) close shot.jpg |thumb|{{INS|Vikramaditya}} of the [[Indian Navy]] has the [[STOBAR]] configuration.]]
+
+There are four main configurations of aircraft carrier in service in the world's navies, divided by the way that aircraft take off and land:
+* ''Catapult-assisted take-off but arrested-recovery'' (''[[CATOBAR]]''): these carriers generally carry the largest, heaviest, and most heavily armed aircraft, although smaller CATOBAR carriers may have other limitations (weight capacity of aircraft elevator, etc.). Three nations currently operate carriers of this type: ten by the United States, and one each by France and Brazil for a total of twelve in service.
+* ''Short take-off but arrested-recovery'' (''[[STOBAR]]''): these carriers are generally limited to carrying lighter fixed-wing aircraft with more limited payloads. STOBAR carrier air wings, such as the [[Sukhoi Su-33]] and future [[Mikoyan MiG-29K]] wings of the [[Russian aircraft carrier Admiral Kuznetsov|''Admiral Kuznetsov'']] are often geared primarily towards air superiority and fleet defense roles rather than strike/power projection tasks,{{citation needed|date=November 2013}} which require heavier payloads (bombs and air-to-ground missiles). Currently, Russia, China, and India possess commissioned carriers of this type.
+* ''Short take-off vertical-landing'' (''[[STOVL]]''): limited to carrying STOVL aircraft. STOVL aircraft, such as the [[Harrier Jump Jet]] family and [[Yakovlev Yak-38]] generally have very limited payloads, lower performance, and high fuel consumption when compared with conventional fixed-wing aircraft; however, a new generation of STOVL aircraft, currently consisting of the [[Lockheed Martin F-35 Lightning II|F-35]]B has much improved performance. This type of aircraft carrier is in service with one for India and two for Italy, Spain also operates one amphibious assault ship as a STOVL aircraft carrier for four ships total in active carrier service; Thailand has one active STOVL carrier but it no longer has any operational STOVL aircraft in inventory. Some also count the nine US amphibious assault ships in their secondary light carrier role boosting the overall total to fourteen.
+* ''Helicopter Carrier'': Helicopter carriers have a similar appearance to other aircraft carriers and may have regular fixed wing operations. Some are designed for addition of, or may include, a ski jump ramp allowing for STOVL operations or may have an unused ski jump installed before retirement of STOVL aircraft and re-purposing, in the past conventional carriers were converted and called commando carriers. Some helicopter carriers with a resistant flight surface can operate VTOL jets. Currently the majority of helicopter carriers, but not all, are classified as [[amphibious assault ships]], tasked with landing and supporting ground forces on enemy territory. The US has nine of this type, France three, the [[Japan|JMSDF]] two, the UK one, the Republic of Korea one and Spain one. The US and Spain's amphibious assault ships operate STOVL jets in normal deployment.
+
+===By size===
+* [[Supercarrier]]
+* [[Fleet carrier]]
+* [[Light aircraft carrier]]
+* [[Escort carrier]]
+
+===Hull type identification symbols===
+Several systems of identification symbol for aircraft carriers and related types of ship have been used. These include the [[pennant number]]s used by the British [[Royal Navy]] and some [[Commonwealth of nations|Commonwealth]] countries, the US [[hull classification symbol]]s also used by [[NATO]] and some other countries,<ref>{{cite web|url=http://www.navy.gov.au/media-room/publications/semaphore-september-2010-0 |title=Semaphore: September 2010 "AWD, Hobart, MFU or DDGH – What's in a Name?" |publisher=Navy.gov.au |date=30 July 2010 |accessdate=19 January 2014}}</ref> and the Canadian [[Hull classification symbol (Canada)|hull classification symbols]].
+
+{| class="wikitable"
+|+ US hull classification symbols for aircraft carriers and related types
+! Symbol !! Designation
+|-
+| CV || Generic [[Fleet carrier|aircraft carrier]]
+|-
+| CVA || Attack [[Fleet carrier|carrier]]
+|-
+| CVAN || Nuclear-powered attack [[Fleet carrier|carrier]]
+|-
+| CVE || [[Escort carrier]]
+|-
+| CVG || [[Flight deck cruiser]] (proposed)
+|-
+| CVHA || Aircraft carrier, Helicopter Assault (retired)
+|-
+| CVHE || Aircraft carrier, Helicopter, Escort (retired)
+|-
+| CVL || [[Light aircraft carrier]]
+|-
+| CVN || Nuclear-powered [[Fleet carrier|aircraft carrier]]
+|-
+| CVS || [[Anti-submarine warfare carrier]]
+|-
+| CVV || [[Aircraft Carrier (Medium)|Aircraft Carrier, Medium]] (proposed)
+|-
+| LHA || [[Landing Helicopter Assault]], a type of [[Amphibious assault ship]]
+|-
+| LHD || [[Landing Helicopter Dock]], a type of [[Amphibious assault ship]]
+|-
+| LPH || [[Landing Platform Helicopter]], a type of [[Amphibious assault ship]]
+|}
+
+==History==
+{{Main|History of the aircraft carrier|Timeline for aircraft carrier service}}
+
+===Origins===
+[[File:Wakamiya.jpg|thumb|right|The Japanese seaplane carrier [[Japanese seaplane carrier Wakamiya|''Wakamiya'']] conducted the world's first naval-launched air raids in 1914.]]
+
+The [[Wright brothers|1903 advent]] of heavier-than-air fixed-wing aircraft was closely followed in 1910 by the first experimental take-off of an airplane, made from the deck of a [[United States Navy]] vessel (cruiser {{USS|Birmingham|CL-2|6}}), and the first experimental landings were conducted in 1911. On 9 May 1912 the first airplane take-off from a ship underway was made from the deck of the British Royal Navy's {{HMS|Hibernia|1905|6}}.<ref>[http://www.flightglobal.com/pdfarchive/view/1912/1912%20-%200442.html The Naval Review and the Aviators][[Flight International|''Flight'']] 18 May 1912</ref><ref>{{cite journal |date=10 May 1912 |title=Flight From the Hibernia |journal=The Times |issue= 39895|page=8 (3) |location=London |url=}}</ref> [[Seaplane tender]] support ships came next, with the French [[French seaplane carrier Foudre|''Foudre'']] of 1911. In September 1914 the [[Imperial Japanese Navy]] [[Japanese seaplane carrier Wakamiya|''Wakamiya'']] conducted the world's first successful ship-launched air raid:<ref>Wakamiya is "credited with conducting the first successful carrier air raid in history"[http://www.globalsecurity.org/military/world/japan/index.html ]. GlobalSecurity.org</ref><ref>"Sabre et pinceau", Christian Polak, p. 92.</ref> on 6 September 1914 a Farman aircraft launched by ''Wakamiya'' attacked the Austro-Hungarian cruiser [[SMS Kaiserin Elisabeth|''Kaiserin Elisabeth'']] and the German gunboat ''Jaguar'' in [[Jiaozhou Bay|Kiaochow Bay]] off [[Tsingtao]]; neither was hit.<ref>Donko, Wilhelm M.: ''Österreichs Kriegsmarine in Fernost: Alle Fahrten von Schiffen der k.(u.)k. Kriegsmarine nach Ostasien, Australien und Ozeanien von 1820 bis 1914.'' epubli, Berlin, (2013) – Page 4, 156–162, 427.</ref><ref>{{cite web |url=http://www.globalsecurity.org/military/world/japan/wakamiya-av.htm |title=IJN Wakamiya Aircraft Carrier |publisher=globalsecurity.org |accessdate=9 June 2011 |archiveurl= https://web.archive.org/web/20110604161105/http://www.globalsecurity.org/military/world/japan/wakamiya-av.htm|archivedate= 4 June 2011 |deadurl= no}}</ref>
+
+[[File:Japanese aircraft carrier Hōshō Tokyo Bay.jpg|thumb|Aerial view of [[Japanese aircraft carrier Hōshō|''Hōshō'']] of the [[Imperial Japanese Navy]] as completed in December 1922.]]
+The development of flattop vessels produced the first large fleet ships. In 1918, {{HMS|Argus|I49|6}} became the world's first carrier capable of launching and recovering naval aircraft.<ref>Geoffrey Till, "Adopting the Aircraft Carrier: The British, Japanese, and American Case Studies" in {{cite book |title= Military Innovation in the Interwar Period|edition=|editor1-first= Williamson|editor1-last= Murray|editor2-first= Allan R|editor2-last= Millet |year= 1996|publisher=Cambridge University Press|location= New York|isbn= 0-521-63760-0|page= 194}}</ref> As a result of the [[Washington Naval Treaty]] of 1922, which limited the construction of new heavy surface combat ships, most early aircraft carriers were conversions of ships that were laid down (or had served) as different ship types: cargo ships, cruisers, battle cruisers, or battleships. These conversions gave rise to {{sclass-|Lexington|aircraft carrier|2}}s (1927), [[Japanese aircraft carrier Akagi|''Akagi'']] and [[Courageous-class aircraft carrier|''Courageous''-class]]. Specialist carrier evolution was well underway, with several navies ordering and building warships that were purposefully designed to function as aircraft carriers by the mid-1920s, resulting in the commissioning of ships such as [[Japanese aircraft carrier Hōshō|''Hōshō'']] (1922), {{HMS|Hermes|95|6}} (1924), and [[French aircraft carrier Béarn|''Béarn'']] (1927). During [[World War II]], these ships would become the backbone of the carrier forces of the United States, British, and Japanese navies, known as [[fleet carrier]]s.
+
+===World War II===
+[[File:Attack on carrier USS Franklin 19 March 1945.jpg|thumb|Attack on carrier {{USS|Franklin|CV-13|6}}, 19 March 1945. The casualties included 724 killed.]] [[File:USS Enterprise (CV-6) in Puget Sound, September 1945.jpg|thumb|[[USS Enterprise (CV-6)]], the [[Most decorated US ships of World War II|most decorated US ship of World War II]].]]
+
+The aircraft carrier dramatically changed naval combat in [[World War II]], because air power was becoming a significant factor in warfare. The advent of aircraft as focal weapons was driven by the superior range, flexibility and effectiveness of carrier-launched aircraft. They had higher range and precision than naval guns, making them highly effective. The versatility of the carrier was demonstrated in November 1940 when {{HMS|Illustrious|87|6}} launched a long-range [[Battle of Taranto|strike on the Italian fleet]] at their base in [[Taranto]], signalling the beginning of the effective and highly mobile aircraft strikes. This operation incapacitated three of the six battleships at a cost of two torpedo bombers. World War II in the Pacific Ocean involved clashes between aircraft carrier fleets. The 1941 Japanese surprise attack on [[Naval Station Pearl Harbor|Pearl Harbor]] was a clear illustration of the power projection capability afforded by a large force of modern carriers. Concentrating six carriers in a single unit turned naval history about, as no other nation had fielded anything comparable. However, the vulnerability of carriers compared to traditional battleships when forced into a gun-range encounter was quickly illustrated by the sinking of [[HMS Glorious|HMS ''Glorious'']] by German battle cruisers during the [[Norwegian Campaign|Norwegian campaign in 1940]].
+
+This new-found importance of naval aviation forced nations to create a number of carriers, in efforts to provide air superiority cover for every major fleet in order to ward off enemy aircraft. This extensive usage required the construction of several new 'light' carriers. [[Escort aircraft carrier]]s, such as {{USS|Bogue|CVE-9|6}}, were sometimes purpose-built, but most were converted from merchant ships as a stop-gap measure to provide anti-submarine air support for convoys and amphibious invasions. Following this concept, [[Light aircraft carrier]]s built by the US, such as {{USS|Independence|CVL-22|6}}, represented a larger, more "militarized" version of the escort carrier. Although with similar complement to Escort carriers, they had the advantage of speed from their converted cruiser hulls. The UK [[1942 Design Light Fleet Carrier]] was designed for building quickly by civilian shipyards and with an expected service life of about 3 years.<ref>Robbins, Guy ''The Aircraft Carrier Story: 1908–1945''. 2001 London: Cassel p91</ref> They served the Royal Navy during the war and was the hull design chosen for nearly all aircraft carrier equipped navies after the war until the 1980s. Emergencies also spurred the creation or conversion of highly unconventional aircraft carriers. [[CAM ship]]s, were cargo-carrying merchant ships that could launch (but not retrieve) a single fighter aircraft from a catapult to defend the convoy from long range German aircraft.
+
+===Postwar era===
+[[File:USS Tripoli LPH10 a.jpg|thumb|USS ''Tripoli'', a US Navy ''Iwo Jima''-class helicopter carrier]]
+[[File:USS Enterprise (CVN-65).jpg|thumb|[[USS Enterprise (CVN-65)]], the world's first nuclear-powered carrier commissioned in 1961.]]
+
+Before World War II, international naval treaties of [[Washington Naval Treaty|1922]], [[London Naval Treaty|1930]] and [[Second London Naval Treaty|1936]] limited the size of capital ships including carriers.
+
+Since World War II, aircraft carrier designs have increased in size to accommodate a steady increase in aircraft size. The large, modern {{sclass-|Nimitz|aircraft carrier|4}} of US carriers has a displacement nearly four times that of the World War II–era {{USS|Enterprise|CV-6|6}}, yet its complement of aircraft is roughly the same—a consequence of the steadily increasing size and weight of military aircraft over the years. Today's aircraft carriers are so expensive that nations which operate them risk significant political, economic, and military impact if a carrier is lost, or even used in conflict.
+
+Modern navies that operate such aircraft carriers treat them as the [[capital ship]] of the fleet, a role previously held by the [[battleship]]. This change took place during World War II in response to air power becoming a significant factor in warfare, driven by the superior range, flexibility and effectiveness of carrier-launched aircraft. Following the war, carrier operations continued to increase in size and importance. [[Supercarrier]]s, displacing 75,000&nbsp;tonnes or greater, have become the pinnacle of carrier development. Some are powered by [[nuclear reactor]]s and form the core of a fleet designed to operate far from home. Amphibious assault ships, such as {{USS|Tarawa|LHA-1|6}} and {{HMS|Ocean|L12|6}}, serve the purpose of carrying and landing Marines, and operate a large contingent of helicopters for that purpose. Also known as "commando carriers"<ref>A number of British conversions of light fleet carriers to helicopter operations were known as commando carriers, though they did not operate landing craft</ref> or "helicopter carriers", many have the capability to operate [[VSTOL]] aircraft.
+
+Lacking the firepower of other warships, carriers by themselves are considered vulnerable to attack by other ships, aircraft, submarines, or missiles. Therefore, an aircraft carrier is generally accompanied by a number of other ships to provide protection for the relatively unwieldy carrier, to carry supplies and perform other support services, and to provide additional offensive capabilities. The resulting group of ships is often termed a battle group, carrier group, or [[carrier battle group]].
+
+There is a view that modern anti-ship weapons systems, such as torpedoes and missiles, have made aircraft carriers obsolete as too vulnerable for modern combat.<ref>http://www.usni.org/magazines/proceedings/2011-05/twilight-uperfluous-carrier</ref>  On the other hand, the threatening role of aircraft carriers has a place in modern [[asymmetric warfare]], like the [[gunboat diplomacy]] of the past.{{citation needed|date=October 2013}} Furthermore, aircraft carriers facilitate quick and precise projections of overwhelming military power into such local and regional conflicts.<ref>Lekic, Slobodan, Associated Press. [http://www.navytimes.com/news/2011/05/ap-navy-nations-expand-use-of-aircraft-carriers-050811/ "Navies expanding use of aircraft carriers"]. Navy Times</ref>
+
+===Aircraft carriers in service===
+[[File:US Navy 081022-N-9928E-131 enior Chief Aviation Boatswain's Mate (Handling) Wilson Theodore, from New Orleans, directs an aircraft onto a catapult aboard the Nimitz-class aircraft carrier USS John C. Stennis (CVN 74).jpg|thumb|right|US Navy personnel direct an aircraft onto a catapult aboard the Nimitz-class aircraft carrier USS John C. Stennis]]
+{{See also|List of aircraft carriers in service}}
+
+Most navies operate only one or two aircraft carriers, if any. The USA is a notable exception, with 10 super carriers and 9 amphibious assault ships in service.
+
+A total of 20 fleet carriers are in active service with ten navies. Additionally, the navies of [[Australia]], [[Brazil]], [[China]], [[France]], [[India]], [[Italy]], [[Japan]], [[Russia]], [[South Korea]], [[Spain]], [[Thailand]] and the [[United States]] also operate ships capable of carrying and operating multiple helicopters and STOVL aircraft.
+
+*CATOBAR types are operated by Brazil, France and especially the USA, which has ten in service.
+*STOBAR type are operated by China, India and Russia.
+*STOVL types are operated by India, Italy, Spain and the USA.
+
+Among helicopter-only types:
+*ASW ships are operated by Japan.
+*An offshore helicopter support ship is operated by Thailand.
+*Amphibious assault ships are operated by France, the Republic of Korea, the United Kingdom and especially the USA, which has nine in service.
+
+===Future of aircraft carriers===
+A good many aircraft carriers and related types are planned, under construction or undergoing commissioning activity.
+
+The [[Royal Australian Navy]] is in the process of procuring two [[Canberra-class landing helicopter dock|Canberra-class]] LHD's expected to enter service in 2014 and 2016 respectively.<ref>{{Cite web|url = http://www.canberratimes.com.au/act-news/blogs/in-your-defence/future-hmas-canberra-is-on-the-way-20120820-24h8e.html|title = Future HMAS Canberra is on the way|date = 20 August 2012|accessdate = 27 October 2014|website = canberratimes.com.au|publisher = Fairfax Media Network|last = |first = }}</ref> The ships will be the largest in Australian naval history. Their primary roles are to embark, transport and deploy an embarked force and to carry out or support humanitarian assistance missions. The LHD is capable of launching multiple helicopters at one time while maintaining an amphibious capability of 1,000 troops and their supporting vehicles (tanks, armoured personnel carriers etc.).<ref>{{Cite web|url = http://www.navy.gov.au/fleet/ships-boats-craft/lhd|title = Amphibious Assault Ship (LHD)|date = |accessdate = 27 October 2014|website = Royal Australian Navy|publisher = Australian Department of Defence|last = |first = |quote = embark, transport and deploy an embarked force (Army in the case of the ADF but could equally be an allied Army or Marines), along with their equipment and aviation units, and
+carry out/support humanitarian missions.}}</ref> The [[David Johnston (politician)|Australian Defence Minister]] has publically raised the possibility of procuring F-35B STOVL aircraft for the carrier, stating that it "has been on the table since day one. Stating the LHD's are "STOVL capable".<ref>{{Cite web|url = http://australianaviation.com.au/2014/05/johnston-raises-possibility-of-acquiring-f-35bs/|title = Johnston raises possibility of acquiring F-35Bs|date = 19 May 2014|accessdate = 27 October 2014|website = Australian Aviation|publisher = |last = |first = }}</ref>
+
+[[File:INS Vikrant being undocked at the Cochin Shipyard Limited in 2015 (02).jpg|thumb| [[INS Vikrant (2013)]] indigenously-built aircraft carrier (IAC) was undocked on 10 Jun 2015.]]
+[[File:JS Izumo (DDH-183) just after her launch.jpg|thumb|[[Izumo-class helicopter destroyer|JS Izumo (DDH-183)]] just after her launch.]]
+In December 2009, then [[Chief of the Naval Staff (India)|Indian Navy chief]] [[Admiral]] [[Nirmal Kumar Verma]] said at his maiden navy week press conference that concepts currently being examined by the Directorate of Naval Design for the [[INS Vishal|second indigenous aircraft carrier (IAC-2)]], are for a conventionally powered carrier displacing over 50,000 tons and equipped with steam catapults (rather than the ski-jump on the [[INS Vikramaditya|''Gorshkov''/''Vikramaditya'']] and the [[INS Vikrant (2013)|IAC]]) to launch fourth-generation aircraft.<ref name="indiatoday.intoday.in"/> Later on in August 2013 [[Vice Admiral]] [[RK Dhowan]], while talking about the detailed study underway on the [[INS Vishal|IAC-II project]], said that nuclear propulsion was also being considered.<ref>[http://timesofindia.indiatimes.com/india/Eye-on-future-India-mulls-options-for-nuclear-powered-aircraft-carrier/articleshow/21536515.cms Eye on future, India mulls options for nuclear-powered aircraft carrier] Times of India 1 August 2013</ref> The navy also evaluated the [[Electromagnetic Aircraft Launch System]] (EMALS), which is being used by the [[US Navy]] in their latest {{sclass-|Gerald R. Ford|aircraft carrier|1}}s. [[General Atomics]], the developer of the EMALS, was cleared by the US government to give a technical demonstration to Indian Navy officers, who were impressed by the new capabilities of the system. The EMALS enables launching varied aircraft including [[unmanned combat air vehicle]]s (UCAV).<ref name=bsne31m13>{{cite news|title=Navy eyes high-tech options for future aircraft carriers|url=http://www.business-standard.com/article/current-affairs/navy-eyes-high-tech-options-for-future-aircraft-carriers-113052900923_1.html|accessdate=29 July 2013|newspaper=Business Standard|date=31 May 2013}}</ref><ref name=navaltechinses>{{cite web|title=Indian Navy seeks EMALS system for second Vikrant-class aircraft carrier|url=http://www.naval-technology.com/news/newsindian-navy-seeks-emals-system-second-vikrant-class-aircraft-carrier|publisher=Naval Technology|accessdate=29 July 2013}}</ref> The aim is to have a total of three aircraft carriers in service, with two fully operational carriers and the third in refit.<ref name="Indiastrategic.in">{{cite web |url=http://www.indiastrategic.in/topstories2078_Indian_Navy_to_launch_indigenous_aircraft_carrier_Aug_12.htm |title=Indian Navy to launch indigenous aircraft carrier August 12 |publisher=Indiastrategic.in |date= |accessdate=26 October 2013}}</ref>
+
+In August 2013, a launching ceremony for Japan's largest military ship since World War II was held in Yokohama. The 820-foot-long, 19,500-ton flattop [[Izumo-class helicopter destroyer|destroyer Izumo]] will be deployed in March 2015.<ref>http://www.bbc.com/news/world-asia-23594519</ref> The ship will be able to carry up to 14 helicopters; however, only 7 ASW helicopters and 2 SAR helicopters are planned for the initial aircraft complement. For other operations, 400 troops and 50 3.5t trucks (or equivalent equipment) can also be carried. The flight deck has 5 helicopter landing spots that allow simultaneous landings or take-offs. The ship is equipped with 2 [[Phalanx CIWS]] and 2 [[SeaRAM]] for its defense. The destroyers of this class were initially intended to replace the two ships of the [[Shirane-class destroyer|''Shirane'' class]], which were originally scheduled to begin decommissioning in FY2014.
+
+Speaking in [[St. Petersburg, Russia]] on 30 June 2011, the head of Russia's [[United Shipbuilding Corporation]] said his company expected to begin design work for a new carrier in 2016, with a goal of beginning construction in 2018 and having the carrier achieve initial operational capability by 2023.<ref name="en.rian.ru">RIA NOVOSTI, [http://en.rian.ru/mlitary_news/20110630/164924604.html "Russia to build Nuclear Aircraft Carrier by 2023"] 30 June 2011.</ref> Several months later, on 3 November 2011 the Russian newspaper ''[[Izvestiya]]'' reported that the naval building plan now included (first) the construction of a new shipyard capable of building large hull ships, after which Moscow will build two(80 000 tons full load each) nuclear-powered aircraft carriers by 2027. The spokesperson said one carrier would be assigned to the [[Russian Navy]]'s [[Northern Fleet]] at [[Murmansk]], and the second would be stationed with the [[Pacific Fleet (Russia)|Pacific Fleet]] at [[Vladivostok]].<ref name="barentsobserver.com">[http://www.barentsobserver.com/russia-to-build-two-aircraft-carriers.4980466-58932.html "Russia to Build Two Aircraft Carriers", 3 November 2011] {{wayback|url=http://www.barentsobserver.com/russia-to-build-two-aircraft-carriers.4980466-58932.html |date=20120406191508 }}</ref>
+
+The [[Republic of Korea Navy]] believes it can deploy two light aircraft carriers by 2036 and expand its blue-water force to cope with the rapid naval buildups of China and Japan, according to a Navy source.<ref name="defensenews.com">{{cite web|url=http://www.defensenews.com/article/20131026/DEFREG03/310260005/ |title=S. Korea Envisions Light Aircraft Carrier |publisher=defensenews.com |date=15 January 2014 |accessdate=19 January 2014}}</ref>
+
+[[File:HMS Queen Elizabeth.jpg|thumb|right|[[HMS Queen Elizabeth (R08)|HMS ''Queen Elizabeth'']], the lead [[Queen Elizabeth-class aircraft carrier|''Queen Elizabeth''-class]] [[supercarrier]] ]]
+
+The British [[Royal Navy]] is constructing two new larger STOVL aircraft carriers, the [[Queen Elizabeth-class aircraft carrier|''Queen Elizabeth'' class]], to replace the three [[Invincible-class aircraft carrier|''Invincible''-class]] carriers. The ships will be named {{HMS|Queen Elizabeth|R08|6}} and {{HMS|Prince of Wales|R09|6}}.<ref name="pike_cvf">"[http://www.globalsecurity.org/military/world/europe/cvf.htm ''Queen Elizabeth'' class Future Aircraft Carrier CVF (002)]." Pike, J. GlobalSecurity.org.</ref><ref name="web.archive.org 7486683">{{cite news|url=http://news.bbc.co.uk/1/hi/uk/7486683.stm |title=UK, £3.2bn giant carrier deals signed |publisher=BBC News |date=3 July 2008 |accessdate=30 January 2009 |archiveurl= https://web.archive.org/web/20090107090157/http://news.bbc.co.uk/1/hi/uk/7486683.stm |archivedate= 7 January 2009 |deadurl= no}}</ref> They will be able to operate up to 40 aircraft in peace time with a tailored group of up to 50, and will have a displacement of 70,600&nbsp;tonnes. The ships are due to become operational from 2020.<ref name=Hansard20120510>{{citation |url=http://www.publications.parliament.uk/pa/cm201213/cmhansrd/cm120510/debtext/120510-0001.htm#12051029000006 |title=House of Commons Hansard Debates for 10 May 2012 |publisher=UK Parliament |date=10 May 2012}}</ref> Their primary aircraft complement will be made up of [[F-35 Lightning II|F-35B Lightning IIs]], and their ship's company will number around 680 with the total complement rising to about 1600 when the air group is embarked. Defensive weapons will include the [[Phalanx CIWS|Phalanx Close-In Weapons System]] for [[anti-aircraft]] and [[anti-missile]] defence; also [[30mm DS30M Mark 2 Automated Small Calibre Gun|30mm Automated Small Calibre Gun]]s and [[Minigun]]s for use against [[fast attack craft]].<ref>[http://www.royalnavy.mod.uk/The-Fleet/Ships/Future-Ships/Queen-Elizabeth-Class/Facts-and-Figures Royal Navy - Queen Elizabeth Class - Facts and Figures]</ref> The two ships will be the largest warships ever built for the Royal Navy.
+
+The current US fleet of [[Nimitz-class aircraft carrier|''Nimitz''-class]] carriers will be followed into service (and in some cases replaced) by the [[Gerald R. Ford-class aircraft carrier|''Gerald R. Ford'' class]]. It is expected that the ships will be more automated in an effort to reduce the amount of funding required to maintain and operate its [[supercarrier]]s. The main new features are implementation of [[Electromagnetic Aircraft Launch System]] (EMALS) (which replace the old steam catapults) and [[unmanned aerial vehicle]]s.<ref name="Aircraft Carriers - CVN">{{cite web |url=http://www.navy.mil/navydata/fact_display.asp?cid=4200&tid=200&ct=4 |title=Aircraft Carriers – CVN |publisher=US Navy |accessdate=26 October 2013}}</ref> With the deactivation of the {{USS|Enterprise|CVN-65|6}} in December 2012 (decommissioning scheduled for 2013), the U.S. fleet comprises 10 supercarriers. On 24 July 2007, the [[United States House Armed Services Subcommittee on Seapower and Expeditionary Forces|House Armed Services Seapower subcommittee]] recommended seven or eight new carriers (one every four years). However, the debate has deepened over budgeting for the $12–14.5&nbsp;billion (plus $12&nbsp;billion for development and research) for the 100,000 ton ''Gerald R. Ford''-class carrier (estimated service 2015) compared to the smaller $2&nbsp;billion 45,000 ton [[America-class amphibious assault ship|''America''-class amphibious assault ship]]s able to deploy squadrons of [[F-35B]] of which two are already under construction and twelve are planned.<ref name="AFAmag">{{cite journal |last = Kreisher |first = Otto|title = Seven New Carriers (Maybe) |journal=Air Force Magazine |volume = 90 |issue = 10 |pages = 68–71 |date=October 2007 |publisher=Air Force Association |url = http://www.airforce-magazine.com/MagazineArchive/Pages/2007/October%202007/1007carriers.aspx |accessdate =2 October 2007 |issn = 0730-6784 }}</ref>
+
+==Description==
+
+===Structure===
+[[File:USS Roosevelt CV-42 Med 1976-77.jpg|thumb|right|STOVL Harriers preparing to takeoff from CATOBAR carrier, {{USS|Franklin D. Roosevelt|CV-42}}]]
+
+Carriers are large and long ships, although there is a high degree of variation depending on their intended role and [[air wing|aircraft complement]]. The size of the carrier has varied over history and among [[navy|navies]], to cater to the various roles that global climates have demanded from [[naval aviation]].
+
+Regardless of size, the ship itself must house their complement of aircraft, with space for launching, storing, and maintaining them. Space is also required for the large crew, supplies (food, munitions, fuel, engineering parts), and propulsion. US supercarriers are notable for having [[nuclear reactor]]s powering their systems and propulsion. This makes the carrier reasonably tall.
+
+The top of the carrier is the flight deck, where aircraft are launched and recovered. On the starboard side of this is the island, where air-traffic control and the [[bridge (nautical)|bridge]] are located.
+
+The constraints of constructing a flight deck affect the role of a given carrier strongly, as they influence the weight, type, and configuration of the aircraft that may be launched. For example, assisted launch mechanisms are used primarily for heavy aircraft, especially those loaded with air-to-ground weapons. CATOBAR is most commonly used on USN [[supercarrier]]s as it allows the deployment of heavy jets with full loadouts, especially on ground-attack missions. STOVL is used by other navies because it is cheaper to operate and still provides good deployment capability for [[fighter aircraft]].
+
+[[File:DeHavilland Vampire HMS Ocean Dec1945 NAN1 47.jpg|thumb|The first carrier landing and take-off of a jet aircraft: [[Eric "Winkle" Brown]] landing on {{HMS|Ocean|R68}} in 1945.]]
+Due to the busy nature of the flight deck, only 20 or so aircraft may be on it at any one time. A hangar storage several decks below the flight deck is where most aircraft are kept, and aircraft are taken from the lower storage decks to the flight deck through the use of an elevator. The hangar is usually quite large and can take up several decks of vertical space.<ref>How Aircraft Carriers Work, ''How Stuff Works'', by Tom Harris – http://science.howstuffworks.com/aircraft-carrier6.htm Accessed 5 October 2013</ref>
+
+Munitions are commonly stored on the lower decks because they are highly explosive should the compartment they are in be breached. Usually this is below the water line so that the area can be flooded in case of emergency.
+
+===Flight deck===
+{{Main|Flight deck}}
+[[File:US Navy 081124-N-3659B-305 F-A-18C Hornets launch from the Nimitz-class aircraft carrier USS Ronald Reagan (CVN 76).jpg|thumb|[[Catapult]] launches aboard [[USS Ronald Reagan]].]]
+[[File:Vikramaditya 5.jpg|thumb| Expansive Flight Deck of [[INS Vikramaditya]] at night showing the [[Flight Deck#Ski-jump ramp|ski-jump ramp]] used for [[STOBAR]] configuration]]
+[[File:An F-35B Lightning II aircraft lands aboard the amphibious assault ship USS Wasp (LHD 1).jpg|thumb|An [[F-35B Lightning II]] aircraft lands aboard the amphibious assault ship [[USS Wasp (LHD 1)]]]]
+
+As "runways at sea", aircraft carriers have a flat-top [[flight deck]], which [[Takeoff|launches]] and [[landing|recovers]] aircraft. Aircraft launch forward, into the wind, and are recovered from astern. The flight deck is where the most notable differences between a carrier and a land runway are found. Creating such a surface at sea poses constraints on the carrier – for example, the fact that it is a ship means that a full-length runway would be costly to construct and maintain. This affects take-off procedure, as a shorter runway length of the deck requires that aircraft [[accelerate]] more quickly to gain lift. This either requires a thrust boost, a vertical component to its velocity, or a reduced take-off load (to lower mass). The differing types of deck configuration, as above, influence the structure of the flight deck. The form of launch assistance a carrier provides is strongly related to the types of aircraft embarked and the design of the carrier itself.
+
+There are two main philosophies in order to keep the deck short: add thrust to the aircraft, such as using a Catapult Assisted Take-Off (CATO-); and changing the direction of the airplanes' thrust, as in Vertical and/or Short Take-Off (V/STO-). Each method has advantages and disadvantages of its own:
+*[[CATOBAR|Catapult Assisted Take-Off But Arrested Recovery]] (CATOBAR): A steam-powered [[Aircraft catapult|catapult]] is connected to the aircraft, and is used to accelerate conventional aircraft to a safe flying speed. By the end of the catapult stroke, the aircraft is airborne and further propulsion is provided by its own engines. This is the most expensive method as it requires complex machinery to be installed under the flight deck, but allows for even heavily-loaded aircraft to take off.
+*[[STOBAR|Short take-off but arrested recovery]] (STOBAR) depends on increasing the net lift on the aircraft. Aircraft do not require catapult assistance for take off; instead on nearly all ships of this type an upwards vector is provided by a ski-jump at the forward end of the flight deck, often combined with thrust vectoring by the aircraft. Alternatively, by reducing the fuel and weapon load, an aircraft is able to reach faster speeds and generate more upwards lift and launch without a ski-jump or catapult.
+*[[STOVL|Short take-off vertical-landing]] (STOVL): On aircraft carriers, non-catapult-assisted, fixed-wing short takeoffs are accomplished with the use of [[thrust vectoring]], which may also be used in conjunction with a runway "ski-jump". Use of STOVL tends to allow aircraft to carry a larger payload as compared to during VTOL use, while still only requiring a short runway. The most famous examples are the [[Hawker Siddeley Harrier]] and the [[Sea Harrier]]. Although technically VTOL aircraft, they are operationally STOVL aircraft due to the extra weight carried at take-off for fuel and armaments. The same is true of the [[F-35B Lightning II]], which demonstrated VTOL capability in test flights but is operationally STOVL.
+*[[VTOL|Vertical take-off and landing]] (VTOL): Aircraft are specifically designed for the purpose of using very high degrees of thrust vectoring (e.g. if the thrust to weight-force ratio is greater than 1, it can take off vertically), but are usually slower than conventionally-propelled aircraft.
+
+On the recovery side of the flight deck, the adaptation to the aircraft loadout is mirrored. Non-VTOL or conventional aircraft cannot decelerate on their own, and almost all carriers using them must have arrested-recovery systems (-BAR, e.g. CATO''BAR'' or STO''BAR'') to recover their aircraft. Aircraft that are landing extend a [[tailhook]] that catches on [[arrestor wires]] stretched across the deck to bring themselves to a stop in a short distance. Post-WWII Royal Navy research on safer CATOBAR recovery eventually lead to universal adoption of a landing area angled off axis to allow aircraft who missed the arresting wires to "bolt" and safely return to flight for another landing attempt rather than crashing into aircraft on the forward deck.
+
+If the aircraft are VTOL-capable or helicopters, they do not need to decelerate and hence there is no such need. The arrested-recovery system has used an angled deck since the 1950s because, in case the aircraft does not catch the arresting wire, the short deck allows easier take off by reducing the number of objects between the aircraft and the end of the runway. It also has the advantage of separating the recovery operation area from the launch area. [[Helicopter]]s and aircraft capable of vertical or short take-off and landing ([[V/STOL]]) usually recover by coming abreast the carrier on the port side and then using their hover capability to move over the flight deck and land vertically without the need for arresting gear.
+
+====Staff and Deck Operations====
+[[File:F-18 - A 3-wire landing.ogv|thumb|F/A-18 landing video]]
+
+Carriers steam at speed, up to {{nowrap|35 [[knot (unit)|knots]]}} ({{nowrap|65&nbsp;km/h}}) into the wind during flight deck operations to increase wind speed over the deck to a safe minimum. This increase in effective wind speed provides a higher launch airspeed for aircraft at the end of the catapult stroke or ski-jump, as well as making recovery safer by reducing the difference between the relative speeds of the aircraft and ship.
+
+Since the early 1950s on conventional carriers it has been the practice to recover aircraft at an angle to port of the axial line of the ship. The primary function of this angled deck is to allow aircraft that miss the arresting wires, referred to as a [[Bolter (aviation)|bolter]], to become airborne again without the risk of hitting aircraft parked forward. The angled deck allows the installation of one or two "waist" catapults in addition to the two bow cats. An angled deck also improves [[launch and recovery cycle]] flexibility with the option of simultaneous launching and recovery of aircraft.
+
+Conventional ("tailhook") aircraft rely upon a [[landing signal officer]] (LSO, radio call sign ''paddles'') to monitor the aircraft's approach, visually gauge glideslope, attitude, and airspeed, and transmit that data to the pilot. Before the angled deck emerged in the 1950s, LSOs used colored paddles to signal corrections to the pilot (hence the nickname). From the late 1950s onward, visual landing aids such as [[Optical Landing System]] have provided information on proper [[glide slope]], but LSOs still transmit voice calls to approaching pilots by radio.
+
+[[File:USS Harry S Truman (CVN-75) Flight Deck.JPG|thumb|left||[[F/A-18 Hornet]]s on the [[flight deck]] of the {{sclass-|Nimitz|aircraft carrier|0}} {{USS|Harry S. Truman|CVN-75|2}} ]]
+Key personnel involved in the flight deck include the shooters, the handler, and the air boss. Shooters are [[naval aviator]]s or [[Naval Flight Officer]]s and are responsible for launching aircraft. The handler works just inside the island from the flight deck and is responsible for the movement of aircraft before launching and after recovery. The "air boss" (usually a [[commander]]) occupies the top bridge (Primary Flight Control, also called ''primary'' or ''the tower'') and has the overall responsibility for controlling launch, recovery and "those aircraft in the air near the ship, and the movement of planes on the flight deck, which itself resembles a well-choreographed ballet."<ref>{{cite web|url= http://www.navy.mil/navydata/ships/carriers/powerhouse/powerhouse.asp |title= The US Navy Aircraft Carriers |publisher=Navy.mil |accessdate=30 January 2009 |archiveurl= https://web.archive.org/web/20090221142917/http://www.navy.mil/navydata/ships/carriers/powerhouse/powerhouse.asp |archivedate= 21 February 2009  |deadurl= no}}</ref> The captain of the ship spends most of his time one level below primary on the Navigation Bridge. Below this is the Flag Bridge, designated for the embarked admiral and his staff.
+
+To facilitate working on the flight deck of a U.S. aircraft carrier, the sailors wear colored shirts that designate their responsibilities. There are at least seven different colors worn by flight deck personnel for [[modern United States Navy carrier air operations]]. Carrier operations of other nations use similar color schemes.
+
+====Deck structures====
+[[File:US Navy 100512-N-8446A-004 An F-A-18F Super Hornet assigned to the Fighting Checkmates of Strike Fighter Squadron (VFA) 211 lands aboard the aircraft carrier USS Enterprise (CVN 65).jpg|thumb|Island control structure of the {{USS|Enterprise|CVN-65}}]]
+
+The superstructure of a carrier (such as the [[bridge (ship)|bridge]], flight [[control tower]]) are concentrated in a relatively small area called an ''island'', a feature pioneered on the {{HMS|Hermes|95|6}} in 1923. While the island is usually built on the [[starboard]] side of the fight deck, the Japanese aircraft carriers [[Japanese aircraft carrier Akagi|''Akagi'']] and [[Japanese aircraft carrier Hiryū|''Hiryū'']] had their islands built on the [[Port and starboard|port]] side. Very few carriers have been designed or built without an island. The ''flush deck'' configuration proved to have significant drawbacks, primary of which was management of the exhaust from the power plant. Fumes coming across the deck were a major issue in the {{USS|Langley|CV-1}}.  In addition, lack of an island meant difficulties managing the flight deck, performing air traffic control, a lack of radar housing placements and problems with navigating and controlling the ship itself.{{sfn|Friedman|1983|pp=241-243}}
+
+Another deck structure that can be seen is a [[ski-jump ramp]] at the forward end of the flight deck. This was first developed to help launch [[STOVL]] aircraft take off at far higher weights than is possible with a vertical or rolling takeoff on flat decks. Originally developed by the Royal Navy, it since has been adopted by many navies for smaller carriers. A ski-jump ramp works by converting some of the forward rolling movement of the aircraft into vertical velocity and is sometimes combined with the aiming of jet thrust partly downwards. This allows heavily loaded and fueled aircraft a few more precious seconds to attain sufficient air velocity and lift to sustain normal flight. Without a ski-jump launching fully loaded and fueled aircraft such as the Harrier would not be possible on a smaller flat deck ship before either [[Stall (flight)|stalling out]] or crashing directly into the sea.
+
+[[File:FRS.1 ski-jump take-off HMS Invincible.JPEG|thumb|left|Ski-jump on Royal Navy carrier {{HMS|Invincible|R05}}]]
+Although STOVL aircraft are capable of taking off vertically from a spot on the deck, using the ramp and a running start is far more fuel efficient and permits a heavier launch weight. As catapults are unnecessary, carriers with this arrangement reduce weight, complexity, and space needed for complex steam or electromagnetic launching equipment, vertical landing aircraft also remove the need for arresting cables and related hardware. Russian, Chinese, and future Indian carriers include a ski-jump ramp for launching lightly loaded conventional fighter aircraft but recover using traditional carrier arresting cables and a tailhook on their aircraft.
+
+The disadvantage of the ski-jump is the penalty it exacts on aircraft size, payload, and fuel load (and thus range); heavily laden aircraft can not launch using a ski-jump because their high loaded weight requires either a longer takeoff roll than is possible on a carrier deck, or assistance from a catapult or JATO rocket. For example, the Russian Su-33 is only able to launch from the carrier ''Kuznetsov'' with a minimal armament and fuel load. Another disadvantage is on mixed flight deck operations where helicopters are also present such as a US [[Landing Helicopter Dock]] or [[Landing Helicopter Assault]] amphibious assault ship a ski jump is not included as this would eliminate one or more helicopter landing areas, this flat deck limits the loading of Harriers but is somewhat mitigated by the longer rolling start provided by a long flight deck compared to many STOVL carriers.
+
+==National fleets==
+{{See also|List of aircraft carriers by country|List of aircraft carriers in service}}
+[[File:World Navy Aircraft carries chart.svg|thumb|right|upright=1.35|Chart of aircraft and helicopter carriers from around the world]]
+
+A total of 20 fleet carriers are in active service with ten navies. Additionally, the navies of Australia, Brazil, China, France, India, Italy, Japan, South Korea, Spain, Thailand and the United States also operate ships capable of carrying and operating multiple helicopters and STOVL aircraft.
+
+===Australia===
+[[File:HMAS Canberra (LHD 02) at berth prior to commissioning.jpg|thumb|right|[[HMAS Canberra (LHD 02)|HMAS ''Canberra'']], a [[Canberra-class landing helicopter dock|''Canberra'' -class landing helicopter dock]]]]
+
+====Future====
+The [[Canberra-class landing helicopter dock|''Canberra'' class]] of landing helicopter docks, based on the Spanish vessel [[Spanish ship Juan Carlos I (L61)|''Juan Carlos I'']], is composed of two ships one of which has just entered service. The class is being built by [[Navantia]] and [[BAE Systems Australia]]; and [[HMAS Canberra (LHD 02)|HMAS ''Canberra'']] is the largest ship ever built for the [[Royal Australian Navy]].<ref name="Naval-technology.com">{{cite web |url=http://www.naval-technology.com/projects/canberra-class-landing-helicopter-docks-lhds/ |title=Canberra Class Landing Helicopter Docks (LHDs), Australia |publisher=Naval-technology.com |accessdate=26 October 2013}}</ref> ''Canberra'' underwent sea trials in late 2013 and has been commissioned in 2014, while [[HMAS Adelaide (LHD 01)|HMAS ''Adelaide'']] is expected to enter service in 2016. The Australian version retains the ski-ramp from the ''Juan Carlos I'' design, although the RAN has not acquired carrier based [[fixed-wing aircraft]].
+
+===Brazil===
+[[File:Sao Paulo carrier.jpg|thumb|right|[[Brazilian aircraft carrier São Paulo (A12)|NAe ''São Paulo'' (A12)]] aircraft carrier of the [[Brazilian Navy]] ]]
+
+====Current====
+One [[CATOBAR]] carrier: [[Brazilian aircraft carrier São Paulo (A12)|NAe ''São Paulo'' (A12)]] is a Clemenceau-class aircraft carrier currently in service with the [[Brazilian Navy]]. The São Paulo was first commissioned in 1963 by the French Navy as the Foch and was transferred in 2000 to Brazil, where she became the new flagship of the Brazilian Navy. During the period from 2005–2010, the ''São Paulo'' underwent extensive modernization.<ref name= "Alide">{{citation | trans_title = NAe São Paulo’s second docking | url = http://www.alide.com.br/joomla/index.php/component/content/article/34-ed33/44-sp-docagem2 | title = A segunda docagem do NAe São Paulo | publisher = Alide | place = BR | language = Portuguese | accessdate = 24 June 2009}}</ref> At the end of 2010, sea trials began, and {{as of|2011|lc=y}} the ''São Paulo'' had been evaluated by the CIASA (Inspection Commission and Training Advisory).  She was expected to rejoin the fleet in late 2013, but suffered another major fire in 2012.<ref>{{Citation | url = http://agenciabrasil.ebc.com.br/noticia/2012-02-23/militar-ferido-em-incendio-no-porta-avioes-sao-paulo-permanece-em-observacao | language = Portuguese | title = Militar ferido em incêndio no porta-aviões São Paulo permanece em observação | trans_title = Military blessed in fire at the aircraft carrier São Paulo continues under observation | newspaper = Agência Brasil | publisher = EBC}}.</ref>
+
+===China===
+[[File:Varyag during refitting.jpg|thumb|China's first aircraft carrier ''[[Chinese aircraft carrier Liaoning|Liaoning]]'' under refit in [[Dalian Shipbuilding Industry Company]]]]
+
+====Current====
+One [[STOBAR]] carrier: [[Chinese aircraft carrier Liaoning|''Liaoning'']] was originally built as the 57,000 tonne Soviet [[Kuznetsov-class aircraft carrier|''Kuznetsov''-class]] carrier [[Kuznetsov-class aircraft carrier#Hull 2 - Liaoning|''Varyag'']]<ref name="bbc20110608">{{cite news | title= China aircraft carrier confirmed by general | url= http://www.bbc.co.uk/news/world-asia-pacific-13692558 | newspaper= [[BBC News]] | date= 8 June 2011 |accessdate=9 June 2011 |archiveurl= https://web.archive.org/web/20110609071512/http://www.bbc.co.uk/news/world-asia-pacific-13692558 |archivedate= 9 June 2011 |deadurl= no}}</ref> and was later purchased as a stripped [[Hulk (ship)|hulk]] by China in 1998 on the pretext of use as a floating casino, then partially rebuilt and towed to China for completion.<ref>{{cite web|url=http://behindthewall.nbcnews.com/_news/2012/09/25/14092055-china-brings-its-first-aircraft-carrier-into-service-joining-9-nation-club |title= China brings its first aircraft carrier into service, joining 9-nation club | work = Behind The Wall |publisher= NBC | date = 25 September 2012 |accessdate=26 October 2013}}</ref><ref>{{cite web|url = http://www.globalsecurity.org/military/world/china/liaoning.htm |title=Liaoning, ex-Varyag|publisher=Global Security|accessdate=30 September 2013}}</ref> The ''Liaoning'' was commissioned on 25 September 2012, and began service for testing and training.<ref>{{Cite news|url=http://www.bbc.co.uk/news/world-asia-china-19710040|title=China's first aircraft carrier enters service|work=BBC News|date=25 September 2012|accessdate=30 September 2013}}</ref> On 24 or 25 November 2012, ''Liaoning'' successfully launched and recovered several [[Shenyang J-15]] jet fighter aircraft.<ref>{{cite web | last =Axe | first = David|url= http://www.wired.co.uk/news/archive/2012-11/26/china-aircraft-carrier-launches-first-jet |title=China's aircraft carrier successfully launches its first jet fighters|work= Wired | date = 26 November 2012|accessdate=30 September 2013}}</ref><ref>{{cite web|url= http://www.foxnews.com/world/2012/11/25/china-lands-first-jet-on-its-aircraft-carrier/ | title = China lands first jet on its aircraft carrier | publisher =Fox | work = News |date=25 November 2012 |accessdate=26 October 2013}}</ref><ref>{{cite web|url = http://newsinfo.inquirer.net/312811/china-lands-first-jet-on-its-aircraft-carrier |title= China lands first jet on its aircraft carrier | publisher = Inquirer | work = News info |date=25 November 2012 |accessdate = 26 October 2013}}</ref>  She is classified as a training ship, intended to allow the navy to practice with carrier usage. On 26 December 2012, the People's Daily reported that it will take four to five years for ''Liaoning'' to reach full capacity, mainly due to training and coordination which will take significant amount of time for Chinese [[PLA Navy]] to complete as this is the first aircraft carrier in their possession.<ref>{{cite web |url=http://www.airforceworld.com/blog/j15-fighter-takeoff-on-carrier-liaoning/ |title=Liaoning aircraft carrier will reach full capacity in 4-5 years |work=AirForceWorld.com |date=Dec 26, 2012}}</ref>  As it is a training ship, ''Liaoning'' is not assigned to any of China's operation fleets.<ref>[{{cite web|url=http://www.flightglobal.com/news/articles/chinese-officer-hints-at-countrys-big-aircraft-carrier-plans-385065/|title=Chinese officer hints at country’s big aircraft carrier plans |last1=Waldron |first1=Greg |date=24 April 2013|work=Flight International |publisher=FlightGlobal |accessdate=April 24, 2013}}]</ref>
+
+===Egypt===
+[[File:Владивосток - Saint-Nazaire décembre 2014.jpg|thumb|''Vladivostok'' docked at [[Saint-Nazaire]], December 2014]]
+
+====Future====
+Egypt signed a contract with French shipbuilder [[DCNS (company)|DCNS]] to buy two [[Mistral-class amphibious assault ship|Mistral-class]] helicopter carriers for approximately 950 million euros after the deal with Russia was canceled by France due to Russian involvement in Ukraine.<ref>{{cite news |url=http://www.defenceweb.co.za/index.php?option=com_content&view=article&id=41009:egypt-signs-mistral-contract-with-france&catid=51:Sea&Itemid=106 |title=Egypt signs Mistral contract with France |website=defenceweb.co.za|date=12 October 2015}}</ref> The vessels will be delivered in 2016.<ref>{{cite news |url=http://sputniknews.com/military/20151012/1028396121/mistrals-arriving-egypt-summer-2014.html |website=sputniknews.com|date=12 October 2015}}</ref>
+
+===France===
+[[File:Charles De Gaulle (R91) underway 2009.jpg|thumb|right|[[French aircraft carrier Charles de Gaulle (R91)|''Charles de Gaulle'']] aircraft carrier of the [[French Navy]]]]
+
+====Current====
+1 [[CATOBAR]] carrier: [[French aircraft carrier Charles de Gaulle (R91)|''Charles de Gaulle'' (R91)]] is a 42,000 tonne nuclear-powered aircraft carrier, commissioned in 2001 and is the flagship of the French Navy (Marine Nationale). The ship carries a complement of [[Dassault-Breguet Super Étendard]], [[Dassault Rafale|Dassault Rafale&nbsp;M]] and [[Grumman E-2 Hawkeye|E&#8209;2C Hawkeye]] aircraft, [[Eurocopter EC725|EC725 Caracal]] and [[Eurocopter AS532 Cougar|AS532 Cougar]] helicopter for [[combat search and rescue]], as well as modern electronics and [[MBDA Aster|Aster]] missiles. It is a [[CATOBAR]]-type carrier that uses two 75&nbsp;m C13‑3 steam catapults of a shorter version of the catapult system installed on the U.S. [[Nimitz-class|''Nimitz'' class]] carriers, one catapult at the bow and one across the front of the landing area.<ref>http://www.globalsecurity.org/military/world/europe/cdg.htm</ref>
+
+3 Amphibious assault ships: [[Mistral-class amphibious assault ship|''Mistral''-class]], 21,500 tonne full deck amphibious assault ships with hospital and well deck.
+
+===India===
+[[File:INS Vikramaditya 13.jpg|thumb|Indian Navy's aircraft carriers [[INS Vikramaditya (R33)|INS ''Vikramaditya'']] and [[INS Viraat (R22)|INS ''Viraat'']] in 2014]]
+
+====Current====
+1 [[STOBAR]] carrier: {{INS|Vikramaditya}}, 45,400 tonnes, [[Kiev class aircraft carrier|modified ''Kiev''-class]]. The carrier was purchased by India on 20 January 2004 after years of negotiations at a final price of $2.35 billion. The ship successfully completed her sea trials in July 2013 and aviation trials in September 2013. She was formally commissioned on 16 November 2013 at a ceremony held at Severodvinsk, Russia.<ref name= ibnlive>{{cite web|title=Aircraft carrier INS Vikramaditya inducted into Indian Navy| publisher = IN | url = http://ibnlive.in.com/news/aircraft-carrier-ins-vikramaditya-inducted-into-indian-navy/434490-3.html | work = IBN Live |accessdate= 16 November 2013}}</ref>
+
+1 [[STOVL]] carrier: {{INS|Viraat}}: 28,700 tonne ex-British [[STOVL]] converted carrier {{HMS|Hermes|R12|6}} (launched 1953), purchased in 1986 and commissioned in 1987, scheduled to be decommissioned by 2016.<ref>{{Cite web|url = http://www.thehindu.com/news/national/ins-viraat-to-be-decommissioned-in-2016/article6884261.ece|title = INS Viraat to be decommissioned in 2016|date = |accessdate = |website = |publisher = |last = |first = }}</ref>
+
+====Future====
+{{main|Vikrant-class aircraft carrier}}
+India started the construction of a 40,000-tonne, 260-metre-long [[Vikrant-class aircraft carrier|''Vikrant''-class]] aircraft carrier in 2009.<ref name = "iac">{{cite web | title= Indian Aircraft Carrier (Project 71) | work = Indian Navy [Bharatiya Nau Sena] |publisher=Bharat Rakshak |url= http://www.bharat-rakshak.com/NAVY/Ships/Future/185-Indian-Aircraft-Carrier.html |accessdate=11 September 2009}}</ref>  The new carrier will operate [[MiG-29K]] and naval [[HAL Tejas]] aircraft along with the Indian-made helicopter [[HAL Dhruv]].<ref name="iac"/> The ship will be powered by four gas-turbine engines and will have a range of {{convert|8,000|nmi|km|abbr=off}}, carrying 160 officers, 1,400 sailors, and 30 aircraft. The carrier is being constructed by [[Cochin Shipyard]].<ref name="iac"/> The ship was launched in August 2013 and is scheduled for commissioning in 2018.<ref name="indiatoday.intoday.in">{{cite news|title = First indigenous aircraft carrier to be launched next year: Navy chief |url = http://indiatoday.intoday.in/site/Story/73256/Top%20Stories/First+indigenous+aircraft+carrier+to+be+launched+next+year:+Navy+chief.html | newspaper = India Today |date = 2 December 2009 |accessdate =9 June 2011}}</ref><ref name="rss">{{cite news | title = Russian aircraft carrier ready in 2012 if India pays $2 bln more |url = http://en.rian.ru/russia/20081113/118299115.html |agency = RIA Novosti |date = 13 November 2008 |accessdate =9 June 2011 |archiveurl = https://web.archive.org/web/20110605150532/http://en.rian.ru/russia/20081113/118299115.html |archivedate= 5 June 2011 |deadurl= no}}</ref><ref name="ndtv.com">{{cite web |title = INS Vikrant, India's first indigenous aircraft carrier, to be launched on August 12 |url = http://www.ndtv.com/article/india/ins-vikrant-india-s-first-indigenous-aircraft-carrier-to-be-launched-on-august-12-400086?pfrom=home-lateststories |work = NDTV |date = 1 August 2013|accessdate =1 August 2013}}</ref><ref>{{cite news |title= India launches own aircraft carrier INS Vikrant |url= http://www.livemint.com/Politics/7YSe7KF2UkZUdZK2p45BnI/India-to-launch-own-aircraft-carrier-INS-Vikrant-today.html |publisher= Livemint |date= 12 August 2013 |accessdate= 13 August 2013}}</ref>
+
+A second ''Vikrant''-class carrier [[INS Vishal]] with a displacement of over 65,000 tons is planned and likely to be [[Nuclear marine propulsion|nuclear-powered]] with [[CATOBAR]] system to launch and recover heavier aircraft and [[Unmanned combat aerial vehicle|unmanned combat aircraft]]. The project is in the design phase as of April 2015.<ref>{{Cite web|url = http://thediplomat.com/2015/04/us-india-collaboration-on-aircraft-carriers-a-good-idea/|title = US-India Collaboration on Aircraft Carriers: A Good Idea?|date = |accessdate = |website = |publisher = |last = |first = }}</ref>
+
+===Italy===
+[[File:Cavour (550).jpg|thumb|right|[[Italian aircraft carrier Cavour (550)|''Cavour'']] aircraft carrier of the [[Italian Navy]]]]
+
+====Current====
+2 STOVL carriers:
+* [[Italian aircraft carrier Giuseppe Garibaldi (551)|''Giuseppe Garibaldi'' (551)]]: 14,000 tonne Italian STOVL carrier, commissioned in 1985.
+* [[Italian aircraft carrier Cavour (550)|''Cavour'' (550)]]: 27,000 tonne Italian STOVL carrier designed and built with secondary amphibious assault facilities, commissioned in 2008.<ref>{{cite web|url = http://www.freewebs.com/jeffhead/worldwideaircraftcarriers/cavour.htm |work =World Wide Aircraft Carriers | title = Cavour Page |publisher= Free webs | accessdate= 26 October 2013}}</ref>
+
+===Japan===
+[[File:Helicopter carrier Hyūga (16DDH).jpg|thumb|Helicopter carrier Hyūga (16DDH)]]
+
+====Current====
+2 helicopter carrier ships:[[Hyūga-class helicopter destroyer|''Hyūga''-class helicopter destroyer]] 19,000 tons (full load) [[anti-submarine warfare carrier]] with enhanced command-and-control capabilities allowing them to serve as fleet flagships.
+
+====Future====
+On 6 August 2013, a launching ceremony for Japan's largest military ship since World War II was held in Yokohama. The 820-foot-long, 19,500 tons (27,000 tons full load) [[Izumo-class helicopter destroyer|destroyer ''Izumo'']] helicopter carrier will be deployed in March 2015.<ref name="Indiastrategic.in"/>
+
+===Russia===
+[[File:Russian aircraft carrier Kuznetsov.jpg|thumb|[[Russian aircraft carrier Admiral Kuznetsov|Russian aircraft carrier ''Admiral Kuznetsov'']]]]
+
+====Current====
+1 STOBAR carrier: [[Russian aircraft carrier Admiral Kuznetsov|''Admiral Flota Sovetskovo Soyuza Kuznetsov'']]: 55,000 tonne [[Kuznetsov-class aircraft carrier|''Kuznetsov''-class]] [[STOBAR]] aircraft carrier. Launched in 1985 as ''Tbilisi'', renamed and operational from 1995. Without catapults she can launch and recover lightly fueled naval fighters for air defense or anti-ship missions but not heavy conventional bombing strikes.{{Citation needed|date=June 2013}}  Officially designated an aircraft carrying cruiser, she is unique in carrying a heavy cruiser's complement of defensive weapons and large [[P-700 Granit]] offensive missiles. The P-700 systems will be removed in the coming refit to enlarge her below decks aviation facilities as well as upgrading her defensive systems.<ref>{{Cite news|url=http://en.rian.ru/analysis/20100406/158454665.html|title=Moscow set to upgrade Admiral Kuznetsov aircraft carrier|agency=RIA Navosti|date=6 April 2010|accessdate=30 September 2013}}</ref><ref>{{cite web |url= http://rusnavy.com/nowadays/strength/surfaceships/kuznetzov/ |title= Admiral Flota Sovetskogo Soyuza Kuznetsov |publisher=Rus navy |accessdate=26 October 2013}}</ref>
+
+===Spain===
+
+====Current====
+1 STOVL carrier: [[Spanish ship Juan Carlos I (L61)|''Juan Carlos I'' (L61)]]: 27,000 tonne, Specially designed multipurpose strategic projection ship which can operate as an [[amphibious assault ship]] or STOVL carrier depending on mission requirement, has full facilities for both functions including a ski jump ramp, [[well deck]], and vehicle storage area which can be used as additional hangar space, launched in 2008, commissioned 30 September 2010.<ref>{{Citation | last = Head | first = Jeff | publisher = Free webs | url = http://www.freewebs.com/jeffhead/worldwideaircraftcarriers/bpe.htm | title = World wide aircraft carriers | contribution = BPE}}</ref>
+
+===South Korea===
+[[File:ROKS Dokdo (LPH 6111).jpg|thumb|right|[[ROKS Dokdo (LPH-6111)|ROKS ''Dokdo'']], a [[Dokdo-class amphibious assault ship|''Dokdo'' -class]] [[amphibious assault ship]] of the [[Republic of Korea Navy]].]]
+
+====Current====
+One [[Dokdo-class amphibious assault ship]] 18,860 ton full deck amphibious assault ship with hospital and well deck and facilities to serve as fleet flagship.
+
+====Future====
+South Korea believes it can procure 2 light aircraft carriers by 2036, which will help make the ROKN a blue water navy.<ref name="defensenews.com"/>
+
+===Thailand===
+
+====Current====
+One offshore helicopter support ship: [[HTMS Chakri Naruebet|HTMS ''Chakri Naruebet'']] helicopter carrier: 11,400 tonne STOVL carrier based on Spanish [[Spanish aircraft carrier Príncipe de Asturias|''Príncipe de Asturias'']] design. Commissioned in 1997. The AV-8S Matador/Harrier STOVL fighter wing, mostly inoperable by 1999,<ref>Carpenter & Wiencek, Asian Security Handbook 2000, p. 302.</ref> was retired from service without replacement in 2006.<ref>{{cite web|author=Author Index |url=http://pacificwingsmagazine.com/2011/03/08/end-of-a-legend%E2%80%94harrier-farewell/ |title=End of a Legend – Harrier Farewell &#124; Pacific Wings |publisher=Pacificwingsmagazine.com |date= |accessdate=26 October 2013}}</ref> Ship now used for royal transport, helicopter operations, and as a disaster relief platform.<ref>{{cite web|url=http://www.pattayadailynews.com/en/2010/11/03/thai-aircraft-carrier-assists-southern-relief-efforts/ |title=Thai Aircraft Carrier Assists Southern Relief Efforts &#124; Pattaya Daily News – Pattaya Newspaper, Powerful news at your fingertips |publisher=Pattaya Daily News |date=4 November 2010 |accessdate=26 October 2013}}</ref>
+
+===United Kingdom===
+
+====Current====
+One amphibious assault ship: [[HMS Ocean (L12)|HMS ''Ocean'']]. A 21,750 ton full deck amphibious assault ship based on the Invincible-class aircraft carrier hull<ref>{{cite web|url = http://www.naval-technology.com/projects/ocean/ | title = HMS Ocean (LPH01) Helicopter Carrier |publisher= Naval Technology |date= 15 June 2011 | accessdate = 26 October 2013}}</ref> but without facilities for fixed wing aviation.
+
+====Future====
+The [[Royal Navy]] is constructing two new larger STOVL aircraft carriers, the [[Queen Elizabeth-class aircraft carrier|''Queen Elizabeth'' class]], to replace the three [[Invincible-class aircraft carrier|''Invincible''-class]] carriers. The ships are {{HMS|Queen Elizabeth|R08|6}} and {{HMS|Prince of Wales|R09|6}}.<ref name="pike_cvf"/><ref name="web.archive.org 7486683"/> They will be able to operate up to 40 aircraft on peace time operations with a tailored group of up to 50, and will have a displacement of 70,600&nbsp;tonnes. The ships are due to become operational from 2020.<ref name="Hansard20120510" /> Their primary aircraft complement will be made up of [[F-35 Lightning II|F-35B Lightning IIs]], and their ship's company will number around 680 with the total complement rising to about 1600 when the air group is embarked. The two ships will be the largest warships ever built for the Royal Navy.
+
+===United States===
+[[File:USS Wasp (LHD 1).jpg|thumb|Amphibious assault ship [[USS Wasp (LHD 1)|USS ''Wasp'']]]]
+
+====Current====
+Ten CATOBAR carriers: {{sclass-|Nimitz|aircraft carrier|4}}: 10 101,000 ton nuclear-powered supercarriers, the first of which was commissioned in 1975. A ''Nimitz''-class carrier is powered by two [[nuclear reactor]]s and four [[steam turbine]]s and is {{convert|1,092|ft|m}} long.  The supercarrier [[USS Enterprise CVN-65]] will be decommissioned in 2016.
+
+Nine Amphibious assault ships:
+* {{sclass-|America|amphibious assault ship|4}} a class of 45,000 ton amphibious assault ships, although the lead ship in this class does not have a well deck. One ship in service out of a planned 12 ships. Ships of this class can have a secondary mission as a light carrier with 20 [[McDonnell Douglas AV-8B Harrier II|AV-8B Harrier II]], and in the future the [[F-35B Lightning II]] aircraft after unloading their Marine expeditionary unit.
+* {{sclass-|Wasp|amphibious assault ship|4}} a class of eight 41,000 ton amphibious assault ships, members of this class have been used in wartime in their secondary mission as light carriers with 20 to 25 AV-8Bs after unloading their Marine expeditionary unit.
+
+[[File:USS Gerald R. Ford (CVN-78) on the James River in 2013.JPG|thumb|[[USS Gerald R. Ford|USS ''Gerald R. Ford'']], a [[Gerald R. Ford-class aircraft carrier|''Gerald R. Ford''-class aircraft carrier]] ]]
+
+====Future====
+The current US fleet of [[Nimitz-class aircraft carrier|''Nimitz''-class]] carriers will be followed into service (and in some cases replaced) by the [[Gerald R. Ford-class aircraft carrier|''Gerald R. Ford'' class]]. It is expected that the ships will be more automated in an effort to reduce the amount of funding required to maintain and operate the vessels. The main new features are implementation of [[Electromagnetic Aircraft Launch System]] (EMALS) (which replace the old steam catapults) and [[unmanned aerial vehicle]]s.<ref name="Aircraft Carriers - CVN"/>
+
+With the deactivation of the {{USS|Enterprise|CVN-65|6}} in December 2012, the U.S. fleet comprises 10 supercarriers. The [[United States House Armed Services Subcommittee on Seapower and Expeditionary Forces|House Armed Services Seapower subcommittee]] on 24 July 2007, recommended seven or maybe eight new carriers (one every four years). However, the debate has deepened over budgeting for the $12–14.5&nbsp;billion (plus $12&nbsp;billion for development and research) for the 100,000 ton ''Gerald R. Ford''-class carrier (estimated service 2016) compared to the smaller $2&nbsp;billion 45,000 ton [[America-class amphibious assault ship|''America''-class amphibious assault ship]]s able to deploy squadrons of F-35Bs, of which two are already under construction and 12 are planned.<ref name="AFAmag" /><ref>{{cite web|url=http://articles.dailypress.com/2014-05-08/business/dp-nws-huntingon-ingalls-earnings-20140508_1_sequestration-level-budget-cuts-return-rcoh-huntington-ingalls-industries |title=Huntington Ingalls, Newport News shipyard upbeat despite budget clouds |publisher=Daily Press |date=8 May 2014 |accessdate=29 May 2014}}</ref>
+
+==Aircraft carriers in preservation==
+{{unreferenced section|date=September 2015}}
+
+A few countries have aircraft carriers on display as museum ships. These include: 
+* {{USS|Yorktown|CV-10}} in [[Mount Pleasant, South Carolina|Mount Pleasant]], [[South Carolina]]
+* {{USS|Intrepid|CV-11}} in [[New York City]], [[New York]]
+* {{USS|Hornet|CV-12}} in [[Alameda, California|Alameda]], [[California]]
+* {{USS|Lexington|CV-16}} in [[Corpus Christi, Texas|Corpus Christi]], [[Texas]]
+* {{USS|Midway|CV-41}} in [[San Diego]], [[California]]
+* [[Soviet aircraft carrier Kiev]] in [[Tianjin]], [[China]]
+* [[Soviet aircraft carrier Minsk]] in [[Shatoujiao]], [[China]]
+
+==See also==
+{{Portal|War}}
+*[[Airborne aircraft carrier]]
+*[[Carrier-based aircraft]]
+*[[Merchant aircraft carrier]]
+*[[Mobile offshore base]]
+*[[Project Habakkuk]]
+*[[Seadrome]]
+*[[Submarine aircraft carrier]]
+*[[Timeline for aircraft carrier service]]
+*[[Unsinkable aircraft carrier]]
+
+===Related lists===
+{{Div col|cols=2}}
+* [[List of aircraft carriers]]
+* [[List of aircraft carriers by country]] 
+* [[List of aircraft carriers in service]]
+* [[List of aircraft carriers by configuration]]
+* [[List of sunken aircraft carriers]]
+* [[List of Canadian Navy ships#Aircraft carriers|List of Canadian aircraft carriers]]
+* [[Ships of the People's Liberation Army Navy#Aircraft carriers|List of aircraft carriers of the People's Liberation Army Navy]] 
+* [[List of current French Navy ships#Aircraft carriers|List of current French aircraft carriers]]
+* [[List of German aircraft carriers]]
+* [[List of active Indian Navy ships#Aircraft carriers|List of aircraft carriers of the Indian Navy]]
+* [[List of Italian Navy ships#Aircraft carriers|List of Italian aircraft carriers]]
+* [[List of ships of the Japanese Navy#Aircraft carriers|List of aircraft carriers of the Japanese Navy]]
+* [[List of aircraft carriers of Russia and the Soviet Union]]
+* [[List of active Spanish Navy ships#Aircraft carriers|List of active Spanish aircraft carriers]]
+* [[List of aircraft carriers of the Royal Navy]]
+* [[List of seaplane carriers of the Royal Navy]]
+* [[List of escort aircraft carriers of the Royal Navy]]
+* [[List of aircraft carriers of the United States Navy]]
+* [[List of aircraft carrier classes of the United States Navy]]
+* [[List of escort aircraft carriers of the United States Navy]]
+* [[List of amphibious warfare ships]]
+* [[List of carrier-based aircraft]]
+* [[Number of warships in service worldwide]]
+
+{{Div col end}}
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+{{Refbegin|35em}}
+* Ader, Clement. ''Military Aviation'', 1909, Edited and translated by Lee Kennett, Air University Press, Maxwell Air Force Base, Alabama, 2003, ISBN 978-1-58566-118-3.
+* Francillon, René J, ''Tonkin Gulf Yacht Club US Carrier Operations off Vietnam'', (1988) ISBN 978-0-87021-696-1.
+* Friedman, Norman, ''U.S. Aircraft Carriers: an Illustrated Design History'', Naval Institute Press, 1983. ISBN 978-0-87021-739-5.
+* Hone, Thomas C., Norman Friedman, and Mark D. Mandeles. "Innovation in Carrier Aviation," ''Naval War College Newport Papers'' (no. 37, 2011), 1–171.
+* Melhorn, Charles M. ''Two-Block Fox: The Rise of the Aircraft Carrier, 1911-1929'' (Naval Institute Press, 1974)
+* Nordeen, Lon, ''Air Warfare in the Missile Age'', (1985) ISBN 978-1-58834-083-2
+* {{cite book|author=Polak, Christian|year=2005|title=Sabre et Pinceau: Par d'autres Français au Japon. 1872–1960|others=Hiroshi Ueki (植木 浩), Philippe Pons, foreword; 筆と刀・日本の中のもうひとつのフランス (1872–1960)|language=French, Japanese|publisher=éd. L'Harmattan}}
+* {{cite book |last = Sturtivant |first = Ray |title = British Naval Aviation, The Fleet Air Arm, 1917–1990 |publisher=Arm & Armour Press |year = 1990 |location = London |isbn = 0-85368-938-5}}
+* Till, Geoffrey. "Adopting the Aircraft Carrier: The British, Japanese, and American Case Studies" in Murray, Williamson; Millet, Allan R, eds. (1996). ''Military Innovation in the Interwar Period''. Cambridge University Press.
+* Trimble, William F. ''Admiral William A. Moffett: Architect of Naval Aviation'' (Smithsonian Institution Press, 1994)
+* Wadle, Ryan David. ''United States navy fleet problems and the development of carrier aviation, 1929-1933'' PhD dissertation Texas A&M University, 2005. [http://repository.tamu.edu/bitstream/handle/1969.1/2658/etd-tamu-2005B-HIST-Wadle.pdf online]
+{{Refend}}
+
+==External links==
+{{Commons category|Aircraft carriers}}
+* [http://www.armedforces-int.com/projects/naval-fleet-ships/the-future-carrier-for-uk.asp Future Aircraft Carrier: UK. Armed Forces International]
+* [http://www.navy.mil/navydata/fact_display.asp?cid=4200&tid=200&ct=4 Aircraft carriers of the USN]
+* [http://www.globalsecurity.org/military/systems/ship/cv-design.htm Info about flight deck crew, arresting cables, catapults]
+* [http://science.howstuffworks.com/aircraft-carrier.htm How Stuff Works—Aircraft Carriers]
+* [http://www.hazegray.org/navhist/carriers/ Haze Gray & Underway, World Aircraft Carrier Lists] comprehensive and detailed listings of all the world's aircraft carriers and [[seaplane tender]]s from 1913 to 2001, with photo gallery.
+* [https://books.google.com/books?id=7igDAAAAMBAJ&pg=PA80 ''Ships That Mother Seaplanes: craft of the "hush-hush" fleet may play a part in first trans-Atlantic flight'']. [[Popular Science]] monthly, February 1919, page 80, on Google Books.
+
+{{Warship types of the 19th & 20th centuries}}
+{{Use dmy dates|date=March 2014}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Aircraft Carrier}}
+[[Category:Aircraft carriers| ]]
+[[Category:Ship types]]
+[[Category:Articles containing video clips]]

@@ -1,0 +1,15 @@
+./files0.sh &
+./files1.sh &
+./files2.sh &
+./files3.sh &
+./files4.sh &
+./files5.sh &
+./files6.sh &
+./files7.sh &
+./files8.sh &
+./files9.sh &
+./files10.sh &
+./files11.sh &
+./files12.sh &
+./files13.sh &
+./files14.sh &

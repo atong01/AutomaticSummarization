@@ -1,0 +1,3 @@
+#REDIRECT [[United States]]
+
+{{This is a redirect|move|from ambiguous page|from CamelCase|up}}

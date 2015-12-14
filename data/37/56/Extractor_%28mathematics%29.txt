@@ -1,0 +1,23 @@
+An <math>(N,M,D,K,\epsilon)</math> -'''extractor''' is a [[bipartite graph]] with <math>N</math> nodes on the left and <math>M</math> nodes on the right such that each node on the left has <math>D</math> neighbors (on the right), which has the added property that
+for any subset <math>A</math> of the left vertices of size at least <math>K</math>, the distribution on right vertices obtained by choosing a random node in <math>A</math> and then following a random [[graph theory|edge]] to get a node x on the right side is <math>\epsilon</math>-close to the [[Uniform distribution (continuous)|uniform distribution]] in terms of [[total variation distance]].
+
+A [[disperser]] is a related graph. 
+
+An equivalent way to view an extractor is as a bivariate function 
+
+:<math>E : [N] \times [D] \rightarrow [M]</math> 
+
+in the natural way. With this view it turns out that the extractor property is equivalent to: for any source of randomness <math>X</math> that gives <math>n</math> [[bit]]s with [[min-entropy]] <math>\log K</math>, the distribution <math> E(X,U_D) </math> is <math>\epsilon</math>-close to <math>U_M</math>, where <math>U_T</math> denotes the uniform distribution on <math>[T]</math>.
+
+Extractors are interesting when they can be constructed with small <math>K,D,\epsilon</math> relative to <math>N</math> and <math>M</math> is as close to <math>KD</math> (the total randomness in the input sources) as possible.
+
+Extractor functions were originally researched as a way to ''extract'' [[randomness]] from weakly random sources. ''See'' [[randomness extractor]].
+
+Using the [[probabilistic method]] it is easy to show that extractor graphs with really good parameters exist. The challenge is to find explicit or [[polynomial time]] computable examples of such graphs with good parameters. Algorithms that compute extractor (and disperser) graphs have found many applications in [[computer science]].
+
+==References==
+* Ronen Shaltiel, [http://www.cs.haifa.ac.il/~ronen/online_papers/survey.ps Recent developments in extractors] - a survey
+
+[[Category:Graph families]]
+[[Category:Pseudorandomness]]
+[[Category:Theoretical computer science]]

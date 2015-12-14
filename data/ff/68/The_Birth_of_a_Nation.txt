@@ -1,0 +1,294 @@
+{{About||the upcoming 2016 film of the same name|The Birth of a Nation (2016 film)|the 1983 film of a similar name|Birth of a Nation (1983 film)}}
+
+{{Use mdy dates|date=April 2012}}
+{{Infobox film
+| name           = The Birth of a Nation
+| image          = Birth of a Nation theatrical poster.jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[D. W. Griffith]]
+| producer       = D. W. Griffith<br />Harry Aitken<ref>{{cite web|url=http://www.cobbles.com/simpp_archive/dwgriffith.htm |title=D. W. Griffith: Hollywood Independent |publisher=Cobbles.com |date=1917-06-26 |accessdate=2013-07-03}}</ref>
+| screenplay     = D. W. Griffith<br />[[Frank E. Woods]]
+| based on       = ''[[The Clansman: An Historical Romance of the Ku Klux Klan|The Clansman]]''<br /> by [[Thomas Dixon, Jr.|T. F. Dixon, Jr.]]
+| starring       = [[Lillian Gish]]<br />[[Mae Marsh]]<br />[[Henry B. Walthall]]<br />[[Miriam Cooper]]<br />[[Ralph Lewis (actor)|Ralph Lewis]]<br />[[George Siegmann]]<br />[[Walter Long (actor)|Walter Long]]
+| music          = [[Joseph Carl Breil]]
+| cinematography = [[Billy Bitzer|G.W. Bitzer]]
+| editing        = D. W. Griffith
+| studio         = David W. Griffith Corp.
+| distributor    = Epoch Producing Co.
+| released       = {{Film date|1915|02|08}}
+| runtime        = 133 minutes<!--Theatrical runtime: 133:20--><ref>{{cite web|title=''THE BIRTH OF A NATION'' (U)|url=http://www.bbfc.co.uk/releases/birth-nation-1970|work=Western Import Co. Ltd.|publisher=[[British Board of Film Classification]]|accessdate=August 20, 2013}}</ref> {{small|(Original release)}}<br />190 minutes (at 16 frame/s)
+| country        = United States
+| language       = Silent film<br />English intertitles
+| budget         = >$100,000<ref name="Hall & Neale (2010)" />
+| gross          = unknown; estimated $50–100 million<ref name="Monaco" />
+}}
+[[File:Birth of a Nation (1915).webm|thumb|''The Birth of a Nation'' (1915), directed and produced by Griffith who also co-wrote the screenplay with [[Frank E. Woods]], which they adapted for the screen from the novel and play ''[[The Clansman: An Historical Romance of the Ku Klux Klan]]'' by [[Thomas Dixon, Jr.]] Collection [[National Film Registry]].]]
+[[File:Walthall with DW Griiffith2.jpg|right|thumb|Griffith on the set of ''The Birth of a Nation'' (1915) with actor [[Henry B. Walthall|Henry Walthall]] and others.]]
+'''''The Birth of a Nation''''' (originally called ''The Clansman'') is a 1915 American [[Silent film|silent]] [[Epic (genre)|epic]] [[drama film]] directed by [[D. W. Griffith]] and starring [[Lillian Gish]]. The screenplay is adapted from the novel and play ''[[The Clansman]]'', both by [[Thomas Dixon, Jr.]] Griffith co-wrote the screenplay (with [[Frank E. Woods]]), and co-produced the film (with Harry Aitken). It was released on February 8, 1915. The film was originally presented in two parts, separated by an intermission. It was the first 12-reel film in America.
+
+The film chronicles the relationship of two families in the [[American Civil War]] and [[Reconstruction era of the United States|Reconstruction]] era: the pro-[[Union (American Civil War)|Union]] [[Northern United States|Northern]] Stonemans and the pro-[[Confederate States of America|Confederacy]] [[Southern United States|Southern]] Camerons over the course of several years. The [[Assassination of Abraham Lincoln|assassination]] of [[President of the United States|President]] [[Abraham Lincoln]] by [[John Wilkes Booth]] is dramatized.
+
+The film was a commercial success, though it was highly controversial owing to its portrayal of black men (some played by [[White people|white]] actors in [[blackface]]) as unintelligent and sexually aggressive towards white women, and the portrayal of the [[Ku Klux Klan]] (whose original founding is dramatized) as a heroic force.<ref>[http://www.moviejustice.com/vault/index.php?p=getitem&db_id=4&item_id=27 MJ Movie Reviews – Birth of a Nation, The (1915) by Dan DeVore]  {{wayback|url=http://www.moviejustice.com/vault/index.php?p=getitem&db_id=4&item_id=27 |date=20141023092147 }}</ref><ref>{{cite web|url=http://themovingarts.com/revered-and-reviled-d-w-griffiths-the-birth-of-a-nation/|first=Eric M.|last=Armstrong|title=Revered and Reviled: D.W. Griffith's ‘The Birth of a Nation’|work=The Moving Arts Film Journal |date=February 26, 2010|accessdate=April 13, 2010}}</ref> There were widespread African-American protests against ''The Birth of a Nation'', such as in Boston, while thousands of white Bostonians flocked to see the film.<ref name="NAACP">{{cite web|url=http://massmoments.org/moment.cfm?mid=125 |title="The Birth of a Nation" Sparks Protest |publisher=Mass Moments |date= |accessdate=2013-07-03}}</ref> The [[NAACP]] spearheaded an unsuccessful campaign to ban the film.<ref name="NAACP"/> Griffith's indignation at efforts to censor or ban the film motivated him to produce ''[[Intolerance (film)|Intolerance]]'' the following year.<ref>{{cite web|url=http://www.alternativereel.com/includes/top-ten/display_review.php?id=00091 |title=Top Ten – Top 10 Banned Films of the 20th century – Top 10 – Top 10 List – Top 10 Banned Movies – Censored Movies – Censored Films |publisher=Alternativereel.com |date= |accessdate=2013-07-03}}</ref>
+
+The film is also credited as one of the events that inspired the formation of the "second era" Ku Klux Klan at [[Stone Mountain]], [[Georgia (U.S. state)|Georgia]], in the same year. ''The Birth of a Nation'', along with the trial and lynching of [[Leo Frank]] for the 1913 murder in [[Atlanta]] of [[Mary Phagan]], was used as a recruiting tool for the KKK.<ref>{{cite web|url=http://www.megaessays.com/viewpaper/72334.html |title=A Birth of a Nation essays |publisher=Megaessays.com |date= |accessdate=2013-07-03}}</ref> Under President [[Woodrow Wilson]] it was the first American motion picture to be screened at the [[White House]],<ref>{{cite book|url=http://books.google.ie/books?id=fGJFpiTjbKwC&pg=PA111&lpg=PA111&dq=%22operators+wearing+full+evening+dress+utilized%22&source=bl&ots=AOFjf60Rc_&sig=GJ-f9FVH8MfOtgnzIJLQV_3l-DU&hl=en&sa=X&ei=_m5hUMf9JI-whAfz6oCQAg&ved=0CDMQ6AEwAA#v=onepage&q=%22operators%20wearing%20full%20evening%20dress%20utilized%22&f=false |title=Stokes p111 |publisher=Books.google.ie |date= |accessdate=2013-07-03}}</ref> although in 1914 the Italian film ''[[Cabiria]]'' had been shown on the White House lawn.<ref>Kennedy, Ross A. (2013). ''A Companion to Woodrow Wilson''. John Wiley & Sons. p. 29. ISBN 1118445686</ref>
+
+Griffith's innovative techniques and storytelling power have made ''The Birth of a Nation'' one of the landmarks of film history.<ref>[http://www.newyorker.com/online/blogs/movies/2013/02/birth-of-a-nation-revisited.html The Worst Thing About "Birth of a Nation" Is How Good It Is: ''The New Yorker''] retrieved 19 May 2014</ref><ref>{{cite web|url=http://www.filmsite.org/birt.html|title=The Birth of a Nation (1915)|work=filmsite.org}}</ref>  In 1992, the United States Library of Congress deemed the film "culturally, historically, or aesthetically significant" and selected it for preservation in the [[National Film Registry]].
+
+==Plot==
+
+===Part 1: Civil War of United States===
+The film follows two juxtaposed families: the Northern Stonemans—[[Abolitionism in the United States|abolitionist]] Congressman Austin Stoneman, based on the Reconstruction-era Congressman [[Thaddeus Stevens]],<ref>...(the) portrayal of "Austin Stoneman" (bald, clubfoot; mulatta mistress, etc.) made no mistaking that, of course, Stoneman was Thaddeus Stevens..." Robinson, Cedric J.; ''Forgeries of Memory and Meaning.'' University of North Carolina, 2007; p. 99.</ref><ref>Garsman, Ian; [http://digital.lib.lehigh.edu/trial/reels/films/list/0_68_8_6106 "The Tragic Era Exposed."] Website: Reel American History; Lehigh University Digital Library, 2011-2012; Accessed 23 Jan. 2013.</ref> his two sons and his daughter Elsie—and the Southern Camerons, a family including two daughters, Margaret and Flora, and three sons, most notably Ben.
+
+The Stoneman brothers visit the Camerons at their [[South Carolina]] estate, representing the [[Old South]]. Phil, the elder Stoneman son, falls in love with Margaret Cameron, while young Ben Cameron idolizes a picture of Elsie Stoneman. When the Civil War begins, these young men enlist in their respective armies.
+
+A black [[militia]] acting under a white leader ransacks the Cameron house; the Cameron women are rescued by Confederate soldiers who rout the militia. Meanwhile, the younger Stoneman and two of the Cameron brothers are killed in the war.  Ben Cameron is wounded after a heroic charge at the [[Siege of Petersburg]]; as a result, he earns the nickname "the Little Colonel." He is taken to a Northern hospital in Washington, D.C., where he at last meets the Elsie Stoneman of the picture he has been carrying; she is working there as a nurse. While recovering, Cameron is told that he will be hanged for being a Confederate guerrilla. Elsie takes Cameron's mother, who had traveled to Washington to tend her son, to see [[Abraham Lincoln]], and the mother persuades the president to issue a pardon to Ben Cameron.
+
+When [[Assassination of Abraham Lincoln|Lincoln is assassinated]] at [[Ford's Theater]], his conciliatory postwar policy expires with him. In the wake of the president's death, and with a [[power vacuum]] having opened up, Austin Stoneman and his fellow [[Radical Republicans|radical congressmen]] are determined to carry out their desire to punish the South, employing harsh measures that Griffith depicts as having been typical of the [[Reconstruction era of the United States|Reconstruction era]].<ref>Griffith followed the then-dominant [[Dunning School]] or "Tragic Era" view of Reconstruction presented by early 20th-century historians such as [[William Archibald Dunning]] and [[Claude G. Bowers]]. Stokes 2007, pp. 190–191.</ref>
+
+===Part 2: Reconstruction===
+[[File:The Birth of a Nation war scene.jpg|thumb|left|Battle scene from ''The Birth of a Nation'']]
+Stoneman and his protégé Silas Lynch, a [[mulatto]] exhibiting psychopathic characteristics,<ref>{{cite journal  | last1 = Leistedt | first1 = Samuel J. | last2 = Linkowski | first2 = Paul | title = Psychopathy and the Cinema: Fact or Fiction? | journal = Journal of Forensic Sciences | date = January 2014 | volume = 59 | issue = 1 | pages = 167–174 | publisher = American Academy of Forensic Sciences | doi = 10.1111/1556-4029.12359 | url = http://onlinelibrary.wiley.com/doi/10.1111/1556-4029.12359/abstract | accessdate = January 17, 2014 | ref = harv | pmid=24329037}}</ref> travel to South Carolina to observe the implementation of Reconstruction policies firsthand. Black occupation soldiers are seen parading through the streets and pushing white residents aside on the sidewalks. During the election, in which Lynch is elected lieutenant governor, whites are seen being prevented from voting while blacks are observed stuffing the ballot boxes. The newly elected, mostly black members of the South Carolina legislature are shown at their desks displaying inappropriate behavior, such as one member taking off his shoe and putting his feet up on his desk, and others drinking liquor and feasting on stereotypically African American fare such as fried chicken. The legislature passes laws requiring white civilians to salute black soldiers and allowing mixed-race marriages.
+
+Meanwhile, inspired by observing white children pretending to be ghosts to scare black children, Ben fights back by forming the Ku Klux Klan. As a result, Elsie, out of loyalty to her father, breaks off her relationship with Ben. Later, Flora Cameron goes off alone into the woods to fetch water and is followed by Gus, a freedman and soldier who is now a captain. He confronts Flora and tells her that he desires to get married. Frightened, she flees into the forest, pursued by Gus. Trapped on a precipice, Flora warns Gus she will jump if he comes any closer. When he does, she leaps to her death. Having run through the forest looking for her, Ben has seen her jump; he holds her as she dies, then carries her body back to the Cameron home. In response, the Klan hunts down Gus, tries him, finds him guilty, lynches him, and delivers his corpse to Lt. Gov. Lynch's doorstep.
+
+Lynch then orders a crackdown on the Klan. Dr. Cameron, Ben's father, is arrested for possessing Ben's Klan costume, now considered a crime punishable by death. His faithful black servants rescue him with help from Phil Stoneman. Together they flee, along with Margaret Cameron. When their wagon breaks down, they make their way through the woods to a small hut that is home to two sympathetic former Union soldiers who agree to hide them.  As an intertitle states, "The former enemies of North and South are united again in defense of their [[Aryan]] birthright."
+
+Congressman Stoneman leaves to avoid being connected with Lt. Gov. Lynch's crackdown. Elsie, learning of Dr. Cameron's arrest, goes to Lynch to plead for his release. Lynch, who had been lusting after Elsie, tries to force her to marry him, which causes her to faint. Stoneman returns, causing Elsie to be placed in another room.  At first, Stoneman is happy when Lynch tells him he wants to marry a white woman, but is then angered when Lynch tells him that it is Stoneman's daughter. Undercover Klansmen spies discover Elsie's plight when she breaks a window and cries out for help, and the Klansmen go to get help. Elsie falls unconscious again, and revives while gagged and being bound. The Klan, gathered together at full strength and with Ben leading them, rides in to regain control of the town. When news about Elsie reaches Ben, he and others go to her rescue. Elsie frees her mouth and screams for help. Lynch is captured. Victorious, the Klansmen celebrate in the streets. Meanwhile, Lynch's militia surrounds and attacks the hut where the Camerons are hiding. The Klansmen, with Ben at their head, race in to save them just in time.
+
+The next election day, blacks find a line of mounted and armed Klansmen just outside their homes, and are intimidated into not voting. The film concludes with a double wedding as Margaret Cameron marries Phil Stoneman and Elsie Stoneman marries Ben Cameron. The masses are shown oppressed by a giant warlike figure who gradually fades away. The scene shifts to another group finding peace under the image of [[Jesus Christ]]. The penultimate title rhetorically asks: "Dare we dream of a golden day when the bestial War shall rule no more? But instead &mdash; the gentle Prince in the Hall of Brotherly Love in the City of Peace."
+
+==Cast==
+{{col-begin}}
+{{col-break}}
+* [[Lillian Gish]] as Elsie Stoneman
+* [[Mae Marsh]] as Flora Cameron
+* [[Henry B. Walthall]] as Colonel Ben Cameron
+* [[Miriam Cooper]] as Margaret Cameron
+* [[Mary Alden]] as Lydia Brown
+* [[Ralph Lewis (actor)|Ralph Lewis]] as Austin Stoneman
+* [[George Siegmann]] as Silas Lynch
+* [[Walter Long (actor)|Walter Long]] as Gus
+* [[Robert Harron]] as Tod Stoneman
+* [[Wallace Reid]] as Jeff the blacksmith
+* [[Joseph Henabery]] as [[Abraham Lincoln]]
+* [[Elmer Clifton]] as Phil Stoneman
+* [[Josephine Crowell]] as Mrs. Cameron
+* [[Spottiswoode Aitken]] as Dr. Cameron
+* [[George Beranger]] as Wade Cameron
+* Maxfield Stanley as Duke Cameron
+* [[Jennie Lee (actress)|Jennie Lee]] as Mammy
+* [[Donald Crisp]] as General [[Ulysses S. Grant]]
+* [[Howard Gaye]] as General [[Robert E. Lee]]
+{{col-break}}
+'''Uncredited:'''
+* [[Monte Blue]]
+* [[Bobby Burns]] as Klan Leader
+* [[David Butler (director)|David Butler]] as Union soldier / Confederate soldier
+* [[Peggy Cartwright]] as Young girl
+* [[William De Vaull]] as Jake
+* [[John Ford]] as Klansman
+* [[Gibson Gowland]]
+* [[Sam De Grasse]] as Senator [[Charles Sumner]]
+* [[Olga Grey]] as Laura Keene
+* [[Russell Hicks (actor)|Russell Hicks]]
+* [[Elmo Lincoln]] as Blacksmith
+* [[Eugene Pallette]] as Union soldier
+* [[Vester Pegg]]
+* [[Alma Rubens]]
+* [[Charles Stevens (actor)|Charles Stevens]] as Volunteer
+* [[Madame Sul-Te-Wan]] as Black woman
+* [[Raoul Walsh]] as [[John Wilkes Booth]]
+* [[Jules White]]
+* [[Violet Wilkey]] as young Flora
+* [[Tom Wilson (actor)|Tom Wilson]] as Stoneman's servant
+* [[Mary Wynn]]
+{{col-end}}
+
+==Production==
+[[File:Birth-of-a-nation-klan-and-black-man.jpg|thumb|Hooded Klansmen catch Gus, a black man described in the film as "a renegade, a product of the vicious doctrines spread by the [[carpetbagger]]s." Gus was portrayed in [[blackface]] by white actor [[Walter Long (actor)|Walter Long]].]]
+''The Birth of a Nation'' began [[Principal photography|filming]] in 1914 and pioneered such camera techniques as the use of panoramic long shots, the iris effects, still-shots, [[night photography]], [[Panning (camera)|panning]] camera shots, and a carefully staged battle sequence with hundreds of extras made to look like thousands. It also contains many new artistic techniques, such as color tinting for dramatic purposes, building up the plot to an exciting climax, dramatizing history alongside fiction, and featuring its own musical score written for an orchestra.{{citation needed|date=February 2011}}
+
+When the film was released, it shattered both box office and film-length records, running three hours and ten minutes. In 1998, it was voted one of the "[[AFI's 100 Years... 100 Movies|Top 100 American Films]]" (#44) by the American Film Institute.
+
+The film was based on [[Thomas Dixon, Jr.]]'s novels ''[[The Clansman]]'' and ''[[The Leopard's Spots]]''. It was originally to have been shot in [[Kinemacolor]] but [[D. W. Griffith]] took over the Hollywood studio of Kinemacolor and Kinemacolor's plans to film Dixon's novel. Griffith, whose father served as a colonel in the [[Confederate Army]], agreed to pay Thomas Dixon $10,000 (equal to ${{formatnum:{{Inflation|US|10000|1914}}}} today) for the rights to his play ''The Clansman''. Since he ran out of money and could afford only $2,500 of the original option, Griffith offered Dixon 25 percent interest in the picture. Dixon reluctantly agreed, and the unprecedented success of the film made him rich. Dixon's proceeds were the largest sum any author had received for a motion picture story and amounted to several million dollars.{{citation needed|date=February 2011}}
+
+Griffith's budget started at US$40,000{{citation needed|date=August 2015}} (equal to ${{formatnum:{{Inflation|US|40000|1915}}}} today) but rose to over $100,000<ref name="Hall & Neale (2010)">{{Cite book |last1=Hall |first1=Sheldon |last2=Neale |first2=Stephen |title=Epics, spectacles, and blockbusters: a Hollywood history |series=Contemporary Approaches to Film and Television |year=2010 |publisher=[[Wayne State University Press]] |isbn=9780814336977 |page=[http://books.google.com/books?id=Ro0hASPfC68C&pg=PA270&redir_esc=y#v=onepage&q&f=false 270] (note 2.78)|quote=In common with most film historians, he estimates that ''The Birth of Nation'' cost “just a little more than $100,000” to produce...}}</ref> (the equivalent of ${{formatnum:{{Inflation|US|100000|1915}}}} in constant dollars).{{Inflation-fn|US}}
+
+[[United States Military Academy|West Point]] engineers provided technical advice on the [[American Civil War|Civil War]] battle scenes. They provided Griffith with the artillery used in the film.<ref>Seelye, Katharine Q. "When Hollywood's Big Guns Come Right From the Source", ''The New York Times'', June 10, 2002.</ref>
+
+The [[film premiere]]d on February 8, 1915, at [[Clune's Auditorium]] in downtown Los Angeles. At its premiere the film was entitled ''The Clansman,'' but the title was later changed to ''The Birth of a Nation'' to reflect Griffith's belief that the United States emerged from the [[American Civil War]] and Reconstruction as a unified nation.<ref>[http://www.filmsite.org/birt.html  Dirks, Tim, ''The Birth of a Nation'', filmsite.org] Retrieved May 27, 2010.</ref>
+
+The film is in the [[public domain]].<ref>[https://archive.org/details/dw_griffith_birth_of_a_nation "The Birth of a Nation" at the Internet Archive]. Retrieved August 2, 2009.</ref>
+
+===Score===
+[[File:Sheet music for "The Perfect Song" from The Birth of a Nation.jpg|thumb|right|Sheet music for "The Perfect Song", one of the themes Breil composed for the film.]]
+
+Although the film is regarded as a landmark in terms of its dramatic and visual accomplishments, it was arguably equally revolutionary for its use of music.<ref name="hickman77">Hickman 2006, p. 77.</ref> Though film was still silent at the time, it was common practice to distribute musical cue sheets, or less commonly, full scores (usually for organ or [[piano]] accompaniment) along with each print of a film.<ref>Hickman 2006, pp. 68–69.</ref>
+
+For ''The Birth of a Nation'', composer [[Joseph Carl Breil]] created a three-hour-long musical score that combined all three types of music in use at the time: adaptations of existing works by classical composers, new arrangements of well-known melodies, and original composed music.<ref name="hickman77"/> Though it had been specifically composed for the film, Breil's score was not used for the Los Angeles première of the film at [[Clune's Auditorium]]; rather, a score compiled by Carli Elinor was performed in its stead, and this score was used exclusively in West Coast showings. Breil's score was not used until the film debuted in New York at the [[Liberty Theatre]], and was the score utilized in all showings save those on the West Coast.<ref name="hickman78"/><ref name="marks-1997"/>
+
+Outside of original compositions, Breil adapted classical music for use in the film, including passages from ''[[Der Freischütz]]'' by [[Carl Maria von Weber]], ''[[Leichte Kavallerie]]'' by [[Franz von Suppé]], [[Symphony No. 6 (Beethoven)|Symphony No. 6]] by [[Ludwig van Beethoven]], and ''[[Ride of the Valkyries]]'' by [[Richard Wagner]], the latter used as a [[leitmotif]] during the ride of the KKK.<ref name="hickman77"/> Breil also arranged several traditional and popular tunes that would have been recognizable to audiences at the time, including many Southern melodies; among these songs were "[[Maryland, My Maryland]]", "[[Dixie (song)|Dixie]]", "[[Old Folks at Home]]", "[[The Star-Spangled Banner]]", "[[America the Beautiful]]", "[[The Battle Hymn of the Republic]]", "[[Auld Lang Syne]]", and "[[Where Did You Get That Hat?]]".<ref name="hickman77"/><ref name="allmusic">{{cite web|url={{Allmusic |pure_url=yes |class=album |id=mw0000649893 }} |title=Birth of a Nation [Original Soundtrack] |first=Bruce |last=Eder |accessdate=February 6, 2014 |website=[[AllMusic]] |publisher=All Media Network, LLC }}</ref>
+
+In his original compositions for the film, Breil wrote numerous leitmotifs to accompany the appearance of specific characters. The principal love theme that was created for the romance between Elsie Stoneman and Ben Cameron was published as "The Perfect Song" and is regarded as the first marketed "theme song" from a film; it was later even used as the theme song for the popular radio and television sitcom ''[[Amos 'n' Andy]]''.<ref name="hickman78">Hickman 2006, p. 78.</ref><ref name="marks-1997">{{cite book |last=Marks |first=Martin Miller |title= Music and the Silent Film : Contexts and Case Studies, 1895-1924 |publisher=[[Oxford University Press]] |year=1997 |isbn=9780195361636 |pages=127–135 }}</ref>
+
+==Responses==
+[[File:George Beranger in The Birth of a Nation.jpg|thumb|left|[[George Beranger]] in an actual Confederate uniform; the film used Confederate Army surplus uniforms since the Civil War was still recent enough in 1915 for them to be readily available.]]
+The [[National Association for the Advancement of Colored People]] (NAACP), founded in 1909, protested premieres of the film in numerous cities. According to the historian David Copeland, "by the time of the movie's March 3 [1915] premiere in New York City, its subject matter had embroiled the film in charges of racism, protests, and calls for censorship, which began after the Los Angeles branch of the NAACP requested the city's film board ban the movie. Since film boards were composed almost entirely of whites, few review boards initially banned Griffith's picture".<ref>Copeland, David (2010). ''The Media's Role in Defining the Nation: The Active Voice''. Peter Lang Publisher. p. 168.</ref> The NAACP also conducted a public education campaign, publishing articles protesting the film's fabrications and inaccuracies, organizing petitions against it, and conducting education on the facts of the war and Reconstruction.<ref>[http://www.naacp.org/about/history/timeline/ NAACP – Timeline]  {{WebCite|url=http://www.webcitation.org/5mYNygoDO|date =January 5, 2010}}</ref>
+
+On April 17, 1915, NAACP secretary Mary Childs Nerney wrote to NAACP Executive Committee member George Packard: "I am utterly disgusted with the situation in regard to ''The Birth of a Nation'' ... kindly remember that we have put six weeks of constant effort of this thing and have gotten nowhere."<ref name="historymatters">{{cite web|last1=Nerney|first1=Mary Childs|title=An NAACP Official Calls for Censorship of The Birth of a Nation|url=http://historymatters.gmu.edu/d/4966/|website=History Matters|accessdate=9 May 2015}}</ref> Nerney also refers to Jane Addams and writes that she "encloses" her opinion on this film within her letter.<ref name="historymatters"/>
+
+[[Jane Addams]], the founder of [[Hull House]], voiced her reaction to the film in an interview published by the ''[[New York Post]]'' on March 13, 1915, just ten days after the film was released.<ref name="Stokes_432">{{cite book|last1=Stokes|first1=Melvyn|title=D.W. Griffith's the Birth of a Nation : A History of the Most Controversial Motion Picture of All Time: A History of the Most Controversial Motion Picture of All Time|date=2007|publisher=Oxford University Press|isbn=0198044364|pages=432|accessdate=10 May 2015}}</ref> She stated that "One of the most unfortunate things about this film is that it appeals to race prejudice upon the basis of conditions of half a century ago, which have nothing to do with the facts we have to consider to-day. Even then it does not tell the whole truth. It is claimed that the play is historical: but history is easy to misuse."<ref name="Stokes_432"/>
+
+When the film was shown, riots broke out in Boston, Philadelphia and other major cities. The film's inflammatory character was a catalyst for gangs of whites to attack blacks. In [[Lafayette, Indiana|Lafayette]], Indiana, after seeing the film, a white man murdered a black teenager.<ref>[http://www.pbs.org/wnet/jimcrow/stories_events_birth.html "The Birth of a Nation"], ''The Rise and Fall of Jim Crow'': Jim Crow Stories, PBS</ref> The mayor of [[Cedar Rapids, Iowa]], who banned the film in 1915 after meeting with a delegation of black citizens, was the first of twelve mayors who banned or censored the film out of concern that its screening would promote race prejudice.<ref>Gaines, Jane M. (2001). ''Fire and Desire: Mixed-Race Movies in the Silent Era''. Chicago: University of Chicago Press. p. 334.</ref> The cities of Chicago, Denver, Kansas City, Minneapolis, Pittsburgh and St. Louis refused to allow the film to open.
+
+[[Thomas Dixon, Jr.]], author of the source play ''[[The Clansman]]'', was a former classmate of [[Woodrow Wilson]] at [[Johns Hopkins University]]. Dixon arranged a screening at the [[White House]] for then-President Wilson, members of his cabinet, and their families. Wilson was reported to have said about the film, "It is like writing history with lightning. And my only regret is that it is all so terribly true". In ''Wilson: The New Freedom'', the historian Arthur Link quotes Wilson's aide, [[Joseph Tumulty]], who denied Wilson said this and also claims that "the President was entirely unaware of the nature of the play before it was presented and at no time has expressed his approbation of it."<ref>Letter from J. M. Tumulty, secretary to President Wilson, to the Boston branch of the National Association for the Advancement of Colored People, quoted in Link, ''Wilson''.</ref> Historians believe the quote attributed to Wilson originated with Dixon, who was relentless in publicizing the film. It has been repeated so often in print that it has taken on a life of its own. Dixon went so far as to promote the film as "Federally endorsed". After controversy over the film had grown, Wilson wrote that he disapproved of the "unfortunate production."<ref>Woodrow Wilson to Joseph P. Tumulty, April 28, 1915 in Wilson, ''Papers'', 33:86.</ref>
+
+Griffith, indignant at the film's negative critical reception, wrote letters to newspapers, and published a pamphlet in which he accused his critics of censoring unpopular opinions.<ref name="Mayer_166">Mayer, David (2009). ''Stagestruck Filmmaker: D.W. Griffith & the American Theatre''. University of Iowa Press. p. 166. ISBN 1587297906.</ref> He conceived his next film, ''[[Intolerance (film)|Intolerance]]'' (1916), as a response to those who had censored his film.<ref name="Mayer_166"/>
+
+The film's initial reception from the audiences were positive. At over three hours in length (including intermissions), American moviegoers had never seen anything like it — spectacular battlefield panoramas, operatic melodrama and thrilling chase scenes. The white audiences responded with tears, gasps, applause, hisses and raucous cheering.<ref name="THR">{{cite web | url = http://m.hollywoodreporter.com/entry/view/id/909518 | title = 'The Birth of a Nation' at 100: "Important, Innovative and Despicable" (Guest Column) | author = Thomas Doherty | publisher = ''[[The Hollywood Reporter]]'' | date = February 8, 2015 | accessdate = February 8, 2015}}</ref>
+
+Soon after World War I, in 1918, Emmett J. Scott helped produce and [[John W. Noble]] directed ''[[The Birth of a Race]],'' hoping to capitalize on the success of Griffith's film by presenting a film set during the war. It featured a German-American family divided by the war, with sons fighting on either side, and the one loyal to the United States surviving to be part of the victory.<ref>''New York Times''. Retrieved September 29, 2011.</ref>
+
+In 1919, the director/producer/writer [[Oscar Micheaux]] released ''[[Within Our Gates]]'', a response from the African-American community.  Notably, he reversed a key scene of Griffith's film by depicting a white man assaulting a black woman.
+
+The film was remixed in 2004 as ''Rebirth of a Nation'', a live cinema experience by [[DJ Spooky]] at Lincoln Center, and has toured at many venues around the world including [[The Acropolis]] as a live cinema "remix". The remix version was also presented at Paula Cooper Gallery in New York<ref>{{cite web|url=http://www.paulacoopergallery.com/exhibitions/395 |title=Rebirth of a Nation at Paula Cooper Gallery |publisher=Paulacoopergallery.com |date=2004-06-18 |accessdate=2013-07-03}}</ref>
+
+===Box office performance===
+The box office gross of ''The Birth of a Nation'' is not known, and was long subject to exaggeration.<ref>Aberdeen, J. A. [http://www.cobbles.com/simpp_archive/statesrights.htm Distribution: States Rights or Road Show"], Hollywood Renegades Archive. Retrieved May 2, 2014.</ref> Griffith's own records put Epoch's worldwide earnings at $5.2 million as of 1919,<ref name="Wasko">{{cite book |last=Wasko |first=Janet |chapter=D.W. Griffiths and the banks: a case study in film financing |editor-last=Kerr |editor-first=Paul |title=The Hollywood Film Industry: A Reader |publisher=[[Routledge]] |year=1986 |isbn=9780710097309 |page=[http://books.google.co.uk/books?id=jMINAAAAQAAJ&pg=PA34 34] |quote=Various accounts have cited $15 to $18 million profits during the first few years of release, while in a letter to a potential investor in the proposed sound version, Aitken noted that a $15 to $18 million box-office gross was a 'conservative estimate'. For years ''Variety'' has listed ''The Birth of a Nation''{{'}}s total rental at $50 million. (This reflects the total amount paid to the distributor, not box-office gross.) This 'trade legend' has finally been acknowledged by ''Variety'' as a 'whopper myth', and the amount has been revised to $5 million. That figure seems far more feasible, as reports of earnings in the Griffith collection list gross receipts for 1915–1919 at slightly more than $5.2 million (including foreign distribution) and total earnings after deducting general office expenses, but not royalties, at about $2 million.}}</ref> although the distributor's share of the revenue at this time was much lower than the exhibition gross. In the biggest cities, Epoch negotiated with individual theater owners for a percentage of the box office; elsewhere the producer sold all rights in a particular state to a single distributor (an arrangement known as "state's rights" distribution).<ref>{{cite book| author = Kindem, Gorham Anders| title =The international movie industry | url = http://books.google.com/books?id=Zg-1VxIZKAwC&pg=PA314&dq=| year =2000 | publisher = Carbondale: Southern Illinois University Press| isbn = 0809322994| page = 314}}</ref> The film historian [[Richard Schickel]] says that under the state's rights contracts, Epoch typically received about 10% of the box office gross—which theater owners often underreported—and concludes that "''Birth'' certainly generated more than $60 million in box-office business in its first run".<ref name="Schickel_281">{{cite book| author = Schickel, Richard|authorlink = Richard Schickel |title =D.W. Griffith: An American Life | url =http://books.google.com/books?id=-YFNfV5fRDgC&pg=PA281&dq= | year =1984 | publisher = Simon and Schuster| isbn = 0671225960| page = 281}}</ref> By 1940 ''[[Time (magazine)|Time]]'' magazine estimated the film's cumulative [[gross rental]] (the distributor's earnings) at approximately $15 million.<ref>{{cite news |title=Show Business: Record Wind |date=February 19, 1940 |work=[[Time (magazine)|Time]] |url=http://www.time.com/time/magazine/article/0,9171,763541,00.html |archiveurl=http://web.archive.org/web/20100202110029/http://www.time.com/time/magazine/article/0,9171,763541,00.html |archivedate=February 2, 2010 |accessdate=April 29, 2014}}</ref> For years ''[[Variety (magazine)|Variety]]'' had the gross rental listed as $50 million, but in 1977 repudiated the claim and revised its estimate down to $5 million.<ref name="Schickel_281"/> It is not known for sure how much the film has earned in total, but producer Harry Aitken put its estimated earnings at $15–18 million in a letter to a prospective investor in a proposed sound version;<ref name="Wasko" /> it is likely the film earned over $20 million for its backers, and generated $50–100 million in box office receipts.<ref name="Monaco">{{cite book |last=Monaco |first=James |title=How to Read a Film:Movies, Media, and Beyond |publisher=[[Oxford University Press]] |year=2009 |isbn=9780199755790 |page=[http://books.google.co.uk/books?id=bgbOsjnppAcC&pg=PA262 262] |quote=The Birth of a Nation, costing an unprecedented and, many believed, thoroughly foolhardy $110,000, eventually returned $20 million and more. The actual figure is hard to calculate because the film was distributed on a "states' rights" basis in which licenses to show the film were sold outright. The actual cash generated by The Birth of a Nation may have been as much as $50 million to $100 million, an almost inconceivable amount for such an early film.}}</ref>
+
+The film played at the [[Liberty Theater]] in [[New York City]] for 44 weeks and tickets were priced at $2.20 ($51.50 in 2015 dollars).<ref name="THR"/>
+
+==Ideology and accuracy==
+[[File:Wilson-quote-in-birth-of-a-nation.jpg|thumb|[[Woodrow Wilson]]'s ''History of the American People'' is quoted in ''The Birth of a Nation''.]]
+The film is controversial due to its interpretation of history. [[University of Houston]] historian Steven Mintz summarizes its message as follows: [[Reconstruction era of the United States|Reconstruction]] was a disaster, blacks could never be [[racial integration|integrated]] into white society as equals, and the violent actions of the Ku Klux Klan were justified to reestablish honest government.<ref>[http://www.digitalhistory.uh.edu/historyonline/slaveryfilm.cfm UG.edu], Digital History.</ref> The South is portrayed as a victim. The first overt mentioning of the war is the scene in which Abraham Lincoln signs the call for first 75,000 volunteers. However, the first aggression in the Civil War, made when the Confederate troops fired on [[Fort Sumter]] in 1861, is not mentioned in the film.<ref>Stokes 2007, p. 184.</ref>  The film suggested that the Ku Klux Klan restored order to the postwar South, which was depicted as endangered by abolitionists, freedmen, and [[carpetbagger|carpetbagging]] [[United States Republican Party|Republican]] politicians from the North. This reflects the so-called [[Dunning School]] of historiography.<ref>Stokes 2007, pp. 190–91.</ref> The film portrays President [[Abraham Lincoln]] as friend of the [[Confederate States of America|Confederacy]], and refers to him as "the Great Heart".<ref>Stokes 2007, p. 188.</ref>  The two romances depicted in the film,  Phil Stoneman with Margaret Cameron and Ben Cameron with Elsie Stoneman, reflect Griffith's retelling of history.  The couples are used as a metaphor, representing the film's broader message of the need for the reconciliation of the North and South to defend white supremacy.<ref>{{cite web|url=http://filmracepolitics.weebly.com/blog|title=The Birth of A Nation: The Significance of Love, Romance, and Sexuality|date=March 6, 2015|publisher=Weebly|accessdate=August 22, 2015}}</ref> Among both couples, there is an attraction that forms before the war, stemming from the friendship between their families.  With the war, though, both families are split apart, and their losses culminate in the end of the war with the debunking of white supremacy.  One of the intertitles clearly sums up the message of unity, stating, "The former enemies of North and South are united again in defense of their Aryan birthright." <ref>{{cite web|url=http://www.unomaha.edu/jrf/Vol8No2/SalterBirth.htm|title=The Birth of a Nation as American Myth|first= Richard C.|last=Salter|website=The Journal of Religion and Film|series=Vol. 8, No. 2|date=October 2004|accessdate=August 22, 2015}}</ref>
+
+Some historians, such as [[E. Merton Coulter]] in his ''The South Under Reconstruction'' (1947), maintained the Dunning School view after World War II. Today, the Dunning School position is largely seen as a product of anti-black racism of the early 20th century, by which many Americans held that black Americans were unequal as citizens.
+
+Veteran film reviewer [[Roger Ebert]] wrote,
+{{quote|... stung by criticisms that the second half of his masterpiece was racist in its glorification of the [[Ku Klux Klan]] and its brutal images of blacks, Griffith tried to make amends in ''[[Intolerance (film)|Intolerance]]'' (1916), which criticized prejudice. And in ''[[Broken Blossoms]]'' he told perhaps the first [[miscegenation|interracial love]] story in the movies—even though, to be sure, it's an idealized love with no touching.<ref>{{cite news|last=Ebert |first=Roger |url=http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20000123/REVIEWS08/1230301/1023 |title=SunTimes.com |publisher=Rogerebert.suntimes.com |date= January 23, 2000|accessdate=2013-07-03}}</ref>}}
+
+Despite some similarities between the Congressman Stoneman character and  Rep. [[Thaddeus Stevens]] of [[Pennsylvania]], Rep. Stevens did not have the family members described and did not move to South Carolina during Reconstruction. He died in Washington, D.C. in 1868. However, Stevens was widely rumored to keep [[Lydia Hamilton Smith|a biracial mistress-housekeeper]], who was generously provided for in his will.<ref>[[Marc Egnal]], ''Clash of Extremes'', 2009.</ref>
+
+The depictions of mass Klan paramilitary actions do not seem to have historical equivalents, although there were incidents in 1871 where Klan groups traveled from other areas in fairly large numbers to aid localities in disarming local companies of the all-black portion of the state militia under various justifications, prior to the eventual Federal troop intervention, and the organized Klan's continued activities as small groups of "night riders."<ref>West, Jerry Lee. ''The Reconstruction Ku Klux Klan in York County, South Carolina, 1865–1877'' (2002) p. 67</ref>
+
+The [[African-American Civil Rights Movement (1955-1968)|Civil Rights Movement]] and other social movements created a new generation of historians, such as scholar [[Eric Foner]], who led a reassessment of Reconstruction. Building on [[Black Reconstruction in America|W.E.B. DuBois' work]] but also adding new sources, they focused on achievements of the African-American and white Republican coalitions, such as establishment of universal public education and charitable institutions in the South and extension of [[suffrage]] to black men. In response, the Southern-dominated [[Democratic Party (United States)|Democratic Party]] and its affiliated white militias used extensive terrorism, intimidation and outright assassinations to suppress African-American leaders and voting in the 1870s and to regain power.<ref>[[Nicholas Lemann]], ''Redemption: The Last Battle of the Civil War''. New York: Farrar Straus and Giroux, 2006, p. 150-154</ref>
+
+==Significance==
+[[File:Nation walsh.jpg|thumb|[[Raoul Walsh]] as [[John Wilkes Booth]]]]
+
+Released in 1915, ''The Birth of a Nation'' has been credited as groundbreaking among its contemporaries for its innovative application of the medium of film. According to the film historian [[Kevin Brownlow]], the film was "astounding in its time" and initiated "so many advances in film-making technique that it was rendered obsolete within a few years."<ref>Brownlow, Kevin (1968). ''The Parade's Gone By...''. University of California Press. p. 78. ISBN 0520030680.</ref> The content of the work, however, has received widespread criticism for its blatantly racist and fantastical depictions of scenes that are presented onscreen as if in documentary form. Film critic Roger Ebert writes, "Certainly ''The Birth of a Nation'' (1915) presents a challenge for modern audiences. Unaccustomed to silent films and uninterested in film history, they find it quaint and not to their taste. Those evolved enough to understand what they are looking at find the early and wartime scenes brilliant, but cringe during the postwar and Reconstruction scenes, which are racist in the ham-handed way of an old minstrel show or a vile comic pamphlet."<ref name=Ebert>{{cite news|last=Ebert|first=Roger|title=The Birth of a Nation (1915)|url=http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20030330/REVIEWS08/303300301/1023|work=Chicago Sun-Times|accessdate=February 21, 2011|date=March 30, 2003}}</ref> ''"Birth of a Nation'' was the first picture that really made people take the motion picture industry seriously," said [[Mary Pickford]].<ref>{{cite journal |last=Howe |first=Herbert |date=January 1924 |title=Mary Pickford's Favorite Stars and Films |url=https://archive.org/stream/pho26chic#page/n31/mode/2up |journal=[[Photoplay]] |location=New York |publisher=Photoplay Publishing Company |access-date=September 4, 2015 }}</ref>
+
+The film held the mantle of the [[Timeline of highest-grossing films|highest grossing film]] until it was overtaken by ''[[Gone with the Wind (film)|Gone with the Wind]]''.<ref>{{cite book |last=Finler |first=Joel Waldo |year=2003 |title=The Hollywood Story |publisher=Wallflower Press |isbn=978-1-903364-66-6 |page=[http://books.google.co.uk/books?id=rvVhEJmbfrsC&pg=PA47 47]}}</ref>
+
+In 1992, the United States [[Library of Congress]] deemed the film "culturally, historically, or aesthetically significant" and selected it for preservation in the [[National Film Registry]]. Despite its controversial story, the film has been praised by film critics such as [[Roger Ebert]], who said: "''The Birth of a Nation'' is not a bad film because it argues for evil. Like Riefenstahl’s ''[[Triumph of the Will]]'', it is a great film that argues for evil. To understand how it does so is to learn a great deal about film, and even something about evil."<ref name=Ebert/> The website ''[[Rotten Tomatoes]]'', which compiles reviews from various sources, indicates the film has a 100% approval rating.<ref>{{cite web | url=http://www.rottentomatoes.com/m/birth_of_a_nation/ | title=The Birth of a Nation Movie Reviews | work=[[Rotten Tomatoes]] | publisher=IGN Entertainment, Inc | accessdate=July 19, 2008 |archiveurl = http://web.archive.org/web/20110629011751/http://www.rottentomatoes.com/m/birth_of_a_nation/ |archivedate = June 29, 2011|deadurl=yes}}</ref>
+
+According to a 2002 article in the ''[[Los Angeles Times]]'', the film facilitated the refounding of the Ku Klux Klan in the 1920s.<ref>[http://www.hartford-hwp.com/archives/45a/316.html Hartford-HWP.com], A Painful Present as Historians Confront a Nation's Bloody Past.</ref> As late as the 1970s, the Ku Klux Klan continued to use the film as a recruitment tool.
+
+'''[[American Film Institute]] recognition'''
+* [[AFI's 100 Years... 100 Movies]] No. 44
+
+==Sequel==
+A sequel called ''[[The Fall of a Nation]]'' was released in 1916. The film was directed by [[Thomas Dixon, Jr.]], who adapted it from his own novel ''[[The Fall of a Nation (novel)|The Fall of a Nation]]''. The film has three acts and a prologue.<ref>{{IMDb title|0006664|The Fall of a Nation (1916)}}</ref>  Despite its success in the foreign market, the film was not a success among the American audiences.<ref>{{cite book |title=American Racist: The Life and Films of Thomas Dixon |first=Anthony |last=Slide | authorlink = Anthony Slide |year=2004 |publisher=University Press of Kentucky |page=102 |isbn=978-0-8131-2328-8 |url=http://books.google.com/books?id=Ng_fyVJVMz4C }}</ref>  It is believed that it is now a [[lost film]].
+
+==New opening titles on re-release==
+One famous part of the film was added by Griffith only on the second run of the film<ref>Richard Schickel (1984). ''D. W. Griffith: An American Life''. New York: Limelight Editions, p. 282</ref> and is missing from most online versions of the film (presumably taken from first run prints.)<ref>This includes the one at the Internet Movie Archive [https://archive.org/details/dw_griffith_birth_of_a_nation] and the Google video copy [http://video.google.com/videoplay?docid=-5639233838609252948#] and Veoh [http://www.veoh.com/browse/videos/category/entertainment/watch/v1640308YD8z9qcp Watch Videos Online | The Birth of a Nation | Veoh.com]. However, of multiple YouTube copies one which has the full opening titles is {{YouTube|vPxRIF1c2fI|DW GRIFFITH THE BIRTH OF A NATION PART 1 1915}}</ref>
+<br />These are the second and third of three opening title cards which defend the film. The added titles read:
+<blockquote>
+A PLEA FOR THE ART OF THE MOTION PICTURE:
+We do not fear censorship, for we have no wish to offend with improprieties or obscenities, but we do demand, as a right, the liberty to show the dark side of wrong, that we may illuminate the bright side of virtue – the same liberty that is conceded to the art of the written word – that art to which we owe the Bible and the works of Shakespeare
+</blockquote>
+and
+<blockquote>
+If in this work we have conveyed to the mind the ravages of war to the end that war may be held in abhorrence, this effort will not have been in vain.
+</blockquote>
+
+Various film historians have expressed a range of views about these titles. To Nicholas Andrew Miller, this shows that "Griffith's greatest achievement in ''The Birth of a Nation'' was that he brought the cinema's capacity for spectacle... under the rein of an outdated, but comfortably literary form of historical narrative. Griffith's models... are not the pioneers of film spectacle... but the giants of literary narrative."<ref>{{cite book |title=Modernism, Ireland and the erotics of memory |last=Miller |first= Nicholas Andrew |year=2002 |publisher=Cambridge University Press |isbn=0-521-81583-5|page=226  |url= }}</ref> On the other hand, S. Kittrell Rushing complains about Griffith's "didactic" title-cards,<ref>{{cite book |title=Memory and myth: the Civil War in fiction and film from Uncle Tom's cabin to Cold mountain  |last=Rushing |first=S. Kittrell |year=2007 |publisher=Purdue University Press |isbn=1-55753-440-3|page=307 |url= }}</ref> while Stanley Corkin complains that Griffith "masks his idea of fact in the rhetoric of high art and free expression" and creates film which "erodes the very ideal" of "liberty" which he asserts.<ref>{{cite book |title=Realism and the birth of the modern United States:cinema, literature, and culture |last=Corkin |first=Stanley |year=1996  |publisher=University of Georgia Press |isbn=0-8203-1730-6|pages=144–145 }}</ref>
+
+==Home media==
+With the film being in the public domain, many [[VHS]] versions of the film exist of varying quality.
+
+A region 0 DVD was released on November 17, 1998, by [[Image Entertainment]], along with a 24-minute documentary covering the production. Kino Video released another region 0 version on August 14, 2002, and a region 0 Blu-ray edition on November 22, 2011. Both came with various Civil War shorts directed by Griffith, "The Making of ''The Birth of a Nation''" (1992), and other extras.
+
+In the UK, the film was released on Blu-ray on July 22, 2013, by Eureka Entertainment as part of their "[[Masters of Cinema]]" collection, with the Photoplay restoration to be released on Blu-ray by the [[British Film Institute|BFI]] in September 2015.
+
+==See also==
+*[[List of films featuring slavery]]
+*[[List of films with a 100% rating on Rotten Tomatoes]], a film review aggregator website
+{{Portalbar|Film in the United States|Discrimination|African-American}}
+
+==References==
+{{Reflist|30em}}
+
+'''Bibliography'''
+* [[Jane Addams|Addams, Jane]], in ''Crisis: A Record of Darker Races'', X (May 1915), 19, 41, and (June 1915), 88.
+* [[Donald Bogle|Bogle, Donald]]. ''Toms, Coons, Mulattoes, Mammies and Bucks: An Interpretive History of Blacks in American Films'' (1973).
+* [[Fawn M. Brodie|Brodie, Fawn M.]] ''Thaddeus Stevens, Scourge of the South'' (New York, 1959), p.&nbsp;86–93. Corrects the historical record as to Dixon's false representation of Stevens in this film with regard to his racial views and relations with his housekeeper.
+* Chalmers, David M. ''Hooded Americanism: The History of the Ku Klux Klan'' (New York: 1965), p.&nbsp;30 *Cook, Raymond Allen. ''Fire from the Flint: The Amazing Careers of Thomas Dixon'' (Winston-Salem, N.C., 1968).
+* [[John Hope Franklin|Franklin, John Hope]]. "Silent Cinema as Historical Mythmaker". '''In''' ''Myth America: A Historical Anthology, Volume II''. 1997. Gerster, Patrick, and Cords, Nicholas. (editors.) Brandywine Press, St. James, NY. ISBN 978-1-881089-97-1
+* Franklin, John Hope, "Propaganda as History" pp.&nbsp;10–23 in ''Race and History: Selected Essays 1938–1988'' (Louisiana State University Press, 1989); first published in ''The Massachusetts Review'', 1979. Describes the history of the novel ''The Clan'' and this film.
+* Franklin, John Hope, ''Reconstruction After the Civil War'' (Chicago, 1961), p.&nbsp;5–7.
+* Hickman, Roger. ''Reel Music: Exploring 100 Years of Film Music'' (New York: [[W. W. Norton & Company]], 2006).
+* [[Christopher L. Hodapp|Hodapp, Christopher L.]], and Alice Von Kannon, ''Conspiracy Theories & Secret Societies For Dummies'' (Hoboken: Wiley, 2008) p.&nbsp;235–6.
+* [[Ralph Korngold|Korngold, Ralph]], ''Thaddeus Stevens. A Being Darkly Wise and Rudely Great'' (New York: 1955) pp.&nbsp;72–76. corrects Dixon's false characterization of Stevens' racial views and of his dealings with his housekeeper.
+* Leab, Daniel J., ''From Sambo to Superspade'' (Boston, 1975), p.&nbsp;23–39.
+* ''New York Times'', roundup of reviews of this film, March 7, 1915.
+* ''The New Republica'', II (March 20, 1915), 185
+* Poole, W. Scott, ''Monsters in America: Our Historical Obsession with the Hideous and the Haunting'' (Waco, Texas: Baylor, 2011), 30. ISBN 978-1-60258-314-6
+* [[Francis Butler Simkins|Simkins, Francis B.]], "New Viewpoints of Southern Reconstruction", ''Journal of Southern History'', V (February, 1939), pp.&nbsp;49–61.
+* Stokes, Melvyn, ''D. W. Griffith's The Birth of a Nation: A History of "The Most Controversial Motion Picture of All Time"'' (New York: Oxford University Press, 2007). The latest study of the film's making and subsequent career.
+* Williamson, Joel, ''After Slavery: The Negro in South Carolina During Reconstruction'' (Chapel Hill, 1965). This book corrects Dixon's false reporting of Reconstruction, as shown in his novel, his play and this film.
+
+==External links==
+{{Commons category|Birth of a Nation|''The Birth of a Nation''}}
+* {{IMDb title|0004972}}
+* {{Internet Archive film|dw_griffith_birth_of_a_nation|The Birth of a Nation}}
+* {{tcmdb title|5764}}
+* {{allrovi movie|5751}}
+* {{rotten-tomatoes|birth_of_a_nation}}
+* [http://chnm.gmu.edu/features/episodes/birthofanation.html GMU.edu], "Art (and History) by Lightning Flash": ''The Birth of a Nation'' and Black Protest
+* [http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20030330/REVIEWS08/303300301/1023 ''The Birth of a Nation''] on [[Roger Ebert]]'s list of great movies
+* [http://www.filmsite.org/birt.html ''The Birth of a Nation''] on filmsite.org, a web site offering comprehensive summaries of classic films
+* [http://texashistory.unt.edu/permalink/meta-pth-21924:1 Souvenir Guide for ''The Birth of a Nation''], hosted by the  [http://texashistory.unt.edu/ Portal to Texas History]
+* [http://film.virtual-history.com/film.php?filmid=2319 Virtual-History.com], Literature
+*[http://edsitement.neh.gov/lesson-plan/birth-nation-naacp-and-balancing-rights NEH's EDSITEment lesson plan ''The Birth of a Nation'', the NACCP, and the Balancing of Rights ]
+*[[C-SPAN]] hosted discussions of and aired the film on the occasion of its 100th anniversary:
+**[http://www.c-span.org/video/?323484-1/qa-dick-lehr ''Q&A'' interview with Dick Lehr on his book ''The Birth of a Nation: How a Legendary Filmmaker and a Crusading Editor Reignited America’s Civil War'', January 11, 2015]
+**[http://www.c-span.org/video/?96839-1/birth-nation-introduction Introduction to screening and discussions, February 14, 2015]
+**[http://www.c-span.org/video/?324189-1/birth-nation-1915 First part of the film]
+**[http://www.c-span.org/video/?96839-101/birth-nation-intermission Intermission with discussion]
+**[http://www.c-span.org/video/?324189-2/birth-nation-part-2 Second part of the film]
+**[http://www.c-span.org/video/?324112-1/open-phones-birth-nation Open phone discussion with Hari Jones and Dick Lehr]
+
+{{D. W. Griffith}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Birth Of A Nation, The}}
+[[Category:1915 films]]
+[[Category:1910s drama films]]
+[[Category:American films]]
+[[Category:American Civil War films]]
+[[Category:American drama films]]
+[[Category:American silent feature films]]
+[[Category:Articles containing video clips]]
+[[Category:Black-and-white films]]
+[[Category:Blackface minstrel shows and films]]
+[[Category:American epic films]]
+[[Category:Fictional depictions of Abraham Lincoln in film]]
+[[Category:Films about race and ethnicity]]
+[[Category:Films based on American novels]]
+[[Category:Films based on multiple works]]
+[[Category:Films based on plays]]
+[[Category:Films directed by D. W. Griffith]]
+[[Category:Films set in South Carolina]]
+[[Category:Films set in the 1860s]]
+[[Category:Films set in the 1870s]]
+[[Category:History of racism in the cinema of the United States]]
+[[Category:History of the Southern United States]]
+[[Category:History of the United States (1865–1918)]]
+[[Category:Ku Klux Klan]]
+[[Category:Media-related controversies in the United States]]
+[[Category:Presidency of Woodrow Wilson]]
+[[Category:United States National Film Registry films]]
+[[Category:White supremacy in the United States]]

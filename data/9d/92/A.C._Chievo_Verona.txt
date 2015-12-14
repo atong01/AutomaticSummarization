@@ -1,0 +1,238 @@
+{{EngvarB|date=May 2014}}
+{{Use dmy dates|date=May 2014}}
+{{Infobox football club
+| clubname = ChievoVerona
+| image = [[Image:Chievo-verona-logo.png|150px]]
+| fullname = Associazione Calcio ChievoVerona S.r.l.
+| nickname = ''Gialloblu'' (Yellow-Blues), <br />''Mussi Volanti'' ("Flying Donkeys" in [[Venetian language]]), <br /> ''Ceo'' ("Chievo" in Venetian)
+| founded = {{Start date and age|df=yes|
+1929}}
+|leftarm1=0000FF
+|pattern_la1=
+|body1=FFEE00
+|pattern_b1=_chievo1516h
+|rightarm1=0000FF
+|pattern_ra1=
+|shorts1=FFFF00
+|pattern_sh1=
+|socks1=FFFF00
+|pattern_so1=
+|leftarm2=2786f0
+|pattern_la2=
+|body2=0000ff
+|pattern_b2=_chievo1516a
+|rightarm2=
+|pattern_ra2=
+|shorts2=
+|pattern_sh2=
+|socks2=
+|pattern_so2=
+|leftarm3=949297
+|pattern_la3=_blackborder
+|body3=000000
+|pattern_b3=_chievo1516t
+|rightarm3=949297
+|pattern_ra3=_blackborder
+|shorts3=969696
+|pattern_sh3=_chievo1516t
+|socks3=969696
+|pattern_so3=| ground = [[Stadio Marc'Antonio Bentegodi]],<br />[[Verona]], Italy
+| capacity = 39,371<ref>[http://www.hellasverona.it/stadio.php www.hellasverona.it]</ref> 
+| chrtitle = President
+| chairman = Luca Campedelli
+| mgrtitle = Head coach
+| manager = [[Rolando Maran]]
+| league = [[Serie A]]
+| season = [[2014–15 Serie A|2014–15]]
+| position = Serie A, 14th
+| website = http://www.chievoverona.it/
+
+
+|current       = 2015–16 A.C. Chievo Verona season
+}}
+
+'''Associazione Calcio ChievoVerona''' (more commonly called '''ChievoVerona''' or simply '''Chievo''' {{IPA-it|ˈkjɛvo|}}) is an Italian professional [[Association football|football]] club named after and based in [[Chievo]], a suburb of 4,500 inhabitants in [[Verona]], [[Veneto]], and owned by [[Paluani]], a bakery product company and the inspiration for their original name, '''Paluani Chievo'''. The club is nicknamed alternatively ''Gialloblu'' ("Yellow-Blues"), ''Mussi volanti'' ("Flying donkeys") or ''Ceo'' ("Chievo" in [[Venetian language|Venetian]]), and shares the 38,402 seater [[Stadio Marc'Antonio Bentegodi|Marc'Antonio Bentegodi]] stadium with its cross-town rivals [[Hellas Verona F.C.|Hellas Verona]].
+
+==History==
+
+===Early years===
+The team was founded in 1929 by a small number of football fans from the small borough of [[Chievo]], a Verona neighbourhood. Initially the club was not officially affiliated to the [[Italian Football Federation]] (FIGC), but nonetheless played several amateur tournament and friendly matches under the denomination "O.N.D. Chievo," a title imposed by the [[Kingdom of Italy|fascist regime]]. The club's formal debut in an official league was on 8 November 1931. The team colours at the time were blue and white. Chievo disbanded in 1936, however, due to economic woes but returned to play in 1948 after World War II, being registered in the regional league of "Seconda Divisione" (Second Division). In 1957, the team moved to the "Carlantonio Bottagisio" parish field, where they played until 1986. In 1959, after the restructuring of the football leagues, Chievo was admitted to play the "Seconda Categoria" (Second Category), a regional league placed next-to-last in the Italian football pyramid. That year, Chievo changed its name to "Cardi Chievo," after a new sponsor, and was quickly promoted to the "Prima Categoria," from which it experienced its first-ever relegation in 1962.
+
+===Series of promotions===
+In 1964, Luigi Campedelli, a businessman and owner of the Paluani company, was named new Chievo chairman. Under Campedelli's presidency, Chievo climbed through the entire Italian football pyramid, reaching the [[Serie D]] after the 1974–75 season. Under the name "Paluani Chievo," the team was promoted to [[Serie C]]2 in 1986. As a consequence of promotion, Chievo was forced to move to the [[Stadio Marcantonio Bentegodi]], the main venue in Verona; another promotion, to Serie C1, followed in 1989. In 1990, the team changed its name to its current one, "A.C. Chievo Verona."
+
+In 1992, President Luigi Campedelli, who had returned at the helm of the club two years before, died of a heart attack, and his son [[Luca Campedelli]], aged just 23, became the new and youngest chairman of an Italian professional football club. Campedelli promoted [[Giovanni Sartori (footballer)|Giovanni Sartori]] to director of football and named [[Alberto Malesani]] as the new head coach. Under Malesani, the team astonishingly won the Serie C1 and was promoted to [[Serie B]], where city rival [[Hellas Verona F.C.|Hellas Verona]] was playing at the time. In 1997, after Malesani signed for [[ACF Fiorentina|Fiorentina]], [[Silvio Baldini]] was appointed the new head coach. The following season, with [[Domenico Caso]] as the coach, saw the first dismissal of a coach during the presidency of Luca Campedelli, with Caso being fired and replaced with [[Lorenzo Balestro]]. It was during these years that the nickname ''"mussi volanti"'' ("flying donkeys") was born. It originated from supporters of their crosstown rivals [[Hellas Verona|Hellas]], who would mock long-suffering Chievo supporters that Chievo will only be promoted if "donkeys could fly" (equivalent of the English language [[falsism]] "if pigs could fly", denoting an impossible dream).<ref>http://www.goal.com/en/news/1717/editorial/2009/04/23/1225402/calcio-debate-the-fairytale-story-of-the-flying-donkeys-of</ref>
+
+In [[2000–01 Serie B|2000–01]], [[Luigi Delneri]] was signed as coach and led Chievo, by virtue of its third-place finish in Serie B, to promotion to [[Serie A]], the first time in team history that it had reached the top tier of Italian football.
+
+===Mussi Volanti (2001–2007)===
+In its [[2001–02 Serie A|2001–02]], Chievo's Serie A debut season, the team was most critics' choice for an instant return to Serie B. However, they became the surprise team in the league, playing often spectacular and entertaining football and even leading the league for six consecutive weeks. The club finally ended the season with a highly respectable fifth-place finish, qualifying the team to play in the [[UEFA Europa League|UEFA Cup]].
+
+In [[2002–03 Serie A|2002–03]], Chievo debuted at the European level but were eliminated in the first round by [[Red Star Belgrade]]. The team finished the Serie A season in seventh place, again proving itself one of the better Serie A teams. The [[2003–04 Serie A|2003–04 season]], the last with Delneri at the helm, saw Chievo finish ninth.
+
+The [[2004–05 Serie A|2004–05 season]] is remembered as one of the toughest ever in Chievo's history. [[Mario Beretta]], a Serie A novice from [[Ternana Calcio|Ternana]], was named the coach but, after a strong start that brought Chievo to third behind [[Juventus F.C.|Juventus]] and [[A.C. Milan|Milan]], the team slowly lost position in the league table. With three matches remaining in the season, Chievo was third-from-last, a position which would see it relegated to Serie B. As a last resort, Beretta was fired and [[Maurizio D'Angelo]], a former Chievo player, was appointed temporarily to replace him as coach. Morale improved, and two wins and a tie from the final three matches proved just enough to keep Chievo in Serie A.
+
+In [[2005–06 Serie A|2005–06]], [[Giuseppe Pillon]] of [[Treviso F.B.C. 1993|Treviso FBC]] was appointed as new coach. The team experienced a return to the successful Delneri era, both in style of play and results, which resulted in Chievo ending the season in seventh and gaining a berth in the UEFA Cup. However, because of the [[2006 Serie A scandal|football scandal]] involving several top-class teams, all of which finished higher than Chievo in the 2005–06 season, the Flying Donkeys were awarded a place in the next [[UEFA Champions League|Champions League]] preliminary phase.
+
+On 14 July 2006, the verdict in the scandal was made public. Juventus, Milan and Fiorentina, who had all originally qualified for the [[2006–07 UEFA Champions League|2006–07 Champions League]], and [[S.S. Lazio|Lazio]], who had originally qualified for the [[2006–07 UEFA Cup]], were all banned from [[UEFA]] competition for the 2006–07 season, although Milan were allowed to enter the Champions League after their appeal to the FIGC. Chievo took up a place in the third qualifying stage of the competition along with Milan and faced Bulgarian side [[PFC Levski Sofia|Levski Sofia]]. Chievo lost the first leg 2–0 in [[Sofia]] and managed a 2–2 home draw on the second leg and were eliminated by a 4–2 aggregate score with Levski advancing to the Champions League group stage. As a Champions League third round qualifying loser, Chievo was given a place in the UEFA Cup final qualifying round. On 25 August 2006, they were drawn to face Portuguese side [[S.C. Braga|Braga]]. The first leg, played on 14 September in [[Braga]], ended in a 2–0 win for the Portuguese. The return match, played on 28 September in Verona, although won by Chievo 2–1, resulted in a 3–2 aggregate loss and the club's elimination from the competition.
+
+On 16 October 2006, following a 1–0 defeat against [[Torino F.C.|Torino]], head coach Giuseppe Pillon was fired, and replaced by Luigi Delneri, one of the original symbols of the ''miracle Chievo'', who had led the club to the Serie A in 2002.
+
+On 27 May 2007, the last match day of the 2006–07 Serie A season, Chievo was one of five teams in danger of falling into the last undecided relegation spot. Needing only a tie against [[Calcio Catania|Catania]], a direct competitor in the relegation battle, Chievo lost 2–0 playing on a neutral field in [[Bologna F.C. 1909|Bologna]]. Wins by [[Parma F.C.|Parma]], [[A.C. Siena|Siena]] and [[A.S.D. Reggio Calabria|Reggina]] condemned Chievo to Serie B for the 2007–08 season after six seasons in the top flight.
+
+Even as a relatively-successful Serie A team the club, which averages only 9,000 to 10,000 fans<ref>http://www.stadiapostcards.com/A11-12.htm</ref> and is kept afloat mainly by money from television rights, does not have the same number of fan supporters as Hellas, the oldest team in Verona, actually (season 2012–13) playing in the Serie B"(Italian's second division). The difference between the clubs supporters' number is highlighted during local derby games played in season 2001–02 at the clubs' shared stadium when, for Chievo's "home" fixtures, the Chievo fans were located in "away" end of the stadium (the area of the stadium Chievo's supporters by years claim as "theirs," in fact the main supporters faction's name is "North Side," the side of the stadium usually assigned to away teams' supporters), while the most of the rest of the stadium seats was assigned to Hellas supporters.
+
+===A year with the ''Cadetti'' (2007–08)===
+Chievo bounced back quickly from the disappointment of their relegation on the last matchday of 2006–07, going in search of an immediate promotion back to the top flight. After the expected departure of several top-quality players including [[Franco Semioli]], [[Salvatore Lanna]], [[Matteo Brighi]], [[Paolo Sammarco]] and [[Erjon Bogdani]], the manager Delneri also parted ways with the club. [[Giuseppe Iachini]] replaced him and the captain, [[Lorenzo D'Anna]], gave way to [[Sergio Pellissier]] at the end of the transfer window. A new squad was constructed, most notably including the arrivals of midfielders [[Maurizio Ciaramitaro]] and [[Simone Bentivoglio]], defender [[César de Luca|César]] and forward [[Antimo Iunco]]. This new incarnation of the ''gialloblu'' were crowned winter champions (along with Bologna), en route to a 41st matchday promotion after a 1–1 draw at [[U.S. Grosseto F.C.|Grosseto]] left them four points clear of third-place [[U.S. Lecce|Lecce]] with one match remaining. In addition to winning promotion, they were conferred with the Ali della Vittoria trophy on the final matchday of the season, their first league title of any kind in 14 years.
+
+===Back in Serie A (2008–)===
+In their first season back to the top flight, Chievo immediately struggled in the league resulting in the dismissal of Iachini in November and his replacement with former Parma boss [[Domenico Di Carlo]].<ref name="dicarlo_chievo">{{cite news|publisher=AC Chievo Verona |url=http://www.chievoverona.it/societa/notizia.aspx?P=0&tipo=N&ID=8136 |title=LA SQUADRA AFFIDATA A DOMENICO DI CARLO. OGGI ALLE 14 LA PRESENTAZIONE |date=4 November 2008 |accessdate=4 November 2008 |language=Italian |deadurl=yes |archiveurl=https://web.archive.org/20090302052018/http://www.chievoverona.it:80/societa/notizia.aspx?P=0&tipo=N&ID=8136 |archivedate=2 March 2009 }}</ref> After Di Carlo's appointment, Chievo managed a remarkable resurgence that led the ''gialloblu'' out of the relegation zone after having collected just nine points from their first 17 matches. Highlight matches included a 3–0 defeat of Lazio (who then won the [[2008–09 Coppa Italia]] title) at the [[Stadio Olimpico]], and a thrilling 3–3 draw away to Juventus in which captain and longtime Chievo striker Sergio Pellissier scored a late equaliser to complete his first career hat-trick. A series of hard-fought draws against top clubs [[A.S. Roma|Roma]], [[Inter Milan|Internazionale]] and [[Genoa C.F.C.|Genoa]] in the final stretch of the season solidified ''Ceo'''s position outside the drop zone and Serie A status was finally confirmed on matchday 37 with a home draw against Bologna. A largely unchanged lineup earned safety the following season with four matchdays to spare, and Chievo is therefore a part of the inaugural Lega Calcio Serie A in [[2010–11 Serie A|2010–11]], their third consecutive season (and ninth season in the last ten years) in the top flight of Italian football.
+
+==Current squad==
+
+===First team squad===
+{{updated|19 August, 2015}}
+
+{{Fs start}}
+{{Fs player|no= 1|nat=ARG|pos=GK|name=[[Albano Bizzarri]]}}
+{{Fs player|no= 3|nat=ITA|pos=DF|name=[[Dario Dainelli]]}}
+{{Fs player|no= 4|nat=ITA|pos=MF|name=[[Nicola Rigoni]]}}
+{{Fs player|no= 5|nat=ITA|pos=DF|name=[[Alessandro Gamberini]]}}
+{{Fs player|no= 6|nat=ITA|pos=MF|name=[[Giampiero Pinzi]]}}
+{{Fs player|no= 7|nat=ITA|pos=MF|name=[[Simone Pepe]]}}
+{{Fs player|no= 8|nat=SRB|pos=MF|name=[[Ivan Radovanović]]}}
+{{Fs player|no=10|nat=DNK|pos=MF|name=[[Anders Christiansen]]}}
+{{Fs player|no=11|nat=ITA|pos=DF|name=[[Federico Mattiello]]|other=on loan from [[Juventus F.C.|Juventus]]}}
+{{Fs player|no=12|nat=SLO|pos=DF|name=[[Boštjan Cesar]]}}
+{{Fs player|no=13|nat=ARG|pos=MF|name=[[Mariano Izco]]}}
+{{Fs player|no=18|nat=ITA|pos=DF|name=[[Massimo Gobbi]]}}
+{{Fs player|no=19|nat=ARG|pos=MF|name=[[Lucas Castro]]}}
+{{Fs mid}}
+{{Fs player|no=20|nat=ITA|pos=DF|name=[[Gennaro Sardo]]}}
+{{Fs player|no=21|nat=FRA|pos=DF|name=[[Nicolas Frey]]}}
+{{Fs player|no=23|nat=SLO|pos=MF|name=[[Valter Birsa]]}}
+{{Fs player|no=29|nat=ITA|pos=DF|name=[[Fabrizio Cacciatore]]}}
+{{Fs player|no=31|nat=ITA|pos=FW|name=[[Sergio Pellissier]]|other=[[Captain (association football)|captain]]}}
+{{Fs player|no=32|nat=ITA|pos=GK|name=[[Walter Bressan]]}}
+{{Fs player|no=40|nat=COD|pos=FW|name=[[Paul-José M'Poku]]|other=on loan from [[Standard Liège]]}}
+{{Fs player|no=43|nat=ITA|pos=FW|name=[[Alberto Paloschi]]}}
+{{Fs player|no=45|nat=ITA|pos=FW|name=[[Roberto Inglese]]}}
+{{Fs player|no=56|nat=FIN|pos=MF|name=[[Përparim Hetemaj]]}}
+{{Fs player|no=69|nat=ITA|pos=FW|name=[[Riccardo Meggiorini]]}}
+{{Fs player|no=90|nat=ITA|pos=GK|name=[[Andrea Seculin]]}}
+{{Fs end}}
+
+===Other players under contract===
+
+{{Fs start}}
+{{Fs player|no=  |nat=BRA|pos=GK|name=[[Marcos Miranda]]}}
+{{Fs player|no=  |nat=MLI|pos=DF|name=[[Oumaro Coulibaly]]}}
+{{Fs player|no=  |nat=ITA|pos=DF|name=Francesco Sabatucci}}
+{{Fs player|no=  |nat=ITA|pos=DF|name=Davide Savi}}
+{{Fs mid}}
+{{Fs player|no=  |nat=ITA|pos=MF|name=[[Emanuele Gatto]]}}
+{{Fs player|no=  |nat=MNE|pos=MF|name=[[Idriz Toskić]]}}
+{{Fs player|no=  |nat=ITA|pos=FW|name=[[Valerio Anastasi]]}}  
+{{Fs player|no=  |nat=SLO|pos=FW|name=Damir Bartulovič}}
+{{Fs end}}
+
+===Out on loan===
+
+{{Fs start}}
+{{Fs player|no=|nat=ITA|pos=GK|name=Simone Moschin|other=at [[A.C. Renate|Renate]]}}
+{{Fs player|no=|nat=ITA|pos=GK|name=[[Ivan Provedel]]|other=at [[Modena F.C.|Modena]]}}
+{{Fs player|no=|nat=ITA|pos=DF|name=[[Amedeo Benedetti (footballer)|Amedeo Benedetti]]|other=at [[A.S. Cittadella|Cittadella]]}}
+{{Fs player|no=|nat=ITA|pos=DF|name=[[Alessandro Bassoli]]|other=at [[F.C. Südtirol|Südtirol]]}}
+{{Fs player|no=|nat=ITA|pos=DF|name=[[Marco Calderoni]]|other=at [[U.S. Latina Calcio|Latina]]}}
+{{Fs player|no=|nat=ITA|pos=DF|name=[[Filippo Costa]]|other=at [[A.F.C. Bournemouth|Bournemouth]]}}
+{{Fs player|no=|nat=ITA|pos=DF|name=Gianni Manfrin|other=at [[U.S. Alessandria Calcio 1912|Alessandria]]}}
+{{Fs player|no=|nat=ITA|pos=DF|name=[[Raffaele Pucino]]|other=at [[Virtus Lanciano]]}}
+{{Fs player|no=|nat=ITA|pos=DF|name=Michele Troiani|other=at [[Benevento Calcio|Benevento]]}}
+{{Fs player|no=|nat=SEN|pos=DF|name=Ansoumana Sané|other=at [[U.S. Città di Pontedera|Pontedera]]}}
+{{Fs player|no=|nat=ITA|pos=DF|name=[[Matteo Solini]]|other=at [[A.C. Renate|Renate]]}}
+{{Fs player|no=|nat=ITA|pos=MF|name=Matteo Brunelli|other=at [[A.C. Pisa 1909|Pisa]]}}
+{{Fs player|no=|nat=ITA|pos=MF|name=[[Nicola Bellomo (footballer)|Nicola Bellomo]]|other=at [[Ascoli Picchio F.C. 1898|Ascoli]]}}
+{{Fs player|no=|nat=BRA|pos=MF|name=[[Victor da Silva]]|other=at [[S.S. Teramo Calcio|Teramo]]}}
+{{Fs mid}}
+{{Fs player|no=|nat=GHA|pos=FW|name=[[Caleb Ekuban]]|other=at [[A.C. Renate|Renate]]}}
+{{Fs player|no=|nat=ITA|pos=MF|name=[[Mario Gargiulo]]|other=at [[Bassano Virtus 55 S.T.|Bassano]]}}
+{{Fs player|no=|nat=ITA|pos=MF|name=[[Massimiliano Gatto]]|other=at [[F.C. Pro Vercelli 1892|Pro Vercelli]]}}
+{{Fs player|no=|nat=POL|pos=MF|name=[[Tomasz Kupisz]]|other=at [[Brescia Calcio|Brescia]]}}
+{{Fs player|no=|nat=GHA|pos=MF|name=[[Isaac Ntow]]|other=at [[Calcio Como|Como]]}}
+{{Fs player|no=|nat=ITA|pos=MF|name=[[Lorenzo Marchionni]]|other=at [[Modena F.C.|Modena]]}}
+{{Fs player|no=|nat=GHA|pos=MF|name=[[Alessandro Sbaffo]]|other=at [[Calcio Como|Como]]}}
+{{Fs player|no=|nat=ITA|pos=MF|name=[[Alessio Sestu]]|other=at [[Virtus Entella]]}}
+{{Fs player|no=|nat=ALB|pos=MF|name=[[Armando Vajushi]]|other=at [[Livorno Calcio|Livorno]]}}
+{{Fs player|no=|nat=GAM|pos=FW|name=Yusupha Bobb|other=at [[A.S. Cittadella|Cittadella]]}}
+{{Fs player|no=|nat=GAM|pos=FW|name=Lamin Jallow|other=at [[A.S. Cittadella|Cittadella]]}}
+{{Fs player|no=|nat=BUL|pos=FW|name=[[Radoslav Kirilov]]|other=at [[F.C. Südtirol|Südtirol]]}}
+{{Fs player|no=|nat=GAM|pos=FW|name=[[Ali Sowe]]|other=at [[Modena F.C.|Modena]]}}
+{{Fs end}}
+
+==Retired numbers==
+* 30 {{flagicon|Democratic Republic of the Congo}} [[Jason Mayélé]], [[Midfielder#Winger|left/right winger]], 2001–2002 (posthumous)
+
+==Notable players==
+* ''See [[:Category:A.C. Chievo Verona players]]''
+
+==Former coaches==
+{{columns-list|3| 
+* [[Nicola Ciccolo]] (1974–78)
+* [[Carlo De Angelis]] (1978–80), (1985–87)
+* [[Gianni Bui]] (1988–91)
+* [[Carlo De Angelis]] (1991–93)
+* [[Alberto Malesani]] (1 June, 1993–97)
+* [[Silvio Baldini]] (July 1997–??)
+* [[Domenico Caso]] (1 Jul 1998 – 14 Dec 1998)
+* [[Luigi Delneri]] (1 Jul 2000 – 30 Jun 2004)
+* [[Mario Beretta]] (15 Jun 2004 – 30 Jun 2005)
+* [[Maurizio D'Angelo]] (2005)
+* [[Giuseppe Pillon]] (1 Jul 2005 – 16 Oct 2006)
+* [[Luigi Delneri]] (2006–07)
+* [[Giuseppe Iachini]] (1 Jul 2007 – 3 Nov 2008)
+* [[Domenico Di Carlo]] (4 Nov 2008 – 26 May 2010)
+* [[Stefano Pioli]] (10 Jun 2010 – 2 Jun 2011)
+* [[Domenico Di Carlo]] (9 Jun 2011 – 2 Oct 2012)
+* [[Eugenio Corini]] (3 Oct 2012 – 30 Jun 2013)
+* [[Giuseppe Sannino]] (1 Jul 2013 – 11 Nov 2013)
+* [[Eugenio Corini]] (12 Nov 2013 – 19 Oct 2014)
+* [[Rolando Maran]] (19 Oct 2014 – present)
+}}
+
+==Colours and badge==
+{{Unreferenced section|date=March 2010}}
+The club's original colours were blue and white and not the current blue and yellow. The club's historic nickname is ''Gialloblu'' (from the club colours of yellow and blue), although throughout Italian football, the Verona's team recognised in the past by most fans as ''Gialloblu'' are Hellas Verona, Chievo's main rivals. The club is sometimes referred to today as the ''Mussi Volanti'' ("flying donkeys" in the Verona dialect of [[Venetian language|Venetian]]). Local supporters often call the club simply ''Ceo'', which is Veronese for Chievo. The "Flying Donkeys" nickname was originally a derogatory term from a match chant sung by fans from crosstown rivals Hellas, which said that "when donkeys'll fly, we'll have a [[Derby della Scala|derby]] in Serie A," of course sung before the two derbies attended in 2001–02. However, with later successes by Chievo and contemporaneous [[Serie B]] and [[Serie C1]] struggles for Hellas, Chievo fans have now largely embraced the nickname as a badge of honour.
+
+The current club crest represents [[Cangrande I della Scala]], a medieval lord of Verona.
+
+==Stadium==
+Stadio Marcantonio Bentegodi is a stadium in Verona, Italy. It is the home of Chievo Verona also city rival Hellas.<ref>{{cite web|url=http://www.chievoverona.tv/it/content/come-raggiungere-lo-stadio|title=Chievo Verona official website|accessdate=4 May 2011}}</ref>
+
+Inaugurated as a state-of-the-art facility and as one of Italy's finest venues in 1963, the stadium appeared excessive for a team (Hellas) that had spent the best part of the previous 35 years in Serie B. For the [[1990 FIFA World Cup]] renovations included an extra tier and a roof to cover all sections, improved visibility, public transport connections, an urban motorway connecting the city centre with the stadium and the Verona Nord motorway exit and services.
+
+==Supporters==
+{{Unreferenced section|date=March 2010}}
+Within the city of Verona, Chievo are considered the second club to Hellas. Since their rise through the Italian leagues however they have built up their own fanbase with crowds that generally average between 9,000 and 13,000.
+
+There are many different supporters groups which can be found in the stadium at every home match. The largest and noisiest of which is known as North Side.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.chievoverona.it/en Official website]
+
+{{Serie A}}
+{{Football in Italy}}
+
+{{Authority control}}
+{{DEFAULTSORT:Chievo Verona}}
+[[Category:1929 establishments in Italy]]
+[[Category:A.C. Chievo Verona| ]]
+[[Category:Association football clubs established in 1929]]
+[[Category:Football clubs in Veneto]]
+[[Category:Lega Pro Prima Divisione clubs]]
+[[Category:Lega Pro Seconda Divisione clubs]]
+[[Category:Serie A clubs]]
+[[Category:Serie B clubs]]
+[[Category:Sport in Verona]]

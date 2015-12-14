@@ -1,0 +1,106 @@
+{{multiple issues|
+{{lead rewrite|date=February 2013}}
+{{no footnotes|date=February 2013}}
+}}
+
+'''Transportation in Ecuador'''
+
+==Aviation==
+[[File:29. Aeropuerto de Guayaquil (8).JPG|thumb|[[José Joaquín de Olmedo International Airport]] ('''[[Guayaquil]]''')]]
+
+===National airlines===
+*[[Avianca Ecuador|Avianca]]
+*[[LAN Ecuador|LAN Airlines]]
+*[[TAME]] ('''flag carrier''')
+
+===Airports===
+359 (2006 est.)
+
+====Airports - with paved runways====
+:''total:'' 98
+:''over 3,047 m:'' 3
+:''2,438 to 3,047 m:'' 4
+:''1,524 to 2,437 m:'' 19
+:''914 to 1,523 m:'' 29
+:''under 914 m:'' 43
+
+====Airports &ndash; with unpaved runways====
+:''total:'' 261
+:''914 to 1,523 m:''33
+:''under 914 m:''228
+
+===Heliports===
+:2 (2010)
+
+==Highways==
+:''total:'' 43,197&nbsp;km
+:''paved:'' 6,467&nbsp;km
+:''unpaved:'' 36,730&nbsp;km (2004 est.)
+
+The Sierra Region still plays an important role in transportation throughout the country. The [[Pan-American Highway]] crosses it from North to South. Ecuador has managed to update some roads into 4-lane freeways:
+
+* [[Quito]] - Alpichacas. Length: 33&nbsp;km.
+* [[Guayaquil]] ring-road. Length: 46&nbsp;km.
+* [[Guayaquil]] - Taura. Length: 30&nbsp;km.
+* [[Guayaquil]] - Cerro Blanco. Length: 27&nbsp;km.
+* [[Machala]] - Pasaje. Length: 23&nbsp;km.
+
+===Bus transport===
+*[[Bus transport in Ecuador]]
+
+==Pipelines==
+* [[crude oil]] 800&nbsp;km
+* [[petroleum products]] 1,358&nbsp;km
+
+==Ports and harbors==
+
+=== Pacific Ocean ===
+* [[Esmeraldas, Ecuador|Esmeraldas]]
+* [[Guayaquil]], [[La Libertad, Guayas|La Libertad]]
+* [[Manta, Ecuador|Manta]]
+* [[Puerto Bolívar]]
+* [[San Lorenzo, Ecuador|San Lorenzo]]
+
+===Merchant marine===
+<br>''total:''
+31 ships ({{GRT|1,000|disp=long}} or over) totaling {{GRT|184,819}}/{{DWT|300,339|metric|disp=long}}
+<br>''ships by type:'' (2006 est.)
+* [[Chemical tanker]] 1
+* [[LNG carrier|gas carrying tanker]] 1
+* [[Passenger ship]]s 7
+* [[Petroleum tanker]]s 21
+* [[Specialized tanker]] 1
+''[[Foreign-owned]]:'' 2
+* Norway 1,
+* Paraguay 1
+''[[Registered in other countries]]'' 1
+* Georgia 1
+
+==Railways==
+{{main|Rail transport in Ecuador}}
+[[File:Railways in Ecuador.svg|thumb|Railways in Ecuador {{nowrap|([[ShareMap:public/Railways in Ecuador|interactive map]])}}
+<br /><span style="color:red">━━━</span>  Routes with passenger traffic
+<br /><span style="color:black">━━━</span>  Routes in usable state
+<br /><span style="color:gray">··········</span> Unusable or dismantled routes]]
+''total:''
+812&nbsp;km (single track)
+<br>''[[Narrow gauge railway|narrow gauge]]:''
+812&nbsp;km {{RailGauge|3ft6in}} gauge
+
+There is a proposed rail connection with [[Transport in Colombia|Colombia]]. On 5 July 2008 a meeting took place between [[Transport in Venezuela|Venezuela]], [[Transport in Colombia|Colombia]] and Ecuador regarding a railway for freight and passengers to link the three countries, and linking the Pacific with the Atlantic also. There is no railway service to [[Transport in Peru|Peru]].
+
+==Waterways==
+1,500&nbsp;km
+
+==References==
+<references/>
+
+{{CIA World Factbook}}
+* [http://www.volunteeringecuador.info/en/about-ecuador/transportation-in-ecuador.html Useful tips and articles about transportation in Ecuador]
+
+{{Americas topic|Transport in}}
+
+[[Category:Transport in Ecuador| ]]
+
+
+{{Ecuador-transport-stub}}

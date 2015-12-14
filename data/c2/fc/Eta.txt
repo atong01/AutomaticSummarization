@@ -1,0 +1,118 @@
+{{About|the Greek letter|other uses|Eta (disambiguation)}}
+{{Greek Alphabet|letter=eta}}
+'''Eta''' (uppercase '''Η''', lowercase '''η'''; {{lang-el|Ήτα}} ''Hēta'') is the seventh letter of the [[Greek alphabet]]. Originally denoting  [[Heta (letter)|a consonant]] /h/, its sound value in the classical [[Attic Greek|Attic dialect]] of [[Ancient Greek]] was a long vowel [[Open-mid front unrounded vowel|{{IPA|[ɛː]}}]], raised to {{IPA-el|i|}} in [[medieval Greek]], a process known as [[iotacism]].
+
+In the system of [[Greek numerals]] it has a value of 8. It was derived from the [[Phoenician alphabet|Phoenician letter]] [[heth]] [[File:Phoenician heth.svg|20px]]. Letters that arose from Eta include the Latin [[H]] and the [[Cyrillic script|Cyrillic]] letter [[I (Cyrillic)|И]].
+
+==History==
+===Consonant h===
+[[File:41 - Stoà of Attalus Museum - Ostracism against Megakles (487 BC) - Photo by Giovanni Dall'Orto, Nov 9 2009.jpg|thumb|right|Eta ([[Heta]]) in the function of /h/ on the [[ostrakon]] of [[Megacles]], son of Hippocrates, 487 BC. Inscription: ΜΕΓΑΚLES HIΠΠΟΚRATOS. On display in the Ancient Agora Museum in Athens, housed in the [[Stoa of Attalus]].]]
+[[File:Hermes e Sarpedon.jpg|thumb|Eta in the function of /h/ on an Attic [[Red-figure pottery|red-figured]] [[Calyx (mythology)|calyx]]-[[krater]], 515 BC. Amongst the depicted figures are [[Hermes]] and [[Hypnos]]. Inscriptions: HERMES - HYPNOS.]]
+{{main|Heta (letter)}}
+The letter shape 'H' was originally used in most Greek dialects to represent the sound /h/, a [[voiceless glottal fricative]]. In this function, it was borrowed in the 8th century BC by the [[Old Italic alphabet|Etruscan and other Old Italic alphabets]], which were based on the [[Cumaean alphabet|Euboean]] form of the Greek alphabet. This also gave rise to the Latin alphabet with its letter [[H]].
+
+Other regional variants of the Greek alphabet ([[epichoric alphabets]]), in dialects that still preserved the sound /h/, employed various glyph shapes for consonantal Heta side by side with the new vocalic Eta for some time. 
+In the southern Italian colonies of [[Heraclea Lucania|Heracleia]] and [[Taranto|Tarentum]], the letter shape was reduced to a "half-heta" lacking the right vertical stem (Ͱ). From this sign later developed the sign for [[rough breathing]] or ''spiritus asper'',  which brought back the marking of the  /h/ sound into the standardized post-classical ([[Greek diacritics|polytonic]]) orthography.<ref name="Nicholas">[http://www.tlg.uci.edu/~opoudjis/unicode/unicode_aitch.html Nick Nicholas (2003), "Greek /h/"]</ref>
+[[Dionysius Thrax]] in the second century BC records that the letter name was still pronounced ''heta'' (ἥτα), correctly explaining this irregularity by stating "in the old days the letter Η served to stand for the rough breathing, as it still does with the Romans."<ref>{{lang|grc|παρὰ τοῖς ἀρχαίοις ὁ τύπος τοῦ Η ἐν τύπῳ δασείας ἔκειτο, ὥσπερ καὶ νῦν <παρὰ> τοῖς Ῥωμαίοις}} 
+Alfredus Hilgard (ed), "In artis Dionysianae §6" in ''Grammatici Graeci. Scholia in Dionysii Thracis Artem Grammaticam'' (1901), p. 486.</ref>
+
+===Long e===
+In the East [[Ionic dialect]], however, the sound /h/ disappeared by the sixth century BC, and the letter was re-used initially to represent a development of a long vowel {{IPA|/aː/}}, which later merged in East Ionic with  {{IPA|/ɛː/}} instead.<ref>
+{{cite book
+|title=New Comparative Grammar of Greek and Latin
+|first=Andrew L.
+|last=Sihler
+|edition=illustrated
+|publisher=Oxford University Press
+|year=1995
+|location=New York
+|ISBN=0-19-508345-8
+|url=http://books.google.com/books?id=IeHmqKY2BqoC
+|pages=10–20
+}}
+</ref> In 403 BC, [[Athens]] took over the Ionian spelling system and with it the vocalic use of H (even though it still also had the /h/ sound itself at that time). This later became the standard orthography in all of Greece.
+
+===Itacism===
+During the time of post-classical [[Koiné Greek]], the {{IPA|/ɛː/}} sound represented by eta was [[Vowel height|raised]] and merged with several other formerly distinct vowels, a phenomenon called ''itacism'' after the new pronunciation of the letter name as ''ita'' instead of ''eta''. 
+
+Itacism is continued into [[Modern Greek]], where the letter name  is pronounced {{IPA|[ˈita]}} and represents the sound /i/ (a [[close front unrounded vowel]]). It shares this function with several other letters ([[Iota|ι]], [[Upsilon|υ]]) and [[Digraph (orthography)|digraphs]] (ει, οι), which are all pronounced alike. This phenomenon at large is called [[iotacism]].
+
+===Cyrillic script===
+Eta was also borrowed with the sound value of [i] into the [[Cyrillic script]], where it gave rise to the Cyrillic letter [[I (Cyrillic)|И]].
+
+==Uses==
+===Letter===
+In [[Modern Greek]] the letter, pronounced {{IPA-el|ˈita|}}, represents a [[close front unrounded vowel]], {{IPA|/i/}}. In [[Ancient Greek language|Classical Greek]], it represented a long [[open-mid front unrounded vowel]], {{IPA|/ɛː/}}.
+
+===Symbol===
+====Upper case====
+The upper-case letter Η is used as a symbol in [[textual criticism]] for the [[Alexandrian text-type]] (from [[Hesychius of Alexandria|Hesychius]], its once-supposed editor).
+
+In [[chemistry]], the letter H as symbol of [[enthalpy]] sometimes is said to be a Greek eta, but since enthalpy comes from ἐνθάλπος, which begins in a smooth breathing and epsilon, it is more likely a Latin [[H]] for 'heat'.
+
+====Lower case====
+The lower-case letter η is used as a symbol in:
+*[[Thermodynamics]], the efficiency of a [[Carnot heat engine]], or [[packing density|packing fraction]].
+*[[Chemistry]], the [[hapticity]], or the number of atoms of a ligand attached to one coordination site of the metal in a [[coordination compound]]. For example, an [[allyl group]] can coordinate to [[palladium]] in the η¹ mode (only one atom of an allyl group attached to palladium) or the η³ mode (3 atoms attached to palladium).
+*[[Optics]], the [[electromagnetic impedance]] of a medium, or the [[quantum efficiency]] of detectors.
+*[[Particle physics]], to represent the [[η meson]]s.
+*[[Particle physics|Experimental particle physics]], η stands for [[pseudorapidity]].
+*[[Cosmology]], η represents [[conformal time]]; dt = adη.
+*[[Theory of relativity|Relativity]] and [[Quantum field theory]] (physics), η (with two subscripts) represents the [[metric tensor (general relativity)|metric tensor]] of [[Minkowski space]] (flat spacetime).
+*[[Statistics]], ''η''<sup>2</sup> is the "partial regression coefficient". ''η'' is the symbol for the linear predictor of a [[generalized linear model]], and can also be used to denote the median of a population, or thresholding parameter in Sparse Partial Least Squares regression.
+*[[Economics]], ''η'' is the [[Elasticity (economics)|elasticity]].
+*[[Astronomy]], the seventh brightest (usually) star in a [[constellation]]. ''See'' [[Bayer designation]].
+*Mathematics, η-conversion, see [[lambda calculus#η-conversion|lambda calculus]]
+*Mathematics, the [[Dirichlet eta function]], [[Dedekind eta function]], and [[Weierstrass eta function]].
+*In [[category theory]], the unit of an [[Adjoint functors#Counit-unit_adjunction|adjunction]] or [[Monad_(category_theory)#Formal_definition|monad]] is usually denoted ''η''.
+*[[Biology]], a [[DNA polymerase]] found in higher [[eukaryotes]] and implicated in Translesion Synthesis.
+*[[Neural network]] [[backpropagation]], η stands for the learning rate.
+*[[Telecommunications]], η stands for efficiency
+*[[Electronics]], η stands for the ideality factor of a [[bipolar transistor]], and has a value close to 1.000.  It appears in contexts where the transistor is used as a temperature sensing device, e.g. the thermal "diode" transistor that is embedded within a computer's microprocessor.
+*[[Power electronics]], η stands for the efficiency of a [[power supply]], defined as the output power divided by the input power.
+*[[Atmospheric science]], η represents [[Vorticity#Atmospheric sciences|absolute atmospheric vorticity]].
+*[[Rheology]], η represents [[viscosity]].
+*[[Oceanography]], η is the measurement (usually in metres) of sea-level height above or below the mean sea-level at that same location.
+
+==Character Encodings==
+
+* Greek Eta / Coptic Hate
+
+{{charmap
+|0397|name1=Greek Capital Letter Eta
+|03B7|name2=Greek Small Letter Eta
+|0370|name3=Greek Capital Letter Heta
+|0371|name4=Greek Small Letter Heta
+|2C8E|name5=Coptic Capital Letter Hate
+|2C8F|name6=Coptic Small Letter Hate
+|map2=DOS Greek|map2char1=86|map2char2=9E
+|map3=DOS Greek-2|map3char1=AA|map3char2=E1
+|map4=Windows 1253|map4char1=C7|map4char2=E7
+|namedref1=TeX|ref1char2=\eta
+}}
+
+* Mathematical Eta
+
+{{charmap
+|1D6AE|name1=Mathematical Bold<br />Capital Eta
+|1D6C8|name2=Mathematical Bold<br />Small Eta
+|1D6E8|name3=Mathematical Italic<br />Capital Eta
+|1D702|name4=Mathematical Italic<br />Small Eta
+|1D722|name5=Mathematical Bold Italic<br />Capital Eta
+|1D73C|name6=Mathematical Bold Italic<br />Small Eta
+}}
+
+{{charmap
+|1D75C|name1=Mathematical Sans-Serif<br />Bold Capital Eta
+|1D776|name2=Mathematical Sans-Serif<br />Bold Small Eta
+|1D796|name3=Mathematical Sans-Serif<br />Bold Italic Capital Eta
+|1D7B0|name4=Mathematical Sans-Serif<br />Bold Italic Small Eta
+}}
+
+These characters are used only as mathematical symbols. Stylized Greek text should be encoded using the normal Greek letters, with markup and formatting to indicate text style.
+
+==References==
+{{Reflist}}
+
+[[Category:Greek letters]]
+[[Category:Vowel letters]]

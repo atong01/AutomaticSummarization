@@ -1,0 +1,150 @@
+{{Use dmy dates|date=July 2013}}
+[[Image:Rtriangle.svg|thumb|Finding all [[Pythagorean triple|right triangles with integer side-lengths]] is equivalent to solving the Diophantine equation <math>a^2+b^2=c^2 \,</math>.]]
+
+In [[mathematics]], a '''Diophantine equation''' is a [[polynomial equation]], usually in two or more [[Equation|unknown]]s, such that only the [[integer]] [[Zero of a function#Polynomial roots|solutions]] are sought or studied (an integer solution is a solution such that all the unknowns take integer values). A '''linear Diophantine equation''' is an equation between two sums of [[monomials]] of [[Degree of a polynomial|degree]] zero or one.  An '''exponential Diophantine equation''' is one in which exponents on terms can be unknowns.
+
+'''Diophantine problems''' have fewer equations than unknown variables and involve finding integers that work correctly for all equations. In more technical language, they define an [[algebraic curve]], [[algebraic surface]], or more general object, and ask about the [[lattice point]]s on it.
+
+The word ''Diophantine'' refers to the [[Greek mathematics#Hellenistic|Hellenistic mathematician]] of the 3rd century, [[Diophantus]] of [[Alexandria]], who made a study of such equations and was one of the first mathematicians to introduce [[Mathematical symbol|symbolism]] into [[algebra]]. The mathematical study of Diophantine problems that Diophantus initiated is now called '''Diophantine analysis'''.
+
+While individual equations present a kind of puzzle and have been considered throughout history, the formulation of general theories of Diophantine equations (beyond the theory of [[quadratic form]]s) was an achievement of the twentieth century.
+
+==Examples==
+In the following Diophantine equations, ''w'', ''x'', ''y'', and ''z'' are the unknowns and the other letters are given constants:
+{| class="wikitable"
+| <math>ax+by=1\,</math>||This is a linear Diophantine equation.
+|-
+| <math>w^3+x^3=y^3+z^3\,</math>|| The smallest nontrivial solution in positive integers is <math>12^3+1^3=9^3+10^3=1729</math>.  It was famously given as an evident property of 1729, a [[taxicab number]] (also named [[Hardy–Ramanujan number]]) by [[Ramanujan]] to [[G. H. Hardy|Hardy]] while meeting in 1917.<ref>{{cite web|url=http://www-gap.dcs.st-and.ac.uk/~history/Quotations/Hardy.html |title=Quotations by Hardy |publisher=Gap.dcs.st-and.ac.uk |accessdate=20 November 2012}}</ref> There are infinitely many nontrivial solutions.<ref>{{citation|title=An Introduction to Number Theory|volume=232|series=Graduate Texts in Mathematics|first1=G.|last1=Everest|first2=Thomas|last2=Ward|publisher=Springer|year=2006|isbn=9781846280443|page=117|url=https://books.google.com/books?id=Z9MAm0lTKuEC&pg=PA117}}.</ref>
+|-
+| <math>x^n+y^n=z^n \,</math>||For ''n'' = 2 there are infinitely many solutions (''x'',''y'',''z''): the [[Pythagorean triple]]s. For larger integer values of ''n'', [[Fermat's Last Theorem]] (initially claimed in 1637 by Fermat and proved by [[Andrew Wiles|Wiles]] in 1995<ref>{{cite journal|last=Wiles|first=Andrew|authorlink=Andrew Wiles|year=1995|title=Modular elliptic curves and Fermat's Last Theorem|url=http://math.stanford.edu/~lekheng/flt/wiles.pdf|journal=Annals of Mathematics|volume=141|issue=3|pages=443–551|oclc=37032255|format=PDF|doi=10.2307/2118559|jstor=2118559|publisher=Annals of Mathematics}}</ref>) states there are no positive integer solutions (''x'', ''y'', ''z'').
+|-
+| <math>x^2-ny^2=\pm 1\,</math>|| This is [[Pell's equation]], which is named after the English mathematician [[John Pell]]. It was studied by [[Brahmagupta]] in the 7th century, as well as by Fermat in the 17th century.
+|-
+| <math>\frac{4}{n} = \frac{1}{x} + \frac{1}{y} + \frac{1}{z}</math>||The [[Erdős–Straus conjecture]] states that, for every positive integer ''n'' ≥ 2, there exists a solution in ''x'', ''y'', and ''z'', all as positive integers. Although not usually stated in polynomial form, this example is equivalent to the polynomial equation 4''xyz''&nbsp;=&nbsp;''yzn''&nbsp;+&nbsp;''xzn''&nbsp;+&nbsp;''xyn''&nbsp;=&nbsp;''n''(''yz''&nbsp;+&nbsp;''xz''&nbsp;+&nbsp;''xy'').
+|-
+| <math>x^4 + y^4 + z^4 = w^4 </math>||Conjectured incorrectly by [[Euler]] to have no nontrivial solutions.  Proved by [[Elkies]] to have infinitely many nontrivial solutions, with a computer search by Frye determining the smallest nontrivial solution.<ref>{{cite journal |author=Noam Elkies |title=On ''A''<sup>4</sup> + ''B''<sup>4</sup> + ''C''<sup>4</sup> = ''D''<sup>4</sup> |journal=[[Mathematics of Computation]] |year=1988 |volume=51 |issue=184 |pages=825–835 |doi=10.2307/2008781 |mr=0930224 |jstor=2008781}}</ref>
+|}
+
+=={{anchor|Linear Diophantine}}Linear Diophantine equations==
+
+===One equation===
+The simplest linear Diophantine equation takes the form ''ax'' + ''by'' = ''c'', where ''a'', ''b'' and ''c'' are given integers. The solutions are completely described by the following theorem: ''This Diophantine equation has a solution'' (where ''x'' and ''y'' are integers) ''if and only if'' ''c'' ''is a multiple of the [[greatest common divisor]] of'' ''a'' ''and'' ''b''. ''Moreover, if'' (''x'', ''y'') ''is a solution, then the other solutions have the form'' (''x'' + ''kv'', ''y'' - ''ku''), ''where'' ''k'' ''is an arbitrary integer, and'' ''u'' ''and'' ''v'' ''are the quotients of'' ''a'' ''and'' ''b'' ''(respectively) by the greatest common divisor of'' ''a'' ''and'' ''b''.
+
+'''Proof:''' If ''d'' is this greatest common divisor, [[Bézout's identity]] asserts the existence of integers ''e'' and ''f'' such that ''ae'' + ''bf'' = ''d''. If ''c'' is a multiple of ''d'', then ''c'' = ''dh'' for some integer ''h'', and (''eh'', ''fh'') is a solution. On the other hand, for every pair of integers ''x'' and ''y'', the greatest common divisor ''d'' of ''a'' and ''b'' divides ''ax'' + ''by''. Thus, if the equation has a solution, then ''c'' must be a multiple of ''d''. If ''a'' = ''ud'' and ''b'' = ''vd'', then for every solution (''x'', ''y''), we have
+:<math> a(x+kv)+ b(y-ku) = ax+by + k(av -bu) =ax+by + k(udv -vdu) =ax + by,</math>
+showing that (''x'' + ''kv'', ''y'' - ''ku'') is another solution. Finally, given two solutions such that {{nowrap|1=''ax<sub>1</sub>'' + ''by<sub>1</sub>'' = ''ax<sub>2</sub>'' + ''by<sub>2</sub>'' = ''c''}}, one deduces that {{nowrap|1=''u'' (''x''<sub>2</sub> - ''x''<sub>1</sub>) + ''v'' (''y''<sub>2</sub> - ''y''<sub>1</sub>) = 0}}. As ''u'' and ''v'' are [[coprime]], [[Euclid's lemma]] shows that there exists an integer ''k'' such that {{nowrap|1=''x''<sub>2</sub> - ''x''<sub>1</sub> = ''kv''}} and {{nowrap|1=''y''<sub>2</sub> - ''y''<sub>1</sub> = -''ku''}}. Therefore {{nowrap|1=''x''<sub>2</sub> = ''x''<sub>1</sub> + ''kv''}} and {{nowrap|1=''y''<sub>2</sub> = ''y''<sub>1</sub> - ''ku''}}, which completes the proof.
+
+===Chinese remainder theorem===
+
+The [[Chinese remainder theorem]] describes an important class of linear Diophantine systems of equations: let ''n''<sub>1</sub>, ..., ''n''<sub>''k''</sub> be ''k'' [[pairwise coprime]] integers greater than one, ''a''<sub>1</sub>, ..., ''a''<sub>''k''</sub> be ''k'' arbitrary integers, and ''N'' be the product ''n''<sub>1</sub> ··· ''n''<sub>''k''</sub>. The Chinese remainder theorem asserts that the following linear Diophantine system has exactly one solution {{nowrap|(''x'', ''x''<sub>1</sub>, ..., ''x''<sub>''k''</sub>)}} such that {{nowrap|1=0 ≤ ''x'' < ''N''}}, and that the other solutions are obtained by adding to ''x'' a multiple of ''N'':
+:<math>\begin{align}
+x&= a_1 + n_1\,x_1\\
+&\vdots\\
+x&=a_k+n_k\,x_k
+\end{align}</math>
+
+=== System of linear Diophantine equations===
+More generally, every system of linear Diophantine equations may be solved by computing the [[Smith normal form]] of its matrix, in a way that is similar to the use of the [[reduced row echelon form]] to solve a [[system of linear equations]] over a field. Using [[matrix (mathematics)|matrix notation]] every system of linear Diophantine equations may be written
+:<math>A\,X=C,</math>
+where {{math|''A''}} is an ''m''×''n'' matrix of integers, {{math|''X''}} is an ''n''×1 [[column matrix]] of unknowns and {{math|''C''}} is an ''m''×1 column matrix of integers.
+
+The computation of the Smith normal form of {{math|''A''}} provides two [[unimodular matrix|unimodular matrices]] (that is matrices that are invertible over the integers and have ±1 as determinant) {{math|''U''}} and {{math|''V''}} of respective dimensions ''m''×''m'' and ''n''×''n'', such that the matrix
+:<math>B=\left[b_{i,j}\right]=UAV</math>
+is such that {{nowrap|''b''<sub>''i'',''i''</sub>}} is not zero for ''i'' not greater than some integer ''k'', and all the other entries are zero. The system to be solved may thus be rewritten as
+:<math>B\,(V^{-1}X) = UC.</math>
+Calling {{math|''y''<sub>''i''</sub>}} the entries of <math>V^{-1}X</math> and {{math|''d''<sub>''i''</sub>}} those of <math>D=UC,</math> this leads to the system
+:{{math|1=''b''<sub>''i'',''i''</sub> ''y''<sub>''i''</sub> = ''d''<sub>''i''</sub>}} for 1 ≤ ''i'' ≤ ''k'',
+:{{math|1=0 ''y''<sub>''i''</sub> = ''d''<sub>''i''</sub>}} for ''k'' < ''i'' ≤ ''n''.
+This system is equivalent to the given one in the following sense: A column matrix of integers {{math|''x''}} is a solution of the given system if and only if {{math|1= ''x'' = ''V y''}} for some column matrix of integers {{math|''y''}} such that {{math|1=''By'' = ''D''}}.
+
+It follows that the system has a solution if and only if {{math|1=''b''<sub>''i'',''i''</sub>}} divides {{math|1=''d''<sub>''i''</sub>}} for ''i'' ≤ ''k'' and {{math|1=''d''<sub>''i''</sub> = 0}} for ''i'' > ''k''. If this condition is fulfilled, the solutions of the given system are
+:<math> V\,\left[
+\begin{array}{c}
+\frac{d_1}{b_{1,1}}\\
+\vdots\\
+\frac{d_k}{b_{k,k}}\\
+h_{k+1}\\
+\vdots\\
+h_n
+\end{array}
+\right]\,, </math>
+where {{math|''h''<sub>''k''+1</sub>, ..., ''h''<sub>''n''</sub>}} are arbitrary integers.
+
+[[Hermite normal form]] may also be used for solving systems of linear Diophantine equations. However, Hermite normal form does not directly provide the solutions; to get the solutions from the Hermite normal form, one has to successively solve several linear equations. Nevertheless, Richard Zippel wrote that the Smith normal form "is somewhat more than is actually needed to solve linear diophantine equations. Instead of reducing the equation to diagonal form, we only need to make it triangular, which is called the Hermite normal form. The Hermite normal form is substantially easier to compute than the Smith normal form."<ref name="Zippel1993">{{cite book|author=Richard Zippel|title=Effective Polynomial Computation|year=1993|publisher=Springer Science & Business Media|isbn=978-0-7923-9375-7|page=50}}</ref>
+
+[[Integer linear programming]] amounts to finding some integer solutions (optimal in some sense) of linear systems that include also [[inequation]]s.  Thus systems of linear Diophantine equations are basic in this context, and textbooks on integer programming usually have a treatment of systems of linear Diophantine equations.<ref>{{cite book|editor=John Alan Robinson and Andrei Voronkov|title=Handbook of Automated Reasoning Volume I|year=2001|publisher=Elsevier and MIT Press|id= ISBN 0-444-82949-0 (Elsevier) ISBN 0-262-18221-1 (MIT Press)|author=Alexander Bockmayr, Volker Weispfenning|chapter=Solving Numerical Constraints|page=779}}</ref>
+
+==Diophantine analysis==
+
+=== Typical questions ===
+
+The questions asked in Diophantine analysis include:
+
+#Are there any solutions?
+#Are there any solutions beyond some that are easily found by [[List of mathematical jargon#Proof techniques|inspection]]?
+#Are there finitely or infinitely many solutions?
+#Can all solutions be found in theory?
+#Can one in practice compute a full list of solutions?
+
+These traditional problems often lay unsolved for centuries, and mathematicians gradually came to understand their depth (in some cases), rather than treat them as puzzles.
+
+=== Typical problem ===
+The given information is that a father's age is 1 less than twice that of his son, and that the digits AB making up the father's age are reversed in the son's age (i.e. BA). This leads to the equation <nowiki>10A + B = 2 (10B + A) - 1</nowiki>, thus <nowiki>19B - 8A = 1</nowiki>. Inspection gives the result <nowiki>A = 7, B = 3</nowiki>, and thus <nowiki>AB = 73 years</nowiki> and <nowiki>BA = 37 years</nowiki>. One may easily show that there is not any other solution with A and B positive integers less than 10.
+
+===17th and 18th centuries===
+In 1637, [[Pierre de Fermat]] scribbled on the margin of his copy of ''[[Arithmetica]]'': "It is impossible to separate a cube into two cubes, or a fourth power into two fourth powers, or in general, any power higher than the second into two like powers." Stated in more modern language, "The equation ''a''<sup>''n''</sup> + ''b''<sup>''n''</sup> = ''c''<sup>''n''</sup> has no solutions for any ''n'' higher than 2." And then he wrote, intriguingly: "I have discovered a truly marvelous proof of this proposition, which this margin is too narrow to contain." Such a proof eluded mathematicians for centuries, however, and as such his statement became famous as [[Fermat's Last Theorem]]. It wasn't until 1995 that it was proven by the British mathematician [[Andrew Wiles]].
+
+In 1657, Fermat attempted to solve the Diophantine equation 61''x''<sup>2</sup> + 1 = ''y''<sup>2</sup> (solved by [[Brahmagupta]] over 1000 years earlier). The equation was eventually solved by [[Euler]] in the early 18th century, who also solved a number of other Diophantine equations.The smallest solution of this equation in positive integers is ''x'' = 226153980, ''y'' = 1766319049 (see [[Chakravala method]]).
+
+===Hilbert's tenth problem===
+In 1900, in recognition of their depth, [[David Hilbert]] proposed the solvability of all Diophantine problems as [[Hilbert's tenth problem|the tenth]] of his [[Hilbert's problems|celebrated problems]]. In 1970, a novel result in [[mathematical logic]] known as [[Matiyasevich's theorem]] settled the problem negatively: in general Diophantine problems are unsolvable.
+
+===Diophantine geometry===
+[[Diophantine geometry]], which is the application of techniques from [[algebraic geometry]] in this field, has continued to grow as a result; since treating arbitrary equations is a dead end, attention turns to equations that also have a geometric meaning. The central idea of Diophantine geometry is that of a [[rational point]], namely a solution to a polynomial equation or a [[system of polynomial equations]], which is a vector in a prescribed [[field (mathematics)|field]] ''K'', when ''K'' is ''not'' [[algebraically closed]].
+
+===Modern research===
+One of the few general approaches is through the [[Hasse principle]]. [[Infinite descent]] is the traditional method, and has been pushed a long way.
+
+The depth of the study of general Diophantine equations is shown by the characterisation of [[Diophantine set]]s as equivalently described as [[recursively enumerable set|recursively enumerable]]. In other words, the general problem of Diophantine analysis is blessed or cursed with universality, and in any case is not something that will be solved except by re-expressing it in other terms.
+
+The field of [[Diophantine approximation]] deals with the cases of ''Diophantine inequalities''. Here variables are still supposed to be integral, but some coefficients may be irrational numbers, and the equality sign is replaced by upper and lower bounds.
+
+The most celebrated single question in the field, the [[conjecture]] known as [[Fermat's Last Theorem]], was solved by [[Andrew Wiles]]<ref>[http://www.pbs.org/wgbh/nova/proof/wiles.html Solving Fermat: Andrew Wiles]</ref> but using tools from algebraic geometry developed during the last century rather than within number theory where the conjecture was originally formulated. Other major results, such as [[Faltings' theorem]], have disposed of old conjectures.
+
+===Infinite Diophantine equations===
+An example of an infinite diophantine equation is:
+:<math>
+N = A^2+2B^2+3C^2+4D^2+5E^2+...,
+</math>
+which can be expressed as "How many ways can a given integer ''N'' be written as the sum of a square plus twice a square plus thrice a square and so on?" The number of ways this can be done for each ''N'' forms an integer sequence. Infinite Diophantine equations are related to [[theta functions]] and infinite dimensional lattices. This equation always has a solution for any positive ''N''. Compare this to:
+:<math>
+N = A^2+4B^2+9C^2+16D^2+25E^2+...,
+</math>
+which does not always have a solution for positive ''N''.
+
+==Exponential Diophantine equations==
+If a Diophantine equation has as an additional variable or variables occurring as [[exponentiation|exponents]], it is an exponential Diophantine equation. Examples include the [[Ramanujan–Nagell equation]], 2<sup>''n''</sup> &minus; 7 = ''x''<sup>2</sup>, and the equation of the [[Fermat-Catalan conjecture]] and [[Beal's conjecture]], ''a''<sup>''m''</sup> + ''b''<sup>''n''</sup> = ''c''<sup>''k''</sup> with inequality restrictions on the exponents. A general theory for such equations is not available; particular cases such as [[Catalan's conjecture]] have been tackled. However, the majority are solved via ad hoc methods such as [[Størmer's theorem]] or even [[trial and error]].
+
+==Notes==
+{{Reflist}}
+
+==References==
+* {{Cite book| first=L. J.|last=Mordell | authorlink=Louis Mordell | title=Diophantine equations | publisher=[[Academic Press]] | year=1969 | isbn=0-12-506250-8 | zbl=0188.34503 | series=Pure and Applied Mathematics | volume=30 }}
+* {{Cite book | last=Schmidt | first=Wolfgang M. | authorlink=Wolfgang M. Schmidt | title=Diophantine approximations and Diophantine equations | series=Lecture Notes in Mathematics | publisher=[[Springer-Verlag]] | year=1991 | isbn=3-540-54058-X | volume=1467 | location=Berlin | zbl=0754.11020 }}
+* {{Cite book| first1=T. N.|last1=Shorey | first2=R.|last2=Tijdeman |author2-link=Robert Tijdeman| title=Exponential Diophantine equations | series=Cambridge Tracts in Mathematics | volume=87 | publisher=[[Cambridge University Press]] | year=1986 | isbn=0-521-26826-5 | zbl=0606.10011 }}
+* {{Cite book| first=Nigel P.|last=Smart | title=The algorithmic resolution of Diophantine equations | series=London Mathematical Society Student Texts | volume=41 | publisher=Cambridge University Press | year=1998 | isbn=0-521-64156-X | zbl=0907.11001 }}
+* {{Cite book | first=John | last=Stillwell | title=Mathematics and its History | edition=Second | publisher=Springer Science + Business Media Inc. | year=2004 | isbn=0-387-95336-1}}
+
+==Further reading==
+* {{cite book | last=Dickson | first=Leonard Eugene | author-link=Leonard Eugene Dickson | title=[[History of the Theory of Numbers]]. Volume II: Diophantine analysis | origyear=1920 | zbl=1214.11002 | mr=0245500 | location=Mineola, NY | publisher=Dover Publications | isbn=978-0-486-44233-4 | year=2005}}
+
+==External links==
+*[http://mathworld.wolfram.com/DiophantineEquation.html Diophantine Equation]. From [[MathWorld]] at [[Wolfram Research]].
+*[http://planetmath.org/encyclopedia/DiophantineEquation.html Diophantine Equation]. From [[PlanetMath]].
+*{{Springer|id=d/d032610|title=Diophantine equations}}
+*[http://www.alpertron.com.ar/QUAD.HTM Dario Alpern's Online Calculator]. Retrieved 18 March 2009
+
+{{Authority control}}
+
+{{DEFAULTSORT:Diophantine Equation}}
+[[Category:Diophantine equations|*]]

@@ -1,0 +1,116 @@
+{{EngvarB|date=September 2013}}
+{{Infobox film
+| name           = Young and Innocent
+| image          = Young and Innocent 1937 Poster.jpg
+| border         = yes
+| alt            =
+| caption        = Promotional poster
+| director       = [[Alfred Hitchcock]]
+| producer       = [[Edward Black (producer)|Edward Black]]
+| writer         = {{Plainlist|
+* [[Gerald Savory]] {{small|(dialogue)}}
+* [[Alma Reville]] {{small|(continuity)}}
+}}
+| screenplay     = {{Plainlist|
+* [[Charles Bennett (screenwriter)|Charles Bennett]]
+* Edwin Greenwood
+* [[Anthony Armstrong (writer)|Anthony Armstrong]]
+}}
+| based on       = {{based on|''A Shilling for Candles''|[[Josephine Tey]]}}
+| starring       = {{Plainlist|
+* [[Nova Pilbeam]]
+* [[Derrick De Marney]]
+}}
+| music          = {{Plainlist|
+* Jack Beaver {{small|(uncredited)}}
+* Louis Levy {{small|(uncredited)}}
+}}
+| cinematography = [[Bernard Knowles]]
+| editing        = [[Charles Frend]]
+| studio         = [[Gaumont Film Company]]
+| distributor    = [[General Film Distributors|GFD]]
+| released       = {{Film date|1937|11||London|1938|02|17|USA|df=y}}
+| runtime        = 83 minutes
+| country        = United Kingdom
+| language       = English
+| budget         =
+| gross          =
+}}
+'''''Young and Innocent''''' (American title: ''The Girl Was Young'') is a 1937 British crime thriller film directed by [[Alfred Hitchcock]] and starring [[Nova Pilbeam]] and [[Derrick De Marney]].<ref name="nytimes">{{cite web|title=Young and Innocent (1937) |work=The New York Times |url=http://movies.nytimes.com/movie/68339/Young-and-Innocent/details |accessdate=25 January 2013}}</ref> Based on the 1936 novel ''A Shilling for Candles'' by [[Josephine Tey]], the film is about a young man on the run from a murder charge who enlists the help of a woman who must put herself at risk for his cause. It is notable for an elaborately staged [[crane shot]] Hitchcock devised towards the end of the film, which identifies the real murderer.
+
+==Plot==
+Christine Clay (Pamela Carme), a successful actress, argues passionately with her jealous ex-husband Guy ([[George Curzon (actor)|George Curzon]]), who makes particular reference to Robert Tisdall, a young man staying near her at her retreat on the English coast. Christine slaps him several times across the face, but he hardly reacts, choosing instead to depart without a word.
+
+The next morning, Robert Tisdall ([[Derrick De Marney]]) happens to be walking along the seaside cliffs when Christine's body washes ashore. He runs to get help and call the police, but two young swimmers arrive just in time to see him racing away from the corpse. A belt from his raincoat, which had just recently gone missing, is found next to the body, further implicating him in her strangling. He is subsequently arrested and becomes the main suspect, partly because of a large sum of money Christine left to him in her will, a gift he was unaware of. 
+
+Tisdall is grilled all night by Scotland Yard until he faints.  He is brought round by the aid of Erica Burgoyne, daughter of the local police Chief Constable, and taken directly into court.  Saddled with a completely incompetent [[barrister]], Tisdall doubts if his innocence will ever be established. He elects to take advantage of a crowded courthouse and make his escape, wearing the barrister's glasses as a disguise.
+
+After his escape, Tisdall finds Erica Burgoyne ([[Nova Pilbeam]]) on the road pushing her car which has run out of gas, and convinces her to give him a ride in her [[Morris Motors|Morris car]]. Though she is initially fearful and unsure about her passenger, Burgoyne eventually becomes convinced of his innocence and elects to help him in any way that she can. They are eventually spotted together, forcing both to stay on the run. Tisdall tries to prove his innocence by tracking down the stolen coat to show that it still has its belt.
+
+The duo succeed in tracking down Old Will ([[Edward Rigby]]), a sociable china-mender and bum that was known to have received Tisdall's coat. He agrees to help them find the man who gave him the coat; unfortunately, all that Old Will can remember about the man is his distinctive eye twitch.
+
+Upon searching the pockets of the coat, Erica finds a clue, a box of matches from the Grand Hotel, a place Tisdall has never been to. She is separated from the group, however, and taken in by the police. Upon realising that his daughter has fully allied herself with the murder suspect, her father chooses to resign his position as Chief Constable rather than arrest her for assisting Tisdall. Nonetheless, Erica and Old Will go to the Grand Hotel together, hoping to find the true murderer. In a memorably long, continuous sequence, the camera pans right and then moves forward from the very back of the hotel [[ballroom]], finally focusing in extreme close up on the drummer in a dance band performing in [[blackface]]. Recognizing Old Will in the audience, and seeing policemen nearby (unaware that they have followed Old Will in the hopes of finding Tisdall), the man performs poorly due to fear and a drug he has been taking to try to control the twitching, and is berated by the [[musical conductor]]. Eventually the drummer faints in the middle of a performance, drawing the attention of Erica and the policemen. Immediately after being revived and confronted, he confesses his crime and begins laughing hysterically.
+
+==Changes from the novel==
+[[File:Girlwasyoungposter.jpg|thumb|upright|American theatrical release poster with alternate title]]
+Significant changes were made in adapting the book for the film. The screenwriters took the main suspect of the novel, Robert Tisdall, and his unexpected, initially reluctant supporter, Erica Burgoyne, and left out all the other characters, including Tey's Inspector Alan Grant and even the original murderer (who is not the same character as in the film). Thus, Tisdall's flight from justice was elaborated and blown up into a full-length film, while the subplots and distractions of Tey's novel — which make it a [[whodunit]] — were omitted.
+
+==Hitchcock's cameo==
+[[List of Hitchcock cameo appearances|Alfred Hitchcock's cameo]] is a signature occurrence in most of his films. He can be seen outside the courthouse, holding a camera, at 14 minutes into the film.
+
+==References in popular culture==
+On the [[Mike Oldfield]] album ''[[Five Miles Out]]'', on the track "Orabidoo", at 9'12" there can be heard a sample of the conductor criticising the drummer: "Don't come in again like that. It isn't funny and I pay someone else to make the orchestrations!"
+
+==Main cast==
+
+* [[Nova Pilbeam]] as Erica Burgoyne
+* [[Derrick De Marney]] as Robert Tisdall
+* [[Percy Marmont]] as Colonel Burgoyne
+* [[Edward Rigby]] as Old Will
+* [[Mary Clare]] as Erica's Aunt
+* [[John Longden]] as Inspector Kent
+* [[George Curzon (actor)|George Curzon]] as Guy
+* [[Basil Radford]] as Erica's Uncle
+* Pamela Carme as Christine
+* [[George Merritt (actor)|George Merritt]] as Detective Sergeant Miller
+* J. H. Roberts as Solicitor
+* [[Jerry Verno]] as Lorry Driver
+* [[H. F. Maltby]] as Police Sergeant
+* John Miller as Police Constable
+* [[Syd Crossley]] as Policeman
+* [[Anna Konstam]] as Bathing Girl {{small|(uncredited)}}
+* [[Bill Shine]] as Manager of Tom's Hat Cafe {{small|(uncredited)}}
+* [[Beatrice Varley]] as Accused Man's Wife {{small|(uncredited)}}
+* [[Peter Thompson]] as Erica Burgoyne's bespectacled brother {{small|(uncredited)}}
+
+==Digital restoration== 
+A frame-by-frame [[Film_preservation#Digital_Film_Preservation|digital restoration]] was done by [[Prasad Corporation]], removing dirt, tears, scratches and other defects.<ref>[http://www.prasadgroup.org/downloads/pg-restore-v9-1.pdf prasadgroup.org, Digital Film Restoration]</ref>
+
+==References==
+;Citations
+{{reflist}}
+;Bibliography
+{{refbegin}}
+* {{cite book|last=Spoto |first=Donald |title=The Art of Alfred Hitchcock |edition=Second |publisher=Anchor Books |location=New York |year=1992 |pages=63–69 |isbn=978-0385418133}}
+* {{cite book|last=Spoto |first=Donald |title=The Dark Side of Genius |edition=Centennial |publisher=Da Capo Press |location=New York |year=1999 |isbn=978-0306809323}}
+{{refend}}
+
+==External links==
+{{commons category}}
+* {{IMDb title|0029811|The Girl Was Young}}
+* {{tcmdb title|96491|The Girl Was Young}}
+* {{Amg movie|68339|Young and Innocent}}
+
+{{Alfred Hitchcock}}
+
+{{Use dmy dates|date=September 2013}}
+{{Authority control}}
+{{DEFAULTSORT:Young And Innocent}}
+[[Category:1937 films]]
+[[Category:Black-and-white films]]
+[[Category:British films]]
+[[Category:English-language films]]
+[[Category:Films based on British novels]]
+[[Category:Films directed by Alfred Hitchcock]]
+[[Category:1930s thriller films]]
+[[Category:Pinewood Studios films]]

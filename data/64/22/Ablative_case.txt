@@ -1,0 +1,218 @@
+{{about||the physical process|Ablation|the spacecraft technology|Ablative armor}}
+
+{{multiple issues|
+{{more footnotes|date=September 2013}}
+{{one source|date=September 2013}}
+{{refimprove|date=September 2013}}
+}}
+In [[grammar]], '''ablative case''' ([[list of glossing abbreviations|abbreviated]] {{smallcaps|'''abl'''}}) is a [[grammatical case]] (a type of noun [[inflection]]) in various languages that is used generally to express motion away from something, although the precise meaning may vary by language. The name "ablative" derives from the [[Latin]] ''ablatus'', the (irregular) perfect passive participle of ''auferre'' "to carry away".<ref name="latindict">[http://www.thelatinlibrary.com/101/ablative3.pdf The Ablative] , The Latin Library, accessed 06-01-14</ref> There is no ablative case in modern [[Germanic languages]], such as English.
+
+==Indo-European languages==
+
+===Latin===
+{{Main|Ablative (Latin)}}
+
+The ablative case in [[Latin]] (''[casus] ablativus'') has various uses, including following various prepositions, in an [[Latin grammar#Ablative absolute|ablative absolute]] clause, and adverbially. The ablative case was derived from three [[Proto-Indo-European language|Proto-Indo-European]] cases: ablative (from), instrumental (with), and locative (in/at).
+
+===Greek===
+In [[Ancient Greek]], there was no ablative case; some of its functions were taken by the [[genitive case|genitive]] and others by the dative; the genitive had functions belonging to the [[Proto-Indo-European language|Proto-Indo-European]] genitive and ablative cases.<ref>[[Herbert Weir Smyth]]. ''Greek Grammar''. par. 1279: composite or mixed cases.</ref> The genitive case with the prepositions ἀπό ''apó'' "away from" and ἐκ/ἐξ ''ek/ex'' "out of" is an example.
+
+===German===
+[[German language|German]] does not have an ablative case in native words, but Latin ablative case-forms were used from the 17th till 19th century after some [[preposition and postposition|prepositions]], for example after ''von'' in ''von dem Nomine'' (ablative of the Latin loanword ''Nomen''). Grammarians in that time, like [[Justus Georg Schottel]], [[Kaspar von Stieler]] ("der Spate"), Johann Balthasar von Antesperg and [[Johann Christoph Gottsched]], listed an ablative case (as the sixth case after nominative, genitive, dative, accusative and vocative) for German words. They considered the dative case after some prepositions to be an ablative, as in ''von dem Mann[e]'' ("from the man" or "of the man") and ''mit dem Mann[e]'' ("with the man"), while they considered the dative case after other prepositions or without a preposition as ''dem Mann[e]'' to be a dative.
+
+===Bosnian, Croatian and Serbian===
+As in [[Ancient Greek]], the functions of the ablative case in [[Bosnian language|Bosnian]], [[Croatian language|Croatian]] and [[Serbian language|Serbian]] are performed by the genitive case. Of three forms of genitive in [[Serbian language|Serbian]], as well in [[Croatian language|Croatian]] and [[Bosnian language|Bosnian]], namely partitive, possessive and ablative, the noun in the ablative genitive marks the origin of something, so as departure or detachment from it.
+
+===Albanian===
+The ablative case is found in [[Albanian language|Albanian]] where it is the fifth case and is called ''rasa rrjedhore''.
+
+===Sanskrit===
+The ablative case, known as ''apādāna'' (अपादान) in [[Sanskrit]], is the fifth case (''panchami'') in the grammar, and has similar function to that of Latin.
+
+Sanskrit nouns in this case often refer to a subject "out of" which or "from" whom something (an action, an object) has arisen or occurred—e.g., ''patram '''vṛkṣāt''' patati'' "the leaf falls '''from the tree'''".
+
+This case is also used for nouns in several other senses, e.g., where the action occurs "because of" or "without" a certain noun; nouns indicating distance or direction. When it appears with a comparative adjective, e.g. ''śreṣṭhatamam,'' "the best," the ablative is used to refer to that which the adjective is comparing, "better than X".
+
+===Armenian===
+The modern Armenian ablative has different markers for each main dialect, both originating from Classical Armenian. The Western affix -է ''-ē'' (definite -էն ''-ēn'') derives from the Classical singular; the Eastern affix -ից ''-ic’'' (both indefinite and definite) derives from the Classical plural.  For both dialects, the affix is singular with the corresponding plurals being -(ն)երէ(ն) and -(ն)երից.
+
+{| class="wikitable" style="width: 75%"
+|-
+! Western !! Eastern !! gloss
+|-
+| ''մարդ'''է'''''<br>mart''ē''
+| ''մարդ'''ից'''''<br>mard''ic’''
+| from (a) man
+|-
+| ''մարդ'''էն'''''<br>mart''ēn''
+| ''մարդ'''ից'''''<br>mard''ic’''
+| from the man
+|-
+| (տուն) > ''տան'''է'''''<br>(dun) > dan''ē''
+| (տուն) > ''տն'''ից'''''<br>(tun) > tn''ic’''
+| from a house/from home
+|-
+| (տուն) > ''տան'''էն'''''<br>(dun) > dan''ēn''
+| (տուն) > ''տն'''ից'''''<br>(tun) > tn''ic’''
+| from the house
+|}
+
+In Armenian, the ablative case has several uses:
+
+* its principal function is to show "motion away" from a location, point in space or time;
+
+{| class="wikitable" style="width: 75%"
+|-
+! Western !! Eastern !! gloss
+|-
+| ''քաղաք'''էն''''' եկայ<br>''k’aġak’'''ēn''''' yega 
+| ''քաղաք'''ից''''' եկա<br>''k’aġak’'''ic’''''' yeka 
+| I came ''from the city''
+|-
+| ''այստեղ'''էն''''' հեռու կը բնակէի<br>''aysdeġ'''ēn''''' heṙu gě pnagēi. 
+| ''այստեղ'''ից''''' հեռու բնակում էի<br>''aysteġ'''ic’''''' heṙu bnakvum ēi
+| I used to live far ''from here''
+|}
+
+* the case also shows the agent when used with the passive voice of the verb;
+
+{| class="wikitable" style="width: 75%"
+|-
+! Western !! Eastern !! gloss
+|-
+| ''ինծմէ'' միջտ կը սիրուէիր<br>''incmē'' mišd gě sirvēir
+| ''ինձնից'' միջտ սիրում էիր<br>''indznic’'' mišt sirvum ēir
+| You were always loved ''by me''
+|-
+| ''ազատիչներիէն'' ազատեցանք<br>''azadič’nerēn'' azadec’ank’
+| ''ազատիչներից'' ազատվեցինք<br>''azatič’neric’'' azatvec’ink’
+| We were freed ''by the liberators''
+|}
+
+* The ablative case is also used for comparative statements in colloquial Armenian (including verb infinitives and participles);
+
+{| class="wikitable" style="width: 85%"
+|-
+! Western !! Eastern !! gloss
+|-
+| Ի՞նչ ''մեղր'''էն''''' անուջ է<br>Inč’ ''meġr'''ēn''''' anuš ē
+| Ի՞նչ ''մեղր'''ից''''' է անուջ<br>Inč’ ''meġr'''ic’''''' ē anuš
+| "What is sweeter ''than honey''?" (proverb)
+|-
+| Մարիամ ''եղբօր'''մէն''''' պզտիկ է<br>Mariam ''yeġpōr'''mēn''''' bzdig ē
+| Մարո ''ախպոր'''ից''''' փոքր է<br>Maro ''axpor'''ic’''''' p’ok’r ē
+| Mary is younger (lit. smaller) ''than her brother''
+|-
+| թզեր համտեսել ''տեսնել'''է''''' աւելի լաւ է<br>t’ëzer hamdesel ''desnel'''ē''''' aveli lav ē
+| թզեր համտեսել ''տեսնել'''ուց''''' ավելի լավ է<br>t’ëzer hamtesel ''tesnel'''uc’''''' aveli lav ē
+| Figs are better to taste ''than to see''
+|}
+
+* The ablative case also governs certain postpositions;
+
+{| class="wikitable" style="width: 75%"
+|-
+! Western !! Eastern !! gloss
+|-
+| ''ինծմէ'' վար<br>''incmē'' var
+| ''ինձնից'' վար<br>''indznic’'' var
+| below ''me''
+|-
+| ''քեզմէ'' վեր<br>''k’ezmē'' ver
+| ''քեզնից'' վեր<br>''k’eznic’'' ver
+| above ''you''
+|-
+| ''անոնցմէ'' ետք<br>''anonc’mē'' yedk’
+| ''նրանից'' հետո<br>''nranic’'' heto
+| after ''them''
+|-
+| ''մեզմէ'' առաջ<br>''mezmē'' aṙač
+| ''մեզնից'' առաջ<br>''meznic’'' aṙadž
+| before ''us''
+|}
+
+==Uralic languages==
+
+===Finnish===
+In [[Finnish language|Finnish]], the ablative case is the sixth of the locative cases with the meaning "from, off, of", e.g. ''pöytä&nbsp;– pöydältä'' "table&nbsp;– off from the table". It is an outer locative case, used just as the [[adessive]] and [[allative]] cases to denote both being on top of something and "being around the place" (as opposed to the inner locative case, the [[elative case|elative]], which means "from out of" or "from the inside of"). In the locative meaning, the receding object was near the other place or object, not inside it.
+
+The Finnish ablative is also used in time expressions to indicate start times (e.g. ''kymmeneltä'' "at ten") as well as with verbs expressing feelings or emotions.
+
+The Finnish ablative has the ending ''-lta'' or ''-ltä'' according to the regular rules of [[vowel harmony]].
+
+====Usage====
+
+; away from a place:
+
+*''katolta'': off the roof
+*''pöydältä'': off the table
+
+*''rannalta'': from the beach
+*''maalta'': from the land
+*''mereltä'': from the sea
+
+; with the verb ''lähteä'' (stop):
+
+*''lähteä tupakalta'': stop smoking (in the sense of putting out the cigarette one is smoking now; literally 'leave from the tobacco')
+*''lähteä hippasilta'': stop playing the game of tag (''hippa''=tag, ''olla hippasilla''=playing tag)
+
+; to smell/taste/feel/look/sound like something:
+
+*''haisee pahalta'': smells bad
+*''maistuu hyvältä'': tastes good
+*''tuntuu kamalalta'': feels awful
+*''näyttää tyhmältä'': looks stupid
+*''kuulostaa mukavalta'': sounds nice
+
+===Hungarian===
+The ablative case in Hungarian is used to describe '''movement away from a solid object'''.  For example, if one is walking away from a friend one could say: 
+''a barátom'''tól''' jövök'' - I am coming (away from) my friend.
+
+Use of this case implies movement from ''next to'' the solid object, and not from inside it. So ''a postától jövök'' would mean one had been standing ''next to'' the post office, and not inside the building.
+
+The application of [[vowel harmony]] gives two different suffixes:  '''-tól''' and '''-től'''.  These are applied to back- and front-vowel words respectively.
+
+In contrast, the cases used to express movement towards a solid object and for being next to that solid object are the [[allative case]] and the [[adessive case]] respectively. The cases for movement away from, or out of, something are the [[delative case]] (for movement from a surface or from a Hungarian city) and the [[elative case]] (for movement out of a container or from out of a foreign city).<ref name="hungref">"[http://www.hungarianreference.com/Nouns/t%C3%B3l-tol-ablative.aspx ''Hungarian Ablative Case''], Hungarian Reference,1 June 2014</ref>
+
+==Turkic languages==
+
+===Azeri===
+
+The ablative in [[Azerbaijani language|Azeri]] (''{{Lang|az|çıxışlıq hal}}'') is expressed through the suffixes ''-dan'' or ''-dən''. Examples:
+
+Ev - ev'''dən'''
+<br>''House - from/off the house''
+
+Aparmaq - aparmaq'''dan'''
+<br>''To carry - from/off carrying''
+
+===Turkish===
+The ablative in [[Turkish language|Turkish]] (''-den hali'' or ''uzaklaşma hali'') is expressed through the suffixes ''-den'', ''-dan'', ''-ten'', or ''-tan''. Examples:
+
+Ev - ev'''den'''
+<br>''House - from/off the house''
+
+At - at'''tan'''
+<br>''Horse - from/off the horse''
+
+Taşımak - taşımak'''tan'''
+<br>''To carry - from/off carrying''
+
+Ses - ses'''ten'''
+<br>''Sound/volume - from/off sound/volume''
+
+In some situations simple ablative can have a ”because of” meaning, in these situations ablative can be optionally followed by ”dolayı” (because of) preposition.
+
+Yüksek sesten (dolayı) rahatsız oldum. /  ''I was uneasy because of high volume. ''
+
+== References ==
+{{reflist}}
+
+==External links==
+*[http://www.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAblativeCase.htm What is the ablative case?]
+*[http://www.hungarianreference.com/Nouns/tól-tol-ablative.aspx Ablative case in Hungarian]
+
+{{Grammatical cases}}
+
+{{DEFAULTSORT:Ablative Case}}
+[[Category:Grammatical cases]]

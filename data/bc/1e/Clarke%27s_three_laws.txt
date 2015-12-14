@@ -1,0 +1,109 @@
+{{refimprove|date=October 2014}}
+'''Clarke's Three Laws''' are three [[adage|"laws"]] of prediction formulated by the British science fiction writer [[Arthur C. Clarke]]. They are:
+
+# {{Anchor|Clarke's first law}}When a distinguished but elderly scientist states that something is possible, he is almost certainly right. When he states that something is impossible, he is very probably wrong.
+# {{Anchor|Clarke's second law}}The only way of discovering the limits of the possible is to venture a little way past them into the impossible.
+# {{Anchor|Clarke's third law}}Any sufficiently advanced technology is indistinguishable from magic.
+
+== Origins ==
+Clarke's First Law was proposed by Clarke in the essay "Hazards of Prophecy: The Failure of Imagination", in ''Profiles of the Future'' (1962).<ref>"'Hazards of Prophecy: The Failure of Imagination'" in the collection ''Profiles of the Future: An Enquiry into the Limits of the Possible'' (1962, rev. 1973), pp. 14, 21, 36.</ref>
+
+The second law is offered as a simple observation in the same essay. Its status as Clarke's Second Law was conferred by others. In a 1973 revision of ''Profiles of the Future'', Clarke acknowledged the Second Law and proposed the Third. "As three laws were good enough for [[Isaac Newton|Newton]], I have modestly decided to stop there".
+
+The Third Law is the best known and most widely cited, and appears in Clarke's 1973 revision of "Hazards of Prophecy: The Failure of Imagination". It echoes a statement in a 1942 story by [[Leigh Brackett]]: "Witchcraft to the ignorant, ... simple science to the learned".<ref>"The Sorcerer of Rhiannon", ''[[Astounding]]'' February 1942, p. 39.</ref> An earlier example of this sentiment may be found in [[Wild Talents]] (1932) by the author [[Charles Fort]], where he makes the statement: "...a performance that may some day be considered understandable, but that, in these primitive times, so transcends what is said to be the known that it is what I mean by magic."  Even earlier, [[H. Rider Haggard|Rider Haggard's]] novel [[She: A History of Adventure|She]] (1886) expresses the sentiment multiple times, such as in chapter 17: "Fear not, my Holly, I shall use no magic. Have I not told thee that there is no such thing as magic, though there is such a thing as understanding and applying the forces which are in Nature?"
+
+A fourth law has been added to the canon, despite Clarke's declared intention of not going one better than Newton. Geoff Holder quotes: "For every expert, there is an equal and opposite expert" in his book ''101 Things to Do with a Stone Circle'' (The History Press, 2009), and offers as his source Clarke's ''Profiles of the Future'' (new edition, 1999).
+
+== Third Law and variants ==
+
+Clarke's Third Law ("Any sufficiently advanced technology is indistinguishable from magic") has inspired many [[snowclones]] and other variations:
+
+* Any sufficiently advanced act of benevolence is indistinguishable from malevolence.<ref>
+{{cite book
+| last1=         Rubin
+| first1=        Charles T.
+| authorlink1=   Charles T. Rubin
+| editor1-last=  Chadwick
+| editor1-first= Ruth
+| editor2-last=  Gordijn
+| editor2-first= Bert
+| publisher=     Springer
+| title=         Medical Enhancement and Posthumanity
+| date=          5 November 2008
+| isbn=          9789048180059
+| page=          149
+| url=           http://www.abolitionist.com/transhumanism/transhumanist.pdf
+| chapter=       What is the Good of Transhumanism?
+| accessdate=    17 October 2014
+| archiveurl=    http://web.archive.org/web/20141016064821/http://www.abolitionist.com/transhumanism/transhumanist.pdf
+| archivedate=   16 October 2014
+| deadurl=       no
+}}<br/>
+Rubin is referring to an earlier work of his: <br/>
+{{cite book
+| last1=Rubin
+| first1=Charles T.
+| authorlink1=Charles T. Rubin
+| editor1-last=Kingsley
+| editor1-first=Stuart A.
+| editor1-link=Stuart Kingsley
+| editor2-last=Lemarchand
+| editor2-first=Guillermo A.
+| title=The Search for Extraterrestrial Intelligence (SETI) in the Optical Spectrum II: 31 January-1 February 1996, San Jose, California, Band 2704
+| date=1996
+| chapter=First contact: Copernican moment or nine day’s wonder?
+| series=Proceedings of SPIE - the International Society for Optical Engineering
+| publisher=[[SPIE—The International Society for Optical Engineering]]
+| location=Bellingham, WA
+| isbn=9780819420787
+| pages=161–184
+}}
+</ref> (referring to [[Artificial intelligence#Predictions and ethics|artificial intelligence]])
+* {{anchor|Grey}}Any sufficiently advanced incompetence is indistinguishable from malice. (Grey's law)<ref>[http://www.urbandictionary.com/define.php?term=Grey%27s%20Law Urban Dictionary: Grey's Law]</ref>  ([[Hanlon's Razor#Hanlon's razor|Hanlon's razor]])
+* {{anchor|Clark}}Any sufficiently advanced cluelessness is indistinguishable from malice.<ref>
+{{cite newsgroup
+ | title = Clark's Law
+ | author = J. Porter Clark
+ | date = 16 November 1994
+ | newsgroup = alt.news.misc
+ | id =
+ | url = https://groups.google.com/forum/?hl=en#!topic/news.admin.misc/PQa10ERLuVs
+ | accessdate = 10 December 2014 
+ | quote = They were apologetic and seemed sincere, but sufficiently advanced cluelessness is indistinguishable from malice.  8-)}}
+</ref> (Clark's law)
+* Any sufficiently advanced [[troll (Internet)|troll]] is indistinguishable from a genuine kook. ([[Poe's law#Morgan's maxim|Morgan's maxim]])
+* Any sufficiently advanced technology is indistinguishable from a rigged demo.<ref>[http://www.quotationspage.com/quote/3418.html Quote Details: James Klass: Any sufficiently advanced technology... - The Quotations Page<!-- Bot generated title -->]</ref> 
+
+One [[Wiktionary:contrapositive#English|contrapositive]] of Clarke's Third Law is
+
+* Any technology distinguishable from magic is insufficiently advanced. (Gehm's corollary){{citation needed|date=November 2014}}
+
+Clarke's Third Law has been
+
+* reversed for [[fictional universe]]s involving [[Magic in fiction|magic]]: "Any sufficiently analyzed magic is indistinguishable from science!"<ref>[http://www.girlgeniusonline.com/comic.php?date=20081205 Girl Genius<!-- Bot generated title -->]</ref><ref>[http://tvtropes.org/pmwiki/pmwiki.php/Main/SufficientlyAnalyzedMagic Sufficiently Analyzed Magic - TV Tropes<!-- Bot generated title -->]</ref>
+* expanded for fictional universes focusing on [[science fiction]]: "Any technology, no matter how primitive, is magic to those who don't understand it."<ref>[http://freefall.purrsia.com/ff300/fv00255.htm Freefall 00255 November 12, 1999<!-- Bot generated title -->]</ref>
+* used to refer to unexplained archaeological finds and reconstructions of folk mysticism: "Any sufficiently ancient recovered wisdom or artifact is also indistinguishable from magic."{{citation needed|date=November 2014}}
+
+== See also ==
+* [[First contact (anthropology)]]
+* [[Futures studies]]
+* [[Niven's laws]]
+* [[Search for extraterrestrial intelligence]]
+* [[Three Laws of Robotics]]
+* [[Scientism (Foundation)|Scientism]]
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+* [http://groups.google.com.au/groups?selm=1991Nov13.122855.10634%40sq.sq.com The origins of the Three Laws]
+* [http://www.edge.org/q2004/ "What's Your Law?"] (lists some of the corollaries)
+* [http://www.infinityplus.co.uk/nonfiction/dlnw.htm "A Gadget Too Far"] at Infinity Plus
+
+{{Arthur C. Clarke}}
+
+[[Category:Adages]]
+[[Category:Arthur C. Clarke]]
+[[Category:Technology folklore]]
+[[Category:Technology forecasting]]
+[[Category:Principles]]

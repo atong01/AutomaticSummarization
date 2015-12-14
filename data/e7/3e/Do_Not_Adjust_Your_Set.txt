@@ -1,0 +1,84 @@
+{{Use dmy dates|date=May 2011}}
+{{Refimprove|date=June 2010}}
+{{Infobox television
+| show_name          = Do not adjust your set!
+| image              = [[Image:DoNotAdjustYourSet-dvd.jpg|175px]]
+| caption            = DVD cover<br/>From left to right: David Jason, Michael Palin, Eric Idle, Denise Coffey and Terry Jones.
+| camera             =
+| picture_format     = [[4:3]]
+| audio_format       =
+| runtime            = c.25 minutes (excluding commercials)
+| creator            =
+| developer          =
+| executive_producer = [[Humphrey Barclay]] (series 1) <br/> Ian Davidson (series 2)
+| starring           = [[Denise Coffey]] <br/>[[Eric Idle]] <br/>[[David Jason]] <br/>[[Terry Jones]] <br/>[[Michael Palin]]
+| narrated           =
+| opentheme          =
+| endtheme           =
+| country            = United Kingdom
+| language           = English
+| network            = [[ITV (TV network)|ITV]]
+| first_aired        = {{Start date|1967|12|26|df=yes}}
+| last_aired         = {{End date|1969|5|14|df=yes}}
+| num_series         = 2
+| num_episodes       = 27
+| distributor        = [[Fremantle Media]]
+| website            =
+| related            = ''[[At Last the 1948 Show]] (1967 – 1968)'' 
+}}
+
+'''''Do Not Adjust Your Set!''''' ('''''DNAYS!''''') is a television series produced originally by [[Associated-Rediffusion|Rediffusion, London]], then, by the fledgling [[Thames Television]] for British commercial television channel [[ITV (TV network)|ITV]] from 26 December 1967 to 14 May 1969. The show took its name from the message (frequently seen on the TV screen in those days) which was displayed when there was a problem with transmission.
+
+It included early appearances of [[Denise Coffey]], [[David Jason]], [[Eric Idle]], [[Terry Jones]], and [[Michael Palin]]; the last three became members of the [[Monty Python]] comedy troupe soon afterwards. Although originally conceived as a children's programme, it quickly acquired a following amongst many adults, including future Pythons [[John Cleese]] and [[Graham Chapman]] (as mentioned by Cleese himself in the "Paying my ex-wife" stage performance tour, October 2010).
+
+The [[Bonzo Dog Doo-Dah Band]] performed a song in each programme and [[Bob Kerr's Whoopee Band]] also appeared. The musicians frequently appeared as extras in sketches. The programme comprised a series of sketches, often bizarre and surreal, frequently satirical with a disjointed style which anticipate ''[[Monty Python's Flying Circus]]'', which followed five months after the last episode of ''DNAYS''. Strange animations between sketches were crafted in the final episodes by the then-unknown [[Terry Gilliam]], who also graduated to ''Python'' – part of his "Christmas cards" animation reappeared there in the "Joy to the World" segment.
+
+One long-running feature of the show was "[[Captain Fantastic]]", featuring a parody [[superhero]] (Jason) in improbable, even macabre adventures against [[villainess]] Mrs. Black (Coffey). These segments were shot entirely on film, on location in London. In 1968, it won an international award, the Prix Jeunesse, in Munich.
+
+==Episodes==
+*Episodes produced by [[Associated-Rediffusion]]:
+**Series one: an introductory special on [[boxing day]] 1967, followed by 13 regular c.25 minute episodes (in a 30 minutes slot) broadcast between 26 December 1967 to 28 March 1968, Thursdays at 17:25.
+**Untitled special c.25 minutes broadcast 29 July 1968, Monday at 19:00.
+
+*Episodes produced by [[Thames]]:
+**"Do not adjust your stocking", 40 minutes broadcast 25 December 1968, Wednesday 16:10. For a 1986 repeat, David Jason demanded to be removed from the show, thus creating an abridged version of 25 minutes.
+**Series two: 13 episodes of c.25 minutes broadcast between 19 February 1969 to 14 May 1969, Wednesdays at 17:20.
+
+In common with another important ''Monty Python'' predecessor, ''[[At Last the 1948 Show]]'', many episodes were [[wiping|wiped]].
+
+==DVD release==
+Nine of the 14 episodes from the first (Rediffusion) series were released on DVD in the UK and the US in August 2005. Both releases use the same [[NTSC]] Region 0 discs made from [[telerecording]]s of the original videotapes.
+
+The episodes are renumbered 1 to 9, although, in fact they are episodes 1-2, 5-6, and 9-13 (a similar fault was made on the release of ''[[At Last the 1948 Show]]''). The sole surviving episode from series 2 and ''Do Not Adjust Your Stocking'' were not included.<ref>[http://web.archive.org/web/20121011194036/http://www.btinternet.com/~m.brown1/dnays.htm Missing Episodes website]</ref>
+
+The packaging further implies that Gilliam's animations appear in these episodes, but they do not. Gilliam does appear as one of the additional writers in the credits for episodes three and four. The Bonzo Dog Doo Dah Band is seen playing its song "[[Death Cab for Cutie (song)|Death Cab for Cutie]]" (also performed in [[The Beatles]]' film ''[[Magical Mystery Tour (film)|Magical Mystery Tour]]'') in the DVD, Episode 7.
+
+==References==
+{{Reflist}}
+
+* {{cite book | title=A Concise History of British Television 1930–2000 | first=Tony | last=Currie | publisher=Kelly Publications | year=2004 | isbn=1-903053-17-X | page=64 }}
+
+* {{cite book | title=From Fringe to Flying Circus: Celebrating a Unique Generation of Comedy, 1960–1980 | first=Roger | last=Wilmut | publisher=Eyre Methuen | year=1980 | page=183 }}
+
+{{Portal|1960s}}
+
+==External links==
+*[http://www.screenonline.org.uk/tv/id/515090/index.html British Film Institute Screen Online]
+*[http://www.popmatters.com/tv/reviews/d/do-not-adjust-your-set.shtml A Review of DNAYS!]
+* {{IMDb title|0061247|Do Not Adjust Your Set}}
+* {{tv.com show|do-not-adjust-your-set|Do Not Adjust Your Set}}
+
+{{Do Not Adjust Your Set}}
+{{Monty Python}}
+<!--Need to check the full cast list-->
+
+[[Category:1967 British television programme debuts]]
+[[Category:1969 British television programme endings]]
+[[Category:1960s British television series]]
+[[Category:British television sketch shows]]
+[[Category:ITV comedy]]
+[[Category:Monty Python]]
+[[Category:Television series by FremantleMedia]]
+[[Category:Television series by ITV Studios]]
+[[Category:English-language television programming]]
+[[Category:Comedy collectives]]

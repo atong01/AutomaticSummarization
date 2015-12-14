@@ -1,0 +1,124 @@
+{{Other uses}}
+[[Image:Lorenz attractor yb.svg|thumb|200px|right||A plot of Lorenz's [[strange attractor]] for values ρ=28, σ = 10, β = 8/3. The butterfly effect or sensitive dependence on initial conditions is the property of a [[dynamical system]] that, starting from any of various arbitrarily close alternative [[initial condition]]s on the attractor, the [[iteration#mathematics|iterated points]] will become arbitrarily spread out from each other.]]
+
+In [[chaos theory]], the '''butterfly effect''' is the sensitive dependence on [[initial condition]]s in which a small change in one state of a deterministic [[nonlinear system]] can result in large differences in a later state. The name of the effect, coined by [[Edward Lorenz]], is derived from the metaphorical example of the details of a hurricane (exact time of formation, exact path taken) being influenced by minor perturbations such as the flapping of the wings of a distant [[butterfly]] several weeks earlier. Lorenz discovered the effect when he observed that runs of his [[Numerical weather prediction|weather model]] with initial condition data that was rounded in a seemingly inconsequential manner would fail to reproduce the results of runs with the unrounded initial condition data. A very small change in initial conditions had created a significantly different outcome.
+
+The butterfly effect is exhibited by very simple systems. For example, the [[randomness]] of the outcomes of throwing [[dice]] depends on this characteristic to amplify small differences in initial conditions—the precise direction, thrust, and orientation of the throw—into significantly different dice paths and outcomes, which makes it virtually impossible to throw dice exactly the same way twice.
+
+==History==
+[[Chaos theory]] and the sensitive dependence on initial conditions were described in the literature in a particular case of the [[three-body problem]] by [[Henri Poincaré]] in 1890.<ref name="wolframscience.com">[http://www.wolframscience.com/reference/notes/971c Some Historical Notes: History of Chaos Theory]</ref> He later proposed that such phenomena could be common, for example, in meteorology.<ref>{{cite book |last1=Steves |first1=Bonnie |last2=Maciejewski | first2=AJ |date=September 2001 |title=The Restless Universe Applications of Gravitational N-Body Dynamics to Planetary Stellar and Galactic Systems |url=http://books.google.com.au/books?id=-wa120qRW5wC |location=USA |publisher=CRC Press |isbn=0750308222 |accessdate=January 6, 2014 }}</ref>
+
+In 1898,<ref name="wolframscience.com"/> [[Jacques Hadamard]] noted general divergence of trajectories in spaces of negative curvature. [[Pierre Duhem]] discussed the possible general significance of this in 1908.<ref name="wolframscience.com"/> The idea that one [[butterfly]] could eventually have a far-reaching [[ripple effect]] on subsequent historic events made its earliest known appearance in "[[A Sound of Thunder]]", a 1952 short story by [[Ray Bradbury]] about time travel ([[Butterfly effect in popular culture#Literature and print|see Literature and print here]]).
+
+In 1961, Lorenz was running a numerical computer model to redo a weather prediction from the middle of the previous run as a shortcut. He entered the initial condition 0.506 from the printout instead of entering the full precision 0.506127 value. The result was a completely different weather scenario.<ref>{{cite book |first=James |last=Gleick |title=Chaos: Making a New Science |location= |publisher=Viking |year=1987 |isbn=0-8133-4085-3 |page=16}}</ref> In 1963 Lorenz published a theoretical study of this effect in a highly cited, seminal paper called ''Deterministic Nonperiodic Flow''<ref>{{cite journal|last=Lorenz|first=Edward N.|title=Deterministic Nonperiodic Flow|journal=Journal of the Atmospheric Sciences|date=March 1963|volume=20|issue=2|pages=130–141|url=http://journals.ametsoc.org/doi/abs/10.1175/1520-0469%281963%29020%3C0130%3ADNF%3E2.0.CO%3B2|accessdate=3 June 2010|doi=10.1175/1520-0469(1963)020<0130:DNF>2.0.CO;2|bibcode = 1963JAtS...20..130L|issn=1520-0469}}</ref><ref>[https://scholar.google.com/scholar_lookup?title=Deterministic+non-periodic+flow&author=E.+N.+Lorenz&publication_year=1963 Google Scholar citation record]</ref> (the calculations were performed on a [[Royal McBee]] [[LGP-30]] computer).<ref>{{cite web|url=http://www.cs.ualberta.ca/~smillie/ComputerAndMe/Part19.html |title=Part19 |publisher=Cs.ualberta.ca |date=1960-11-22 |accessdate=2014-06-08}}</ref><ref name="Lorenz1963" /> Elsewhere he stated {{quote| text=One meteorologist remarked that if the theory were correct, one flap of a [[Gull|sea gull]]'s wings would be enough to alter the course of the weather forever. The controversy has not yet been settled, but the most recent evidence seems to favor the sea gulls.<ref name="Lorenz1963">{{cite journal |last=Lorenz |first=Edward N. |last2= |first2= |date=1963 |title=The Predictability of Hydrodynamic Flow |url=http://eaps4.mit.edu/research/Lorenz/Predictability_hydrodynamic_flow_1963.pdf |journal=Transactions of the New York Academy of Sciences |publisher= |volume=25 |issue=4 |pages=409–432 |doi= |accessdate=1 September 2014}}</ref>}} Following suggestions from colleagues, in later speeches and papers Lorenz used the more poetic [[butterfly]]. According to Lorenz, when he failed to provide a title for a talk he was to present at the 139th meeting of the [[American Association for the Advancement of Science]] in 1972, Philip Merilees concocted ''Does the flap of a butterfly’s wings in Brazil set off a tornado in Texas?'' as a title.<ref>[http://eaps4.mit.edu/research/Lorenz/Butterfly_1972.pdf Lorenz: "Predictability", AAAS 139th meeting, 1972] Retrieved May 22, 2015</ref> Although a butterfly flapping its wings has remained constant in the expression of this concept, the location of the butterfly, the consequences, and the location of the consequences have varied widely.<ref>{{cite web|url=http://blog.ap42.com/2011/08/03/the-butterfly-effect-variations-on-a-meme/|title=The Butterfly Effects: Variations on a Meme|accessdate=3 August 2011|work=[http://blog.ap42.com AP42 ...and everything]}}</ref>
+
+The phrase refers to the idea that a butterfly's wings might create tiny changes in the [[Earth's atmosphere|atmosphere]] that may ultimately alter the path of a [[tornado]] or delay, accelerate or even prevent the occurrence of a tornado in another location. The butterfly does not power or directly create the tornado. The term is not intended to imply—as is often misconstrued—that the flap of the butterfly's wings ''causes'' the tornado. The flap of the wings is a part of the initial conditions; one set of conditions leads to a tornado while the other set of conditions doesn't. The flapping wing represents a small change in the initial condition of the system, which cascades to large-scale alterations of events (compare: [[domino effect]]). Had the butterfly not flapped its wings, the trajectory of the system might have been vastly different—it's possible that the set of conditions without the butterfly flapping its wings is the set that leads to a tornado.
+
+The butterfly effect presents an obvious challenge to prediction, since initial conditions for a system such as the weather can never be known to complete accuracy. This problem motivated the development of [[ensemble forecasting]], in which a number of forecasts are made from perturbed initial conditions.<ref>{{Cite book |last=Woods|first=Austin|title=Medium-range weather prediction: The European approach; The story of the European Centre for Medium-Range Weather Forecasts |page=118 |location=New York |publisher=Springer |year=2005 |isbn=978-0387269283 }}</ref>
+
+Some scientists have since argued that the weather system is not as sensitive to initial condition as previously believed.<ref>{{cite journal|last=Orrell|first=David| last2=Smith | first2 = Leonard | last3=Barkmeijer | first3 = Jan | last4 = Palmer | first4 = Tim | title=Model error in weather forecasting|journal=Nonlinear Proc. Geoph. | year=2001| volume=9 | pages=357–371 }}</ref> [[David Orrell]] argues that the major contributor to weather forecast error is model error, with sensitivity to initial conditions playing a relatively small role.<ref>{{cite journal|last=Orrell|first=David| title=Role of the metric in forecast error growth: How chaotic is the weather?|journal=Tellus | year=2002| volume=54A | pages=350–362| doi=10.3402/tellusa.v54i4.12159}}</ref><ref>{{Cite book |last=Orrell |first=David |title=Truth or Beauty: Science and the Quest for Order |page=208 |location=New Haven|publisher=Yale University Press |year=2012 |isbn=978-0300186611 }}</ref> [[Stephen Wolfram]] also notes that the Lorenz equations are highly simplified and do not contain terms that represent viscous effects; he believes that these terms would tend to damp out small perturbations.<ref>{{Cite book |last=Wolfram|first=Stephen |title=A New Kind of Science |page=998 |location= |publisher=Wolfram Media |year=2002 |isbn=978-1579550080 }}</ref>
+
+==Illustration==
+:{|class="wikitable" width=100%
+|-
+! colspan=3|The butterfly effect in the [[Lorenz attractor]]
+|-
+| colspan="2" style="text-align:center;"| time 0&nbsp;≤&nbsp;''t''&nbsp;≤&nbsp;30 [[:Image:TwoLorenzOrbits.jpg|(larger)]]
+| style="text-align:center;"| ''z'' coordinate [[:Image:LorenzCoordinatesBig.png|(larger)]]
+|-
+| colspan="2" style="text-align:center;"|[[Image:TwoLorenzOrbits.jpg|300px]]
+| style="text-align:center;"|[[Image:LorenzCoordinatesSmall.jpg|300px]]
+|-
+|colspan=3| These figures show two segments of the three-dimensional evolution of two trajectories (one in blue, the other in yellow) for the same period of time in the [[Lorenz attractor]] starting at two initial points that differ by only 10<sup>−5</sup> in the x-coordinate. Initially, the two trajectories seem coincident, as indicated by the small difference between the ''z'' coordinate of the blue and yellow trajectories, but for ''t''&nbsp;>&nbsp;23 the difference is as large as the value of the trajectory. The final position of the cones indicates that the two trajectories are no longer coincident at ''t''&nbsp;=&nbsp;30.
+|-
+| style="text-align:center;" colspan="3"| An animation of the Lorenz attractor shows the continuous evolution.
+|}
+
+==Theory and mathematical definition==
+[[Poincaré recurrence theorem|Recurrence]], the approximate return of a system towards its initial conditions, together with sensitive dependence on initial conditions, are the two main ingredients for chaotic motion. They have the practical consequence of making [[complex system]]s, such as the [[weather]], difficult to predict past a certain time range (approximately a week in the case of weather) since it is impossible to measure the starting atmospheric conditions completely accurately.
+
+A [[dynamical system]] displays sensitive dependence on initial conditions if points arbitrarily close together separate over time at an exponential rate. The definition is not topological, but essentially metrical.
+
+If ''M'' is the [[State space (dynamical system)|state space]] for the map <math>f^t</math>, then <math>f^t</math> displays sensitive dependence to initial conditions if for any x in ''M'' and any δ&nbsp;>&nbsp;0, there are y in ''M'', with distance ''d''(. , .) such that <math>0 < d(x, y) < \delta </math> and such that
+
+:<math>d(f^\tau(x), f^\tau(y)) > \mathrm{e}^{a\tau} \, d(x,y)</math>
+
+for some positive parameter ''a''. The definition does not require that all points from a neighborhood separate from the base point ''x'', but it requires one positive [[Lyapunov exponent]].
+
+The simplest mathematical framework exhibiting sensitive dependence on initial conditions is provided by a particular parametrization of the [[logistic map]]:
+
+:<math>x_{n+1} = 4 x_n (1-x_n) , \quad 0\leq x_0\leq 1,</math>
+
+which, unlike most chaotic maps, has a [[closed-form solution]]:
+
+:<math>x_{n}=\sin^{2}(2^{n} \theta \pi)</math>
+
+where the [[initial condition]] parameter <math>\theta</math> is given by <math>\theta = \tfrac{1}{\pi}\sin^{-1}(x_0^{1/2})</math>. For rational <math>\theta</math>, after a finite number of [[iterated function|iterations]] <math>x_n</math> maps into a [[periodic point|periodic sequence]]. But almost all <math>\theta</math> are irrational, and, for irrational <math>\theta</math>, <math>x_n</math> never repeats itself &ndash; it is non-periodic. This solution equation clearly demonstrates the two key features of chaos &ndash; stretching and folding: the factor 2<sup>''n''</sup> shows the exponential growth of stretching, which results in sensitive dependence on initial conditions (the butterfly effect), while the squared sine function keeps <math>x_n</math> folded within the range&nbsp;[0,&nbsp;1].
+
+==Examples==
+The butterfly effect is most familiar in terms of [[weather]]; it can easily be demonstrated in standard weather prediction models, for example.<ref>{{cite web|url=http://www.realclimate.org/index.php/archives/2005/11/chaos-and-climate/ |title=Chaos and Climate |publisher=RealClimate |date= |accessdate=2014-06-08}}</ref>
+
+The potential for sensitive dependence on initial conditions (the butterfly effect) has been studied in a number of cases in [[Semiclassical physics|semiclassical]] and [[quantum mechanics|quantum physics]] including atoms in strong fields and the anisotropic [[Kepler problem]].<ref>{{Cite journal |title=Postmodern Quantum Mechanics |first=E. J. |last=Heller |first2=S. |last2=Tomsovic |journal=Physics Today |date=July 1993 | doi = 10.1063/1.881358 |volume=46 |pages=38|bibcode = 1993PhT....46g..38H }}</ref><ref>{{Cite book |first=Martin C. |last=Gutzwiller |title=Chaos in Classical and Quantum Mechanics |year=1990 |publisher=Springer-Verlag |location=New York |isbn=0-387-97173-4 }}</ref> Some authors have argued that extreme (exponential) dependence on initial conditions is not expected in pure quantum treatments;<ref name="What is... Quantum Chaos">{{cite web |url=http://www.ams.org/notices/200801/tx080100032p.pdf |format=PDF |title=What is...Quantum Chaos |first=Ze'ev |last=Rudnick |date=January 2008 |work=Notices of the American Mathematical Society }}</ref><ref>{{cite journal |last1=Berry |first1=Michael |title=Quantum chaology, not quantum chaos |journal=Physica Scripta |volume=40 |pages=335–336 |year=1989 |doi=10.1088/0031-8949/40/3/013 |bibcode = 1989PhyS...40..335B |issue=3 }}</ref> however, the sensitive dependence on initial conditions demonstrated in classical motion is included in the semiclassical treatments developed by [[Martin Gutzwiller]]<ref>{{Cite journal |first=Martin C. |last=Gutzwiller |year=1971 |title=Periodic Orbits and Classical Quantization Conditions |journal=[[Journal of Mathematical Physics]] |volume=12 |issue= 3|page=343 |doi=10.1063/1.1665596 |bibcode = 1971JMP....12..343G }}</ref> and Delos and co-workers.<ref>{{Cite journal |title=Closed-orbit theory of oscillations in atomic photoabsorption cross sections in a strong electric field. II. Derivation of formulas |first=J. |last=Gao |lastauthoramp=yes |first2=J. B. |last2=Delos |journal=[[Physical Review|Phys. Rev. A]] |volume=46 |issue=3 |pages=1455–1467 |year=1992 |doi=10.1103/PhysRevA.46.1455 |bibcode = 1992PhRvA..46.1455G }}</ref>
+
+Other authors suggest that the butterfly effect can be observed in quantum systems. Karkuszewski et al. consider the time evolution of quantum systems which have slightly different [[Hamiltonian (quantum mechanics)|Hamiltonians]]. They investigate the level of sensitivity of quantum systems to small changes in their given Hamiltonians.<ref>{{Cite journal |title=Quantum Chaotic Environments, the Butterfly Effect, and Decoherence |first=Zbyszek P. |last=Karkuszewski |first2=Christopher |last2=Jarzynski |first3=Wojciech H. |last3=Zurek |journal=[[Physical Review Letters]] |volume=89 |issue=17 |year=2002 |page=170405 |doi=10.1103/PhysRevLett.89.170405 |bibcode=2002PhRvL..89q0405K|arxiv = quant-ph/0111002 }}</ref> Poulin et al. presented a quantum algorithm to measure fidelity decay, which "measures the rate at which identical initial states diverge when subjected to slightly different dynamics". They consider fidelity decay to be "the closest quantum analog to the (purely classical) butterfly effect".<ref>{{Cite journal |last=Poulin |first=David |last2=Blume-Kohout |first2=Robin |last3=Laflamme |first3=Raymond |lastauthoramp=yes |last4=Ollivier |first4=Harold |year=2004 |title=Exponential Speedup with a Single Bit of Quantum Information: Measuring the Average Fidelity Decay |journal=Physical Review Letters |volume=92 |issue=17 |page=177906 |doi=10.1103/PhysRevLett.92.177906 |bibcode=2004PhRvL..92q7906P|arxiv = quant-ph/0310038 |pmid=15169196 }}</ref> Whereas the classical butterfly effect considers the effect of a small change in the position and/or velocity of an object in a given [[Hamiltonian system]], the quantum butterfly effect considers the effect of a small change in the Hamiltonian system with a given initial position and velocity.<ref name="iqc.ca">{{cite web |title=A Rough Guide to Quantum Chaos |first=David |last=Poulin |url=http://www.iqc.ca/publications/tutorials/chaos.pdf |format=PDF }}</ref><ref>{{Cite book |first=A. |last=Peres |title=Quantum Theory: Concepts and Methods |publisher=Kluwer Academic |location=Dordrecht |year=1995 |isbn= }}</ref> This quantum butterfly effect has been demonstrated experimentally.<ref>{{Cite journal |title=Quantum amplifier: Measurement with entangled spins |first=Jae-Seung |last=Lee |lastauthoramp=yes |first2=A. K. |last2=Khitrin |journal=[[Journal of Chemical Physics]] |volume=121 |issue=9 |year=2004 |page=3949 |doi=10.1063/1.1788661 |bibcode = 2004JChPh.121.3949L }}</ref> Quantum and semiclassical treatments of system sensitivity to initial conditions are known as [[quantum chaos]].<ref name="What is... Quantum Chaos"/><ref name="iqc.ca"/>
+
+==See also==
+<!-- please keep entries in alphabetical order -->
+<!-- Please keep entries in alphabetical order & add a short description [[WP:SEEALSO]] -->
+{{div col||20em|small=yes}}
+* [[Actuality and potentiality]]
+* [[Avalanche effect]]
+* [[Behavioral cusp]]
+* [[Butterfly effect in popular culture]]
+* [[Cascading failure]]
+* [[Causality]]
+* [[Chain reaction]]
+* [[Clapotis]]
+* [[Determinism]]
+* [[Domino effect]]
+* [[Dynamical systems]]
+* [[Fractal]]
+* [[Great Stirrup Controversy]]
+* [[Innovation butterfly]]
+* [[Kessler syndrome]]
+* [[Law of unintended consequences]]
+* [[Point of divergence]]
+* [[Positive feedback]]
+* [[Representativeness heuristic]]
+* [[Ripple effect]]
+* [[Snowball effect]]
+* [[Traffic congestion]]
+* [[Tropical cyclogenesis]]
+{{div col end}}
+<!-- please keep entries in alphabetical order -->
+<!-- Please don't add the movie DASAVATHARAM here.
+
+There is a discussion on the talk page of the Chaos theory article this movie... if this movie should be mentioned or not in the realm of chaos theory. The current opinion is, that this movie should not (yet) be added to this list. Please add your opinion add the talk page. This is the way Wikipedia works, Thank you. -->
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+* [[James Gleick]], ''[[Chaos: Making a New Science]]'', New York: Viking, 1987. 368 pp.
+* {{cite book |first=Robert L. |last=Devaney|authorlink= Robert L. Devaney |title=Introduction to Chaotic Dynamical Systems |location= |publisher=Westview Press |year=2003 |isbn=0670811785 }}
+* {{cite journal |journal=[[American Journal of Physics]] |year=2004 |title=Sea gulls, butterflies, and grasshoppers: A brief history of the butterfly effect in nonlinear dynamics |pages=425–427 |first=Robert C. |last=Hilborn |volume=72 |issue=4 |doi=10.1119/1.1636492 |bibcode = 2004AmJPh..72..425H}}
+
+==External links==
+{{wiktionary|butterfly effect}}
+* [http://www.boston.com/bostonglobe/ideas/articles/2008/06/08/the_meaning_of_the_butterfly/?page=full The meaning of the butterfly: Why pop culture loves the 'butterfly effect,' and gets it totally wrong], Peter Dizikes, ''[[Boston Globe]]'', June 8, 2008
+* [http://necsi.edu/guide/concepts/butterflyeffect.html New England Complex Systems Institute - Concepts: Butterfly Effect]
+* [http://hypertextbook.com/chaos/ The Chaos Hypertextbook]. An introductory primer on chaos and fractals
+* [http://chaosbook.org/ ChaosBook.org]. Advanced graduate textbook on chaos (no fractals)
+* {{MathWorld | urlname=ButterflyEffect | title=Butterfly Effect}}
+
+{{Chaos theory}}
+{{Time travel}}
+{{unintended consequences}}
+
+{{DEFAULTSORT:Butterfly Effect}}
+[[Category:Causality]]
+[[Category:Chaos theory]]
+[[Category:Determinism]]
+[[Category:Metaphors referring to animals]]
+[[Category:Physical phenomena]]
+[[Category:Stability theory]]

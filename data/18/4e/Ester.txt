@@ -1,0 +1,359 @@
+{{Other uses}}
+[[Image:Ester-general.svg|130px|thumb|A carboxylate ester. R and R' denote any [[alkyl]] or [[aryl]] group. R can also be a hydrogen atom]]
+In [[chemistry]], '''esters''' are [[chemical compound]]s derived from an [[acid]] (organic or inorganic) in which at least one -OH (hydroxyl) group is replaced by an -O-[[alkyl]] ([[alkoxy]]) group.<ref>{{GoldBookRef|title = esters | file = E02219}}</ref>  Usually, esters are derived from a [[carboxylic acid]] and an [[alcohol]].  [[Glyceride]]s, which are [[fatty acid]] esters of [[glycerol]], are important esters in biology, being one of the main classes of [[lipids]], and making up the bulk of animal fats and vegetable oils. Esters with low molecular weight are commonly used as fragrances and found in [[essential oil]]s and [[pheromone]]s. [[Phosphoester]]s form the backbone of [[DNA]] molecules. [[Nitrate ester]]s, such as [[nitroglycerin]], are known for their explosive properties, while [[polyester]]s are important [[plastic]]s, with monomers linked by ester [[moiety (chemistry)|moieties]].
+<!--template from Chem MOS on cmpd types: 	
+Lede
+
+2 Structure and bonding
+3 Properties
+4 Characterization
+5 Applications
+6 Occurrence
+7 Preparation 	
+8 Reactions 
+9 History
+10 Safety-->
+
+== Nomenclature ==
+
+=== Etymology ===
+The word 'ester' was coined in 1848 by German chemist [[Leopold Gmelin]],<ref>Leopold Gmelin, ''Handbuch der Chemie'', vol. 4: ''Handbuch der organischen Chemie'' (vol. 1) (Heidelberg, Baden (Germany): Karl Winter, 1848), [http://books.google.com/books?id=4ooMAQAAIAAJ&pg=PA182&lpg=PA182#v=onepage&q&f=false page 182].<br />
+Original text:<blockquote>b. Ester oder sauerstoffsäure Aetherarten.<br />Ethers du troisième genre.<br /><br />Viele mineralische und organische Sauerstoffsäuren treten mit einer Alkohol-Art unter Ausscheidung von Wasser zu neutralen flüchtigen ätherischen Verbindungen zusammen, welche man als gepaarte Verbindungen von Alkohol und Säuren-Wasser oder, nach der Radicaltheorie, als Salze betrachten kann, in welchen eine Säure mit einem Aether verbunden ist. </blockquote>Translation:<blockquote>b. Ester or oxy-acid ethers.<br />Ethers of the third type.<br /><br />Many mineral and organic acids containing oxygen combine with an alcohol upon elimination of water to [form] neutral, volatile ether compounds, which one can view as coupled compounds of alcohol and acid-water, or, according to the theory of radicals, as salts in which an acid is bonded with an ether. </blockquote></ref> probably as a contraction of the German Essigäther, "[[Ethyl acetate|acetic ether]]".
+
+=== IUPAC nomenclature ===
+{{Main|IUPAC nomenclature of organic chemistry#Esters}}
+Ester names are derived from the parent alcohol and the parent acid, where the latter may be organic or inorganic. Esters derived from the simplest carboxylic acids are commonly named according to the more traditional, so-called "[[trivial names]]" e.g. as formate, acetate, propionate, and butyrate, as opposed to the IUPAC nomenclature methanoate, ethanoate, propanoate and butanoate. Esters derived from more complex carboxylic acids are, on the other hand, more frequently named using the systematic IUPAC name, based on the name for the acid followed by the suffix ''-oate''. For example the ester hexyl octanoate, also known under the trivial name hexyl [[Caprylic acid|caprylate]], has the formula CH<sub>3</sub>(CH<sub>2</sub>)<sub>6</sub>CO<sub>2</sub>(CH<sub>2</sub>)<sub>5</sub>CH<sub>3</sub>.
+
+[[Image:EtOAcImp.png|thumb|Ethyl acetate derived from an alcohol (blue) and an [[acyl]] group (yellow) derived from a carboxylic acid.]]
+
+The chemical formulas of organic esters usually take the form RCO<sub>2</sub>R', where R and R' are the hydrocarbon parts of the carboxylic acid and the alcohol, respectively. For example [[butyl acetate]] (systematically butyl ethanoate), derived from [[n-Butanol|butanol]] and [[acetic acid]] (systematically ethanoic acid) would be written CH<sub>3</sub>CO<sub>2</sub>C<sub>4</sub>H<sub>9</sub>. Alternative presentations are common including BuOAc and CH<sub>3</sub>COOC<sub>4</sub>H<sub>9</sub>.
+
+Cyclic esters are called [[lactone]]s, regardless of whether they are derived from an organic or an inorganic acid. One example of a (organic) lactone is [[gamma-valerolactone|''gamma''-valerolactone]].
+
+=== Orthoesters ===
+An uncommon class of organic esters are the [[orthoester]]s, which have the formula RC(OR')<sub>3</sub>. Triethylorthoformate (HC(OC<sub>2</sub>H<sub>5</sub>)<sub>3</sub>) is derived, in terms of its name (but not its synthesis) from [[orthoformic acid]] (HC(OH)<sub>3</sub>) and [[ethanol]].
+
+=== Inorganic esters===
+[[Image:Phosphate Group.svg|130px|thumb|A phosphoric acid ester]]
+Esters can also be derived from an inorganic acid and an alcohol. Thus, the nomenclature extends to inorganic oxo acids, e.g. [[phosphoric acid]], [[sulfuric acid]], [[nitric acid]] and [[boric acid]]. For example, [[triphenyl phosphate]] is the ester derived from [[phosphoric acid]] and [[phenol]]. Organic carbonates are derived from [[carbonic acid]]; for example, [[ethylene carbonate]] is derived from carbonic acid and [[ethylene glycol]].
+
+== Structure and bonding ==
+Esters contain a [[carbonyl]] center, which gives rise to 120&nbsp;°C-C-O and O-C-O angles. Unlike [[amide]]s, esters are structurally flexible functional groups because rotation about the C-O-C bonds has a low barrier. Their flexibility and low polarity is manifested in their physical properties; they tend to be less rigid (lower melting point) and more volatile (lower boiling point) than the corresponding amides.<ref name=March>March, J. “Advanced Organic Chemistry” 4th Ed. J. Wiley and Sons, 1992: New York. ISBN 0-471-60180-2.</ref> The pKa of the alpha-hydrogens on esters is around 25.<ref>[http://pharmaxchange.info/press/2011/02/chemistry-of-enolates-and-enols-acidity-of-alpha-hydrogens/ Chemistry of Enols and Enolates - Acidity of alpha-hydrogens]</ref>
+
+== Physical properties and characterization ==
+Esters are more polar than [[ethers]] but less polar than alcohols. They participate in [[hydrogen bond]]s as hydrogen-bond acceptors, but cannot act as hydrogen-bond donors, unlike their parent alcohols. This ability to participate in hydrogen bonding confers some water-solubility. Because of their lack of hydrogen-bond-donating ability, esters do not self-associate. Consequently esters are more volatile than [[carboxylic acid]]s of similar molecular weight.<ref name=March/>
+
+=== Characterization and analysis ===
+Esters are generally identified by gas chromatography, taking advantage of their volatility. [[IR spectroscopy|IR spectra]] for esters feature an intense sharp band in the range 1730–1750&nbsp;cm<sup>−1</sup> assigned to ν<sub>C=O</sub>. This peak changes depending on the functional groups attached to the carbonyl. For example, a benzene ring or double bond in conjugation with the carbonyl will bring the wavenumber down about 30&nbsp;cm<sup>−1</sup>.
+
+== Applications and occurrence ==
+Esters are widespread in nature and are widely used in industry. In nature, [[fat]]s are, in general, triesters derived from [[glycerol]] and [[fatty acid]]s.<ref>Isolation of triglyceride from nutmeg: G. D. Beal "Trimyristen" Organic Syntheses, Coll. Vol. 1, p.538 (1941). [http://orgsynth.org/orgsyn/pdfs/CV1P0538.pdf Link]</ref> Esters are responsible for the aroma of many fruits, including [[apple]]s, [[durian]]s, [[pear]]s, [[banana]]s, [[pineapple]]s, and [[strawberry|strawberries]].<ref>McGee, Harold. On Food and Cooking. 2003, Scribner, New York.</ref> Several billion kilograms of polyesters are produced industrially annually, important products being [[polyethylene terephthalate]], [[acrylate ester]]s, and [[cellulose acetate]].<ref name=Ullmann>Wilhelm Riemenschneider1 and Hermann M. Bolt "Esters, Organic" Ullmann's Encyclopedia of Industrial Chemistry, 2005, Wiley-VCH, Weinheim. {{DOI|10.1002/14356007.a09_565.pub2}}</ref>
+:[[File:Triglyceride unsaturated Structural Formulae V2.svg|thumb|450px|right|Representative triglyceride found in a linseed oil, a triester ([[triglyceride]]) derived of [[linoleic acid|<span style="color:green;">'''linoleic acid'''</span>]], [[alpha-linolenic acid|<span style="color:red;">'''alpha-linolenic acid'''</span>]], and [[oleic acid|<span style="color:blue;">'''oleic acid'''</span>]].]]
+
+== Preparation ==
+Esterification is the general name for a [[chemical reaction]] in which two reactants (typically an alcohol and an acid) form an ester as the [[product (chemistry)|reaction product]]. Esters are common in organic chemistry and biological materials, and often have a characteristic pleasant, fruity odor. This leads to their extensive use in the [[fragrance]] and [[flavoring|flavor]] industry. Ester bonds are also found in many [[polymer]]s.
+
+===Esterification of carboxylic acids===
+The classic synthesis is the [[Fischer esterification]], which involves treating a carboxylic acid with an alcohol in the presence of a [[Dehydration reaction|dehydrating]] agent:
+:RCO<sub>2</sub>H + R'OH {{eqm}} RCO<sub>2</sub>R' + H<sub>2</sub>O
+The equilibrium constant for such reactions is about 5 for typical esters, e.g., ethyl acetate.<ref>{{cite journal | last1 = Williams | first1 = Roger J. | last2 = Gabriel | first2 = Alton | last3 = Andrews | first3 = Roy C. | year = 1928 | title = The Relation Between the Hydrolysis Equilibrium Constant of Esters and the Strengths of the Corresponding Acids | url = | journal = J. Am. Chem. Soc | volume = 50 | issue = | pages = 1267–1271 | doi = 10.1021/ja01392a005 }}</ref> The reaction is slow in the absence of a catalyst. [[Sulfuric acid]] is a typical catalyst for this reaction. Many other acids are also used such as [[Dowex|polymeric sulfonic acids]]. Since esterification is highly reversible, the yield of the ester can be improved using [[Le Chatelier's principle]]:
+* Using the alcohol in large excess (i.e., as a solvent).
+* Using a dehydrating agent: sulfuric acid not only catalyzes the reaction but sequesters water (a reaction product). Other drying agents such as [[molecular sieves]] are also effective.
+* Removal of water by physical means such as [[distillation]] as a low-boiling [[azeotrope]]s with [[toluene]], in conjunction with a [[Dean-Stark apparatus]].
+
+Reagents are known that drive the dehydration of mixtures of alcohols and carboxylic acids. One example is the [[Steglich esterification]], which is a method of forming esters under mild conditions. The method is popular in [[peptide synthesis]], where the substrates are sensitive to harsh conditions like high heat. DCC ([[dicyclohexylcarbodiimide]]) is used to activate the carboxylic acid to further reaction. DMAP ([[4-dimethylaminopyridine]]) is used as an acyl-transfer [[catalyst]].<ref>{{OrgSynth | author = B. Neises and W. Steglich | title = Esterification of Carboxylic Acids with Dicyclohexylcarbodiimide/4-Dimethylaminopyridine: tert-Butyl ethyl fumarate | collvol = 7 | collvolpages = 93 | prep = cv7p0093}}</ref>
+:[[File:Steglich-1.svg|300px]]
+
+Another method for the dehydration of mixtures of alcohols and carboxylic acids is the [[Mitsunobu reaction]]:
+:RCO<sub>2</sub>H + R'OH + P(C<sub>6</sub>H<sub>5</sub>)<sub>3</sub> + R<sub>2</sub>N<sub>2</sub> → RCO<sub>2</sub>R' + OP(C<sub>6</sub>H<sub>5</sub>)<sub>3</sub> + R<sub>2</sub>N<sub>2</sub>H<sub>2</sub>
+
+Carboxylic acids can be esterified using [[diazomethane]]:
+:RCO<sub>2</sub>H + CH<sub>2</sub>N<sub>2</sub> → RCO<sub>2</sub>CH<sub>3</sub> + N<sub>2</sub>
+Using this diazomethane, mixtures of carboxylic acids can be converted to their methyl esters in near quantitative yields, e.g., for analysis by [[gas chromatography]]. The method is useful in specialized organic synthetic operations but is considered too expensive for large scale applications.
+
+=== Alcoholysis of acyl chlorides and acid anhydrides ===
+Alcohols react with [[acyl chloride]]s and [[acid anhydride]]s to give esters:
+: RCOCl + R'OH → RCO<sub>2</sub>R' + HCl
+: (RCO)<sub>2</sub>O + R'OH → RCO<sub>2</sub>R' + RCO<sub>2</sub>H
+
+The reactions are irreversible simplifying [[work-up (chemistry)|work-up]]. Since acyl chlorides and acid anhydrides also react with water, anhydrous conditions are preferred. The analogous acylations of amines to give [[amide]]s are less sensitive because amines are stronger nucleophiles and react more rapidly than does water. This method is employed only for laboratory-scale procedures, as it is expensive.
+
+===Alkylation of carboxylate salts===
+Although not widely employed for esterifications, salts of carboxylate anions can be alkylating agent with [[alkyl halide]]s to give esters. In the case that an [[alkyl chloride]] is used, an iodide salt can catalyze the reaction ([[Finkelstein reaction]]). The carboxylate salt is often generated ''in situ''. In difficult cases, the silver carboxylate may be used, since the silver ion coordinates to the halide aiding its departure and improving the reaction rate. This reaction can suffer from anion availability problems and, therefore, can benefit from the addition of [[phase transfer catalyst]]s or highly polar [[aprotic solvent]]s such as [[Dimethylformamide|DMF]].
+
+===Transesterification===
+[[Transesterification]], which involves changing one ester into another one, is widely practiced:
+: RCO<sub>2</sub>R' + CH<sub>3</sub>OH → RCO<sub>2</sub>CH<sub>3</sub> + R'OH
+Like the hydrolysation, transesterification is catalysed by acids and bases. The reaction is widely used for degrading [[triglyceride]]s, e.g. in the production of fatty acid esters and alcohols. [[Poly(ethylene terephthalate)]] is produced by the transesterification of [[dimethyl terephthalate]] and ethylene glycol:<ref name=Ullmann/> 
+:: (C<sub>6</sub>H<sub>4</sub>)(CO<sub>2</sub>CH<sub>3</sub>)<sub>2</sub> + 2 C<sub>2</sub>H<sub>4</sub>(OH)<sub>2</sub> → 1/n {(C<sub>6</sub>H<sub>4</sub>)(CO<sub>2</sub>)<sub>2</sub>(C<sub>2</sub>H<sub>4</sub>)}<sub>n</sub> + 2 CH<sub>3</sub>OH
+
+===Carbonylation===
+Alkenes undergo "[[hydroesterification]]" in the presence of [[metal carbonyl]] catalysts. Esters of [[propionic acid]] are produced commercially by this method:
+:C<sub>2</sub>H<sub>4</sub> + ROH + CO → C<sub>2</sub>H<sub>5</sub>CO<sub>2</sub>R
+The carbonylation of [[methanol]] yields [[methyl formate]], which is the main commercial source of [[formic acid]]. The reaction is catalyzed by [[sodium methoxide]]:
+:CH<sub>3</sub>OH + CO → CH<sub>3</sub>O<sub>2</sub>CH
+
+===Addition of carboxylic acids to alkenes===
+In the presence of [[palladium]]-based catalysts, ethylene, [[acetic acid]], and [[oxygen]] react to give [[vinyl acetate]]:
+:C<sub>2</sub>H<sub>4</sub> + CH<sub>3</sub>CO<sub>2</sub>H + 1/2 O<sub>2</sub> → C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>CCH<sub>3</sub> + H<sub>2</sub>O
+Direct routes to this same ester are not possible because [[vinyl alcohol]] is unstable.
+
+=== Other methods ===
+* [[Favorskii rearrangement]] of α-haloketones in presence of base
+* [[Baeyer-Villiger oxidation]] of ketones with peroxides
+* [[Pinner reaction]] of [[nitrile]]s with an alcohol
+* [[Nucleophilic abstraction]] of a metal-acyl complex
+*Hydrolysis of [[orthoesters]] in aqueous acid
+*Cellulolysis via esterification <ref name="Synthesis of glucose esters from cellulose in ionic liquids">{{cite journal|last=Ignatyev|first=Igor|author2=Charlie Van Doorslaer |author3=Pascal G.N. Mertens |author4=Koen Binnemans |author5=Dirk. E. de Vos |journal=Holzforschung|year=2011|volume=66|issue=4|pages=417–425|title=Synthesis of glucose esters from cellulose in ionic liquids|doi=10.1515/hf.2011.161|url=http://www.degruyter.com/view/j/hfsg.2012.66.issue-4/hf.2011.161/hf.2011.161.xml}}</ref>
+* [[Ozonolysis]] of [[alkene]]s using a [[Work-up (chemistry)|work up]] in the presence of [[hydrochloric acid]] and various [[alcohols]].<ref>{{cite journal|last1=Neumeister|first1=Joachim|last2=Keul|first2=Helmut|last3=Pratap Saxena|first3=Mahendra|last4=Griesbaum|first4=Karl|title=Ozone Cleavage of Olefins with Formation of Ester Fragments|journal=Angewandte Chemie International Edition in English|date=1978|volume=17|issue=12|pages=939–940|doi=10.1002/anie.197809392}}</ref>
+* [[Electrosynthesis#Anodic oxidations|Anodic oxidation]] of [[Methyl group|methyl]] [[ketones]] leading to methyl esters.<ref>{{cite journal|last1=Makhova|first1=Irina V.|last2=Elinson|first2=Michail N.|last3=Nikishin|first3=Gennady I.|title=Electrochemical oxidation of ketones in methanol in the presence of alkali metal bromides|journal=Tetrahedron|date=1991|volume=47|issue=4-5|pages=895–905|doi=10.1016/S0040-4020(01)87078-2}}</ref>
+
+== Reactions ==
+Esters react with nucleophiles at the carbonyl carbon. The carbonyl is weakly electrophilic but is attacked by strong nucleophilies (amines, alkoxides, hydride sources, organolithium compounds, etc.). The C-H bonds adjacent to the carbonyl are weakly acidic but undergo deprotonation with strong bases. This process is the one that usually initiates condensation reactions. The carbonyl oxygen is weakly basic (less so than in amides) but forms [[adduct]]s.
+
+===Addition of nucleophiles at carbonyl===
+Esterification is a reversible reaction. Esters undergo [[hydrolysis]] under acid and basic conditions. Under acidic conditions, the reaction is the reverse reaction of the [[Fischer esterification]]. Under basic conditions, [[hydroxide]] acts as a nucleophile, while an alkoxide is the leaving group. This reaction, [[saponification]], is the basis of soap making.
+:[[Image:Ester hydrolysis.png|400px|Ester saponification (basic hydrolysis)]]
+
+The alkoxide group may also be displaced by stronger nucleophiles such as [[ammonia]] or primary or secondary [[amine]]s to give [[amide]]s: (ammonolysis reaction)
+:: RCO<sub>2</sub>R' + NH<sub>2</sub>R" → RCONHR" + R'OH
+This reaction is not usually reversible. Hydrazines and hydroxylamine can be used in place of amines. Esters can be converted to [[isocyanate]]s through intermediate [[hydroxamic acid]]s in the [[Lossen rearrangement]].
+
+Sources of carbon nucleophiles, e.g., [[Grignard reagent]]s and organolithium compounds, add readily to the carbonyl.
+
+=== Reduction ===
+Compared to ketones and aldehydes, esters are relatively resistant to reduction. The introduction of catalytic hydrogenation in the early part of the 20th century was a breakthrough; esters of fatty acids are hydrogenated to [[fatty alcohol]]s.
+:: RCO<sub>2</sub>R' + 2 H<sub>2</sub> → RCH<sub>2</sub>OH + R'OH
+A typical catalyst is [[copper chromite]]. Prior to the development of [[catalytic hydrogenation]], esters were reduced on a large scale using the [[Bouveault-Blanc reduction]]. This method, which is largely obsolete, uses sodium in the presence of proton sources.
+
+Especially for fine chemical syntheses, [[lithium aluminium hydride]] is used to reduce esters to two primary alcohols. The related reagent sodium borohydride is slow in this reaction. [[DIBAH]] reduces esters to aldehydes.<ref>{{cite web | author = W. Reusch | title = Carboxyl Derivative Reactivity | url = http://www.cem.msu.edu/~reusch/VirtualText/crbacid2.htm#react2 | work = Virtual Textbook of Organic Chemistry}}</ref>
+
+Direct reduction to give the corresponding [[ether]] is difficult as the intermediate [[hemiacetal]] tends to decompose to give an alcohol and an aldehyde (which is rapidly reduced to give a second alcohol). The reaction can be achieved using [[triethylsilane]] with a variety of Lewis acids.<ref>{{cite journal|last1=Yato|first1=Michihisa|last2=Homma|first2=Koichi|last3=Ishida|first3=Akihiko|title=Reduction of carboxylic esters to ethers with triethyl silane in the combined use of titanium tetrachloride and trimethylsilyl trifluoromethanesulfonate|journal=Tetrahedron|date=June 2001|volume=57|issue=25|pages=5353–5359|doi=10.1016/S0040-4020(01)00420-3}}</ref><ref>{{cite journal|last1=Sakai|first1=Norio|last2=Moriya|first2=Toshimitsu|last3=Konakahara|first3=Takeo|title=An Efficient One-Pot Synthesis of Unsymmetrical Ethers:  A Directly Reductive Deoxygenation of Esters Using an InBr3/Et3SiH Catalytic System|journal=The Journal of Organic Chemistry|date=July 2007|volume=72|issue=15|pages=5920–5922|doi=10.1021/jo070814z|pmid=17602594}}</ref>
+
+=== Claisen condensation and related reactions===
+As for [[aldehydes]], the hydrogen atoms on the carbon adjacent ("α to") the carboxyl group in esters are sufficiently acidic to undergo deprotonation, which in turn leads to a variety of useful reactions. Deprotonation requires relatively strong bases, such as [[alkoxide]]s. Deprotonation gives a nucleophilic [[enolate]], which can further react, e.g., the [[Claisen condensation]] and its intramolecular equivalent, the [[Dieckmann condensation]]. This conversion is exploited in the [[malonic ester synthesis]], wherein the diester of [[malonic acid]] reacts with an electrophile (e.g., [[alkyl halide]]), and is subsequently decarboxylated. Another variation is the [[Fráter–Seebach alkylation]].
+
+=== Other reactions ===
+* Phenyl esters react to hydroxyarylketones in the [[Fries rearrangement]].
+* Specific esters are functionalized with an α-hydroxyl group in the [[Chan rearrangement]].
+* Esters with β-hydrogen atoms can be converted to alkenes in [[ester pyrolysis]].
+*A direct conversion of esters to [[nitriles]].<ref>{{Cite journal | doi = 10.1016/S0040-4039(01)86746-0| title = A direct conversion of esters to nitriles| journal = Tetrahedron Letters| volume = 20| issue = 51| pages = 4907| year = 1979| last1 = Wood | first1 = J. L. | last2 = Khatri | first2 = N. A. | last3 = Weinreb | first3 = S. M. }}</ref>
+
+=== Protecting groups ===
+As a class, esters serve as [[protecting group]]s for [[carboxylic acid]]s. Protecting a carboxylic acid is useful in peptide synthesis, to prevent self-reactions of the bifunctional [[amino acid]]s. Methyl and ethyl esters are commonly available for many amino acids; the ''t''-butyl ester tends to be more expensive. However, ''t''-butyl esters are particularly useful because, under strongly acidic conditions, the ''t''-butyl esters undergo elimination to give the carboxylic acid and [[isobutylene]], simplifying work-up.
+
+==List of ester odorants ==
+Many esters have distinctive fruit-like odors, and many occur naturally in the essential oils of plants. This has also led to their commonplace use in artificial flavorings and fragrances when those odors aim to be mimicked.
+
+{| class="wikitable"
+|-
+! valign="top" align="left"| Ester Name
+! valign="top" align="left"| Formula
+! valign="top" align="left"| Odor or occurrence
+|-
+| [[Allyl hexanoate]] 
+| [[File:Prop-2-enyl hexanoate.svg|75px]]
+| [[pineapple]]
+|-
+| [[Benzyl acetate]]
+| [[File:Benzyl acetate-structure.svg|75px]]
+| [[pear]], [[strawberry]], [[jasmine]]
+|-
+| [[Bornyl acetate]]
+| [[File:Bornyl acetate.svg|75px]]
+| [[pine]]
+|-
+| [[Butyl acetate]]
+| [[File:Butylacetat.svg|75px]]
+|| [[apple]], [[honey]]
+|-
+| [[Butyl butyrate]]
+| [[File:Butyl butyrate2.svg|75px]]
+|| [[pineapple]]
+|-
+| [[Butyl propanoate]]
+| 
+|| [[pear drops]]
+|-
+| [[Ethyl acetate]]
+| [[File:Ethyl acetate2.svg|75px]]
+| [[nail polish remover]], [[scale model|model]] [[paint]], [[model aircraft|model airplane]] [[adhesive|glue]]
+|- 
+| [[Ethyl benzoate]]
+| [[File:Ethyl_benzoate_svg.svg|75px]]
+| [[sweet]], [[wintergreen]], [[fruit|fruity]], medicinal, [[cherry]], [[grape]]
+|-
+| [[Ethyl butyrate]]
+| [[File:Ethyl butyrate2.svg|75px]]
+| [[banana]], [[pineapple]], [[strawberry]]
+|-
+| [[Ethyl hexanoate]] 
+| [[File:Ethyl-hexanoate.svg|75px]]
+| [[pineapple]], [[waxy-green banana]]
+|-
+| [[Ethyl cinnamate]]
+| [[File:Ethyl-cinnamate.svg|75px]]
+| [[cinnamon]]
+|-
+| [[Ethyl formate]]
+| [[File:Ethyl-formate.svg|75px]]
+| [[lemon]], [[rum]], [[strawberry]]
+|-
+| [[Ethyl heptanoate]]
+| [[File:Ethyl-heptanoate.svg|75px]]
+| [[apricot]], [[cherry]], [[grape]], [[raspberry]]
+|-
+| [[Ethyl isovalerate]]
+| [[File:Ethyl-isovalerate.svg|75px]]
+| [[apple]]
+|-
+| [[Ethyl lactate]] 
+| [[File:Ethyl lactate.svg|75px]]
+| [[butter]], [[cream]]
+|-
+| [[Ethyl nonanoate]]
+| [[File:Ethyl-nonanoate.svg|75px]]
+| [[grape]]
+|-
+| [[Ethyl pentanoate]]
+| [[File:Ethyl valerate.svg|75px]]
+| [[apple]]
+|-
+| [[Geranyl acetate]]
+| [[File:Geranyl-acetate.svg|75px]]
+| [[Pelargonium|geranium]]
+|-
+| [[Geranyl butyrate]]
+| [[File:Geranyl butyrate.svg|75px]]
+| [[cherry]]
+|-
+| [[Geranyl pentanoate]]
+| [[File:Geranyl pentanoate.svg|75px]]
+| [[apple]]
+|-
+| [[Isobutyl acetate]]
+| [[File:Isobutyl-acetate.svg|75px]]
+| [[cherry]], [[raspberry]], [[strawberry]]
+|-
+| [[Isobutyl formate]]
+| [[File:Isobutyl formate.svg|75px]]
+| [[raspberry]]
+|-
+| [[Isoamyl acetate]]
+| [[File:Isoamyl acetate.svg|75px]]
+| [[pear]], [[banana]] (flavoring in [[Pear drop]]s)
+|-
+| [[Isopropyl acetate]] 
+| [[File:Isopropyl acetate.svg|75px]]
+| fruity
+|-
+| [[Linalyl acetate]]
+| [[File:Linalyl acetate.svg|75px]]
+| [[lavender]], [[Common sage|sage]]
+|-
+| [[Linalyl butyrate]]
+| [[File:Linalyl butyrate.svg|75px]]
+| [[peach]]
+|-
+| [[Linalyl formate]]
+| [[File:Linalyl formate.svg|75px]]
+| [[apple]], [[peach]]
+|-
+| [[Methyl acetate]]
+| [[File:Methyl-acetate.svg|75px]]
+| [[glue]]
+|-
+| [[Methyl anthranilate]]
+| [[File:Methyl anthranilate.svg|75px]]
+| [[grape]], [[jasmine]]
+|-
+| [[Methyl benzoate]]
+| [[File:Methyl benzoate.svg|75px]]
+| fruity, [[ylang ylang]], [[feijoa]]
+|-
+| [[Methyl butyrate]] (methyl butanoate)
+| [[File:Buttersauremethylester.svg|75px]]
+| [[pineapple]], [[apple]], [[strawberry]]
+|-
+| [[Methyl cinnamate]]
+| [[File:methyl cinnamate.svg|75px]]
+| [[strawberry]]
+|-
+| [[Methyl pentanoate]] (methyl valerate)
+| [[File:Methyl pentanoate.svg|75px]]
+| [[flower]]y
+|-
+| [[Methyl phenylacetate]]
+| [[File:Methyl phenylacetate.svg|75px]]
+| [[honey]]
+|-
+| [[Methyl salicylate]] ([[oil of wintergreen]])
+| [[File:Methyl salicylate.svg|75px]]
+| Modern [[root beer]], [[wintergreen]], [[Germolene]] and [[Ralgex]] ointments (UK)
+|-
+| [[Nonyl caprylate]]
+| [[File:Nonyl caprylate.svg|75px]]
+| [[orange (fruit)|orange]]
+|-
+| [[Octyl acetate]]
+| [[File:Octyl acetate.svg|75px]]
+| fruity-[[orange (fruit)|orange]]
+|-
+| [[Octyl butyrate]]
+| [[File:Octyl butyrate.svg|75px]]
+| [[parsnip]]
+|-
+| [[Amyl acetate]] (pentyl acetate)
+| [[File:Amyl acetate.svg|75px]]
+| [[apple]], [[banana]]
+|-
+| [[Pentyl butyrate]] (amyl butyrate)
+| [[File:Pentyl butyrate.svg|75px]]
+| [[apricot]], [[pear]], [[pineapple]]
+|-
+| [[Pentyl hexanoate]] (amyl caproate)
+| [[File:Pentyl hexanoate.svg|75px]]
+| [[apple]], [[pineapple]]
+|-
+| [[Pentyl pentanoate]] (amyl valerate)
+| [[File:Pentyl pentanoate.svg|75px]]
+| [[apple]]
+|-
+| [[Propyl acetate]]
+| [[File:Propyl acetate.svg|75px]]
+| [[pear]]
+|-
+| [[Propyl hexanoate]]
+| [[File:Propyl-hexanoate.svg|75px]]
+| [[blackberry]], [[pineapple]], [[cheese]], [[wine]]
+|-
+| [[Propyl isobutyrate]]
+| [[File:Propyl isobutyrate.svg|75px]]
+| [[rum]]
+|-
+| [[Terpenyl butyrate]]
+| [[File:Terpenyl butyrate.svg|75px]]
+| | [[cherry]]
+|}
+
+==See also==
+
+* [[Cyanate ester]]
+* [[Oligoester]]
+* [[Polyolester]]
+* [[Transesterification]]
+* [[Transamidification]]
+
+== References ==
+{{reflist|2}}
+
+== External links ==
+{{wikiquote}}
+* [http://www.chemguide.co.uk/organicprops/esters/background.html An introduction to esters]
+* [http://www.chm.bris.ac.uk/motm/ethylacetate/ethylh.htm Molecule of the month: Ethyl acetate and other esters]
+
+{{Functional Groups}}
+
+{{Authority control}}
+[[Category:Functional groups]]
+[[Category:Esters| ]]

@@ -1,0 +1,7 @@
+#redirect[[Visual impairment]]
+
+{{R from merge}}
+
+[[Category:Blindness| ]]
+[[Category:Visual disturbances and blindness]]
+{{bots|deny=KasparBot}}

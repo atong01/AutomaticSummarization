@@ -1,0 +1,37 @@
+{{Wiktionary|ERP}}
+'''ERP''' or '''Erp''' may refer to:
+{{TOC right}}
+
+==Medicine==
+* [[Effective refractory period]], in a cardiac cycle
+* [[Event-related potential]], a measured brain response
+* [[Exposure and response prevention]], a treatment method
+
+==People==
+* [[Erp (Pict)]], father of Drest I of the Picts
+
+==Places==
+* [[Erp, Ariège]], a village in southern France
+* [[Erp (Germany)]], a village in Germany
+* [[Erp, Netherlands]], a town in the Netherlands
+
+==Politics and economics==
+* [[Economic Report of the President]], a document published by the President of the United States' Council of Economic Advisers
+* [[Effective rate of protection]], a method of working out the value of import tariffs
+* [[Ejército Revolucionario del Pueblo (disambiguation)|''Ejército Revolucionario del Pueblo'' (disambiguation)]], (Spanish for People's Revolutionary Army), in several Latin American countries
+* [[Equity risk premium]], excess return on risky investments
+* [[Estonian Reform Party]]
+* [[European Recovery Program]], official name of the Marshall Plan
+
+==Technology==
+* [[Effective radiated power]], in electromagnetic transmission systems, a standardised theoretical measurement of radio frequency energy
+* [[Electronic Road Pricing]], an electronic toll collection scheme adopted in Singapore to manage traffic by way of road pricing
+* Energy Risk Professional, a certification issued by the [[Global Association of Risk Professionals]]
+* [[Enterprise resource planning]], business management software
+* [[Energy-related products]], devices that have an impact on energy consumption, and are subject to Energy Efficiency requirements
+
+==See also==
+* [[Ethernet Ring Protection Switching]], (ERPS) used in Ethernet networks
+* [[Earp (disambiguation)|Earp]]
+
+{{disambiguation|geo}}

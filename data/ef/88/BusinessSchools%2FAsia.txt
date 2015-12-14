@@ -1,0 +1,3 @@
+#REDIRECT [[List of business schools in Asia]]
+
+{{This is a redirect|from CamelCase|from subpage}}

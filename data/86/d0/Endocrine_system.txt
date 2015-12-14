@@ -1,0 +1,573 @@
+{{Infobox anatomy
+| Name        = Endocrine system
+| Latin       = Systema endocrinum
+| Image       = File:Illu endocrine system New.png
+| Caption     = Main glands of the endocrine system
+| Width       = 
+| Image2      = 
+| Caption2    = 
+| MeshName    = 
+| MeshNumber  = 
+| Dorlands    = 
+| DorlandsID  = 
+}}
+The '''endocrine system''' refers to the collection of [[gland]]s of an organism that [[secrete]] [[hormone]]s directly into the [[circulatory system]] to be carried towards distant target organs. The major [[endocrine gland]]s include the [[pineal gland]], [[pituitary gland]], [[pancreas]], [[Ovary|ovaries]], [[Testicle|testes]], [[thyroid|thyroid gland]], [[parathyroid gland]], [[hypothalamus]], [[gastrointestinal tract]] and [[adrenal gland]]s.  The endocrine system is in contrast to the [[exocrine system]], which secretes its hormones using [[Duct (anatomy)|ducts]]. The endocrine system is an information signal system like the nervous system, yet its effects and mechanism are classifiably different.  The endocrine system's effects are slow to initiate, and prolonged in their response, lasting from a few hours up to weeks.  The nervous system sends information very quickly, and responses are generally short lived.  In [[vertebrate]]s, the [[hypothalamus]] is the neural control center for all endocrine systems. The field of study dealing with the endocrine system and its disorders is [[endocrinology]], a branch of [[internal medicine]].<ref name=Marieb>{{cite book | last = Marieb | first = Elaine | title = Anatomy & physiology | publisher = Pearson Education, Inc | location = Glenview, IL | year = 2014 | isbn = 978-0321861580 }}</ref>
+Special features of [[endocrine gland]]s are, in general, their ductless nature, their vascularity, and commonly the presence of intracellular vacuoles or granules that store their hormones. In contrast, [[exocrine gland]]s, such as [[salivary gland]]s, [[sweat gland]]s, and [[glands]] within the [[gastrointestinal tract]], tend to be much less vascular and have ducts or a hollow [[Lumen (anatomy)|lumen]].
+
+In addition to the specialised endocrine organs mentioned above, many other organs that are part of other body systems, such as [[bone]], [[kidney]], [[liver]], [[heart]] and [[gonad]]s, have secondary endocrine functions. For example the kidney secretes endocrine hormones such as [[erythropoietin]] and [[renin]]. Hormones can consist of either amino acid complexes, steroids, eicosanoids, leukotienes, or prostiglandins.<ref name=Marieb/>
+
+A number of glands that signal each other in sequence are usually referred to as an axis, for example, the [[hypothalamic-pituitary-adrenal axis]].
+
+As opposed to endocrine factors that travel considerably longer distances via the circulatory system, other signaling molecules, such as [[paracrine]] factors involved in [[paracrine signalling]] diffuse over a relatively short distance.
+
+The word endocrine derives from the Greek words ἐνδο- ''endo-'' "inside, within," and κρίνειν ''krinein'' "to separate, distinguish".
+
+==Endocrine organs and known secreted hormones==
+
+[[File:Endocrine central nervous en.svg|thumb|500px|center| Endocrine glands in the human head and neck and their hormones]]
+
+=== [[Hypothalamus]] ===
+
+{| class="wikitable" width=100%
+! width=25% | Secreted hormone !! width=6% | Abbreviation !! width=17% | Produced by !! Effect
+|-
+! [[Thyrotropin-releasing hormone]]
+| TRH || [[Paraventricular nucleus of hypothalamus|Parvocellular neurosecretory neurons]] || Stimulate [[Thyroid-stimulating hormone|thyroid-stimulating hormone (TSH)]] release from [[anterior pituitary]] (primarily)
+|-
+! [[Dopamine]] <br>(Prolactin-inhibiting hormone)
+| DA or PIH || [[Arcuate nucleus|Dopamine neurons of the arcuate nucleus]]  || Inhibit [[prolactin]] released from [[anterior pituitary]] <!-- Not effects from hypothalamus: Numerous brain functions (behavior, [[cognition]], [[animal locomotion|movement]], [[motivation]], [[reward system|reward]], [[sleep]], [[Mood (psychology)|mood]], [[attention]], and [[learning]])-->
+|-
+! [[Growth hormone-releasing hormone]]
+| GHRH || [[Neuroendocrine]] neurons of the [[Arcuate nucleus]]  ||  Stimulate [[Growth hormone|Growth hormone (GH)]] release from [[anterior pituitary]]
+|-
+! [[Somatostatin]] <br>(growth hormone-inhibiting hormone)
+| SS, GHIH, or SRIF || [[Neuroendocrine]] cells of the [[Periventricular nucleus]]  || Inhibit [[Growth hormone|Growth hormone (GH)]] release from [[anterior pituitary]] <br>Inhibit [[Thyroid-stimulating hormone|thyroid-stimulating hormone (TSH)]] release from [[anterior pituitary]]
+|-
+! [[Gonadotropin-releasing hormone]]
+| GnRH or LHRH || [[Neuroendocrine]] cells of the [[Preoptic area]]  || Stimulate [[Follicle-stimulating hormone|follicle-stimulating hormone (FSH)]] release from [[anterior pituitary]] <br>Stimulate [[Luteinizing hormone|luteinizing hormone (LH)]] release from [[anterior pituitary]]
+|-
+! [[Corticotropin-releasing hormone]]
+| CRH or CRF || [[Parvocellular neurosecretory cell|Parvocellular neurosecretory neurons]] of the [[Paraventricular nucleus of hypothalamus|Paraventricular Nucleus]]  || Stimulate [[Adrenocorticotropic hormone|adrenocorticotropic hormone (ACTH)]] release from [[anterior pituitary]]
+|-
+! [[Vasopressin]] <br>(antidiuretic hormone)
+| ADH or AVP or VP  || [[Parvocellular neurosecretory cell|Parvocellular neurosecretory neurons]], [[Magnocellular neurosecretory cell|Magnocellular neurosecretory neurons]] of the [[Paraventricular nucleus]] and [[Supraoptic nucleus]]  || Increases water permeability in the distal convoluted tubule and collecting duct of [[nephrons]], thus promoting water reabsorption and increasing blood volume
+|}
+
+=== [[Pineal body]] (epiphysis) ===
+{| class="wikitable" width=100%
+! width=25% | Secreted hormone !! width=25% | From cells !! Effect
+|- 
+! [[Melatonin]] 
+|[[Pinealocytes]] || [[Antioxidant]] <br>Monitors the [[circadian rhythm]] including induction of [[drowsiness]] and lowering of the [[core body temperature]]
+|-
+|}
+
+=== Pituitary gland (hypophysis) ===
+The [[pituitary gland]] (or hypophysis) is an endocrine gland about the size of a pea and weighing {{convert|0.5|g|oz}} in humans. It is a protrusion off the bottom of the [[hypothalamus]] at the base of the [[brain]], and rests in a small, bony cavity ([[sella turcica]]) covered by a [[Dura mater|dural]] fold  ([[diaphragma sellae]]). The pituitary is functionally connected to the [[hypothalamus]] by the [[median eminence]] via a small tube called the infundibular stem or [[pituitary stalk]]. The pituitary fossa, in which the pituitary gland sits, is situated in the [[sphenoid bone]] in the [[middle cranial fossa]] at the base of the brain. The pituitary gland secretes nine [[hormone]]s that regulate [[homeostasis]] and the secretion of other hormones.{{citation needed|date=June 2013}}
+
+==== [[Anterior pituitary]] lobe (adenohypophysis) ====
+{| class="wikitable" width=100%
+! width=25% |  Secreted hormone !! width=8% | Abbreviation !! width=17% | From cells !! Effect
+|- 
+! [[Growth hormone]] <br>(somatotropin)
+|  GH  || [[Somatotroph]]s || Stimulates [[human development (biology)|growth]] and [[cell (biology)|cell]] reproduction <br>Stimulates [[Insulin-like growth factor 1]] release from [[liver]]
+|-
+! [[Thyroid-stimulating hormone]] <br>(thyrotropin)
+| TSH  || [[Thyrotrophs]] || Stimulates [[thyroxine]] (T4) and [[triiodothyronine]] (T3) synthesis and release from [[thyroid gland]] <br>Stimulates iodine absorption by thyroid gland
+|-
+! [[Adrenocorticotropic hormone]] <br>(corticotropin)
+| ACTH || [[Corticotrophs]] || Stimulates [[corticosteroid]] ([[glucocorticoid]] and [[mineralcorticoid]]) and [[androgen]] synthesis and release from [[Adrenal cortex|adrenocortical cells]]
+|-
+! [[Beta-endorphin]]
+| – || [[Corticotrophs]] || Inhibits perception of pain
+|-
+! [[Follicle-stimulating hormone]]
+| FSH || [[Gonadotroph]]s || In females: Stimulates maturation of [[ovarian follicle]]s in [[ovary]] <br>In males: Stimulates maturation of [[seminiferous tubule]]s <br>In males: Stimulates [[spermatogenesis]] <br>In males: Stimulates production of [[androgen-binding protein]] from [[Sertoli cell]]s of the [[testes]]
+|-
+! [[Luteinizing hormone]]
+| LH  || [[Gonadotroph]]s  || In females: Stimulates [[ovulation]] <br>In females: Stimulates formation of [[corpus luteum]] <br>In males: Stimulates [[testosterone]] synthesis from [[Leydig cell|Leydig cells (interstitial cells)]]
+|-
+! [[Prolactin]]
+| PRL  || [[Lactotroph]]s || Stimulates milk synthesis and release from [[mammary glands]] <br>Mediates [[orgasm|sexual gratification]]
+|-
+! [[Melanocyte-stimulating hormone]]
+| MSH  || [[Melanotrope]]s in the [[Pars intermedia]] of the Anterior Pituitary || Stimulates [[melanin]] synthesis and release from skin/hair [[melanocytes]]
+|}
+
+==== [[Posterior pituitary]] lobe (neurohypophysis) ====
+{| class="wikitable" width=100%
+! width=25% | Stored hormone !! width=8% | Abbreviation !! width=17% | From cells !! Effect
+|-
+! [[Oxytocin]]
+|   || [[Magnocellular neurosecretory cell]]s || In females: [[uterine contraction]] during birthing, [[Letdown reflex|lactation (letdown reflex)]] when nursing<!--Not effects from hypothalamus: sexual arousal, bonding, trust, material behavior-->
+|-
+! [[Vasopressin]] <br>(antidiuretic hormone)
+| ADH or AVP  || [[Paraventricular nucleus of hypothalamus|Parvocellular neurosecretory neurons]]  || Increases water permeability in the distal convoluted tubule and collecting duct of [[nephrons]], thus promoting water reabsorption and increasing blood volume
+|}
+
+Oxytocin and anti-diuretic hormone are not secreted in the posterior lobe, merely stored.
+
+===[[Thyroid]]===
+{| class="wikitable" width=100%
+! width=25% | Secreted hormone !! width=8% | Abbreviation !! width=17% | From cells !! Effect
+|-
+![[Triiodothyronine]]
+| T3 || [[Thyroid epithelial cell]]  || (More potent form of [[thyroid hormone]]) <br>Stimulates body oxygen and energy consumption, thereby increasing the [[basal metabolic rate]] <br>Stimulates [[RNA polymerase]] I and II, thereby promoting [[protein synthesis]]
+|-
+! [[Thyroxine]] <br>(tetraiodothyronine)
+| T4  || [[Thyroid epithelial cell]]''s  || (Less active form of [[thyroid hormone]]) <br>(Acts as a [[prohormone]] to [[triiodothyronine]]) <br>Stimulates body oxygen and energy consumption, thereby increasing the [[basal metabolic rate]] <br>Stimulates [[RNA polymerase]] I and II, thereby promoting [[protein synthesis]]
+|-
+! [[Calcitonin]]
+|   || [[Parafollicular cell]]''s || Stimulates [[osteoblast]]s and thus bone construction <br>Inhibits [[calcium|Ca<sup>2+</sup>]] release from bone, thereby reducing blood Ca<sup>2+</sup>
+|}
+
+===Alimentary system===
+[[File:Endocrine Alimentary system en.svg|thumb|400px|center]]
+
+====[[Stomach]]====
+{| class="wikitable" width=100%
+! width=25% | Secreted hormone !! width=8% | Abbreviation !! width=17% | From cells !! Effect
+|-
+! [[Gastrin]] (Primarily) 
+|   || [[G cell]]s  || Secretion of [[gastric acid]] by [[parietal cell]]s
+|-
+! [[Ghrelin]]
+|   || [[P/D1 cell]]s || Stimulate [[appetite]].
+|-
+! [[Neuropeptide Y]]
+|  NPY ||   || Increased food intake and decreased physical activity. It can be associated with [[obesity]].
+|-
+! [[Somatostatin]]
+|   || [[Delta cell|D cell]]s  || Suppress release of [[gastrin]], [[cholecystokinin]] (CCK), [[secretin]], [[motilin]], [[vasoactive intestinal peptide]] (VIP), [[gastric inhibitory polypeptide]] (GIP), [[enteroglucagon]]
+Lowers rate of gastric emptying
+
+Reduces [[smooth muscle]] contractions and blood flow within the intestine.<ref name="Colorado">Colorado State University – [http://www.vivo.colostate.edu/hbooks/pathphys/endocrine/otherendo/somatostatin.html Biomedical Hypertextbooks – Somatostatin]</ref>
+|-
+! [[Histamine]]
+|   || [[ECL cell]]s  || stimulate [[gastric acid]] secretion
+|-
+! [[Endothelin]]
+|   || [[X cell]]s || [[Smooth muscle]] contraction of stomach<ref>{{cite journal |doi=10.1540/jsmr.41.35 |author=Endo K, Matsumoto T, Kobayashi T, Kasuya Y, Kamata K |title=Diabetes-related changes in contractile responses of stomach fundus to endothelin-1 in streptozotocin-induced diabetic rats |journal=J Smooth Muscle Res |volume=41 |issue=1 |pages=35–47 |year=2005 |pmid=15855738 |url=http://www.jstage.jst.go.jp/article/jsmr/41/1/35/_pdf}}</ref>
+|}
+
+====[[Duodenum]] (small intestine)====
+{| class="wikitable" width=100%
+! width=25% | Secreted hormone !! width=25% | From cells !! Effect
+|-
+! [[Secretin]]
+|[[S cell]]s  || Secretion of [[bicarbonate]] from [[liver]], [[pancreas]] and duodenal [[Brunner's gland]]s
+Enhances effects of [[cholecystokinin]],
+stops production of gastric juice
+|-
+! [[Cholecystokinin]]
+|[[cholecystokinin|I cell]]s  || Release of digestive [[enzyme]]s from [[pancreas]]
+Release of [[bile]] from [[gallbladder]],
+[[hunger]] suppressant
+|}
+
+====[[Liver]]====
+{| class="wikitable" width=100%
+! width=25% |  Secreted hormone !! width=8% | Abbreviation !! width=17% | From cells !! Effect
+|-
+! [[Insulin-like growth factor]] (or somatomedin) (Primarily)
+| IGF  || [[Hepatocyte]]s  || insulin-like effects
+regulate [[cell growth]] and development
+|-
+! [[Angiotensinogen]] and [[angiotensin]]
+|   || Hepatocytes  || [[vasoconstriction]]
+release of [[aldosterone]] from [[adrenal cortex]]
+[[dipsogen]].
+|-
+! [[Thrombopoietin]]
+|  THPO || Hepatocytes  || stimulates [[megakaryocyte]]s to produce [[platelets]]<ref name=Kaushansky2006/>
+|-
+! [[Hepcidin]]
+|   || Hepatocytes  || inhibits intestinal [[iron]] absorption and iron release by [[macrophage]]s
+|}
+
+====[[Pancreas]]====
+Pancreas is a mixocrine gland and it secretes both enzymes and hormones.
+{| class="wikitable" width=100%
+! width=25% |  Secreted hormone !! width=25% | From cells !! Effect
+|-
+! [[Insulin]] (Primarily) 
+|[[Beta cell|β Islet cells]]  || Intake of [[glucose]], [[glycogenesis]] and [[glycolysis]] in [[liver]] and [[muscle]] from blood.
+Intake of [[lipid]]s and synthesis of [[triglyceride]]s in [[adipocytes]].
+Other [[anabolism|anabolic]] effects
+|-
+! [[Glucagon]] (Also Primarily) 
+|[[Alpha cell|α Islet cells]]  || [[Glycogenolysis]] and [[gluconeogenesis]] in [[liver]].
+Increases blood glucose level.
+|-
+! [[Somatostatin]]
+|[[Delta cell|δ Islet cells]]  || Inhibit release of [[insulin]]<ref name=GP5417>{{GeorgiaPhysiology|5/5ch4/s5ch4_17}}</ref>
+Inhibit release of [[glucagon]]<ref name=GP5417/>
+Suppress the exocrine secretory action of [[pancreas]].
+|-
+! [[Pancreatic polypeptide]]
+| [[PP cell]]s  || Self regulate the pancreas secretion activities and effect the hepatic glycogen levels.
+|}
+
+===[[Kidney]]===
+{| class="wikitable" width=100%
+! width=25% | Secreted hormone !! width=25% | From cells !! Effect
+|-
+! [[Renin]] (Primarily) 
+| [[Juxtaglomerular cell]]s || Activates the [[renin-angiotensin system]] by producing [[angiotensin I]] of [[angiotensinogen]]
+|-
+! [[Erythropoietin]] (EPO) 
+| [[Extraglomerular mesangial cell]]s || Stimulate [[erythrocyte]] production
+|-
+! [[Calcitriol]] (1,25-dihydroxyvitamin D<sub>3</sub>)
+|  || Active form of [[vitamin D3|vitamin D<sub>3</sub>]]
+Increase absorption of [[calcium]] and [[phosphate]] from [[gastrointestinal tract]] and [[kidneys]]
+inhibit release of [[parathyroid hormone|PTH]]
+|-
+! [[Thrombopoietin]]
+|   || stimulates [[megakaryocyte]]s to produce [[platelets]]<ref name=Kaushansky2006>{{cite journal |author=Kaushansky K |title=Lineage-specific hematopoietic growth factors |journal=N Engl J Med. |volume=354 |issue=19 |pages=2034–45 |date=May 2006 |pmid=16687716 |doi=10.1056/NEJMra052706 }}</ref>
+|}
+
+===[[Adrenal gland]]s===
+
+====[[Adrenal cortex]]====
+{| class="wikitable" width=100%
+! width=25% | Secreted hormone !! width=25% | From cells !! Effect
+|-
+! [[Glucocorticoid]]s (chiefly [[cortisol]]) 
+| [[zona fasciculata]] and [[zona reticularis]] cells  || Stimulates [[gluconeogenesis]] <br>Stimulates [[fat breakdown]] in adipose tissue <br>Inhibits protein synthesis <br>Inhibits glucose uptake in muscle and [[adipose]] tissue <br>Inhibits immunological responses ([[immunosuppressive]]) <br>Inhibits inflammatory responses ([[anti-inflammatory]])
+|-
+! [[Mineralocorticoid]]s (chiefly [[aldosterone]]) 
+| [[Zona glomerulosa]] cells  || Stimulates active [[sodium]] reabsorption in [[kidneys]] <br>Stimulates passive water reabsorption in kidneys, thus increasing [[blood volume]] and [[blood pressure]] <br>Stimulates [[potassium]] and [[Hydrogen ion|H<sup>+</sup>]] secretion into [[nephron]] of kidney and subsequent excretion
+|-
+! [[Androgen]]s (including [[dehydroepiandrosterone|DHEA]] and [[testosterone]]) 
+| [[Zona fasciculata]] and [[Zona reticularis]] cells  || In males: Relatively small effect compared to androgens from testes <br>In females: masculinizing effects
+|}
+
+====[[Adrenal medulla]]====
+{| class="wikitable" width=100%
+! width=25% |  Secreted hormone !! width=25% | From cells !! Effect
+|-
+! [[Adrenaline]] (epinephrine) (Primarily) 
+|[[Chromaffin cell]]s  || [[Fight-or-flight response]]:
+*Boost the supply of [[oxygen]] and [[glucose]] to the [[Human brain|brain]] and [[muscle]]s (by increasing [[heart rate]] and [[stroke volume]], [[vasodilation]], increasing [[catalysis]] of [[glycogen]] in liver, breakdown of [[lipid]]s in [[adipocyte|fat cells]])
+*Dilate the [[pupil]]s
+*Suppress non-emergency bodily processes (e.g., [[digestion]])
+*
+|-
+! [[Noradrenaline]] (norepinephrine) 
+| [[Chromaffin cell]]s || [[Fight-or-flight response]]:
+*Boost the supply of [[oxygen]] and [[glucose]] to the [[Human brain|brain]] and [[muscle]]s (by increasing [[heart rate]] and [[stroke volume]], [[vasoconstriction]] and increased [[blood pressure]], breakdown of [[lipid]]s in [[adipocyte|fat cells]])
+*Increase [[skeletal muscle]] readiness.
+|-
+! [[Dopamine]]
+| [[Chromaffin cell]]s || Increase [[heart]] rate and [[blood pressure]]
+|-
+! [[Enkephalin]]
+| [[Chromaffin cell]]s  || Regulate pain
+|}
+
+===Reproductive===
+[[File:Endocrine reproductive system en.svg|thumb|400px|center]]
+
+====[[Testes]]====
+{| class="wikitable" width=100%
+! width=25% | Secreted hormone !! width=25% | From cells !! Effect
+|-
+! [[Androgen]]s (chiefly [[testosterone]]) 
+| [[Leydig cell]]s  || [[Anabolic]]: growth of [[muscle mass]] and strength, increased [[bone density]], growth and strength, 
+[[Virilizing]]: [[Developmental biology|maturation]] of [[sex organs]], formation of [[scrotum]], deepening of voice, growth of [[beard]] and [[axillary hair]].
+|-
+! [[Estradiol]]
+| [[Sertoli cell]]s || Prevent [[apoptosis]] of germ cells<ref>{{cite journal |author=Pentikäinen V, Erkkilä K, Suomalainen L, Parvinen M, Dunkel L |title=Estradiol acts as a germinal cell survival factor in the human testis in vitro |journal=J Clin Endocrinol Metab. |volume=85 |issue=5 |pages=2057–67 |year=2000 |pmid=10843196 |doi=10.1210/jc.85.5.2057}}</ref>
+|-
+! [[Inhibin]]
+| [[Sertoli cell]]s  || Inhibit production of [[follicle stimulating hormone|FSH]]
+|}
+
+====[[Ovarian follicle]] and [[corpus luteum]]====
+{| class="wikitable" width=100%
+! width=25% | Secreted hormone !! width=25% | From cells !! Effect
+|-
+! [[Progesterone]]
+| [[Granulosa cells]], [[Theca interna|theca cells]] || Support [[pregnancy]]:<ref name=colostate>
+Bowen, R. (August 6, 2000) [http://www.vivo.colostate.edu/hbooks/pathphys/reprod/placenta/endocrine.html Placental Hormones]. Colorado State University</ref> 
+*Convert [[uterine lining|endometrium]] to secretory stage
+*Make [[Cervix#Cervical mucus|cervical mucus]] thick and impenetrable to sperm.
+*Inhibit [[immune system|immune]] response, e.g., towards the [[human embryo]]
+*Decrease uterine [[smooth muscle]] contractility<ref name=colostate/>
+*Inhibit [[lactation]]
+*Inhibit onset of [[labor (childbirth)|labor]].
+
+Other:
+*Raise [[epidermal growth factor-1]] levels
+*Increase core temperature during ovulation<ref name=GeorgiaPhysiology>{{GeorgiaPhysiology|5/5ch9/s5ch9_13}}</ref>
+*Reduce [[spasm]] and relax [[smooth muscle]] (widen [[bronchi]] and regulate [[mucus]])
+[[Inflammation|Anti-inflammatory]]
+*Reduce [[gall-bladder]] activity<ref>{{cite journal |author=Hould F, Fried G, Fazekas A, Tremblay S, Mersereau W |title=Progesterone receptors regulate gallbladder motility |journal=J Surg Res |volume=45 |issue=6 |pages=505–12 |year=1988 |pmid=3184927 |doi=10.1016/0022-4804(88)90137-0}}</ref>
+*Normalize [[blood]] clotting and vascular tone, [[zinc]] and [[copper]] levels, [[cell (biology)|cell]] [[oxygen]] levels, and use of fat stores for energy
+*Assist in [[thyroid]] function and [[bone]] growth by [[osteoblast]]s
+*Increase [[Resilience (materials science)|resilience]] in [[bone]], [[teeth]], [[gingiva|gum]]s, [[joint]], [[tendon]], [[ligament]], and [[human skin|skin]]
+*Promote healing by regulating [[collagen]]
+*Provide nerve function and healing by regulating [[myelin]]
+*Prevent [[endometrial cancer]] by regulating effects of estrogen
+|-
+! [[Androstenedione]]
+| [[Theca interna|Theca cells]]  || Substrate for [[estrogen]]
+|-
+! [[Estrogens]] (mainly [[estradiol]]) 
+| [[Granulosa cells]]  || Structural:
+* Promote formation of female [[secondary sex characteristics]]
+* Accelerate [[height]] growth
+* Accelerate [[metabolism]] (burn fat)
+* Reduce [[muscle]] mass
+* Stimulate [[endometrium|endometrial]] growth
+* Increase [[uterus|uterine]] growth
+* Maintain [[blood vessel]]s and skin
+* Reduce [[bone resorption]], increase bone formation
+[[Protein]] synthesis:
+* Increase hepatic production of binding proteins
+[[Coagulation]]:
+* Increase circulating level of [[coagulation factor|factors]] [[factor II|2]], [[factor VII|7]], [[factor IX|9]], [[factor X|10]], [[antithrombin]] III, [[plasminogen]]
+* Increase [[platelet]] adhesiveness
+* Increase [[high-density lipoprotein|HDL]], [[triglyceride]], [[height]] growth
+* Decrease [[low-density lipoprotein|LDL]], [[fat]] deposition
+Fluid balance:
+* Regulate salt ([[sodium]]) and water retention
+* Increase [[growth hormone]]
+* Increase [[cortisol]], [[SHBG]]
+Gastrointestinal tract:
+* Reduce bowel motility
+* Increase cholesterol in [[bile]]
+Melanin:
+* Increase [[pheomelanin]], reduce [[eumelanin]]
+Cancer:
+* Support [[hormone-sensitive]] [[breast cancer]]s<ref>[http://www.breastcancer.org/tre_sys_hrt_idx.html Hormonal Therapy<!-- Bot generated title -->]</ref> (Suppression of production in the body of estrogen is a treatment for these cancers.)
+Lung function:
+*Promote lung function by supporting [[alveoli]].<ref>{{cite journal | author=Massaro D, Massaro GD | title=Estrogen regulates pulmonary alveolar formation, loss, and regeneration in mice | journal=American Journal of Physiology. Lung Cellular and Molecular Physiology | volume=287 | issue=6 | year=2004 | pages=L1154–9 | pmid=15298854 | doi=10.1152/ajplung.00228.2004 }}</ref>
+|-
+! [[Inhibin]]
+| [[Granulosa cells]] || Inhibit production of [[follicle stimulating hormone|FSH]] from [[anterior pituitary]]
+|}
+
+====[[Placenta]] (when [[pregnant]])====
+{| class="wikitable" width=100%
+! width=25% | Secreted hormone !! width=8% | Abbreviation !! width=17% | From cells !! Effect
+|-
+! [[Progesterone]] (Primarily) 
+|   ||   || Support [[pregnancy]]:<ref name="colostate"/> 
+*Inhibit [[immune system|immune]] response, towards the [[fetus]].
+*Decrease uterine [[smooth muscle]] contractility<ref name=colostate/>
+*Inhibit [[lactation]]
+*Inhibit onset of [[labor (childbirth)|labor]].
+*Support [[fetal]] production of [[adrenal]] mineralo- and glucosteroids.
+Other effects on mother similar to ovarian follicle-progesterone
+|-
+! [[Estrogen]]s (mainly [[Estriol]]) (Also Primarily) 
+|   ||   || Effects on mother similar to ovarian follicle estrogen
+|-
+! [[Human chorionic gonadotropin]]
+| HCG  || [[Syncytiotrophoblast]]  || Promote maintenance of [[corpus luteum]] during beginning of [[pregnancy]]
+Inhibit [[immune system|immune]] response, towards the [[human embryo]].
+|-
+! [[Human placental lactogen]]
+| HPL  || [[Syncytiotrophoblast]]  || Increase production of [[insulin]] and [[IGF-1]]
+Increase [[insulin resistance]] and [[carbohydrate]] intolerance
+|-
+! [[Inhibin]]
+|   ||  Fetal [[Trophoblast]]s || Suppress [[follicle stimulating hormone|FSH]]
+|}
+
+====[[Uterus]] (when [[pregnant]])====
+{| class="wikitable" width=100%
+! width=25% | Secreted hormone !! width=8% | Abbreviation !! width=17% | From cells !! Effect
+|-
+! [[Prolactin]]
+| PRL  || [[Decidual cells]]  || milk production in [[mammary glands]]
+|-
+! [[Relaxin]]
+|   || [[Decidual cells]] || Unclear in humans and animals
+|}
+
+===Calcium regulation===
+{{Further|Calcium metabolism}}
+<gallery widths="300px" heights="300px">
+File:Endocrine caclcium en.svg
+File:Calcium regulation.png
+</gallery>
+
+====[[Parathyroid]]====
+{| class="wikitable" width=100%
+! width=25% | Secreted hormone !!width=8% | Abbreviation !! width=17% | From cells !! Effect
+|-
+! [[Parathyroid hormone]]
+| PTH  || [[Parathyroid chief cell]]  || [[Calcium]]:
+*Stimulates Ca<sup>2+</sup> release from bone, thereby increasing blood Ca<sup>2+</sup>
+*Stimulates [[osteoclast]]s, thus breaking down bone
+*Stimulates Ca<sup>2+</sup> reabsorption in [[kidney]]
+*Stimulates activated [[vitamin D]] production in kidney
+<br>[[Phosphate]]:
+*Stimulates PO<sup>3−</sup><sub>4</sub> release from bones, thereby increasing blood PO<sup>3−</sup><sub>4</sub>.
+*Inhibits PO<sup>3−</sup><sub>4</sub> reabsorption in [[kidney]], so more PO<sup>3−</sup><sub>4</sub> is excreted
+*Overall, small net drop in serum PO<sup>3−</sup><sub>4</sub>.
+|}
+
+====[[Human skin|Skin]]====
+{| class="wikitable" width=100%
+! width=25% | Secreted hormone !! width=25% | From cells !! Effect
+|-
+! [[Calcidiol]] (25-hydroxyvitamin D<sub>3</sub>) 
+|  || Inactive form of [[Vitamin D3|vitamin D<sub>3</sub>]]
+|}
+
+==Targets==
+[[File:Endocrine miscelaneous en.svg|300px|thumb|center]]
+
+===[[Heart]]===
+{| class="wikitable" width=100%
+! width=25% | Secreted hormone !! width=8% | Abbreviation !! width=17% | From cells !! Effect
+|-
+! [[Atrial-natriuretic peptide]]
+| ANP  || [[Cardiac muscle|Cardiac myocytes]]  || Reduce [[blood pressure]] by:
+reducing [[systemic circulation|systemic]] [[vascular resistance]],
+reducing blood water, sodium and [[blood fats|fats]]
+|-
+! [[Brain natriuretic peptide]]
+| BNP  || [[Cardiac muscle|Cardiac myocytes]]  || (To a lesser degree than ANP) reduce [[blood pressure]] by:
+reducing [[systemic circulation|systemic]] [[vascular resistance]],
+reducing blood water, sodium and [[blood fats|fats]]
+|-
+|}
+
+===[[Bone marrow]]===
+{| class="wikitable" width=100%
+! width=25% | Secreted hormone !! width=25% | From cells !! Effect
+|-
+! [[Thrombopoietin]]
+| liver and kidney cells || stimulates [[megakaryocyte]]s to produce [[platelets]]<ref name=Kaushansky2006/>
+|}
+
+===[[Skeletal muscle]]===
+In 1998, skeletal muscle was identified as an [[endocrine organ]]<ref name="Pedersen BK, Febbraio MA 1379–406">{{cite journal |author=Pedersen BK, Febbraio MA |title=Muscle as an endocrine organ: focus on muscle-derived interleukin-6 |journal=Physiological Reviews |volume=88 |issue=4 |pages=1379–406 |date=October 2008  |pmid=18923185 |doi=10.1152/physrev.90100.2007}}</ref> due to its now well-established role in the secretion of [[myokine]]s.<ref name="Pedersen BK, Febbraio MA 1379–406"/><ref>{{cite journal |author=Ostrowski K, Hermann C, Bangash A, Schjerling P, Nielsen JN, Pedersen BK |title=A trauma-like elevation of plasma cytokines in humans in response to treadmill running |journal=The Journal of Physiology |volume=513 |issue=3 |pages=889–94 |date=December 1998  |pmid=9824725 |pmc=2231318 |url=http://www.jphysiol.org/cgi/pmidlookup?view=long&pmid=9824725 |doi=10.1111/j.1469-7793.1998.889ba.x}}</ref> The use of the term [[myokine]] to describe cytokines and other peptides produced by muscle as signalling molecules was proposed in 2003.<ref>{{cite journal |author=Pedersen BK, Steensberg A, Fischer C |title=Searching for the exercise factor: is IL-6 a candidate? |journal=Journal of Muscle Research and Cell Motility |volume=24 |issue=2-3 |pages=113–9 |year=2003 |pmid=14609022 |doi=10.1023/A:1026070911202|display-authors=etal}}</ref>
+
+===[[Adipose tissue]]===
+
+Signalling molecules released by adipose tissue are referred to as [[adipokine]]s.
+
+{| class="wikitable" width=100%
+! width=25% | Secreted hormone !! width=25% | From cells !! Effect
+|-
+![[Leptin]] (Primarily)
+|[[Adipocyte]]s  || decrease of [[appetite]] and increase of [[metabolism]].
+|-
+! [[Estrogen]]s<ref>{{cite journal |author=Frühbeck G |title=The adipose tissue as a source of vasoactive factors |journal=Curr Med Chem Cardiovasc Hematol Agents |volume=2 |issue=3 |pages=197–208 |date=July 2004 |pmid=15320786 |url=http://openurl.ingenta.com/content/nlm?genre=article&issn=1568-0169&volume=2&issue=3&spage=197&aulast=Frühbeck |doi=10.2174/1568016043356255}}</ref> (mainly [[Estrone]]) 
+|[[Adipocyte]]s  ||
+|}
+
+== Diffuse neuro-endocrine system (DNES) ==
+The Diffuse neuro-endocrine system (DNES) comprises hormone-secreted cells, that have commonalities with neurons and are found in the [[Epithelium]] of organs of the body.
+
+==Major endocrine systems==
+The human endocrine system consists of several systems that operate via [[feedback loop]]s. Several important feedback systems are mediated via the hypothalamus and pituitary.<ref>{{Cite journal|title=Human Physiology: From Cells to Systems|author=Sherwood, L.|publisher=Wadsworth Pub Co|year=1997|isbn=0495391840}}</ref>
+
+* [[Hypothalamic-pituitary-thyroid axis|TRH – TSH – T3/T4]]
+* [[Hypothalamic-pituitary-gonadal axis|GnRH – LH/FSH – sex hormones]]
+* [[Hypothalamic-pituitary-adrenal axis|CRH – ACTH – cortisol]]
+* [[Renin-angiotensin system|Renin – angiotensin – aldosterone]]
+* [[Energy homeostasis|leptin vs. insulin]]
+
+==Interaction with immune system==
+Extensive bidirectional interactions exist between the endocrine system and the [[immune system]].<ref>{{cite journal |author=Turnbull AV, Rivier CL |title=Regulation of the hypothalamic-pituitary-adrenal axis by cytokines: actions and mechanisms of action |journal=Physiological Reviews |volume=79 |issue=1 |pages=1–71 |date=January 1999  |pmid=9922367 |url=http://physrev.physiology.org/cgi/pmidlookup?view=long&pmid=9922367}}</ref> Cortisol has major [[Immunosuppression|immunosuppressive]] effects,<ref>{{cite journal |author=O'Connor TM, O'Halloran DJ, Shanahan F |title=The stress response and the hypothalamic-pituitary-adrenal axis: from molecule to melancholia |journal=QJM |volume=93 |issue=6 |pages=323–33 |date=June 2000  |pmid=10873181 |url=http://qjmed.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=10873181 |doi=10.1093/qjmed/93.6.323}}</ref><ref>{{cite journal |author=Tsigos C, Chrousos GP |title=Hypothalamic-pituitary-adrenal axis, neuroendocrine factors and stress |journal=Journal of Psychosomatic Research |volume=53 |issue=4 |pages=865–71 |date=October 2002  |pmid=12377295 |doi=10.1016/S0022-3999(02)00429-4}}</ref> and [[dopamine]] has immunomodulatory functions.<ref>{{cite journal |author=Sarkar C, Basu B, Chakroborty D, Dasgupta PS, Basu S |title=The immunoregulatory role of dopamine: an update |journal=Brain, Behavior, and Immunity |volume=24 |issue=4 |pages=525–8 |date=May 2010  |pmid=19896530 |pmc=2856781 |doi=10.1016/j.bbi.2009.10.015}}</ref> On the other hand, [[cytokine]]s produced during inflammation activate the HPA axis at all three levels, sensible to negative feedback.<ref>{{cite journal |author=Silverman MN, Pearce BD, Biron CA, Miller AH |title=Immune modulation of the hypothalamic-pituitary-adrenal (HPA) axis during viral infection |journal=Viral Immunology |volume=18 |issue=1 |pages=41–78 |year=2005 |pmid=15802953 |pmc=1224723 |doi=10.1089/vim.2005.18.41}}</ref> Moreover cytokines stimulate [[hepcidin]] release from the liver, which is eventually responsible for the [[anemia of chronic disease]].<ref>{{cite journal |author=Andrews NC |title=Anemia of inflammation: the cytokine-hepcidin link |journal=The Journal of Clinical Investigation |volume=113 |issue=9 |pages=1251–3 |date=May 2004  |pmid=15124013 |pmc=398435 |doi=10.1172/JCI21441}}</ref>
+
+==In other species==
+A neuroendocrine system has been observed in all [[animal]]s with a nervous system and all [[vertebrate]]s have an hypothalamus-pituitary axis.<ref>{{cite journal |author=Hartenstein V |title=The neuroendocrine system of invertebrates: a developmental and evolutionary perspective |journal=The Journal of Endocrinology |volume=190 |issue=3 |pages=555–70 |date=September 2006  |pmid=17003257 |doi=10.1677/joe.1.06964}}</ref> All vertebrates have a thyroid, which in [[amphibian]]s is also crucial for transformation of larvae into adult form.<ref>{{cite journal |first1=Walton W. |last1=Dickhoff |first2=Douglas S. |last2=Darling |year=1983 |title=Evolution of Thyroid Function and Its Control in Lower Vertebrates |journal=American Zoologist |volume=23 |issue=3 |pages=697–707 |jstor=3882951 |doi= 10.1093/icb/23.3.697}}</ref><ref>{{cite journal |last=Galton |first=Valerie Anne |title=The Role of Thyroid Hormone in Amphibian Development |journal=Integrative and Comparative Biology |date=1 January 1988 |volume=28 |issue=2 |pages=309–18 |jstor=3883279 |doi=10.1093/icb/28.2.309}}</ref> All vertebrates have adrenal gland tissue, with mammals unique in having it organized into layers.<ref>{{cite journal |author=Pohorecky LA, Wurtman RJ |title=Adrenocortical control of epinephrine synthesis |journal=Pharmacological Reviews |volume=23 |issue=1 |pages=1–35 |date=March 1971  |pmid=4941407 |url=http://pharmrev.aspetjournals.org/cgi/pmidlookup?view=long&pmid=4941407}}</ref> All vertebrates have some form of renin-angiotensin axis, and all [[tetrapods]] have aldosterone as primary [[mineralocorticoid]].<ref>{{cite journal |author=Wilson JX |title=The renin-angiotensin system in nonmammalian vertebrates |journal=Endocrine Reviews |volume=5 |issue=1 |pages=45–61 |year=1984 |pmid=6368215 |doi=10.1210/edrv-5-1-45}}</ref><ref>{{cite journal |author=Colombo L, Dalla Valle L, Fiore C, Armanini D, Belvedere P |title=Aldosterone and the conquest of land |journal=Journal of Endocrinological Investigation |volume=29 |issue=4 |pages=373–9 |date=April 2006  |pmid=16699307 |doi=10.1007/bf03344112}}</ref>
+
+==Diseases==
+[[File:Endocrine disorders world map - DALY - WHO2002.svg|thumb|[[Disability-adjusted life year]] for endocrine disorders per 100,000&nbsp;inhabitants in 2002.<ref>{{cite web |url=http://www.who.int/entity/healthinfo/statistics/bodgbddeathdalyestimates.xls |title=Mortality and Burden of Disease Estimates for WHO Member States in 2002|format=xls |work=World Health Organization|year=2002 |accessdate=}}</ref>{{refbegin|2}}
+{{legend|#b3b3b3|no data}}
+{{legend|#ffff65|less than 80}}
+{{legend|#fff200|80–160}}
+{{legend|#ffdc00|160–240}}
+{{legend|#ffc600|240–320}}
+{{legend|#ffb000|320–400}}
+{{legend|#ff9a00|400–480}}
+{{legend|#ff8400|480–560}}
+{{legend|#ff6e00|560–640}}
+{{legend|#ff5800|640–720}}
+{{legend|#ff4200|720–800}}
+{{legend|#ff2c00|800–1000}}
+{{legend|#cb0000|more than 1000}}
+{{refend}}]]
+{{Main|Endocrine diseases}}
+[[Endocrine diseases|Diseases of the endocrine system]] are common,<ref>{{cite book
+  | last = Kasper
+  | title = Harrison's Principles of Internal Medicine
+  | publisher = [[McGraw Hill]]
+  | year = 2005 
+  | pages = 2074
+  | isbn =0-07-139140-1
+   }}</ref> including conditions such as [[diabetes mellitus]], [[thyroid]] disease, and [[obesity]].
+Endocrine disease is characterized by disregulated hormone release (a productive [[pituitary adenoma]]), inappropriate response to signaling  ([[hypothyroidism]]), lack of a gland ([[diabetes mellitus type 1]], diminished [[erythropoiesis]] in [[chronic renal failure]]), or structural enlargement in a critical site such as the thyroid ([[toxic multinodular goitre]]). Hypofunction of endocrine glands can occur as a result of loss of reserve, hyposecretion, [[agenesis]], atrophy, or active destruction. Hyperfunction can occur as a result of hypersecretion, loss of suppression, [[hyperplasia|hyperplastic]] or [[neoplastic]] change, or hyperstimulation.
+
+Endocrinopathies are classified as primary, secondary, or tertiary. Primary endocrine disease inhibits the action of downstream glands. Secondary endocrine disease is indicative of a problem with the pituitary gland. Tertiary endocrine disease is associated with dysfunction of the hypothalamus and its releasing hormones.{{Citation needed|date=October 2009}}
+
+As the [[Thyroid cancer|thyroid]], and hormones have been implicated in signaling distant tissues to proliferate, for example, the [[estrogen receptor]] has been shown to be involved in certain [[breast cancer]]s. Endocrine, paracrine, and autocrine signaling have all been implicated in proliferation, one of the required steps of [[oncogenesis]].<ref>{{cite journal |author=Bhowmick NA, Chytil A, Plieth D, Gorska AE, Dumont N, Shappell S, Washington MK, Neilson EG, Moses HL |title=TGF-beta signaling in fibroblasts modulates the oncogenic potential of adjacent epithelia |journal=Science |volume=303 |issue=5659 |pages=848–51 |year=2004 |pmid=14764882 |doi=10.1126/science.1090922 }}</ref>
+
+==Other types of signaling==
+The typical mode of [[cell signaling]] in the endocrine system is endocrine signaling. However, there are also other modes, i.e., paracrine, autocrine, and [[neuroendocrine]] signaling. Purely neurocrine signaling between [[neurons]], on the other hand, belongs completely to the [[nervous system]].
+
+===Autocrine===
+{{Main|Autocrine signalling}}
+Autocrine signaling is a form of signaling in which a cell secretes a hormone or chemical messenger (called the autocrine agent) that binds to autocrine receptors on the same cell, leading to changes in the cells.
+
+===Paracrine===
+{{Main|Paracrine signaling}}
+Some endocrinologists and clinicians include the paracrine system as part of the endocrine system, but there is not consensus. Paracrines are slower acting, targeting cells in the same tissue or organ. An example of this is [[somatostatin]] which is released by some pancreatic cells and target other pancreatic cells.<ref name=Marieb/>
+
+===Juxtacrine===
+{{Main|Juxtacrine signalling}}
+Juxtacrine signaling is a type of intercellular communication that is transmitted via oligosaccharide, lipid, or protein components of a cell membrane, and may affect either the emitting cell or the immediately adjacent cells.
+
+It occurs between adjacent cells that possess broad patches of closely opposed plasma membrane linked by transmembrane channels known as connexons. The gap between the cells can usually be between only 2 and 4&nbsp;nm.
+
+Unlike other types of cell signaling (such as paracrine and endocrine), juxtacrine signaling requires physical contact between the two cells involved.
+
+Juxtacrine signaling has been observed for some growth factors, cytokine and chemokine cellular signals.
+
+==Additional images==
+<gallery>
+File:Blausen_0345_EndocrineSystem_Female2.png|Female endocrine system.
+File:Blausen 0346 EndocrineSystem Male2.png|Male endocrine system
+</gallery>
+
+==See also==
+{{colbegin||25em}}
+* [[Endocrine disease]]
+* [[Endocrinology]]
+* [[Exocrine gland]]
+* [[Neuroendocrinology]]
+* [[Nervous system]]
+* [[Paracrine signalling]]
+* [[Releasing hormone]]s
+* [[Tropic hormone]]
+{{colend}}
+
+==References==
+{{Reflist|35em}}
+
+==External links==
+{{Wikibooks|Human Physiology|The endocrine system}}
+{{Wikibooks|Anatomy and Physiology of Animals|Endocrine System}}
+{{Library resources box 
+|by=no 
+|onlinebooks=no 
+|others=no 
+|about=yes 
+|label=Endocrine system}}
+
+{{organ systems}}
+{{endocrine system}}
+{{Hormones}}
+{{Cell signaling}}
+
+{{Authority control}}
+[[Category:Endocrine system| ]]

@@ -1,0 +1,63 @@
+{{About||the video game|Bubble and Squeak (video game)|the album|Bubble and Squeak (album)}}
+{{refimprove|date=January 2015}}
+{{Infobox prepared food
+| name             = Bubble and squeak
+| image            = Full English breakfast with bubble and squeak, sausage, bacon, grilled tomatoes, and eggs.jpg
+| image_size       = 250px
+| caption          = A small portion of bubble and squeak (left), as part of an [[English breakfast]]
+| alternate_name   = 
+| country          = [[United Kingdom]]
+| region           = 
+| creator          = 
+| course           = 
+| type             = 
+| served           = 
+| main_ingredient  = [[Potato]]es, [[Brussels sprout]]s, [[vegetable]]s
+| variations       = 
+| calories         = 
+| other            = 
+| cookbook         = Bubble and Squeak
+}}
+[[File:Bubble and squeak with poached egg.jpg|thumb|Bubble and squeak topped with poached egg]]
+
+'''Bubble and squeak''' is a traditional [[English cuisine|English]] dish made with the shallow-fried [[leftovers|leftover]] vegetables from a [[roast dinner]]. The main ingredients are [[potato]] and [[Brussels sprouts]], but [[carrot]]s, [[pea]]s, [[cabbage]]s, or any other leftover vegetables can be added. The chopped vegetables (and cold chopped meat if used) are fried in a pan together with mashed potatoes or crushed roast potatoes until the mixture is well-cooked and brown on the sides. The dish is so named because it makes bubbling and squeaking sounds during the cooking process.<ref>{{citation |author=Pickett, Joseph P. et al. |title=American Heritage Dictionary of the English Language |publisher=Houghton Mifflin |year=2000 }}</ref> It is often served with cold meat from the [[Sunday roast]], and pickles or [[brown sauce]], or as an accompaniment to a [[full breakfast|full English breakfast]].
+
+The meat was traditionally added to the bubble and squeak itself, although nowadays it is more commonly made without meat. The earliest known recipe was by [[A New System of Domestic Cookery|Maria Rundell]] in 1806.<ref name="rundell">Rundell, Maria Eliza Ketelby (1808). Bubble and Squeak. In ''[http://books.google.com/books?id=30tOAAAAYAAJ&pg=PA42#v=onepage&q&f=false A new system of domestic cookery:Third edition]''.  p. 42. Google Book Search. Retrieved on January 6, 2011.</ref>
+
+The name ''bubble and squeak'' is used primarily in England (for Scotland and Ireland<ref>[http://britishfood.about.com/od/scottishregionalrecipes/r/rumbledethumps.htm Scottish Recipes: Rumbledethumps Recipe<!-- Bot generated title -->]</ref> see 'Similar dishes'), and it may also be understood in parts of some other Commonwealth countries and the United States.<ref name="usa">[http://news.google.com/newspapers?id=SaQtAAAAIBAJ&sjid=n50FAAAAIBAJ&dq=bubble&pg=4819%2C2454303 Hearty Luncheon and Supper Dishes] Reading Eagle, Jul 17, 1913</ref><ref name="usa2">[http://www.forbes.com/2004/11/17/cx_cv_1117food.html Forbes Lifestyle, Wine and Food] Forbes, Nov 17, 2004</ref>
+
+Bubble and squeak was a popular dish during [[World War II]], as it was an easy way of using leftovers during a period when most foods were subject to [[rationing]]. In more recent times, prepared frozen and tinned versions have become available.
+
+==Similar dishes==
+{{original research|section|date=January 2015}}
+* [[Panackelty]], from [[North East England]]
+* [[Rumbledethumps]], [[stovies]] and [[clapshot]] from [[Scottish cuisine|Scotland]]
+* [[Colcannon]], from [[Irish cuisine|Ireland]]
+* [[Stoemp]] from [[Belgium]]
+* Calentado, from [[Colombia]]
+* [[Biksemad]], from [[Denmark]]
+* [[Bauernfrühstück]], from [[Germany]] and [[Austria]]
+* [[Stamppot]], from the [[Dutch cuisine|Netherlands]]
+* Roupa Velha ([[Portuguese language|Portuguese]] for "old clothes"), from [[Portugal]], often made from leftovers from [[Cozido]] à Portuguesa
+* Ropa Vieja ([[Spanish language|Spanish]] for "old clothes"), from [[Spain]], often made from leftovers of [[Cocido]]
+* [[Trinxat]], from the [[La Cerdanya]] region of [[Catalonia]], northeast [[Spain]] and [[Andorra]]
+* [[Pyttipanna|Pyttipanna, Pyttipanne & Pyttipannu]] ([[Swedish language|Swedish]], [[Norwegian language|Norwegian]] and [[Finnish language|Finnish]] for "small pieces in pan") from [[Sweden]], [[Norway]] and [[Finland]]
+* [[Hash (food)|Hash]], from the [[United States]]
+
+==References==
+{{portal|Food}}
+{{reflist}}
+
+==External links==
+{{commons}}
+{{Cookbook|Bubble and Squeak}}
+
+{{Potato dishes}}
+{{English cuisine}}
+
+{{DEFAULTSORT:Bubble And Squeak}}
+[[Category:English cuisine]]
+[[Category:Potato dishes]]
+[[Category:Cabbage dishes]]
+[[Category:Brassica oleracea dishes]]
+[[Category:Food combinations]]

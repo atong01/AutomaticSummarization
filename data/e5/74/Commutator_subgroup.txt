@@ -1,0 +1,99 @@
+In [[mathematics]], more specifically in [[abstract algebra]], the '''commutator subgroup''' or '''derived subgroup''' of a [[group (mathematics)|group]] is the [[subgroup]] [[generating set of a group|generated]] by all the [[commutator]]s of the group.<ref>{{harvtxt|Dummit|Foote|2004}}</ref><ref>{{harvtxt|Lang|2002}}</ref>
+
+The commutator subgroup is important because it is the smallest [[normal subgroup]] such that the [[quotient group]] of the original group by this subgroup is [[abelian group|abelian]]. In other words, ''G''/''N'' is abelian if and only if ''N'' contains the commutator subgroup. So in some sense it provides a measure of how far the group is from being abelian; the larger the commutator subgroup is, the "less abelian" the group is.
+
+== Commutators ==
+{{main|commutator}}
+For elements ''g'' and ''h'' of a group ''G'', the [[commutator]] of ''g'' and ''h'' is <math> [g,h] = g^{-1}h^{-1}gh </math>.  The commutator [''g'',''h''] is equal to the identity element ''e'' if and only if ''gh'' = ''hg'', that is, if and only if ''g'' and ''h'' commute.  In general, ''gh'' = ''hg''[''g'',''h''].
+
+An element of ''G'' which is of the form [''g'',''h''] for some ''g'' and ''h'' is called a commutator.  The identity element ''e'' = [''e'',''e''] is always a commutator, and it is the only commutator if and only if ''G'' is [[abelian group|abelian]].
+
+Here are some simple but useful commutator identities, true for any elements ''s'', ''g'', ''h'' of a group ''G'':
+
+* <math>[g,h]^{-1} = [h,g].</math>
+* <math>[g,h]^s = [g^s,h^s]</math>, where <math>g^s = s^{-1}gs</math>, the [[commutator#Identities|conjugate]] of g by s.
+* For any homomorphism ''f'': ''G'' → ''H'', ''f''([''g'',''h'']) = [''f''(''g''),''f''(''h'')].
+
+The first and second identities imply that the set of commutators in ''G'' is closed under inversion and conjugation.  If in the third identity we take ''H'' = ''G'', we get that the set of commutators is stable under any endomorphism of ''G''.  This is in fact a generalization of the second identity, since we can take ''f'' to be the conjugation automorphism on ''G'', <math> x \mapsto x^s </math>, to get the second identity.
+
+However, the product of two or more commutators need not be a commutator.  A generic example is [''a'',''b''][''c'',''d''] in the [[free group]] on ''a'',''b'',''c'',''d''.  It is known that the least order of a finite group for which there exists two commutators whose product is not a commutator is 96; in fact there are two nonisomorphic groups of order 96 with this property.<ref>{{harvtxt|Suárez-Alvarez}}</ref>
+
+== Definition ==
+This motivates the definition of the '''commutator subgroup''' [''G'',''G''] (also called the '''derived subgroup''', and denoted ''G&prime;'' or ''G''<sup>(1)</sup>) of ''G'': it is the subgroup [[generating set of a group|generated]] by all the commutators.
+
+It follows from the properties of commutators that any element of [''G'',''G''] is of the form
+
+:<math>[g_1,h_1] \cdots [g_n,h_n] </math>
+
+for some natural number ''n'', where the ''g''<sub>''i''</sub> and ''h''<sub>''i''</sub> are elements of ''G''.  Moreover, since <math> ([g_1,h_1] \cdots [g_n,h_n])^s = [g_1^s,h_1^s] \cdots [g_n^s,h_n^s]</math>, the commutator subgroup is normal in ''G''.  For any homomorphism ''f'': ''G'' → ''H'',
+
+:<math> f([g_1,h_1] \cdots [g_n,h_n]) = [f(g_1),f(h_1)] \cdots [f(g_n),f(h_n)] </math>,
+
+so that <math>f([G,G]) \leq [H,H]</math>.
+
+This shows that the commutator subgroup can be viewed as a [[functor]] on the category of groups, some implications of which are explored below.  Moreover, taking ''G'' = ''H'' it shows that the commutator subgroup is stable under every endomorphism of ''G'': that is, [''G'',''G''] is a [[fully characteristic subgroup]] of ''G'', a property which is considerably stronger than normality.
+
+The commutator subgroup can also be defined as the set of elements ''g'' of the group which have an expression as a product ''g'' = ''g''<sub>1</sub> ''g''<sub>2</sub> ... ''g<sub>k</sub>'' that can be rearranged to give the identity.
+
+=== Derived series ===
+This construction can be iterated:
+:<math>G^{(0)} := G</math>
+:<math>G^{(n)} := [G^{(n-1)},G^{(n-1)}] \quad n \in \mathbf{N}</math>
+The groups <math>G^{(2)}, G^{(3)}, \ldots</math> are called the '''second derived subgroup''', '''third derived subgroup''', and so forth, and the descending [[normal series]]
+:<math>\cdots \triangleleft G^{(2)} \triangleleft G^{(1)} \triangleleft G^{(0)} = G</math>
+is called the '''derived series'''. This should not be confused with the '''[[lower central series]]''', whose terms are <math>G_n := [G_{n-1},G]</math>, not <math>G^{(n)} := [G^{(n-1)},G^{(n-1)}]</math>.
+
+For a finite group, the derived series terminates in a [[perfect group]], which may or may not be trivial. For an infinite group, the derived series need not terminate at a finite stage, and one can continue it to infinite [[ordinal number]]s via [[transfinite recursion]], thereby obtaining the '''transfinite derived series''', which eventually terminates at the [[perfect core]] of the group.
+
+=== Abelianization ===
+Given a group ''G'', a [[quotient group]] ''G''/''N'' is abelian if and only if [''G'',''G''] ≤ ''N''.
+
+The quotient ''G''/[''G'',''G''] is an abelian group called the '''abelianization''' of ''G'' or ''G'' '''made abelian'''.<ref>{{harvtxt|Fraleigh|1976|p=108}}</ref> It is usually denoted by ''G''<sup>ab</sup> or ''G''<sub>ab</sub>.
+
+There is a useful categorical interpretation of the map <math>\varphi: G \rightarrow G^{\operatorname{ab}}</math>.  Namely <math>\varphi</math> is universal for homomorphisms from ''G'' to an abelian group ''H'': for any abelian group ''H'' and homomorphism of groups ''f'': ''G'' → ''H'' there exists a unique homomorphism ''F'': ''G''<sup>ab</sup> → ''H'' such that <math>f = F \circ \varphi</math>.  As usual for objects defined by universal mapping properties, this shows the uniqueness of the abelianization ''G''<sup>ab</sup> up to canonical isomorphism, whereas the explicit construction ''G'' → ''G''/[''G'',''G''] shows existence.
+
+The abelianization functor is the [[adjoint functors|left adjoint]] of the inclusion functor from the category of abelian groups to the category of groups. The existence of the abelianization functor '''Grp''' → '''Ab''' makes the category Ab a [[reflective subcategory]] of the category of groups, defined as a full subcategory whose inclusion functor has a left adjoint. 
+
+Another important interpretation of <math>G^{\operatorname{ab}}</math> is as ''H''<sub>1</sub>(''G'','''Z'''), the first [[homology group]] of ''G'' with integral coefficients.
+
+=== Classes of groups ===
+A group ''G'' is an '''[[abelian group]]''' if and only if the derived group is trivial: [''G'',''G''] = {''e''}. Equivalently, if and only if the group equals its abelianization. See above for the definition of a group's abelianization.
+
+A group ''G'' is a '''[[perfect group]]''' if and only if the derived group equals the group itself: [''G'',''G''] = ''G''. Equivalently, if and only if the abelianization of the group is trivial. This is "opposite" to abelian.
+
+A group with <math>G^{(n)}=\{e\}</math> for some ''n'' in '''N''' is called a '''[[solvable group]]'''; this is weaker than abelian, which is the case ''n'' = 1.
+
+A group with <math>G^{(n)} \neq \{e\}</math> for all ''n'' in '''N''' is called a '''non solvable group'''.
+
+A group with <math>G^{(\alpha)}=\{e\}</math> for some [[ordinal number]], possibly infinite, is called a '''[[perfect radical|hypoabelian group]]'''; this is weaker than solvable, which is the case α is finite (a natural number).
+
+== Examples ==
+* The commutator subgroup of the [[alternating group]] ''A''<sub>4</sub> is the [[Klein four group]].
+* The commutator subgroup of the [[symmetric group]] ''S<sub>n</sub>'' is the [[alternating group]] ''A<sub>n</sub>''.
+* The commutator subgroup of the [[quaternion group]] ''Q'' = {1, &minus;1, ''i'', &minus;''i'', ''j'', &minus;''j'', ''k'', &minus;''k''} is [''Q'',''Q'']={1, &minus;1}.
+* The commutator subgroup of the [[fundamental group]] π<sub>1</sub>(''X'') of a path-connected topological space ''X'' is the kernel of the natural homomorphism onto the first singular [[homology group]] ''H''<sub>1</sub>(''X'').
+
+=== Map from Out ===
+Since the derived subgroup is [[Characteristic subgroup|characteristic]], any automorphism of ''G'' induces an automorphism of the abelianization. Since the abelianization is abelian, inner automorphisms act trivially, hence this yields a map
+:<math>\mbox{Out}(G) \to \mbox{Aut}(G^{\mbox{ab}})</math>
+
+==See also==
+*[[solvable group]]
+*[[nilpotent group]]
+*The abelianization ''H''/''H''<nowiki>'</nowiki> of a subgroup ''H''&nbsp;<&nbsp;''G'' of finite index (''G'':''H'') is the [[Artin transfer (group theory)#Artin transfer|target of the Artin transfer]]&nbsp;''T''(''G'',''H'').
+
+== Notes ==
+<references/>
+
+== References ==
+* {{ citation | last1 = Dummit | first1 = David S. | last2 = Foote | first2 = Richard M. | title = Abstract Algebra | publisher = [[John Wiley & Sons]] | year = 2004 | edition = 3rd | isbn = 0-471-43334-9 }}
+* {{ citation | first1 = John B. | last1 = Fraleigh | year = 1976 | isbn = 0-201-01984-1 | title = A First Course In Abstract Algebra | edition = 2nd | publisher = [[Addison-Wesley]] | location = Reading }}
+* {{citation | last = Lang | first = Serge | authorlink = Serge Lang | title = Algebra | publisher = [[Springer Science+Business Media|Springer]] | series = [[Graduate Texts in Mathematics]] | year = 2002 | isbn = 0-387-95385-X}}
+* {{ cite web | url = http://math.stackexchange.com/questions/7811/derived-subgroups-and-commutators | first = Mariano | last = Suárez-Alvarez | title = Derived Subgroups and Commutators }}
+
+==External links==
+* {{springer|title=Commutator subgroup|id=p/c023440}}
+
+[[Category:Group theory]]
+[[Category:Functional subgroups]]
+[[Category:Articles containing proofs]]

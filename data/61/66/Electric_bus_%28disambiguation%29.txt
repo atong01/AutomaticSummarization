@@ -1,0 +1,9 @@
+'''[[Electric bus]]''' is a bus powered by electric energy. "Electric bus" can also refer to:
+
+* [[Bus (computing)]], used for connecting components of a computer or communication between computers
+* [[Busbar]]s, thick conductors acting as nodes in [[electrical substation]]s
+** In [[power engineering]], a "bus" is any graph node of the [[One-line diagram|single-line diagram]] at which voltage, current, power flow, or other quantities are to be evaluated. This may or may not correspond to the physical busbars in substation.
+** A ground bus or earth bus is a conductor used as a zero voltage reference in a system, often connected to [[ground (electricity)|ground or earth]].
+* In [[pro audio]], "bus" refers to a place in the audio signal chain where one can hear a [[Audio mixing (recorded music)|mix]] of different audio signals—usually at the output of a [[mixing console]].
+
+{{disambiguation}}

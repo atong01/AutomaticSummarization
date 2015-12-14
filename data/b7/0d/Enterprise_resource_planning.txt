@@ -1,0 +1,288 @@
+{{Use mdy dates|date=July 2015}}
+{{original research|date=August 2012}}
+
+{{Business administration}}
+
+[[File:ERP Modules.png||500px|thumb|right|Diagram showing some typical ERP modules]]
+
+'''Enterprise resource planning''' ('''ERP''') is business-[[management]] software—typically a suite of integrated [[application software | application]]s—that an organization can use to collect, store, manage and interpret data from many [[business sector | business]] activities, including:
+
+* [[product planning]], cost
+* [[manufacturing]] or service delivery
+* [[marketing]] and [[sales]]
+* [[inventory management]]
+* shipping and payment
+
+ERP provides an integrated view of core business processes, often in real-time, using common [[database]]s maintained by a [[database management system]]. ERP systems track business resources—cash, [[raw material]]s, [[production capacity]]—and the status of business commitments: orders, [[purchase order]]s, and [[payroll]]. The applications that make up the system share data across various departments (manufacturing, purchasing, sales, [[accounting]], etc.) that provide the data.<ref>{{cite web|first= Margaret |last= Rouse |url= http://searchsap.techtarget.com/definition/ERP |title= ERP (enterprise resource planning) |publisher= TechTarget |accessdate= July 14, 2015}}</ref> ERP facilitates information flow between all business functions, and manages connections to outside [[stakeholder (corporate)|stakeholder]]s.<ref>Bidgoli, Hossein, (2004). The Internet Encyclopedia, Volume 1, John Wiley & Sons, Inc. p. 707.</ref>
+
+Enterprise system software is a multi-billion dollar industry that produces components that support a variety of business functions. IT investments have become the largest category of capital expenditure in United States-based businesses over the past{{which?|date=November 2015}} decade. Though early ERP systems focused on large enterprises, smaller enterprises increasingly use ERP systems.<ref>Rubina Adam, Paula Kotze, Alta van der Merwe. 2011. Acceptance of enterprise resource planning systems by small manufacturing Enterprises. In: Proceedings of the 1tth International Conference on Enterprise Information Systems, edited by Runtong Zhang, José Cordeiro, Xuewei Li, Zhenji Zhang and Juliang Zhang,  SciTePress. , p. 229 - 238</ref>{{qn|date=November 2015}}
+
+The ERP system is considered a vital organizational tool{{By whom|date=September 2015}} because it integrates varied organizational systems and facilitates error-free transactions and production. However, developing an ERP system differs from traditional system development.<ref>Shaul, L. and Tauber, D. 2012. CSFs along ERP life-cycle in SMEs: a field study. Industrial Management & Data Systems, 112(3), 360-384.</ref>
+ERP systems run on a variety of [[computer hardware]] and [[Computer network|network]] configurations, typically using a [[database]] as an [[information repository]].<ref>
+Khosrow–Puor, Mehdi. (2006). Emerging Trends and Challenges in Information Technology Management. Idea Group, Inc. p. 865.
+</ref>
+
+==Origin==
+
+{{refimprove section|date=April 2015}}
+The [[Gartner Group]] and others first used the [[acronym and initialism|acronym]] ERP in the 1990s,<ref>"A Vision of Next Generation MRP II", Scenario S-300-339, Gartner Group, April 12, 1990{{Third-party-inline|date=April 2015}}</ref>{{Third-party-inline|date=April 2015}} where it was seen{{by whom|date=June 2015}} to extend the capabilities of [[material requirements planning]] (MRP), and the later [[manufacturing resource planning]] (MRP II),<ref>{{cite web
+|last= Anderegg |first= Travis |title= MRP/MRPII/ERP/ERM&nbsp;— Confusing Terms and Definitions for a Murkey Alphabet Soup |url= http://wiki.wlug.org.nz/EnterpriseSpeak |accessdate= September 23, 2013 }}</ref><ref>{{cite web|url= http://www.erp.com/component/content/article/324-erp-archive/4407-erp.html |title= ERP|accessdate=October 7, 2009}}</ref> as well as [[computer-integrated manufacturing]].{{citation needed|date=April 2015}} Without replacing these terms, ERP came to represent a larger whole that reflected the evolution of application integration beyond manufacturing.<ref>{{cite book |last= Sheilds |first=Mureell G. |title=E-Business and ERP: Rapid Implementation and Project Planning |year=2005 |publisher=John Wiley and Sons, Inc. |page=9}}</ref>
+
+Not all ERP packages developed from a manufacturing core; ERP vendors variously began assembling their packages with accounting, [[Maintenance, repair and operations|maintenance]], and human-resource components.{{citation needed|date=April 2015}} By the mid-1990s ERP systems addressed all core enterprise functions.{{citation needed|date=April 2015}} Governments and non–profit organizations also began{{when|date=June 2015}} to use ERP systems.<ref>{{cite conference |first=SI |last=Chang |author2=Guy Gable |author3= Errol Smythe |author4= Greg Timbrell  |conference= International Conference on Information Systems |title= A Delphi examination of public sector ERP implementation issues |pages= 494–500 |publisher= [[Association for Information Systems]] |year= 2000 |location= Atlanta |url= http://dl.acm.org/citation.cfm?id=359640.359793|accessdate= September 9, 2008 }}</ref>
+
+==Expansion==
+
+ERP systems experienced rapid growth in the 1990s. Because of the [[year 2000 problem]] and introduction of the [[euro]] disrupted legacy systems, many companies took the opportunity to replace their old systems with ERP.<ref>{{Cite book|title=Thin Enterprise Resource Planning |publisher=Thomson Course Technology |year=2006 |location=Boston |edition=Second |isbn=0-619-21663-8 |postscript=<!--None-->}}</ref>
+
+ERP systems initially focused on automating ''[[back office]] functions''  that did not directly affect [[customer]]s and the public. ''[[Front office]] functions'', such as [[customer relationship management]] (CRM), dealt directly with customers, or [[electronic business|e-business]] systems such as [[e-commerce]], [[e-government]], e-telecom, and [[e-finance]]—or [[Supply chain management|supplier relationship management]] (SRM) became integrated later, when the Internet simplified communicating with external parties.{{Citation needed|date=September 2009}}
+
+"ERP II" was coined in 2000 in an article by Gartner Publications entitled ''ERP Is Dead—Long Live ERP II''.<ref>{{cite web
+|title=ERP: What you need to ask before you buy |url=http://www.projectauditors.com/Papers/Buying_An_ERP_System/ERP_Purchasing_the_right_ERP_package_3.php |publisher=projectauditors.com |accessdate=April 23, 2014 }}</ref> It describes web–based software that provides real–time access to ERP systems to employees and partners (such as suppliers and customers). The ERP II role expands traditional ERP resource optimization and [[transaction processing]]. Rather than just manage buying, selling, etc.—ERP II leverages information in the resources under its management to help the enterprise collaborate with other enterprises.<ref>{{cite web|url=http://www.uncg.edu/bae/people/holderness/readings/ERP_is_Dead--Long_Live_ERP_II.pdf |title=The Bryan School of Business and Economics at UNCG—Exceptional Problem Solvers |publisher=Uncg.edu |accessdate=November 8, 2012}}</ref>
+ERP II is more flexible than the first generation ERP. Rather than confine ERP system capabilities within the organization, it goes beyond the corporate walls to interact with other systems. ''Enterprise application suite'' is an alternate name for such systems.
+
+Developers now make more effort to integrate mobile devices with the ERP system. ERP vendors are extending ERP to these devices, along with other business applications. Technical stakes of modern ERP concern integration—hardware, applications, networking, supply chains. ERP now covers more functions and roles—including [[decision making]], stakeholders' relationships, [[standardization]], [[transparency (behavior)|transparency]], [[globalization]], etc.<ref>Shaul, L. and Tauber, D. 2013. Critical Success Factors in Enterprise Resource Planning Systems: Review of the Last Decade. ACM Computing Surveys, 45(4), 35 pages.</ref>
+
+==Characteristics==
+ERP (Enterprise Resource Planning) systems typically include the following characteristics:
+* An integrated system that operates in (or near) real time without relying on periodic updates{{Citation needed|date=August 2010}}
+* A common database that supports all applications
+* A consistent look and feel across modules
+* Installation of the system with elaborate application/data integration by the Information Technology (IT) department, provided the implementation is not done in small steps<ref>Sheilds, Mureell G., E-Business and ERP: Rapid Implementation and Project Planning. (2001) John Wiley and Sons, Inc. p. 9-10.</ref>
+
+==Functional areas of ERP==
+An ERP system covers the following common functional areas. In many ERP systems these are called and grouped together as ''ERP modules'':
+* [[Financial accounting]]: [[General ledger]],  [[fixed asset]], [[Accounts payable|payables]] including vouchering, matching and payment,  [[Accounts receivable|receivables]] cash application and collections, [[cash management]],  [[Consolidation (business)|financial consolidation]]
+* [[Management accounting]]: [[Budgeting]], costing, [[cost management]], [[activity based costing]]
+* [[Human resources]]: [[Recruitment|Recruiting]], [[training]], [[Schedule (workplace)|rostering]], [[payroll]], [[Employee benefit|benefits]], [[401K]], [[Diversity (business)|diversity management]], [[retirement]], [[Employee exit management|separation]]
+* Manufacturing: [[Engineering]], [[bill of materials]], work orders, [[scheduling]], [[capacity utilization|capacity]], [[workflow management system|workflow management]], [[quality control]], manufacturing process, manufacturing projects, manufacturing flow,  [[product life cycle management]]
+* Order Processing: [[Order to cash]], order entry, credit checking, [[pricing]], available to promise, [[inventory]], [[shipping]], sales analysis and reporting, sales commissioning.
+* [[Supply chain management]]: Supply chain planning, supplier scheduling, [[product configurator]], [[order to cash]], [[purchasing]], [[inventory]], claim processing, [[warehousing]] (receiving, putaway, [[Order picking|picking]] and [[Packaging and labeling|packing]]).
+* [[Project management]]: Project planning, resource planning, project costing, [[work breakdown structure]], [[Invoice|billing]], time and expense, performance units, activity management
+* Customer relationship management: Sales and marketing, commissions, service, customer contact, [[call center]] support&nbsp;— CRM systems are not always considered part of ERP systems but rather Business Support systems (BSS).
+* Data services : Various "self–service" interfaces for customers, suppliers and/or employees
+
+==Components==
+* [[Database transaction|Transactional database]]
+* Management portal/[[dashboard (business)|dashboard]]
+
+==Best practices==
+Most ERP systems incorporate ''[[best practice]]s''. This means the software reflects the vendor's interpretation of the most effective way to perform each business process. Systems vary in how conveniently the customer can modify these practices.<ref>Monk, Ellen and Wagner, Brett."Concepts in Enterprise Resource Planning" 3rd.ed.Course Technology Cengage Learning.Boston, Massachusetts.2009</ref> Companies that implemented industry best practices reduced time–consuming project tasks such as configuration, [[documentation]], [[test method|testing]], and [[training]]. In addition, best practices reduced risk by 71% compared to other software implementations.<ref>"Enhanced Project Success Through SAP Best Practices&nbsp;– International Benchmarking Study". ISBN 1-59229-031-0.</ref>
+
+Use of best practices eases compliance with requirements such as [[IFRS]], [[Sarbanes-Oxley]], or [[Basel II]]. They can also help comply with de facto industry standards, such as [[electronic funds transfer]]. This is because the procedure can be readily codified within the ERP software, and replicated with confidence across multiple businesses who share that business requirement.{{Citation needed|date=December 2008}}
+
+==Connectivity to plant floor information==
+ERP systems connect to real–time data and transaction data in a variety of ways. These systems are typically configured by [[systems integrator]]s, who bring unique knowledge on process, equipment, and vendor solutions.
+
+'''Direct integration'''—ERP systems have connectivity (communications to plant floor equipment) as part of their product offering. This requires that the vendors offer specific support for the plant floor equipment their customers operate. ERP vendors must be experts in their own products and connectivity to other vendor products, including those of their competitors.
+
+'''Database integration'''—ERP systems connect to plant floor data sources through staging tables in a database. Plant floor systems deposit the necessary information into the database. The ERP system reads the information in the table. The benefit of staging is that ERP vendors do not need to master the complexities of equipment integration. Connectivity becomes the responsibility of the systems integrator.
+
+'''[[Enterprise appliance transaction module]]s (EATM)'''—These devices communicate directly with plant floor equipment and with the ERP system via methods supported by the ERP system. EATM can employ a staging table, web services, or system–specific program interfaces ([[Api|APIs]]). An EATM offers the benefit of being an off–the–shelf solution.
+
+'''Custom–integration solutions'''—Many system integrators offer custom solutions. These systems tend to have the highest level of initial integration cost, and can have a higher long term maintenance and reliability costs. Long term costs can be minimized through careful system testing and thorough documentation. Custom–integrated solutions typically run on [[workstation]] or server-class computers.
+
+==Implementation==
+ERP's scope usually implies significant changes to staff work processes and practices.<ref name="tech-faq.com">{{cite web|url=http://www.tech-faq.com/erp.shtml |title=ERP (Enterprise Resource Planning) |publisher=Tech-faq.com |date=March 5, 2014 |accessdate=July 14, 2015}}</ref> Generally, three types of services are available to help implement such changes—consulting, customization, and support.<ref name="tech-faq.com" /> Implementation time depends on business size, number of modules, customization, the scope of process changes, and the readiness of the customer to take ownership for the project. Modular ERP systems can be implemented in stages. The typical project for a large enterprise takes about 14 months and requires around 150 consultants.<ref name="carl.sandiego.edu">{{cite web|title=Critical Issues Affecting an ERP Implementation|url=http://carl.sandiego.edu/gba573/critical_issues_affecting_an_erp.htm|publisher=Auerbach Publications|work=Information Systems Management|volume=16|issue=3|page=7|year=1999|accessdate=January 10, 2013}}</ref> Small projects can require months; multinational and other large implementations can take years.{{Citation needed|date=December 2007}} [[Mass customization|Customization]] can substantially increase implementation times.<ref name="carl.sandiego.edu" />
+
+Besides that, information processing influences various business functions e.g. some large corporations like [[Wal-Mart]] use a [[Just in time (business)|just in time]] inventory system. This reduces inventory storage and increases delivery efficiency, and requires up-to-date-data. Before 2014, Walmart used a system called Inforem developed by [[IBM]] to manage replenishment.<ref>{{cite web|url=http://www.thecitywire.com/node/31165 |title=Wal-Mart slow to roll out new replenishment system |publisher=Thecitywire.com |location=Arkansas |date=January 8, 2014 |accessdate=July 14, 2015}}</ref>
+
+===Process preparation===
+Implementing ERP typically requires changes in existing business processes.<ref>Turban et al. (2008). ''Information Technology for Management, Transforming Organizations in the Digital Economy''. Massachusetts: John Wiley & Sons, Inc., pp. 300–343. ISBN 978-0-471-78712-9</ref> Poor understanding of needed process changes prior to starting implementation is a main reason for project failure.<ref>Brown, C., and I. Vessey, "Managing the Next Wave of Enterprise Systems: Leveraging Lessons from ERP," ''MIS Quarterly Executive'', 2(1), 2003.</ref> The difficulties could be related to the system, business process, infrastructure, training, or lack of motivation.
+
+It is therefore crucial that organizations thoroughly analyze business processes before they implement ERP software. Analysis can identify opportunities for process modernization. It also enables an assessment of the alignment of current processes with those provided by the ERP system. Research indicates that risk of business process mismatch is decreased by:
+* Linking current processes to the organization's strategy
+* Analyzing the effectiveness of each process
+* Understanding existing automated solutions<ref>King. W., "Ensuring ERP implementation success," ''Information Systems Management'', Summer 2005.</ref><ref>Yusuf, Y., A. Gunasekaran, and M. Abthorpe, "Enterprise Information Systems Project Implementation: A Case Study of ERP in Rolls-Royce," ''International Journal of Production Economics'', 87(3), February 2004.</ref>
+
+ERP implementation is considerably more difficult (and politically charged) in decentralized organizations, because they often have different processes, business rules, data semantics, authorization hierarchies, and decision centers.<ref>{{cite web |title=Requirements Engineering for Cross-organizational ERP Implementation: Undocumented Assumptions and Potential Mismatches | author =Maya Daneva, [[Roel Wieringa]] |publisher=University of Twente |url=http://www.vital-project.org/papers/Daneva-Wieringa-Camera-Ready-RE-Paper.pdf |accessdate=July 12, 2008 |format=PDF}}</ref> This may require migrating some business units before others, delaying implementation to work through the necessary changes for each unit, possibly reducing integration (e.g., linking via [[Master data management]]) or customizing the system to meet specific needs.<ref name="Thomas H. Davenport 1998">Thomas H. Davenport, "Putting the Enterprise into the Enterprise System", 'Harvard Business Review', July–August 1998.</ref>
+
+A potential disadvantage is that adopting "standard" processes can lead to a loss of [[competitive advantage]]. While this has happened, losses in one area are often offset by gains in other areas, increasing overall competitive advantage.<ref>Turban et al. (2008). ''Information Technology for Management, Transforming Organizations in the Digital Economy''. Massachusetts: John Wiley & Sons, Inc., p. 320. ISBN 978-0-471-78712-9</ref><ref>[[Bruce Dehning|Dehning,B.]] and T.Stratopoulos, 'Determinants of a Sustainable Competitive Advantage Due to an IT-enabled Strategy,' Journal of Strategic Information Systems, Vol. 12, 2003</ref>
+
+===Configuration===
+Configuring an ERP system is largely a matter of balancing the way the organization wants the system to work with the way it was designed to work. ERP systems typically include many settings that modify system operations. For example, an organization can select the type of inventory accounting—[[FIFO and LIFO accounting|FIFO or LIFO]]—to use; whether to recognize revenue by geographical unit, product line, or distribution channel; and whether to pay for shipping costs on customer returns.<ref name="Thomas H. Davenport 1998"/>
+
+===Two tier enterprise resource planning===
+
+Two-tier ERP software and hardware lets companies run the equivalent of two ERP systems at once: one at the corporate level and one at the division or subsidiary level. For example, a manufacturing company{{Who|date=May 2014}} uses an ERP system to manage across the organization. This company uses independent global or regional distribution, production or sales centers, and service providers to support the main company’s customers. Each independent center or subsidiary may have its own [[business model]]s, [[workflow]]s, and [[business process]]es.
+
+Given the realities of globalization, enterprises continuously evaluate how to optimize their regional, divisional, and product or manufacturing strategies to support strategic goals and reduce time-to-market while increasing profitability and delivering value.<ref name="ferdows">Ferdows, K. (1997). "Making the most of foreign factories," ''[[Harvard Business Review]]'', 75(2), 73-88.</ref> With two-tier ERP, the regional distribution, production, or sales centers and service providers continue operating under their own business model—separate from the main company, using their own ERP systems. Since these smaller companies' processes and workflows are not tied to main company's processes and workflows, they can respond to local business requirements in multiple locations.<ref name="gill">Gill, R. (2011). "The rise of two-tier ERP." ''Strategic Finance'', 93(5), 35-40, 1.</ref>
+
+Factors that affect enterprises' adoption of two-tier ERP systems include:
+* Manufacturing globalization, the economics of sourcing in emerging economies
+* Potential for quicker, less costly ERP implementations at subsidiaries, based on selecting software more suited to smaller companies
+* Extra effort, (often involving the use of [[Enterprise application integration]]<ref>{{cite web|url=http://ceiton.com/CMS/EN/workflow/system-centric-bpms.html#Back-End_EAI |title=Technical Workflows |publisher=[[CEITON]] |accessdate=July 14, 2015}}</ref>) is required where data must pass between two ERP systems<ref>Montgomery, Nigel (2010).[http://www.gartner.com/id=1412121 "Two-Tier ERP Suite Strategy: Considering Your Options."] Gartner Group. July 28, 2010. Retrieved September 20, 2012.</ref> Two-tier ERP strategies give enterprises agility in responding to market demands and in aligning IT systems at a corporate level while inevitably resulting in more systems as compared to one ERP system used throughout the organization.<ref>Kovacs, G. L., & Paganelli, P. (2003). "A planning and management infrastructure for large, complex, distributed projects&nbsp;— beyond ERP and SCM." ''Computers in Industry'', 51(2), 165-165.</ref>
+
+===Customization===
+ERP systems are theoretically based on industry best practices, and their makers intend that organizations deploy them ''as is''.<ref>{{cite journal|last=Kraemmerand|first=P.|title=ERP implementation: an integrated process of radical change and continuous learning|journal=Production Planning & Control|year=2003|volume=14|issue=4|pages=228–248|display-authors=etal}}</ref><ref>{{cite journal|last=Vilpola|first=Inka Heidi|title=A method for improving ERP implementation success by the principles and process of user-centred design|journal=Enterprise Information Systems|year=2008|volume=2|issue=1|pages=47–76}}</ref>  ERP vendors do offer customers configuration options that let organizations incorporate their own business rules, but often feature gaps remain even after configuration is complete.
+
+ERP customers have several options to reconcile feature gaps, each with their own pros/cons. Technical solutions include rewriting part of the delivered software, writing a homegrown module to work within the ERP system, or interfacing to an external system. These three options constitute varying degrees of system customization—with the first being the most invasive and costly to maintain.<ref name="Fryling 2010 391–421">{{cite journal|last=Fryling|first=Meg|title=Estimating the impact of enterprise resource planning project management decisions on post-implementation maintenance costs: a case study using simulation modelling|journal=Enterprise Information Systems|year=2010|volume=4|issue=4|pages=391–421}}</ref> Alternatively, there are non-technical options such as changing business practices or organizational policies to better match the delivered ERP feature set. Key differences between customization and configuration include:
+
+* Customization is always optional, whereas the software must always be configured before use (e.g., setting up cost/profit center structures, organizational trees, purchase approval rules, etc.).
+* The software is designed to handle various configurations, and behaves predictably in any allowed configuration.
+* The effect of configuration changes on system behavior and performance is predictable and is the responsibility of the ERP vendor. The effect of customization is less predictable. It is the customer's responsibility, and increases testing activities.
+* Configuration changes survive upgrades to new software versions. Some customizations (e.g., code that uses pre–defined "hooks" that are called before/after displaying data screens) survive upgrades, though they require retesting. Other customizations (e.g., those involving changes to fundamental data structures) are overwritten during upgrades and must be re-implemented.<ref>{{cite journal|last=Yakovlev|first=I.V.|title=An ERP implementation and business process reengineering at a Small University|journal=Educause Quarterly|year=2002|volume=2|pages=52–57}}</ref>
+
+Customization advantages include that it:
+* Improves user acceptance<ref>{{cite book|last=Fryling|first=Meg|title=Total Cost of Ownership, System Acceptance and Perceived Success of Enterprise Resource Planning Software: Simulating a Dynamic Feedback Perspective of ERP in the Higher Education Environment|year=2010|publisher=ProQuest Dissertations and Theses database|isbn=978-1-109-74428-6|page=403}}</ref>
+* Offers the potential to obtain competitive advantage vis-à-vis companies using only standard features
+
+Customization disadvantages include that it:
+* Increases time and resources required to implement and maintain<ref name="Fryling 2010 391–421"/>
+* Inhibits seamless communication between suppliers and customers who use the same ERP system uncustomized{{Citation needed|date=September 2009}}
+* Can create over reliance on customization, undermining the principles of ERP as a standardizing software platform
+
+===Extensions===
+ERP systems can be extended with third–party software.<ref>{{cite web|last=Denton|first=Adam|title=Ecount|url=http://www.ecounterp.com/product/web-based/product-saas-erp-overview.jsp}}</ref> ERP vendors typically provide access to data and features through published interfaces. Extensions offer features such as:{{Citation needed|date=September 2009}}
+* Reporting, and republishing
+* Capturing transactional data, e.g., using [[Image scanner|scanner]]s, tills or [[RFID]]
+* Access to specialized data and capabilities, such as syndicated marketing data and associated [[Trend analysis|trend analytics]]
+* [[Advanced planning and scheduling]] (APS)
+* Managing facilities, and transmission in real-time
+
+===Data migration===
+[[Data migration]] is the process of moving, copying, and restructuring data from an existing system to the ERP system. Migration is critical to implementation success and requires significant planning. Unfortunately, since migration is one of the final activities before the production phase, it often receives insufficient attention. The following steps can structure migration planning:<ref>{{cite web |author=Ramaswamy Nilesh V K |title=Data Migration Strategy in ERP |date=September 27, 2007|url=http://research.ittoolbox.com/white-papers/backoffice/erp/data-migration-strategies-in-erp-4620/|accessdate=April 8, 2008}}</ref>
+* Identify data to migrate
+* Determine migration timing
+* Generate data templates{{Clarify|date=January 2013}}
+* Freeze the toolset
+* Decide on migration-related setups{{Clarify|date=January 2013}}
+* Define [[data archiving]] policies and procedures
+
+==Comparison to special–purpose applications==
+
+===Advantages===
+The fundamental advantage of ERP is that integrated myriad businesses processes saves time and expense. Management can make decisions faster and with fewer errors. Data becomes visible across the organization. Tasks that benefit from this integration include:{{Citation needed|date=November 2011}}
+* Sales forecasting, which allows [[inventory optimization]].
+* Chronological history of every transaction through relevant data compilation in every area of operation.
+* [[Order tracking]], from acceptance through fulfillment
+* Revenue tracking, from [[invoice]] through cash receipt
+* Matching [[purchase order]]s (what was ordered), inventory receipts (what arrived), and [[cost]]ing (what the vendor invoiced)
+
+ERP systems centralize business data, which:
+* Eliminates the need to synchronize changes between multiple systems—consolidation of finance, marketing, sales, human resource, and manufacturing applications
+* Brings legitimacy and transparency to each bit of statistical data
+* Facilitates standard [[Product naming convention|product naming/coding]]
+* Provides a comprehensive enterprise view (no "islands of information"), making real–time information available to management anywhere, any time to make proper decisions
+* Protects sensitive data by consolidating multiple security systems into a single structure<ref>{{cite web |first=Katherine |last=Walsh |url=http://www.csoonline.com/article/216940/The_ERP_Security_Challenge |title=The ERP Security Challenge |work=CSOonline |publisher=CXO Media Inc |date=January 2009 |accessdate=January 17, 2008}}</ref>
+
+===Benefits===
+
+* ERP can improve quality and efficiency of the business. By keeping a company's internal business processes running smoothly, ERP can lead to better outputs that may benefit the company, such as in customer service and manufacturing.
+* ERP  supports upper level management by providing information for decision making.
+* ERP creates a more agile company that adapts better to change. ERP makes a company more flexible and less rigidly structured so organization components operate more cohesively, enhancing the business—internally and externally.<ref>{{cite book|last=O'Brien|first=James|title=Management Information Systems(MIS)|year=2011|publisher=McGraw-Hill, Irwin|location=New York|page=324}}</ref>
+* ERP can improve data security. A common control system, such as the kind offered by ERP systems, allows organizations the ability to more easily ensure key company data is not compromised.{{citation needed|date=October 2013}}
+* ERP provides increased opportunities for [[collaboration]]. Data takes many forms in the modern enterprise. Documents, files, forms, audio and video, [[email]]s. Often, each data medium has its own mechanism for allowing collaboration. ERP provides a collaborative platform that lets employees spend more time collaborating on content rather than mastering the learning curve of communicating in various formats across distributed systems.{{citation needed|date=October 2013}}
+
+===Disadvantages===
+* Customization can be problematic. Compared to the best-of-breed approach, ERP can be seen as meeting an organization’s lowest common denominator needs, forcing the organization to find workarounds to meet unique demands.<ref>{{cite web|last=Young |first=Joanna |url=http://www.evolllution.com/opinions/audio-best-of-breed-vs-erp-whats-higher-ed-today/ |title=AUDIO &#124; Best-of-Breed vs. ERP: What’s Best for Higher Ed Today? |publisher=The EvoLLLution |accessdate=July 14, 2015}}</ref>
+* [[Business process re-engineering|Re-engineering business processes]] to fit the ERP system may damage competitiveness or divert focus from other critical activities.
+* ERP can cost more than less integrated or less comprehensive solutions.
+* High ERP [[switching cost]]s can increase the ERP vendor's negotiating power, which can increase support, maintenance, and upgrade expenses.
+* Overcoming resistance to sharing sensitive information between departments can divert management attention.
+* Integration of truly independent businesses can create unnecessary dependencies.
+* Extensive training requirements take resources from daily operations.
+* Due to ERP's architecture (OLTP, [[On-Line Transaction Processing]]) ERP systems are not well suited for [[production planning]] and [[supply chain management]] (SCM).
+* Harmonization of ERP systems can be a mammoth task (especially for big companies) and requires a lot of time, planning, and money.<ref>{{cite web|url=http://www.cfo-insight.com/reporting-forecasting/forecasting/the-minefield-of-harmonising-erp/ |title=The Minefied of Harmonising ERP |publisher=Cfo-insight.com |date=July 23, 2012 |archiveurl=https://web.archive.org/web/20120727021524/http://www.cfo-insight.com/reporting-forecasting/forecasting/the-minefield-of-harmonising-erp |archivedate=July 27, 2012}}</ref>
+
+Recognized ERP limitations have sparked new trends in ERP application development. Development is taking place in four significant areas: more flexible ERP, Web-enabled ERP, inter-enterprise ERP, and e-business suites.
+
+==See also==
+
+* [[List of ERP software packages]]
+* [[Accounting software]]
+* [[Business process management]]
+* [[Cost accounting]]
+* [[Cybernetics]]
+* [[Document automation]]
+* [[Data migration]]
+* [[Economic planning]]
+* [[Enterprise feedback management]] (EFM)
+* [[Enterprise planning systems]]
+* [[Enterprise system]]
+* [[ERP modeling]]
+* [[ERP4IT|ERP for IT]]
+* [[ERP system selection methodology]]
+* [[Information technology management]]
+* [[List of project management software]]
+* [[Management information system]]
+* [[Manufacturing operations management]]
+* [[Material balance planning]]
+* [[Operations research]]
+* [[Service management]]
+* [[Software as a service]]
+{{div col end}}
+{{clear}}
+
+==References==
+{{Reflist|30em}}
+
+==Bibliography==
+*{{Cite journal
+|last=Grant
+|first=David
+|author2=Richard Hall |author3=Nick Wailes |author4=Christopher Wright
+ |date=March 2006
+|title=The false promise of technological determinism: the case of enterprise resource planning systems
+|journal=New Technology, Work & Employment
+|volume=21
+|issue=1
+|pages=2–15
+|doi=10.1111/j.1468-005X.2006.00159.x
+}}
+*{{Cite journal
+|last=Loh
+|first=Tee Chiat
+|author2=Lenny Koh Siau Ching
+|date=September 2004
+|title=Critical elements for a successful ERP implementation in SMEs
+|journal=International Journal of Production Research
+|volume=42
+|issue=17
+|pages=3433–3455
+|doi=10.1080/00207540410001671679
+}}
+*{{Cite journal
+|last=Shaul
+|first=Levi
+|author2=Tauber Doron
+|date=September 2010
+|title=Hierarchical examination of success factors across ERP life cycle
+|journal=MCIS 2010 Proceedings.
+|page=79
+|url=http://aisel.aisnet.org/mcis2010/79/
+}}
+*{{Cite book |last=Head |first=Simon |title=The New Ruthless Economy. Work and Power in the Digital Age |year=2005 |publisher=Oxford UP |isbn=0-19-517983-8}}
+*{{Cite book |last=Waldner |first=Jean-Baptiste |title=Principles of Computer Integrated Manufacturing |year=1992 |publisher=John Wiley & Sons Ltd |location=Chichester |isbn=0-471-93450-X}}
+*{{Cite book |last=Waldner |first=Jean-Baptiste |title=Les nouvelles perspectives de la production |year=1990 |publisher=DUNOD BORDAS |location=Paris |isbn=978-2-04-019820-6}}
+*{{Cite book |last=Lequeux |first=Jean-Louis |title=Manager avec les ERP, Architecture Orientée Services (SOA) |year=2008 |publisher=EDITIONS D'ORGANISATION |location=Paris |isbn=978-2-212-54094-9}}
+*{{Cite journal
+|last=Clemons
+|first=E.K.
+|author2=Kimborough
+|year=1986
+|title=IS for Sustainable Competitive Advantage
+|journal=Information & Management
+|volume=11
+|issue=3
+|pages=131–136
+|doi=10.1016/0378-7206(86)90010-8
+}}
+* Henderson, Ian ''ERP From the Frontline'' MBE ISBN 978-1-898822-05-9  [http://www.mlg.uk.com/html/erpfrontline.htm Making ERP Work]
+
+==External links==
+{{Commons category|Enterprise resource planning}}
+* [http://www.cio.com/article/40323 CIO Magazine's ABCs of ERP]
+
+{{Sub-disciplines of computing}}
+
+{{DEFAULTSORT:Enterprise Resource Planning}}
+[[Category:ERP software]]
+[[Category:Information technology management]]
+[[Category:Production and manufacturing]]
+[[Category:Computer-aided engineering]]
+[[Category:Enterprise resource planning terminology]]
+[[Category:Business terms]]
+[[Category:Manufacturing]]
+[[Category:Management]]
+[[Category:Production and organizations]]
+[[Category:Supply chain management terms]]

@@ -1,0 +1,139 @@
+{{other uses}}
+{{taxobox
+ | name                = Aardwolf
+ | fossil_range        = [[Pleistocene]] – Recent
+ | status              = LC
+ | status_system       = IUCN3.1
+ | status_ref          = {{refn | group = nb |Database entry includes a brief justification of why this species is of least concern <ref name="IUCN">{{harvnb|Anderson|Mills|2008}}</ref>}}
+ | image               = Aardwolf25.JPG
+ | image_width         = 300px
+ | image_caption       = An Aardwolf at the [[Cincinnati Zoo and Botanical Garden]].
+ | regnum              = [[Animal]]ia
+ | phylum              = [[Chordate|Chordata]]
+ | classis             = [[Mammal]]ia
+ | ordo                = [[Carnivora]]
+ | familia             = [[Hyaenidae]]
+ | subfamilia          = '''Protelinae'''
+| subfamilia_authority = Flower, 1869
+ | genus               = '''''Proteles'''''
+ | genus_authority     = [[Isidore Geoffroy Saint-Hilaire|I. Geoffroy Saint-Hilaire]], 1824
+ | species             = '''''P. cristata'''''
+ | synonyms            = ''Proteles Lalandii'' <small>[[Étienne Geoffroy Saint-Hilaire|St. Hilaire]]</small><ref>{{harvnb|Simpson|Weiner|1989|p=7}}</ref> 
+ | binomial            = ''Proteles cristata''
+ | binomial_authority  = [[Anders Sparrman|Sparrman]], 1783
+ | range_map           = Aardwolf area.png
+ | range_map_caption   = Aardwolf range
+}}
+The '''aardwolf''' (''Proteles cristata'') is a small, [[insectivore|insectivorous]] [[mammal]], native to [[East Africa]] and [[Southern Africa]]. Its name means "earth wolf" in the [[Afrikaans]] / [[Dutch language]].<ref name=EB/> It is also called "maanhaar jackal"<ref name="OED">{{harvnb|Oxford English Dictionary Online|2013}}</ref> (Literally "[[mane (lion)|mane]] jackal" in Afrikaans) or ''civet hyena'', based on the secretions reminiscent of [[civet]]s from their anal glands.<ref name=ingo/> The aardwolf is in the same family as the [[hyena]]s. Unlike many of its relatives in the order [[Carnivora]], the aardwolf does not hunt large [[animal]]s, or even eat meat on a regular basis; instead it eats [[insect]]s, mainly [[termite]]s – one aardwolf can eat about 250,000 termites during a single night by using its long, sticky [[tongue]] to capture them.<ref name=mh71/> The aardwolf lives in the [[Shrubland|scrublands]] of eastern and southern Africa – open lands covered with stunted trees and shrubs. The aardwolf is [[nocturnal]], resting in [[burrow]]s during the day and emerging at night to seek food. Their diet consists mainly of termites, and insect [[larva]]e.<ref name="wff">{{harvnb|Anon|1998|p=144}}</ref>
+
+==Taxonomy==
+The aardwolf is the only surviving species in the mammalian [[subfamily]] ''Protelinae''. There is disagreement as to whether there are any subspecies or if the species is monotypic. Some sources say that there are two [[subspecies]], ''P. c. cristatus'' of [[Southern Africa]] and ''P. c. septentrionalis'' of [[East Africa]],<ref name=ingo/><ref name=mh33/> whereas others say it is monotypic.<ref name=Woz>{{harvnb|Wozencraft|2005|p=573}}</ref> Recent studies have shown that the aardwolf probably broke away from the rest of the hyena family early on; however, how early is still unclear as the fossil record and the genetic studies differ by 10 million years.<ref name=koe>{{harvnb|Koepfli|Jenks|Eizirik|Zahirpour|2006|p=615}}</ref>{{refn| group = nb |The fossil record shows 18–20 mya, and genetic studies indicate roughly 10.6 mya.<ref name=koe/>}}
+
+The aardwolf is generally classified with the [[Hyaenidae]], though it was formerly placed into the family ''Protelidae''.{{refn|group=nb|Some sources such as Coetzee in Meester and Setzer (1977), Köhler and Ricardson (1990), and Yalden, Largen, and Koch (1980), classify the aardwolf in its own family still.<ref name=w1>{{harvnb|Nowak|2005|pp=222–223}}</ref>}} Early on, scientists felt that it was merely mimicking the [[striped hyena]], which subsequently led to the creation of Protelidae.<ref>{{harvnb|Brottman|2012|pp=28–29}}</ref>
+
+==Etymology==
+The genus name ''proteles'' comes from two words both of [[Greek language|Greek]] origin, ''protos'' and ''teleos'' which combined means "complete in front" based on the fact that they have five toes on their front feet and four on the rear.<ref name=ingo/> The species name, ''cristatus'' comes from [[Latin]] and means "provided with a comb", relating to their mane.<ref name=ingo/>
+
+==Physical characteristics==
+
+[[Image:Aardwolf02.jpg|thumb|left|Detail of head – taken at the [[Cincinnati Zoo]]. Note the ability to rotate the ears.]]
+The aardwolf resembles a very thin [[striped hyena]], but with a more slender [[snout|muzzle]], black vertical stripes on a coat of yellowish fur, and a long, distinct [[wikt:mane|mane]] down the midline of the neck and back. It also has one or two diagonal stripes down the fore and hindquarters, along with several stripes on its legs.<ref name=mh33>{{harvnb|Mills|Harvey|2001|p=33}}</ref> The mane is raised during confrontations in order to make the aardwolf appear larger. It is missing the throat spot that others in the family have.<ref name=ingo/> Its lower leg (from the knee down) is all black, and its tail is bushy with a black tip.<ref name=w1/> The aardwolf is about {{convert|55|to|80|cm|in}} long, excluding its bushy tail, which is about {{convert|20|-|30|cm|in}} long,<ref name=EB>{{harvnb|Hoiberg|2010|p=4}}</ref><ref name=w1/> and stands about {{convert|40|to|50|cm|in}} tall at the shoulders.<ref name="Colliers">{{harvnb|Goodwin|1997|p=3}}</ref> An adult aardwolf weighs approximately {{convert|7|–|10|kg|lb}}, sometimes reaching {{convert|15|kg|lb}}.<ref name=ingo>{{harvnb|Rieger|1990|pp=570–571}}</ref> The aardwolves in the south of the continent tend to be smaller (about {{convert|10|kg|lb}}), whereas the eastern version weighs more (around {{convert|14|kg|lb}}).<ref name=mh33/> The front feet have five toes each, unlike the four-toed hyena.<ref name=EB/><ref>{{harvnb|Brottman|2012|p=29}}</ref> The teeth and skull are similar to those of the hyena, though smaller,<ref name=Colliers/> and its cheek teeth are specialised for eating insects.<ref name=EB/> It does still have canines; however, unlike the hyena, these teeth are used primarily for fighting and defense.<ref name=w1/> Its ears, which are large,<ref name=w1/> are very similar to those of the [[striped hyena]].<ref name=ingo/>
+
+As an aardwolf ages, it will normally lose some of its teeth, though this has little impact on its feeding habits due to the softness of the insects that it eats.<ref name="wff" /> The aardwolf has two anal glands that secrete a musky fluid for marking territory and for communicating with other aardwolves.
+[[Image:Aardwolf Skull.JPG|thumb|left|Aardwolf [[skull]]]]
+
+==Distribution and habitat==
+Aardwolves live in open, dry plains and [[bushland]], avoiding mountainous areas.<ref name=w1/> Due to their specific food requirements, they are only found in regions where termites of the family [[Hodotermitidae]] occur. Termites of this family depend on dead and withered grass and are most populous in heavily grazed [[grassland]]s and [[savannah]]s, including [[arable land|farmland]]. For most of the year, aardwolves spend time in shared territories consisting of up to a dozen dens, which are occupied for six weeks at a time.<ref name="wff" />
+
+There are two distinct populations: one in Southern Africa, and another in East and Northeast Africa. The species does not occur in the intermediary [[miombo]] forests.
+
+An adult pair, along with their most recent offspring, will occupy a territory of {{convert|1|-|4|km2|sqmi}}.<ref name=mh108>{{harvnb|Mills|Harvey|2001|pp=108–109}}</ref>
+
+==Behavior==
+[[Image:Aardwolf.jpg|thumb|left|Aardwolf at the [[San Antonio Zoo and Aquarium|San Antonio Zoo]]]]
+Aardwolves are shy and [[nocturnal animal|nocturnal]], sleeping in underground burrows by day.<ref name=EB/> They will, on occasion during the winter, become diurnal feeders. This happens during the coldest periods as they then stay in at night to conserve heat.<ref name=br30>{{harvnb|Brottman|2012|p=30}}</ref>
+
+They have often been mistaken for solitary animals. In fact, they live as monogamous pairs with their young.<ref name="koel">{{harvnb|Koehler|Richardson|1990|p=4}}</ref> If their territory is infringed upon, they will chase the intruder up to {{convert|400|m|ft}} or to the border.<ref name=mh108/> If the intruder is caught, which rarely happens,<ref name=mh108/> a fight will occur, which is accompanied by soft clucking,<ref name=br31/> hoarse barking, and a type of roar.<ref name=PKR/> The majority of incursions occur during mating season, when they can occur 1–2 times per week.<ref name=PKR/> When food is scarce the stringent territorial system may be abandoned and as many as three pairs may occupy a "single territory."<ref name=PKR/>
+
+The territory is marked by both sexes, as they both have developed anal glands from which they extrude a black substance that is smeared on rocks or grass stalks in {{convert|5|mm|in|adj=on}} long streaks.<ref name=PKR/> They often mark near termite mounds within their territory every 20 minutes or so. If they are patrolling their territorial boundaries, the marking frequency increases drastically, to once every {{convert|50|m|ft}}. At this rate, an individual may mark 60 marks per hour,<ref name=PKR/> and upwards of 200 per night.<ref name=mh108/>
+
+An aardwolf pair may have up to ten dens, and numerous [[midden]]s, within their territory. When they deposit feces at their middens, they dig a small hole and then cover it with sand. Their dens are usually abandoned [[aardvark]], [[springhare]], or [[Old World porcupine|porcupine]] dens,<ref name=br31>{{harvnb|Brottman|2012|p=31}}</ref> or on occasion they are crevices in rocks. They will also dig their own dens, or enlarge dens started by springhares.<ref name=PKR/> They typically will only use one or two dens at a time, rotating through all of their dens every six months. During the summer, they may rest outside their den during the night, and sleep underground during the heat of the day.
+
+Aardwolfs are not fast runners nor are they particularly adept at fighting off predators. Therefore, when threatened, the aardwolf will attempt to mislead its foe by doubling back on its tracks. If confronted, it will raise its mane in an attempt to appear more menacing. It will also emit a foul-smelling liquid from its anal glands.<ref name=Colliers/>
+
+===Feeding===
+The aardwolf feeds primarily on termites and more specifically on ''[[Trinervitermes]]''.<ref name=mh71>{{harvnb|Mills|Harvey|2001|p=71}}</ref> This genus of termites has different species throughout the aardwolfs range. In East Africa, they eat ''[[Trinervitermes bettonianus]]'', and in central Africa they eat ''[[Trinervitermes rhodesiensis]]'', and finally in southern Africa, they eat ''[[Trinervitermes trinervoides]]''.<ref name=EB/><ref name=mh71/><ref name=PKR>{{harvnb|Richardson|Bearder|1984|pp=158–159}}</ref> Their technique consists of licking them off the ground as opposed to the [[aardvark]] which will dig into the mound.<ref name=br30/> They locate their food by sound and also from the scent secreted by the soldier termites.<ref name=PKR/> An aardwolf may consume up to 250,000 [[termites]] per night using its sticky, long tongue.<ref name=mh71/><ref name="wff" /> They do not destroy the termite mound or consume the entire colony, thus ensuring that the termites can rebuild and provide a continuous supply of food. They will often memorize the location of such nests and return to them every few months.<ref name=br31/> During certain seasonal events, such as the onset of the rainy season and the cold of mid-winter, the primary termites become scarce and so the need for other forms of sustenance becomes pronounced. During these times, the southern aardwolf will seek out ''[[Hodotermes mossambicus]]'', a type of [[harvester termite]],<ref name=PKR/> a termite active in the afternoon, which explains some of their diurnal behavior in the winter.<ref name=mh71/> The eastern aardwolf will, during the rainy season, get variety by subsisting on termites from the genera ''[[Odontotermes]]'' and ''[[Macrotermes]]''.<ref name=mh71/> They are also known to feed on other insects, larvae, eggs and, some sources say, occasionally small [[mammals]] and [[birds]], but these constitute a very small percentage of their total diet.<ref name=PKR/> Unlike other [[hyena]]s, aardwolves do not scavenge or kill larger animals.<ref name=w1/><ref name=br31/> Contrary to popular myths, aardwolfs do not eat carrion, and if they are seen eating while hunched over a dead carcass, it is actually eating larvae and beetles.<ref name=w1/> Also, contrary to some sources, they do not like meat, unless it is finely ground or cooked for them.<ref name=w1/> The adult aardwolf was formerly assumed to forage in small groups,<ref name=Colliers/> however, more recent research has shown that they are primarily solitary foragers,<ref name=koel/> necessary because of the scarcity of their insect prey. Their primary source, ''Trinervitermes'', forages in small but dense patches of {{convert|25|-|100|cm|in}}.<ref name=PKR/> While foraging, the aardwolf will cover about {{convert|1|km|mi}} per hour, which translates to {{convert|8|-|12|km|mi}} per summer night and {{convert|3|-|8|km|mi}} per winter night.<ref name=w1/>
+
+===Breeding===
+The [[breeding season]] varies depending on their location, but normally takes place during autumn or spring. In South Africa, breeding occurs in early July.<ref name=mh108/> During the breeding season, unpaired male aardwolves will search their own territory, as well as others, for a female to mate with. Dominant males will also mate opportunistically with the females of less dominant neighboring aardwolves,<ref name=mh108/> which can result in conflict between rival males.<ref name=ingo/> Dominant males will even go a step further and as the breeding season approaches, they will make increasingly greater and greater incursions onto weaker males' territories. As the female comes into [[oestrus]], they will add pasting to their tricks inside of the other territories, sometimes doing so more in rivals' territories than their own.<ref name=mh108/> Females will also, when given the opportunity, mate with the dominant male, which will increase the chances of the dominat male guarding "his" cubs with her.<ref name=mh108/> [[Gestation]] lasts between 89 and 92 days,<ref name=ingo/><ref name=mh108/> producing two to five [[List of animal names|cubs]] (most often two or three) during the rainy season (Nov–Dec),<ref name=Colliers/> when termites are more active.<ref name=EB/> They are born with their eyes open but initially are helpless,<ref name=PKR/> and weigh around {{convert|200|-|350|g|oz}}.<ref name=ingo/> The first six to eight weeks are spent in the [[Burrow|den]] with their parents.<ref name=br31/> The male may spend up to six hours a night watching over the cubs while the mother is out looking for food.<ref name=mh108/><ref name=PKR/> After three months, they begin supervised foraging and by four months are normally independent, though they will often share a den with their mother until the next breeding season.<ref name=br31/> By the time the next set of cubs is born, the older cubs have moved on.<ref name=mh108/> Aardwolves generally achieve [[sexual maturity]] at one and a half to two years of age.<ref name=ingo/>
+
+==Conservation==
+The aardwolf has not seen decreasing numbers and they are relatively widespread throughout eastern Africa. They are not common throughout their range, as they maintain a density of no more than 1 per square kilometer, if the food is good. Because of these factors, the IUCN has rated the aardwolf as [[least concern]].<ref name="IUCN">{{IUCN | id =18372| taxon =Proteles cristata | assessors =Anderson, H & Mills, G.| assessment_year =2008 | version =3.1 | accessdate =04/06/2013 }}</ref> In some areas, they are persecuted by man because of the mistaken belief that they prey on livestock; however, they are actually beneficial to the farmers because they eat termites that are detrimental.<ref name=PKR/> In other areas, the farmers have recognized this, but they are still killed, on occasion, for their fur. Dogs and insecticides<ref name="IUCN"/> are also common killers of the aardwolf.<ref name=br31/>
+
+==Interaction with humans==
+Aardwolfs are common sights at zoos. [[Frankfurt Zoo]] in [[Germany]] was home to the oldest recorded aardwolf in captivity at 18 years and 11 months.<ref name=w1/>
+
+<!-- Commented out: [[Image:Aardwolf (Harvard University).JPG|thumb|''Proteles cristatus'']] -->
+[[Image:Aardwolf.png|thumb|Illustration of ''Proteles cristatus'']]
+
+{{clear left}}
+
+==Notes==
+{{reflist | group = nb }}
+
+==Footnotes==
+{{Reflist|30em}}
+
+==References==
+* {{wikicite | reference = {{IUCN2008 | assessors = Anderson, M.; Mills, G. | year = 2008 | id = 18372 | title = Proteles cristatus: Aardwolf | downloaded = 22 March 2009 }} | ref = {{harvid | Anderson | Mills | 2008}} }}
+
+* {{cite book | author = Anon | title = Wildlife Fact File | publisher = IMP Publishing Ltd | year = 1998 | volume = Group 1 | pages = Card 144 | nopp = true | isbn = 978-1886614772 | ref = harv }}
+
+* {{cite book | last = Brottman | first = Mikita | editor-last = Burt | editor-first = Jonathon | title = Hyena | series = Animal | year = 2012 | pages = 28–32 | url = https://books.google.com/books?id=9wfhR4fBEDYC&printsec=frontcover | publisher = Reaktion Books | location = London, UK | isbn = 978-1-86189-9217 | ref = harv }}
+
+* {{cite encyclopedia | last1 = Goodwin | first1 = George G. | editor-last = Johnston | editor-first = Bernard | encyclopedia = Collier's Encyclopedia | title = Aardwolf | edition = 1st | year = 1997 | publisher = P.F. Collier | volume = I: A to Ameland | location = New York, NY | ref = harv }}
+
+* {{cite encyclopedia | editor-last = Hoiberg | editor-first = Dale H. | encyclopedia = Encyclopædia Britannica | title = Aardwolf | edition = 15th | year = 2010 | publisher = Encyclopædia Britannica, Inc. | volume = I: A-Ak - Bayes | location = Chicago, IL | isbn = 978-1-59339-837-8 | ref = harv }}
+
+* {{cite journal | last1 = Koehler | first1 = C. E. | last2 = Richardson | first2 = P. R. K. | year = 1990 | title = Proteles cristatus | journal = [[Mammalian Species]] | volume = 363 | issue = | pages = 1–6 | jstor = 3504197 | publisher = American Society of Mammalogists | ref = harv }}
+
+* {{cite journal | last1 = Koepfli | first1 = Klaus-Peter | last2 = Jenks | first2 = Susan M. | last3 = Eizirik | first3 = Eduardo | last4 = Zahirpour | first4 = Tannaz | last5 = Van Valkenburgh | first5 = Blaire | last6 = Wayne | first6 = Robert K. | title = Molecular systematics of the Hyaenidae: Relationships of a Relictual Lineage Resolved by a Molecular Supermatrix | url = http://www.sciencedirect.com/science/article/pii/S1055790305003623 | format = PDF | year = 2006 | volume = 38 | issue = 3 | journal = Molecular Phylogenetics and Evolution | pages = 603–620 | doi = 10.1016/j.ympev.2005.10.017 | issn = 1055-7903 | pmid=16503281 | ref = harv }}
+
+* {{cite book | last1 = Mills | first1 = Gus | last2 = Harvey | first2 = Martin | title = African Predators | publisher = Smithsonian Institution Press | location = Washington, DC | year = 2001 | isbn = 1-56098-096-6 | ref = harv }}
+
+* {{cite book | last = Nowak | first = Ronald M. | title = Walker's Carnivores of the World | year = 2005 | isbn = 0-8018-8032-7 | publisher = The Johns Hopkins University Press | location = Baltimore, MD | ref = harv }}
+
+* {{cite web | author = Oxford English Dictionary Online | url = http://www.oed.com/view/Entry/243856?redirectedFrom=maanhaar& | title = maanhaar | year = 2013 | accessdate = 23 April 2014 | website = Oxford English Dictionary | ref = harv }}
+
+* {{cite encyclopedia | last1 = Richardson | first1 = Phillip K. R. | last2 = Bearder | first2 = Simon K. | editor1-last = MacDonald | editor1-first = David | encyclopedia = The Encyclopedia of Mammals | title = The Hyena Family | isbn = 0-87196-871-1 | publisher = Facts on File Publication | location = New York, NY | year = 1984 | ref = harv }}
+
+* {{cite encyclopedia | last = Rieger | first = Ingo | editor1-last = Parker | editor1-first = Sybil P. | title = Hyenas | encyclopedia = Grzimek's Encyclopedia of Mammals | volume = 3 | publisher = McGraw-Hill Publishing Company | location = New York, NY | isbn = 0-07-909508-9 | year = 1990 | ref = harv }}
+
+* {{cite encyclopedia | editor1-last = Simpson | editor1-first = J. A. | editor2-last = Weiner | editor2-first = E. S. C. | encyclopedia = The Oxford English Dictionary | title = aard-wolf | year = 1989 | publisher = Clarendon Press | location = Oxford, UK | isbn = 0-19-861213-3 | edition = 2nd | volume = I: A — Bazouki | ref = harv }}
+
+* {{MSW3 Carnivora | id = 14000689 | page = 573}}
+
+==Further reading==
+* {{cite book | last1 = Skinner | first1 = J. D. | last2 = Chimimba | first2 = Christian T. | title = The Mammals of the Southern African Sub-region | url = http://books.google.com/?id=iqwEYkTDZf4C | accessdate = 15 March 2013 | year = 2006 | publisher = Cambridge University Press | isbn = 978-0-521-84418-5 | edition = 3rd}}
+
+==External links==
+{{Commons|Proteles cristatus}}
+{{Wikispecies|Proteles cristatus}}
+* [http://animaldiversity.ummz.umich.edu/site/accounts/information/Proteles_cristatus.html Animal Diversity Web]
+* [http://www.hyaenidae.org/the-hyaenidae/aardwolf-proteles-cristatus.html IUCN Hyaenidae Specialist Group Aardwolf pages on hyaenidae.org]
+* {{Wikisource-inline|list=
+** {{Cite EB1911|wstitle=Aard-wolf |short=x |noicon=x}}
+** {{Cite Collier's|wstitle=Aard-wolf |short=x |noicon=x}}
+}}
+
+{{Carnivora|F.}}
+
+{{use dmy dates|date=January 2012}}
+
+[[Category:Animals described in 1783]]
+[[Category:Carnivorans of Africa]]
+[[Category:Hyenas]]
+[[Category:Mammals of Africa]]
+[[Category:Fauna of Southern Africa]]
+[[Category:Fauna of East Africa]]
+[[Category:Myrmecophagous mammals]]

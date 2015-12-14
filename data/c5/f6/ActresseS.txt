@@ -1,0 +1,3 @@
+#REDIRECT [[Lists of actors]]
+
+{{Redr|from CamelCase|move|up}}

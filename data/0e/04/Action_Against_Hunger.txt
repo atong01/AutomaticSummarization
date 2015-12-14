@@ -1,0 +1,64 @@
+{{Multiple issues|
+{{refimprove|date=January 2010}}
+{{self-published|date=January 2010}}
+}}
+{{Infobox organization
+|name         = Action Against Hunger
+|image        = ActionAgainstHungerLogo.png
+|image_border =
+|size         = 210px
+|caption      =
+|map          =
+|msize        =
+|mcaption     =
+|mission        = Action Against Hunger saves the lives of severely malnourished children while helping vulnerable communities become self-sufficient.
+|formation    = {{start date|1979}}
+|extinction   =
+|type         = [[non-profit organization|Non-profit]]
+|status       = 501(c)(3)
+|purpose      = To end child malnutrition while providing communities with access to safe water and sustainable solutions to hunger.
+|headquarters = New York, USA; Montreal, Canada; London, UK; Paris, France; Madrid, Spain
+|location     =
+|region_served = Over 45 countries around the world
+|membership   =
+|language     =
+|leader_title =
+|leader_name  =
+|main_organ   =
+|parent_organization =
+|affiliations =
+|num_staff    =
+|num_volunteers =
+|US budget       = $58,401,115 in 2014 <ref>[http://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3212 Charity Navigator Rating - Action Against Hunger | ACF-USA<!-- Bot generated title -->]</ref>
+|website      = [http://www.actionagainsthunger.org www.actionagainsthunger.org (US)] [http://www.actionagainsthunger.org.uk www.actionagainsthunger.org.uk (UK)]
+|remarks      =
+}}
+'''Action Against Hunger''' is a global [[humanitarian organization]] committed to ending world hunger. The organization helps malnourished children while providing communities with access to safe water and sustainable solutions to hunger.
+
+==History==
+Action Against Hunger was established in 1979 by a group of French doctors, scientists, and writers. Nobel Prize-winning physicist [[Alfred Kastler]] served as the organization's first chairman.
+
+The group initially provided assistance to [[Afghan refugees]] in [[Pakistan]], famine-stricken [[Uganda]]n communities, and [[Cambodia]]n refugees in [[Thailand]]. It expanded to address additional humanitarian concerns in Africa, the Middle East, Southeast Asia, the Balkans and elsewhere during the 1980s and 1990s. Action Against Hunger's Scientific Committee pioneered the therapeutic milk formula ([[F-100 (food)|F100]]), now used by all major humanitarian aid organizations to treat [[acute malnutrition]]. As a result, the global mortality rate of severely malnourished children under the age of five has been reduced from 25% to 5%.<ref>{{cite web|title=Definition and evaluation of therapeutic food for severely malnourished children in  situations of humanitarian emergencies|url=http://www.ncbi.nlm.nih.gov/pubmed/10188315|publisher=PubMed}}</ref> A few years later, therapeutic milk was repackaged as ready-to-use therapeutic foods (RUTFs), a peanut-based paste packaged like a power bar. These bars allow for the treatment of malnutrition at home, and do not require any preparation or refrigeration.
+
+Action Against Hunger – USA was established in 1997. The international network currently has headquarters in five countries – France, Spain, the United States, Canada, and the UK. 
+
+===Restaurants Against Hunger===
+Action Against Hunger's Restaurants Against Hunger Campaign partners with leaders from the food and beverage industry to bring attention to global hunger. Each year, the campaign raises funds and support for Action Against Hunger's programs.<ref>[http://www.restaurantsagainsthunger.org Love Food Give Food - Action Against Hunger<!-- Bot generated title -->]</ref><ref>[http://www.actionagainsthunger.org/get-involved/restaurants-against-hunger Restaurants Against Hunger | Action Against Hunger<!-- Bot generated title -->]</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.actionagainsthunger.org/ Action Against Hunger US website]
+*[http://www.actionagainsthunger.org.uk/ Action Against Hunger UK website]
+*[http://www.actioncontrelafaim.org/ Action Contre la Faim France website]
+*[http://www.accioncontraelhambre.org/ Acción Contra el Hambre Spain website]
+*[http://www.actioncontrelafaim.ca/ Action Contre la Faim Canada website]
+
+[[Category:Organizations established in 1979]]
+[[Category:Development organizations]]
+[[Category:Humanitarian aid organizations]]
+[[Category:International charities]]
+[[Category:Charities based in France]]
+[[Category:Hunger relief organizations]]
+[[Category:Faith-based organizations]]

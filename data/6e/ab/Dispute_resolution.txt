@@ -1,0 +1,72 @@
+{{construction}}
+{{Selfref|For dispute resolution policies on Wikipedia, see [[Wikipedia:Dispute resolution]].}}
+{{Use dmy dates|date=April 2015}}
+{{Alternative dispute resolution}}
+
+'''Dispute resolution''' is the process of resolving disputes between [[Party (law)|parties]].
+
+==Methods==
+Methods of dispute resolution include:
+* [[lawsuit]]s (litigation)
+* [[arbitration]]
+* [[collaborative law]]
+* [[mediation]]
+* [[conciliation]]
+* many types of [[negotiation]]
+* facilitation
+One could theoretically include [[violence]] or even [[war]] as part of this spectrum, but dispute resolution practitioners do not usually do so; violence rarely ends disputes effectively, and indeed, often only escalates them. 
+
+Dispute resolution processes fall into two major types:
+# [[adjudication|Adjudicative]] processes, such as litigation or arbitration, in which a judge, jury or arbitrator determines the outcome.
+# Consensual processes, such as collaborative law, mediation, conciliation, or negotiation, in which the parties attempt to reach agreement.
+
+Not all disputes, even those in which skilled intervention occurs, end in resolution. Such [[intractable conflict|intractable]] disputes form a special area in dispute resolution studies.{{Citation needed|date=May 2007}}
+
+Dispute Resolution is an important requirement in International Trade:Negotiation, Mediation, Arbitration and Legal Action.<ref>''Global Business Environment'' (Fifth Edition) By FITT
+Pages 301,302 & 303</ref>
+
+==Judicial dispute resolution==
+The [[legal system]] provides resolutions for many different types of disputes. However, some disputants will not reach agreement through a collaborative processes. Some disputes need the coercive power of the state to enforce a resolution. Perhaps more importantly, many people want a professional advocate when they become involved in a dispute, particularly if the dispute involves perceived legal rights, legal wrongdoing, or threat of legal action against them.
+
+The most common form of judicial dispute resolution is litigation. Litigation is initiated when one party files suit against another. In the [[United States]], litigation is facilitated by the government within federal, state, and municipal courts. The proceedings are very formal and are governed by rules, such as rules of evidence and procedure, which are established by the legislature. Outcomes are decided by an impartial [[judge]] and/or [[jury]], based on the factual questions of the case and the application law. The verdict of the court is binding, not advisory; however, both parties have the right to appeal the judgment to a higher court. Judicial dispute resolution is typically adversarial in nature, for example, involving antagonistic parties or opposing interests seeking an outcome most favorable to their position.   
+
+Retired judges or private lawyers often become arbitrators or mediators; however, trained and qualified non-legal dispute resolution specialists form a growing body within the field of ADR. In the [[United States of America]], many states now have mediation or other ADR programs annexed to the courts, to facilitate settlement of lawsuits.<ref>Alex Moseti, 2015 Bachelor of Real Estate</ref>
+
+==Extrajudicial dispute resolution==
+Some use the term ''dispute resolution'' to refer only to [[alternative dispute resolution]] (ADR), that is, extrajudicial processes such as arbitration, collaborative law, and mediation used to resolve conflict and potential conflict between and among individuals, [[business]] entities, governmental agencies, and (in the [[public international law]] context) [[Sovereign state|states]]. ADR generally depends on agreement by the parties to use ADR processes, either before or after a dispute has arisen. ADR has experienced steadily increasing acceptance and utilization because of a perception of greater flexibility, costs below those of traditional litigation, and speedy resolution of disputes, among other perceived advantages. However, some have criticized these methods as taking away the right to seek redress of grievances in the [[court]]s, suggesting that extrajudicial dispute resolution may not offer the fairest way for parties not in an equal bargaining relationship, for example in a dispute between a [[consumer]] and a large [[corporation]]. In addition, in some circumstances, arbitration and other ADR processes may become as expensive as litigation or more so.{{Citation needed|date=May 2007}}
+
+==Online dispute resolution==
+Dispute resolution can also take place on-line or by using technology in certain cases. [[Online dispute resolution]], a growing field of dispute resolution, uses new technologies to solve disputes. Online Dispute Resolution is also called "ODR". Online Dispute Resolution or ODR also involves the application of traditional dispute resolution methods to disputes which arise online.{{Citation needed|date=May 2007}}
+
+==See also==
+* [[Alternative dispute resolution]]
+* [[Collaborative divorce]]
+* [[Collaborative law]]
+* [[Conflict resolution]]
+* [[Conflict resolution research]]
+* [[Creative Peacebuilding]]
+* [[Diplomacy]]
+* [[Party-directed mediation]]
+* [[Peacekeeping]]
+* [[Restorative justice]]
+* [[National Arbitration Forum]]
+
+== References ==
+{{reflist}}
+
+==Further reading==
+* Sherwyn, David, Tracey, Bruce & Zev Eigen, "In Defense of Mandatory Arbitration of Employment Disputes: Saving the Baby, Tossing out the Bath Water, and Constructing a New Sink in the Process", 2 ''U. Pa. J. Lab. & Emp. L.'' 73 (1999)
+* Ury, William, 2000. ''The Third Side: Why We Fight and How We Can Stop''. New York: Penguin Putnam. ISBN 0-14-029634-4
+
+== External links ==
+* [http://www.nysdra.org New York State Dispute Resolution Association] Resources for dispute resolution practitioners and consumers.
+* [http://johnjay.jjay.cuny.edu/dispute City University of New York Dispute Resolution Consortium (CUNY DRC)]
+* [http://www.peacemakers.ca/ Peacemakers Trust] offers extensive resources in the field of dispute resolution.
+* [http://law.pepperdine.edu/straus/ Straus Institute for Dispute Resolution at Pepperdine University School of Law]
+* [http://ncrconline.com National Conflict Resolution Center (NCRC)]
+* [http://www.mediationtrainings.org National Mediation Training Registry]
+*[http://peacemaker.un.org/ UN Peacemaker, United Nations]
+
+[[Category:Dispute resolution| ]]
+
+[[lt:Ginčų sprendimas]]

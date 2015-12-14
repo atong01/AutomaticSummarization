@@ -1,0 +1,1129 @@
+{{Redirect|EU}}
+{{pp-semi-indef}}
+{{pp-move-indef}}
+
+{{Use British English|date=July 2013}}
+{{Use dmy dates|date=September 2015}}
+{{Infobox geopolitical organisation
+|name = 
+ {{collapsible list
+  |titlestyle = background:transparent; font-size:9pt;
+  |title = {{resize|11.5pt|European Union}}
+  |{{Infobox|subbox=yes|bodystyle= font-size:9pt;
+    | rowclass1 = mergedrow| label1 = [[Bulgarian language|Bulgarian]]: | data1 = {{lang|bg|Европейски съюз}}
+    | rowclass2 = mergedrow| label2 = [[Croatian language|Croatian]]: | data2 = {{lang|hr|Europska unija}}
+    | rowclass3 = mergedrow| label3 = [[Czech language|Czech]]: | data3 = {{lang|cs|Evropská unie}}
+    | rowclass4 = mergedrow| label4 = [[Danish language|Danish]]: | data4 = {{lang|da|Den Europæiske Union}}
+    | rowclass5 = mergedrow| label5 = [[Dutch language|Dutch]]: | data5 = {{lang|nl|Europese Unie}}
+    | rowclass6 = mergedrow| label6 = [[Estonian language|Estonian]]: | data6 = {{lang|et|Euroopa Liit}}
+    | rowclass7 = mergedrow| label7 = [[Finnish language|Finnish]]: | data7 = {{lang|fi|Euroopan unioni}}
+    | rowclass8 = mergedrow| label8 = [[French language|French]]: | data8 = {{lang|fr|Union européenne}}
+    | rowclass9 = mergedrow| label9 = [[German language|German]]: | data9 = {{lang|de|Europäische Union}}
+    | rowclass10 = mergedrow| label10 = [[Greek language|Greek]]: | data10 = {{lang|el|Ευρωπαϊκή Ένωση}}
+    | rowclass11 = mergedrow| label11 = [[Hungarian language|Hungarian]]: | data11 = {{lang|hu|Európai Unió}}
+    | rowclass12 = mergedrow| label12 = [[Irish language|Irish]]: | data12 = {{lang|ga|An tAontas Eorpach}}
+    | rowclass13 = mergedrow| label13 = [[Italian language|Italian]]: | data13 = {{lang|it|Unione europea}}
+    | rowclass14 = mergedrow| label14 = [[Latvian language|Latvian]]: | data14 = {{lang|lv|Eiropas Savienība}}
+    | rowclass15 = mergedrow| label15 = [[Lithuanian language|Lithuanian]]: | data15 = {{lang|lt|Europos Sąjunga}}
+    | rowclass16 = mergedrow| label16 = [[Maltese language|Maltese]]: | data16 = {{lang|mt|Unjoni Ewropea}}
+    | rowclass17 = mergedrow| label17 = [[Polish language|Polish]]: | data17 = {{lang|pl|Unia Europejska}}
+    | rowclass18 = mergedrow| label18 = [[Portuguese language|Portuguese]]: | data18 = {{lang|pt|União Europeia}}
+    | rowclass19 = mergedrow| label19 = [[Romanian language|Romanian]]: | data19 = {{lang|ro|Uniunea Europeană}}
+    | rowclass20 = mergedrow| label20 = [[Slovak language|Slovak]]: | data20 = {{lang|sk|Európska únia}}
+    | rowclass21 = mergedrow| label21 = [[Slovene language|Slovene]]: | data21 = {{lang|sl|Evropska unija}}
+    | rowclass22 = mergedrow| label22 = [[Spanish language|Spanish]]: | data22 = {{lang|es|Unión Europea}}
+    | rowclass23 = mergedrow| label23 = [[Swedish language|Swedish]]: | data23 = {{lang|sv|Europeiska unionen}}
+   }}
+ }}
+|linking_name = Europe
+|image_flag = Flag of Europe.svg
+|alt_flag = Circle of 12 gold stars on a blue background
+|motto = "[[Motto of the European Union|United in diversity]]"<ref name="Four Freedoms"/><ref name="EU-Symbols"/><ref name="Legislative Observatory"/>
+|anthem = "[[Anthem of Europe|Ode to Joy]]" {{small|(orchestral)}}<ref name="EU-Symbols"/>
+[[File:Anthem of Europe (US Navy instrumental short version).ogg|center]]
+|image_map = Global European Union.svg
+|map_caption = 
+|map_width = 220px
+|capital = [[Brussels]] {{small|(''[[de facto]]'')}}<ref name=capital>{{cite book|url=https://books.google.com/books?id=qb6NAQAAQBAJ&pg=PA64|title=Capital Cities around the World: An Encyclopedia of Geography, History, and Culture: An Encyclopedia of Geography, History, and Culture|year=2013|first=Roman Adrian|last=Cybriwsky|publisher=[[ABC-CLIO]]|quote=Brussels, the capital of Belgium, is considered to be the de facto capital of the EU}}</ref>
+| latd=50 |latm=51 |latNS=N |longd=4 |longm=21 |longEW=E
+|largest_settlement = [[London]]<!-- ONS 2015 municipal population: 8,630,000; UN DESA 2015 urban population: 10,313,307--> and [[Paris]]<!-- INSEE 2014 municipal population: 2,241,346; UN DESA 2015 urban population: 10,843,285--><!--NOTE: Discuss before making changes, per [[Talk:European Union/Archive 28#Largest city]]. Both cities are listed as London has a larger municipal population while Paris has a larger urban population.-->
+|largest_settlement_type = cities
+|official_languages =
+ {{collapsible list
+  |titlestyle = background:transparent;text-align:left;font-weight:normal;
+  |title = [[Languages of the European Union|24 languages]]
+  | {{hlist |[[Bulgarian language|Bulgarian]] |[[Croatian language|Croatian]] |[[Czech language|Czech]] |[[Danish language|Danish]] |[[Dutch language|Dutch]] |[[English language|English]] |[[Estonian language|Estonian]] |[[Finnish language|Finnish]] |[[French language|French]] |[[German language|German]] |[[Greek language|Greek]] |[[Hungarian language|Hungarian]] |[[Irish language|Irish]] |[[Italian language|Italian]] |[[Latvian language|Latvian]] |[[Lithuanian language|Lithuanian]] |[[Maltese language|Maltese]] |[[Polish language|Polish]] |[[Portuguese language|Portuguese]] |[[Romanian language|Romanian]] |[[Slovak language|Slovak]] |[[Slovene language|Slovene]] |[[Spanish language|Spanish]] |[[Swedish language|Swedish]]}}
+ }}
+|demonym = [[Citizenship of the European Union|European]]<ref name="OED"/>
+|org_type = [[Political union|Politico]]-[[economic union|economic]] union
+|membership_type = Member states
+|membership =
+ {{collapsible list
+  |titlestyle = background:transparent;text-align:left;font-weight:normal;
+  |title = [[Member state of the European Union|28 states]]
+  |{{hlist |[[Austria]]|[[Belgium]]|[[Bulgaria]]|[[Croatia]]|[[Cyprus]]|[[Czech Republic]]|[[Denmark]]|[[Estonia]]|[[Finland]]|[[France]]|[[Germany]]|[[Greece]]|[[Hungary]]|[[Republic of Ireland|Ireland]]|[[Italy]]|[[Latvia]]|[[Lithuania]]|[[Luxembourg]]|[[Malta]]|[[Netherlands]]|[[Poland]]|[[Portugal]]|[[Romania]]|[[Slovakia]]|[[Slovenia]]|[[Spain]]|[[Sweden]]|[[United Kingdom]]}}
+ }}
+|leader_title1 = [[President of the European Commission]]
+|leader_name1 = [[Jean-Claude Juncker]]
+|leader_title2 = [[President of the European&nbsp;Council]]
+|leader_name2 = [[Donald Tusk]]
+|legislature = {{nowrap|[[Council of the European Union|Council of the EU]]}}<br>[[European Parliament|Parliament]]
+|sovereignty_type = [[History of the EU|Formation]]<ref>Current Article 1 of the [[Treaty of Maastricht|Treaty on European Union]] reads:"The Union shall be founded on the present Treaty and on the [[Treaty of Rome|Treaty on the Functioning of the European Union]]. Those [[Treaties of the EU|two Treaties]] shall have the same legal value. The Union shall replace and succeed the [[European Community]]".</ref>
+|established_event1 = [[Treaty of Rome]] 
+|established_date1 = 1 January 1958
+|established_event2 = {{nowrap|[[Maastricht Treaty|Treaty of Maastricht]]}}
+|established_date2 = 1 November 1993
+|official_website = {{URL|europa.eu}}
+|area_rank = 7th<sup>a</sup><!--gives link to list--><!--Calculated by taking out EU members from the list-->
+|area_magnitude = 1 E12
+|area_km2 = 4,324,782 <!--Do not remove per [[WP:MOSNUM]]-->
+|area_sq_mi = {{Convert|4,324,782|km2|sqmi|disp=number}} <!--Do not remove per [[WP:MOSNUM]]-->
+|percent_water = 3.08
+|population_estimate = 508,191,116<ref name="population">{{cite web|url=http://ec.europa.eu/eurostat/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1|title=Eurostat - Population on 1 January 2015|publisher=[[European Commission]]|accessdate=20 August 2015}}</ref>
+|population_estimate_rank = 3rd<sup>a</sup><!--gives link to list--><!--Calculated by taking out EU members from the list-->
+|population_estimate_year = 2015
+|population_density_km2 = 115.8 <!--507,416,607 / 4,381,376km2 = 115.8 people/km2 (1 January 2014)-->
+|population_density_sq_mi = 300.9 <!--502,486,499 / 1,669,807sq_mi = 300.9 people/sq_mi (1 January 2011)-->
+|population_density_rank = <!--Calculated by taking out EU members from the list-->
+<!--IMF GDP data published in October 2014-->
+|GDP_PPP = $19.035 trillion<ref name="imf"/>
+|GDP_PPP_rank = 1st<sup>a</sup><!--gives link to list--><!--Calculated by taking out EU members from the list-->
+|GDP_PPP_year = 2015
+|GDP_PPP_per_capita = $37,607<ref name="imf"/>
+|GDP_PPP_per_capita_rank = 19th<sup>a</sup><!--Calculated by taking out EU members from the list-->
+|GDP_nominal = $16.449 trillion<ref name="imf"/>
+|GDP_nominal_rank = 2nd<sup>a</sup><!--Calculated by taking out EU members from the list-->
+|GDP_nominal_year = 2015
+|GDP_nominal_per_capita = $32,498<ref name="imf2"/>
+|GDP_nominal_per_capita_rank = 16th<sup>a</sup><!--gives link to list--><!--Calculated by taking out EU members from the list-->
+|Gini_year = 2010
+|Gini_change =  <!--increase/decrease/steady-->
+|Gini = 30.4 <!--number only-->
+|Gini_ref = <ref name="gini"/>
+|Gini_rank =
+|HDI_year = 2011
+|HDI_change = increase <!--increase/decrease/steady-->
+|HDI = 0.876 <!--number only-->
+|HDI_ref = <ref name="HDI">Calculated using UNDP data for the member states with weighted population.</ref>
+|HDI_rank = 13th<!--Calculated by taking out EU members from the list-->{{\}}25th<sup>a</sup><!--Calculated with EU members in the list-->
+|currency =
+ {{unbulleted list
+  |[[Euro]]&nbsp;([[ISO 4217|EUR]];&nbsp;[[Eurozone]])
+  |{{collapsible list
+    |titlestyle = background:transparent;text-align:left;font-weight:normal;
+    |title = 10 others
+    |[[Bulgarian lev|Lev]]&nbsp;(BGN;&nbsp;Bulgaria)|[[Croatian kuna|Kuna]]&nbsp;(HRK;&nbsp;Croatia)|[[Czech koruna|Koruna]]&nbsp;(CZK; Czech&nbsp;Republic)|[[Danish krone|Krone]]&nbsp;(DKK;&nbsp;Denmark)|[[Hungarian forint|Forint]]&nbsp;(HUF;&nbsp;Hungary)|[[Polish złoty|Złoty]]&nbsp;(PLN;&nbsp;Poland)|[[Romanian leu|Leu]]&nbsp;(RON;&nbsp;Romania)|[[Swedish krona|Krona]]&nbsp;(SEK;&nbsp;Sweden)|[[Pound&nbsp;sterling]]&nbsp;(GBP; United&nbsp;Kingdom)|[[Gibraltar pound|Pound]]&nbsp;(GIP;&nbsp;Gibraltar)
+   }}
+ }}
+|time_zone = [[Western European Time|WET]] ([[Coordinated Universal Time|UTC]])<ref group="lower-alpha">Not including overseas territories</ref><br>[[Central European Time|CET]] ([[Coordinated Universal Time|UTC]]+1)<br>[[Eastern European Time|EET]] ([[Coordinated Universal Time|UTC]]+2)
+|time_zone_DST = [[Western European Summer Time|WEST]] ([[Coordinated Universal Time|UTC]]+1)<br>[[Central European Summer Time|CEST]] ([[Coordinated Universal Time|UTC]]+2)<br>[[Eastern European Summer Time|EEST]]
+|utc_offset_DST = +3
+|date_format =
+|cctld = [[.eu]]<ref group="lower-alpha">.eu is representative of the whole of the EU; member states also have their own TLDs.</ref>
+|footnote_a = If considered as a single entity.
+}}
+
+The '''European Union''' ('''EU''') is a [[political union|politico]]-[[economic union|economic]] union of [[Member state of the European Union|{{EUnum}} member states]] that are located primarily<!--Please do not remove this. Parts of Spain and France are outside Europe, and the geographical location of Cyprus is not clear. This word has been extensively discussed.--> in [[Europe]].<ref>{{cite web|title=Basic information on the European Union|url=http://europa.eu/about-eu/basic-information/index_en.htm|work=European Union|publisher=europa.eu|accessdate=4 October 2012}}</ref><ref>{{cite dictionary |encyclopedia=Oxford English Dictionary |title=European |quote=5 b. spec. Designating a developing series of economic and political unions between certain countries of Europe from 1952 onwards, as '''''European Economic Community, European Community, European Union''''' |url=http://www.oed.com/view/Entry/65099?redirectedFrom=European#eid |accessdate=3 October 2011}}</ref> It covers an area of  4,324,782 km<sup>2</sup>, with an estimated population of over 508 million. The EU operates through a system of [[institutions of the European Union|supranational institutions]] and [[intergovernmentalism|intergovernmental]]-negotiated decisions by the member states.<ref name="Britannica">{{cite web |title=European Union|publisher=Encyclopædia Britannica |url=http://www.britannica.com/EBchecked/topic/196399/European-Union |accessdate=3 July 2013 |quote=international organisation comprising 28 European countries and governing common economic, social, and security policies&nbsp;...}}</ref><ref name="CIA">{{cite web |title=European Union |publisher=Central Intelligence Agency |work=The World Factbook |url=https://www.cia.gov/library/publications/the-world-factbook/geos/ee.html |accessdate=11 October 2009}}</ref> The institutions are: the [[European Parliament]], the [[European Council]], the [[Council of the European Union]], the [[European Commission]], the [[Court of Justice of the European Union]], the [[European Central Bank]], and the [[European Court of Auditors|Court of Auditors]]. The European Parliament is elected every five years by [[citizenship of the European Union|EU citizens]].
+
+The EU has developed a [[Internal market|single market]] through a standardised system of laws that apply in all member states. Within the [[Schengen Area]], passport controls have been abolished.<ref name="Internal borders">{{cite web |title=Schengen area|publisher=Europa web portal |url=http://ec.europa.eu/home-affairs/policies/borders/borders_schengen_en.htm|accessdate=8 September 2010}}</ref> EU policies aim to ensure the [[Internal market|free movement of people, goods, services, and capital]],<ref name="Europa Internal Market">{{cite web|title=The EU Single Market: Fewer barriers, more opportunities|publisher=Europa web portal|author=European Commission|url=http://ec.europa.eu/internal_market/index_en.htm|accessdate=27 September 2007}}<br />{{cite web|title=Activities of the European Union: Internal Market|publisher=Europa web portal|url=http://europa.eu/pol/singl/index_en.htm|accessdate=29 June 2007}}</ref> enact legislation in justice and home affairs, and maintain common policies on trade,<ref>{{cite web|title=Common commercial policy|url=http://europa.eu/scadplus/glossary/commercial_policy_en.htm|work=Europa Glossary|publisher=Europa web portal|accessdate=6 September 2008}}</ref> [[Common Agricultural Policy|agriculture]],<ref>{{cite web|publisher=The Council of the European Union|title=Agriculture and Fisheries Council|url=http://www.consilium.europa.eu/policies/council-configurations/agriculture-and-fisheries|accessdate=3 June 2013}}</ref> [[Common Fisheries Policy|fisheries]], and [[Regional policy of the European Union|regional development]].<ref>{{cite web|title=Regional Policy Inforegio |url=http://ec.europa.eu/regional_policy/index_en.cfm|publisher=Europa web portal |accessdate=3 June 2013}}</ref> The [[eurozone|monetary union]] was established in 1999 and came into full force in 2002.  It is currently composed of 19 member states that use the [[euro]] as their legal tender. 
+
+The EU traces its origins from the [[European Coal and Steel Community]] (ECSC) and the [[European Economic Community]] (EEC), formed by the [[Inner Six]] countries in 1951 and 1958, respectively. In the intervening years, the community and its successors have grown in size by [[enlargement of the European Union|the accession of new member states]] and in power by the addition of policy areas to its remit. The [[Maastricht Treaty]] established the European Union under its current name in 1993 and introduced [[Citizenship of the European Union|European citizenship]].<ref name="EU1993"/> The latest major amendment to the constitutional basis of the EU, the [[Treaty of Lisbon]], came into force in 2009.
+
+Covering 7.3% of the world population,<ref>{{cite web|title=European Union reaches 500 Million through Combination of Accessions, Migration and Natural Growth|publisher=Vienna Institute of Demography|url=http://www.oeaw.ac.at/vid/datasheet/EU_reaches_500_Mill.shtml}}</ref> the EU in 2014 generated a nominal [[gross domestic product]] (GDP) of 18.495 trillion US dollars, constituting approximately 24% of global [[Gross domestic product#Nominal GDP and adjustments to GDP|nominal GDP]] and 17% when measured in terms of [[purchasing power parity]].<ref>see [[List of countries by GDP (nominal)]] and [[List of countries by GDP (PPP)]]. Both pages are about countries and therefore the EU is not ranked.</ref> Additionally, 26 out of 28 EU countries have a very high [[Human Development Index]], according to the [[UNDP]]. In 2012, the EU was awarded the [[2012 Nobel Peace Prize|Nobel Peace Prize]].<ref>{{cite news |title=EU collects Nobel Peace Prize in Oslo |date=10 December 2012 |newspaper=British Broadcasting Corporation |url=http://www.bbc.co.uk/news/world-europe-20664167 |accessdate=3 June 2013}}</ref> Through the [[Common Foreign and Security Policy]], the EU has developed a role in [[Foreign relations of the European Union|external relations]] and [[Military of the European Union|defence]]. The union maintains permanent [[List of diplomatic missions of the European Union|diplomatic missions]] throughout the world and represents itself at the [[European Union and the United Nations|United Nations]], the [[World Trade Organization|WTO]], the [[European Union and the G8|G8]], and the [[G-20 major economies|G-20]]. Because of its global influence, the European Union has been described as a current or as a [[potential superpower]].<ref name="The European Superpower">{{cite book|author=John McCormick|title=The European Superpower|isbn=978-1-4039-9846-0|date=14 November 2006}}</ref>
+{{TOC limit|3}}
+
+==History==
+{{Main|History of the European Union|History of Europe}}
+
+===Preliminary===
+[[File:Schuman Declaration.ogg|thumb|thumbtime=23|[[Robert Schuman]] [[Schuman Declaration|proposing]] the [[European Coal and Steel Community|Coal and Steel Community]] on [[Europe Day|9 May]] 1950.]]
+
+After [[World War II]], European integration was eyed as an escape from the extreme nationalism that had devastated the continent.<ref>{{cite web|title=The political consequences|publisher=CVCE|url=http://www.cvce.eu/obj/die_politischen_folgen-de-bafcfa2d-7738-48f6-9b41-3201090b67bb.html|accessdate=28 April 2013}}</ref> The 1948 [[Hague Congress (1948)|Hague Congress]] was a pivotal moment in European federal history, as it led to the creation of the [[European Movement International]] and of the [[College of Europe]], where Europe's future leaders would live and study together.<ref>[[Dieter Mahncke]], [[Léonce Bekemans]], [[Robert Picht]], ''The College of Europe. Fifty Years of Service to Europe'', Bruges, 1999. ISBN 90-804983-1-9.</ref> 1952 saw the creation of the [[European Coal and Steel Community]], which was declared to be "a first step in the federation of Europe.".<ref>{{cite web|title=Declaration of 9 May 1950|url=http://europa.eu/abc/symbols/9-may/decl_en.htm|publisher=European Commission|accessdate=5 September 2007}}</ref> The supporters of the Community included [[Alcide De Gasperi]], [[Jean Monnet]], [[Robert Schuman]], and [[Paul-Henri Spaak]].<ref name="Europa History 45-59">{{cite web|title=A peaceful Europe&nbsp;– the beginnings of cooperation|publisher=European Commission|url=http://europa.eu/about-eu/eu-history/1945-1959/index_en.htm|accessdate=12 December 2011}}</ref>
+
+===Treaty of Rome and growth===
+[[File:EC-EU-enlargement animation.gif|thumb|left|280px|The continental territories of the member states of the European Union (European Communities pre-1993), coloured in order of accession.]]
+
+In 1957, Belgium, France, Italy, Luxembourg, the Netherlands, and West Germany signed the [[Treaty of Rome]], which created the [[European Economic Community]] (EEC) and established a [[European Union Customs Union|customs union]]. They also signed another pact creating the [[European Atomic Energy Community]] (Euratom) for co-operation in developing nuclear energy. Both treaties came into force in 1958.<ref name="Europa History 45-59"/>
+
+The EEC and Euratom were created separately from ECSC, although they shared the same courts and the Common Assembly.  The EEC was headed by [[Walter Hallstein]] ([[Hallstein Commission]]) and Euratom was headed by [[Louis Armand]] ([[Armand Commission]]) and then [[Étienne Hirsch]]. Euratom was to integrate sectors in nuclear energy while the EEC would develop a customs union among members.<ref>{{cite web|url=http://www.cvce.eu/obj/a_european_atomic_energy_community-en-19bc7f11-bea1-49c7-b534-18327c303f41.html |title=A European Atomic Energy Community |publisher=Cvce.eu |date=13 October 1997 |accessdate=13 October 2013}}</ref><ref>{{cite web|url=http://www.cvce.eu/obj/a_european_customs_union-en-a11a5f17-d744-479e-ba75-2c70b6058608.html|title=A European Customs Union|work=cvce.eu}}</ref>
+
+Through the 1960s, tensions began to show, with France seeking to limit supranational power. Nevertheless, in 1965 an agreement was reached and on 1 July 1967 the [[Merger Treaty]] created a single set of institutions for the three communities, which were collectively referred to as the ''[[European Communities]]''.<ref name="ENA Merge">{{cite web|title=Merging the executives|publisher=CVCE&nbsp;– Centre Virtuel de la Connaissance sur l'Europe|url=http://www.cvce.eu/obj/merging_the_executives-en-575850b6-f472-406a-936d-8c08a9e0db32.html|accessdate=28 April 2013}}</ref><ref>[http://www.cvce.eu/obj/merging_the_executives-en-575850b6-f472-406a-936d-8c08a9e0db32.html Merging the executives] CVCE.eu</ref> [[Jean Rey (politician)|Jean Rey]] [[President of the European Commission|presided over]] the first merged Commission ([[Rey Commission]]).<ref>[http://ec.europa.eu/archives/commission_2004-2009/index_en.htm Discover the former Presidents: The Rey Commission], Europa (web portal). Retrieved 28 April 2013.</ref>
+
+[[File:Thefalloftheberlinwall1989.JPG|thumb|In 1989, the [[Iron Curtain]] fell, enabling the union to [[Enlargement of the European Union|expand]] further ([[Berlin Wall]] pictured).]]
+
+In 1973, the Communities enlarged to include [[Denmark]] (including [[Greenland]], which later [[Greenlandic European Economic Community membership referendum, 1982|left the Community]] in 1985, following a dispute over fishing rights), [[Republic of Ireland|Ireland]], and the [[United Kingdom]].<ref name="ENA First enlargement">{{cite web|title=The first enlargement|publisher=CVCE|url=http://www.cvce.eu/obj/the_first_enlargement-en-fa871903-53b5-497e-855f-01c9842c7b94.html|accessdate=28 April 2013}}</ref> Norway had negotiated to join at the same time, but Norwegian voters rejected membership in a [[Norwegian European Communities membership referendum, 1972|referendum]]. In 1979, the [[European Parliament election, 1979|first direct, democratic elections]] to the European Parliament were held.<ref name="ENA New Parliament">{{cite web|title=The new European Parliament|publisher=CVCE|url=http://www.cvce.eu/obj/the_new_european_parliament-en-e40aba1b-45f1-43bf-bbd1-a34bb52f15db.html|accessdate=28 April 2013}}</ref>
+
+[[Greece]] joined in 1981; [[Portugal]] and [[Spain]] in 1986.<ref name="ENA Enlargement negotiations">{{cite web|title=Negotiations for enlargement|publisher=CVCE|url=http://www.cvce.eu/obj/negotiations_for_enlargement-en-19a4fd81-119d-4090-bfac-c7cc8ae64a20.html|accessdate=28 April 2013}}</ref> In 1985, the [[Schengen Agreement]] led the way toward the creation of open borders without passport controls between most member states and some non-member states.<ref>{{cite news |title=Schengen agreement |date=30 April 2001 |publisher=BBC News |accessdate=18 September 2009 |url=http://news.bbc.co.uk/2/hi/in_depth/europe/euro-glossary/1230052.stm}}</ref> In 1986, the [[Flag of Europe|European flag]] began to be used by the Community<ref>{{cite web|title=History of the flag|publisher=Europa web portal|url=http://europa.eu/abc/symbols/emblem/index_en.htm|accessdate=13 March 2009}}</ref> and the [[Single European Act]] was signed.
+
+In 1990, after [[revolutions of 1989|the fall of the Eastern Bloc]], the former [[East Germany]] became part of the Community as part of a [[German reunification|reunited Germany]].<ref name="Europa History 80-89">{{cite web|title=1980–1989 The changing face of Europe – the fall of the Berlin Wall|publisher=Europa web portal|url=http://europa.eu/abc/history/1980-1989/index_en.htm|accessdate=25 June 2007}}</ref> With further enlargement planned for former communist states, [[Cyprus]], and [[Malta]], the [[Copenhagen criteria]] for candidate members to join the EU were agreed upon in June 1993.
+
+===Maastricht Treaty and after===
+[[File:Euro banknotes 2002.png|thumb|right|The [[euro]] was introduced in 2002, replacing 12 national currencies. Seven countries have since joined.]]
+
+The European Union was formally established when the [[Maastricht Treaty]]—whose main architects were [[Helmut Kohl]] and [[François Mitterrand]]—came into force on 1 November 1993.<ref name="EU1993">{{cite book|last=Craig|first=Paul|author2=Grainne De Burca  |author3=P. P. Craig |title=EU Law: Text, Cases and Materials|edition=4th|year=2007|publisher=Oxford University Press|location=Oxford|isbn=978-0-19-927389-8|page=15}}; {{cite web|title=Treaty of Maastricht on European Union|url=http://europa.eu/legislation_summaries/economic_and_monetary_affairs/institutional_and_economic_framework/treaties_maastricht_en.htm|work=Activities of the European Union|publisher=Europa web portal|accessdate=20 October 2007}}</ref> The treaty also gave the name [[European community]] to the EEC, even if it was referred as such before the treaty. In 1995, [[Austria]], [[Finland]], and [[Sweden]] joined the EU. In 2002, euro banknotes and coins replaced national currencies in 12 of the member states. Since then, the [[eurozone]] has increased to encompass 19 countries. In 2004, the EU saw [[2004 enlargement of the European Union|its biggest enlargement to date]] when [[Cyprus]], the [[Czech Republic]], [[Estonia]], [[Hungary]], [[Latvia]], [[Lithuania]], [[Malta]], [[Poland]], [[Slovakia]], and [[Slovenia]] joined the Union.<ref name="Europa History 00">{{cite web|title=A decade of further expansion|publisher=Europa web portal|url=http://europa.eu/abc/history/2000_today/index_en.htm|accessdate=25 June 2007|archiveurl=https://web.archive.org/web/20070615031714/http://europa.eu/abc/history/2000_today/index_en.htm <!--Added by H3llBot-->|archivedate=15 June 2007}}</ref>
+
+[[File:Tratado de Lisboa 13 12 2007 (081).jpg|thumb|left|2009, the [[Treaty of Lisbon|Lisbon Treaty]] entered into force.]]
+
+On 1 January 2007, [[Romania]] and [[Bulgaria]] became EU members. In the same year, [[Slovenian euro coins|Slovenia]] adopted the euro,<ref name="Europa History 00"/> followed in 2008 by [[Cypriot euro coins|Cyprus]] and [[Maltese euro coins|Malta]], by [[Slovak euro coins|Slovakia]] in 2009, by [[Estonian euro coins|Estonia]] in 2011, by [[Latvian euro coins|Latvia]] in 2014 and by [[Lithuania euro coins|Lithuania]] in 2015. In June 2009, the [[European Parliament election, 2009|European Parliament elections]] were held, leading to the [[Barroso Commission#Second college|second Barroso Commission]], and by July, Iceland formally applied for EU membership, but has since [[Accession of Iceland to the European Union#2013 election and parliamentary debate|suspended negotiations]].
+
+On 1 December 2009, the [[Treaty of Lisbon|Lisbon Treaty]] entered into force and reformed many aspects of the EU. In particular, it changed the legal structure of the European Union, merging the [[Three pillars of the European Union|EU three pillars]] system into a single legal entity provisioned with a [[legal personality]], created a permanent [[President of the European Council]], the first of which was [[Herman Van Rompuy]], and strengthened the [[High Representative of the Union for Foreign Affairs and Security Policy|High Representative]], [[Catherine Ashton]].<ref>{{cite web|url=http://government.zdnet.com/?p=6266|title=European Parliament announces new President and Foreign Affairs Minister|accessdate=1 December 2009}}</ref>
+
+In 2012 the Union received the [[2012 Nobel Peace Prize|Nobel Peace Prize]] for having "contributed to the advancement of peace and reconciliation, democracy, and human rights in Europe."<ref>{{cite web|url=http://www.nobelprize.org/nobel_prizes/peace/laureates/2012/|title=The Nobel Peace Prize 2012|publisher=Nobelprize.org|date=12 October 2012|accessdate=12 October 2012}}</ref><ref>{{cite journal|title=Nobel Committee Awards Peace Prize to E.U|url=http://www.nytimes.com/2012/10/13/world/nobel-peace-prize.html?_r=0|publisher=New York Times|date=12 October 2012|accessdate=12 October 2012}}</ref> On 1 July 2013, [[Croatia]] became the 28th EU member.<ref>{{cite web |title=Croatia|url=http://ec.europa.eu/enlargement/countries/detailed-country-information/croatia/ |publisher=European Commission |accessdate=3 June 2013}}</ref><ref>{{cite news|url=http://www.bbc.co.uk/news/world-europe-22218640|title=Croatia: From isolation to EU membership  |agency=BBC|accessdate=14 May 2013|work=BBC News|date=26 April 2013}}</ref><ref>{{cite news|url=http://edition.cnn.com/2013/07/01/world/europe/croatia-eu-membership/ |title=Croatia joins EU |publisher=Edition.cnn.com |accessdate=13 October 2013 |date=1 July 2013}}</ref>
+{{Clear}}
+
+===Structural evolution===
+{{main|Treaties of the European Union}}
+
+The following timeline illustrates the [[European integration|integration]] that has led to the formation of the present union, in terms of structural development driven by international treaties:
+{{EU evolution timeline}}
+
+==Geography==
+{{Main|Geography of the European Union}}
+{{multiple image |align=right |image1=2rocks.jpg |width1=200 |caption1=The {{convert|65993|km|0|abbr=on}} coastline dominates the European climate ([[Cyprus]]). |alt1=Coast of Cyprus |width2=167 |caption2=[[Mont Blanc]] in the [[Alps]] is the highest peak in the union. |image2=Mont-Blanc and Lake of Passy.JPG |alt2=Mont Blanc}}
+
+The EU's member states cover an area of {{convert|4423147|km2|sqmi|0}}.<ref group="lower-alpha" name="Area.and.population.figure">This figure includes the extra-European territories of member states which are part of the European Union and excludes the European territories of member states which are not part of the Union. For more information see [[Special member state territories and the European Union]].</ref> The EU's highest peak is [[Mont Blanc]] in the [[Graian Alps]], {{convert|4810.45|m|ft|0}} [[Above mean sea level|above sea level]].<ref>{{cite news|url=http://www.smh.com.au/environment/mont-blanc-shrinks-by-45cm-in-two-years-20091106-i0kk.html |title=Mont Blanc shrinks by {{convert|45|cm|2|abbr=on}} in two years |work=Sydney Morning Herald |accessdate=26 November 2010 |date=6 November 2009}}</ref> The lowest point(s) in the EU is [[Lammefjorden]], [[Denmark]] and [[Zuidplaspolder]], [[Netherlands]], at 7&nbsp;m (23&nbsp;ft) below sea level.<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/ee.html|title=The World Factbook|work=cia.gov}}</ref>
+The landscape, climate, and economy of the EU are influenced by its coastline, which is {{convert|65993|km|mi|0}} long.
+
+Including the overseas territories of France which are located outside the continent of Europe, but which are members of the union, the EU experiences most [[Köppen climate classification|types of climate]] from [[Polar climate|Arctic]] (North-East Europe) to tropical (French Guyana), rendering meteorological averages for the EU as a whole meaningless. The majority of the population lives in areas with a temperate [[oceanic climate|maritime climate]] (North-Western Europe and Central Europe), a [[Mediterranean climate]] (Southern Europe), or a warm summer continental or [[hemiboreal]] climate (Northern [[Balkans]] and Central Europe).<ref name="Humid Continental climate">{{cite web|title=Humid Continental Climate |work=The physical environment |publisher=University of Wisconsin–Stevens Point |year=2007 |url=http://www.uwsp.edu/geo/faculty/ritter/geog101/textbook/climate_systems/humid_continental.html |accessdate=29 June 2007}}</ref>
+
+The EU's population is highly urbanised, with some 75% of inhabitants (and growing, projected to be 90% in seven member states by 2020) living in urban areas. Cities are largely spread out across the EU, although with a [[Blue Banana|large grouping]] in and around the [[Benelux]]. An increasing percentage of this is due to low density urban sprawl which is extending into natural areas. In some cases, this urban growth has been due to the influx of [[Trans-European Networks|EU funds]] into a region.<ref>{{cite web|url=http://www.eea.europa.eu/publications/eea_report_2006_10/eea_report_10_2006.pdf |title=Urban sprawl in Europe: The ignored challenge, European Environmental Agency |format=PDF |accessdate=13 October 2013}}</ref>
+{{clear left}}
+{{Clear}}
+
+===Member states===
+{{Main|Member state of the European Union}}
+The following {{EUnum}} [[sovereign state]]s (of which the map only shows territories situated in and around Europe) constitute the union:<ref>{{cite web|title=European Countries|url=http://europa.eu/abc/european_countries/index_en.htm|publisher=Europa web portal|accessdate=18 September 2010}}</ref>
+{| style="with:100%"
+| style="width:50%" | {{Image label begin|image=European Union member states.svg|link=|width=540|float=none}}
+{{Image label small|x=0.185|y=0.51|scale=500|text=[[Republic of Ireland|Ireland]]}}
+{{Image label small|x=0.26|y=0.5|scale=500|text=[[United Kingdom|United<br>Kingdom]]}}
+{{Image label small|x=0.325|y=0.7|scale=500|text=[[France]]}}
+{{Image label small|x=0.365|y=0.565|scale=500|text=[[Netherlands]]}}
+{{Image label small|x=0.45|y=0.6|scale=500|text=[[Germany]]}}
+{{Image label small|x=0.45|y=0.48|scale=500|text=[[Denmark]]}}
+{{Image label small|x=0.6|y=0.575|scale=500|text=[[Poland]]}}
+{{Image label small|x=0.651|y=0.47|scale=500|text=[[Lithuania]]}}
+{{Image label small|x=0.67|y=0.43|scale=500|text=[[Latvia]]}}
+{{Image label small|x=0.66|y=0.39|scale=500|text=[[Estonia]]}}
+{{Image label small|x=0.65|y=0.25|scale=500|text=[[Finland]]}}
+{{Image label small|x=0.525|y=0.3|scale=500|text=[[Sweden]]}}
+{{Image label small|x=0.54|y=0.62|scale=500|text=[[Czech Republic|Czech<br>Republic]]}}
+{{Image label small|x=0.525|y=0.69|scale=500|text=[[Austria]]}}
+{{Image label small|x=0.61|y=0.7|scale=500|text=[[Hungary]]}}
+{{Image label small|x=0.72|y=0.71|scale=500|text=[[Romania]]}}
+{{Image label small|x=0.74|y=0.782|scale=500|text=[[Bulgaria]]}}
+{{Image label small|x=0.71|y=0.88|scale=500|text=[[Greece]]}}
+{{Image label small|x=0.62|y=0.66|scale=500|text=[[Slovakia]]}}
+{{Image label small|x=0.535|y=0.725|scale=500|text=[[Slovenia]]}}
+{{Image label small|x=0.575|y=0.75|scale=500|text=[[Croatia]]}}
+{{Image label small|x=0.53|y=0.825|scale=500|text=[[Italy]]}}
+{{Image label small|x=0.365|y=0.61|scale=500|text=[[Belgium]]}}
+{{Image label small|x=0.375|y=0.635|scale=500|text=[[Luxembourg]]}}
+{{Image label small|x=0.09|y=0.85|scale=500|text=[[Portugal]]}}
+{{Image label small|x=0.19|y=0.85|scale=500|text=[[Spain]]}}
+{{Image label small|x=0.56|y=0.99|scale=500|text=[[Malta]]}}
+{{Image label small|x=0.93|y=0.945|scale=500|text=[[Cyprus]]}}
+{{Image label end}}
+|}{{Clear}}
+{| class="wikitable sortable" style="float:left; font-size:100%; white-space:nowrap"
+! style="width:6em" | Name
+! style="width:6em" | Capital
+! style="width:5em" | [[Enlargement of the European Union|Accession]]
+! style="width:5em" | Population<ref name="population" />
+! style="width:5em" | Area (km<sup>2</sup>)
+|- style="line-height:95%"
+| {{Flag|Austria}}
+| [[Vienna]]
+| style="text-align:right" | <span style="display:none">19950101</span>{{dts|1 January 1995}}
+| style="text-align:right" | {{Nts|8584926}}
+| style="text-align:right" | {{Nts|83855}}
+|- style="line-height:95%"
+| {{Flag|Belgium}}
+| [[Brussels]]
+| style="text-align:right" | <span style="display:none">19570325</span>Founder
+| style="text-align:right" | {{Nts|11258434}}
+| style="text-align:right" | {{Nts|30528}}
+|- style="line-height:95%"
+| {{Flag|Bulgaria}}
+| [[Sofia]]
+| style="text-align:right" | <span style="display:none">20070101</span>{{dts|1 January 2007}}
+| style="text-align:right" | {{Nts|7202198}}
+| style="text-align:right" | {{Nts|110994}}
+|- style="line-height:95%"
+| {{Flag|Croatia}}
+| [[Zagreb]]
+| style="text-align:right" | <span style="display:none">20130701</span>{{dts|1 July 2013}}
+| style="text-align:right" | {{Nts|4225316}}
+| style="text-align:right" | {{Nts|56594}}
+|- style="line-height:95%"
+| {{Flag|Cyprus}}
+| [[Nicosia]]
+| style="text-align:right" | <span style="display:none">20040501</span>{{dts|1 May 2004}}
+| style="text-align:right" | {{Nts|847008}}
+| style="text-align:right" | {{Nts|9251}}
+|- style="line-height:95%"
+| {{Flag|Czech Republic}}
+| [[Prague]]
+| style="text-align:right" | <span style="display:none">20040501</span>{{dts|1 May 2004}}
+| style="text-align:right" | {{Nts|10538275}}
+| style="text-align:right" | {{Nts|78866}}
+|- style="line-height:95%"
+| {{Flag|Denmark}}
+| [[Copenhagen]]
+| style="text-align:right" | <span style="display:none">19730101</span>{{dts|1 January 1973}}
+| style="text-align:right" | {{Nts|5659715}}
+| style="text-align:right" | {{Nts|43075}}
+|- style="line-height:95%"
+| {{Flag|Estonia}}
+| [[Tallinn]]
+| style="text-align:right" | <span style="display:none">20040501</span>{{dts|1 May 2004}}
+| style="text-align:right" | {{Nts|1313271}}
+| style="text-align:right" | {{Nts|45227}}
+|- style="line-height:95%"
+| {{Flag|Finland}}
+| [[Helsinki]]
+| style="text-align:right" | <span style="display:none">19950101</span>{{dts|1 January 1995}}
+| style="text-align:right" | {{Nts|5471753}}
+| style="text-align:right" | {{Nts|338424}}
+|- style="line-height:95%"
+| {{Flag|France}}
+| [[Paris]]
+| style="text-align:right" | <span style="display:none">19570325</span>Founder
+| style="text-align:right" | {{Nts|66352469}}
+| style="text-align:right" | {{Nts|640679}}
+|- style="line-height:95%"
+| {{Flag|Germany}}
+| [[Berlin]]
+| style="text-align:right" | <span style="display:none">19570325</span>Founder<ref group="lower-alpha">On {{dts|1990|10|3}}, the constituent states of the former [[East Germany|German Democratic Republic]] [[German reunification|acceded]] to the [[West Germany|Federal Republic of Germany]], automatically becoming part of the EU.</ref>
+| style="text-align:right" | {{Nts|81174000}}
+| style="text-align:right" | {{Nts|357021}}
+|- style="line-height:95%"
+| {{Flag|Greece}}
+| [[Athens]]
+| style="text-align:right" | <span style="display:none">19810101</span>{{dts|1 January 1981}}
+| style="text-align:right" | {{Nts|10812467}}
+| style="text-align:right" | {{Nts|131990}}
+|- style="line-height:95%"
+| {{Flag|Hungary}}
+| [[Budapest]]
+| style="text-align:right" | <span style="display:none">20040101</span>{{dts|1 May 2004}}
+| style="text-align:right" | {{Nts|9849000}}
+| style="text-align:right" | {{Nts|93030}}
+|- style="line-height:95%"
+| {{Flag|Ireland}}
+| [[Dublin]]
+| style="text-align:right" | <span style="display:none">19730101</span>{{dts|1 January 1973}}
+| style="text-align:right" | {{Nts|4625885}}
+| style="text-align:right" | {{Nts|70273}}
+|- style="line-height:95%"
+| {{Flag|Italy}}
+| [[Rome]]
+| style="text-align:right" | <span style="display:none">19570325</span>Founder
+| style="text-align:right" | {{Nts|60795612}}
+| style="text-align:right" | {{Nts|301338}}
+|- style="line-height:95%"
+| {{Flag|Latvia}}
+| [[Riga]]
+| style="text-align:right" | <span style="display:none">20040501</span>{{dts|1 May 2004}}
+| style="text-align:right" | {{Nts|1986096}}
+| style="text-align:right" | {{Nts|64589}}
+|- style="line-height:95%"
+| {{Flag|Lithuania}}
+| [[Vilnius]]
+| style="text-align:right" | <span style="display:none">20040501</span>{{dts|1 May 2004}}
+| style="text-align:right" | {{Nts|2921262}}
+| style="text-align:right" | {{Nts|65200}}
+|- style="line-height:95%"
+| {{Flag|Luxembourg}}
+| [[Luxembourg (city)|Luxembourg]]
+| style="text-align:right" | <span style="display:none">19570325</span>Founder
+| style="text-align:right" | {{Nts|562958}}
+| style="text-align:right" | {{Nts|2586}}
+|- style="line-height:95%"
+| {{Flag|Malta}}
+| [[Valletta]]
+| style="text-align:right" | <span style="display:none">20040501</span>{{dts|1 May 2004}}
+| style="text-align:right" | {{Nts|429344}}
+| style="text-align:right" | {{Nts|316}}
+|- style="line-height:95%"
+| {{Flag|Netherlands}}
+| [[Amsterdam]]
+| style="text-align:right" | <span style="display:none">19570325</span>Founder
+| style="text-align:right" | {{Nts|16900726}}
+| style="text-align:right" | {{Nts|41543}}
+|- style="line-height:95%"
+| {{Flag|Poland}}
+| [[Warsaw]]
+| style="text-align:right" | <span style="display:none">20040501</span>{{dts|1 May 2004}}
+| style="text-align:right" | {{Nts|38005614}}
+| style="text-align:right" | {{Nts|312685}}
+|- style="line-height:95%"
+| {{Flag|Portugal}}
+| [[Lisbon]]
+| style="text-align:right" | <span style="display:none">19860101</span>{{dts|1 January 1986}}
+| style="text-align:right" | {{Nts|10374822}}
+| style="text-align:right" | {{Nts|92390}}
+|- style="line-height:95%"
+| {{Flag|Romania}}
+| [[Bucharest]]
+| style="text-align:right" | <span style="display:none">20070101</span>{{dts|1 January 2007}}
+| style="text-align:right" | {{Nts|19861408}}
+| style="text-align:right" | {{Nts|238391}}
+|- style="line-height:95%"
+| {{Flag|Slovakia}}
+| [[Bratislava]]
+| style="text-align:right" | <span style="display:none">20040501</span>{{dts|1 May 2004}}
+| style="text-align:right" | {{Nts|5421349}}
+| style="text-align:right" | {{Nts|49035}}
+|- style="line-height:95%"
+| {{Flag|Slovenia}}
+| [[Ljubljana]]
+| style="text-align:right" | <span style="display:none">20040501</span>{{dts|1 May 2004}}
+| style="text-align:right" | {{Nts|2062874}}
+| style="text-align:right" | {{Nts|20273}}
+|- style="line-height:95%"
+| {{Flag|Spain}}
+| [[Madrid]]
+| style="text-align:right" | <span style="display:none">19860101</span>{{dts|1 January 1986}}
+| style="text-align:right" | {{Nts|46439864}}
+| style="text-align:right" | {{Nts|504030}}
+|- style="line-height:95%"
+| {{Flag|Sweden}}
+| [[Stockholm]]
+| style="text-align:right" | <span style="display:none">19950101</span>{{dts|1 January 1995}}
+| style="text-align:right" | {{Nts|9747355}}
+| style="text-align:right" | {{Nts|449964}}
+|- style="line-height:95%"
+| {{Flag|United Kingdom}}
+| [[London]]
+| style="text-align:right" | <span style="display:none">19730101</span>{{dts|1 January 1973}}
+| style="text-align:right" | {{Nts|64767115}}
+| style="text-align:right" | {{Nts|243610}}
+|}
+{{Clear}}
+
+[[File:EU OCT and OMR map en.png|thumb|right|300px|Map of the European Union in the world with [[Special member state territories and the European Union|overseas countries and territories]] and outermost regions.]]
+[[File:ZEE-UE.svg|thumb|right|300px|The [[exclusive economic zone]] of the European Union.<br>
+{{color box|#0978ab}}{{color box|#c6ecff}} EU member states.<br>
+{{color box|#00a400}}{{color box|#80e800}} Territories under the sovereignty of an EU member state.<br>
+{{color box|#ff4800}}{{color box|#ffb380}} Recognised candidate countries.]]
+Through successive [[Enlargement of the European Union|enlargements]], the Union has grown from the [[Inner Six|six founding states]]—Belgium, France, West Germany, Italy, Luxembourg, and the Netherlands—to the current {{EUnum}}. Countries accede to the union by becoming party to the founding [[Treaties of the European Union|treaties]], thereby subjecting themselves to the privileges and obligations of EU membership. This entails a partial delegation of sovereignty to the institutions in return for representation within those institutions, a practice often referred to as "pooling of sovereignty".<ref>{{cite web|url=http://www.answers.com/topic/pooled-sovereignty|title=Answers - The Most Trusted Place for Answering Life's Questions|work=Answers.com}}</ref><ref>{{cite web|title=EU institutions and other bodies|url=http://europa.eu/institutions/index_en.htm|publisher=Europa|accessdate=4 September 2009}}</ref>
+
+To become a member, a country must meet the [[Copenhagen criteria]], defined at the 1993 meeting of the European Council in Copenhagen. These require a stable democracy that respects human rights and the [[rule of law]]; a functioning [[market economy]]; and the acceptance of the obligations of membership, including EU law. Evaluation of a country's fulfilment of the criteria is the responsibility of the European Council.<ref name="Accession Criteria">{{cite web|title=Accession criteria (Copenhagen criteria)|publisher=Europa web portal|url=http://europa.eu/scadplus/glossary/accession_criteria_copenhague_en.htm|accessdate=26 June 2007}}</ref>  No member state has ever left the Union, although [[Greenland]] (an [[autonomous area|autonomous province]] of Denmark) withdrew in 1985.<ref>{{cite web |title=The Greenland Treaty of 1985 |work=The European Union and Greenland |publisher=Greenland Home Rule Government |url=http://eu.nanoq.gl/Emner/EuGl/The%20Greenland%20Treaty.aspx |accessdate=10 November 2010}}</ref> The [[Treaty of Lisbon|Lisbon Treaty]] now contains a clause providing for a member to leave the EU.<ref>Article 50 of the Consolidated Treaty on European Union.</ref>
+
+There are six countries which are recognized as candidates for membership: [[Albania]], [[Iceland]], [[Republic of Macedonia|Macedonia]],<ref group="lower-alpha">Referred to by the EU as the "former Yugoslav Republic of Macedonia".</ref> [[Montenegro]], [[Serbia]], and [[Turkey]].<ref name="Europa Enlargement"/> However, on 13 June 2013, Iceland's Foreign Minister, [[Gunnar Bragi Sveinsson]], informed the European Commission that the newly elected government intended to "put negotiations on hold".<ref name="icelandover">{{cite web |url=http://euobserver.com/political/120501 |title=Iceland's EU bid is over, commission told |last=Fox |first=Benjamin |publisher=Reuters |date=16 June 2013 |accessdate=16 June 2013}}</ref> [[Bosnia and Herzegovina]] and [[Republic of Kosovo|Kosovo]] are officially recognised as potential candidates,<ref name="Europa Enlargement">{{cite web|title=European Commission – Enlargement – Candidate and Potential Candidate Countries|publisher=Europa web portal|url=http://ec.europa.eu/enlargement/countries/index_en.htm |accessdate=13 March 2012}}</ref> but have not submitted membership applications.  Due to the lack of [[International recognition of Kosovo|recognition]] by five of the 28 EU member states, the European Commission refers only to "Kosovo*", with an asterisked footnote containing the text agreed to by the [[Belgrade–Pristina negotiations]]: "This designation is without prejudice to [[Kosovo status process|positions on status]], and is in line with [[United Nations Security Council Resolution 1244|UNSCR 1244]] and the [[International Court of Justice advisory opinion on Kosovo's declaration of independence|ICJ Opinion on the Kosovo Declaration of Independence]]."
+
+Four countries forming the [[European Free Trade Association]] (EFTA) (that are not EU members) have partly committed to the EU's economy and regulations: Iceland, [[Liechtenstein]] and [[Norway]], which are a part of the [[single market]] through the [[European Economic Area]], and [[Switzerland]], which has similar ties through [[Switzerland–European Union relations|bilateral treaties]].<ref name="EEA"/><ref name="CH">{{cite web|title=The EU's relations with Switzerland|publisher=Europa web portal|url=http://eeas.europa.eu/switzerland/index_en.htm|accessdate=3 November 2010}}</ref> The relationships of the [[Microstates and the European Union|European microstates]], [[Andorra]], [[Monaco]], [[San Marino]], and the [[Vatican City|Vatican]] include the use of the euro and other areas of co-operation.<ref name="euro use world">{{cite web|url=http://ec.europa.eu/economy_finance/euro/world/outside_euro_area/index_en.htm|title=Use of the euro in the world|publisher=Europa web portal|author=European Commission|work=The euro outside the euro area|accessdate=27 February 2008}}</ref>
+
+===Environment===
+{{Further|European Commissioner for the Environment|European Climate Change Programme}}
+
+[[File:EE-Lahemaa-Bagno Viru.jpg|thumb|left|Viru Bog in [[Lahemaa National Park]] in [[Estonia]], a protected habitat under the [[Habitats Directive]]]]
+
+In 1957, when the EU was founded, it had no environmental policy, no environmental bureaucracy, and no environmental laws.<ref>Jordan, A.J. and Adelle, C. (eds)(2012) Environmental Policy in the European Union: Contexts, Actors and Policy Dynamics (3e). Earthscan: London and Sterling, Virginia</ref>  Today, the EU has some of the most progressive environmental policies of any state{{Clarify|date=July 2015}} in the world.  The environmental policy of the EU has therefore developed in remarkable fashion in the past four decades. An increasingly dense network of legislation has emerged, which now extends to all areas of environmental protection, including: air pollution control, water protection, waste management, nature conservation, and the control of chemicals, biotechnology and other industrial risks.<ref>Knill, C. and Liefferink, D.(2012) The establishment of EU environmental policy, In: Jordan, A.J. and Adelle, C. (eds) Environmental Policy in the European Union: Contexts, Actors and Policy Dynamics (3e). Earthscan: London and Sterling, Virginia</ref> The [[Institute for European Environmental Policy]] estimates the body of EU environmental law amounts to well over 500 Directives, Regulations and Decisions.<ref name="European Environmental Policy 2012">Institute for European Environmental Policy (2012) Manual of European Environmental Policy, Earthscan, London.</ref> Environmental policy has thus become a core area of European politics.
+
+Such dynamic developments are surprising in light of the legal and institutional conditions which existed in the late 1950s and 60s.<ref>Knill, C. and Liefferink, D.(2012) The etsbalishment of EU environmental policy, In: Jordan, A.J. and Adelle, C. (eds) Environmental Policy in the European Union: Contexts, Actors and Policy Dynamics (3e). Earthscan: London and Sterling, VA.</ref> Acting without any legislative authority, European policy-makers initially increased the EU's capacity to act by defining environmental policy as a trade problem. The most important reason for the introduction of a common environmental policy was the fear that trade barriers and competitive distortions in the Common Market could emerge due to the different environmental standards.<ref>Johnson, S.P. and Corcelle, G. (1989) The Environmental Policy of the European Communities, Graham & Trotman, London</ref> However, in the course of time, EU environmental policy emerged as a formal policy area, with its own policy actors, policy principles and procedures. The legal basis of EU environmental policy was not more explicitly established until the introduction of the Single European Act in 1987.<ref name="European Environmental Policy 2012"/>
+
+[[File:Ciconia nigra 1 (Lukasz Lukasik) edit.jpg|thumb|A [[black stork]], an Annex A protected species under Regulation (EC) No. 338/97]]
+
+Initially, EU environmental policy was rather introspective. More recently, however, the Union has demonstrated a growing leadership in global environmental governance. The role of the EU in securing the ratification and entry into force of the [[Kyoto Protocol]] in the face of US opposition is an example in this regard. This international dimension is reflected in the EU's Sixth Environmental Action Programme, which recognises that its strategic objectives can only be achieved if a series of key international environmental agreements are actively supported and properly implemented both at an EU level and worldwide. The entry into force of the Lisbon Treaty further strengthens the EU's global environmental leadership ambitions.<ref>Benson, D. and Adelle, C. (2012) European Union environmental policy after the Lisbon Treaty, In: Jordan, A.J. and Adelle, C. (eds) Environmental Policy in the European Union: Contexts, Actors and Policy Dynamics (3e). Earthscan: London and Sterling, VA.</ref> The vast body of EU environmental law which now exists has played a vital role in improving habitat and species protection in Europe as well as contributed to improvements in air and water quality and waste management.<ref name="European Environmental Policy 2012"/> However, significant challenges remain, both to meet existing EU targets and aspirations and to agree new targets and actions that will further improve the environment and the quality of life in Europe and beyond.
+
+One of the top priorities of EU environmental policy is combatting climate change. In 2007, member states agreed that the EU is to use 20% [[renewable energy]] in the future and that it has to reduce carbon dioxide emissions in 2020 by at least 20% compared to 1990 levels.<ref name="EUO energy">{{cite news|url=http://www.guardian.co.uk/environment/2008/jan/23/climatechange.eu1|title=EU sets 20% target for carbon cuts|accessdate=29 February 2008|work=The Guardian |first=Jessica|last=Aldred|location=London|date=23 January 2008}}</ref> This includes measures that in 2020, 10% of the overall fuel quantity used by cars and trucks in [[Treaty of Accession 2005|EU 27]] should be running on renewable energy such as [[biofuel]]s. This is considered to be one of the most ambitious moves of an important industrialised region to fight [[climate change]].<ref name="Discovery energy">{{cite web|title=how the eu plans to fight climate change|url=http://www.environmentconservation.org/environmental-global-warming/how-the-eu-plans-to-fight-global-warming/|accessdate=Nov 2010}}</ref>
+The EU adopted an [[Emissions trading|emissions trading system]] to incorporate [[carbon emissions]] into the economy.<ref>{{Cite web|url= http://ec.europa.eu/clima/policies/ets/index_en.htm|title=The EU Emissions Trading System (EU ETS)}}</ref>
+
+The [[European Green Capital]] is an annual award that is given to cities that focuses on the environment, energy efficiency and quality of life in urban areas to create [[smart city]].
+
+==Politics==
+{{main|Politics of the European Union}}
+[[File:Political System of the European Union.svg|thumb|400px|Political system of the European Union]]
+
+The EU operates within those competencies conferred on it by the [[Treaties of the European Union|treaties]] and according to the principle of [[Subsidiarity#European Union law|subsidiarity]] (which dictates that action by the EU should only be taken where an objective cannot be sufficiently achieved by the member states alone). [[European Union law|Laws made by the EU institutions]] are passed in a variety of forms. Generally speaking, they can be classified into two groups: those which come into force without the necessity for national implementation measures and those which specifically require national implementation measures.<ref>These groups refer to regulations and directives respectively. These legislative instruments are dealt with in more detail [[#Acts|below]].</ref>
+
+===Constitutional nature===
+{{Further|Treaties of the European Union}}
+The classification of the European Union in terms of international or constitutional law has been much debated, often in the light of the degree of integration that is perceived, desired, or expected. Historically, at least, the EU is an international organisation, and by some criteria, it could be classified as a [[confederation]]; but it also has many attributes of a [[federation]], so some would classify it as a (''de facto'') federation of states.<ref>{{cite book| editor1-last = Wiener| editor1-first = Antje| editor2-last = Diez| editor2-first = Thomas| title = European Integration Theory|chapter=Federalism|first=Michael|last=Burgess| pages =25–42| year = 2009| origyear = 2004|edition=2nd| publisher = Oxford University Press| isbn = 978-0-19-922609-2}}</ref><ref>
+{{cite book| last1 = Nugent| first1 = Neill| title = The Government And Politics of the European Union| pages = 550–553| year = 2006|edition=6th| publisher = Duke University Press| isbn = 978-0-8223-3870-3}}</ref><ref>{{cite book| editor1-first = Anand| editor1-last = Menon| editor2-first = Martin A.| editor2-last = Schain|chapter=Federation, Confederation, and Mixed Government: A EU-US Comparison| first1 = Giandomenico| last1 = Majone| title = Comparative Federalism: The European Union and the United States in Comparative Perspective| pages = 121–148| year = 2006| publisher = Oxford University Press| isbn = 978-0-19-929110-6}}</ref> For this reason, the organisation has, in the past, been termed ''[[sui generis]]'' (incomparable, one of a kind), though it is also argued that this designation is no longer true.<ref name="Schütze, 2012"/><ref>{{cite web| url = https://www.cia.gov/library/publications/the-world-factbook/geos/ee.html | title = Is Europe still sui generis? Signals from The White Paper on European Governance |accessdate = 18 November 2012|quote=...&nbsp;we see the notions of governance deployed in the White Paper as undermining the description of the EU as sui generis. It is becoming like a national state, but we differ from many of the critics (or enthusiasts) of the White Paper in one major way. Rather than seeing the EU becoming a state-like object, taking on the trappings of a 19th—or more correctly 20th—century state, we see national states moving towards the EU, adopting many of the governing practices advocated by the White Paper. }}</ref>
+
+The organisation itself has traditionally used the terms "community", and later "union". The difficulties of classification involve the difference between national law (where the subjects of the law include natural persons and corporations) and international law (where the subjects include sovereign states and international organisations); they can also be seen in the light of differing European and American constitutional traditions.<ref name="Schütze, 2012">{{cite book| last = Schütze| first = Robert| title = European Constitutional Law| year = 2012| publisher = Cambridge University Press| location = Cambridge| isbn = 978-0-521-73275-8| pages = 47–79
+}}</ref>
+Especially in terms of the European constitutional tradition, the term ''federation'' is equated with a sovereign federal state in international law; so the EU cannot be called a ''federal state'' or ''federation''—at least, not without qualification. Though not, strictly, a federation, it is more than a free-trade association.<ref>{{cite web| url = https://www.cia.gov/library/publications/the-world-factbook/geos/ee.html| title = European Union| work = CIA World Factbook| accessdate = 18 November 2012|quote=Although the EU is not a federation in the strict sense, it is far more than a free-trade association such as ASEAN, NAFTA, or Mercosur, and it has certain attributes associated with independent nations: its own flag, currency (for some members), and law-making abilities, as well as diplomatic representation and a common foreign and security policy in its dealings with external partners. }}</ref> It is, however, described as being based on a federal model or federal in nature. Walter Hallstein, in the original German edition of ''Europe in the Making'' called it "an unfinished federal state".<ref>{{cite book| others=translated by Charles Roetter| title = Europe in the Making | trans_title = translation of ''Der unvollendete Bundesstaat''|first1=Walter|last1=Hallstein| year = 1972| origyear = 1969|edition=English| publisher = George Allen & Unwin| isbn = 978-0-19-922609-2}}</ref>
+The German Constitutional Court refers to the European Union as an ''association of sovereign states'' and affirms that making the EU a federation would require replacement of the German constitution.<ref>{{cite web|url= http://www.bundesverfassungsgericht.de/en/press/bvg09-072en.html |title= Federal Constitutional Court Press Release No. 72/2009 of 30 June 2009. Judgment of 30 June 2009: Act Approving the Treaty of Lisbon compatible with the Basic Law; accompanying law unconstitutional to the extent that legislative bodies have not been accorded sufficient rights of participation|accessdate=17 November 2012| quote=Due to this structural democratic deficit, which cannot be resolved in an association of sovereign national states (Staatenverbund), further steps of integration that go beyond the status quo may undermine neither the States' political power of action nor the principle of conferral. The peoples of the Member States are the holders of the constituent power. The Basic Law does not permit the special bodies of the legislative, executive and judicial power to dispose of the essential elements of the constitution, i.e. of the constitutional identity (Article 23.1 sentence 3, Article 79.3 GG). The constitutional identity is an inalienable element of the democratic self-determination of a people.}} <br />The original German uses the word ''Staatenverbund'', which they translate as "association of sovereign states", rather than the word ''Staatenbund'' (confederation) or ''Bundesstaat'' (federation).</ref>
+Others claim that it will not develop into a federal state but has reached maturity as an international organisation.<ref>{{cite book| editor1-last = Wiener| editor1-first = Antje| editor2-last = Diez| editor2-first = Thomas| title = European Integration Theory|chapter=Liberal Intergovernmentalism|first1=Andrew|last1=Moravcsik|first2=Andrew|last2=Moravcsik|quote=Every constitutional system reaches a point where it is mature, where it no longer needs to move forward to remain stable. The EU has reached that point. The EU is not a state in the making: it is the most ambitious and successful of international organisations. | year = 2009| origyear = 2004|edition=2nd| publisher = Oxford University Press| isbn = 978-0-19-922609-2}}</ref>
+
+===Governance===
+{{Main|Institutions of the European Union|Legislature of the European Union}}
+{{Politics of the European Union}}
+
+The European Union has seven institutions: the [[European Parliament]], the [[Council of the European Union]], the [[European Commission]], the [[European Council]], the [[European Central Bank]], the [[Court of Justice of the European Union]] and the [[European Court of Auditors]]. Competencies in scrutinising and amending legislation are divided between the European Parliament and the Council of the European Union while executive tasks are carried out by the European Commission and in a limited capacity by the European Council (not to be confused with the aforementioned Council of the European Union). The [[monetary policy]] of the [[eurozone]] is governed by the [[European Central Bank]]. The interpretation and the application of EU law and the treaties are ensured by the Court of Justice of the European Union. The EU budget is scrutinised by the European Court of Auditors. There are also a number of ancillary bodies which advise the EU or operate in a specific area.
+
+====European Council====
+[[File:Donald Tusk 2013-12-19.jpg|thumb|upright|125px|left|The [[President of the European Council]], [[Donald Tusk]]]]
+
+The European Council gives direction to the EU, and convenes at least four times a year. It comprises the [[President of the European Council]], the [[President of the European Commission]] and one representative per [[member state of the European Union|member state]]; either its [[head of state]] or [[head of government]]. The European Council has been described by some as the Union's "supreme political authority".<ref name="How work">{{cite web|title=How does the EU work|publisher=Europa (web portal)|url=http://europa.eu/abc/12lessons/lesson_4/index_en.htm|accessdate=12 July 2007}}</ref> It is actively involved in the negotiation of the [[Treaties of the European Union|treaty changes]] and defines the EU's policy agenda and strategies.
+
+The European Council uses its leadership role to sort out disputes between member states and the institutions, and to resolve political crises and disagreements over controversial issues and policies. It acts externally as a "collective [[head of state]]" and [[ratification|ratifies]] important documents (for example, international agreements and treaties).<ref>[https://books.google.com/books?id=aMsWxEnaqrUC&pg=PA146 ''With US or against US?: European trends in American perspective''] Parsons, Jabko. European Union Studies Association, p.146:<br>''Fourth, the European Council acts a "collective head of state" for the EU.''</ref>
+
+On 19 November 2009, [[Herman Van Rompuy]] was chosen as the first permanent [[President of the European Council]]. On 1 December 2009, the [[Treaty of Lisbon]] entered into force and he assumed office. Ensuring the external representation of the EU,<ref name="Council Press Release">{{cite web|url=http://www.consilium.europa.eu/uedocs/cms_data/docs/pressdata/en/ec/111298.pdf|title=President of the European Council|accessdate=24 November 2009|date=24 November 2009|format=PDF|publisher=General Secretariat of the Council of the EU}}</ref> driving consensus and settling divergences among members are tasks for the President both during the convocations of the European Council and in the time periods between them. The European Council should not be mistaken for the [[Council of Europe]], an international organisation independent from the EU.
+{{Clear left}}
+
+====European Commission====
+[[File:Ioannes Claudius Juncker die 7 Martis 2014.jpg|135px|left|thumb|The [[President of the European Commission|Commission President]], [[Jean-Claude Juncker]]]]
+
+The [[European Commission]] acts as the EU's [[executive (government)|executive arm]] and is responsible for [[Right of initiative (legislative)|initiating legislation]] and the day-to-day running of the EU. The Commission is also seen as the motor of [[European integration]]. It operates as a [[Cabinet (government)|cabinet government]], with 28 [[European Commissioner|Commissioners]] for different areas of policy, one from each member state, though Commissioners are bound to represent the interests of the EU as a whole rather than their home state.
+
+One of the 28 is the [[President of the European Commission|Commission President]] (currently [[Jean-Claude Juncker]]) appointed by the [[European Council]]. After the President, the most prominent Commissioner is the [[High Representative of the Union for Foreign Affairs and Security Policy]] who is ''ex-officio'' [[Vice-President of the European Commission|Vice-President of the Commission]] and is chosen by the European Council too.<ref>[[s:Consolidated version of the Treaty on European Union/Title III: Provisions on the Institutions#Article 17|Treaty on European Union: Article 17:7]]</ref> The other 26 Commissioners are subsequently appointed by the [[Council of the European Union]] (also known as the Council of Ministers) in agreement with the nominated President. The 28 Commissioners as a single body are subject to a vote of approval by the [[European Parliament]].
+{{Clear left}}
+
+====European Parliament====
+[[File:European Parliament Strasbourg Hemicycle - Diliff.jpg|thumb|250px|The [[hemicycle]] of the [[European Parliament]] in Strasbourg]]
+
+The [[European Parliament]] forms one half of the [[Legislature of the European Union|EU's legislature]] (the other half is the Council of the European Union).
+The 751 [[Member of the European Parliament|Members of the European Parliament]] (MEPs) are directly [[Elections in the European Union|elected]] by [[Citizenship of the European Union|EU citizens]] every five years on the basis of [[proportional representation]]. Although MEPs are elected on a national basis, they sit according to [[Political groups of the European Parliament|political groups]] rather than their nationality. Each country has a set number of seats and is divided into [[European Parliament constituency|sub-national constituencies]] where this does not affect the proportional nature of the voting system.<ref>{{cite web|author=Wellfire Interactive |url=http://www.fairvote.org/european-parliament-to-be-elected-with-proportional-representation-systems |title=MEPs must be elected on the basis of proportional representation, the threshold must not exceed 5%, and the electoral area may be subdivided in constituencies if this will not generally affect the proportional nature of the voting system |publisher=Fairvote.org |accessdate=26 November 2010}}</ref>
+
+The Parliament and the Council of the European Union pass legislation jointly in nearly all areas under the [[ordinary legislative procedure]]. This also applies to the [[budget of the European Union|EU budget]]. Finally, the Commission is accountable to Parliament, requiring its approval to take office, having to report back to it and subject to motions of censure from it. The [[President of the European Parliament]] carries out the role of speaker in parliament and represents it externally. The EP President and [[Vice President of the European Parliament|Vice-Presidents]] are elected by MEPs every two and a half years.<ref name="Europa Institutions Parliament">{{cite web|title=Institutions: The European Parliament|publisher=Europa web portal|url=http://europa.eu/institutions/inst/parliament/index_en.htm|accessdate=25 June 2007}}</ref>
+{{Clear left}}
+
+====Council of the European Union====
+The [[Council of the European Union]] (also called the "Council"<ref>The Latin word ''consilium'' is occasionally used when a single identifier is required, as on [http://www.consilium.europa.eu/ the Council Web site]</ref> and sometimes referred to as the "Council of Ministers")<ref>{{cite web |url=http://europa.eu/pol/inst/index_en.htm |title=Institutional affairs: Council of the European Union |date=6 January 2010 |work=Europa |publisher=European Commission |quote=It is commonly called the Council of Ministers}}</ref> forms the other half of the EU's legislature. It consists of a [[minister (government)|government minister]] from each member state and meets in [[Council of the European Union#Configurations|different compositions depending on the policy area being addressed]]. Notwithstanding its different configurations, it is considered to be one single body.<ref name="Europa Institutions Council">{{cite web|title=Institutions: The Council of the European Union|publisher=Europa web portal|url=http://europa.eu/institutions/inst/council/index_en.htm|accessdate=25 June 2007}}</ref> In addition to its legislative functions, the Council also exercises [[executive functions]] in relations to the [[Common Foreign and Security Policy]].
+
+===Budget===
+{{Main|Budget of the European Union}}
+{{Pie chart
+|caption=The 2011 EU budget (€141.9 bn. in total; commitment appropriations):<ref>{{cite web|url=http://ec.europa.eu/budget/figures/2011/2011_en.cfm |title=The EU budget 2011 in figures – Financial Programming and Budget |publisher=Ec.europa.eu |accessdate=13 October 2013}}</ref>
+|label1=Cohesion and competitiveness for growth and employment
+|value1=45
+|color1=#0084ff
+|label2=Citizenship, freedom, security and justice
+|value2=1
+|color2=white
+|label3=The EU as a global partner
+|value3=6
+|color3=#1abb45
+|label4=Rural development
+|value4=11
+|color4=#d00000
+|label5=Direct aids and market related expenditures
+|value5=31
+|color5=yellow
+|label6=Administration
+|value6=6
+|color6=silver}}
+
+The EU had an agreed budget of €120.7&nbsp;billion for the year 2007 and €864.3&nbsp;billion for the period 2007–2013,<ref>{{cite web|url=http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/06/204&format=HTML|title=Q&A on Interinstitutional Agreement on Budgetary Discipline and Sound Financial Management 2007–2013}}</ref> representing 1.10% and 1.05% of the EU-27's [[Gross national income|GNI]] forecast for the respective periods. By comparison, the United Kingdom's expenditure for 2004 was estimated to be €759&nbsp;billion, and France was estimated to have spent €801&nbsp;billion. In 1960, the budget of the then European Economic Community was 0.03% of GDP.<ref>{{cite book |first1=David |publisher=Profile Books |place=London |year=1999 |isbn=1-86197-102-8 |author=David Smith. |title=Will Europe work?}}</ref>
+
+In the 2010 budget of €141.5&nbsp;billion, the largest single expenditure item is "''[[Structural Funds and Cohesion Fund|cohesion & competitiveness]]''" with around 45% of the total budget.<ref name="EUBudget2010">{{cite web|title=EU Budget in detail 2010|publisher=Europa web portal|author=European Commission|format=PDF|url=http://ec.europa.eu/budget/budget_detail/current_year_en.htm|accessdate=20 December 2010}}</ref> Next comes "''[[Common Agricultural Policy|agriculture]]''" with approximately 31% of the total.<ref name="EUBudget2010"/> "''Rural development, environment and [[Common Fisheries Policy|fisheries]]''" takes up around 11%.<ref name="EUBudget2010"/> "''Administration''" accounts for around 6%.<ref name="EUBudget2010"/> The "''EU as a global partner''" and "''citizenship, freedom, security and justice''" bring up the rear with approximately 6% and 1% respectively.<ref name="EUBudget2010"/>
+
+The [[Court of Auditors]] aims to ensure that the [[budget of the European Union]] has been properly accounted for. The court provides an audit report for each financial year to the Council and the European Parliament. The Parliament uses this to decide whether to approve the Commission's handling of the budget. The Court also gives opinions and proposals on financial legislation and anti-fraud actions.<ref name="Europa Institutions Auditors">{{cite web|title=Institutions: Court of Auditors|publisher=Europa (web portal)|url=http://europa.eu/institutions/inst/auditors/index_en.htm|accessdate=8 February 2010}}</ref>
+
+The Court of Auditors is legally obliged to provide the Parliament and the Council with "a statement of assurance as to the reliability of the accounts and the legality and regularity of the underlying transactions".<ref>Article 287 of the Treaty on the Functioning of the European Union (ex Article 248 TEC).</ref> The Court has refused to do so every year since 1993, qualifying their report of the Union's accounts every year since then.<ref>{{Cite news |title= Auditors provide critical assessment of EU accounts |url= http://www.bbc.co.uk/democracylive/europe-24819085 |accessdate= 5 November 2013 |work= Democracy Live |publisher =[[BBC]] |date= 5 November 2013 }}</ref> In their report on 2009 the auditors found that five areas of Union expenditure, [[Common Agricultural Policy|agriculture]] and the [[Structural Funds and Cohesion Fund|cohesion fund]], were materially affected by error.<ref>{{cite web |url=http://eca.europa.eu/portal/pls/portal/docs/1/5926723.PDF |title=Annual Report of the Court of Auditors on the implementation of the budget concerning the financial year 2009, together with the institutions' replies |page=12 |accessdate=18 December 2010}}</ref> The European Commission estimated {{when|date=June 2013}} that the financial impact of irregularities was €1,863&nbsp;million.<ref>{{cite web |url=http://ec.europa.eu/anti_fraud/reports/commission/2009/en.pdf |title=Protection of the European Union's financial interests – Fight against fraud – Annual Report 2009 (''vid.'' pp. 6, 15) |publisher=Europa |archiveurl=https://web.archive.org/web/20100729063014/http://ec.europa.eu/anti_fraud/reports/commission/2009/en.pdf |archivedate=29 July 2010 }}</ref>
+
+===Competences===
+EU member states retain all powers not explicitly handed to the European Union. In some areas the EU enjoys exclusive competence. These are areas in which member states have renounced any capacity to enact legislation. In other areas the EU and its member states share the competence to legislate. While both can legislate, member states can only legislate to the extent to which the EU has not. In other policy areas the EU can only co-ordinate, support and supplement member state action but cannot enact legislation with the aim of harmonising national laws.<ref>{{cite web|url=http://ec.europa.eu/competition/consumers/events/2009/index.html|title=Competences and consumers|accessdate=25 November 2010}}</ref>
+
+That a particular policy area falls into a certain category of competence is not necessarily indicative of what [[Legislature of the European Union|legislative procedure]] is used for enacting legislation within that policy area. Different legislative procedures are used within the same category of competence, and even with the same policy area.
+
+The distribution of competences in various policy areas between Member States and the Union is divided in the following three categories:
+{{EU competences}}
+
+==Legal system==
+{{Further|European Union law|Treaties of the European Union|Charter of Fundamental Rights of the European Union}}
+[[File:EuGH Saal (große Kammer mit 13 Richter).JPG|thumb|270px|The [[European Court of Justice|Court of Justice]], seated in [[Luxembourg]].]]
+The EU is based on a series of [[Treaties of the European Union|treaties]]. These first established the European Community and the EU, and then made amendments to those founding treaties.<ref>{{cite web|title=Sources of EU law|url=http://ec.europa.eu/ireland/general_information/legal_information_and_eu_law/sources_eu_law/index_en.htm|archiveurl=https://web.archive.org/web/20080228193407/http://ec.europa.eu/ireland/general_information/legal_information_and_eu_law/sources_eu_law/index_en.htm|archivedate=28 February 2008|publisher=European Commission|accessdate=5 September 2007}}</ref> These are power-giving treaties which set broad policy goals and establish institutions with the necessary legal powers to implement those goals. These legal powers include the ability to enact legislation<ref group="lower-alpha" name="art249">See Article 288 (ex Article 249 TEC) of the Treaty on the Functioning of the European Union, on [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2010:083:0047:0200:EN:PDF eur-lex.europa.eu]</ref> which can directly affect all member states and their inhabitants.<ref group="lower-alpha" name="Direct Effect">According to the principle of Direct Effect first invoked in the Court of Justice's decision in {{cite court|litigants=Van Gend en Loos v Nederlandse Administratie der Belastingen|reporter=Eur-Lex|court=European Court of Justice|year=1963|url=http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:61962J0026:EN:NOT}} See: Craig and de Búrca, ch. 5.</ref> The EU has [[legal personality]], with the right to sign agreements and international treaties.<ref>{{cite journal |first=Philippe |last=de Schoutheete|last2=Andoura |first2=Sami |title=The Legal Personality of the European Union |journal=Studia Diplomatica |volume=LX |year=2007 |issue=1 |url=http://aei.pitt.edu/9083/01/Legal.Personality.EU-PDS-SA.pdf |accessdate=15 November 2010}} Its examples are the ratifications of [[United Nations Convention against Corruption]] and [[Convention on the Rights of Persons with Disabilities]] by EU. And Article 47 of the Consolidated Treaty on European Union.</ref>
+
+Under the principle of [[Supremacy (European Union law)|supremacy]], national courts are required to enforce the treaties that their member states have ratified, and thus the laws enacted under them, even if doing so requires them to ignore conflicting national law, and (within limits) even constitutional provisions.<ref group="lower-alpha" name="Supremacy">According to the principle of [[Law of the European Union#Supremacy|Supremacy]] as established by the ECJ in Case 6/64, ''Falminio Costa v. ENEL'' [1964] ECR 585. See Craig and de Búrca, ch. 7. See also: [[Factortame litigation]]: ''Factortame Ltd. v. Secretary of State for Transport (No. 2) [1991] 1 AC 603'', ''Solange II'' (''Re Wuensche Handelsgesellschaft'', BVerfG decision of 22 October 1986 [1987] 3 CMLR 225,265) and ''Frontini v. Ministero delle Finanze'' [1974] 2 CMLR 372; ''Raoul George Nicolo'' [1990] 1 CMLR 173.</ref>
+
+===Courts of Justice===
+The [[judiciary|judicial branch]] of the EU—formally called the [[Court of Justice of the European Union]]—consists of three courts: the [[European Court of Justice|Court of Justice]], the [[General Court (European Union)|General Court]], and the [[European Union Civil Service Tribunal]]. Together they interpret and apply the treaties and the law of the EU.<ref>{{cite web|url=http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2010:083:0013:0046:EN:PDF |title=Article 19 of the Treaty on European Union |publisher=eur-lex.europa.eu |accessdate=31 October 2010}}</ref>
+
+The Court of Justice primarily deals with cases taken by member states, the institutions, and [[Preliminary ruling|cases referred to it]] by the courts of member states.<ref>{{cite web |title=Court of Justice: presentation |url=http://curia.europa.eu/jcms/jcms/Jo2_7024/#competences |publisher=Europa web portal |accessdate=26 December 2009}}</ref> The General Court mainly deals with cases taken by individuals and companies directly before the EU's courts,<ref>{{cite web |title=General Court: presentation |url=http://curia.europa.eu/jcms/jcms/Jo2_7033/#compet |publisher=Europa web portal |accessdate=26 December 2009}}</ref> and the European Union Civil Service Tribunal adjudicates in disputes between the European Union and [[European Civil Service|its civil service]].<ref>{{cite web |title=Civil Service Tribunal: presentation |url=http://curia.europa.eu/jcms/jcms/T5_5230/#compétence |publisher=Europa web portal |accessdate=26 December 2009}}</ref> Decisions from the General Court can be appealed to the Court of Justice but only on a point of law.<ref>Article 256(1) (ex article 225(1)) of the Treaty on the Functioning of the European Union, on [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2010:083:0047:0200:EN:PDF eur-lex.europa.eu]</ref>
+
+===Fundamental rights===
+[[File:Remise du Prix Sakharov à Aung San Suu Kyi Strasbourg 22 octobre 2013-14.jpg|right|thumb|The awarding ceremony of the 1990 [[Sakharov Prize]] awarded to [[Aung San Suu Kyi]] (here by [[Martin Schulz]]) inside the Parliament's Strasbourg hemicycle, in 2013.]]
+The treaties declare that the EU itself is "founded on the values of respect for [[human dignity]], [[liberty|freedom]], democracy, [[equality before the law|equality]], the [[rule of law]] and respect for human rights, including the rights of persons belonging to [[minority group|minorities]]&nbsp;... in a society in which pluralism, non-discrimination, tolerance, justice, solidarity and equality between women and men prevail."<ref>[[s:Consolidated version of the Treaty on European Union/Title I: Common Provisions#Article 2|Article 2, Treaty on European Union (consolidated 1 December 2009)]]</ref>
+
+In 2009 the [[Lisbon Treaty]] gave legal effect to the [[Charter of Fundamental Rights of the European Union]]. The charter is a codified catalogue of [[fundamental right]]s against which the EU's legal acts can be judged. It consolidates many rights which were previously recognised by the Court of Justice and derived from the "constitutional traditions common to the member states."<ref>Case 11/70, Internationale Handelsgesellschaft v. Einfuhr und Vorratstelle für Getreide und Futtermittel; Article 6(2) of the Maastricht Treaty (as amended).</ref> The Court of Justice has long recognised fundamental rights and has, on occasion, invalidated EU legislation based on its failure to adhere to those fundamental rights.<ref name="europarl-rights">{{cite web |title=Respect for fundamental rights in the EU – general development |publisher=The [[European Parliament]] |work=European Parliament Fact Sheets |url=http://www.europarl.europa.eu/factsheets/2_1_1_en.htm |accessdate=6 September 2008}}</ref> The [[Charter of Fundamental Rights of the European Union|Charter of Fundamental Rights]] was drawn up in 2000. Although originally not legally binding the Charter was frequently cited by the EU's courts as encapsulating rights which the courts had long recognised as the fundamental principles of EU law.
+Although signing the [[European Convention on Human Rights]] (ECHR) is a condition for EU membership,<ref group="lower-alpha">It is effectively treated as one of the Copenhagen criteria, [http://assembly.coe.int/Main.asp?link=/Documents/AdoptedText/ta08/ERES1610.htm Assembly.coe.int.] It should be noted that this is a political and not a legal requirement for membership.</ref> previously, the EU itself could not accede to the Convention as it is neither a state<ref group="lower-alpha">The European Convention on Human Rights was previously only open to members of the [[Council of Europe]] ([http://conventions.coe.int/Treaty/en/Treaties/Html/005.htm Article 59.1 of the Convention]), and even now only states may become member of the Council of Europe ([http://conventions.coe.int/Treaty/en/Treaties/Html/001.htm Article 4 of the Statute of the Council of Europe]).</ref> nor had the competence to accede.<ref group="lower-alpha">Opinion (2/92) of the European Court of Justice on "Accession by the Community to the European Convention for the Protection of Human Rights and Fundamental Freedoms" [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:61994V0002:FR:NOT 1996 E.C.R. I-1759] (in French), ruled that the European Community did not have the competence to accede to the ECHR.</ref> The Lisbon Treaty and Protocol 14 to the ECHR have changed this: the former binds the EU to accede to the Convention while the latter formally permits it.
+
+Although, the EU is independent from Council of Europe, they share purpose and ideas especially on rule of law, human rights and democracy. Further [[European Convention on Human Rights]] and [[European Social Charter]], the [[source of law]] of [[Charter of Fundamental Rights of the European Union|Charter of Fundamental Rights]] are created by Council of Europe. The EU also promoted human rights issues in the wider world. The EU opposes the death penalty and has proposed its worldwide abolition. Abolition of the death penalty is a condition for EU membership.<ref>{{cite web|title=EU Policy on Death Penalty|url=http://eeas.europa.eu/human_rights/adp/index_en.htm|work=Europa|publisher=European Union External Action Service|accessdate=4 June 2013}}</ref>
+
+===Acts===
+The main legal acts of the EU come in three forms: [[Regulation (European Union)|regulations]], [[Directive (European Union)|directives]], and [[Decision (European Union)|decisions]]. Regulations become law in all member states the moment they come into force, without the requirement for any implementing measures,<ref group="lower-alpha">See: Case 34/73, ''Variola v. Amministrazione delle Finanze'' [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:61973J0034:EN:NOT <nowiki>[1973]</nowiki> ECR 981].</ref> and automatically override conflicting domestic provisions.<ref group="lower-alpha" name="art249"/> Directives require member states to achieve a certain result while leaving them discretion as to how to achieve the result. The details of how they are to be implemented are left to member states.<ref group="lower-alpha">To do otherwise would require the drafting of legislation which would have to cope with the frequently divergent legal systems and administrative systems of all of the now 28 member states. See Craig and de Búrca, p. 115</ref> When the time limit for implementing directives passes, they may, under certain conditions, have [[direct effect]] in national law against member states.
+
+Decisions offer an alternative to the two above modes of legislation. They are legal acts which only apply to specified individuals, companies or a particular member state. They are most often used in [[competition law]], or on rulings on State Aid, but are also frequently used for procedural or administrative matters within the institutions. Regulations, directives, and decisions are of equal legal value and apply without any formal hierarchy.<ref>{{cite web|url=http://europa.eu/institutions/decision-making/index_en.htm|title=How EU takes decisions|accessdate=November 2010}}</ref>
+
+==Area of freedom, security and justice==
+{{Further|Area of freedom, security and justice}}
+[[File:OffeneGrenzeNiederndorf-Oberaudorf.jpg|thumb|right|The borders inside the [[Schengen Area]] between Germany and Austria]]
+
+Since the creation of the EU in 1993, it has developed its competencies in the area of freedom, security and justice, initially at an intergovernmental level and later by supranationalism. To this end, agencies have been established that co-ordinate associated actions: [[Europol]] for co-operation of police forces,<ref>{{cite web|title=European police office now in full swing|url=http://ec.europa.eu/justice_home/fsj/police/europol/fsj_police_europol_en.htm|publisher=Europa web portal|accessdate=4 September 2007}}</ref> [[Eurojust]] for co-operation between prosecutors,<ref>{{cite web|title=Eurojust coordinating cross-border prosecutions at EU level|url=http://ec.europa.eu/justice_home/fsj/criminal/eurojust/fsj_criminal_eurojust_en.htm|publisher=Europa web portal|accessdate=4 September 2007}}</ref> and [[Frontex]] for co-operation between border control authorities.<ref>{{cite web|title=What is Frontex?|url=http://www.frontex.europa.eu/|author=Frontex|publisher=Europa web portal|accessdate=4 September 2007}}</ref> The EU also operates the [[Schengen Information System]]<ref name="Internal borders"/> which provides a common database for police and immigration authorities. This co-operation had to particularly be developed with the advent of open borders through the [[Schengen Agreement]] and the associated cross border crime.
+
+Furthermore, the Union has legislated in areas such as [[European Arrest Warrant|extradition]],<ref>{{cite web|title=European arrest warrant replaces extradition between EU Member States|url=http://ec.europa.eu/justice_home/fsj/criminal/extradition/fsj_criminal_extradition_en.htm|publisher=Europa web portal|accessdate=4 September 2007}}</ref> family law,<ref>{{cite web|url=http://europa.eu/legislation_summaries/justice_freedom_security/judicial_cooperation_in_civil_matters/l33194_en.htm|title=Jurisdiction and the recognition and enforcement of judgments in matrimonial matters and in matters of parental responsibility (Brussels II)|publisher=Europa web portal|accessdate=5 September 2008}}</ref> asylum law,<ref>{{cite web|url=http://europa.eu/legislation_summaries/justice_freedom_security/free_movement_of_persons_asylum_immigration/l33150_en.htm|title=Minimum standards on the reception of applicants for asylum in Member States|publisher=Europa web portal|accessdate=5 September 2008}}</ref> and criminal justice.<ref>{{cite web|url=http://europa.eu/legislation_summaries/justice_freedom_security/judicial_cooperation_in_criminal_matters/l10110_en.htm|title=Specific Programme: 'Criminal Justice'|publisher=Europa web portal|accessdate=5 September 2008}}</ref> Prohibitions against sexual and nationality discrimination have a long standing in the treaties.<ref group="lower-alpha" name="art39/141 Rome">See Articles 157 (ex Article 141) of the [[Treaty on the Functioning of the European Union]], on [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2010:083:0013:0046:EN:PDF eur-lex.europa.eu]</ref> In more recent years, these have been supplemented by powers to legislate against discrimination based on race, religion, disability, age, and sexual orientation.<ref group="lower-alpha" name="art2(7) Amsterdam">See Article 2(7) of the [[Amsterdam Treaty]] on [http://eur-lex.europa.eu/en/treaties/dat/11997D/htm/11997D.html#0001010001 eur-lex.europa.eu]</ref> By virtue of these powers, the EU has enacted legislation on [[sexism|sexual discrimination]] in the work-place, [[ageism|age discrimination]], and [[racism|racial discrimination]].<ref group="lower-alpha">Council Directive 2000/43/EC of 29 June 2000 implementing the principle of equal treatment between persons irrespective of racial or ethnic origin (OJ L 180, 19 July 2000, p. 22–26); Council Directive 2000/78/EC of 27 November 2000 establishing a general framework for equal treatment in employment and occupation (OJ L 303, 2 December 2000, p. 16–22).</ref>
+
+==Foreign relations==
+{{Main|Foreign relations of the European Union|Common Foreign and Security Policy|European External Action Service}}
+[[File:Federica Mogherini Official.jpg|thumb|left|upright|150px|The [[High Representative of the Union for Foreign Affairs and Security Policy]], [[Federica Mogherini]].]]
+Foreign policy co-operation between member states dates from the establishment of the Community in 1957, when member states negotiated as a bloc in international trade negotiations under the Common [[Commercial policy]].<ref>{{cite web|title=Qualified-Majority Voting: Common commercial policy|url=http://ec.europa.eu/archives/igc2000/geninfo/fact-sheets/fact-sheet6/index_en.htm|accessdate=3 September 2007|publisher=Europa web portal}}</ref> Steps for a more wide ranging co-ordination in foreign relations began in 1970 with the establishment of [[European Political Cooperation]] which created an informal consultation process between member states with the aim of forming common foreign policies. It was not, however, until 1987 when European Political Cooperation was introduced on a formal basis by the [[Single European Act]]. EPC was renamed as the [[Common Foreign and Security Policy]] (CFSP) by the [[Maastricht Treaty]].<ref name="EPC">{{cite web|url=http://europa.eu/scadplus/glossary/european_political_cooperation_en.htm|title=European political co-operation (EPC)|accessdate=3 September 2007|publisher=Europa web portal|author=The European commission|work=Europa Glossary}}</ref>
+
+The aims of the CFSP are to promote both the EU's own interests and those of the [[international community]] as a whole, including the furtherance of international co-operation, respect for human rights, democracy, and the rule of law.<ref name="art11 Union">Article 21 of the [[Maastricht Treaty|Treaty on European Union]] (as inserted by the Treaty of Lisbon), on [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2010:083:0013:0046:EN:PDF eur-lex.europa.eu]</ref> The CFSP requires unanimity among the member states on the appropriate policy to follow on any particular issue. The unanimity and difficult issues treated under the CFSP sometimes lead to disagreements, such as those which occurred over the [[Iraq War|war in Iraq]].<ref name="BBC Iraq statement">{{cite news|title=Divided EU agrees Iraq statement|publisher=British Broadcasting Corporation|date=27 January 2003|url=http://news.bbc.co.uk/1/hi/world/europe/2697667.stm|accessdate=13 March 2009}}</ref>
+
+[[File:2010 G-20 Seoul summit.jpg|thumb|The EU participates in all [[G8]] and [[G-20 major economies|G20]] summits. ([[2010 G-20 Seoul summit|G20 summit in Seoul]])]]
+
+The coordinator and representative of the CFSP within the EU is the [[High Representative of the Union for Foreign Affairs and Security Policy]] (currently [[Federica Mogherini]]) who speaks on behalf of the EU in foreign policy and defence matters, and has the task of articulating the positions expressed by the member states on these fields of policy into a common alignment. The High Representative heads up the [[European External Action Service]] (EEAS), a unique EU department<ref name="23Oct">Rettman, Andrew (23 October 2009) [http://euobserver.com/9/28878 EU states envisage new foreign policy giant], EU Observer</ref> that has been officially implemented and operational since 1 December 2010 on the occasion of the first anniversary of the entry into force of the [[Treaty of Lisbon]].<ref>{{cite web|title=European External Action Service gives Europe voice on world stage|url=http://www.auswaertiges-amt.de/EN/Infoservice/Presse/Meldungen/2010/101201-EAD.html|publisher=German Foreign Ministry|accessdate=4 June 2013|date=1 December 2010}}</ref> The EEAS will serve as a foreign ministry and [[diplomatic corps]] for the European Union.<ref name="Europa EEAS">{{cite web|title=European External Action Service|publisher=Europa web portal|year=2010|url=http://eeas.europa.eu/background/index_en.htm|accessdate=26 June 2010}}</ref>
+
+Besides the emerging international policy of the European Union, the international influence of the EU is also felt through [[Enlargement of the European Union|enlargement]]. The perceived benefits of becoming a member of the EU act as an incentive for both political and economic reform in states wishing to fulfil the EU's accession criteria, and are considered an important factor contributing to the reform of European formerly Communist countries.<ref>{{cite journal |title=Enlargement, reform and the European Commission. Weathering a perfect storm? |last1=Peterson |first1=John, |journal=Journal of European Public Policy |volume=15 |pages=761–780 |year=2008 |publisher=Taylor & Francis |issue=5 |doi=10.1080/13501760802133328}} At page. 762</ref> This influence on the internal affairs of other countries is generally referred to as "[[soft power]]", as opposed to military "hard power".<ref name="Soft Power">{{cite web|last=Bildt|first=Carl|authorlink=Carl Bildt|title=Europe must keep its 'soft power'|work=Financial Times on [[Centre for European Reform]]|year=2005|url=http://www.cer.org.uk/articles/bildt_ft_1june05.html|accessdate=26 June 2007|archiveurl=https://web.archive.org/web/20070609135542/http://www.cer.org.uk/articles/bildt_ft_1june05.html <!--Added by H3llBot-->|archivedate=9 June 2007}}</ref>
+
+===Military===
+{{Main|Military of the European Union}}
+[[File:NATO heads of state at the 2006 Summit.jpg|thumb|left|[[NATO Summit 2006]] in [[Riga]], [[Latvia]].]]
+The European Union does not have one unified military. The predecessors of the European Union were not devised as a strong military alliance because [[NATO]] was largely seen as appropriate and sufficient for defence purposes.<ref>{{cite book|last=Wilkinson|first=Paul|title=International Relations|publisher=Oxford University Press|page=100|quote=The EU states have never felt the need to make the organisation into a powerful military alliance. They already have NATO to undertake that task.|isbn=1-84542-539-1}}</ref> 22 EU members are members of NATO<ref>{{cite web|title=NATO Member Countries|url=http://www.nato.int/cps/en/natolive/nato_countries.htm|accessdate=25 August 2009}}</ref> while the remaining member states follow policies of [[Neutrality (international relations)|neutrality]].<ref>{{cite conference|first=Finn|last=Laursen|title=The EU 'neutrals,' the CFSP and defence policy|booktitle=Biennial Conference of the European Union Studies Association|page=27|publisher=University of Pittsburgh|date=29 May – 1 June 1997|location=Seattle, WA.|url=http://aei.pitt.edu/2657/|accessdate=24 July 2009}}</ref> The [[Western European Union]], a military alliance with a mutual defence clause, was disbanded in 2010 as its role had been transferred to the EU.<ref>[http://www.weu.int/Declaration_E.pdf Statement of the Presidency of the Permanent Council of the WEU] – on behalf of the High Contracting Parties to the Modified Brussels Treaty – Belgium, France, Germany, Greece, Italy, Luxembourg, the Netherlands, Portugal, Spain and the United Kingdom – Western European Union 31 March 2010.</ref>
+
+According to the [[Stockholm International Peace Research Institute]] (SIPRI), France spent more than €44 billion ($59bn) on defence in 2010, placing it third in the world after the US and China, while the United Kingdom spent almost £38 billion ($58bn), the fourth largest.<ref>{{cite web|url=http://milexdata.sipri.org/ |title=The SIPRI Military Expenditure Database |publisher=Milexdata.sipri.org |accessdate=3 June 2013}}</ref> Together, France and the United Kingdom account for 45 per cent of Europe's defence budget, 50 per cent of its military capacity and 70 per cent of all spending in military research and development.<ref>[http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10685127 "Britain and France to work together"] by Catherine Field. 4 November 2010. nzherald.co.nz. According to the Stockholm International Peace Research Institute (SIPRI), Britain spent more than US$69 billion on defence last year, placing it third in the world after the United States and China, while France spent US$67.31 billion, the fourth largest. Together, Britain and France account for 45 per cent of Europe's defence budget, 50 per cent of its military capacity and 70 per cent of all spending in military research and development. Copyright 2010, APN Holdings NZ Limited.</ref> Britain and France are also officially recognised [[nuclear weapons state|nuclear weapon states]] and are the only two European nations to hold permanent seats on the [[United Nations Security Council]]. In 2000, the United Kingdom, France, Spain, and Germany accounted for 97% of the total military research budget of the then 15 EU member states.<ref>{{PDF|[ftp://ftp.cordis.europa.eu/pub/indicators/docs/3rd_report_snaps12.pdf European civil research did not benefit from the decline in military research budgets]}}</ref>
+[[File:A400M.jpg|thumb|An [[Airbus A400M Atlas|A400M]] [[military transport aircraft]] built by [[Airbus Group|Airbus Group SE]] (''[[societas Europaea]]''; [[Latin language|Latin]]: European company)]]
+Following the [[Kosovo War]] in 1999, the [[European Council]] agreed that "the Union must have the capacity for autonomous action, backed by credible military forces, the means to decide to use them, and the readiness to do so, in order to respond to international crises without prejudice to actions by NATO". To that end, a number of efforts were made to increase the EU's military capability, notably the [[Helsinki Headline Goal]] process. After much discussion, the most concrete result was the [[EU Battlegroup]]s initiative, each of which is planned to be able to deploy quickly about 1500&nbsp;personnel.<ref name="Council Capabilities">{{cite web|title=EU BATTLEGROUPS |publisher=Europa web portal|author=Council of the European Union|url=http://www.consilium.europa.eu/uedocs/cmsUpload/090720-Factsheet-Battlegroups_EN.pdf|date=July 2009|accessdate=3 June 2013}}</ref>
+
+[[EUFOR|EU forces]] have been deployed on peacekeeping missions from middle and northern Africa to the [[western Balkans]] and western Asia.<ref name="Council Operations">{{cite web|title=Overview of the missions and operations of the European Union |date=April 2003|publisher=Europa web portal|author=Council of the European Union|url=http://www.consilium.europa.eu/eeas/security-defence/eu-operations?amp;lang=en|accessdate=3 June 2013}}</ref> EU military operations are supported by a number of bodies, including the [[European Defence Agency]], [[European Union Satellite Centre]] and the [[European Union Military Staff]].<ref name="Council Structures">{{cite web|title=CSDP structures and instruments|publisher=Europa web portal|author=Council of the European Union|url=http://www.consilium.europa.eu/eeas/security-defence/csdp-structures-and-instruments?lang=en|accessdate=3 June 2013}}</ref> In an EU consisting of 28 members, substantial security and defence co-operation is increasingly relying on co-operation of the great powers.<ref>{{cite web|url=http://www.diis.dk/sw87465.asp?csref=RSS |title=The Russo-Georgian War and Beyond: towards a European Great Power Concert, Danish ''Institute of International Studies'' |publisher=Diis.dk |accessdate=27 April 2010}}</ref>
+
+===Humanitarian aid===
+{{Further|ECHO (European Commission)}}
+[[File:ECHO plane.jpg|thumb|left|Collectively, the EU is the largest contributor of [[ECHO (European Commission)|foreign aid]] in the world.
+<ref name="GHA report 2014">{{cite web|title=GHA report 2014|publisher=globalhumanitarianassistance.org|author=GHA|date=22 February 2015|url=http://www.globalhumanitarianassistance.org/report/gha-report-2014}}</ref>
+<ref name="OECD aid report 2013">{{cite web|title=Aid to developing countries (2013)|publisher=OECD|author=OECD|date=4 August 2013|url=http://www.oecd.org/newsroom/aid-to-developing-countries-rebounds-in-2013-to-reach-an-all-time-high.htm}}</ref>
+]]
+
+The [[ECHO (European Commission)|European Commission's Humanitarian Aid and Civil Protection department]], or "ECHO", provides [[humanitarian aid]] from the EU to [[developing country|developing countries]]. In 2012, its budget amounted to €874 million, 51% of the budget went to Africa and 20% to Asia, Latin America, the Caribbean and Pacific, and 20% to the Middle East and Mediterranean.<ref>ECHO,[http://ec.europa.eu/echo/funding/finances_en.htm ECHO's finances]</ref>
+
+Humanitarian aid is financed directly by the budget (70%) as part of the financial instruments for external action and also by the [[European Development Fund]] (30%).<ref name=ODI>Mikaela Gavas 2010. [http://www.odi.org.uk/resources/details.asp?id=5078&title=european-development-cooperation-financial-perspectives Financing European development cooperation: the Financial Perspectives 2014–2020.] London: [[Overseas Development Institute]]</ref> The EU's external action financing is divided into 'geographic' instruments and 'thematic' instruments.<ref name=ODI/> The 'geographic' instruments provide aid through the [[Development Cooperation Instrument]] (DCI, €16.9 billion, 2007–2013), which must spend 95% of its budget on [[Department for International Development|overseas development assistance]] (ODA), and from the [[European Neighbourhood and Partnership Instrument]] (ENPI), which contains some relevant programmes.<ref name=ODI/> The European Development Fund (EDF, €22.7 bn, 2008–2013) is made up of voluntary contributions by member states, but there is pressure to merge the EDF into the budget-financed instruments to encourage increased contributions to match the 0.7% target and allow the [[European Parliament]] greater oversight.<ref name=ODI/>
+
+However, five countries have reached the 0.7% target: Sweden, Luxembourg, the Netherlands, Denmark and the United Kingdom.<ref name="ODA volumes: Europe and the world">{{cite web|title=Euromapping 2008|author=[[German Foundation for World Population]]|date=29 September 2008|format=PDF|url=http://www.euroresources.org/fileadmin/user_upload/Euromapping/Euromapping_Final.pdf|accessdate=3 April 2009}}</ref><ref name="The Guardian: UK meets 0.7% foreign aid target">{{cite web|title=Shh, don't tell anyone, but UK government meets foreign aid target|author=[[The Guardian]]|date=3 April 2014|url=http://www.theguardian.com/global-development/2014/apr/03/uk-meets-foreign-aid-target|accessdate=20 May 2015}}</ref> In 2011, EU aid was 0.42% of the EU's GNI making it the world's most generous aid donor.<ref name="ECHO Overview">{{cite web|title=Development|publisher=Europa web portal|author=European Commission|url=http://europa.eu/pol/dev/index_en.htm |accessdate=3 June 2013}}</ref> The previous [[European Commissioner for International Cooperation, Humanitarian Aid and Crisis Response|Commissioner for Aid]], [[Louis Michel]], has called for aid to be delivered more rapidly, to greater effect, and on humanitarian principles.<ref name="Aid Consensus">{{cite web|title=Commission calls for a European consensus to boost impact of humanitarian aid|publisher=Europa web portal|author=European Commission|date=13 June 2007|url=http://europa.eu/rapid/pressReleasesAction.do?reference=IP/07/814&format=HTML&aged=0&language=EN&guiLanguage=en|accessdate=13 August 2007}}</ref>
+
+==Economy==
+{{Main|Economy of the European Union|Regional policy of the European Union}}
+<div class="thumbinner tright" style="width:302px; margin-left: 10px; margin-bottom: 10px;">{{border|<timeline>
+ImageSize = width:300 height:175
+PlotArea = left:50 bottom:40 top:10 right:10
+AlignBars = justify
+DateFormat = yyyy
+Period = from:0 till:17000
+TimeAxis = orientation:horizontal
+
+Colors =
+ id:gray value:gray(0.5)
+ id:line1 value:gray(0.9)
+ id:line2 value:gray(0.7)
+
+ScaleMajor = unit:year increment:5000 start:0 gridcolor:line2
+ScaleMinor = unit:year increment:1000 start:0 gridcolor:line1
+
+BarData =
+ bar:EU text:EU
+ bar:USA text:USA
+ bar:China text:China
+ bar:Japan text:Japan
+ bar:Brazil text:Brazil
+
+PlotData=
+ color:tan1 width:10
+ bar:EU from:start till:16242 text:17,578
+ bar:USA from:start till:14526 text:15,094
+ bar:China from:start till:5878 text:7,298
+ bar:Japan from:start till:5458 text:5,869
+ bar:Brazil from:start till:2090 text:2,493
+
+TextData =
+ pos:(100,7) textcolor:gray fontsize:S text:International dollars (billions)
+</timeline>}}<div class="thumbcaption">The five largest economies in the world according to the [[IMF]] by [[gross domestic product|GDP]] in 2011.<ref>Figures from the September 2011 update of the International Monetary Fund's ''World Economic Outlook Database''. [http://www.imf.org/external/pubs/ft/weo/2011/02/weodata/weorept.aspx?sy=2009&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=001%2C998&s=NGDP_RPCH%2CNGDPD%2CPPPGDP%2CPPPPC%2CPPPSH&grp=1&a=1&pr.x=69&pr.y=7 Figure for EU], accessed 22 September 2011. [http://www.imf.org/external/pubs/ft/weo/2011/02/weodata/weorept.aspx?sy=2009&ey=2011&scsm=1&ssd=1&sort=country&ds=.&br=1&c=193%2C273%2C223%2C156%2C924%2C922%2C534%2C158%2C111%2C542&s=NGDPD&grp=0&a=&pr.x=71&pr.y=6= Figures for the countries of the world], accessed 22 September 2011.</ref></div></div>
+
+The EU has established a [[Internal market|single market]] across the territory of all its members. 19 member states have also joined a monetary union known as the [[eurozone]], which uses the [[Euro]] as a single currency.<ref name="Europa Single Market"/> In 2012, the EU had a combined GDP of 16.073 trillions [[international dollar]]s, a 20% share of the [[list of countries by GDP|global gross domestic product]] (in terms of purchasing power parity).<ref name="2011-IMG-GDP">{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2014/02/weodata/weorept.aspx?pr.x=28&pr.y=14&sy=2014&ey=2014&scsm=1&ssd=1&sort=country&ds=.&br=1&c=998&s=NGDPD%2CPPPGDP%2CPPPPC&grp=1&a=1|date=October 2014 |title=World Economic Outlook Database, October 2014 Edition |publisher=International Monetary Fund}}</ref> According to Credit Suisse Global Wealth Report 2012, the EU owns the largest [[net wealth]] in the world; it is estimated to equal 30% of the $223 trillion global wealth.
+
+[[File:Gross domestic product (GDP) per inhabitant, in purchasing power standard (PPS), by NUTS 2 regions, 2009 (% of the EU-27 average, EU-27=100).png|thumb|left|250p|GDP (in PPS) per inhabitant by NUTS 2 regions in 2009.]]
+
+Of the top 500 largest corporations measured by revenue ([[Fortune Global 500]] in 2010), 161 have their headquarters in the EU.<ref>{{cite news |url=http://money.cnn.com/magazines/fortune/global500/2010/countries/Australia.html|title=Global 500 2010: Countries – Australia|work=Fortune|accessdate=8 July 2010}} Number of companies data taken from the "Pick a country" box.</ref> In 2007, unemployment in the EU stood at 7%<ref name="UNEMP">{{cite web |format=PDF |url=http://ec.europa.eu/eurostat/documents/2995521/7012746/3-30092015-AP-EN.pdf/9adc381a-dbab-4e56-acde-eeeab6420971 |title=Euro area unemployment rate at 11.0%, EU28 at 9.5%|date=30 September 2015|publisher=Europa web portal |accessdate=30 September 2015}}</ref> while investment was at 21.4% of GDP, inflation at 2.2%, and current account balance at −0.9% of GDP (i.e., slightly more import than export). In 2015, unemployment in the EU stood, per August 2015, at 9.5%.<ref name="UNEMP"/>
+
+There is a significant variance for GDP (PPP) per capita within individual EU states, these range from €11,300 to €69,800 (about US$15,700 to US$97,000).<ref name="EC CAP"/> The difference between the richest and poorest regions (271 NUTS-2 regions of the [[Nomenclature of Territorial Units for Statistics]]) ranged, in 2009, from 27% of the EU27 average in the region of Severozapaden in Bulgaria, to 332% of the average in [[Inner London]] in the United Kingdom. On the high end, Inner London has €78,000 [[Purchasing power parity|PPP]] per capita, Luxembourg €62,500, and [[Brussels|Bruxelles-Cap]] €52,500, while the poorest regions, are [[Severozapaden]] with €6,400 PPP per capita, [[Nord-Est (development region)|Nord-Est]] with €6,900 PPP per capita, [[Severen tsentralen]] with €6,900 and [[Yuzhen tsentralen]] with €7,200.<ref name="EC CAP"/>
+
+[[Structural Funds and Cohesion Funds]] are supporting the development of underdeveloped regions of the EU. Such regions are primarily located in the states of [[Central Europe|central]] and southern Europe.<ref>{{cite web |author=Select Committee on European Union |work=Nineteenth Report |title=Chapter 2: The European Union Structural and Cohesion Funds |year=2008 |url=http://www.publications.parliament.uk/pa/ld200708/ldselect/ldeucom/141/14105.htm |accessdate=28 February 2012}}</ref><ref name="Business2000 Funds">{{cite web|title=EU Structural and Cohesion funds|url=http://europa.eu/scadplus/glossary/structural_cohesion_fund_en.htm|accessdate=Nov 2010}}</ref> Several funds provide emergency aid, support for candidate members to transform their country to conform to the EU's standard ([[Phare]], [[Instrument for Structural Policies for Pre-Accession|ISPA]], and [[Special Accession Programme for Agriculture and Rural Development|SAPARD]]), and support to the [[Post-Soviet states|former USSR]] [[Commonwealth of Independent States]] ([[Technical Aid to the Commonwealth of Independent States|TACIS]]). TACIS has now become part of the worldwide [[EuropeAid Co-operation Office|EuropeAid]] programme. EU [[Framework Programmes for Research and Technological Development|research and technological framework programmes]] sponsor research conducted by consortia from all EU members to work towards a single [[European Research Area]].<ref name="Euractiv FP7">{{cite web|title=7th Research Framework Programme (FP7)|publisher=Euractiv|year=2004|url=http://www.euractiv.com/en/science/7th-research-framework-programme-fp7/article-117494|accessdate=27 June 2007}}</ref>
+
+===Internal market===
+{{Main|Internal market}}
+[[File:Eirepas.JPG|thumb|160px|A [[Passports of the European Union|standardised passport]] design, displaying the name of the member state, the national [[coat of arms|arms]] and the words "European Union" given in their official language(s). (Irish model)]]
+
+Two of the original core objectives of the European Economic Community were the development of a common market, subsequently renamed the [[single market]], and a [[European Union Customs Union|customs union]] between its member states. The single market involves [[Internal market|the free circulation of goods, capital, people, and services within the EU]],<ref name="Europa Single Market">{{cite web|title=The Single Market|publisher=Europa web portal|url=http://ec.europa.eu/internal_market/index_en.htm|accessdate=27 June 2007}}</ref> and the customs union involves the application of a [[common external tariff]] on all goods entering the market. Once goods have been admitted into the market they cannot be subjected to customs duties, discriminatory taxes or [[import quota]]s, as they travel internally. The non-EU member states of [[Iceland]], [[Norway]], [[Liechtenstein]] and [[Switzerland]] participate in the single market but not in the customs union.<ref name="EEA">{{cite web |url=http://eeas.europa.eu/eea/ |title=The European Economic Area (EEA) |publisher=Europa web portal |author=European Commission |accessdate=10 February 2010}}</ref> Half the trade in the EU is covered by legislation harmonised by the EU.<ref name="Europa Single Market G">{{cite web|title=A Single Market for goods|publisher=Europa web portal|author=European Commission|url=http://ec.europa.eu/internal_market/top_layer/index_18_en.htm|accessdate=27 June 2007}}</ref>
+
+Free movement of capital is intended to permit movement of investments such as property purchases and buying of shares between countries.<ref name="Europa Single Market C">{{cite web|title=A Single Market for Capital|publisher=Europa web portal|author=European Commission|url=http://ec.europa.eu/internal_market/top_layer/index_42_en.htm|accessdate=27 June 2007}}</ref> Until the drive towards [[economic and monetary union]] the development of the capital provisions had been slow. Post-Maastricht there has been a rapidly developing corpus of ECJ judgements regarding this initially neglected freedom. The free movement of capital is unique insofar as it is granted equally to non-member states.
+
+The free movement of persons means that [[Citizenship of the European Union|EU citizens]] can move freely between member states to live, work, study or retire in another country. This required the lowering of administrative formalities and recognition of professional qualifications of other states.<ref name="Europa Single Market P">{{cite web|title=Living and working in the Single Market|publisher=Europa web portal|url=http://ec.europa.eu/internal_market/top_layer/index_15_en.htm|author=European Commission|accessdate=27 June 2007}}</ref>
+
+The free movement of services and of establishment allows self-employed persons to move between member states to provide services on a temporary or permanent basis. While services account for 60–70% of GDP, legislation in the area is not as developed as in other areas. This lacuna has been addressed by the recently passed [[Directive on services in the internal market]] which aims to liberalise the cross border provision of services.<ref name="Europa Single Market S">{{cite web |title=A Single Market for Services |publisher=Europa |url=http://ec.europa.eu/internal_market/top_layer/index_19_en.htm |author=European Commission |accessdate=27 June 2007}}</ref> According to the Treaty the provision of services is a residual freedom that only applies if no other freedom is being exercised.
+
+===Competition===
+{{Further|European Union competition law|European Commissioner for Competition}}
+
+The EU operates a [[European Union competition law|competition policy]] intended to ensure undistorted competition within the single market.<ref group="lower-alpha">Article 3(1)(g) of the Treaty of Rome</ref> The Commission as the competition regulator for the single market is responsible for antitrust issues, approving [[mergers and acquisitions|mergers]], breaking up cartels, working for [[economic liberalism|economic liberalisation]] and preventing [[subsidy|state aid]].<ref>{{cite web|publisher=Europa web portal|title=Competition: making markets work better|author=European Commission|url=http://ec.europa.eu/comm/competition/index_en.html|accessdate=12 November 2007}}</ref>
+
+The [[European Commissioner for Competition|Competition Commissioner]], currently [[Joaquín Almunia]], is one of the most powerful positions in the Commission, notable for the ability to affect the commercial interests of trans-national corporations.<ref>{{cite news|last=Lungescu|first=Oana|publisher=BBC News|title=Examining the EU executive|date=23 July 2004|url=http://news.bbc.co.uk/2/hi/programmes/letter_from_america/3921303.stm|accessdate=18 September 2007}}</ref> For example, in 2001 the Commission for the first time prevented a merger between two companies based in the United States ([[General Electric|GE]] and [[Honeywell]]) which had already been approved by their national authority.<ref>{{cite web|publisher=Europa web portal|title=The Commission prohibits GE's acquisition of Honeywell|date=3 July 2001|url=http://europa.eu/rapid/pressReleasesAction.do?reference=IP/01/939|accessdate=12 November 2007}}</ref> Another high-profile case [[European Union Microsoft competition case|against Microsoft]], resulted in the Commission fining [[Microsoft]] over €777&nbsp;million following nine years of legal action.<ref>{{cite news|last=Gow|first=David|work=The Guardian  |title=Microsoft caves in to European Commission|date=22 October 2007|url=http://www.guardian.co.uk/business/2007/oct/22/microsoft.microsoft|accessdate=12 November 2007|location=London}}</ref>
+
+===Monetary union===
+{{Main|Eurozone|Economic and Monetary Union of the European Union}}
+[[File:European Central Bank - building under construction - Frankfurt - Germany - 13.jpg|thumb|170px|The [[Seat of the European Central Bank|seat]] of the [[European Central Bank|Central Bank]] in [[Frankfurt]]. [[Eurozone|19]] of the 28 member states of the union have adopted the [[euro]] as their [[legal tender]].]]
+
+The creation of a [[European Currency Unit|European single currency]] became an official objective of the European Economic Community in 1969. In 1992, after having negotiated the structure and procedures of a currency union, the member states signed the [[Maastricht Treaty]] and were legally bound to fulfill the agreed-on rules including the [[Euro convergence criteria|convergence criteria]] if they wanted to join the [[Currency union|monetary union]]. The states wanting to participate had first to join the [[European Exchange Rate Mechanism]].
+
+In 1999 the currency union started, first as an accounting currency with [[History of the euro|eleven member states]] joining. In 2002, the currency was fully put into place, when [[euro banknotes|euro notes]] and coins were issued and national currencies began to phase out in the eurozone, which by then consisted of 12 member states. The eurozone (constituted by the EU member states which have adopted the euro) has since grown to 19 countries, the most recent being Lithuania which joined on 1 January 2015. Denmark, the United Kingdom, and Sweden decided not to join the euro.<ref>{{cite news |title=Almunia says 'undesirable' to act on Sweden's euro refusal |first1=Teresa |last1=Kuchler |publisher=EUobserver.com |date=25 October 2006 |url=http://euobserver.com/9/22733 |accessdate=26 December 2006}}</ref><ref group="lower-alpha">In order to meet the euro convergence criteria it is necessary first to join the [[European Exchange Rate Mechanism]], something Sweden has declined to do: {{cite web |title=ERM II |publisher=Danish Finance Ministry |date=20 March 2009 |url=http://uk.fm.dk/Portfolio/International%20cooperation/EU%20economic%20and%20political%20coordination/ERM2.aspx |accessdate=26 December 2009}}</ref>
+
+Since its launch the euro has become the second [[reserve currency]] in the world with a quarter of foreign exchanges reserves being in euro.<ref>{{cite web|url=http://www.dbresearch.com/PROD/DBR_INTERNET_DE-PROD/PROD0000000000209994.PDF|title=Euro riding high as an international reserve currency|date=4 May 2007|publisher=Deutsche Bank AG|format=PDF|author=DB Research|accessdate=3 September 2009}}</ref> The euro, and the monetary policies of those who have adopted it in agreement with the EU, are under the control of the [[European Central Bank]] (ECB).<ref>{{cite web|url=http://www.ecb.int/ecb/orga/escb/html/index.en.html|title=ECB, ESCB and the Eurosystem|publisher=European Central Bank|accessdate=15 September 2007}}</ref>
+
+The ECB is the central bank for the eurozone, and thus controls [[monetary policy]] in that area with an agenda to maintain [[price stability]]. It is at the centre of the [[European System of Central Banks]], which comprehends all EU national central banks and is controlled by its General Council, consisting of the [[President of the European Central Bank|President of the ECB]], who is appointed by the European Council, the Vice-President of the ECB, and the governors of the national central banks of all 28 EU member states.<ref name="ECB org">{{cite web|title=ECB, ESCB and the Eurosystem|publisher=European Central Bank|url=http://www.ecb.int/ecb/orga/escb/html/index.en.html|accessdate=7 July 2011}}</ref>
+
+The [[European System of Financial Supervision]] is an institutional architecture of the EU's framework of financial supervision composed by three authorities: the [[European Banking Authority]], the [[European Insurance and Occupational Pensions Authority]] and the [[European Securities and Markets Authority]]. To complement this framework, there is also a [[European Systemic Risk Board]] under the responsibility of the [[European Central Bank|ECB]]. The aim of this financial control system is to ensure the economic stability of the EU.<ref>{{cite web|url=http://euobserver.com/?aid=30866|title=Europe seals deal on financial supervision|work=euobserver.com}}</ref>
+
+To prevent the joining states from getting into financial trouble or crisis after entering the monetary union, they were obliged in the Maastricht treaty to fulfill important financial obligations and procedures, especially to show budgetary discipline and a high degree of sustainable economic convergence, as well as to avoid excessive government deficits and limit the government debt to a sustainable level.
+
+Some states joined the euro but violated these rules and contracts to an extent that they slid into a [[European debt crisis|debt crisis]] and had to be financially supported with emergency rescue funds. These states were Greece, Ireland, Portugal, Cyprus and Spain.
+
+Even though the Maastricht treaty forbids eurozone states to assume the debts of other states ("bailout"), various emergency rescue funds had been created by the members to support the debt crisis states to meet their financial obligations and buy time for reforms that those states can gain back their competitiveness.
+
+===Energy===
+{{Main|Energy policy of the European Union}}
+{{Pie chart
+|caption = Consumed energy (2012)<ref name="Discrimination in the EU in 2012">{{citation|title=Discrimination in the EU in 2012|work=[[Eurobarometer|Special Eurobarometer]] |year=2012 |series=383 |page=233 |url=http://ec.europa.eu/public_opinion/archives/ebs/ebs_393_en.pdf |accessdate=14 August 2013 |publisher=[[European Commission]] |location=European Union}}</ref>
+|label1 = Renewable (dom. prod.)
+|value1 = 7
+|color1 = #71B600
+|label2 = Nuclear<ref group="lower-alpha">Note that although almost all Uranium is imported,<br /> Nuclear Power is considered primary energy produced in the EU</ref> (dom. prod.)
+|value2 = 13
+|color2 = #FFE130
+|label3 = Coal and lignite (dom. prod.)
+|value3 = 10
+|color3 = #FF5F00
+|label4 = Gas (dom. prod.)
+|value4 = 9
+|color4 = #220470
+|label5 = Gas (import)
+|value5 = 14
+|color5 = #290192
+|label6 = Oil (dom. prod.)
+|value6 = 6
+|color6 = #8C0039
+|label7 = Oil (import)
+|value7 = 33
+|color7 = #B7004A
+|label8 = Other (dom. prod.)
+|value8 = 1
+|color8 = #BBA47B
+|label9 = Other (import)
+|value9 = 7
+|color9 = #F4D49A
+}}
+In 2006, the [[Treaty of Accession 2005|EU-27]] had a gross inland energy consumption of 1,825&nbsp;million tonnes of oil equivalent (toe).<ref name="EurostatEnergy">{{cite press release|title=Energy consumption and production: EU27 energy dependence rate at 54% in 2006: Energy consumption stable|publisher=Eurostat|date=10 July 2008|url=http://epp.eurostat.ec.europa.eu/pls/portal/docs/PAGE/PGP_PRD_CAT_PREREL/PGE_CAT_PREREL_YEAR_2008/PGE_CAT_PREREL_YEAR_2008_MONTH_07/8-10072008-EN-AP.PDF|accessdate=12 September 2008|quote=<br />
+In the EU27, gross inland energy consumption was 1 825&nbsp;million tonnes of oil equivalent (toe) in 2006, stable compared with 2005, while energy production decreased by 2.3% to 871 mn toe&nbsp;...<br />
+Gross inland consumption is defined as primary production plus imports, recovered products and stock change, less exports and fuel supply to maritime bunkers (for seagoing ships of all flags)&nbsp;...
+<br />
+A tonne of oil equivalent (toe) is a standardised unit defined on the basis of one tonne of oil having a net calorific value of 41.868 Gigajoules.}}</ref> Around 46% of the energy consumed was produced within the member states while 54% was imported.<ref name="EurostatEnergy"/> In these statistics, nuclear energy is treated as [[primary energy]] produced in the EU, regardless of the source of the uranium, of which less than 3% is produced in the EU.<ref name="Euratom2007">{{cite book|title=Euratom Supply Agency—Annual Report 2007|url=http://ec.europa.eu/euratom/ar/last.pdf|accessdate=1 March 2009|year=2008|publisher=Office for Official Publications of the European Communities|location=Luxembourg|isbn=978-92-79-09437-8|page=22|format=PDF|chapter=EU supply and demand for nuclear fuels|quote=European uranium mining supplied just below 3% of the total EU needs, coming from the Czech Republic and Romania (a total of 526 tU).}} <br /> Nuclear energy and renewable energy are treated differently from oil, gas , and coal in this respect.</ref>
+
+The EU has had legislative power in the area of energy policy for most of its existence; this has its roots in the original [[European Coal and Steel Community]]. The introduction of a mandatory and comprehensive European energy policy was approved at the meeting of the European Council in October 2005, and the first draft policy was published in January 2007.<ref name="Energy Q&A">{{cite news |title=Q&A: EU energy plans |publisher=BBC |date=9 March 2007 |url=http://news.bbc.co.uk/1/hi/world/europe/4783996.stm |accessdate=13 July 2007}}</ref>
+
+The EU has five key points in its energy policy: increase competition in the [[internal market]], encourage investment and boost interconnections between electricity grids; diversify energy resources with better systems to respond to a crisis; establish a new treaty framework for energy co-operation with Russia while improving relations with energy-rich states in Central Asia<ref name="oies">{{cite journal|author=Shamil Midkhatovich Yenikeyeff|url=http://www.oxfordenergy.org/wpcms/wp-content/uploads/2010/11/NG25-KazakhstansgasExportMarketsandExportRoutes-ShamilYenikeyeff-2008.pdf|title=Kazakhstan's Gas: Export Markets and Export Routes|publisher=[[Oxford Institute for Energy Studies]]|format=PDF|date=November 2008|accessdate=17 November 2011}}</ref> and North Africa; use existing energy supplies more efficiently while increasing [[renewable energy commercialisation]]; and finally increase funding for new energy technologies.<ref name="Energy Q&A"/>
+
+The EU currently imports 82% of its oil, 57% of its natural gas<ref name="low carb prop">{{cite web|title='Low-carbon economy' proposed for Europe|publisher=MSNBC|url=http://www.msnbc.msn.com/id/16560106/|accessdate=24 January 2007}}</ref> and 97.48% of its uranium<ref name="Euratom2007"/> demands. There are concerns that [[Russia in the European energy sector|Europe's dependence on Russian energy]] is endangering the Union and its member countries. The EU is attempting to diversify its [[energy supply]].<ref name="Energy Russia">{{cite web|title=Ukraine-Russia gas dispute—call for stronger EU energy policy|publisher=Europa web portal|author=European Parliament|url=http://www.europarl.europa.eu/sides/getDoc.do?language=EN&type=IM-PRESS&reference=20060112STO04233&secondRef=0|accessdate=27 February 2008}}</ref>
+
+===Infrastructure===
+{{Further|European Commissioner for Transport|European Commissioner for Industry and Entrepreneurship|European Investment Bank}}
+[[File:Öresundsbron i solnedgång 2.jpg|thumb|left|The [[Øresund Bridge|Öresund Bridge]] between Denmark and Sweden is part of the [[Trans-European Networks]].]]
+
+The EU is working to improve cross-border infrastructure within the EU, for example through the [[Trans-European Networks]] (TEN). Projects under TEN include the [[Channel Tunnel]], [[LGV Est]], the [[Fréjus Rail Tunnel]], the [[Øresund Bridge|Öresund Bridge]], the [[Brenner Base Tunnel]] and the [[Strait of Messina Bridge]]. In 2001{{update inline|date=June 2013}} it was estimated that by 2010 the network would cover: {{convert|75200|km}} of roads; {{convert|78000|km}} of railways; 330 airports; 270 maritime harbours; and 210 internal harbours.<ref>{{cite web|title=The trans-European transport network: new guidelines and financial rules|publisher=[[European Commission]]|date=1 October 2003|url=http://ec.europa.eu/ten/transport/revision/doc/revision_1692_memo_en.pdf|accessdate=15 August 2007|format=PDF|work=Europa web portal}}</ref><ref>{{cite web|last=Mirea |first=Silvia |title=The trans-European transport network: new guidelines and financial rules |publisher=The Railway Journal |url=http://www.cfr.ro/jf/engleza/0304/ten-t.htm |accessdate=15 August 2007 |deadurl=yes |archiveurl=https://web.archive.org/20070423082000/http://www.cfr.ro:80/JF/engleza/0304/ten-t.htm |archivedate=23 April 2007 }}</ref>
+
+The developing European transport policies will increase the pressure on the environment in many regions by the increased transport network. In the pre-2004 EU members, the major problem in transport deals with congestion and pollution. After the recent enlargement, the new states that joined since 2004 added the problem of solving accessibility to the transport agenda.<ref>{{cite web|title=White Paper on Transport|publisher=Euractiv|date=22 September 2004|url=http://www.euractiv.com/en/transport/white-paper-transport/article-129628|accessdate=15 August 2007}}</ref> The [[Highways in Poland|Polish road network]] in particular was in poor condition: at Poland's accession to the EU, a number of roads needed to be upgraded, particularly the [[A4 autostrada (Poland)|A4 autostrada]], requiring approximately €13&nbsp;billion.<ref>{{cite web|title=EUR 650 million for the Polish Road Network|url=http://www.eib.org/projects/press/2006/2006-113-poland-eur-650-million-for-the-polish-road-network.htm|accessdate=Nov 2010}}</ref><ref>{{cite web|title=EU regional policy: Poland en route for growth|url=http://ec.europa.eu/regional_policy/projects/stories/details_new.cfm?sto=1486|accessdate=July 2012}}</ref>
+
+The [[Galileo (satellite navigation)|Galileo positioning system]] is another EU infrastructure project. Galileo is a proposed [[Satellite navigation]] system, to be built by the EU and launched by the [[European Space Agency]] (ESA), and is to be operational by 2012.{{Update_inline|date=December 2013}} The Galileo project was launched partly to reduce the EU's dependency on the US-operated [[Global Positioning System]], but also to give more complete global coverage and allow for far greater accuracy, given the aged nature of the GPS system.<ref name="Barrot">{{cite web|last=Barrot|first=Jacques|title=Jacques Barrot Home Page, Commission vice president for transport|publisher=Europa web portal|url=http://ec.europa.eu/commission_barroso/barrot/index_en.htm|accessdate=21 July 2007}}</ref> It has been criticised by some due to costs, delays, and their perception of redundancy given the existence of the GPS system.<ref>{{cite news|last=McKie|first=Robin|title=Sat-nav rival could crash and burn|work=The Guardian  |date=15 July 2007|url=http://www.guardian.co.uk/science/2007/jul/15/spaceexploration.europeanunion|accessdate=11 August 2007|location=London}}</ref>
+{{clear left}}
+
+===Agriculture===
+{{Main|Common Agricultural Policy}}
+[[File:RO BZ Pietroasele vineyard.jpg|thumb|Vineyards in [[Romania]]; EU farms are supported by the [[Common Agricultural Policy|CAP]], the largest [[Budget of the European Union|budgetary]] expenditure.]]
+
+The [[Common Agricultural Policy]] (CAP) is one of the oldest policies of the European Community, and was one of its core aims.<ref name="stead">{{cite web|last=Stead|first=David|coauthors=Robert Whaples (eds)|title=Common Agricultural Policy|publisher=EH.Net Encyclopedia|date=22 June 2007|url=http://eh.net/encyclopedia/common-agricultural-policy/|accessdate=30 August 2007}}</ref> The policy has the objectives of increasing agricultural production, providing certainty in food supplies, ensuring a high quality of life for farmers, stabilising markets, and ensuring reasonable prices for consumers.<ref group="lower-alpha">Article 39 (ex Article 33) of the Treaty on the Functioning of the European Union, on [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2010:083:0047:0200:EN:PDF eur-lex.europa.eu]</ref> It was, until recently, operated by a system of subsidies and market intervention. Until the 1990s, the policy accounted for over 60% of the then [[European Economic Community|European Community]]'s annual budget, and still accounts for around 34%.<ref name="EU_CAP">{{cite web|url=http://europa.eu/pol/agr/index_en.htm|title=Agriculture: Meeting the needs of farmers and consumers |date=26 August 2011|work=Europa: Gateway to the European Union|publisher=European Commission|accessdate=4 November 2011|quote=...&nbsp;the common agricultural policy is the most integrated of all EU policies and consequently takes a large share of the EU budget. Nevertheless, its portion of the EU budget has dropped from a peak of nearly 70% in the 1970s to 34% over the 2007–2013 period.}}</ref>{{Update after|2014}}
+
+The policy's [[Incomes policy|price controls]] and market interventions led to considerable overproduction, resulting in so-called ''butter mountains'' and ''wine lakes''. These were [[Buffer stock scheme|intervention stores]] of products bought up by the Community to maintain minimum price levels. To dispose of surplus stores, they were often sold on the world market at prices considerably below Community guaranteed prices, or farmers were offered subsidies (amounting to the difference between the Community and world prices) to export their products outside the Community. This system has been criticised for under-cutting farmers outside Europe, especially those in the [[Third World|developing world]].<ref name="Guardian CAP">{{cite news|last=Jeffery|first=Simon|title=The EU common agricultural policy|work=The Guardian  |date=26 June 2007|url=http://www.guardian.co.uk/world/2003/jun/26/eu.politics1|accessdate=30 August 2007|location=London}}</ref>
+
+The overproduction has also been criticised for encouraging environmentally unfriendly intensive farming methods.<ref name="Guardian CAP"/> Supporters of CAP say that the economic support which it gives to farmers provides them with a reasonable standard of living, in what would otherwise be an economically unviable way of life. However, the EU's small farmers receive only 8% of CAP's available subsidies.<ref name="Guardian CAP"/>
+
+Since the beginning of the 1990s, the CAP has been subject to a series of reforms. Initially, these reforms included the introduction of [[set-aside]] in 1988, where a proportion of farm land was deliberately withdrawn from production, milk quotas (by the McSharry reforms in 1992) and, more recently, the 'de-coupling' (or disassociation) of the money farmers receive from the EU and the amount they produce (by the Fischler reforms in 2004). Agriculture expenditure will move away from subsidy payments linked to specific produce, toward direct payments based on farm size. This is intended to allow the market to dictate production levels, while maintaining agricultural income levels.<ref name="stead"/> One of these reforms entailed the abolition of the EU's sugar regime, which previously divided the sugar market between member states and certain African-Caribbean nations with a privileged relationship with the EU.<ref name="EC CAP">{{cite web|title=Sugar: Commission proposes more market-, consumer- and trade-friendly regime|publisher=Europa|date=14 April 2007|url=http://europa.eu/rapid/pressReleasesAction.do?reference=IP/04/915&format=HTML&aged=1&language=EN&guiLanguage=en|accessdate=30 August 2007}}</ref>
+
+==Demographics==
+{{Main|Demographics of the European Union|Largest population centres in the European Union}}
+As of 1 January 2015, the population of the EU is about 508.2&nbsp;million people.<ref name="population" />
+
+{{Largest urban centers of European Union}}
+<!-- A cited statement about the percentage of EU citizens living in cities would be appropriate here -->The EU contains 16&nbsp;cities with populations of over one million, the largest being London.
+
+Besides many large cities, the EU also includes several densely populated regions that have no single core but have emerged from the connection of several cites and now encompass large [[metropolitan area]]s. The largest are [[Rhine-Ruhr]] having approximately 11.5&nbsp;million inhabitants ([[Cologne]], [[Dortmund]], Düsseldorf et al.), [[Randstad]] approx. 7&nbsp;million ([[Amsterdam]], [[Rotterdam]], [[The Hague]], [[Utrecht]] et al.), [[Frankfurt Rhine-Main|Frankfurt Rhine-Main Metropolitan Region]] approx. 5.8&nbsp;million ([[Frankfurt]], [[Wiesbaden]] et al.), the [[Flemish Diamond]] approx. 5.5&nbsp;million (urban area in between [[Antwerp]], Brussels, [[Leuven]] and [[Ghent]]), [[Katowice]] and its [[Upper Silesian metropolitan area]] approx. 5.3&nbsp;million and the [[Øresund Region]] approx. 3.7&nbsp;million ([[Copenhagen]], Denmark and [[Malmö]], Sweden).<ref name="Eurostat Urban zones">{{cite web|title=Indicators for larger urban zones 1999–2003|publisher=Europa web portal|author=Eurostat|url=http://epp.eurostat.ec.europa.eu/portal/page?_pageid=1996,45323734&_dad=portal&_schema=PORTAL&screen=welcomeref&open=/&product=EU_MASTER_urban_audit&depth=2|accessdate=25 January 2007}}</ref>{{clear}}
+
+In 2010, 47.3 million people lived in the EU, who were born outside their resident country. This corresponds to 9.4% of the total EU population. Of these, 31.4 million (6.3%) were born outside the EU and 16.0 million (3.2%) were born in another EU member state. The largest absolute numbers of people born outside the EU were in Germany (6.4 million), France (5.1 million), the United Kingdom (4.7 million), Spain (4.1 million), Italy (3.2 million), and the Netherlands (1.4 million).<ref>[http://epp.eurostat.ec.europa.eu/cache/ITY_OFFPUB/KS-SF-11-034/EN/KS-SF-11-034-EN.PDF 6.5% of the EU population are foreigners and 9.4% are born abroad], Eurostat, Katya VASILEVA, 34/2011.</ref>
+
+;Vital statistics in recent years<ref>[http://epp.eurostat.ec.europa.eu/cache/ITY_PUBLIC/3-20112013-AP/EN/3-20112013-AP-EN.PDF EU28 population 505.7 million at 1 January 2013 - Eurostat]</ref><ref>[http://epp.eurostat.ec.europa.eu/cache/ITY_PUBLIC/3-10072014-BP/EN/3-10072014-BP-EN.PDF EU28 population 507.4 million at 1 January 2014 - Eurostat]</ref> (in thousands):
+{| class="wikitable"
+|-
+! Year!!Population!!Live<br>births!!‰!!Deaths!!‰!!Natural<br>change!!‰!!Net<br>migration!!Total<br>change
+|-
+| 2012||505 730.5||5 231,1||10.4||5 013,9||9.9||217,3||0.4||882,2||1 099,5
+|-
+| 2013||507 416.6||5 075,7||10.0||4 999,2||9.9||76,5||0.1||653,1||729,6
+|}
+
+===Languages===
+{{Main|Languages of the European Union}}
+{|class="wikitable sortable" style="border:1px black; line-height:1em; float:right; font-size:90%; margin-right:1em"
+! style="width:40px;"|Language
+! style="width:40px;"|[[First language|Native speakers]]
+! style="width:40px;"|Total
+|-
+|[[English language|English]]
+|13%
+|'''51%'''
+|-
+|[[German language|German]]
+|'''16%'''
+|27%
+|-
+|[[French language|French]]
+|12%
+|24%
+|-
+|[[Italian language|Italian]]
+|13%
+|16%
+|-
+|[[Spanish language|Spanish]]
+|8%
+|15%
+|-
+|[[Polish language|Polish]]
+|8%
+|9%
+|-
+|[[Romanian language|Romanian]]
+|5%
+|5%
+|-
+|[[Dutch language|Dutch]]
+|4%
+|5%
+|-
+|[[Greek language|Greek]]
+|3%
+|4%
+|-
+|[[Hungarian language|Hungarian]]
+|3%
+|3%
+|-
+|[[Portuguese language|Portuguese]]
+|2%
+|3%
+|-
+|[[Czech language|Czech]]
+|2%
+|3%
+|-
+|[[Swedish language|Swedish]]
+|2%
+|3%
+|-
+|[[Bulgarian language|Bulgarian]]
+|2%
+|2%
+|-
+|[[Slovak language|Slovak]]
+|1%
+|2%
+|-
+|[[Danish language|Danish]]
+|1%
+|1%
+|-
+|[[Finnish language|Finnish]]
+|1%
+|1%
+|-
+|[[Lithuanian language|Lithuanian]]
+|1%
+|1%
+|-
+|[[Croatian language|Croatian]]
+|1%
+|1%
+|-
+|[[Slovene language|Slovenian]]
+|<1%
+|<1%
+|-
+|[[Estonian language|Estonian]]
+|<1%
+|<1%
+|-
+|[[Irish language|Irish]]
+|<1%
+|<1%
+|-
+|[[Latvian language|Latvian]]
+|<1%
+|<1%
+|-
+|[[Maltese language|Maltese]]
+|<1%
+|<1%
+|- class="sortbottom"
+|colspan="3" style="text-align:left;"|
+<small>Survey 2012.<ref>{{cite web|url=http://ec.europa.eu/public_opinion/archives/ebs/ebs_386_en.pdf |title=Europeans and Their Languages, 2012 Report |format=PDF |accessdate=3 June 2013}}</ref><br />
+Native: Native language<ref name="nativeLanguages">{{cite web
+|work=Special [[Eurobarometer]] 386
+|title=Europeans and their Languages
+|publisher=europa.eu
+|author=European Commission
+|year=2012
+|url=http://ec.europa.eu/public_opinion/archives/ebs/ebs_386_anx_en.pdf
+|pages=54–59
+|accessdate=16 December 2012}}</ref><br />
+Total: EU citizens able to hold a<br />conversation in this language<ref name="totalLanguages">{{cite web
+|work=Special [[Eurobarometer]] 386
+|title=Europeans and their Languages
+|publisher=europa.eu
+|author=European Commission
+|year=2012
+|url=http://ec.europa.eu/public_opinion/archives/ebs/ebs_386_anx_en.pdf
+|pages=78–83
+|accessdate=16 December 2012}}</ref></small>
+|}
+
+Among the many languages and dialects used in the EU, it has 24 official and working languages: [[Bulgarian language|Bulgarian]], [[Croatian language|Croatian]], [[Czech language|Czech]], [[Danish language|Danish]], [[Dutch language|Dutch]], [[English language|English]], [[Estonian language|Estonian]], [[Finnish language|Finnish]], [[French language|French]], [[German language|German]], [[Greek language|Greek]], [[Hungarian language|Hungarian]], [[Italian language|Italian]], [[Irish language|Irish]], [[Latvian language|Latvian]], [[Lithuanian language|Lithuanian]], [[Maltese language|Maltese]], [[Polish language|Polish]], [[Portuguese language|Portuguese]], [[Romanian language|Romanian]], [[Slovak language|Slovak]], [[Slovene language|Slovene]], [[Spanish language|Spanish]], and [[Swedish language|Swedish]].<ref name="Official Languages">{{cite web|title=Council Regulation (EC) No 1791/2006 of 20 November 2006|publisher=Europa web portal|author=EUR-Lex|work=Official Journal of the European Union|date=12 December 2006|url=http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31958R0001:EN:NOT|accessdate=2 February 2007}}</ref><ref>{{cite web|title=Languages in Europe – Official EU Languages|publisher=EUROPA web portal|url=http://ec.europa.eu/education/languages/languages-of-europe/doc135_en.htm|accessdate=12 October 2009}}</ref> Important documents, such as legislation, are translated into every official language.
+
+The European Parliament provides translation into all languages for documents and its plenary sessions.<ref>europarltv, official webtv of the European Parliament, is also available in all EU languages [http://www.europarltv.europa.eu/en/home.aspx]</ref> Some institutions use only a handful of languages as internal working languages.<ref>{{cite web|title=Languages and Europe. FAQ: Is every document generated by the EU translated into all the official languages?|publisher=Europa web portal|year=2004|url=http://europa.eu/languages/en/document/59#5|accessdate=3 February 2007}}</ref> [[Catalan language|Catalan]], [[Galician language|Galician]], [[Basque language|Basque]], [[Scottish Gaelic]] and [[Welsh language|Welsh]] are not official languages of the EU but have semi-official status in that official translations of the treaties are made into them and citizens of the EU have the right to correspond with the institutions using them.
+
+[[Language policy]] is the responsibility of member states, but EU institutions promote the learning of other languages.<ref group="lower-alpha">See Articles 165 and 166 (ex Articles 149 and 150) of the [[Treaty on the Functioning of the European Union]], on [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2010:083:0047:0200:EN:PDF eur-lex.europa.eu]</ref><ref>{{cite web |title=European Parliament Fact Sheets: 4.16.3. Language policy|publisher=Europa web portal |author=European Parliament |year=2004 |url=http://www.europarl.europa.eu/facts/4_16_3_en.htm |accessdate=3 February 2007}}</ref> English is the most spoken language in the EU, being spoken by 51% of the EU population when counting both native and non-native speakers.<ref name="Eurobarometer Languages_P4">{{cite web|title=Special Eurobarometer 243: Europeans and their Languages (Executive Summary)|publisher=Europa web portal|author=European Commission |year=2006 |format=PDF |url=http://ec.europa.eu/public_opinion/archives/ebs/ebs_243_sum_en.pdf|accessdate=11 March 2011|page=4|quote=English is the most commonly known language in the EU with over a half of the respondents (51%) speaking it either as their mother tongue or as a foreign language.}}</ref> German is the most widely spoken mother tongue (about 88.7&nbsp;million people in 2006). 56% of EU citizens are able to engage in a conversation in a language other than their mother tongue.<ref name="Eurobarometer Languages_P3">{{cite web|title=Special Eurobarometer 243: Europeans and their Languages (Executive Summary)|publisher=Europa web portal|author=European Commission |year=2006 |format=PDF |url=http://ec.europa.eu/public_opinion/archives/ebs/ebs_243_sum_en.pdf|accessdate=11 March 2011|page=3|quote=56% of citizens in the EU Member States are able to hold a conversation in one language apart from their mother tongue.}}</ref> Most official languages of the EU belong to the [[Indo-European languages|Indo-European]] [[language family]], except Estonian, Finnish, and Hungarian, which belong to the [[Uralic languages|Uralic]] language family, and Maltese, which is a [[Semitic language]]. Most EU official languages are written in the [[Latin alphabet]] except Bulgarian, written in [[Cyrillic script|Cyrillic]], and Greek, written in the [[Greek alphabet]].<ref name="Many tongues, one family">{{cite web|title=Many tongues, one family. Languages in the European Union|publisher=Europa web portal|author=European Commission |year=2004 |format=PDF |url=http://ec.europa.eu/publications/booklets/move/45/en.pdf|accessdate=3 February 2007}}</ref> With the [[accession of Bulgaria to the European Union]] on 1 January 2007, Cyrillic became the third official script of the European Union, following the [[Latin script|Latin]] and Greek scripts.<ref>{{cite web|author1=Leonard Orban|title=Cyrillic, the third official alphabet of the EU, was created by a truly multilingual European|url=http://europa.eu/rapid/press-release_SPEECH-07-330_en.pdf|website=europe.eu|accessdate=3 August 2014|date=24 May 2007}}</ref>
+
+Besides the 24 official languages, there are about 150 [[regional language|regional]] and [[minority language]]s, spoken by up to 50&nbsp;million people.<ref name="Many tongues, one family"/> Of these, only the Spanish regional languages (Catalan, Galician, and Basque), Scottish Gaelic, and Welsh<ref>{{Cite news|title=Welsh and Gaelic are official EU tongues|newspaper=The Times|author=Rory Watson|date=5 July 2008 |url=http://www.timesonline.co.uk/tol/news/world/europe/article4272797.ece|accessdate=13 March 2009|location=London}}</ref> can be used by citizens in communication with the main European institutions.<ref name="Mercator">{{cite web|title=Mercator Newsletter – n. 29 |publisher=Mercator Central |year=2006 |url=http://www.mercator-central.org/newsletter/newsletter29.htm#2 |accessdate=1 February 2007 |deadurl=yes |archiveurl=https://web.archive.org/20070217070732/http://www.mercator-central.org:80/newsletter/newsletter29.htm |archivedate=17 February 2007 }}</ref> Although EU programmes can support regional and minority languages, the protection of [[linguistic rights]] is a matter for the individual member states. The [[European Charter for Regional or Minority Languages]] ratified by most EU states provides general guidelines that states can follow to protect their linguistic heritage.
+
+The [[European Day of Languages]] is held annually on 26 September and is aimed at encouraging language learning across Europe.
+
+===Religion===
+{{Pie chart
+|thumb = left
+|caption =Self described religion in the European Union (2012)<ref  name="euroreligion2012">{{citation|title=Discrimination in the EU in 2012|work=[[Eurobarometer|Special Eurobarometer]] |year=2012 |series=393 |page=233 |url=http://ec.europa.eu/public_opinion/archives/ebs/ebs_393_en.pdf |accessdate=14 August 2013 |publisher=[[European Commission]] |location=European Union}} The question asked was "Do you consider yourself to be...?" With a card showing: Catholic, Orthodox, Protestant, Other Christian, Jewish, Muslim, Sikh, Buddhist, Hindu, Atheist, and Non-believer/Agnostic.  Space was given for Other (SPONTANEOUS) and DK. Jewish, Sikh, Buddhist, Hindu did not reach the 1% threshold.</ref>
+|label1 = [[Catholic Church|Catholic]]
+|value1 = 48
+|color1 = Blue
+|label2 = [[Protestant]]
+|value2 = 12
+|color2 = Aqua
+|label3 = [[Orthodox Christianity|Orthodox]]
+|value3 = 8
+|color3 = BlueViolet
+|label4 = Other Christian
+|value4 = 4
+|color4 = SkyBlue
+|label5 = Non believer/Agnostic
+|value5 = 16
+|color5 = Pink
+|label6 = [[Atheist]]
+|value6 = 7
+|color6 = Red
+|label7 = [[Islam|Muslim]]
+|value7 = 2
+|color7 = LimeGreen
+|label8 = Other religion/None stated
+|value8 = 3
+|color8 = grey
+}}
+The EU is a [[secularism|secular]] body with no formal connection to any religion. The [[s:Consolidated version of the Treaty on the Functioning of the European Union/Part One: Principles#Article 17|Article 17 of the Treaty on the Functioning of the European Union]] recognises the "status under national law of churches and religious associations" as well as that of "philosophical and non-confessional organisations".<ref name="Consolidated Treaties"/>
+
+The preamble to the [[Maastricht Treaty|Treaty on European Union]] mentions the "cultural, religious and humanist inheritance of Europe".<ref name="Consolidated Treaties">[http://eur-lex.europa.eu/JOHtml.do?uri=OJ:C:2010:083:SOM:EN:HTML Consolidated version of the Treaty on European Union].</ref> Discussion over the draft texts of the European Constitution and later the [[Treaty of Lisbon]] included proposals to mention [[Christianity]] or [[God]], or both, in the preamble of the text, but the idea faced opposition and was dropped.<ref name="EUO Merkel God">{{cite news|url=http://www.independent.co.uk/news/europe/eu-celebrates-its-50th-birthday--with-a-row-about-religion-440976.html |title=EU celebrates 50th birthday-with a row about religion |work=The Independent |location=London |first=Stephen |last=Castle |date=21 March 2007 |accessdate=4 March 2008 |deadurl=yes |archiveurl=https://web.archive.org/20080405065450/http://www.independent.co.uk:80/news/europe/eu-celebrates-its-50th-birthday--with-a-row-about-religion-440976.html |archivedate=5 April 2008 }}</ref>
+
+Christians in the EU are divided among members of Catholicism (both [[Latin Church|Roman]] and [[Eastern Catholic Churches|Eastern Rite]]), numerous [[Protestant]] denominations, and the [[Eastern Orthodox Church]]. In 2009, the EU had an estimated [[List of countries by Muslim population|Muslim population]] of 13&nbsp;million,<ref name="mgmpPRC">{{cite web|title=Muslim Population |publisher=europa web portal |url=http://www.fra.europa.eu/fraWebsite/attachments/Manifestations_EN.pdf|accessdate=November 2010}}</ref> and an estimated [[Jewish population]] of over a million.<ref>Jewish population figures may be unreliable. {{cite web |url=http://www.jafi.org.il/education/100/concepts/demography/demjpop.html|title=World Jewish Population (2002)|accessdate=3 May 2007|author=Sergio DellaPergola|work=American Jewish Year Book|publisher=The Jewish Agency for Israel}}</ref> The other world religions of [[Buddhism]], [[Hinduism]] and [[Sikhism]] are also represented in the EU population.
+
+According to new polls about Religiosity in the European Union in 2012 by [[Eurobarometer]], [[Christianity]] is the largest religion in the European Union accounting 72% for EU population.<ref name="euroreligion2012"/> [[Catholics]] are the largest [[Christian]] group in EU, accounting for 48% EU citizens, while [[Protestant]]s make up 12%, and [[Eastern Orthodox Church|Eastern Orthodox]] make up 8%, and other Christians account for 4% of the EU population.<ref>{{Cite journal|title=Discrimination in the EU in 2012|work=[[Eurobarometer|Special Eurobarometer]] |year=2012 |series=383 |page=233 |url=http://ec.europa.eu/public_opinion/archives/ebs/ebs_393_en.pdf |accessdate=14 August 2013 |publisher=[[European Commission]] |location=European Union}}</ref>
+
+[[Eurostat]]'s [[Eurobarometer]] opinion polls showed in 2005 that 52% of EU citizens believed in a God, 27% in "some sort of spirit or life force", and 18% had no form of belief.<ref name="Eurostat Religion">{{Cite journal|work=Special [[Eurobarometer]] 225|title=Social values, Science and Technology|publisher=Europa, web portal|author=[[Eurostat]]|year=2005|url=http://ec.europa.eu/public_opinion/archives/ebs/ebs_225_report_en.pdf|page=9|accessdate=11 June 2009}}</ref> Many countries have experienced falling church attendance and membership in recent years.<ref name="About SecE">{{cite news|work=USA Today |url=http://www.usatoday.com/news/world/2005-02-21-god-europe_x.htm|title=What place for God in Europe|accessdate=24 July 2009|date=22 February 2005|first=Peter|last=Ford}}</ref> The countries where the fewest people reported a religious belief were Estonia (16%) and the Czech Republic (19%).<ref name="Eurostat Religion"/> The most religious countries are Malta (95%, predominantly Roman Catholic) as well as Cyprus and Romania (both predominantly Orthodox) each with about 90% of the citizens professing a belief in God. Across the EU, belief was higher among women, increased with age, those with religious upbringing, those who left school at 15 or 16, and those "positioning themselves on the right of the political scale (57%)."<ref name="Eurostat Religion"/>
+
+===Education and science===
+{{Main|Educational policies and initiatives of the European Union|Framework Programmes for Research and Technological Development}}
+[[File:Erasmus logo.svg|thumb|200px|[[Erasmus Programme]] logo, representing the [[humanism|humanist]] [[Desiderius Erasmus of Rotterdam]].]]
+
+Basic education is an area where the EU's role is limited to supporting national governments. In higher education, the policy was developed in the 1980s in programmes supporting exchanges and mobility. The most visible of these has been the [[Erasmus Programme]], a university exchange programme which began in 1987. In its first 20&nbsp;years, it has supported international exchange opportunities for well over 1.5&nbsp;million university and college students and has become a symbol of European student life.<ref>{{cite web|title=The Erasmus programme celebrates its 20th anniversary|publisher=Europa web portal|author=European Commission|url=http://ec.europa.eu/education/news/erasmus20_en.html|accessdate=21 July 2007}}; {{cite web|last=Jean-Sébastien|first=Lefebvre|title=Erasmus turns 20 – time to grow up?|date=22 January 2007|publisher=Café Babel|url=http://www.cafebabel.co.uk/article/19702/erasmus-turns-20-time-to-grow-up.html|accessdate=10 August 2007}}</ref>
+
+There are now similar programmes for school pupils and teachers, for trainees in [[vocational education|vocational education and training]], and for adult learners in the [[Lifelong Learning Programme 2007–2013]]. These programmes are designed to encourage a wider knowledge of other countries and to spread good practices in the education and training fields across the EU.<ref>{{cite web|author=EACEA|title=About the Education, Audiovisual and Culture Executive Agency|publisher=Europa web portal|url=http://eacea.ec.europa.eu/index.htm|accessdate=21 July 2007}}</ref><ref>{{cite web|title=Lifelong Learning Programme|publisher=Europa web portal|author=European Commission|url=http://ec.europa.eu/education/programmes/llp/national_en.html|accessdate=21 July 2007}}</ref> Through its support of the [[Bologna Process]], the EU is supporting comparable standards and compatible degrees across Europe.
+
+Scientific development is facilitated through the EU's [[Framework Programmes for Research and Technological Development|Framework Programmes]], the first of which started in 1984. The aims of EU policy in this area are to co-ordinate and stimulate research. The independent [[European Research Council]] allocates EU funds to European or national research projects.<ref>{{cite web|title=What is the ERC?|publisher=Europa web portal|author=European Research Council|url=http://erc.europa.eu/index.cfm?fuseaction=page.display&topicID=12|accessdate=21 July 2007}}</ref> EU [[Framework Programmes for Research and Technological Development|research and technological framework programmes]] deal in a number of areas, for example energy where it aims to develop a diverse mix of [[renewable energy]] for the environment and to reduce dependence on imported fuels.<ref>{{cite web|title=Energy|publisher=Europa web portal|author=European Commission|url=http://ec.europa.eu/research/fp7/index_en.cfm?pg=energy|accessdate=12 November 2007}}</ref>
+
+===Health care===
+{{further|Healthcare in Europe}}
+[[File:Carte Européenne d'Assurance Maladie France.jpg|thumb|left|[[European Health Insurance Card]].<br> (French version pictured)]]
+
+Although the EU has no major competences in the field of health care, Article 35 of the [[Charter of Fundamental Rights of the European Union]] affirms that "A high level of human health protection shall be ensured in the definition and implementation of all Union policies and activities". All the member states have either publicly sponsored and regulated [[universal health care]] or publicly provided universal health care. The [[European Commission]]'s [[Directorate-General for Health and Consumers (European Commission)|Directorate-General for Health and Consumers]] seeks to align national laws on the protection of people's health, on the consumers' rights, on the safety of food and other products.<ref>{{cite web|url=http://ec.europa.eu/dgs/health_consumer/about_us/our_vision_en.htm |title=Europa web portal |work=Europa (web portal) |accessdate=26 November 2010}}</ref><ref>{{cite web|url=http://ec.europa.eu/dgs/health_consumer/index_en.htm |title=Europa web portal |work=Europa (web portal) |accessdate=26 November 2010}}</ref><ref>{{cite web|url=http://ec.europa.eu/health-eu/index_en.htm |title=Europa web portal |work=Europa (web portal) |date=18 November 2010 |accessdate=26 November 2010}}</ref>
+
+Health care in the EU is provided through a wide range of different systems run at the national level. The systems are primarily [[Publicly funded health care|publicly funded]] through taxation (universal health care). Private funding for health care may represent personal contributions towards meeting the non-taxpayer refunded portion of health care or may reflect totally private (non-subsidised) health care either paid out of pocket or met by some form of personal or employer funded insurance.{{citation needed|date=January 2015}}
+
+All EU and many other European countries offer their citizens a free [[European Health Insurance Card]] which, on a reciprocal basis, provides insurance for emergency medical treatment insurance when visiting other participating European countries.<ref>{{cite web|url=http://www.nhs.uk/nhsengland/Healthcareabroad/pages/Healthcareabroad.aspx |title=info about health care and EHIC |publisher=Nhs.uk |date=29 April 2010 |accessdate=26 November 2010}}</ref> A directive on cross-border healthcare aims at promoting co-operation on health care between member states and facilitating access to safe and high-quality cross-border healthcare for European patients.<ref>{{cite web|url=http://www.consilium.europa.eu/uedocs/cms_data/docs/pressdata/en/lsa/119514.pdf |title=Consilium.europa.eu |format=PDF |accessdate=3 June 2013}}</ref><ref>{{cite web|url=http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:088:0045:0065:EN:PDF |title=Eur-lex.europa.eu |accessdate=3 June 2013}}</ref><ref>{{cite web|url=http://www.nhsconfed.org/Publications/Factsheets/Pages/Cross-border-healthcare-commissioners.aspx |title=NHSconfed.org |publisher=NHSconfed.org |date=17 May 2011 |accessdate=3 June 2013}}</ref>
+
+==Culture ==
+{{Main|Culture of Europe|Western culture|Cultural policies of the European Union}}
+{{multiple image
+|align=right
+|image1=Acropolis of Athens 01361.JPG
+| width1    = {{#expr: (147 * 720 / 537) round 0}}
+|image2=Colosseum in Rome-April 2007-1- copie 2B.jpg
+| width2    = {{#expr: (155 * 2246 / 1688) round 0}}
+|footer=[[Acropolis of Athens|Acropolis]] and [[Colosseum]], symbols of the [[Greco-Roman world|Graeco-Roman world]]}}
+
+Cultural co-operation between member states has been a concern of the EU since its inclusion as a community competency in the Maastricht Treaty.<ref name="Bozoki">{{cite web |last=Bozoki|first=Andras |title=Cultural Policy and Politics in the European Union |publisher=Cultural Policy and Politics in the European Union.pdf |format=PDF |url=http://www.ecoc-doc-athens.eu/attachments/1249_Cultural%20Policy%20and%20Politics%20in%20the%20European%20Union_speech_Bozoki_Andras.pdf |accessdate=4 June 2013}}</ref> Actions taken in the cultural area by the EU include the [[Culture 2000]] 7-year programme,<ref name="Bozoki"/> the [[European Cultural Month]] event,<ref name="Culture Month">{{cite web|title=European Culture Month|author=European Commission|publisher=Europa web portal|url=http://ec.europa.eu/culture/eac/ecocs/present_cap/retrospective_en.html|archiveurl=https://web.archive.org/web/20080202062436/http://ec.europa.eu/culture/eac/ecocs/present_cap/retrospective_en.html|archivedate=2 February 2008|accessdate=27 February 2008}}</ref> the [[MEDIA Programme]],<ref>{{cite web |title=Media Programme |publisher=European Commission |work=Europa |url=http://ec.europa.eu/culture/media/about/index_en.htm |accessdate=13 June 2013}}</ref> orchestras such as the [[European Union Youth Orchestra]]<ref>{{cite web|url=http://www.euyo.org.uk/about/history.htm|title=An Overture to the European Union Youth Orchestra|publisher=The European Youth Orchestra|accessdate=12 August 2007|archiveurl=https://web.archive.org/web/20070611140551/http://www.euyo.org.uk/about/history.htm <!--Added by H3llBot-->|archivedate=11 June 2007}}</ref> and the [[European Capital of Culture]] programme{{spaced ndash}}where one or more cities in the EU are selected for one year to assist the [[Sociocultural evolution|cultural development]] of that city.<ref name="Capital Culture">{{cite web |title=European Capitals of Culture|publisher=Europa web portal |author=European Commission |url=http://ec.europa.eu/culture/our-programmes-and-actions/doc413_en.htm |accessdate=Nov 2010}}</ref>
+
+===Sport===
+{{Main|Sport policies of the European Union|Sport in Europe}}
+
+Sport is mainly the responsibility of an individual member states or other international organisations rather than that of the EU. However, there are some EU policies that have had an impact on sport, such as the free movement of workers which was at the core of the [[Bosman ruling]], which prohibited national football leagues from imposing quotas on foreign players with European citizenship.<ref name="BBC Boseman">{{cite news |last=Fordyce |first=Tom |title=10&nbsp;years since Bosman|publisher=BBC News |date=11 July 2007 |url=http://news.bbc.co.uk/sport1/hi/football/4528732.stm|accessdate=13 July 2007}}</ref> The [[Treaty of Lisbon]] requires any application of economic rules to take into account the specific nature of sport and its structures based on voluntary activity.<ref>Cases C-403/08 and C-429/08, Opinon of Advocate General Kokott, para 207</ref> This followed lobbying by governing organisations such as the [[International Olympic Committee]] and [[FIFA]], due to objections over the applications of free market principles to sport which led to an increasing gap between rich and poor clubs.<ref name="IHT RT">{{cite news|title=IOC, FIFA presidents welcomes new EU treaty, call it breakthrough to give sports more power|work=[[International Herald Tribune]] |date=19 October 2007 |url=http://www.iht.com/articles/ap/2007/10/19/sports/EU-SPT-OLY-EU-Treaty.php |accessdate=21 October 2007}}</ref> The EU does fund a programme for Israeli, Jordanian, Irish, and British football coaches, as part of the Football 4 Peace project.<ref>{{cite web|url=http://eeas.europa.eu/delegations/israel/press_corner/all_news/news/2011/20110329_01_en.htm |title=Sports coaches from Israel travel to UK for training |publisher=Eeas.europa.eu |date=29 March 2011 |accessdate=3 June 2013}}</ref>
+
+===Symbols===
+{{Main|Symbols of Europe}}
+{{multiple image
+|total_width=290 | perrow = 2
+|width1= 681|height1= 1024|image1=1 May 2004 enlargement celebration in Parc du Cinquantenaire.jpg
+|width2=515|height2=731|image2=Reliquiarium Caroli Magni.jpg
+|width3= 319|height3= 204|image3=Raptus Europae.png
+|footer=Clockwise from top left: The [[Flag of Europe|European flag]] seen at the occasion of the [[2004 enlargement of the European Union|2004 enlargement]]; the reliquary [[bust of Charlemagne]] (c. 1350); [[Europa (mythology)|Europa]] and the bull, depicted as the personification of Europe in [[:File:Nova et accurata totius Europæ descriptio.jpg|a 1700 map]] by [[Frederik de Wit|Fredericus de Wit]].
+}}
+The [[Flag of Europe|flag of the union]] consists of a [[Circle of stars|circle of]] 12 golden stars on a blue field. The blue represents the west, while the number and position of the stars represent completeness and unity, respectively.<ref name="36th">{{Citation|title=Thirty-sixth meeting of the ministers' deputies: resolution (55) 32|publisher=Council of Europe|date=9 December 1955|url=http://www.coe.int/t/dgal/dit/ilcd/fonds/themes/flags/Res(55)32_en.pdf|accessdate=2 February 2008}}</ref> Originally designed in 1955 for the Council of Europe, the flag was adopted by the [[European Communities]], the predecessors of the present union, in 1986. ''[[Motto of the European Union|United in Diversity]]'' was adopted as the motto of the union in the year 2000, having been selected from [[A motto for Europe|proposals]] submitted by school pupils.<ref>{{cite book|url=https://books.google.com/books?id=Zg8qsGtZgZsC&pg=PA110&dq=in+varietate+concordia&cd=2#v=onepage&q=in%20varietate%20concordia&f=false |title=In varietate concordia is the Latin motto chosen by European citizens in 2000. Its official English translation is "Unity in Diversity" in '&#39;Eurodiversity: a business guide to managing difference'&#39;, page 110, by George F. Simons & Arjen Bos, 2002 |publisher=Books.google.com |accessdate=1 January 2012}}</ref> Since 1985, the [[flag day]] of the union has been [[Europe Day]], on 9 May, i.e. the date of the 1950 [[Schuman declaration]]. The [[Anthem of Europe|anthem of the union]] is an instrumental version of the prelude to the ''[[Ode to Joy]]'', the 4th movement of [[Ludwig van Beethoven]]'s [[Symphony No. 9 (Beethoven)|ninth symphony]]. The anthem was adopted by European Community leaders in 1985 and has since been played on official occasions.<ref>[http://www.coe.int/T/E/Com/About_Coe/emblems/emblemes.asp Emblemes] {{wayback|df=yes|url=http://www.coe.int/T/E/Com/About_Coe/emblems/emblemes.asp |date=20091219175535 }}</ref>
+
+Besides naming the continent, the [[Greek mythology|Greek mythological]] figure of [[Europa (mythology)|Europa]] has frequently been employed as a [[National personification|personification]] of Europe. Known from the myth in which [[Zeus]] seduces her in the guise of a white bull, Europa has also been referred to in relation to the present union. Statues of Europa and the bull decorate several of the Union's institutions, and a portrait of her is seen on the 2013 series of [[Euro banknotes]]. The bull is for its part depicted on all residence permit cards.<ref>{{cite book|last= Demey |first= Thierry |others= S. Strange (trans.) |title= Brussels, capital of Europe |year= 2007 |publisher= Badeaux |location= Brussels |isbn= 2-9600414-2-9 |page= 387 }}</ref>
+
+[[Charlemagne|Charles the Great]], also known as Charlemagne ({{lang-la|Carolus Magnus}}), established [[Carolingian Empire|an empire]] that represented the most expansive European unification since the Roman era, and thereby founded what became the [[List of French monarchs|French]] and [[List of German monarchs|German]] monarchies.<ref name="ReferenceA">Riché, Preface xviii, Pierre Riché reflects: "[H]e enjoyed an exceptional destiny, and by the length of his reign, by his conquests, legislation and legendary stature, he also profoundly marked the history of Western Europe."</ref><ref name="ReferenceA"/><ref>[http://www.humnet.ucla.edu/santiago/histchrl.html humnet.ucla.edu]</ref><ref>{{cite web|url=http://www.karlspreis.de/preistraeger/seine_heiligkeit_papst_johannes_paul_ii/ansprache_von_seiner_heiligkeit_papst_johannes_paul_ii.html |title=karlspreis.de |publisher=karlspreis.de |accessdate=1 January 2012}}</ref><ref>Chamberlin, Russell, ''The Emperor Charlemagne'', p. ???</ref> Known as ''Pater Europae'' («Father of Europe»),<ref name="ReferenceA"/><ref>{{cite web|url=http://www.karlspreis.de/preistraeger/seine_heiligkeit_papst_johannes_paul_ii/ansprache_von_seiner_heiligkeit_papst_johannes_paul_ii.html |title=Der Karlspreisträger Seine Heiligkeit Papst Johannes Paul II. außerordentlicher Karlspreis 2004 |publisher=Karlspreis.de |accessdate=1 January 2012}}</ref> he enjoyed an important afterlife in European culture. The present symbolic relevance of Charlemagne pertains to his embodiment of Franco-German relations, on which European integration relies. The Commission has named [[Charlemagne building|one of its central buildings]] in Brussels after Charlemagne, and the German city of [[Aachen]] has since 1949 awarded the [[Charlemagne Prize]] to champions of European unification.<ref>{{cite web|url=http://www.karlspreis.de/en/laureates|title=Laureates|work=karlspreis.de}}</ref> Since 2008, the organisers of this prize, in conjunction with the European Parliament, have awarded the [[European Charlemagne Youth Prize|Charlemagne Youth Prize]] in recognition of similar efforts by young people.<ref>{{cite web|url=http://www.charlemagneyouthprize.eu/|title=Winners 2015|work=charlemagneyouthprize.eu}}</ref>
+
+Religious symbols of Europe and its integration include [[Benedict of Nursia|Saint Benedict]], who in 1964 was named patron saint of Europe by [[Pope Paul VI]], and [[Jadwiga of Poland|Saint Hedwig]], who in 1997 was canonised as [[patron saint]] of European unification by [[Pope John Paul II]].<ref>{{cite web|url=http://www.catholicculture.org/news/features/index.cfm?recnum=57724|title=News Features|work=catholicculture.org}}</ref><ref>{{cite web|url=http://www.talismancoins.com/servlet/Detail?no=416 |title=talismancoins.com |publisher=talismancoins.com |date=1 September 1939 |accessdate=1 January 2012}}</ref>
+
+==See also==
+* [[Outline of the European Union]]
+* <!-- [[Index of European Union-related articles]] -->
+* <!-- [[Bibliography of the European Union]] -->
+* {{wikipedia books link|European Union}}
+{{Clear}}
+
+==Notes==
+{{Reflist|group=lower-alpha|30em}}
+
+==References==
+{{Reflist|30em|refs=
+<ref name="Four Freedoms">{{cite book |last=Barnard |first=Catherine |title=The Substantive Law of the EU: The four freedoms |edition=2 |date=August 2007 |publisher=Oxford University Press |isbn=978-0-19-929035-2 |page=447}}</ref>
+<ref name="EU-Symbols">{{cite web |url=http://europa.eu/abc/symbols/motto/index_en.htm |title=United in diversity |accessdate=20 January 2010 |work=[[Europa (web portal)]] |publisher=[[European Commission]] |quote='United in diversity' is the motto of the European Union. The motto means that, via the EU, Europeans are united in working together for peace and prosperity, and that the many different cultures, traditions and languages in Europe are a positive asset for the continent.}}</ref>
+<ref name="Legislative Observatory">{{cite web |url=http://www.europarl.europa.eu/oeil/FindByProcnum.do?lang=en&procnum=REG/2007/2240 |title=European Parliament: The Legislative Observatory |accessdate=20 January 2010 |work=[[Europa (web portal)]] |publisher=[[European Commission]] |quote=the motto 'United in diversity' shall be reproduced on Parliament's official documents;}}</ref>
+<ref name="OED">''The [[New Oxford American Dictionary]]'', Second Edn., [[Erin McKean]] (editor), 2051 pages, May 2005, Oxford University Press, ISBN 0-19-517077-6.</ref>
+<!--UNUSED REF AS OF AUGUST 2015<ref name="eurostat">{{cite web |url=http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1 |title=Population on 1 January |publisher=Eurostat |accessdate=23 October 2010}}</ref>-->
+<ref name="imf">{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2015/01/weodata/weorept.aspx?pr.x=59&pr.y=6&sy=2015&ey=2015&scsm=1&ssd=1&sort=country&ds=.&br=1&c=998&s=NGDPD%2CPPPGDP%2CPPPPC&grp=1&a=1 |title=IMF World Economic Outlook Database, April 2015 |publisher=International Monetary Fund |accessdate=26 April 2015}}</ref>
+<ref name="imf2">[http://www.imf.org/external/pubs/ft/weo/2015/01/weodata/weorept.aspx?pr.x=59&pr.y=6&sy=2015&ey=2015&scsm=1&ssd=1&sort=country&ds=.&br=1&c=998&s=NGDPD%2CPPPGDP%2CPPPPC&grp=1&a=1 Nominal 2015 GDP for the European Union] and [http://www.imf.org/external/pubs/ft/weo/2015/01/weodata/weorept.aspx?pr.x=39&pr.y=13&sy=2013&ey=2013&scsm=1&ssd=1&sort=country&ds=.&br=1&c=998&s=NGDPD%2CPPPGDP%2CPPPPC&grp=1&a=1 2015 population for the European Union], [http://www.imf.org/external/pubs/ft/weo/2015/01/weodata/index.aspx World Economic Outlook Database, April 2015], [[International Monetary Fund]]. Accessed on 26 April 2015</ref>
+<ref name="gini">{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html |title=Distribution of family income&nbsp;– Gini index |work=The World Factbook |publisher=CIA |accessdate=28 January 2012}}</ref>
+}}
+
+==Further reading==
+{{Refbegin|30em}}
+* Bindi, Federiga, ed. ''The Foreign Policy of the European Union: Assessing Europe's Role in the World'' (Brookings Institution Press; 2010). The E.U.'s foreign-policy mechanisms and foreign relations, including with its neighbours.
+* Bomberg, Elizabeth, Peterson, John, and [[Richard Corbett]], eds. ''The European Union: How Does it Work?'' (3rd ed) (2012, Oxford University Press). ISBN 978-0-19-957080-5 and ISBN 0-19-957080-9.
+* {{Cite book |last=Corbett |first=Richard |last2=Jacobs |first2=Francis |author2-link=Francis Jacobs |last3=Shackleton |first3=Michael |title=The European Parliament |edition=8th |url=http://www.johnharperpublishing.co.uk/pp007.shtml |publisher=John Harper Publishing |year=2011 |location=London |isbn=978-0-9564508-5-2}}
+* {{Cite book|last1=Craig|first1=Paul|first2=Gráinne|last2=de Búrca|title=EU Law, Text, Cases and Materials |edition=4th|year=2007|publisher=Oxford University Press|location=Oxford|isbn=978-0-19-927389-8}}
+* Jordan, A.J. and Adelle, C. (eds) Environmental Policy in the European Union: Contexts, Actors and Policy Dynamics (3e). Earthscan: London and Sterling, VA.
+* Kaiser, Wolfram. ''Christian Democracy and the Origins of European Union'' (2007)
+* {{Cite book|title=The European Union: Politics and Policies|first1=John|last1=McCormick|publisher=Westview Press|year=2007|isbn=978-0-8133-4202-3}}
+* Pinder, John, and Simon Usherwood. ''The European Union: A Very Short Introduction'' (2008) [http://www.amazon.com/dp/0199233977 excerpt and text search]
+* {{Cite book|title=The European Dream: How Europe's Vision of the Future Is Quietly Eclipsing the American Dream|first1=Jeremy|last1=Rifkin|publisher=Jeremy P. Tarcher|year=2004|isbn=978-1-58542-345-3}}
+* {{Cite book|last=Smith|first=Charles|authorlink=Charles Emrys Smith |title=International Trade and Globalisation |edition=3rd |publisher=Anforme |year=2007 |location=Stocksfield |isbn=1-905504-10-1}}
+* Staab, Andreas. ''The European Union Explained: Institutions, Actors, Global Impact'' (2008) [http://www.amazon.com/dp/0253220181 excerpt and text search]
+* {{Cite book|last1=Steiner|first1=Josephine|first2=Lorna|last2=Woods|first3=Christian |last3=Twigg-Flesner|title=EU Law|edition=9th|year=2006|publisher=Oxford University Press|location=Oxford|isbn=978-0-19-927959-3}}
+* Yesilada, Birol A. and David M. Wood. ''The Emerging European Union'' (5th ed. 2009)
+* {{Cite book |title=Lisbon Treaty |last=Piris |first=Jean-Claude |year=2010|publisher=Cambridge University Press |location=Cambridge |isbn=978-0-521-19792-2|page=448}}
+{{Refend}}
+
+==External links==
+; Official
+* [http://europa.eu/index_en.htm EUROPA]—[[Europa (web portal)|official web portal]]
+* [http://europa.eu/institutions/index_en.htm Institutions]
+* [http://european-council.europa.eu/home-page.aspx?lang=en European Council]
+* [http://www.ec.europa.eu/index_en.htm European Commission]
+* [http://consilium.europa.eu/showPage.aspx?id=242&lang=EN Council]
+* [http://www.europarl.europa.eu/news/public/default_en.htm European Parliament]
+* [http://www.ecb.europa.eu/home/html/index.en.html European Central Bank]
+* [http://curia.europa.eu/ Court of Justice of the European Union]
+* [http://eca.europa.eu/portal/page/portal/eca_main_pages/home Court of Auditors]
+* [http://europa.eu/agencies/index_en.htm Agencies]
+* [http://eur-lex.europa.eu/en/index.htm EUR-Lex]—[[EUR-Lex|EU Laws]]
+* http://www.eui.eu/Research/HistoricalArchivesOfEU/Index.aspx Historical Archives of the European Union
+
+; Overviews and data
+* [http://epp.eurostat.ec.europa.eu/statistics_explained Eurostat—European Union Statistics Explained]
+* [http://ckan.net/tag/read/eutransparency Datasets related to the EU on CKAN]
+* {{CIA World Factbook link|ee|CIA World Factbook: European Union}}
+* [http://www.britishpathe.com/workspace.php?id=2537&display=list/ British Pathé]—Online newsreel archive of the 20th century
+* [http://eu.data-list-search.com/ Search EU Financial Sanctions List]
+* [https://fas.org/sgp/crs/row/RS21372.pdf The European Union: Questions and Answers] [[Congressional Research Service]]
+* {{Gutenberg author | id=European+Union | name=European Union}}
+* {{Internet Archive author |sname=European Union}}
+
+; News and interviews
+* [http://www.spiegel.de/international/europe/spiegel-interview-with-helmut-schmidt-and-valery-giscard-d-estaing-a-855127.html Der Spiegel interview with Helmut Schmidt and Valery Giscard d'Estaing]
+
+; Educational resources
+* [http://hum.port.ac.uk/europeanstudieshub European Studies Hub]—interactive learning tools and resources to help students and researchers better understand and engage with the European Union and its politics.
+* {{cite encyclopedia |last1= Tupy |first1=Marian L.  |authorlink1=   |last2= |first2=  |authorlink2= |editor= [[David R. Henderson]] (ed.) |encyclopedia=[[Concise Encyclopedia of Economics]] |title=European Union|url=http://www.econlib.org/library/Enc/EuropeanUnion.html |year=2008 |edition= 2nd |publisher=[[Library of Economics and Liberty]] |location=Indianapolis |isbn=978-0-86597-665-8 |oclc=237794267}}
+{{Geographic location
+| Northwest = [[Iceland]] (in the [[Atlantic Ocean]])
+| North = [[Norway]]
+| Northeast =  [[Russia]]
+| West = 
+| Centre = European Union
+| East = [[Belarus]]<br />[[Ukraine]]<br />[[Moldova]]
+| Southwest = 
+| South = [[Balkans#Western Balkans|Western Balkans]] (enclaved) and [[Africa]] (by the [[Mediterranean Sea]])
+| Southeast = [[Turkey]]
+}}
+{{S-start}}
+{{s-ach|aw}}
+{{s-bef|before=[[Tawakkul Karman]]|before2=[[Leymah Gbowee]]|before3=[[Ellen Johnson Sirleaf]]}}
+{{s-ttl|title=[[Nobel Peace Prize|Nobel Peace Prize Laureate]]|years=2012}}
+{{s-aft|after=[[Organisation for the Prohibition of Chemical Weapons]]}}
+{{S-end}}
+{{Navboxes
+|title = Articles related to the European Union
+|list =
+{{European Union topics|state=expanded}}
+{{Regional organisations|state=collapsed}}
+{{Nobel Peace Prize Laureates 2001–2025}}
+{{Navboxes
+|title = International organisations in which the union has membership
+|list = 
+{{G8 nations}}
+{{G-20}}
+{{Quartet on the Middle East}}
+}}
+}}
+{{Subject bar
+|book = European Union
+|portal1 = European Union
+|portal2 = Europe
+|portal3 = NATO
+|commons = y
+|n = y
+|q = y
+|s = n
+}}
+{{Authority control}}
+
+{{Good article}}
+
+[[Category:European Union| ]]<!--leave the empty space as standard-->
+[[Category:1993 establishments in Europe]]
+[[Category:Federalism]]
+[[Category:G20 nations]]
+[[Category:G7 nations]]
+[[Category:G8 nations]]
+[[Category:International organizations of Europe]]
+[[Category:Organizations awarded Nobel Peace Prizes]]
+[[Category:Organizations established in 1993]]
+[[Category:Political systems]]
+[[Category:Supranational unions]]
+[[Category:Trade blocs]]
+[[Category:United Nations General Assembly observers]]

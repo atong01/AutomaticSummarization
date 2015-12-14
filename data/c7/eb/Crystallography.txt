@@ -1,0 +1,184 @@
+{{for|the book of poetry|Crystallography (book)}}
+{{More footnotes|date=November 2009}}
+[[File:Stohrem.jpg|thumb|A crystalline solid: atomic resolution image of [[strontium titanate]]. Brighter atoms are [[strontium]] and darker ones are titanium.]]
+'''Crystallography''' is the experimental science of determining the arrangement of atoms in the crystalline solids (see [[crystal structure]]). The word "crystallography" derives from the [[Greek language|Greek]] words ''crystallon'' "cold drop, frozen drop", with its meaning extending to all solids with some degree of transparency, and ''grapho'' "I write".  In July 2012, the [[United Nations]] recognised the importance of the science of crystallography by proclaiming that 2014 would be the International Year of Crystallography.<ref name="UN Resolution">[http://www.iycr2014.org/about/resolution UN announcement "International Year of Crystallography"]. iycr2014.org. 12 July 2012</ref> [[X-ray crystallography]] is used to determine the structure of large [[biomolecule]]s such as [[protein]]s. 
+ 
+Before the development of X-ray diffraction crystallography (see below), the study of [[crystal]]s was based on physical measurements of their geometry. This involved measuring the angles of crystal faces relative each other and to theoretical reference axes (crystallographic axes), and establishing the [[Symmetry (physics)|symmetry]] of the crystal in question. This physical measurement is carried out using a [[goniometer]]. The position in 3D space of each crystal face is plotted on a stereographic net such as a [[Wulff net]] or [[Lambert azimuthal equal-area projection|Lambert net]]. The [[pole figure|pole]] to each face is plotted on the net. Each point is labelled with its [[Miller index]]. The final plot allows the symmetry of the crystal to be established.
+
+Crystallographic methods now depend on analysis of the [[diffraction]] patterns of a sample targeted by a beam of some type. [[X-ray]]s are most commonly used; other beams used include [[electron]]s or [[neutron]]s. This is facilitated by the wave properties of the particles. Crystallographers often explicitly state the type of beam used, as in the terms ''[[X-ray crystallography]], [[neutron diffraction]]'' and ''[[electron diffraction]]''. These three types of radiation interact with the specimen in different ways. 
+*[[X-ray]]s interact with the spatial distribution of [[electron]]s in the sample. 
+*Electrons are [[charged particle]]s and therefore interact with the total [[Charge density|charge distribution]] of both the [[atomic nuclei]] and the electrons of the sample. 
+*Neutrons are scattered by the atomic nuclei through the [[strong nuclear force]]s, but in addition, the [[magnetic moment]] of neutrons is non-zero. They are therefore also scattered by [[magnetic field]]s. When neutrons are scattered from [[hydrogen]]-containing materials, they produce diffraction patterns with high noise levels. However, the material can sometimes be treated to substitute [[deuterium]] for hydrogen. 
+Because of these different forms of interaction, the three types of radiation are suitable for different crystallographic studies.
+
+==Theory==
+{{Condensed matter physics}}
+An image of a small object is made using a [[lens (optics)|lens]] to focus the beam, similar to a lens in a microscope. However, the wavelength of visible light (about 4000 to 7000 [[ångström]]) is three [[order of magnitude|orders of magnitude]] longer than the length of typical [[chemical bond|atomic bonds]] and [[atom]]s themselves (about 1 to 2 Å). Therefore, obtaining information about the spatial arrangement of atoms requires the use of radiation with shorter wavelengths, such as X-ray or neutron beams. Employing shorter wavelengths implied abandoning microscopy and true imaging, however, because there exists no material from which a lens capable of focusing this type of radiation can be created.{{citation needed|date=November 2012}} (Nevertheless, scientists have had some success focusing X-rays with microscopic [[Fresnel zone plate]]s made from gold, and by critical-angle reflection inside long tapered capillaries.)<ref>{{cite journal|journal=Journal of Synchrotron Radiation|volume=14|year=2007|pages=326–330|doi=10.1107/S0909049507025174|title=Two-step hard X-ray focusing combining Fresnel zone plate and single-bounce ellipsoidal capillary|author=Snigirev, A. |pmid=17587657|issue=Pt 4}}</ref> Diffracted X-ray or neutron beams cannot be focused to produce images, so the sample structure must be reconstructed from the diffraction pattern. Sharp features in the diffraction pattern arise from periodic, repeating structure in the sample, which are often very strong due to coherent reflection of many photons from many regularly spaced instances of similar structure, while non-periodic components of the structure result in diffuse (and usually weak) diffraction features - areas with a higher density and repetition of atom order tend to reflect more light toward one point in space when compared to those areas with fewer atoms and less repetition.
+
+Because of their highly ordered and repetitive structure, crystals give diffraction patterns of sharp [[Bragg reflection]] spots, and are ideal for analyzing the structure of solids.
+
+==Notation==<!-- This section is linked from [[Ion implantation]] -->
+{{Main|Miller index}}
+
+*Coordinates in ''square [[bracket]]s'' such as '''<nowiki>[100]</nowiki>''' denote a direction vector (in real space).
+
+*Coordinates in ''angle brackets'' or ''chevrons'' such as '''&lt;100&gt;''' denote a ''family'' of directions which are related by symmetry operations. In the cubic crystal system for example, '''<100>''' would mean <nowiki>[100], [010], [001]</nowiki> or the negative of any of those directions.
+
+*Miller indices in ''parentheses'' such as '''(100)''' denote a plane of the crystal structure, and regular repetitions of that plane with a particular spacing. In the cubic system, the [[Normal (geometry)|normal]] to the (hkl) plane is the direction [hkl], but in lower-symmetry cases, the normal to (hkl) is not parallel to [hkl].
+
+*Indices in ''curly brackets'' or ''braces'' such as '''<nowiki>{100}</nowiki>''' denote a family of planes and their normals which are equivalent in cubic materials due to symmetry operations, much the way angle brackets denote a family of directions. In non-cubic materials, <hkl> is not necessarily perpendicular to {hkl}.
+
+==Technique==
+Some materials that have been analyzed using crystallography, such as [[protein]]s, do not occur naturally as crystals. Typically, such molecules are placed in solution and allowed to slowly crystallize through vapor [[diffusion]]. A drop of solution containing the molecule, buffer, and precipitants is sealed in a container with a reservoir containing a [[hygroscopic]] solution. Water in the drop diffuses to the reservoir, slowly increasing the concentration and allowing a crystal to form. If the concentration were to rise more quickly, the molecule would simply [[Precipitation (chemistry)|precipitate]] out of solution, resulting in disorderly granules rather than an orderly and hence usable crystal.
+
+Once a crystal is obtained, data can be collected using a beam of radiation. Although many universities that engage in crystallographic research have their own X-ray producing equipment, [[Synchrotron light|synchrotron]]s are often used as X-ray sources, because of the purer and more complete patterns such sources can generate. Synchrotron sources also have a much higher intensity of X-ray beams, so data collection takes a fraction of the time normally necessary at weaker sources. Complementary neutron crystallography techniques are used to identify the positions of hydrogen atoms, since X-rays only interact very weakly with light elements such as hydrogen.
+
+Producing an image from a diffraction pattern requires sophisticated [[mathematics]] and often an iterative process of '''modelling and refinement.''' In this process, the mathematically predicted diffraction patterns of an hypothesized or "model" structure are compared to the actual pattern generated by the crystalline sample. Ideally, researchers make several initial guesses, which through refinement all converge on the same answer. Models are refined until their predicted patterns match to as great a degree as can be achieved without radical revision of the model. This is a painstaking process, made much easier today by computers.
+
+The mathematical methods for the analysis of diffraction data only apply to ''patterns,'' which in turn result only when waves diffract from orderly arrays. Hence crystallography applies for the most part only to crystals, or to molecules which can be coaxed to crystallize for the sake of measurement. In spite of this, a certain amount of molecular information can be deduced from patterns that are generated by fibers and [[powder diffraction|powders]], which while not as perfect as a solid crystal, may exhibit a degree of order. This level of order can be sufficient to deduce the structure of simple molecules, or to determine the coarse features of more complicated molecules. For example, the double-helical structure of [[DNA]] was deduced from an X-ray diffraction pattern that had been generated by a fibrous sample.
+
+==Crystallography in materials science==
+Crystallography is used by materials scientists to characterize different materials. In single crystals, the effects of the crystalline arrangement of atoms is often easy to see macroscopically, because the natural shapes of crystals reflect the atomic structure. In addition, physical properties are often controlled by crystalline defects. The understanding of crystal structures is an important prerequisite for understanding [[crystallographic defect]]s. Mostly, materials do not occur as a single crystal, but in poly-crystalline form (i.e., as an aggregate of small crystals with different orientations). Because of this, the [[powder diffraction]] method, which uses diffraction patterns of polycrystalline samples with a large number of crystals, plays an important role in structural determination.
+
+Other physical properties are also linked to crystallography. For example, the minerals in [[clay]] form small, flat, platelike structures. Clay can be easily deformed because the platelike particles can slip along each other in the plane of the plates, yet remain strongly connected in the direction perpendicular to the plates. Such mechanisms can be studied by crystallographic [[Texture (crystalline)|texture]] measurements.
+
+In another example, [[iron]] transforms from a [[body-centered cubic]] (bcc) structure to a [[face-centered cubic]] (fcc) structure called [[austenite]] when it is heated. The fcc structure is a close-packed structure unlike the bcc structure; thus the volume of the iron decreases when this transformation occurs.
+
+Crystallography is useful in phase identification. When performing any process on a material, it may be desired to find out what compounds and what phases are present in the material. Each phase has a characteristic arrangement of atoms. X-ray or neutron diffraction can be used to identify which patterns are present in the material, and thus which compounds are present. Crystallography covers the enumeration of the symmetry patterns which can be formed by atoms in a crystal and for this reason has a relation to group theory and geometry.
+
+==Biology==
+[[X-ray crystallography]] is the primary method for determining the molecular conformations of biological [[macromolecule]]s, particularly [[protein]] and [[nucleic acid]]s such as [[DNA]] and [[RNA]]. In fact, the double-helical structure of DNA was deduced from crystallographic data. The first crystal structure of a macromolecule was solved in 1958, a three-dimensional model of the myoglobin molecule obtained by X-ray analysis.<ref>{{Cite journal | doi = 10.1038/181662a0| title = A Three-Dimensional Model of the Myoglobin Molecule Obtained by X-Ray Analysis| journal = Nature| volume = 181| issue = 4610| pages = 662–6| year = 1958| last1 = Kendrew | first1 = J. C.| last2 = Bodo | first2 = G.| last3 = Dintzis | first3 = H. M.| last4 = Parrish | first4 = R. G.| last5 = Wyckoff | first5 = H.| last6 = Phillips | first6 = D. C. | pmid=13517261}}</ref> The [[Protein Data Bank]] (PDB) is a freely accessible repository for the structures of proteins and other biological macromolecules. Computer programs such as [[RasMol]] or [[Pymol]] can be used to visualize biological molecular structures.
+[[Neutron crystallography]] is often used to help refine structures obtained by X-ray methods or to solve a specific bond; the methods are often viewed as complementary, as X-rays are sensitive to electron positions and scatter most strongly off heavy atoms, while neutrons are sensitive to nucleus positions and scatter strongly even off many light isotopes, including hydrogen and deuterium.
+[[Electron crystallography]] has been used to determine some protein structures, most notably [[membrane protein]]s and [[viral capsid]]s.
+
+==Scientists of note==
+{{columns-list|3|
+*[[William Astbury]]
+*[[William Barlow (geologist)|William Barlow]]
+*[[C. Arnold Beevers]]
+*[[John Desmond Bernal]]
+*[[William Henry Bragg]]
+*[[William Lawrence Bragg]]
+*[[Auguste Bravais]]
+*[[Liquid Crystal Institute#Directors|Glenn H. Brown]]
+*[[Martin Julian Buerger]]
+*[[Francis Crick]]
+*[[Pierre Curie]]
+*[[Peter Debye]]
+*[[Johann Deisenhofer]]
+*[[Boris Delone]]
+*[[Gautam R. Desiraju]]
+*[[Jack Dunitz]]
+*[[David Eisenberg]]
+*[[Paul Peter Ewald]]
+*[[Yevgraf Fyodorov|Evgraf Stepanovich Fedorov]]
+*[[Rosalind Franklin]]
+*[[Georges Friedel]]
+*[[Paul heinrich von groth|Paul Heinrich von Groth]]
+*[[René Just Haüy]]
+*[[Wayne Hendrickson]]
+*[[Carl Hermann]]
+*[[Johann F. C. Hessel|Johann Friedrich Christian Hessel]]
+*[[Dorothy Crowfoot Hodgkin]]
+*[[Robert Huber]]
+*[[Isabella Karle]]
+*[[Jerome Karle]]
+*[[Aaron Klug]]
+*[[Max von Laue]]
+*[[Otto Lehmann (physicist)|Otto Lehmann]]
+*[[Michael Levitt]]
+*[[Henry Lipson]]
+*[[Kathleen Lonsdale]]
+*[[Ernest-François Mallard]]
+*[[Charles-Victor Mauguin]]
+*[[William Hallowes Miller]]
+*[[Friedrich Mohs]]
+*[[Paul Niggli]]
+*[[Louis Pasteur]]
+*[[Arthur Lindo Patterson]]
+*[[Max Perutz]]
+*[[Friedrich Reinitzer]]
+*[[Hugo Rietveld]]
+*[[Jean-Baptiste L. Romé de l'Isle]]
+*[[Michael Rossmann]]
+*[[Paul Scherrer]]
+*[[Schönflies|Arthur Moritz Schönflies]]
+*[[Dan Shechtman]]
+*[[:de:George M. Sheldrick|George M. Sheldrick]]
+*[[Tej P. Singh]]
+*[[Nicolas Steno]]
+*[[Constance Tipper]]
+*[[Daniel Vorländer]]
+*[[Christian Samuel Weiss]]
+*[[Don Craig Wiley]]
+*[[Ralph Walter Graystone Wyckoff]]
+*[[Ada Yonath]]
+*[[Dorothy Hodgkin]]
+}}
+
+==See also==
+{{Colbegin|3}}
+*[[Abnormal grain growth]]
+*[[Atomic packing factor]]
+*[[Beevers–Lipson strip]]
+*[[Condensed matter physics]]
+*[[Crystal]]
+*[[Crystal engineering]]
+*[[Crystal growth]]
+*[[Crystal optics]]
+*[[Crystal system]]
+*[[Crystallite]]
+*[[Crystallization processes]]
+*[[Crystallographic database]]
+*[[Crystallographic group]]
+*[[Dynamical theory of diffraction]]
+*[[Electron crystallography]]
+*[[Euclidean plane isometry]]
+*[[Fixed points of isometry groups in Euclidean space]]
+*[[Fractional coordinates]]
+*[[Group action]]
+*[[International Year of Crystallography]]
+*[[Laser-heated pedestal growth]]
+*[[Materials science]]
+*[[Metallurgy]]
+*[[Mineralogy]]
+*[[Neutron crystallography]]
+*[[OPAL|Neutron diffraction at OPAL]]
+*[[Institut Laue–Langevin|Neutron diffraction at the ILL]]
+*[[NMR crystallography]]
+*[[Permutation group]]
+*[[Point group]]
+*[[Quantum mineralogy]]
+*[[Quasicrystal]]
+*[[Solid state chemistry]]
+*[[Space group]]
+*[[Symmetric group]]
+*[[Precession Electron Diffraction]]
+{{colend}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.AmerCrystalAssn.org/ American Crystallographic Association]
+*[http://www.xtal.iqfr.csic.es/Cristalografia/index-en.html Learning Crystallography]
+*[http://cst-www.nrl.navy.mil/lattice/spcgrp/ Crystal Lattice Structures]
+*[http://richannel.org/celebrating-crystallography 100 Years of Crystallography] [[Royal Institution]] animation
+*[http://www.vega.org.uk Vega Science Trust Interviews on Crystallography] Freeview video interviews with Max Perutz, Rober Huber and Aaron Klug.
+*[http://www.iucr.org/iucr-top/comm/cteach/pamphlets.html Commission on Crystallographic Teaching, Pamphlets]
+*[http://www.mcbmm.ameslab.gov/index.html Ames Laboratory, US DOE Crystallography Research Resources]
+*[http://www.iucr.org/ International Union of Crystallography]
+*[http://nanocrystallography.net Web Portal of Open Access Crystallography Resources]
+*[http://rigb.org/our-history/history-of-research/crystallography-timeline Interactive Crystallography Timeline] from the [[Royal Institution]]
+*[http://www.nature.com/milestones/milecrystal/index.html Nature Milestones in Crystallography]
+
+{{Geology}}
+
+{{Authority control}}
+[[Category:Chemistry]]
+[[Category:Condensed matter physics]]
+[[Category:Crystallography| ]]
+[[Category:Instrumental analysis]]
+[[Category:Materials science]]
+[[Category:Neutron-related techniques]]
+[[Category:Synchrotron-related techniques]]

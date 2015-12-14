@@ -1,0 +1,133 @@
+{{Use dmy dates|date=January 2015}}
+{{other uses}}
+{{Infobox deity
+| type        = Egyptian
+| name        = Anubis
+
+| image       = Anubis standing.svg
+| image_size  =
+| alt         =
+| caption     = The [[Egyptian pantheon|Egyptian god]] Anubis (a modern rendition inspired by New Kingdom tomb paintings)
+| god_of      = '''Protector of the dead and embalming also god of funerals '''{{sfn|Hart|1986|p=21}}
+| hiro        = <hiero>i-n:p-w-E16</hiero>
+| cult_center = [[Asyut|Lycopolis]], [[Cynopolis]]
+| symbol      = the [[Imiut fetish|fetish]], the [[crook and flail|flail]]
+| parents     = [[Nephthys]] and [[Set (mythology)|Set]] or [[Osiris]]
+| consort     = [[Anput]], sometimes [[Bastet]]
+| offspring   = [[Kebechet]] and sometimes [[Ammut]] and [[Wepwawet]]
+}}
+'''Anubis''' ({{IPAc-en|ə|'|n|uː|b|ə|s}} or {{IPAc-en|ə|'|n|j|uː|b|ə|s}};<ref>''Merriam-Webster's Collegiate Dictionary, Eleventh Edition''. Merriam-Webster, 2007. p. 56</ref> {{lang-grc|Ἄνουβις}}) is the [[Ancient Greek language|Greek]] name of a god associated with [[mummy|mummification]] and the [[Afterlife#Ancient Egypt|afterlife]] in [[ancient Egyptian religion]], usually depicted as a [[Canis|canine]] or a man with a [[cynocephaly|canine head]]. Archeologists identified the sacred animal of Anubis as an Egyptian [[Canidae|canid]], that at the time was called the [[golden jackal]], but recent [[genetic testing]] has caused the Egyptian animals to be reclassified as the [[Canis anthus|African golden wolf]].<ref>{{cite web|url=http://news.sciencemag.org/biology/2015/07/african-golden-jackals-are-actually-golden-wolves |title=African golden jackals are actually golden wolves|accessdate=9 August 2015}}</ref><ref>{{cite web|url=http://www.dailymail.co.uk/sciencetech/article-1351029/Egyptian-golden-jackal-actually-grey-wolf-scientists-discover-DNA-test.html |title=Egyptian golden jackal is actually a grey wolf, scientists discover in DNA test|accessdate=9 August 2015}}</ref><ref>{{cite web|url=http://www.theguardian.com/science/grrlscientist/2015/jul/30/golden-jackal-a-new-wolf-species-hiding-in-plain-sight |title=Golden jackal: A new wolf species hiding in plain sight|accessdate=9 August 2015}}</ref> <ref>{{cite web|url=http://www.cell.com/current-biology/pdf/S0960-9822(15)00787-3.pdf |title=Genome-wide evidence reveals that African and Eurasian golden jackals are distinct species|accessdate=9 August 2015}}</ref> 
+
+Like many [[ancient Egyptian deities]], Anubis assumed different roles in various contexts. Depicted as a protector of graves as early as the [[First Dynasty of Egypt|First Dynasty]] (c. 3100 – c. 2890 BC), Anubis was also an [[embalm]]er. By the [[Middle Kingdom of Egypt|Middle Kingdom]] (c. 2055 – 1650 BC), Anubis was replaced by [[Osiris]] in his role as Lord of the [[underworld]]. One of his prominent roles was as a [[psychopomp|god who ushered souls into the afterlife]]. He attended the [[weighing scale]] during the "Weighing of the Heart," in which it was determined whether a soul would be allowed to enter the realm of the dead.<ref>{{cite web|url=http://www.britishmuseum.org/explore/highlights/highlight_image.aspx?image=ps343850.jpg&retpage=15522 |title=Papyrus from the Book of the Dead of Ani |publisher=Britishmuseum.org |accessdate=15 June 2012}}</ref> Despite being one of the most ancient and "one of the most frequently depicted and mentioned gods" in the [[List of Egyptian gods|Egyptian pantheon]], Anubis played almost no role in [[Egyptian myths]].{{sfn|Johnston|2004|p=579}}
+
+Anubis was depicted in black, a color that symbolized both rebirth and the discoloration of the corpse after embalming. Anubis is associated with [[Wepwawet]] (also called Upuaut), another Egyptian god portrayed with a dog's head or in canine form, but with grey or white fur. Historians assume that the two figures were eventually combined.{{sfn|Gryglewski|2002|p=145}} Anubis' female counterpart is [[Anput]]. His daughter is the serpent goddess [[Kebechet]].
+
+==Name==
+"Anubis" is a Greek rendering of this god's Egyptian name.{{sfn|Coulter|Turner|2000|p=58}}<ref name="AE.net"/> In the [[Old Kingdom of Egypt|Old Kingdom]] (c. 2686 BC – c. 2181 BC), the standard way of writing his name in [[Egyptian hieroglyphs|hieroglyphs]] was composed of the sound '''''inpw''''' followed by a "jackal"<ref>The canine referred to as the Egyptian jackal in older texts was recently biologically reclassified as a separate [[canidae|canid]] species more closely related to grey wolves and coyotes than golden jackals. Furthermore ancient Greek texts about Anubis constantly refer to the deity as having a dog's head, not jackal or wolf, and there is still uncertainty as to what canid represents Anubis. Therefore the Name and History section uses the names the original sources used but in quotation marks.</ref> over a ''[[Hotep|ḥtp]]'' sign:{{sfn|Leprohon|1990|p=164, citing {{harvnb|Fischer|1968|p=84}} and {{harvnb|Lapp|1986|pp=8–9}}}}
+<hiero>i-n:p-w-C6</hiero>
+A new form with the "jackal" on a tall stand appeared in the late Old Kingdom and became common thereafter:{{sfn|Leprohon|1990|p=164, citing {{harvnb|Fischer|1968|p=84}} and {{harvnb|Lapp|1986|pp=8–9}}}}
+<hiero>i-n:p-w-E16</hiero>
+
+According to the [[Akkadian]] transcription in the [[Amarna letters]], Anubis' name (''inpw'') was vocalized in [[Egyptian language|Egyptian]] as '''Anapa'''.{{sfn|Conder|1894|p=[http://books.google.ca/books?id=OzIB5P77q8UC&pg=PA85&lpg=PA85&dq=anubis++%22anapa%22&source=bl&ots=5nBsMefFwm&sig=KZhSVYhr1i3OuilTPhobRHmLDZ8&hl=en&ei=PgPATZq0JcHVgQey_5SnBg&sa=X&oi=book_result&ct=result&resnum=4&ved=0CCkQ6AEwAw#v=onepage&q=anubis%20%20%22anapa%22&f=false 85]}}
+
+==History==
+[[File:Anubis attending the mummy of Sennedjem.jpg|thumb|Anubis attending the [[mummy]] of the deceased.]]
+In Egypt's [[Early Dynastic Period of Egypt|Early Dynastic period]] (c. 3100&nbsp;– c. 2686 BC), Anubis was portrayed in full animal form, with a "jackal" head and body.{{sfn|Wilkinson|1999|p=262}} A "jackal" god, probably Anubis, is depicted in stone inscriptions from the reigns of [[Hor-Aha]], [[Djer]], and other pharaohs of the [[First Dynasty]].{{sfn|Wilkinson|1999|pp=280–81}} Since [[Predynastic Egypt]], when the dead were buried in shallow graves, "jackals" had been strongly associated with cemeteries because they were scavengers which uncovered human bodies and ate their flesh.{{sfnm|Wilkinson|1999|1p=262 (burials in shallow graves in Predynastic Egypt)|Freeman|1997|2p=91 (rest of the information)}} In the spirit of "fighting like with like," a "jackal" was chosen to protect the dead, because "a common problem (and cause of concern) must have been the digging up of bodies, shortly after burial, by jackals and other wild dogs which lived on the margins of the cultivation."{{sfn|Wilkinson|1999|p=262 ("fighting like with like" and "by jackals and other wild dogs")}}
+
+The oldest known textual mention of Anubis is in the [[Pyramid Texts]] of the [[Old Kingdom]] (c. 2686&nbsp;– c. 2181 BC), where he is associated with the [[Ancient Egyptian burial customs|burial]] of the [[pharaoh]].{{sfn|Wilkinson|2003|pp=188–90}}
+
+In the [[Old Kingdom]], Anubis was the most important god of the dead. He was replaced in that role by [[Osiris]] during the [[Middle Kingdom of Egypt|Middle Kingdom]] (2000–1700 BC).{{sfn|Freeman|1997|p=91}} In the [[History of Roman Egypt|Roman era]], which started in 30 BC, tomb paintings depict him holding the hand of deceased persons to guide them to Osiris.{{sfn|Riggs|2005|pp=166–67}}
+
+The parentage of Anubis varied between myths, times and sources. In early mythology, he was portrayed as a son of [[Ra]].{{sfn|Hart|1986|p=25}} In the [[Coffin Texts]], which were written in the [[First Intermediate Period]] (c. 2181–2055 BC), Anubis is the son of either the cow goddess [[Hesat]] or the cat-headed [[Bastet]].{{sfn|Hart|1986|p=26}} Another tradition depicted him as the son of his father Ra and mother [[Nephthys]].{{sfn|Hart|1986|p=25}} The Greek [[Plutarch]] (c. 40–120 AD) stated that Anubis was the illegitimate son of Nephthys and [[Osiris]], but that he was adopted by Osiris's wife [[Isis]]:{{sfn|Gryglewski|2002|p=146}}
+
+[[File:Statue of the god Anubis.jpg|thumb|left|200px|Statue of [[Hermanubis]], a hybrid of Anubis and the Greek god [[Hermes]] ([[Vatican Museums]])]]
+{{quote|''For when Isis found out that Osiris loved her sister and had sexual relations with her in mistaking her sister for herself, and when she saw a proof of it in the form of a garland of clover that he had left to Nephthys - she was looking for a baby, because Nephthys abandoned it at once after it had been born for fear of Seth; and when Isis found the baby helped by the dogs which with great difficulties lead her there, she raised him and he became her guard and ally by the name of Anubis.''|author=}}
+
+George Hart sees this story as an "attempt to incorporate the independent deity Anubis into the [[Osiris myth|Osirian pantheon]]."{{sfn|Hart|1986|p=26}} An Egyptian papyrus from the [[Egypt (Roman province)|Roman period]] (30–380 AD) simply called Anubis the "son of Isis."{{sfn|Hart|1986|p=26}}
+
+In the [[Ptolemaic Egypt|Ptolemaic]] period (350–30 BC), when Egypt became a [[Hellenistic civilization|Hellenistic]] kingdom ruled by Greek pharaohs, Anubis was merged with the [[Greek mythology|Greek]] god [[Hermes]], becoming [[Hermanubis]].{{sfn|Peacock|2000|pp=437–38 (Hellenistic kingdom)}}<ref>{{cite web|url=http://www.babylon.com/definition/Hermanubis/English |title=Hermanubis &#124; English &#124; Dictionary & Translation by Babylon |publisher=Babylon.com |accessdate=15 June 2012}}</ref> The two gods were considered similar because they both [[psychopomp|guided souls]] to the afterlife.{{sfn|Riggs|2005|p=166}} The center of this [[Cult (religious practice)|cult]] was in ''uten-ha''/''Sa-ka''/ [[Cynopolis]], a place whose Greek name means "city of dogs." In Book XI of ''[[The Golden Ass]]'' by [[Apuleius]], there is evidence that the worship of this god was continued in [[Ancient Rome|Rome]] through at least the 2nd century. Indeed, Hermanubis also appears in the [[alchemy|alchemical]] and [[Hermeticism|hermetical]] literature of the [[Middle Ages]] and the [[Renaissance]].
+
+Although the Greeks and [[Ancient Romans|Romans]] typically scorned Egypt's animal-headed gods as bizarre and primitive (Anubis was mockingly called "Barker" by the Greeks), Anubis was sometimes associated with [[Sirius]] in the heavens and [[Cerberus]] and [[Hades]] in the underworld. {{sfn|Hoerber|1963|p=269 (for Cerberus and Hades)}} In his dialogues, [[Plato]] often has [[Socrates]] utter [[oath]]s "by the dog" (''kai me ton kuna''), "by the dog of Egypt", and "by the dog, the god of the Egyptians", both for emphasis and to appeal to Anubis as an arbiter of truth in the underworld.<ref>E.g., ''[[Gorgias (dialogue)|Gorgias]]'', 482b ({{harvnb|Blackwood|Crossett|Long|1962|p=318}}), or ''[[The Republic (Plato)|The Republic]]'', 399e, 567e, 592a ({{harvnb|Hoerber|1963|p=268}}).</ref>
+
+==Roles==
+
+===Protector of tombs===
+In contrast to real wolves, Anubis was a protector of [[grave]]s and [[cemeteries]]. Several epithets attached to his name in [[Ancient Egyptian literature|Egyptian texts and inscriptions]] referred to that role. ''Khenty-imentiu'', which means "foremost of the westerners" and later became the name of a [[Khenti-Amentiu|different wolf god]], alluded to his protecting function because the dead were usually buried on the west bank of the Nile.{{sfn|Hart|1986|p=23}} He took other names in connection with his funerary role, such as "He who is upon his mountain" (''tepy-dju-ef'') – keeping guard over tombs from above – and "Lord of the sacred land" (''neb-ta-djeser''), which designates him as a god of the desert [[necropolis]].{{sfnm|Hart|1986|1pp=23–24|Wilkinson|2003|2pp=188–90}}
+
+Most ancient tombs had prayers to Anubis carved on them.<ref>{{cite web|title=The Gods of Ancient Egypt – Anubis|url=http://www.touregypt.net/godsofegypt/anubis.htm|publisher=touregypt.net|accessdate=29 June 2014}}</ref>
+
+===Embalmer===
+As "He who is in the place of [[embalming]]" (''imy-ut''), Anubis was associated with [[mummification]]. He was also called "He who presides over the god's pavilion" (''khanty-she-netjer''), in which "pavilion" could be refer either to the place where embalming was carried out, or the pharaoh's burial chamber.{{sfnm|Hart|1986|1pp=23–24|Wilkinson|2003|2pp=188–90}}
+
+In the [[Osiris myth]], Anubis helped Isis to embalm Osiris.{{sfn|Freeman|1997|p=91}} Indeed, when the Osiris myth emerged, it was said that after Osiris had been killed by Set, Osiris's organs were given to Anubis as a gift. With this connection, Anubis became the patron god of embalmers; during the rites of mummification, illustrations from the ''[[Book of the Dead]]'' often show a wolf-mask-wearing priest supporting the upright mummy.
+
+===Guide of souls===
+By the [[Late Period of ancient Egypt|late pharaonic era]] (664–332 BC), Anubis was often depicted as guiding individuals across the threshold from the world of the living to the [[Ancient Egyptian religion#Afterlife|afterlife]].{{sfnm|Kinsley|1989|1p=178|Riggs|2005|2p=166 ("The motif of Anubis, or less frequently Hathor, leading the deceased to the afterlife was well-established in Egyptian art and thought by the end of the pharaonic era.")}} Though a similar role was sometimes performed by the cow-headed [[Hathor]], Anubis was more commonly chosen to fulfill that function.{{sfn|Riggs|2005|pp=127 and 166}} Greek writers from the [[Egypt (Roman province)|Roman period]] of Egyptian history designated that role as that of "[[psychopomp]]", a Greek term meaning "guide of souls" that they used to refer to their own god [[Hermes]], who also played that role in [[ancient Greek religion|Greek religion]].{{sfn|Riggs|2005|p=166}} [[Funerary art#Ancient Egypt and Nubia|Funerary art]] from that period represents Anubis guiding either men or women dressed in Greek clothes into the presence of Osiris, who by then had long replaced Anubis as ruler of the underworld.{{sfn|Riggs|2005|pp=127–28 and 166–67}}
+
+===Weighing of the heart===
+[[File:BD Hunefer cropped 1.jpg|thumb|The "weighing of the heart," from the book of the dead of [[Hunefer]]. Anubis is portrayed as both guiding the deceased forward and manipulating the scales, under the scrutiny of the ibis-headed [[Thoth]].]]
+One of the roles of Anubis was as the "Guardian of the Scales."{{sfn|Faulkner|Andrews|Wasserman|2008|p=[http://books.google.co.uk/books?id=La9K8fp-BcMC&pg=PA155&dq=anubis+scales#v=onepage&q=anubis%20scales&f=false 155]}} The critical scene depicting the weighing of the heart, in the ''[[Book of the Dead]]'',  shows Anubis performing a measurement that determined whether the person was worthy of entering the realm of the dead (the [[underworld]], known as ''[[Duat]]''). By weighing the heart of a deceased person against [[Ma'at]] (or "truth"), who was often represented as an ostrich feather, Anubis dictated the fate of souls. Souls heavier than a feather would be devoured by [[Ammit]], and souls lighter than a feather would ascend to a heavenly existence.<ref>{{cite web|title=Museum Explorer / Death in Ancient Egypt&nbsp;– Weighing the heart|publisher=[[British Museum]]|url=http://www.britishmuseum.org/explore/young_explorers/discover/museum_explorer/ancient_egypt/death/weighing_the_heart.aspx|accessdate=23 June 2014}}</ref><ref>{{cite web|url=http://www.britishmuseum.org/explore/highlights/highlight_objects/aes/p/book_of_the_dead_of_ani.aspx|title=Gods of Ancient Egypt: Anubis |publisher=Britishmuseum.org |accessdate=15 June 2012}}<!-- Bot generated title --></ref>
+
+==Portrayal in art==
+[[File:Tutanhkamun jackal.jpg|thumb|A crouching or "recumbent" [[Anubis Shrine|statue of Anubis]] as a black-coated wolf (from the [[KV62|Tomb of Tutankhamun]])]]
+Anubis was one of the most frequently represented gods in [[Art of ancient Egypt|ancient Egyptian art]].{{sfn|Johnston|2004|p=579}} In the [[Early Dynastic Period of Egypt|early dynastic period]], he was depicted in animal form, as a black wolf.{{sfn|Wilkinson|1999|p=263}} Anubis's distinctive black color did not represent the coat of real wolves, but it had several symbolic meanings.{{sfn|Hart|1986|p=22}} First it represented "the discolouration of the corpse after its treatment with [[natron]] and the smearing of the wrappings with a resinous substance during mummification".{{sfn|Hart|1986|p=22}} Being the color of the fertile [[silt]] of the [[Nile|River Nile]], to Egyptians black also symbolized fertility and the possibility of rebirth in the afterlife.{{sfnm|Hart|1986|1p=22|Freeman|1997|2p=91}}
+
+Later{{when|date=June 2014}} Anubis was often portrayed as a wolf-headed human.<ref name="Egyptianmyths.net">{{cite web|url=http://www.egyptianmyths.net/anubis.htm |title=Ancient Egypt: the Mythology&nbsp;– Anubis |publisher=Egyptianmyths.net |accessdate=15 June 2012}}</ref> An extremely rare depiction of him in [[anthropomorphism|fully human form]] was found in the tomb of [[Ramesses II]] in [[Abydos, Egypt|Abydos]].{{sfn|Hart|1986|p=22}}<ref name="AE.net">{{cite web|title=Gods and Religion in Ancient Egypt&nbsp;– Anubis|publisher=|url=http://www.ancient-egypt.org/religion/gods/anubis.html|accessdate=23 June 2012}}</ref>
+
+Anubis is often depicted wearing a ribbon and holding a ''nekhakha'' "[[crook and flail|flail]]" in the crook of his arm.<ref name="Egyptianmyths.net"/> Another of Anubis's attributes was the [[Imiut fetish]].{{sfn|Wilkinson|1999|p=281}}
+
+In funerary contexts, Anubis is shown either attending to a deceased person's mummy or sitting atop a tomb protecting it. [[New Kingdom of Egypt|New Kingdom]] tomb-seals also depict Anubis sitting atop the [[nine bows]] that symbolize his domination over the enemies of Egypt.{{sfn|Wilkinson|2003|pp=188–90}}
+
+==Gallery==
+<gallery class="center" widths="200px" heights="170px">
+File:RPM Ägypten 186.jpg|Anubis mask<br>([[Roemer- und Pelizaeus-Museum Hildesheim]])
+File:Anubis Mask from Harrogate - rotating animation - HARGM10686.gif|[[Cartonnage]] Anubis mask<br>([[Royal Pump Room, Harrogate]])
+File:Egyptian - A Worshipper Kneeling Before the God Anubis - Walters 54400 - Three Quarter View.jpg|A [[worshipper]] kneeling before Anubis<br>([[Walters Art Museum]])
+</gallery>
+
+==See also==
+* ''[[Anubias]]''
+* [[Anubis Shrine]]
+* [[African golden wolf]]
+* [[Egyptian mythology in popular culture]]
+* Other Egyptian deities with canine features: [[Khentyimentiu]], [[Sed festival|Sed]], [[Wepwawet]]
+{{Portal bar|Ancient Egypt|Death|Mythology|Religion}}
+
+==References==
+{{reflist|colwidth=30em}}
+
+==Bibliography==
+* {{citation|last1=Blackwood|first1=Russell|last2=Crossett|first2=John|last3=Long|first3=Herbert|year=1962|title=Gorgias 482b|journal=The Classical Journal|volume=57|issue=7|pages=318–19|url=http://www.jstor.org/stable/3295283|others={{subscription required|via=[[JSTOR]]}}|postscript=.}}
+* {{citation|last=Conder|first=Claude Reignier (trans.)|author-link=Claude Reignier Conder|year=1894|origyear=1893|title=The Tell Amarna Tablets|url=http://books.google.ca/books?id=OzIB5P77q8UC|location=London|publisher=Published for the Committee of the [[Palestine Exploration Fund]] by A.P. Watt|postscript=.|edition=Second}}
+* {{citation |last1=Coulter|first1=Charles Russell|last2=Turner|first2=Patricia|title=Encyclopedia of Ancient Deities |location=Jefferson (NC) and London|publisher= McFarland |year=2000 |ISBN= 0-7864-0317-9 |postscript=.}}
+* {{citation|last=Faulkner|first=Raymond O.|title=The Egyptian Book of the Dead: The Book of Going Forth by Day|year=2008|publisher=Chronicle Books|isbn=978-0-8118-6489-3|url=http://books.google.co.uk/books?id=La9K8fp-BcMC|first2=Carol|last2=Andrews |first3=James|last3=Wasserman|postscript=.}}
+* {{citation|last=Fischer|first=Henry George|year=1968|title=[[Dendera Temple complex|Dendera]] in the Third Millennium B. C., Down to the Theban Domination of Upper Egypt|location=London|publisher=J.J. Augustin|isbn=|url=|postscript=.}}
+* {{citation|last=Freeman|first=Charles|year=1997|title=The Legacy of Ancient Egypt|location=New York|publisher=Facts on File|isbn=0-816-03656-X|postscript=.}}
+* {{citation|last=Gryglewski|first=Ryszard W.|year=2002|title=Medical and Religious Aspects of Mummification in Ancient Egypt|url=http://yadda.icm.edu.pl/bazhum/element/bwmeta1.element.dl-catalog-fc7b5edc-78d2-450b-a88d-c42557950ea9/c/Organon-r2002-t31-s128-148.pdf|journal=Organon|volume=31|pages=128–48|postscript=.}}
+* {{citation|last=Hart|first=George|year=1986|title=A Dictionary of Egyptian Gods and Goddesses|location=London|publisher=Routledge & Kegan Paul|isbn=0-415-34495-6|url=http://www.questia.com/read/107525007/a-dictionary-of-egyptian-gods-and-goddesses|others={{subscription required|via=[[Questia]]}}|postscript=.}}
+* {{citation|last=Hoerber|first=Robert G.|year=1963|title=The Socratic Oath 'By the Dog'|journal=The Classical Journal|volume=58|issue=6|pages=268–69|url=http://www.jstor.org/stable/3293989|others={{subscription required|via=[[JSTOR]]}}|postscript=.}}
+* {{citation|last=Johnston|first=Sarah Iles (general ed.)|year=2004|title=Religions of the Ancient World: A Guide|location=Cambridge, MA|publisher=Belknap Press|url=http://www.questia.com/read/117774855/religions-of-the-ancient-world-a-guide|others={{subscription required|via=[[Questia]]}}|isbn=0-674-01517-7|postscript=.}}
+* {{citation|last=Kinsley|first=David|year=1989|title=The Goddesses' Mirror: Visions of the Divine from East and West|location=Albany (NY)|url=http://www.questia.com/read/102466428/the-goddesses-mirror-visions-of-the-divine-from|publisher=[[State University of New York]] Press|isbn=0-88706-835-9|others={{subscription required|via=[[Questia]]}}|postscript=. ISBN 0-88706-836-7 (paperback).}}
+* {{citation|last=Lapp|first=Günther|year=1986|title=Die Opferformel des Alten Reiches: unter Berücksichtigung einiger späterer Formen|trans-title=The offering formula of the Old Kingdom: considering a few later forms|location=Mainz am Rhein|url=http://books.google.com/books?id=e1crAAAAMAAJ|publisher=Zabern|isbn=3805308728|postscript=.}}
+* {{citation|last=Leprohon|first=Ronald J.|year=1990|title=The Offering Formula in the First Intermediate Period|journal=The Journal of Egyptian Archaeology|volume=76|issue=|pages=163–64|url=http://www.jstor.org/stable/3822017|others={{subscription required|via=[[JSTOR]]}}|postscript=.}}
+* {{citation|last=Peacock|first=David|year=2000|chapter=The Roman Period|editor-last=Shaw|editor-first=Ian (ed.)|editor-link=Ian Shaw (Egyptologist)|title= The Oxford History of Ancient Egypt| publisher= Oxford University Press|url=http://books.google.com/?id=092jP1lBhtoC&printsec=frontcover&dq=The+Oxford+History+of+Ancient+Egypt&cd=1#v=onepage&q|isbn=0-19-815034-2|postscript=.}}
+* {{citation|last=Riggs|first=Christina|year=2005|title=The Beautiful Burial in Roman Egypt: Art, Identity, and Funerary Religion|location=Oxford and New York|publisher=Oxford University Press|url=http://www.questia.com/read/120480192/the-beautiful-burial-in-roman-egypt-art-identity|others={{subscription required|via=[[Questia]]}}|isbn=978-0-19-927665-3|postscript=.}}
+* {{citation|last=Wilkinson|first=Richard H. |title=The Complete Gods and Goddesses of Ancient Egypt |publisher=Thames & Hudson |location=London |year=2003|isbn=0-500-05120-8|postscript=.}}
+* {{citation|last=Wilkinson|first=Toby A. H.|year=1999|title=Early Dynastic Egypt|location=London|publisher=Routledge|url=http://www.questia.com/read/102909662/early-dynastic-egypt|others={{subscription required|via=[[Questia]]}}|isbn=0-415-18633-1|postscript=.}}
+
+==Further reading==
+* {{cite book|last=Duquesne |first=Terence |title=The Jackal Divinities of Egypt I |year=2005 |publisher=Darengo Publications |isbn=1-871266-24-6 }}
+* {{cite book |author1-last=El-Sadeek |author1-first=Wafaa |author2-last=Abdel Razek |author2-first=Sabah  |title=Anubis, Upwawet, and Other Deities: Personal Worship and Official Religion in Ancient Egypt |year=2007 |publisher=American University in Cairo Press |isbn=9789774372315}}
+* {{cite book |last=Grenier |first=J.-C. |title=Anubis alexandrin et romain |language=French |year=1977 |publisher=E. J. Brill |isbn=9789004049178 }}
+
+==External links==
+*{{commonscat-inline}}
+*{{wiktionary-inline|Anubis}}
+{{Ancient Egyptian religion footer}}
+
+{{Authority control}}
+[[Category:Death gods]]
+[[Category:Underworld gods]]
+[[Category:Egyptian gods]]
+[[Category:Mythological canines]]
+[[Category:Wolves]]

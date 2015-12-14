@@ -1,0 +1,122 @@
+{{Use dmy dates|date=December 2014}}
+{{taxobox
+|name = Ericaceae
+|image = Leptecophylla juniperina 2.jpg
+|image_caption = ''[[Leptecophylla juniperina]]''
+|regnum = [[Plantae]]
+|unranked_divisio = [[Angiosperms]]
+|unranked_classis = [[Eudicots]]
+|unranked_ordo = [[Asterids]]
+|ordo = [[Ericales]]
+|familia = '''Ericaceae'''
+|familia_authority = [[Antoine Laurent de Jussieu|Juss.]]<ref name=APGIII2009/>
+|type_genus = ''[[Erica]]'' 
+|type_genus_authority = [[Carl Linnaeus|L.]]
+| diversity_link = List of Ericaceae genera
+| diversity = Over 120 genera
+|subdivision_ranks = Subfamilies
+|subdivision = 
+*[[Enkianthoideae]]
+*[[Pyroloideae]]
+*[[Monotropoideae]]
+*[[Arbutoideae]]
+*[[Cassiopoideae]]
+*[[Ericoideae]]
+*[[Harrimanelloideae]]
+*[[Styphelioideae]]
+*[[Vaccinioideae]]
+}}
+
+The '''Ericaceae''' are a [[Family (biology)|family]] of [[flowering plant]]s, commonly known as the '''heath''' or '''heather''' family, found most commonly in acid and infertile growing conditions. The family is large, with roughly 4000 species spread across 126 genera, making it the 14th-most-speciose family of flowering plants.<ref name=APweb/> The many well-known and economically important members of the Ericaceae include the [[cranberry]], [[blueberry]], [[huckleberry]], [[azalea]], [[rhododendron]], and various common heaths and heathers (''[[Erica]]'', ''[[Cassiope]]'', ''[[Daboecia]]'', and ''[[Calluna]]'' for example).<ref name=Kron02/>
+
+==Description==
+The Ericaceae contain a morphologically diverse range of taxa, including [[Herbaceous plant|herb]]s, [[chamaephyte|dwarf shrubs]], [[shrub]]s, and [[tree]]s.  Their leaves are usually alternate or whorled, simple and without [[stipule]]s. Their flowers are  [[Plant sexuality#Individual plant sexuality|hermaphrodite]] and show considerable variability.  The [[petal]]s are often fused ([[sympetalous]]) with shapes ranging from narrowly tubular to funnelform or widely bowl-shaped.  The [[corolla (flower)|corollas]] are usually [[radially symmetrical]] ([[actinomorphic]]), but many flowers of the genus ''Rhododendron'' are somewhat [[bilaterally symmetrical]] ([[zygomorphic]]).<ref name=Wats92/>
+
+== Taxonomy ==
+[[Adanson]] used the term Vaccinia to describe a similar family, but [[Antoine Laurent de Jussieu|Jussieu]] first used the term Ericaceae. The name comes from the type genus ''[[Erica]]'', which appears to be derived from the Greek word ''ereike''. The exact meaning is difficult to interpret, but some sources show it as meaning 'heather'. The name may have been used informally to refer to the plants before [[Linnaeus|Linnaean]] times, and simply been formalised when Linnaeus described ''Erica'' in 1753, and then again when Jussieu described the Ericaceae in 1789.<ref name=Juss89/>
+
+Historically, the Ericaceae included both subfamilies and tribes. In 1971, Stevens, who outlined the history from 1876 and in some instances 1839, recognised six subfamilies (Rhododendroideae, [[Ericoideae]], Vaccinioideae, Pyroloideae, Monotropoideae, and Wittsteinioideae), and further subdivided four of the subfamilies into tribes, the Rhododendroideae having seven tribes (Bejarieae, Rhodoreae, Cladothamneae, Epigaeae, Phyllodoceae, and Diplarcheae).{{sfnp|Stevens|1971}} Within tribe Rhodoreae, five genera were described, ''[[Rhododendron]]'' L. (including ''Azalea'' L. pro parte), ''Therorhodion'' Small, ''[[Ledum]]'' L., ''Tsusiophyllum'' Max., ''[[Menziesia]]'' J. E. Smith, that were eventually transferred into ''Rhododendron'', along with Diplarche from the monogeneric tribe Diplarcheae.<ref name=Crav11/>
+
+In 2002, systematic research resulted in the inclusion of the formerly recognised families Empetraceae, Epacridaceae, Monotropaceae, Prionotaceae, and Pyrolaceae into the Ericaceae based on a combination of molecular, morphological, anatomical, and embryological data, analysed within a [[phylogenetic]] framework.<ref name=KronJudd02/> The move significantly increased the morphological and geographical range found within the group. One possible classification of the resulting family includes 9 subfamilies, 126 genera, and about 4000 species:<ref name=APweb/>
+
+# [[Enkianthus|Enkianthoideae]] <small>Kron, Judd & Anderberg</small> (one genus, 16 species)
+# [[Pyroloideae]] <small>Kosteltsky</small> (4 genera, 40 species)
+# [[Monotropoideae]] <small>Arnott</small> (10 genera, 15 species)
+# [[Arbutoideae]] <small>Niedenzu</small> (up to six genera, about 80 species)
+# [[Cassiope|Cassiopoideae]] <small>Kron & Judd</small> (one genus, 12 species)
+# [[Ericoideae]] <small>Link</small> (19 genera, 1790 species)
+# [[Harrimanella hypnoides|Harrimanelloideae]] <small>Kron & Judd</small> (one genus, two species)
+# [[Styphelioideae]] <small>Sweet</small> (35 genera, 545 species)
+# [[Vaccinioideae]] <small>Arnott</small> (50 genera, 1580 species)
+
+=== Genera ===
+:See the full list at [[List of Ericaceae genera]].
+
+==Distribution and ecology==
+The Ericaceae have a nearly worldwide distribution. They are absent from continental [[Antarctica]], parts of the high [[Arctic]], central [[Greenland]], northern and central [[Australia]], and much of the lowland [[tropics]] and [[neotropics]].<ref name=APweb/>
+
+The family is largely composed of plants that can tolerate acidic, infertile conditions.  Like other stress-tolerant plants, many Ericaceae have mycorrhizal [[fungi]] to assist with extracting nutrients from infertile [[soil]]s, as well as evergreen foliage to conserve absorbed nutrients.<ref name=Kedd07/> This trait is not found in the [[Clethraceae]] and [[Cyrillaceae]], the two families most closely related to the Ericaceae. Most Ericaceae (excluding the Monotropoideae, and some Styphelioideae) form a distinctive accumulation of [[ericoid mycorrhiza|mycorrhizae]], in which fungi grow in and around the roots and provide the plant with nutrients.<ref name=Cair03/> The [[Pyroloideae]] are [[mixotrophic]] and gain sugars from the mycorrhizae, as well as nutrients.<ref name=Liu10/>
+
+In many parts of the world, a "[[heath]]" or "heathland" is an environment characterised by an open dwarf-[[shrub]] community found on low-quality acidic soils, generally dominated by plants in the Ericaceae. A common example is ''[[Erica tetralix]]''. This plant family is also typical of peat [[bog]]s and blanket bogs; examples include ''[[Rhododendron groenlandicum]]'' and ''[[Kalmia polifolia]]''. In eastern [[North America]], members of this family often grow in association with an [[oak]] canopy, in a habitat known as an [[oak-heath forest]].<ref name=ViGov/>
+
+Some evidence suggests eutrophic rainwater can convert ericoid heaths with species such as ''Erica tetralix'' to [[grassland]]s.<ref name=Kedd10/> [[Nitrogen]] is particularly suspect in this regard, and may be causing measurable changes to the distribution and abundance of some ericaceous species.
+
+== Use in alternative medicine ==
+Heather has been [[List of Bach flower remedies|listed]] as one of the 38 plants used to prepare [[Bach flower remedies]],<ref name=Vohra2004/> a kind of [[alternative medicine]] promoted for its effect on health. However, according to [[Cancer Research UK]], "there is no scientific evidence to prove that flower remedies can control, cure, or prevent any type of disease, including cancer".<ref name=CRUK/>
+
+==References==
+{{Reflist|2|refs=
+<ref name=APGIII2009>{{Cite journal |last=Angiosperm Phylogeny Group III |year=2009 |title=An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG III |journal=Botanical Journal of the Linnean Society |volume=161 |issue=2 |pages=105–121 |doi=10.1111/j.1095-8339.2009.00996.x }}</ref>
+
+<ref name=APweb>Stevens, P.F. (2001 onwards). "[http://www.mobot.org/MOBOT/research/APweb/orders/ericalesweb.htm#Ericaceae Ericaceae]". ''Angiosperm Phylogeny Website''. Retrieved 29 December 2014.</ref>
+
+<ref name=Cair03>{{Cite journal |doi=10.1046/j.1351-0754.2003.0555.x |last1=Cairney |first1=J.W.G. |last2=Meharg |first2=A.A. |year=2003 |title=Ericoid mycorrhiza: a partnership that exploits harsh edaphic conditions |journal=European Journal of Soil Science |volume=54 |issue=4 | pages=735–740 }}</ref>
+
+<ref name=Crav11>{{cite journal |last=Craven |first=L.A. |title=''Diplarche'' and ''Menziesia'' transferred to ''Rhododendron'' (''Ericaceae'') |journal=Blumea |volume=56 |issue=1 |date=April 2011 |pp=33–35 |doi=10.3767/000651911X568594 }}</ref>
+
+<ref name=CRUK>{{cite web |url=http://www.cancerresearchuk.org/cancer-help/about-cancer/treatment/complementary-alternative/therapies/flower-remedies |title=Flower remedies |publisher=[[Cancer Research UK]] |accessdate=September 2013}}</ref>
+
+<ref name=Juss89>{{cite book |last=Jussieu |first=A.-L. de |date=1789 |title=Genera plantarum ordines naturales disposita |pp=159–160 |publisher=Herissant & Barrois |publication-place=Paris }}</ref>
+
+<ref name=Kedd07>{{cite book |last=Keddy |first=P.A. |date=2007 |title=Plants and Vegetation: Origins, Processes, Consequences |publisher=Cambridge University Press }}</ref>
+
+<ref name=Kedd10>{{cite book |last=Keddy |first=P.A. |date=2010 |title=Wetland Ecology: Principles and Conservation ''(2nd edition)'' |publisher=Cambridge University Press |pp=103–104 }}</ref>
+
+<ref name=Kron02>{{cite journal  |title=Phylogenetic relationships within the blueberry tribe (Vaccinieae, Ericaceae) based on sequence data from MATK and nuclear ribosomal ITS regions, with comments on the placement of ''Satyria'' |first1=Kathleen A. |last1=Kron |first2=E. Ann |last2=Powell |first3=J.L. |last3=Luteyn |journal=American Journal of Botany |year=2002 |volume=89 |issue=2 |pages=327–336 |doi=10.3732/ajb.89.2.327| pmid = 21669741 |lastauthoramp=yes }}</ref>
+
+<ref name=KronJudd02>{{cite journal |title=Phylogenetic Classification of Ericaceae: Molecular and Morphological Evidence |last1=Kron |first1=K.A. |last2=Judd |first2=W.S. |last3=Stevens |first3=P.F. |last4=Crayn |first4=D.M. |last5=Anderberg |first5=A.A. |last6=Gadek |first6=P.A. |last7=Quinn |first7=C.J. |last8=Luteyn |first8=J.L. |journal=The Botanical Review |date=2002 |volume=68 |pages=335–423 |issue=3 |doi=10.1663/0006-8101(2002)068[0335:pcoema]2.0.co;2 |lastauthoramp=yes }}</ref>
+
+<ref name=Liu10>{{Cite journal |last1=Liu |first1=Z. |last2=Wang |first2=Z. |last3=Zhou |first3=J. |last4=Peng |first4=H. |title=Phylogeny of Pyroleae (Ericaceae): implications for character evolution |journal=Journal of plant research |volume=124 |issue=3 | pages=325–337 |year=2010 |pmid=20862511 | doi=10.1007/s10265-010-0376-8 |lastauthoramp=yes }}</ref>
+
+<ref name=ViGov>{{cite web |url=http://www.dcr.virginia.gov/natural_heritage/natural_communities/ncintro.shtml |title=The Natural Communities of Virginia Classification of Ecological Community Groups (Version 2.6) |publisher=Virginia Department of Conservation and Recreation |date=July 2013 |accessdate=30 December 2014 }}</ref>
+
+<ref name=Vohra2004>{{cite book |first=D.S. |last=Vohra |title=Bach Flower Remedies: A Comprehensive Study |url=http://books.google.com/books?id=icG8onA0ys8C&pg=PR3 |accessdate=2 September 2013 |date=1 June 2004 |publisher=B. Jain |isbn=978-81-7021-271-3 |page=3}}</ref>
+
+<ref name=Wats92>{{cite web |last1=Watson |first1=L. |last2=Dallwitz |first2=M.J. |date=19 August 2014 |title=Ericaceae Juss. |work=The families of flowering plants: descriptions, illustrations, identification, and information retrieval |url=http://delta-intkey.com/angio/www/ericacea.htm |accessdate=30 December 2014 |lastauthoramp=yes}}</ref>
+}}
+
+== Bibliography ==
+* {{cite journal |last=Stevens |first=P.F. |title=A classification of the Ericaceae: subfamilies and tribes |journal=Botanical Journal of the Linnean Society |volume=64 |issue=1 |pp=1–53 |date=1971 |doi=10.1111/j.1095-8339.1971.tb02133.x |ref=harv}}
+* {{cite journal  |first1=Steve |last1=Cafferty |first2=Charles E. |last2=Jarvis |title=Typification of Linnaean Plant Names in Ericaceae |journal=Taxon |volume=51 |issue=4 |date=November 2002 |pp=751–753 |jstor=10.2307/1555030 |lastauthoramp=yes }}
+* {{cite book |last1=Stevens |first1=P.F. |last2=Luteyn |first2=J. |last3=Oliver |first3=E.G.H. |last4=Bell |first4=T.L. |last5=Brown |first5=E.A. |last6=Crowden |first6=R.K. |last7=George |first7=A.S. |last8=Jordan |first8=G.J. |last9=Ladd |first9=P. |last10=Lemson |first10=K. |last11=McLean |first11=C.B. |last12=Menadue |first12=Y. |last13=Pate |first13=J.S. |last14=Stace |first14=H.M. |last15=Weiller |first15=C.M. |year=2004 |chapter=Ericaceae |editor-last=Kubitzki |editor-first=K. |title=The families and genera of vascular plants, Vol. 6 |pp=145–194 |publisher=Springer |publication-place=Berlin & Heidelberg |lastauthoramp=yes}}
+
+==External links==
+{{Commons category|Ericaceae}}
+{{Wikispecies}}
+* [http://www.theplantlist.org/browse/A/Ericaceae/ Ericaceae] at [http://www.theplantlist.org ''The Plant List'']
+* [http://delta-intkey.com/angio/www/ericacea.htm Ericaceae], [http://delta-intkey.com/angio/www/epacrida.htm Epacridaceae], [http://delta-intkey.com/angio/www/empetrac.htm Empetraceae], [http://delta-intkey.com/angio/www/monotrop.htm Monotropaceae], and [http://delta-intkey.com/angio/www/pyrolace.htm Pyrolaceae] at [http://delta-intkey.com/angio/ ''The Families of Flowering Plants (DELTA)'']
+* [http://eol.org/pages/4269/overview Ericaceae] at the [http://eol.org/ ''Encyclopedia of Life'']
+* [http://www.mobot.org/mobot/research/APweb/orders/ericalesweb.htm#Ericaceae Ericaceae] at the [http://www.mobot.org/mobot/research/APweb/ ''Angiosperm Phylogeny Website'']
+* [http://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=10316 Ericaceae] at the online [http://www.efloras.org/flora_page.aspx?flora_id=1 ''Flora of North America'']
+* [http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=10316 Ericaceae] at the online [http://www.efloras.org/flora_page.aspx?flora_id=2 ''Flora of China'']
+* [http://www.efloras.org/florataxon.aspx?flora_id=5&taxon_id=10316 Ericaceae] at the online [http://www.efloras.org/flora_page.aspx?flora_id=5 ''Flora of Pakistan'']
+* [http://www.efloras.org/florataxon.aspx?flora_id=60&taxon_id=10316 Ericaceae] at the online [http://www.efloras.org/flora_page.aspx?flora_id=60 ''Flora of Chile'']
+* [http://floraseries.landcareresearch.co.nz/pages/Taxon.aspx?id=_16c46185-ad3b-4db4-86b3-fd283d59f582&fileName=Flora%201.xml Epacridaceae] at the online [http://floraseries.landcareresearch.co.nz/pages/index.aspx ''Flora of New Zealand'']
+* [http://florabase.dec.wa.gov.au/browse/profile.php/22885 Epacridaceae] at the online [http://florabase.dec.wa.gov.au/ ''Flora of Western Australia'']
+* [http://www.ericaceae.org/homepage.html Ericaceae] at [http://www.ericaceae.org/ ''Ericaceae.org'']
+* {{AustTRFPK6.1 | url= http://keys.trin.org.au:8080/key-server/data/0e0f0504-0103-430d-8004-060d07080d04/media/Html/taxon/Ericaceae.htm | name= Ericaceae | pgtype= f | accessdate= 14 May 2013 }}
+* [http://www.nybg.org/bsci/res/lut2 Neotropical Blueberries] at the [http://www.nybg.org/ ''New York Botanical Garden'']
+
+
+[[Category:Ericales families]]
+[[Category:Ericaceae|*]]

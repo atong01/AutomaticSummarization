@@ -1,0 +1,71 @@
+{{Infobox ancient site
+| name           = Abydos
+| native_name    = Ἄβῡδος
+| alternate_name = 
+| image          = Thracian chersonese.png
+| alt   = 
+| caption        = Abydos and the [[Hellespont]]
+| map_type       = Turkey
+| map_alt        = 
+| map_size       = 275
+| relief         = 
+| latd           = 40
+| latm           = 11
+| lats           = 43
+| latNS          = N
+| longd          = 26
+| longm          = 24
+| longs          = 18
+| longEW         = E
+| coordinates_display = inline, title
+| location       = [[Çanakkale]], [[Çanakkale Province]], [[Turkey]]
+| region         = [[Troad]]
+| type           = Settlement
+| part_of        = 
+| length         = 
+| width          = 
+| area           = 
+| height         = 
+| builder        = 
+| material       = 
+| built          = 
+| abandoned      = 
+| epochs         = <!-- actually displays as "Periods" -->
+| cultures       = 
+| dependency_of  = 
+| occupants      = 
+| event          = 
+| excavations    = 
+| archaeologists = 
+| condition      = 
+| ownership      = 
+| management     = 
+| public_access  = 
+| website        = <!-- {{URL|example.com}} -->
+| notes          = 
+}}
+[[File:Etty Parting 1827.jpg|thumb|[[Hero and Leander]]]]
+'''Abydos''' ({{lang-grc|Ἄβῡδος}}) or '''Abydus''', an ancient city of [[Troad]] (Troas), in [[Asia Minor]], situated at Nara Burnu or [[Nagara Point]] on the best harbor on the Asiatic shore of the [[Hellespont]]. Across Abydos lies [[Sestus]] on the European side, marking one of the narrowest points of the [[Dardanelles]], slightly more than a nautical mile broad (the narrowest point is at [[Çanakkale]]). The strategic site has been a prohibited zone in the 20th century. [[Hero and Leander]]'s story took place near Abydos.
+
+Abydos was first mentioned in the catalogue of Trojan allies.<ref>''[[Iliad]]'' ii.836</ref> It probably was  a [[Thracians|Thracian]] town, as [[Strabo]] has it, but was afterwards colonized by [[Miletus|Milesians]], with the consent of [[Gyges of Lydia|Gyges, king of Lydia]], around 700 BC. It was occupied by the Persians in 514 BC, and [[Darius the Great|Darius]] burnt it in 512 BC. Here [[Xerxes I|Xerxes]] built two [[pontoon bridge]]s later known as [[Xerxes' Pontoon Bridges]] and crossed the strait in 480 BC when he [[Greco-Persian Wars|invaded Greece]].<ref>[[Herodotus]].  ''[[Histories (Herodotus)|Histories]]'', 7.34.</ref>
+
+Abydos is celebrated for the vigorous resistance it made against [[Philip V of Macedon]] in 200 BC.<ref>[[Polybius]].  ''[[The Histories (Polybius)|The Histories]]'', [http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/16*.html 16.29-34]</ref> It is famous in myth as the home of [[Hero and Leander|Leander]].  In literature, it is memorable from [[Byron]] having adopted its name in ''[[The Bride of Abydos]]''.<ref>{{Cite Collier's|wstitle=Abydos}}</ref> It minted coins from the early 5th century BC to the mid-3rd century AD.
+
+The town remained until late Byzantine times an important toll and customs station of the Hellespont, its importance thereafter being transferred to the [[Dardanelles]], after the building of the "Old Castles" by Sultan [[Mehmet II]] (c. 1456).
+
+== Bishopric ==
+
+The [[bishopric]] of Abydus in the [[Roman province]] of [[Hellespontus]] appears in all the ''[[Notitiae Episcopatuum]]'' from the mid-7th century until the time of [[Andronicus III]] (1341), first as a [[suffragan]] of [[Cyzicus]] and then from 1084 as a [[metropolitan see]] without suffragans. The earliest bishop mentioned in extant documents is Marcianus, who signed the joint letter of the bishops of Hellespontus to [[Byzantine Emperor]] [[Leo I the Thracian]] in 458 protesting about the murder of [[Proterius of Alexandria]]. A letter of [[Peter the Fuller]] (471–488) mentions a bishop of Abydus called Pamphilus. Ammonius signed the decretal letter of the Council of Constantinople in 518 against [[Severus of Antioch]] and others. Isidorus was at the [[Third Council of Constantinople]] (680–681), Ioannes at the [[Trullan Council]] (692), Theodorus at the [[Second Council of Nicaea]] (787). An unnamed bishop of Abydus was a counsellor of Emperor [[Nicephorus II]] in 969.<ref>Michel Lequien, [http://books.google.com/books?id=0agp0mJFG_sC&printsec=frontcover#v=onepage&q&f=false ''Oriens christianus in quatuor Patriarchatus digestus''], Paris 1740, Vol. I, coll. 773-776</ref><ref>Sophrone Pétridès, v. ''Abydus'',  in [http://gallica.bnf.fr/ark:/12148/bpt6k6562709t/f125.image ''Dictionnaire d'Histoire et de Géographie ecclésiastiques''], vol. I, Paris 1909, coll. 209-210</ref> No longer a residential bishopric, Abydus is today listed by the [[Catholic Church]] as a [[titular see]].<ref>''Annuario Pontificio 2013'' (Libreria Editrice Vaticana 2013 ISBN 978-88-209-9070-1), p. 821</ref>
+
+==Notes==
+{{reflist|colwidth=30em}}
+
+==References==
+*[http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0006%3Aentry%3Dabydos Richard Stillwell, ed. ''Princeton Encyclopedia of Classical Sites'', 1976:] "Abydos, (Nağara Point) Turkey"
+
+;Attribution
+*{{EB1911|wstitle=Abydos (Mysia)}}
+
+[[Category:Ionian colonies in Thrace]]
+[[Category:Milesian colonies]]
+[[Category:Cities in ancient Troad]]

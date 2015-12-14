@@ -1,0 +1,791 @@
+{{Use dmy dates|date=October 2015}}
+{{Infobox national military
+| country          = Arab Republic of Egypt
+| native_name      = القوات المسلحة المصرية
+| native_name_lang = ar
+| name             = Egyptian Armed Forces
+| motto            = Victory or Martyrdom
+| image            = [[File:Egyptian Soldiers carrying flags Navy and Ground forces and Air Force and air defense.jpg|320px]]
+| caption          = Egyptian soldiers carrying flags of the main branches of the armed forces
+| founded          = 3200 BC was established in the era of [[Pharaoh|King]] [[Menes]]<br>Founded in 1820 in the era of [[Muhammad Ali Pasha]]
+| battles          = {{unbulleted list
+ | [[Second World War]]
+ | [[1948 Arab-Israeli War]]
+ | [[Suez Crisis]]
+ | [[North Yemen civil war]]
+ | [[Six Day War]]
+ | [[War of Attrition]]
+ | [[October war]]
+ | [[Egyptian Airstrikes on Libya]]
+ | [[Egyptian raid on Larnaca International Airport]]
+ | [[Gulf War]]
+
+ }}
+| current_form     = Founded in 1967 the current model in the era of leader [[Gamal Abdel Nasser]]
+<!-- . -->
+<!-- PLEASE DO NOT CHANGE THE ORDER OF PRECEDENCE HERE OR ELSEWHERE IN THE ARTICLE. Please read the talk page as to why -->
+<!-- . -->
+| branches         = {{unbulleted list
+ | {{nowrap|[[File:Flag of the Army of Egypt.svg|25px]] [[Egyptian Army]]}}
+ | {{nowrap|[[File:Eafflag.svg|25px]] [[Egyptian Air Force]]}}
+ | {{nowrap|[[File:Naval Flag of Egypt.svg|25px]] [[Egyptian Navy]]}}
+ | {{nowrap|[[File:Egypt Air Defense Flag.png|25px]] [[Egyptian Air Defense Forces]]}}
+ }}
+| headquarters     = [[Koubri el-Quba]], [[Cairo]], Egypt
+<!-- Leadership -->
+| commander-in-chief = President [[Abdel Fattah el-Sisi]]
+| commander-in-chief_title = Supreme Commander
+| minister         = [[Egyptian Army ranks|Col. Gen.]] [[Sedki Sobhi]]
+| minister_title   = [[List of Ministers of Defence of Egypt|Commander-in-Chief and Minister of Defence]]
+| commander        = [[Egyptian Army ranks|Lt. Gen.]] [[Mahmoud Hegazy]]
+| commander_title  = [[List of Chiefs of the General Staff of Egypt|Chief of Staff]]
+<!-- Manpower -->
+| age              = 18–49 years old
+| conscription     = 1–3 years
+| manpower_data    =
+| manpower_age     = 18–49
+| available        = 41,157,220
+| available_f      =
+| fit              = 35,305,381
+| fit_f            =
+| reaching         = 1,532,052
+| reaching_f       =
+| active           = ~500,000
+| ranked           = 10–11th
+| reserve          = <1,000,000
+| paramilitary     =
+<!-- Financial -->
+ |amount           = [[Egyptian Pound|E£]]56.1&nbsp;billion (~US$7.85&nbsp;billion)<ref>{{cite web |url=http://www.janes.com/articles/Janes-Sentinel-Security-Assessment-North-Africa/Defence-budget-Egypt.html |title=http://www.tradingeconomics.com/egypt/military-expenditure-current-lcu-wb-data.html}}</ref>
+
+<!-- Industrial -->
+|imports=
+|exports=
+|history= {{ubl
+ | [[Battle of Pelusium (525 BC)|Battle of Pelusium]] (525 BC)
+ | [[Battle of Carchemish]] (605 BC)
+ | [[Battle of Hamath]] (605 BC)
+ | [[Battle of Megiddo (609 BC)|Battle of Megiddo]] (609 BC)
+ | [[Fall of Ashdod]] (635 BC)
+ | [[Battle of Qarqar]] (853 BC)
+ | [[Battle of Bitter Lakes]] (925 BC)
+ | [[Battle of Bitter Lakes]] (925 BC)
+ | [[Battle of Kadesh]] (1274 BC)
+ | [[Ramesses III#Tenure of constant war|Egyptian-Sea People wars]] (1,175 BC)
+ | [[Battle of the Delta]] (1175 BC)
+ | [[Battle of Djahy]] (1,178 BC)
+ | [[Battle of Al Mansurah]] (8–11 February 1250)
+ | [[French campaign in Egypt and Syria]] (1798–1801)
+ | [[Mahdist War]] (1881–1899)
+ | [[Greek War of Independence]] (1821–1832)
+ | [[Egyptian–Ottoman War (1831–1833)|First Egyptian-Ottoman War]] (1831–1833)
+ | [[Egyptian–Ottoman War (1839–1841)|Second Egyptian-Ottoman War]](1839–1841)
+ | [[Ethiopian–Egyptian War]] (1875–1876)
+ | [['Urabi Revolt]] (1879–1882)
+ | [[Anglo-Egyptian War]] (1882)
+ | [[World War I]] (1914–1918)
+ | [[World War II]] (1939–1945)
+ | [[1948 Arab–Israeli War]] (1948–1949)
+ | [[Suez Crisis]] (1956)
+ | [[North Yemen Civil War]] (1962–1970)
+ | [[Six-Day War]] ( 5–10 June 1967)
+ | [[Nigerian Civil War]] (1967–1970)
+ | [[War of Attrition]] (1967–1970)
+ | [[Yom Kippur War]] (1973–1974)
+ | [[1977 Egyptian bread riots|Egyptian bread riots]] (18–19 January 1977)
+ | [[Libyan–Egyptian War]] ( 21–24 July 1977)
+ | [[Gulf War]] (1990–1991)
+ | [[Egyptian Crisis (2011–present)|Egyptian Crisis]] (2011–14)
+ | [[Sinai insurgency]] (2011 – present)
+ | [[Second Libyan Civil War]] (2014 – present)
+ |[[Military intervention against ISIL]] (16 February 2015 – present)
+ | [[2015 Egyptian military intervention in Libya|Intervention in Libya]] (16 February 2015 – present)
+ | [[Saudi-led intervention in Yemen (2015–present)|Intervention in Yemen]] (25 March 2015 – present)
+ | [[List of conflicts in Egypt|Other]]
+ }}
+| foreign_suppliers = {{List collapsed|title=''See list''|{{unbulleted list
+ | {{flagu|United States}}
+ | {{flagu|Russia}}
+ | {{flagu|France}}
+ | {{flagu|China}}
+ | {{flagu|Germany}}
+ | {{flagu|North Korea}}
+ | {{flagu|South Korea}}
+ | {{flagu|Finland}}
+ | {{flagu|Italy}}
+ | {{flagu|United Kingdom}}
+ | {{flagu|Ukraine}}
+ | {{flagu|Spain}}
+ | {{flagu|Switzerland}}
+ | {{flagu|Czech Republic}}
+ | ''Former:'' {{USSR}}
+ }}}}
+| domestic_suppliers = {{unbulleted list
+ | [[File:Aoi logo.jpg|22px|border]] [[Arab Organization for Industrialization|AOI]]
+ | [[File:Coat of arms of Egypt (Official).svg|22px|border]] [[Ministry of Military Production (Egypt)|MMP]]
+ | Eagles International
+ }}
+| ranks        = {{unbulleted list
+ | {{nowrap|[[Egyptian Army ranks|Army officers]]}}
+ | {{nowrap|[[Egyptian Air Force ranks|Air force officers]]}}
+ | {{nowrap|[[Egyptian Navy ranks|Navy officers]]}}
+ }}
+}}
+
+The '''Egyptian Armed Forces''' ('''EAAF''') ({{lang-ar|القوات المسلحة المصرية}}; {{IPA-ar|el qouwat el mosalaha el masriya}}) are the [[military forces]] of Egypt and are the largest in Africa and the Middle East, and also one of the largest in the world. They consist of the [[Egyptian Army|Army]], [[Egyptian Navy|Navy]], [[Egyptian Air Force|Air Force]] and [[Egyptian Air Defense Command|Air Defense Command]].
+
+The supreme commander of the armed forces is the [[President of Egypt|President of the Republic]] as provided for in the [[History of the Egyptian Constitution|Egyptian constitution]]. The [[Supreme Council of the Armed Forces]] consists of 20 to 25 members, headed by the [[List of Ministers of Defence of Egypt|Commander-in-Chief and Defence Minister]] and his deputy, the [[List of Chiefs of the General Staff of Egypt|Chief of Staff]] of the Armed Forces. Members of the council are formed of the leaders of the main military branches ([[Egyptian Air Force|Air]] – [[Egyptian Navy|Navy]] – [[Egyptian Air Defense Forces|Air Defense]] – [[Border guard#Egypt|Border Guard]]) and the leaders of the two armies ([[Second Army (Egypt)|Second Army]] And [[Third Army (Egypt)|Third Army]]) in addition to the leaders of the military regions ([[Western Military Region (Egypt)|Western Military Zone]] – [[Northern Military Region (Egypt)|Northern Military Zone]] – [[Southern region military (Egypt)|Southern Military Zone]] – [[Central military region (Egypt)|Central Military Zone]]) along with the heads of the upper bodies (Chief of Operations – Reinforcement – Logistics – Engineering – Training – Finance – Military Justice – Management and Administration), administrative managers (Military Intelligence and Director of Morale Affairs) and the Assistant Defense Secretary for Constitutional and Legal Affairs and Secretary General of the Department of Defense (Secretary of the Council).
+
+The Egyptian army is one of the oldest armies in history, the first of its wars began to unite Egypt at the hands of [[Pharaoh|King]] [[Menes]] in 3200 BC,<ref>{{cite web|url=http://www.au.af.mil/au/awc/awcgate/gabrmetz/gabr0005.htm| title=The Armies of the Pharaohs, 3200–1300 BC|date=|publisher=[[Air University (United States Air Force)|The Air University]] |accessdate=2015-05-03}}</ref> and have fought major wars and battles over the centuries, from the [[Pharaonic]] era and through [[Ptolemaic Kingdom|Ptolemaic]] and [[Egypt (Roman province)|Romania]], [[Egypt in the Middle Ages|Islamic]] and even [[History of modern Egypt|modern era]]. The Egyptian army have fought [[List of conflicts in Egypt|battles and wars in many parts of the world]], mostly defensive, with the most notable being: the [[Hyksos|Hyksos War]], [[Battle of Ain Jalut]], [[Battle of Al Mansurah]], [[Battle of Nezib]], [[Battle of Megiddo (15th century BC)|Battle of Megiddo]], [[Battle of Carchemish]], [[Battle of Hattin]], [[Ottoman–Wahhabi War|Egyptian–Saudi War]], [[Anglo-Egyptian War]], [[Battle of Tel el-Kebir]], [[Greek War of Independence]], [[Egyptian–Ottoman War (1831–33)|Egyptian–Ottoman War]], [[Middle Eastern theatre of World War I|World War I]], [[Military history of Egypt during World War II|World War II]], [[1948 Arab-Israeli War]], [[Egyptian Revolution of 1952]], [[Suez Crisis|Tripartite Aggression]], [[North Yemen Civil War]], [[Six Day War]], [[Nigerian Civil War]], [[War of Attrition]], [[Yom Kippur War|October War]], [[Shaba I]], [[Libyan–Egyptian War]], [[Gulf War]], [[Egyptian Crisis (2011–present)|Egyptian Crisis]], and the [[Sinai insurgency]].
+
+[[Equipment of the modern Egyptian Army|Military equipment]] varies in the Egyptian army between eastern and western armament, coming from several countries through mutual military cooperation, including the United States, Russia, France, Italy, Ukraine, China, as well as locally from the [[Arab Organization for Industrialization|AOI]] and [[Ministry of Military Production (Egypt)|MMP]].
+
+The power of the Egyptian Armed Forces since the [[Arab Spring]] has caused it to be called a "[[state within a state]]".<ref>{{Cite news|url=http://www.haaretz.com/news/middle-east/1.560795|title=Egypt's new constitution strengthens army's 'state within a state' status|publisher=Haaretz|date=28 November 2013|accessdate=2 December 2014|author=Reuters}}</ref><ref>{{Cite news|url=http://www.huffingtonpost.com/barry-lando/egypt-coup_b_3545469.html|title=Egypt's Military State Within a State|author=Barry Lando|publisher=''The Huffington Post''|quote=That turbulence was threatening not just the survival of Egypt, but, more to the point, it was menacing the vast state within a state that Egypt's military presides over.|date=4 July 2013|accessdate=2 December 2014}}</ref>
+
+==Overview==
+The Headquarters of the Egyptian Armed Forces are in Koubri el-Quba, Cairo. The [[List of Ministers of Defence of Egypt|Commander-in-Chief of the Armed Forces]], the senior uniformed officer, is currently [[Egyptian Army ranks|Colonel General]] [[Sedki Sobhi]] and the [[List of Chiefs of the General Staff of Egypt|Chief of Staff]] is currently [[Egyptian Army ranks|Lieutenant General]] [[Mahmoud Hegazy]]. The [[Ministry of Defence (Egypt)|Ministry of Defense]] is responsible for managing the affairs of the Egyptian Armed Forces and maintaining its facilities.
+
+The Armed Forces' inventory includes equipment from different countries around the world. Equipment from the former [[Soviet Union]] is being progressively replaced by more modern US, French, and British equipment, a significant portion of which is built under license in Egypt, such as the [[M1 Abrams]] [[tank]].
+Egypt remains a strong military and strategic partner and is a participant in NATO's [[Mediterranean Dialogue]] forum. The Egyptian military is one of the strongest in the region,<ref>{{cite web|url=http://www.britannica.com/EBchecked/topic/180382/Egypt#tab=active~checked%2Citems~checked |title=Egypt |date=|publisher=[[Encyclopædia Britannica]] |accessdate=2009-03-31}}</ref> and gives Egypt regional military supremacy rivaled only by Israel,<ref>{{cite web|url=http://www.acpr.org.il/NATIV/2000-6/2000-6-shawnpinexs.htm |title=The Egyptian Threat and the Prospects for War in the Middle East |date=November 2006|publisher=NATIV |accessdate=2009-03-31}}</ref> besides being one of the strongest in Africa.<ref>{{cite book|url=http://books.google.com/?id=VkOT4E8-Z_IC&pg=PA299&lpg=PA299&dq=strongest+military+Africa+Egypt#PPA299,M1 |title=Global Diversity: Winning Customers and Engaging Employees Within World Markets|year=2006|publisher=Intercultural Press|accessdate=2009-03-31|isbn=9781904838098}}</ref> Egypt is one of the few countries in the Middle East, and the only Arab state, with a [[reconnaissance satellite]] and has launched another one in 2014.<ref>{{cite web|url=http://fr.jpost.com/servlet/Satellite?cid=1167467733037&pagename=JPost/JPArticle/ShowFull |title=Egypt to launch first spy satellite|date=|publisher=[[The Jerusalem Post]]|accessdate=2009-03-31}}</ref>
+
+However the Egyptian armed forces were not in such a good state in the mid 1950s. Just before the [[Suez Crisis]], political allegiance rather than military competence was the main criterion for promotion.<ref name="Varble, Derek, p. 19">Varble, Derek (2003) p. 19.</ref> The Egyptian commander, Field Marshal [[Abdel Hakim Amer]], was a purely political appointee who owed his position to his close friendship with Nasser. A heavy drinker, he would prove himself grossly incompetent as a general during the Crisis.<ref name="Varble, Derek, p. 19"/> In 1956, the armed forces was well equipped with weapons from the Soviet Union such as [[T-34]] and [[IS tank family#IS-3|IS-3]] tanks, [[MiG-15]] fighters, [[Ilyushin Il-28]] bombers, [[SU-100]] self-propelled guns and assault rifles.<ref name="Varble, Derek, p. 19"/> Rigid lines between officers and men in the Egyptian Army led to a mutual "mistrust and contempt" between officers and the men who served under them.<ref name="Varble, Derek, p. 20">Varble, Derek (2003) p. 20.</ref> Egyptian troops were excellent in defensive operations, but had little capacity for offensive operations, owing to the lack of "rapport and effective small-unit leadership".<ref name="Varble, Derek, p. 20"/>
+
+In January 2011, a delegation led by the chief of staff of Egypt's armed forces, Lt. Gen. [[Sami Hafez Enan]], was in Washington, D.C., although the visit was truncated due to the [[Egyptian Revolution of 2011|protests]]. The sessions, an annual country-to-country military coordination, were being led for the U.S. by Assistant Secretary of Defense for International Security Affairs [[Alexander Vershbow]]. A meeting with Adm. [[Mike Mullen]], chairman of the U.S. [[Joint Chiefs of Staff]], and other talks had been planned to extend to 2 February. However, in light of events in Egypt, the delegation left Washington to return home.<ref>[[Elisabeth Bumiller|Bumiller, Elisabeth]] (28 January 2011). [http://www.nytimes.com/2011/01/29/world/middleeast/29military-egypt.html?hp "Egyptian Military Chiefs Cut Pentagon Visit Short"]. ''[[The New York Times]]''. Retrieved 28 January 2011.</ref> Before their Friday night departure, Vershbow urged the two dozen Egyptian military representatives "to exercise 'restraint'".<ref>Bumiller, Elisabeth; Mark Landler contributed reporting, [http://www.nytimes.com/2011/01/30/world/middleeast/30military.html "Calling for Restraint, Pentagon Faces Test of Influence With Ally"]. ''[[The New York Times]]''. 29 January 2011 (30 January 2011, p. A1, New York edition). Retrieved 30 January 2011.</ref>
+
+The [[Supreme Council of the Armed Forces]] was convened during the course of the [[Egyptian Revolution of 2011]], and assumed power when Mubarak resigned on 11 February 2011.<ref>{{cite news| url=http://www.washingtontimes.com/news/2011/feb/11/crowds-rejoice-egypts-mubarak-steps-down/ |author=Murdock, Heather |title=Crowds rejoice as Egypt's Mubarak steps down, hands power to military| publisher=[[The Washington Times]]| date=11 February 2011| accessdate=11 February 2011}}</ref>
+
+On Sunday 12 August 2012, newly elected President [[Mohamed Morsi]] announced a series of military appointments. [[Hussein Tantawi]], the Minister of Defence and Commander-in-Chief of the Armed Forces was retired.<ref>http://english.ahram.org.eg/NewsContent/1/64/50239/Egypt/Politics-/Morsi-retires-Egypts-top-army-leaders;-amends--Con.aspx</ref> Morsi also retired [[Sami Anan]], the Army's Chief of Staff. Morsi awarded both men state medals and appointed them as advisors to the president. Thirdly, the president appointed the head of military intelligence, [[Abdul Fatah al-Sisi]], as Minister of Defence to replace Tantawi. [[Sedki Sobhi]], the commander of the Third Army, was appointed as Chief of Staff of the Armed Forces. Morsi also retired the Commander of the Navy, Mohab Memish, and appointed him as head of the Suez Canal Authority.
+
+On 3 July 2013 in response to millions of Egyptians demands demonstrating in streets all over Egypt since 30 June 2013,<ref>{{cite web|title=Mohamed Morsi ousted in Egypt's second revolution in two years|url=http://www.theguardian.com/world/2013/jul/03/mohamed-morsi-egypt-second-revolution|publisher=The Guardian|accessdate=3 July 2013|date=3 July 2013}}</ref><ref>{{cite web|title=Mohamed Morsi ousted in Egypt's second revolution in two years|url=http://www.theatlantic.com/international/archive/2013/06/seeking-new-leadership-millions-of-egyptians-take-to-the-streets/277419/|publisher=The Atlantic|accessdate=30 June 2013|date=30 June 2013}}</ref><ref>{{cite web|title=Anti-Mursi 'Rebel' campaign receives more than 22 million signatures|url=http://english.alarabiya.net/en/News/middle-east/2013/06/29/-Rebel-campaign-receives-more-than-22-million-signatures-in-anti-Mursi-petition.html|publisher=Al Arabiya|accessdate=29 June 2013|date=29 June 2013}}</ref><ref name="Reuters">{{cite web|title=Millions flood Egypt's streets to demand Mursi quit|url=http://www.reuters.com/article/2013/06/30/us-egypt-protests-idUSBRE95Q0NO20130630|publisher=Reuters|accessdate=30 June 2013|date=30 June 2013}}</ref><ref name="Reuters"/><ref>{{cite web|title=Egypt protests: President Morsi removed by army, reportedly put under house arrest|url=http://www.thestar.com/news/world/2013/07/03/egypt_protests_mohammed_morsi_banned_from_travel_military_coup_underway_advisor_says.html|publisher=The Associated Press and Reuters=3 July 2013|date=3 July 2013}}</ref> the head of the Egyptian Armed Forces, then-Colonel General [[Abdel Fattah el-Sisi]], [[2013 Egyptian coup d'état|announced the removal]] of President Mohamed Morsi from power, the suspension of the [[Egyptian Constitution of 2012|constitution]], and new presidential and House of Representatives elections. The severe crackdown on the [[Muslim Brotherhood in Egypt|Muslim Brotherhood]] and pro-Morsi supporters commenced. Notable incidents such as the [[2013 Republican Guard headquarters clashes]] and the [[August 2013 Rabaa massacre]] claimed the lives of hundreds to thousands of demonstrators by military and police forces.<ref>{{cite news|last=Kirkpatrick|first=David|title=An Egypt Arrest, and a Brotherhood on the Run|url=http://www.nytimes.com/2013/08/21/world/middleeast/egypt.html?pagewanted=all&_r=0|accessdate=25 September 2013|newspaper=New York Times|date=20 August 2013|author2=Mayy El Sheikh}}</ref>
+
+The US provides annual military assistance to the Egyptian Armed Forces. In 2009, the U.S. provided [[Real versus nominal value (economics)|nominal]] $1.3&nbsp;billion to the Egyptian military (${{formatnum:{{Inflation|US|1.3|2009|r=2}}}} billion in {{CURRENTISOYEAR}}).<ref>{{cite web |url=http://www.wikileaks.ch/cable/2009/05/09CAIRO874.html|title=Scenesetter: President Mubarak's visit to Washington |date=19 May 2009 |publisher=US Department of State}}</ref><ref>{{cite web|url=http://www.couriermail.com.au/ipad/nation-locked-in-a-deadly-stalemate/story-fn6ck51p-1225997761161|title=Nation locked in a deadly stalemate|publisher=The Courier-Mail|author=David Costello|date=1 February 2011|accessdate=2011-02-11}}</ref> Much of this is in equipment such as tanks and jet fighters that are surplus to Egyptian needs and kept in storage.<ref>[http://www.npr.org/blogs/money/2013/08/08/209878158/egypt-may-not-need-fighter-jets-but-u-s-keeps-sending-them-anyway "Egypt May Not Need Fighter Jets, But The U.S. Keeps Sending Them Anyway."]</ref>
+
+According to Article 200 of the [[Egyptian Constitution of 2014|Egyptian Constitution]], the Armed Forces belong to the People, and their duty is to protect the country, and preserve its security and the integrity of its territories.
+
+==Politics==
+{{multiple image
+ | align =  left
+ | width1    = 185
+ | width2    = 185
+ | direction = vertical
+ | footer    = '''Top:''' [[Tahrir Square]] protestsers on 9 February; '''Bottom:''' An Egyptian soldier atop a tank in Tahrir Square.
+   | image1    = Tahrir Square - February 9, 2011.png
+   | image2    = Soldier in Tahrir.jpg
+}}
+The Armed Forces enjoy considerable power, prestige and independence within the Egyptian state.<ref name="NYT 2011">{{cite news|last=Cambanis|first=Thanassis|title=Succession Gives Army a Stiff Test in Egypt|url=http://www.nytimes.com/2010/09/12/world/middleeast/12egypt.html?_r=1&ref=global-home&pagewanted=all|accessdate=11 September 2010|newspaper=[[New York Times]]|date=11 September 2010}}</ref>
+
+During almost the entire [[history of the Republic of Egypt]], active or retired military officers have been head of the Egyptian state. The first democratically-elected president who served for one year was [[2013 Egyptian coup d'état|removed by a military coup]] after the [[June 2013 Egyptian protests]] throughout Egypt. Even the [[Egyptian Constitution of 2012|constitution]] drafted and passed under Morsi included protections for the military from legal and parliamentary oversight,<ref>{{cite news|last=KIRKPATRICK|first=DAVID D.|title=Egypt Opposition Gears Up After Constitution Passes|url=http://www.nytimes.com/2012/12/24/world/middleeast/as-egypt-constitution-passes-new-fights-lie-ahead.html|accessdate=26 September 2013|newspaper=New York Times|date=23 December 2012|author2=MAYY EL SHEIKH|quote=the constitution's principal defects were not about religion. The biggest problem, he said, is that it protects the Egyptian military from legal and parliamentary oversight, engraving its autonomy in the constitution. Leaders of the Muslim Brotherhood had said privately for months that they were willing to provide the military such constitutional protections in order to ease the transition of power from the generals who assumed control from Mr. Mubarak.}}</ref> and deferred to "objections from the country's military leadership" by removing a "clear prohibition on trials of civilians before [[Human rights in Egypt under the Supreme Council of the Armed Forces#Military trials|military courts]]" some drafters had tried to include.<ref>{{cite web|title=Egypt: New Constitution Mixed on Support of Rights|url=http://www.hrw.org/news/2012/11/29/egypt-new-constitution-mixed-support-rights|work=November 30, 2012|publisher=Human Rights Watch|accessdate=26 September 2013|quote=But the latest draft, unlike the earlier version, defers to objections from the country's military leadership and removes the clear prohibition on trials of civilians before military courts.}}</ref>
+
+Starting with the [[Egyptian Revolution of 1952]], which created the Republic of Egypt, and was organized by the [[Free Officers Movement (Egypt)|Free Officers Movement]], presidents of Egypt [[Gamal Abdel Nasser]], [[Anwar Sadat]], [[Hosni Mubarak]] were ex-military officers for almost 60 years. This was interrupted with the [[Egyptian Revolution of 2011|2011 revolution]], when President [[Mubarak]] was forced to step down by the military in response to the revolution, and the [[Supreme Council of the Armed Forces]] ruled until it held a [[Egyptian presidential election, 2012|presidential election]] which resulted in [[Mohamed Morsi]] taking office. On 3 July 2013, responding to millions in the streets, the head of the Armed Forces then-[[Egyptian Army ranks|General]] [[Abdel Fattah el-Sisi]] announced the [[2013 Egyptian coup d'état|removal]] of [[Morsi]] and installation of the interim civilian president the Chief Justice of [[Supreme Constitutional Court of Egypt|Supreme Constitutional Court]] [[Adly Mansour]]. On 4 July 2013, 68-year-old Mansour was sworn in as acting president. On 26 March 2014 el-Sisi resigned from the military, announcing he would stand as a candidate in the [[Egyptian presidential election, 2014|2014 presidential election]].<ref>{{cite web|url=http://english.ahram.org.eg/NewsContent/1/64/97612/Egypt/Politics-/Egypts-ElSisi-bids-military-farewell,-says-he-will.aspx|title=Egypt's El-Sisi bids military farewell, says he will run for presidency|publisher=Ahram Online|date=26 March 2014|accessdate=27 March 2014}}</ref> He won the 26–28 May 2014 election in a landslide.<ref>{{cite news|title=Former army chief scores landslide victory in Egypt presidential polls|url=http://www.theguardian.com/world/2014/may/29/abdel-fatah-al-sisi-sweeps-victory-egyptian-election|accessdate=29 May 2014|publisher=''The Guardian''}}</ref> Sisi was sworn into office as [[President of Egypt]] on 8 June 2014.
+
+==Business==
+The military has its own hospitals, factories, clubs, and gas stations staffed by its officers, soldiers, and civilians. The organization is influential in business circles, engaging in road and housing construction, consumer goods, resort management,<ref name="NYT 2011"/> and owning extensive tracts of real estate. Much military information is not made publicly available, including budget information, the names of the general officers and the military's size (which is considered a state secret).<ref name="NYT 2011"/> According to journalist [[Joshua Hammer]], "as much as 40% of the [[Economy of Egypt|Egyptian economy]]" is controlled by the Egyptian military.<ref>[http://www.nybooks.com/articles/archives/2011/aug/18/egypt-who-calls-shots/  Egypt: Who Calls the Shots?](relevance?) Joshua Hammer| nybooks.com| 18 August 2011| (free online article not complete, does not include quoted portion).</ref> the number which is described as a "myth" by some economists and journalists and contribution considered by some as "necessary" for the Egyptian economy and the needs of the Armed Forces to maintains its strength.<ref>[http://digital.ahram.org.eg/articles.aspx?Serial=865724&eid=46 Army Economy between dramatize and the dismantling of the state] 12 April 2012| (Arabic Article).</ref>
+
+==Structure==
+[[Image:النطاقات الجغرافية للجيوش والمناطق العسكرية المصرية.png|thumb|220px|{{legend|#78B3FF|[[military Western Region (Egypt)|Military Western Region]]}} {{legend|Red|[[military northern region (Egypt)|Military Northern Region]]}} {{legend|#FF0099|[[southern region military (Egypt)|Southern Region Military]] {{legend|#FEC82C|[[central military region (Egypt)|Central Military Region]]}} {{legend|Black|[[Unified Command of the area east of the canal (Egypt)|East Military Canal Zone]]}} {{legend|Blue|[[Second Army (Egypt)|Second Field Army]]}} {{legend|Cyan|[[Third Army (Egypt)|Third Field Army]]}}}}]]
+Egyptian Armed Forces, consists of several main branches, departments and authorities. Main branches are the [[Egyptian Army|Army]], the [[Egyptian Air Force|Air Forces]], the [[Egyptian Air Defense Command|Air Defense]], and the [[Egyptian Navy|Navy]].
+
+The [[Egyptian Army]] is administratively divided into 4 tactical commands (Northern, Western, Central, Southern command), each command is under control of a [[Egyptian Army ranks|Major General]] in addition to two armies (2nd, 3rd army) and different corps and divisions (Armor, Mechanized, Artillery, Airmobile, Airborne, Infantry, frontier, military police, intelligence, [[Republican Guard (Egypt)|Republican guards]], Special Forces). The [[Egyptian Air Force]] (EAF) are the second biggest branch under control of the armed forces. The EAF has over 1,309 combat aircraft, 321 armed helicopters and controls about 17 air base. The [[Egyptian Navy]] is the largest branch under the armed forces' control, it is the largest navy in the Middle East and Africa, and is the seventh largest in the world measured by the number of vessels. The [[Egyptian Air Defense Forces]] is the latest established branch in the Armed Forces consists of 30,000 officers & soldiers plus 40,000 conscripts.
+
+Departments of the Egyptian Armed Forces include the Departments of Armament Affairs, Officers' Affairs, Management and Administration and the Department of Morale Affairs (DMA) which is responsible for managing the Egyptian Armed Forces' public image, boosting goodwill towards troops, writing the speeches of the Armed forces' public statements, contacting the media and organizing the Egyptian Armed Forces' conferences and symposiums. Moreover, The Medical management of the armed forces is responsible for managing the medical affairs of the armed forces as well as controlling the hospitals run by the Armed Forces which serves both civilians and military personnel estimated at 19 hospitals in [[Cairo]], 8 in [[Alexandria]], 3 in [[Matrouh Governorate|Matrouh]], 2 in each of [[Ismailia]] and [[Gharbia Governorate|Gharbia]], one in each of [[Port Said]], [[Al Sharqia Governorate|Al Sharqia]], [[Dakahlia Governorate|Dakahlia]], [[Beni Suef Governorate|Beni Suef]], [[Minya Governorate|Minya]], [[Sohag]], [[Qena Governorate|Qena]], [[Aswan]], [[Kafr el-Sheikh Governorate|Kafr el-Sheikh]], and [[North Sinai Governorate|North Sinai]].<ref>{{cite news|title=Egyptian Armed Forces Hospitals|url=http://www.mod.gov.eg/Mod/Mod_Hosp.aspx}}</ref>
+
+Authorities of the armed forces include the Engineering Authority (EAAF), it's the sector beneath the Armed Forces responsible for the Engineering work, its missions variety between War and peace time, In War time the authority is responsible for the engineering aid to the Forces, one of the Authority major operations was [[Operation Badr (1973)|Operation Badr]]. In Peace time the authority is responsible in helping build Egypt's infrastructure and the national projects including Cities, stadiums, clubs. In addition to The Financial Authority (FA) responsible for the financial matters in the armed forces and the Research Authority.
+
+The armed forces also hold control of military judiciary and military intelligence directorate.
+
+=== Structure of the field armies ===
+[[File:Egyptian Army - First Field Army.png|thumb|center|1100px|Structure of the [[First Field Army]] (click to enlarge)]]
+[[File:Egyptian Army - Second Field Army.png|thumb|center|1100px|Structure of the [[Second Army (Egypt)|Second Field Army]] (click to enlarge)]]
+[[File:Egyptian Army -Third Field Army.png|thumb|center|1100px|Structure of the [[Third Army (Egypt)|Third Field Army]] (click to enlarge)]]
+
+===Personnel===
+
+In 2011, The Egyptian armed forces is reported to have more than 468,500 active personnel, in addition to 800,000 personnel available in reserve and over 400,000 paramilitary personnel making it [[List of countries by number of military and paramilitary personnel|one of the largest armies in the world]]. The recruitment in Egypt is mandatory for all men who reached the military service age. Only the medical committee formed by the Armed forces can exempt those who they decide as unsuitable for the military service. Men who have no brothers are also exempted.{{fact|date=October 2015}}
+
+<center>
+{| width="70%" style="border:0px solid #8888aa; background-color:#FFFFFF; padding:5px; font-size:100%; margin: 0px 0px 0px 0px;"
+|- bgcolor="#dadada"
+|'''Component'''||'''in service'''||'''Reserve'''
+|-
+|{{nowrap|[[File:Flag of the Army of Egypt.svg|25px]] [[Egyptian Army]]}}||468,500||
+|-
+|{{nowrap|[[File:Eafflag.svg|25px]] [[Egyptian Air Force]]}}||30,000|| 
+|-
+|{{nowrap|[[File:Naval Flag of Egypt.svg|25px]] [[Egyptian Navy]]}}||32,000||
+|-
+|{{nowrap|[[File:Egypt Air Defense Flag.png|25px]] [[Egyptian Air Defense Forces]]}}||70,000||
+|- style="background:gray; color:black"
+|'''Total Active'''||'''650,000'''||'''1,000,000'''
+|-
+|[[File:Republican Guard Egypt.png|30x30px]] [[Republican Guard (Egypt)|Egyptian Republican Guard]]||24,000||
+|-
+| [[Border guard#Egypt|Egyptian Border Guard]]||25,000|| || ||
+|-
+|[[File:Sa'ka Forces logo.png|30x30px]] [[Sa'ka Forces|Egyptian Thunderbolt Forces]]||N/A
+|-
+| [[Egyptian Paratroopers]]|| N/A
+|-
+|[[File:Egyptian Rapid Deployment Forces Insignia.png|25x25px]] [[Rapid Deployment Forces (Egypt)|Egyptian Rapid Deployment Forces]]||N/A
+|- style="background:gray; color:black"
+|'''Total Reserve Components'''||'''1,468,500'''||
+|-
+|}
+</center>
+
+==Main Military Branches==
+
+===Egyptian Army===
+[[File:M1-A1 Abrams 1.jpg|thumb|[[M1 Abrams]]; the main tank of the [[Egyptian Army]]. This particular image shows a U.S. Marine Corps tank]]
+{{main|Egyptian Army}}
+The inventory of the Egyptian armed forces includes equipment from the United States, France, the United Kingdom, the [[Soviet Union]], and the People's Republic of China. Equipment from the Soviet Union is being progressively replaced by more modern U.S., French, and British equipment, a significant portion of which is built under license in Egypt, such as the [[M1 Abrams|M1A2 Abrams]] [[tank]] which makes Egypt the owner of the second largest number of latest generation main battle tanks in the region and the first in the case of the older generations.
+Conscripts for the army and other service branches without a university or secondary school degree serve three years as enlisted soldiers. Conscripts with a General Secondary School Degree serve two years as enlisted personnel. Conscripts with a university degree serve one year as enlisted personnel or three years as a reserve officer. Officers for the army are trained at the [[Egyptian Military Academy]] one of the oldest academies in the world.
+
+===Egyptian Air Force===
+[[File:Egyptian air force F-16 refueling.jpg|thumb|left|Egyptian F-16 Air Refueling]]
+{{Main|Egyptian Air Force}}
+The '''Egyptian Air Force''' or '''EAF''' is the aviation branch of the Egyptian Armed Forces. Currently, the backbone of the EAF is the [[F-16]]. The EAF (planes and pilot training) is considered to be the strongest in Africa and one of the strongest in the Middle East. The [[Mirage 2000]] is the other modern interceptor used by the EAF. The Egyptian Air Force has 228 F-16s (plus 12 awaiting delivery) making it the 4th largest operator of the F-16 in the World. It has about 1,100 combat aircraft<ref>[http://www.globalfirepower.com/aircraft-total.asp Aircraft Strength by Country]</ref> and 245 armed helicopters.<ref>[http://www.globalfirepower.com/aircraft-helicopters-total.asp Helicopter Strength by Country]</ref> having at least 35 Apache's AH-64D as it also continues to fly extensively upgraded [[MiG-21]]s, [[F-7 Skybolt]]s, [[F-4 Phantom]]s, [[Dassault Mirage V]]s, and the [[C-130 Hercules]] among other planes. The Air Force is undergoing massive modernization. [[Mikoyan]] in late 2014 confirmed that Egypt signed a deal to acquire 24 [[MiG-29M]] fighter jets, and is in negotiations to acquire 24 MiG-35 fighter jets<ref>[http://defense-update.com/20140422_egypt-interested-buying-24-mig-35s-russia.html#.VF-bOPmUejs]</ref> and it was reported that Egypt is in negotiations with French Dassault for an initial order of 24 Rafale fighter jets<ref>[http://www.intelligenceonline.com/corporate-intelligence/the-red-line/2014/10/15/cairo-eyes-rafale-su-35-or-both,108042796-ART]</ref>
+
+===Egyptian Air Defense===
+[[File:9A83ME TEL - Antey-2500 SAM 02.jpg|thumb|[[S-300VM]] Entered service in November 2014]]
+{{Main|Egyptian Air Defense Forces}}
+The '''Egyptian Air Defense Command''' or '''EADC''' (Quwwat El Diffaa El Gawwi in Arabic) is Egypt's military command responsible for air defense. One of the most powerful air defenses in the world. Egypt patterned its Air Defense Force (ADF) after the Soviet Anti-Air Defenses, which integrated all its air defense capabilities – antiaircraft guns, rocket and missile units, interceptor planes, and radar and warning installations..
+
+Its commander is [[Egyptian Army ranks|Lt. Gen.]] [[Abdul Meniem Al-Toras]].
+
+===Egyptian Navy===
+[[Image:Fremm Tahya Misr.jpg|thumb|220px|left|Fremm Tahya Misr leaving DCNS shipyard for her first sea trials with the Egyptian Navy crew on board.]]
+{{main|Egyptian Navy}}
+Although the '''Egyptian Navy''' is the smallest branch of the military, it is large by Middle Eastern standards. 
+The Egyptian Navy is known to be the strongest in the African continent, and the largest in the Middle East in spite of the rapid growth of other countries' navies within the region.
+
+Some fleet units are stationed in the [[Red Sea]], but the bulk of the force remains in the Mediterranean. Navy headquarters and the main operational and training base are located at Ras el Tin near Alexandria.
+The current commander is [[Vice admiral]] [[Osama El-Gendi]].
+
+The Navy also controls the [[Egyptian Coast Guard]]. The Coast Guard is responsible for the onshore protection of public installations near the coast and the patrol of coastal waters to prevent smuggling. It has an inventory consisting of about thirty five large patrol craft (each between twenty and thirty meters in length) and twenty smaller Bertram-class coastal patrol craft built in the United States.
+
+''See [[list of naval ships of Egypt]] for a list of vessels in service.''
+
+==Egyptian Rapid deployment forces==
+{{main|Egyptian Rapid deployment forces}}
+Egyptian Rapid deployment forces (RDF) is one of the branches of the Egyptian Armed Forces. It was formed in March 2014 by the former defense minister field marshal Abdel Fattah al-Sisi. It is mainly airborne troops with a special formation, and it is characterized by the ability to perform operations inside and outside the Egyptian mainland. It comprises the most efficient elements of the mechanized Infantry, armored corps, air defense, artillery and anti-tank teams.
+
+==Special Forces==
+{{multiple image
+ | width1    = 219
+ | width2    = 260
+ | direction = horizontal 
+ | footer    = '''Left:''' Member of [[Sa'ka Forces|Egyptian Thunderbolt Forces]] perform close range combat during a medal parade in Bukavu. <br>'''Right: '''Members of the [[Unit 777]] fire weapons during a combat marksmanship exercise at an indoor firing range.
+   | image1    = SRSG first visit to Bukavu (10225578553).jpg
+   | image2    = Unit 777.jpg
+}}
+Special forces in the Egyptian Armed forces are units under control of different branches. Most of the officers take the special [[Sa'ka Forces|Sa'ka Course]]. In addition to Sa'ka, Special forces take specialized training in the fields of Direct action, [[Hostage rescue]], [[Counter-terrorism]], [[Unconventional warfare]], [[Special reconnaissance]], [[Asymmetric warfare]]. However, most information about Egyptian Army's units are classified.
+
+Notable Special Forces in the Egyptian Armed Forces:
+* [[Sa'ka Forces]] (Egyptian Thunderbolt Forces)
+* [[Unit 777]], [[counter-terrorism]] and [[Special operations]] unit. 
+* [[Unit 999]], [[Special operations]] and [[reconnaissance]] unit.
+* Navy Sa'ka (Navy Thunderbolt)
+
+Special forces from officers and noncommissioned officers from Infantry, Sa'ka, Paratroopers and Navy can take the ''Seal'' course which is considered the most advanced course in the Egyptian Armed Forces.
+
+==Equipment==
+{{main|Equipment of the modern Egyptian Army|Military equipment of Egypt|List of aircraft of the Egyptian Air Force|List of ships of the Egyptian Navy}}
+
+===Military Industry===
+{{main|Egyptian Military Industry}}
+[[File:Egyptian Military Police in Alexandria.jpg|thumb|Egyptian-made [[Fahd (armored personnel carrier)|Fahd APC]]]]
+In addition to importing weapons, Egypt maintains a large industrial fortress as its military industry is considered the most important in the [[Arab World]]. State-owned enterprises which are under control of the Armament Authority headed by a major general, are the main domestic producers of Egypt's defense systems.
+
+[[Arab Organization for Industrialization]], which has about 19,000 employees out of which are 1250 engineers, more than nine military factories producing both civilian and military products, is considered Egypt military's most important domestic weapons supplier.
+
+Egypt's Main battle tank the [[M1 Abrams]] is made locally under license in addition to Egyptian-Upgraded [[Ramses II tank|Ramses II]], [[T-62#Egypt|T-62]] and [[T-62#T-54/T-55 upgrades|T-45E]].
+Egyptian Military industry includes [[SA-7#Egypt|Sakr Eye]] missiles, ([[ZU-23-2#Egypt|Nile 23]], [[#Egypt|Sinai 23]]) Self-propelled air defense, RPGs. [[Hongdu JL-8#Variants|K-8E]] Trainer aircraft, in addition to aircraft overhaul and maintenance.
+
+Locally made military vehicles include various [[Fahd (armored personnel carrier)|Fahd]] APCs and IFVs, [[Egyptian Infantry Fighting Vehicle|EFIV]]s, [[Variants of the M113 armored personnel carrier#Egypt|SIFV]], [[Walid (armored personnel carrier)|Walid MKII]], [[Jeep Wrangler#TJ (1997–2006)|Jeep Wrangler TJL]], [[Jeep J8##Production|Jeep J8]], Kader-320 armored vehicle, [[Mercedes-Benz G-Class#Military operators|Mercedes G-320 armored vehicle]], [[Iveco VM 90]] and [[Land Rover Tangi#The Hotspur Hussar|Hotspur HUSSARD]].
+
+Egypt also locally produces small arms such as [[Beretta M1951|Helwan]], [[Beretta 92#Copies|Helwan 920]] guns, Misr machine gun, [[AKM#Local use and local versions|Maadi]] assault rifles, [[FN Minimi]], [[FN MAG]], [[SG-43 Goryunov]], [[Mk 19 grenade launcher|MK19]].
+
+===Weapons of mass destruction===
+{{main|Egypt and weapons of mass destruction}}
+[[File:Red Cross at Uqd.jpg|thumb|widthpx|The International Red Cross hospital at Uqd.]]
+Egypt, with a history of using weapons of mass destruction, remains one of only four countries not to sign the [[Chemical Weapons Convention]] and hasn't ratified the [[Biological Weapons Convention]]. Egypt's chemical weapons program is the most developed of its pursuit of developing a Weapons of Mass Destruction program though it is thought this reached its peak in the 1960s. Egypt was one of the few countries to use chemical weapons after WWI during the [[North Yemen Civil War]] when phosgene and mustard gas was used against [[Mutawakkilite Kingdom of Yemen|Royalist forces]] in Northern Yemen. Egypt has maintained a policy of not signing the Chemical Weapons Convention until questions regarding Israel's nuclear weapons program are answered.<ref>{{cite web|url=http://www.fas.org/nuke/guide/egypt/cw/ |title=Chemical Weapons Program – Egypt |publisher=Fas.org |date= |accessdate=2014-02-03}}</ref>
+Egypt signed the [[Biological and Toxin Weapons Convention]] (BWC) on 10 April 1972 but has not ratified it.
+
+Prior to signing the BWC President [[Anwar Sadat]] of Egypt made the following comment to a question about Israel and should they use Biological weapons.
+
+''"The only reply to biological warfare is that we too should use biological warfare. I believe that the density of the Israeli population confined in a small area would provide the opportunity to reply with the same weapon if they should begin using it. Briefly, we have the instruments of biological warfare in the refrigerators and we will not use them unless they begin to use them."''<ref>Julian Perry Robinson, The Problem of Chemical and Biological Warfare: Volume II: CB Weapons Today
+(Stockholm, SIPRI, 1973), p. 241.</ref>
+
+==Military budget==
+[[File:Military expenditure by country map2.png|thumb|right|280px|Military spending of countries around the world.]]
+Arming 4&nbsp;billion and  $300&nbsp;million budget, but not worth anything in front of the budgets of arming the major powers in the Middle East armies,
+
+Balancing the Egyptian armed forces, a military and therefore must be kept secret. As part of what the Egyptian army's budget is linked to military activities such as buying weapons or production, and in the matter of information on this Menkhvh and published for the whole world of enemy and friend part because there is a major strategic ally, which is committed to transparency in front of his countrymen publish everything about himself and those who receive him military aid in the form of [[weapons]] or the production of the wars in common with them, and this is a strategic ally is the United States that the Egyptian armed forces awarded $1.3&nbsp;billion annually in support and in 2014 lifted the United States budgetary to reach 1.43&nbsp;billion of annual support through its program for "foreign military financing," and then published by the government as "US Government Accounting Office" or the ministries of defense, foreign affairs or what Congress and the details of his license or help in the production factories of the Egyptian army tanks and so on. And the part that the armed forces reserves the secret is in relation to the enormous Bmdjulha of the unknown is warfare activities, such as the Civil Misc of household tools, and structural and other civilian sectors
+
+==Military exercises==
+{{multiple image
+ | width1    = 219
+ | width2    = 219
+ | direction = horizontal 
+ | footer    = '''Left:''' Aircraft over the pyramids during Bright Star '83<br>'''Right:''' Egyptian, Pakistani and American paratroopers during Military Operations in Urban Terrain training at the Mubarak Military City
+   | image1    = Jets over pyramids.JPEG
+   | image2    = US_Army_53119_Bright_Star_09_MOUT_Training.jpg
+}}
+
+The Egyptian Armed forces' different branches are engaged in annually military exercises locally in addition to exercises with different armies including:
+* [[Operation Bright Star]], one of the largest joint training exercises in the world led by the [[US Armed Forces|American]] and the Egyptian Armed Force.
+* Sea of Friendship Maneuvers, held in [[Mediterranean Sea|the Mediterranean Sea]] between the navy forces of the [[Egyptian Navy|Egypt]] and [[Turkish Navy|Turkey]].
+* Tabuk Maneuvers, held in Saudi Arabia with the [[Saudi Armed Forces]].
+* Morgan Maneuvers, held in Saudi Arabia between the navy forces of [[Egyptian Navy|Egypt]] and [[Saudi Navy|Saudi Arabia]].
+* Faisal Maneuvers, held in Saudi Arabia between the Air Forces of [[Egyptian Air Force|Egypt]] and [[Royal Saudi Air Force|Saudi Arabia]].
+* Zaid Maneuvers, held in United Arab Emirates with the [[Union Defence Force (UAE)|Union Defence Force]].
+* Ein Jalut Maneuvers, held in Jordan, with the [[Jordanian Armed Forces]].
+* Ra'd Maneuvers, held in the western command between different army branches.
+* Badr Maneuvers, held by the Third Army command between different army branches.
+* Nasr Maneuvers, held by the Second Army command between different army branches.
+* Sea's Victory Maneuvers, held by the [[Egyptian Navy|navy command]] between different army branches.
+
+==Military academies==
+
+*[[Nasser Military Academy|Nasser Academy for Military Science]]
+*[[The Egyptian Military Academy]]
+*The Egyptian Naval Academy
+*The Egyptian Air Academy
+*The Egyptian Air Defense Academy
+*The Egyptian Military Technical College
+*The Egyptian Military faculty of medicine
+*Commanders & Staff Commanders College
+*Reserve Officers College
+*The military technical institute 
+*The Reserve officers' faculty
+*The Technical institute for nursing for females
+
+==Military organization== 
+{| border="1" cellpadding="4" cellspacing="0"  style="margin:auto; border-collapse:collapse; border:0 none; vertical-align:top;" frame="void" rules="rows"
+|-  style="vertical-align:bottom; border-bottom:3px double #999;"
+! align=left | [[APP-6A]] Symbol
+! align=left | Name
+! align=left | Nature
+! align=left | Strength
+! align=left | Constituent units
+! align=left | Commander or leader
+|-  style="vertical-align:top; border-bottom:1px solid #999;"
+| align=center | XXXXXX
+| [[Region#Military regions|region]], [[Theater (warfare)|theater]]
+| Command
+| 1,000,000–10,000,000
+| 4+ army groups
+| general, [[army general]], [[five-star general]] or [[field marshal]]
+|-  style="vertical-align:top; border-bottom:1px solid #999;"
+| align=center | XXXXX
+| [[army group]], [[Front (Soviet Army)|front]]
+| Command
+| 400,000–1,000,000
+| 2+ armies
+| general, army general, five-star general or field marshal
+|-  style="vertical-align:top; border-bottom:1px solid #999;"
+| align=center | XXXX
+| [[field army|army]]
+| Command
+| 100,000–200,000
+| 2–4 corps
+| general, army general, [[four-star general]] or [[colonel general]]
+|-  style="vertical-align:top; border-bottom:1px solid #999;"
+| align=center | XXX
+| [[corps]]
+| Formation
+| 40,000–80,000
+| 2+ divisions
+| [[lieutenant general]], [[corps general]] or [[three-star general]]
+|-  style="vertical-align:top; border-bottom:1px solid #999;"
+| align=center | XX
+| [[Division (military)|division]]
+| Formation
+| 10,000–25,000
+| 2–4 brigades or regiments
+| [[major general]], [[divisional general]] or [[two-star general]]
+|-  style="vertical-align:top; border-bottom:1px solid #999;"
+| align=center | X
+| [[brigade]]
+| Formation
+| 3,000–5,000
+| 2+ regiments, 3–6 battalions or Commonwealth regiments
+| [[brigadier]], [[brigadier general]], [[brigade general]], or [[one-star general]] (sometimes [[colonel]])
+|-  style="vertical-align:top; border-bottom:1px solid #999;"
+| align=center | III
+| regiment or group
+| Formation
+| 1,000–3,000
+| 2+ battalions or U.S. Cavalry squadrons
+| [[colonel]]
+|-  style="vertical-align:top; border-bottom:1px solid #999;"
+| align=center | II
+| infantry [[battalion]], U.S. Cavalry [[Squadron (army)|squadron]], Commonwealth armoured regiment or Argentine Army regiment/artillery group/battalion
+| Unit
+| 300–1,300
+| 2–6 companies, batteries, U.S. Cavalry troops, or Commonwealth squadrons, Argentine squadrons/companies
+| [[lieutenant colonel]]
+|-  style="vertical-align:top; border-bottom:1px solid #999;"
+| align=center | I
+| infantry [[Company (military unit)|company]], [[artillery battery]], U.S. Cavalry [[troop]], or Commonwealth armour or combat engineering [[Squadron (army)|squadron]]
+| [[Subunit (military)|Subunit]]
+| 80–250
+| 2–8 platoons or Commonwealth troops
+| [[Chief Warrant Officer]], [[captain (land and air)|captain]] or major
+|-  style="vertical-align:top; border-bottom:1px solid #999;"
+| align=center | •••
+| [[platoon]] or Commonwealth [[troop]]
+| [[Sub-subunit]]
+| 26–55
+| 2+ Section, or vehicles
+| [[warrant officer]], first or second lieutenant
+|-  style="vertical-align:top; border-bottom:1px solid #999;"
+| align=center | ••
+| [[Section (military unit)|section]] or [[patrol]]
+| –
+| 12–24
+| 1-2+ squad or 3–6 fireteams
+| [[corporal]] to [[sergeant]]
+|-  style="vertical-align:top; border-bottom:1px solid #999;"
+| align=center | •
+| [[squad]] or crew
+| –
+| 8–12
+| 2–3 fireteams or 1+ cell
+| corporal to staff sergeant
+|-  style="vertical-align:top; border-bottom:1px solid #999;"
+| align=center | Ø
+| [[fireteam]]
+| –
+| 4
+| n/a
+| [[lance corporal]] to [[sergeant]]
+|-  style="vertical-align:top; border-bottom:3px double #999;"
+| align=center | Ø
+| [[fire and maneuver team]]
+| –
+| 2
+| n/a
+| any/[[Private (rank)|private first class]]
+|}
+
+
+== Decorations and medals ==
+{| width="100%" style="border:1px solid #8888aa; background-color:#FFFFFF; padding:5px; font-size:95%; margin: 0px 12px 12px 0px;"
+|- bgcolor="#dadada"
+|| [[File:Militarycourage.jpg|80px]]
+|| [[File:Sinai Libration.jpg|80px]]
+|| [[File:Trainingdeco.jpg|80px]]
+|| [[File:Militaryduty.jpg|80px]]
+|| [[File:OctWar-SilverJubileeOct.jpg|80px]]
+|| [[File:Longevandexemp.jpg|80px]]
+|| [[File:DestinServ.jpg|80px]]
+|| [[File:Kuwaitlibr.jpg|80px]]
+|| [[File:Goldenjubile23.jpg|80px]]
+|- align=center
+|| Medal of Courage
+|| Medal of Sinai Liberation
+|| Medal of Training
+|| Medal of Military Duty
+|| Medal of the Silver Anniversary of October Victory
+|| Medal of Long Service and Good Example
+|| Medal of Distinguished Service
+|| Kuwait Liberation Medal
+|| Medal of the Gold Anniversary of 23 July 1952 Revolution
+|}
+
+== Military ranks ==
+
+=== Egyptian Army ranks ===
+{{Main|Egyptian Army ranks}}
+{| width="100%" style="border:1px solid #8888aa; background-color:#FFFFFF; padding:5px; font-size:95%; margin: 0px 12px 12px 0px;"
+|- bgcolor="#dadada"
+! colspan="20" | Egyptian Army ranks
+|- bgcolor="#dadada"
+!
+! colspan="20" | Commissioned Officers & Enlisted personnel
+|- align="center"
+| Shoulder straps
+|| ''—-''
+|| [[File:EgyptianArmyInsignia-Corporal.svg|30px]]
+|| [[File:EgyptianArmyInsignia-Sergeant.svg|30px]]
+|| [[File:EgyptianArmyInsignia-StaffSergeant.svg|30px]]
+|| [[File:EgyptianArmyInsignia-WarrantOfficer.svg|30px]]
+|| [[File:EgyptianArmyInsignia-ChiefWarrantOfficer.svg|30px]]
+|| [[File:EgyptianArmyInsignia-Lieutenant.svg|30px]]
+|| [[File:EgyptianArmyInsignia-FirstLieutenant.svg|30px]]
+|| [[File:EgyptianArmyInsignia-Captain.svg|30px]]
+|| [[File:EgyptianArmyInsignia-Major.svg|30px]]
+|| [[File:EgyptianArmyInsignia-LieutenantColonel.svg|30px]]
+|| [[File:EgyptianArmyInsignia-Colonel.svg|30px]]
+|| [[File:EgyptianArmyInsignia-BrigadierGeneral.svg|30px]]
+|| [[File:EgyptianArmyInsignia-MajorGeneral.svg|30px]]
+|| [[File:EgyptianArmyInsignia-LieutenantGeneral.svg|30px]]
+|| [[File:EgyptianArmyInsignia-ColonelGeneral.svg|30px]]
+|| [[File:EgyptianArmyInsignia-FieldMarshal.svg|30px]]
+|- align=center
+| Patches
+|| [[Private (rank)|Private]]<br>
+|| Expert/Specialist
+|| [[Raqīb]]
+|| First ''[[Raqīb]]''<br>
+|| Assistant<br/>
+|| First Assistant<br>
+||Lieutenant
+||[[First Lieutenant]]
+||[[Captain (land)|Captain]]
+||Major
+||[[Lieutenant Colonel]]
+||[[Colonel]]
+||[[Brigadier|Brigadier General]]
+||[[Major General]]
+||[[Lieutenant General]]
+||[[Colonel General]] 
+||[[Field Marshal]]
+|- align=center
+|- align="center" bgcolor="#efefef"
+| Code [[NATO]]
+| OF-1
+| OF-2
+| OF-3
+| OF-4
+| OF-5
+| OF-6
+| OF-7
+| OF-8
+| OF-9
+| OF-10
+| OF-11
+| OF-12
+| OF-13
+| OF-14
+| OF-15
+| OF-16
+| OF-17
+| 
+|}
+
+=== Egyptian Air Force ranks ===
+{{Main|Egyptian Navy ranks}}
+{| width="100%" style="border:1px solid #8888aa; background-color:#FFFFFF; padding:5px; font-size:95%; margin: 0px 12px 12px 0px;"
+|- bgcolor="#dadada"
+! colspan="20" | Egyptian Air Force ranks
+|- bgcolor="#dadada"
+!
+! colspan="20" | Commissioned Officers & Enlisted personnel
+|- align="center"
+| Shoulder straps
+|| —-
+|| 
+|| 
+|| 
+|| [[File:Pilot Officer - Egyptian Air Force rank.png|30px]]
+|| [[File:Flying Officer - Egyptian Air Force rank.png|30px]]
+|| [[File:Flight Lieutenant - Egyptian Air Force rank.png|30px]]
+|| [[File:Squadron Leader - Egyptian Air Force rank.png|30px]]
+|| [[File:Wing Commander - Egyptian Air Force rank.png|30px]]
+|| [[File:Group Captain - Egyptian Air Force rank.png|30px]]
+|| [[File:Air Commodore - Egyptian Air Force rank.png|30px]]
+|| [[File:Air Vice-Marshal - Egyptian Air Force rank.png|30px]]
+|| [[File:Air Marshal - Egyptian Air Force rank.png|30px]]
+|| [[File:Air Chief Marshal - Egyptian Air Force rank.png|30px]]
+|- align=center
+| Patches|| [[Aircraftman]]
+|| [[Corporal]]
+|| [[Sergeant]]
+|| [[Master Sergeant]]
+||[[Pilot Officer]]
+||[[Flying Officer]]
+||[[Flight Lieutenant]]
+||[[Squadron Leader]]
+||[[Wing Commander (rank)|Wing Commander]]
+||[[Group Captain]]
+||[[Air Commodore]]
+||[[Air Vice-Marshal]]
+||[[Air Marshal]]
+||[[Air Chief Marshal]]
+|- align=center
+|- align="center" bgcolor="#efefef"
+| Code [[NATO]]
+| OF-1
+| OF-2
+| OF-3
+| OF-4
+| OF-5
+| OF-6
+| OF-7
+| OF-8
+| OF-9
+| OF-10
+| OF-11
+| OF-12
+| OF-13
+| OF-14
+|}
+
+=== Egyptian Navy ranks ===
+{{Main|Egyptian Navy ranks}}
+{| width="100%" style="border:1px solid #8888aa; background-color:#FFFFFF; padding:5px; font-size:95%; margin: 0px 12px 12px 0px;"
+|- bgcolor="#dadada"
+! colspan="15" | Egyptian Navy ranks
+|- bgcolor="#dadada"
+!
+! colspan="4" | Admirals
+! colspan="3" | Senior officers
+! colspan="4" | Junior officers
+|- align="center"
+| Shoulder straps
+| [[File:EgyptianNavyInsignia-Admiral-shoulderboard.svg|30px]]
+| [[File:EgyptianNavyInsignia-ViceAdmiral-shoulderboard.svg|30px]]
+| [[File:EgyptianNavyInsignia-RearAdmiral-shoulderboard.svg|30px]]
+| [[File:EgyptianNavyInsignia-Commodore-shoulderboard.svg|30px]]
+| [[File:EgyptianNavyInsignia-Captain-shoulderboard.svg|30px]]
+| [[File:EgyptianNavyInsignia-Commander-shoulderboard.svg|30px]]
+| [[File:EgyptianNavyInsignia-LieutenantCommander-shoulderboard.svg|30px]]
+| [[File:EgyptianNavyInsignia-Lieutenant-shoulderboard.svg|30px]]
+| [[File:EgyptianNavyInsignia-SubLieutenant-shoulderboard.svg|30px]]
+| [[File:EgyptianNavyInsignia-Ensign-shoulderboard.svg|30px]]
+|- align="center" valign="top"
+| Patches
+| [[File:Generic-Navy-O11-sleeve.svg|50px]]
+| [[File:Generic-Navy-O10-sleeve.svg|50px]]
+| [[File:Generic-Navy-O9-sleeve.svg|50px]]
+| [[File:EgyptianNavyInsignia-Commodore-sleeve.svg|50px]]
+| [[File:Generic-Navy-O7-sleeve.svg|50px]]
+| [[File:Generic-Navy-O5-sleeve.svg|50px]]
+| [[File:Generic-Navy-O4-sleeve.svg|50px]]
+| [[File:Generic-Navy-O3-sleeve.svg|50px]]
+| [[File:Generic-Navy-O2-sleeve.svg|50px]]
+| [[File:Generic-Navy-O1-sleeve.svg|50px]]
+|- align="center" valign="top"                                                                                                   | Title
+|
+| [[Admiral]]
+| [[Vice Admiral]]
+| [[Rear Admiral]]
+| [[Commodore (rank)|Commodore]]
+| Captain
+| [[Commander]]
+| [[Lieutenant Commander]]
+| Lieutenant
+| [[Sub-Lieutenant]]
+| [[Ensign]]
+|- align="center" bgcolor="#efefef"
+| Code [[NATO]]
+| OF-9
+| OF-8
+| OF-7
+| OF-6
+| OF-5
+| OF-4
+| OF-3
+| colspan="2" | OF-2
+| colspan="2" | OF-1
+| 
+|}
+
+== Military flags ==
+{{main|Flags of the Egyptian Armed Forces}}
+{| width="100%" style="border:0px solid #8888aa; background-color:#FFFFFF; padding:5px; font-size:95%; margin: 0px 14px 14px 0px;"
+|- bgcolor="#dadada"
+! style="text-align: center"|Flag of the [[Egyptian Army]]
+! style="text-align: center"|Flag of the [[Egyptian Navy]]
+! style="text-align: center"|Flag of the [[Egyptian Air Force]]
+! style="text-align: center"|Flag of the [[Egyptian Air Defense Forces]]
+|-
+| [[File:Flag of the Army of Egypt.svg|border|275px]]
+| [[File:Naval Flag of Egypt.svg|border|275px]]
+| [[File:Eafflag.svg|border|275px]]
+| [[File:Egypt Air Defense Flag.png|275px]]
+|}
+
+== Military uniforms ==
+{{main|Egyptian Army Uniform}}
+{| border="0" cellpadding="1" cellspacing="0" style="width:100%; text-align:center"
+![[File:Egyptian Army camo uniform.png|150px|Egyptian Army Thunderbolt camouflage uniform]]
+![[File:Egyptian Airborne camo uniform.png|150px|Egyptian Army Thunderbolt camouflage uniform]]
+![[File:Egypt Thunderbolt camo uniform.png|150px|Egyptian Army Thunderbolt camouflage uniform]]
+![[File:Egyptian Republican Guard camo uniform.png|150px|Egyptian Republican Guard camouflage uniform]]
+|-
+!Army
+!Airborne
+!Thunderbolt
+!Republican Guard
+|}
+
+{| border="0" cellpadding="1" cellspacing="0" style="width:100%; text-align:center"
+![[File:Egyptian Army Beret.png|200px|Egyptian Army Beret.png]]
+![[File:Paratroops Beret - Egyptian Army.png|200px|Paratroops Beret - Egyptian Army.png]]
+![[File:Thunderbolt Beret - Egyptian Army.png|200px|Egyptian Army Thunderbolt camouflage uniform]]
+![[File:Moral Afaires Beret - Egyptian Army.png|200px|Egyptian Republican Guard camouflage uniform]]
+|-
+! 
+! 
+! 
+!
+|}
+
+== Participation in United Nations peacekeeping ==
+[[Image:SRSG first visit to Bukavu (10225409304).jpg|thumb|220px|Members of Egyptian special forces perform during a medal parade in Bukavu]]
+[[Image:Egyptian medical personnel at Bagram Air Base.jpg|thumb|widthpx| Egyptian medical personnel for their support during a tour of the Egyptian field hospital in Bagram.]]
+[[Image:SRSG first visit to Bukavu (10225509315).jpg|thumb|220px|Egyptian contingent celebrate during a medal parade in Bukavu.]]
+Because the Egyptian military capabilities and potentials, it is always choose battalions to participate externally in establishing stability and peace in the well strained in the world, within the peacekeeping forces, Egypt is one of the largest troop-contributing countries in United Nations peacekeeping missions, where he is currently involved about 2613 troops in missions UN deployed in several regions and countries in Africa, and countries that Egypt participated in international peacekeeping forces:
+* [[Sarajevo]] during the civil war in 1990s.
+* Ivory Coast to help the Ivorian parties to implement the peace agreement signed between them in the January 2003, and end the civil war.
+* Congo during the period of the civil war during the period of 1960 to 1961 number 2 secret umbrellas sized 258.
+* Somalia number one pedestrian mechanical battalion-sized 240 in the period from December 1992 to May 1993 after it increased the size of the force involved in the period from May 1993 through February 1995 to 1680 people made up of the leadership of the brigade and three infantry battalions mechanic entrusted with the protection of [[Aden Adde International Airport | Mogadishu Airport]] and the training of police officers the [[Somalis|Somali]].
+*Central African from June 1998 and even March 2000 the number of infantry company consisting of 125 personnel and administrative unit and a medical unit with 294 persons as part of a mission United Nations peacekeeping.
+* Angola with 28 military observers at spaced intervals during the period of 1991 and even 1999.
+* Mozambique number 20 military observers during the period of February 1993 and even June 1995.
+* Liberia 15 the number of military observers during the period from December 1993 and even September 1997.
+* Rwanda number 10 military observers.
+* Comoros number three observers during the period of 1997 until 1999.
+* [[Western Sahara]] 19 the number of military observers since September 1991 until now.
+* Sierra Leone the number of military observers since 9 September 1998 until now.
+* DRC 28 the number of military observers was strong support for the confidentiality of individual signal 110 since November 1999 until now.
+* Liberia the number of military observers since 8 December 2003 until now.
+* Burundi number 2 military observers since September 2004 until now.
+* [[Darfur]] Sudan the number of 34 military observers and three officers Authority leaders since August 2004 as part of the security forces [[African Union]] b [[Darfur]], this Unlike the Post mission United Nations in Sudan estimated the number of people in 1046.
+
+In order to support peacekeeping efforts of the African continent, the Egypt the establishment of the Cairo Center for Training on Conflict Resolution and Peacekeeping in Africa and in the year 1995 to train about 200 students per year from [[Africa | African countries]] speaking by French and English and Portuguese in order to strengthen cooperation and interaction between the linguistic and cultural groups in Africa, the Centre collaborates closely with the mechanism [[African Union]] to prevent disputes and also with a number of preservation institutions peace, including the Pearson peacekeeping Centre.
+
+==Non-Military affairs==
+
+The Egyptian Armed Forces established the "''The National Service's projects' organization''" which has more than 10 sub-companies and factories specialized in public service and civil production including chemicals, Cements, plastics, housing construction, consumer goods and military-owned resorts management.
+
+The Armed forces of Egypt helped in building several national projects such as construction of Egypt's main roads, bridges, tunnels, ports, stadiums, clubs, hospitals, international medical centers, medical units, schools, scientific centers, educational centers, cities, factories, desert land reclamation, slums developments, water desalination plants and faculties.<ref>{{cite news| url=http://www.mod.gov.eg/Mod/Mod_EAA.aspx|title=The National Service's projects' organization| publisher=Egyptian Ministry of Defence}}</ref>
+
+Egyptian Armed forces also has 3 football clubs playing in the [[Egyptian Premier League]]. [[El-Entag El-Harby SC]] (Military Production), [[Tala'ea El-Gaish SC]] (Army's Vanguards) and [[Haras El-Hodood SC]] (Border Guards).
+
+==See also==
+* [[Flags of the Egyptian Armed Forces]]
+* [[Supreme Council of the Armed Forces]]
+* [[National Authority for Remote Sensing and Space Sciences]]
+* [[Military of the Arab League]]
+
+==References==
+{{reflist|30em}}
+
+==Further reading==
+* Kenneth M. Pollack, ''Arabs at War: Military Effectiveness 1948–91'', University of Nebraska Press, Lincoln and London, 2002, and Pollack's book reviewed in ''International Security'', Vol. 28, No.2.
+* Hazem Kandil, Soldiers, Spies and Statesmen: Egypt's Road to Revolt
+* Norvell deAtkine, 'Why Arabs Lose Wars,' [[Middle East Quarterly]], 6(4).
+* Egyptian Wars in Modern History (in Arabic), by Maj Gen Abed al-Menahim Khalil
+* In Between the Catastrophe: Memoirs of Egyptian Military Commanders from 1967 to 1972 (in Arabic), by Dr Mohammed al-Jawadi
+* The Three-Years War (in Arabic), by Maj Gen Mohammed Fawzy
+* The Crossing of the Suez, by Lt Gen Saad el-Shazly
+* H.Frisch, Guns and butter in the Egyptian Army, p.&nbsp;6. Middle East Review of International Affairs, Vol. 5, No. 2 (Summer 2001).
+
+==External links==
+* [http://www.mod.gov.eg/ Egyptian Armed Forces]
+* [https://www.cia.gov/library/publications/the-world-factbook/geos/eg.html CIA World Factbook]
+* [http://www.fas.org/main/content.jsp?formAction=297&contentId=196 FAS]
+* [http://www.globalsecurity.org/military/world/egypt/ GlobalSecurity]
+* Department of State, [http://www.guardian.co.uk/world/us-embassy-cables-documents/171176 Academics see the military in decline, but retaining strong influence], 23 September 2009 (US Embassy Cables, ''[[The Guardian]]'', 2011)
+* [http://www.nytimes.com/interactive/2011/02/10/world/middleeast/20110210-egypt-supreme-council.html Egypt’s Supreme Council of the Armed Forces], ''[[The New York Times]]'', 10 February 2011
+* [http://english.aljazeera.net/news/middleeast/2011/02/201121185311711502.html Egypt's military leadership], ''[[Aljazeera English]]'', 11 February 2011
+
+{{Egypt topics}}
+{{Military_of_Egypt}}
+{{Military of Africa}}
+{{Military of Asia}}
+
+[[Category:Military of Egypt]]

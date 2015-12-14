@@ -1,0 +1,3 @@
+#REDIRECT [[COBOL]]{{R from CamelCase}}
+
+[[Category:COBOL]]

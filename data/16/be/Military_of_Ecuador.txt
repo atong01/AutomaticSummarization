@@ -1,0 +1,167 @@
+{{Use dmy dates|date=January 2014}}
+{{Infobox national military
+|country=Ecuador
+|name=Ecuadorian Armed Forces
+|native_name=Fuerzas Armadas del Ecuador
+|image=
+|caption=Ministry of Defence Logo
+|founded=1830
+|current_form=2000    
+|branches=[[Ecuadorian Army]]<br>[[Ecuadorian Navy]]<br>[[Ecuadorian Air Force]]
+|headquarters=[[Quito]]
+<!-- Leadership -->
+|commander-in-chief=[[Rafael Correa]]
+|commander-in-chief_title=
+|minister=[[Fernado Cordero Cueva]]
+|minister_title=
+|commander=General Leonardo Barreiro
+|commander_title=
+<!-- Manpower -->
+|age=18
+|conscription= suspended <ref name="cia.gov"/>
+|manpower_data=
+|manpower_age=16–49
+|available=7,573,824 (2010 est)<ref name="cia.gov"/> 
+|fit=6,103,748 (2010 est)<ref name="cia.gov"/>
+|reaching=299,736 (2010 est)<ref name="cia.gov"/>
+|active=37,448<ref name="ccmr.org"/>
+|amount={{Currency|2.3 billion}} (FY11)<ref name=as-coa.org>{{cite web|last=Glickhouse|first=Rachel|title=Explainer: Defense Spending in Latin America|url=http://www.as-coa.org/articles/4214/Explainer:_Defense_Spending_in_Latin_America/|work=AS/CoA website|publisher=[[Americas Society]] / [[Council of the Americas]]|accessdate=6 July 2012|date=7 June 2012|quote=Last year, Ecuador spent $2.3 billion on the military. In the region, Ecuador spends the highest percent of GDP on the military alone: 2.74 percent in 2010}}</ref> [[List of countries by military expenditures]] ranked 54th
+|percent_GDP=2.74% (FY10)<ref name="as-coa.org"/> [[List of countries by military expenditures]] ranked 37th
+|foreign_suppliers  ={{USA}}<br>{{FRA}}<br>{{GER}}<br>{{CAN}}<br />{{GBR}}<br>{{ISR}}<br>{{ESP}}<br>{{RSA}}<br>{{RUS}}<br>{{IND}}<br>{{CHI}}<br>{{CHN}}<br>{{VEN}}
+}}
+
+The '''Military of Ecuador''' is under [[Civilian control of the military|civilian control]]. The commander-in-chief is the [[President of Ecuador]], currently [[Rafael Correa]]. The military of Ecuador has been involved in border disputes with [[Military of Peru|Peru]] ([[Ecuadorian–Peruvian War]], [[Paquisha War]], [[Cenepa War]]), and has provided [[United Nations Military Observer|Military Observer]]s and troops to the [[United Nations]] since 1948.{{Citation needed|date=July 2010}}
+
+==Mission==
+The Ecuadorian Armed Forces (''Fuerzas Armadas del Ecuador'') are part of the public forces and have the stated mission of the preservation of the integrity and [[national sovereignty]] of the national territory. It also involves participation in the social and [[economic development]] of the country and the provision of assistance in the maintenance of internal order. Tasks include fighting [[organised crime]], anti-narcotic operations and illegal [[immigration]].<ref name="janes.com"/> One social development programme applies the provision of teachers for rural schools through an accord with the Ministry of Education.{{Citation needed|date=April 2012}} Environmental protection is also a priority, several programmes were implemented: "National Forestation and Ornamentation", "Lonely Tree", "Green Surveillance", "Fire Plan", "Ecuador Forest" and "Arenillas Military Reserve".{{Citation needed|date=April 2012}} The Ecuadorian territory is divided into five "Joint Task Force Zones" or ''Fuerzas de Tarea Conjunta'', four on mainland [[Ecuador]], the fifth being the Naval-zone (including the [[Galapagos Islands]]).<ref>{{cite web|url=http://www.hoy.com.ec/noticias-ecuador/noticias-ecuador/se-divide-al-pais-en-cinco-areas-332825.html |title=Se divide al paĂs en cinco ĂĄreas - Diario HOY &#124; Noticias del Ecuador y del Mundo - Hoy Online |publisher=Hoy.com.ec |date= |accessdate=28 July 2010}}</ref><ref>{{cite web|url=http://www.hoy.com.ec/noticias-ecuador/ffaa-presentan-nuevo-plan-de-defensa-interna-332767.html |title=FFAA presentan nuevo plan de defensa interna - Diario HOY &#124; Noticias del Ecuador y del Mundo - Hoy Online |publisher=Hoy.com.ec |date= |accessdate=28 July 2010}}</ref> Overseas territories include also the "[[Pedro Vicente Maldonado]]" Naval Biological Research Station in the [[Antarctic]].
+
+==Geopolitical situation==
+[[Ecuador]] shares a {{convert|1420|km|0|abbr=on}} border with [[Peru]]. Although marked by many conflicts, relations have improved since the signing of a renewed [[Rio Protocol|Peace Treaty]] in 1998.<ref name="cia.gov">{{cite web |title=Ecuador |url= https://www.cia.gov/library/publications/the-world-factbook/geos/ec.html |work=[[The World Factbook]] |publisher=[[Central Intelligence Agency]]|accessdate=6 July 2012|year=2012}}</ref> However, along the {{convert|590|km|0|abbr=on}}-long border with its neighbour [[Colombia]], relations have been strained mainly due to a cross-border raid by [[Colombian Army|Colombian forces]] on [[FARC]] [[Guerrilla warfare|guerrillas]].<ref name="janes.com">{{cite web |url= http://www.janes.com/articles/Janes-Sentinel-Security-Assessment-South-America/Armed-forces-Ecuador.html |title=Armed forces (Ecuador) - Sentinel Security Assessment - South America |publisher=Janes |date= |accessdate=28 July 2010}}</ref><ref name="time.com"/><ref name="time.com">{{cite news |author=Stephan K&uuml;ffner |url= http://www.time.com/time/world/article/0,8599,1732271,00.html |title=South America's Most Troubled Border |work=Time |location= New York |date=18 April 2008 |accessdate=28 July 2010}}</ref> The [[Armed Forces]] had logistical shortcomings and were caught off-guard. Their [[radar]] did not work, aviation was virtually non-existent and [[Military communications|communications]] were not fully operational.<ref>{{cite news |url= http://english.pravda.ru/hotspots/conflicts/26-04-2010/113174-correa_warns_ecuador_will_respo-0 |title= Correa Warns Ecuador Will Respond if Attacked On Its Territory |work=Pravda |location= Moscow |date=26 April 2010 |accessdate=28 July 2010}}</ref> A [[2008 Andean diplomatic crisis|diplomatic crisis]] followed in 2008 which some attribute partially to the need for better equipment as well as a new national defence [[doctrine]].<ref>{{cite web |url= http://www.strategicstudiesinstitute.army.mil/pdffiles/PUB891.pdf |title=War without Borders: The Colombia-Ecuador Crisis of 2008 |publisher= Strategic Studies Institute |date= |accessdate=28 July 2010}}</ref>
+
+The new administration at the Defence Ministry launched a deep restructuring program under the name of "PATRIA I". It involves the modernisation of [[military]] equipment, improvement of planning and operations within the Ecuadorian territory. "PATRIA I" shall be completed by 2011. In 2009, the spending budget was increased by 25% and totaled $920 millions.
+
+== History ==
+{{Main|Military history of Ecuador}}
+
+[[File:Ecuador-peru-land-claims-01.png|thumb|Map of the long-lasting territorial dispute between [[Ecuador]] and [[Peru]], settled only in 1998. (in Spanish)]]
+
+[[Ecuador]]'s [[military]] history dates far back to its first attempt to secure freedom from [[Spain]] in 1811. In 1822 Ecuadorian troops, alongside other rebel forces, scored a [[decisive victory]] over the [[Spain|Spanish]] royalist [[army]] at the [[Battle of Pichincha]]. Although assisted by Peruvian troops, it would fight these only a few years later in 1828, as a member of the Confederation of [[Gran Colombia]]. Confederation forces, fewer than half of which were [[Ecuadorians]],{{citation needed|date=December 2012}} defeated a much larger Peruvian force near [[Cuenca, Ecuador|Cuenca]], at the [[Battle of Tarqui]]. Eventually, Civil War would plunge the country and the army into disorder. In 1941 the Ecuadorian Military found itself weak and disorganized; the by now long-lasting territorial dispute with [[Peru]] escalated into a major conflict, the [[Ecuadorian–Peruvian War|Ecuadorian–Peruvian War of 1941]]. A much larger and better equipped Peruvian force quickly overwhelmed the Ecuadorian forces, driving them back and invading the Ecuadorian territory. Ecuador had no choice but to accept Peru's territorial claims and signed [[Rio Protocol|Peace treaty]] in 1942. However, the treaty of 1942 failed to settle the border dispute and occasional clashes occurred in a then still non-demarcated border area between the nations. These clashes flared into another outbreak of serious fighting in January 1981 called the [[Paquisha War]]; similar incidents occurred in 1983 and again in 1984. The last [[military]] conflict with Peru occurred in 1995, during the [[Cenepa War]], in which both sides claimed to be fighting inside their own territory until the signing of a ceasefire and the eventual separation of forces. The longest-running source of armed international conflict in the Western Hemisphere had ended.<ref>{{cite web|url=http://www.historyguy.com/hgnews_ecuador-peru.html |title=News:Ecuador-Peru |publisher=The History Guy |date= |accessdate=28 July 2010}}</ref>
+
+===Local engagements===
+*[[Ecuadorian War of Independence]] in 1820
+*[[Battle of Pichincha]] in 1822
+*[[Gran Colombia–Peru War]] in 1829
+*[[Ecuadorian–Peruvian war of 1858|Ecuadorian-Peruvian war]] of 1858
+*[[Battle of Guayaquil]] in 1860
+*[[Ecuadorian-Colombian War]] in 1863
+*[[Chincha Islands War]] in 1864
+*[[Ecuadorian-Peruvian War]] in 1941
+*[[Paquisha War]] in 1981
+*[[Cenepa War]], in 1995
+
+===UN peacekeeping operations ===
+The Ecuadorian Armed Forces has provided [[United Nations Military Observer|Military Observer]]s and troops to the [[United Nations]] since 1948. In November 2003, an Ecuadorian [[United Nations]] Training Centre was established under the name of: (''La Unidad Escuela de Misiones de Paz “[[Ecuador]]”''). In 2009, [[Ecuador]] was deploying over 90 peacekeepers around the globe.
+ 
+*1948 {{flagicon|Pakistan}} [[United Nations Military Observer Group in India and Pakistan|UNIMOGIP]] United Nations Military Observer Group in [[Pakistan]].
+*1948 {{flagicon|India}} [[United Nations Military Observer Group in India and Pakistan|UNIMOGIP]] United Nations Military Observer Group in [[India]].
+*1958 {{flagicon|Lebanon}} [[UNOGIL]] Peacekeeping mission in [[Lebanon]].
+*1961 {{flagicon|COD|1960}} [[United Nations Operation in the Congo|ONUC]] Peacekeeping Force in [[Republic of the Congo (Léopoldville)|Congo]].
+*1965 {{flagicon|Dominican Republic}} [[DOMREP]] Mission of the Representative of the Secretary-General in the [[Dominican Republic]].
+*1990 {{flagicon|Nicaragua}} [[ONUCA]] United Nations Observer Group in [[Central America]], [[Nicaragua]].
+*1991 {{flagicon|El Salvador}} [[ONUSAL]] United Nations Observer Group in [[El Salvador]].
+*1994 {{flagicon|Guatemala}} [[MINUGUA]] United Nations Verification Mission in [[Guatemala]].
+*2003 {{flagicon|Liberia}} [[United Nations Mission in Liberia|UNMIL]] United Nations Observer Group in [[Liberia]].
+*2004 {{flagicon|Ivory Coast}} [[United Nations Operation in Côte d'Ivoire|UNOCI]] Peacekeeping mission in [[Ivory Coast]].
+*2004 {{flagicon|Haiti}} [[MINUSTAH]], United Nations Stabilization Mission in [[Haiti]].
+*2005 {{flagicon|Sudan}} [[United Nations Mission in Sudan|UNMIS]] United Nations Mission in [[Sudan]].
+*2007 {{flagicon|Nepal}} [[United Nations Mission in Nepal|UNMIN]] United Nations Mission in [[Nepal]].
+*2008 {{flagicon|Chad}} [[MINURCAT]] United Nations Mission in [[Chad]].
+*2008 {{flagicon|Central African Republic}} [[MINURCAT]] Part of a Peacebuilding Commission in the [[Central African Republic]].
+
+==Command structure==
+*'''The Commander-in-Chief of the Armed Forces''' (''Comandante en Jefe de las Fuerzas Armadas'') is the [[Rafael Correa|President of the Republic]]. He exercises the political leadership of security and national defence and counts on the advice of the National Security Council.
+
+*'''The National Security Council''' (''El Consejo de Seguridad Nacional'') or N.S.C. is the superior body responsible for the [[National security|national defence]], in charge of issuing the strategic concept of [[national security]], which in turn constitutes the essential instrument to start the planning and decision-making process. It is chaired by the [[Rafael Correa|President of the Republic]], which is also the [[Commander-in-Chief]] of the [[Armed Forces]]. It includes the Presidents of the [[National Congress of Ecuador|National Congress]] and the [[Supreme court|Supreme Court of Justice]]; the ministers in charge of [[National security|National Defence]], [[Government]] and [[Police]], [[International relations|Foreign Affairs]], and [[Economy|Economy and Finance]]; the Chief of the Joint Command, and the Chiefs of the three branches of the [[Armed Forces]]. It monitors the fulfillment of the defence policies and the strategic plans elaborated by the Joint Command of the [[Armed Forces]], submitted by the [[National security|Ministry of National Defence]]. The N.S.C. constitutes the highest ranking monitoring and crisis management body.
+
+*'''The Ministry of Defense''' (''Ministerio de la Defensa National''), is the administrative body of the national defence. The Coordinating Minister of Internal and External Security accords the policies and actions that will be adopted by the following institutions as regards internal and external security: the [[Government|Ministry of Government]] and [[Police]], [[International relations|the Ministry of Foreign Affairs]], the Ministry of Defence, and the Secretariat General for the [[Public administration]].
+
+*'''The Joint Armed Forces Command''' (''El Comando Conjunto de las Fuerzas Armadas''), is the highest planning, preparation and strategic body of [[military]] operations. It advises on national defence and is conformed by the Chief of the Joint Command of the [[Armed Forces]] and the [[Commander]]s of all three branches of the Ecuadorian [[Armed Forces]]: The [[Ecuadorian Army|Army]], [[Ecuadorian Navy|Navy]] and the [[Ecuadorian Air Force|Air Force]].
+
+==Branches==
+
+=== Army ===
+{{Main|Ecuadorian Army}}
+
+[[File:Seal of the Ecuadorian Army.jpg|180px|right]]
+
+The '''Ecuadorian Army''' (''Ejército Ecuatoriano'') is the land component of the [[Armed Forces]]. Its 24,135<ref name="ccmr.org">{{cite book|title=A Comparative Atlas of Defence in Latin America|publisher=Red de Seguridad y Defensa de América Latina (Security and Defense Network of Latin America)|pages=180–193|url=http://www.ccmr.org/public/library_file_proxy.cfm/lid/5603|edition=2008|format=PDF|chapter=Chapter 15 - Ecuador}}</ref> soldiers are deployed in relation to its [[military doctrine]]. The contemporary [[Ecuadorian Army]] has a large component of [[Jungle warfare|jungle]] and [[Special forces|special forces infantry units]] implemented within its structure. It operates around 130 Tanks, 200 IFV's and 60 aircraft, their standard rifle is the [[Heckler & Koch HK33]]. Recently acquired material include:
+
+*{{flagicon|Brazil}} 30 [[Agrale|4x4 vehicles]]<ref>{{cite web|author=Política Externa Brasileira |url=http://www.politicaexterna.com/archives/4432 |title=Exército do Equador Adquire Segundo Lote de Utilitários Agrale Marruá &#124; Política Externa Brasileira |publisher=Politicaexterna.com |date=30 August 2009 |accessdate=28 July 2010}}</ref><ref>[http://defesabrasil.com/site/noticias/internacional/agrale-marrua-sera-usado-pelo-exercito-do-equador-na-defesa-das-fronteiras.php ]{{Dead link|date=July 2010}}</ref><ref>{{cite web|url=http://www.webtranspo.com.br/veiculos/2285-agrale-fornecera-veiculos-ao-exercito-do-equador |title=Agrale fornecerá veículos ao Exército do Equador |publisher=Webtranspo |date=20 February 2009 |accessdate=28 July 2010}}</ref>
+*{{flagicon|Japan}} 15 [[Hino Motors|Trucks]] (donated by the USA)<ref>{{cite web|url=http://www.worldpoliticsreview.com/blog/5556/global-insider-ecuadors-foreign-policy |title=Trend Lines: WPR Blog &#124; Global Insider: Ecuador's Foreign Policy |publisher=Worldpoliticsreview.com |date=18 May 2010 |accessdate=28 July 2010}}</ref><ref>{{cite web|url=http://ecuador.usembassy.gov/ |title=U.S. Embassy Quito, Ecuador - Home |publisher=Ecuador.usembassy.gov |date= |accessdate=28 July 2010}}</ref><ref>{{cite web|url=http://www.army.mil/-news/2010/05/06/38629-us-military-trains-with-ecuadorians-on-mounted-operations/ |title=U.S. military trains with Ecuadorians on mounted operations |publisher=Army.mil |date=6 May 2010 |accessdate=28 July 2010}}</ref>
+*{{flagicon|Venezuela}} 2 [[Tiuna|4x4 vehicles]] (Donated by Venezuela)<ref>{{cite web|url=http://www.venezuela.org.ec/index.php?option=com_content&task=view&id=263&Itemid=74 |title=Embajada de la Republica Bolivariana de Venezuela - VENEZUELA DONA A ECUADOR DOS VEHICULOS TIUNA DE RECONOCIMIENTO |publisher=Venezuela.org.ec |date=27 February 1989 |accessdate=28 July 2010}}</ref><ref>{{cite web|url=http://www.noticias24.com/actualidad/noticia/152239/ |title=Asumen sus cargos las nuevas autoridades de las Fuerzas Armadas de Ecuador (+ Fotos) en |publisher=Noticias24.com |date= |accessdate=28 July 2010}}</ref>
+*{{flagicon|Russia}} 2 [[Mil Mi-17]] helicopters<ref>{{cite web|url=http://english.cctv.com/20091028/102913.shtml |title=Ecuador confirms purchase of two Russian helicopters CCTV-International |publisher=English.cctv.com |date=28 October 2009 |accessdate=28 July 2010}}</ref>
+
+*{{flagicon|USA}} 107 [[Humvee]] <ref>http://www.elcomercio.com.ec/actualidad/seguridad/ecuador-compra-ee-uu-107.html</ref>
+
+=== Air Force ===
+{{Main|Ecuadorian Air Force}}
+
+[[File:Seal of the Ecuadorian Air Force.gif|right|180px| Seal of the Ecuadorian Air Force]]
+
+The present day '''Ecuadorian Air Force''' (''Fuerza Aérea Ecuatoriana'') saw combat-action several times in 1981 and 1995 when it gained valuable experiences against the [[Peruvian Air Force]]. Today the FAE has a personnel of 6,055<ref name="ccmr.org"/> and focuses mainly on border-control but faces also the war on drugs, guerrilla insurgency as well as humanitarian missions. Since 2009 the FAE is going through some major changes and modernisation plans are still ongoing whilst new projects are considered to bolster the country's defence capacities. Recent and ongoing orders:
+
+*{{flagicon|Brazil}} 18<ref>{{cite web|url=http://infodefensa.com/lamerica/noticias/noticias.asp?cod=2334&n=Ecuador-reduce-la-compra-de-Super-Tucano-para-renovar-su-flota-de-cazas-de-combate |title=Ecuador reduce la compra de Super Tucano para renovar su flota de cazas de combate - infodefensa.com - Información Defensa y Seguridad |publisher=infodefensa.com |date=28 May 2010 |accessdate=28 July 2010}}</ref> [[Super Tucano]] light combat aircraft<ref>{{cite web|url=http://www.strategypage.com/htmw/htproc/articles/20090114.aspx |title=Procurement: Super Tucano Is Super |publisher=Strategypage.com |date=14 January 2009 |accessdate=28 July 2010}}</ref><ref>{{cite news|url=http://www.reuters.com/article/companyNews/idUSN2935328220080429 |title=UPDATE 1-Ecuador to buy 24 warplanes from Brazil's Embraer |publisher=Reuters |date= 29 April 2008|accessdate=28 July 2010 | first=Alonso | last=Soto}}</ref>
+*{{flagicon|Venezuela}} 6 [[Dassault Mirage 5|Mirage 50]] (Donated by Venezuela)
+*{{flagicon|South Africa}} 12 [[Atlas Cheetah|Cheetah]] [[supersonic]] [[fighter aircraft]]<ref>{{cite web|url=http://en.mercopress.com/2009/09/25/ecuador-ready-to-purchase-combat-aircrafts-from-south-africa |title=Ecuador ready to purchase combat aircrafts (sic) from South Africa — MercoPress |publisher=En.mercopress.com |date=25 September 2009 |accessdate=28 July 2010}}</ref>
+*{{flagicon|India}} 8 [[HAL Dhruv]] helicopters from India<ref>{{cite web|author=29 June 2008 13:26 EDT |url=http://www.defenseindustrydaily.com/Dhruv-Helicopters-for-Ecuador-04950/ |title=Dhruv Helicopters for Ecuador |publisher=Defenseindustrydaily.com |date=29 June 2008 |accessdate=28 July 2010}}</ref><ref>{{cite web|url=http://www.business-standard.com/india/news/hal-to-hand-over-first-export-dhruvs/01/40/348441/ |title=HAL to hand over first export Dhruvs |publisher=Business-standard.com |date=9 February 2009 |accessdate=28 July 2010}}</ref>
+*{{flagicon|Spain}} [[3D LANZA Radar]] low altitude radars<ref>{{cite web|url=http://www.eluniverso.com/noticias/2014/10/18/nota/4116566/ecuador-comprara-radares-espana-80-millones-dolares}}</ref>
+*{{flagicon|Spain}} 3 [[EADS CASA C-295]] Tactical military transport aircraft.<ref>http://www.larepublica.ec/blog/politica/2014/06/09/ecuador-compra-tres-aviones-militares-airbus/</ref>
+
+=== Navy ===
+{{Main|Ecuadorian Navy}}
+[[File:Armada del Ecuador.JPG|right|180px|Ecuadorian Navy insignia]]
+
+The present day '''Ecuadorian Navy''' or (''Armada del Ecuador'') is a compact, efficient and well-balanced force. However, limited funds hinder any major acquisitions and the chances of maintaining a strong force within the [[Pacific Ocean]]. Since end 2009, the Navy's structure became simplified. The Ecuadorian Naval-Zone became one and measures, {{convert|2237|km|0|abbr=on}} of the [[Pacific Coast]] and 6,720&nbsp;km<sup>2</sup> of the [[Pacific Ocean]], (including the [[Galápagos Islands]]). Most sea-going assets are based at [[Guayaquil]]. The Navy focuses mainly on the border-control and illegal immigration. The [[Ecuadorian Navy|Navy]] operates around 20 major vessels (including two submarines) and 25 aircraft. It has a personnel of 7,258.<ref name="ccmr.org"/> To increase its operational capabilities it acquired recently:
+
+* {{flagicon|Israel}} 2 [[IAI Heron|Heron 1]] [[unmanned aerial vehicles]]<ref>{{cite web|url=http://www.iai.co.il/18900-16382-en/default.aspx |title=Israel Aerospace Industries Ltd. (IAI) - Military Malat Products Heron 1 |publisher=IAI |date= |accessdate=28 July 2010}}</ref><ref>{{cite web|url=http://www.iai.co.il/18894-15742-en/default.aspx |title=Israel Aerospace Industries Ltd. (IAI) - Military Malat Products Searcher III |publisher=IAI |date= |accessdate=28 July 2010}}</ref>
+* {{flagicon|Israel}} 4 [[IAI Searcher|Searcher MK II]] [[unmanned aerial vehicles]]<ref>{{cite web|author=Richard Eugenio |url=http://www.eltelegrafo.com.ec/policiales/noticia/archive/policiales/2009/06/11/Seis-aviones-no-tripulados--ingresan-a-filas-navales--.aspx |title=El Telégrafo - Decano de la prensa nacional &#124; Seis aviones no tripulados ingresan a filas navales |publisher=Eltelegrafo.com.ec |date= |accessdate=28 July 2010}}</ref><ref>{{cite web|url=http://www.midena.gov.ec/content/view/7520/1/ |title=Ministerio de Defensa Nacional de la República del Ecuador - Aviones no tripulados llegan el 11 de junio a Ecuador |publisher=Midena.gov.ec |date= |accessdate=28 July 2010}}</ref>
+
+== Equipment sources ==
+Historically, [[Ecuador]] depended on a wide variety of foreign suppliers for virtually all of its equipment needs. Only in the 1980s did it begin to develop a modest domestic arms industry as the Directorate of Army Industries manufactured rifle ammunition, uniforms, boots, and other consumable items.
+
+In the 1960s and 1970s, [[France]] became a leading supplier and delivered [[AMX-13]] tanks and various aircraft. [[Ecuador]] purchased also [[Type 209 submarine]]s and [[Lürssen]]-Seawolf TNC 45 patrol boats from [[West Germany]]. Whereas various types of [[Infantry]] weapons were acquired from [[Belgium]].
+
+[[Ecuador]] became a substantial customer for [[Israel]]i arms in the 1970s, purchasing [[IAI Arava|Arava aircraft]], [[Gabriel missile]] for naval patrol crafts and [[Uzi]] submachine guns. Under technical assistance contracts, [[Israel]] serviced [[Israel]]i planes within the [[Ecuadorian Air Force|air force]] inventory as well as [[Boeing]] civilian aircraft flown by [[TAME]] and ''Ecuatoriana Airlines''. [[Ecuador]] reportedly also employed [[Israel]]i security specialists as consultants in the fight against terrorism. In 1976 [[Ecuador]] became the first foreign country to order the [[Kfir]], an advanced jet-fighter equipped with the General Electric J-79 engine produced in [[Israel]] under license. The transaction, which required [[United States]] government approval because of the engine technology, was rejected by the administration of President [[Jimmy Carter]] in order to discourage the proliferation of sophisticated military equipment in the [[Third World]]. The action caused an uproar in [[Israel]] where the sale was regarded as an important breakthrough in [[Israel]]s efforts to develop international markets for the [[Kfir]]. In 1981, after the inauguration of President [[Ronald Reagan]], [[Federal government of the United States|Washington]] removed its objection to the sale. Although the contract called for the purchase of 12 [[Kfir]]s and an option to purchase an additional 12, [[Ecuador]] acquired only the original group, at a price estimated at US$196 million.
+
+[[Ecuador]] became a relatively heavy importer of arms in the late 1970s and early 1980s, averaging US$150 million annually and reaching a peak of US$280 million in 1982. These imports declined sharply to an average of only US$50 million annually between 1985 and 1987, presumably as a result of a dramatic reduction in oil revenues and the precipitous drop in the value of the [[Ecuadorian sucre|sucre]], which made imported arms extremely expensive. Between 1983 and 1987, [[Ecuador]] imported an estimated US$460 million of arms, primarily from [[Italy]], [[France]], the [[United States]] and [[United Kingdom|Britain]]. In 1995, during the [[Cenepa War]] against [[Peru]], [[Argentina]] gave to [[Ecuador]] in a controversial move, 6.500 [[ton]]s of rifles, cannons, [[anti-tank rockets]], and ammunition.<ref>{{cite news|author=Redacción BBC Mundo |url=http://news.bbc.co.uk/hi/spanish/latin_america/newsid_7274000/7274638.stm |title=BBC Mundo &#124; América Latina &#124; Así fue la última guerra |publisher=BBC News |date= 3 March 2008|accessdate=28 July 2010}}</ref>
+
+Recent times saw changes within [[Ecuador]]s foreign policy and it decided to look for alternative weapon suppliers. These were found also, in its long-term allies [[Chile]], which sold since 2008 [[Leopard 1]] tanks, [[Leander class frigate]]s. [[Israel]], delivered in 2009 its [[unmanned aerial vehicles]] and [[Brazil]], supplied additional military vehicles and [[Embraer EMB 314 Super Tucano|Super Tucano]] combat-aircraft. Countries like [[Russia]] and [[China]] had already delivered a small quantity of military equipment some years earlier, but gained on importance during the past few years. Since then, Chinese radars, anti-aircraft systems and infantry weapons were purchased. In 2009 two additional [[Mil Mi-17]] helicopters have been ordered from [[Russia]] with further deals planned.<ref>{{cite web|url=http://www.presstv.ir/detail.aspx?id=108411&sectionid=351020706 |title=Ecuador seeks arms deal with Russia |publisher=Presstv.ir |date=11 October 2009 |accessdate=28 July 2010}}</ref> [[India]] delivered [[HAL Dhruv]] helicopters and [[South Africa]] is about to deliver 12 [[Atlas Cheetah]] [[supersonic]]-aircraft. [[Ecuador]]'s political ally, [[Venezuela]], donated military equipment and six [[Dassault Mirage 5|Mirage 50]] aircraft. In 2010, the [[Diplomatic mission|U.S. embassy]] in [[Ecuador]] announced that it had delivered $1.2 million of donated military equipment to the Ecuadorian military. The donations were intended to support operations countering drug-smuggling and guerilla activity along its [[Colombia]]n border. Although the U.S. have been refused to renew their lease on the [[Manta Air Base|Manta military airbase]], deliveries included trucks, patrol boats, GPS, night-vision and [[M4 carbine|rifles]].<ref>{{cite web|url=http://sify.com/news/us-gives-military-gear-worth-1-2-mn-to-ecuador-news-international-kflkOcfdhhf.html |title=US gives military gear worth $1.2 mn to Ecuador |publisher=Sify.com |date=11 May 2010 |accessdate=28 July 2010}}</ref><ref>{{cite web|url=http://www.worldpoliticsreview.com/blog/5533/leading-indicators-off-the-radar-news-roundup |title=Leading Indicators &#124; Leading Indicators: Off-the-Radar News Roundup |publisher=Worldpoliticsreview.com |date=12 May 2010 |accessdate=28 July 2010}}</ref>
+
+== See also ==
+*[[History of the Ecuadorian–Peruvian territorial dispute]]
+*[[Ecuadorian–Peruvian territorial dispute of 1857–1860]]
+*[[Military Governments of Ecuador (1960-1979)]]
+*[[2008 Andean diplomatic crisis]]
+*[[Ecuadorian–Peruvian War]]
+*[[National Armed Forces of the Bolivarian Republic of Venezuela|Military of Venezuela]]
+*[[Military of Colombia]]
+*[[Military of Peru]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+*{{es icon}} [http://www.midena.gov.ec/ Official site of the Ministry of Defence]
+*{{es icon}} [http://www.cosena.gov.ec/home/index.php Official site of the National Security Council]
+*{{es icon}} [http://www.ejercitodelecuador.mil.ec/ Official site of the Ecuadorian Army]
+*{{es icon}} [http://www.fuerzaaereaecuatoriana.org/ Official site of the Ecuadorian Air Force]
+*{{es icon}} [http://www.armada.mil.ec/ Official site of the Ecuadorian Navy]
+*{{es icon}} [http://www.dirnea.org/ Official Ecuadorian Coast Guard site]
+*{{es icon}} [http://www.esdeim.armada.mil.ec/ Official site of the Ecuadorian Marines]
+
+{{Military of Ecuador}}
+{{Military of South America}}
+{{Ecuador topics}}
+
+{{DEFAULTSORT:Military Of Ecuador}}
+[[Category:Military of Ecuador|Ecuadorian Armed Forces]]

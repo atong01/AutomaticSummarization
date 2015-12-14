@@ -1,0 +1,75 @@
+[[Image:Hash table 3 1 1 0 1 0 0 SP.svg|thumb|315px|right|A [[hash table]].]]
+
+In [[computer science]], a '''data structure''' is a particular way of organizing [[data (computing)|data]] in a computer so that it can be used [[algorithmic efficiency|efficiently]].<ref>Paul E. Black (ed.), entry for ''data structure'' in ''[[Dictionary of Algorithms and Data Structures]]. U.S. [[National Institute of Standards and Technology]]. 15 December 2004. [http://xlinux.nist.gov/dads/HTML/datastructur.html Online version] Accessed May 21, 2009.''</ref><ref>Entry ''data structure'' in the [[Encyclopædia Britannica]] (2009) [http://www.britannica.com/EBchecked/topic/152190/data-structure Online entry] accessed on May 21, 2009.</ref> Data structures can implement one or more particular [[abstract data type]]s (ADT), which are the means of specifying the contract of operations and their [[Computational complexity theory|complexity]]. In comparison, a data structure is a concrete implementation of the contract provided by an ADT.
+
+
+Different kinds of data structures are suited to different kinds of applications, and some are highly specialized to specific tasks. For example, databases use [[B-tree]] indexes for small percentages of data retrieval, and [[compiler]]s and databases use dynamic [[hash table]]s as look-up tables.
+
+Data structures provide a means to manage large amounts of data efficiently for uses such as large [[database]]s and [[web indexing|internet indexing services]]. Usually, efficient data structures are key to designing efficient [[algorithm]]s. Some formal design methods and [[programming language]]s emphasize data structures, rather than algorithms, as the key organizing factor in software design. Storing and retrieving can be carried out on data stored in both [[main memory]] and in [[secondary memory]].
+
+==Overview==
+Data structures are generally based on the ability of a computer to fetch and store data at any place in its memory, specified by a [[pointer (computer programming)|pointer]]—a bit string, representing a [[memory address]], that can be itself stored in memory and manipulated  by the program. Thus, the [[Array data structure|array]] and [[record (computer science)|record]] data structures are based on computing the addresses of data items with [[arithmetic operations]]; while the [[linked data structure]]s are based on storing addresses of data items within the structure itself. Many data structures use both principles, sometimes combined in non-trivial ways (as in [[XOR linked list|XOR linking]]).
+
+The implementation of a data structure usually requires writing a set of [[subroutine|procedures]] that create and manipulate instances of that structure. The efficiency of a data structure cannot be analyzed separately from those operations. This observation motivates the theoretical concept of an [[abstract data type]], a data structure that is defined indirectly by the operations that may be performed on it, and the mathematical properties of those operations (including their space and time cost).
+
+==Examples==
+{{main|List of data structures}}
+There are numerous types of data structures, generally built upon simpler [[primitive data type]]s:
+* An [[array data structure|''array'']] (also called ''list'') is a number of elements in a specific order, typically all of the same type. Elements are accessed using an integer index to specify which element is required (although the elements may be of almost any type). Typical implementations allocate contiguous memory words for the elements of arrays (but this is not always a necessity). Arrays may be fixed-length or resizable.
+* An ''[[associative array]]'' (also called ''dictionary'' or ''map'') is a more flexible variation on an array, in which [[name-value pair]]s can be added and deleted freely. A [[hash table]] is a common implementation of an associative array.
+* A [[Record (computer science)|''record'']] (also called ''tuple'' or ''struct'') is an aggregate data structure. A record is a value that contains other values, typically in fixed number and sequence and typically indexed by names. The elements of records are usually called ''fields'' or ''members''.
+* A [[Union (computer science)|''union'']] is a data structure that specifies which of a number of permitted primitive types may be stored in its instances, e.g. ''float'' or ''long integer''. Contrast with a [[record (computer science)|record]], which could be defined to contain a float ''and'' an integer; whereas in a union, there is only one value at a time. Enough space is allocated to contain the widest member datatype.
+* A ''[[tagged union]]'' (also called [[variant type|''variant'']], ''variant record'', ''discriminated union'', or ''disjoint union'') contains an additional field indicating its current type, for enhanced type safety.
+* A [[set (abstract data type)|''set'']] is an [[abstract data structure]] that can store specific values, in no particular [[sequence|order]] and with no duplicate values.
+* A [[Graph (abstract data type)|''graph'']] and a [[Tree (data structure)|''tree'']] are [[linked data structure|linked]] [[abstract data type|abstract data structures]] composed of [[node (computer science)|''nodes'']]. Each node contains a value and one or more [[pointer (computer programming)|pointers]] to other nodes arranged in a hierarchy. Graphs can be used to represent networks, while variants of trees can be used for [[sorting algorithm|sorting]] and [[search algorithm|searching]], having their nodes arranged in some relative order based on their values.
+* A [[Class (computer programming)|''class'']] is a data structure that contains data fields, like a record, as well as various [[Method (computer programming)|methods]] which operate on the contents of the record. In the context of [[object-oriented programming]], records are known as [[plain old data structures]] to distinguish them from classes.
+
+==Language support==
+Most [[assembly language]]s and some low-level languages, such as [[BCPL]] (Basic Combined Programming Language), lack built-in support for data structures.  On the other hand, many [[high-level programming language]]s and some higher-level assembly languages, such as [[MASM]], have special syntax or other built-in support for certain data structures, such as records and arrays. For example, the [[C (programming language)|C]] and [[Pascal (programming language)|Pascal]] languages support [[struct]]s and records, respectively, in addition to vectors (one-dimensional [[array data type|arrays]]) and multi-dimensional arrays.<ref name="gnu-c">{{cite web | url=http://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html | title=The GNU C Manual | publisher=Free Software Foundation | accessdate=15 October 2014}}</ref><ref>{{cite web | url=http://www.freepascal.org/docs-html/ref/ref.html | title=Free Pascal: Reference Guide | publisher=Free Pascal | accessdate=15 October 2014}}</ref>
+
+Most programming languages feature some sort of [[Library (computing)|library]] mechanism that allows data structure implementations to be reused by different programs. Modern languages usually come with standard libraries that implement the most common data structures. Examples are the [[C++]] [[Standard Template Library]], the [[Java Collections Framework]], and [[Microsoft]]'s [[.NET Framework]].
+
+Modern languages also generally support [[modular programming]], the separation between the [[interface (computing)|interface]] of a library module and its implementation. Some provide [[opaque data type]]s that allow clients to hide implementation details. [[Object-oriented programming language]]s, such as [[C++]], [[Java (programming language)|Java]] and [[Smalltalk]] may use [[classes (computer science)|classes]] for this purpose.
+
+Many known data structures have [[concurrent data structure|concurrent]] versions that allow multiple computing threads to access the data structure simultaneously.
+
+==See also==
+{{Wikipedia books|Data structures}}
+{{Div col||25em}}
+* [[Abstract data type]]
+* [[Concurrent data structure]]
+* [[Data model]]
+* [[Dynamization]]
+* [[Linked data structure]]
+* [[List of data structures]]
+* [[Persistent data structure]]
+* [[Plain old data structure]]
+{{Div col end}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* Peter Brass, ''Advanced Data Structures'', [[Cambridge University Press]], 2008.
+* [[Donald Knuth]], ''[[The Art of Computer Programming]]'', vol. 1. [[Addison-Wesley]], 3rd edition, 1997.
+* Dinesh Mehta and [[Sartaj Sahni]] ''Handbook of Data Structures and Applications'', [[Chapman and Hall]]/[[CRC Press]], 2007.
+* [[Niklaus Wirth]], ''Algorithms and Data Structures'', [[Prentice Hall]], 1985.
+
+==External links==
+{{Sister project links|wikt=data structure|commons=Category:Data structures|b=Data Structures|v=Topic:Data structures|n=no}}
+* [http://scanftree.com/Data_Structure/  course on data structures ]
+* [http://scanftree.com/programs/operation/data-structure/  Data structures Programs Examples in c,java]
+* [http://academicearth.org/computer-science/ UC Berkeley video course on data structures]
+* [http://nist.gov/dads/ Descriptions] from the [[Dictionary of Algorithms and Data Structures]]
+* [http://www.cs.auckland.ac.nz/software/AlgAnim/ds_ToC.html Data structures course]
+* [http://msdn.microsoft.com/en-us/library/aa289148(VS.71).aspx An Examination of Data Structures from .NET perspective]
+* [http://people.cs.vt.edu/~shaffer/Book/C++3e20110915.pdf Schaffer, C. ''Data Structures and Algorithm Analysis'']
+
+{{Data structures}}
+{{Data types}}
+{{Data model}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Data Structure}}
+[[Category:Data structures| ]]

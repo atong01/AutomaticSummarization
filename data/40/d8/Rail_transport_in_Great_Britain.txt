@@ -1,0 +1,536 @@
+{{For|transport in [[Northern Ireland]]|Rail transport in Ireland}}
+{{Use dmy dates|date=July 2014}}
+{{Infobox rail network
+|name            = Great Britain
+|color           = 
+|logo            = 
+|image           = 
+|caption         = 
+|nationalrailway = 
+|infrastructure  = 
+|majoroperators  = [[National Rail]] franchises
+|ridership       = 1.654 billion (2015)
+|passkm          =  {{convert|62.9|km|mi|abbr=on}} billion (2015)
+|freight         = 
+|length          = {{convert|15,753|km|mi|abbr=on}}<ref name="ORR-data-portal" />
+|doublelength    = 
+|ellength        = {{convert|5,268|km|mi|abbr=on}}<ref name="ORR-data-portal" />
+|freightlength   = 
+|hslength        = 
+|gauge           =
+|gauge1          = {{RailGauge|standard|al=on|allk=on}}
+|gauge1length    =
+|gauge2          = 
+|gauge2length    = 
+|gauge3          = 
+|gauge3length    = 
+|gauge4          = 
+|gauge4length    = 
+|el              = 
+|el1             = 
+|el1length       = 
+|el2             = 
+|el2length       = 
+|el3             = 
+|el3length       =
+|notunnels       = 
+|tunnellength    = 
+|longesttunnel   = 
+|nobridges       = 
+|longestbridge   = 
+|nostations      = 2550<ref name="ORR-data-portal" />
+|highelevation   = 
+|highelat        = 
+|lowelevation    = 
+|lowelat         = 
+|map             = [[File:Rail Map GB (RC).png|250px]]
+}} 
+{{train topics}}
+The '''[[railway]] system in Great Britain''' is the oldest in the world: the world's first locomotive-hauled public railway opened in 1825. Most of the railway track is managed by [[Network Rail]], which in 2014 had a network of {{convert|15,753|km|mi}} of [[standard-gauge]] lines, of which {{convert|5,268|km|mi}} were [[Railway electrification in Great Britain|electrified]].<ref name="ORR-data-portal">{{cite web |url=http://dataportal.orr.gov.uk/displayreport/report/html/c35e0c28-324f-4168-81b9-be197963f251 |title=Infrastructure on the railways – Table 2.52 |website=ORR Data Portal |publisher= [[Office of Rail Regulation]] |accessdate=27 October 2014}}</ref> These lines range from [[single track (rail)|single]] to [[quadruple track]] or more. In addition, some cities have separate rail-based mass transit systems (including the extensive and historic [[London Underground]]). There are also several [[List of British heritage and private railways|private railways]] (some of them [[British narrow gauge railways|narrow-gauge]]), which are primarily short tourist lines. The British railway network is connected with that of [[continental Europe]] by an undersea rail link, the [[Channel Tunnel]], opened in 1994.
+
+The United Kingdom is a member of the [[International Union of Railways]] (UIC). The [[UIC Country Code]] for United Kingdom is 70. The UK has the [[List of countries by rail transport network size|18th largest railway network in the world]]; despite many lines having closed in the 20th century it remains one of the densest rail networks. It is [[Rail usage statistics by country|one of the busiest railways]] in Europe, with 20% more train services than France, 60% more than Italy, and more than Spain, Switzerland, The Netherlands, Portugal and Norway combined.<ref>{{cite press release |url= http://www.networkrailmediacentre.co.uk/Content/Detail.aspx?ReleaseID=5022&NewsAreaID=2&SearchCategoryID=2 |publisher =Network Rail |title= Nine out of ten trains arrive on time during January |date =18 February 2010}}</ref>
+
+In 2014, there were 1.65 billion journeys on the [[National Rail]] network, making the British network the fifth most used in the world (Great Britain ranks 23rd in world population). Unlike a number of other countries, rail travel in the United Kingdom has enjoyed a renaissance in recent years, with passenger numbers reaching their highest ever level (see usage figures below). This has coincided with the [[privatisation of British Rail]], but the effect of this is disputed. The growth is partly attributed to a shift away from private motoring due to growing road congestion and increasing petrol prices, but also to the overall increase in travel due to affluence.<ref name="rail20110810p22">{{cite news |title=Petrol price hike boosts rail passenger numbers, says ATOC |work=Rail |location =Peterborough |page=22 |date=10 August 2011}}</ref> However passenger journeys have grown much more quickly than in comparable countries such as France and Germany.<ref>http://www.atoc.org/download/clientfiles/files/Rail%20industry%20dataset%20-RDG%20-%20with%20cover.pdf</ref>
+
+==Historical overview==
+[[File:UK railway map.png|thumb|350px|right|Current mainline railway lines in [[Republic of Ireland|Ireland]], the [[United Kingdom]] and the [[Isle of Man]] are shown in black, heritage lines in green, subway lines in red and former railway lines in light blue.]]
+[[File:GBR rail passengers by year.png|thumb|360px|Rail Passengers in Great Britain from 1829-2014, showing the early era of small railway companies, the amalgamation into the "Big Four", nationalisation and finally the current era of privatisation]]
+{{Main|History of rail transport in Great Britain}}
+
+The early railways were a patchwork of local lines operated by small private railway companies. Over the course of the 19th and early 20th centuries, these amalgamated or were bought by competitors until only a handful of larger companies remained (see [[railway mania]]). The entire network was brought under government control during the [[First World War]] and a number of advantages of amalgamation and planning were revealed. However, the government resisted calls for the [[nationalisation]] of the network (first proposed by 19th century [[Prime Minister of the United Kingdom|Prime Minister]] [[William Ewart Gladstone]] as early as the 1830s). Instead, from 1 January 1923, almost all the remaining companies were [[Railways Act 1921|grouped]] into the "big four": the [[Great Western Railway]], the [[London and North Eastern Railway]], the [[London, Midland and Scottish Railway]] and the [[Southern Railway (UK)|Southern Railway]] companies (there were also a number of other [[joint railway]]s such as the [[Midland and Great Northern Joint Railway]] and the [[Cheshire Lines Committee]] as well as special joint railways such as the [[Forth Bridge]] Railway, [[Ryde Pier]] Railway and at one time the [[East London Railway]]). The "Big Four" were joint-stock public companies and they continued to run the railway system until 31 December 1947.
+
+The growth in road transport during the 1920s and 1930s greatly reduced revenue for the rail companies. Rail companies accused the government of favouring road haulage through the subsidised construction of roads. The railways entered a slow decline owing to a lack of investment and changes in transport policy and lifestyles. During the [[Second World War]] the companies' managements joined together, effectively forming one company. A maintenance backlog developed during the war and the private sector only had two years to deal with this after the war ended. After 1945, for both practical and ideological reasons, the government decided to bring the rail service into the [[public sector]].
+
+===Nationalisation===
+From the start of 1948, the "big four" were [[nationalised]] to form [[British Railways]] (latterly "British Rail") under the control of the [[British Transport Commission]]. Although BR was a single entity, it was divided into six (later five) regional authorities in accordance with the existing areas of operation. Though there were few initial changes to the service, usage increased and the network became profitable. Regeneration of track and railway stations was completed by 1954. In the same year, changes to the British Transport Commission, including the privatisation of road haulage, ended the coordination of transport in Great Britain. Rail revenue fell and in 1955 the network again ceased to be profitable. The mid-1950s saw the rapid introduction of diesel and electric rolling stock, but the expected transfer back from road to rail did not occur and losses began to mount.
+
+[[File:Beeching2 clear.svg|thumb|left|National network might have looked like this by the 1980s if the lines not proposed for development in Beeching II had closed]]
+The desire for profitability led to a major reduction in the network during the mid-1960s, with [[Imperial Chemical Industries|ICI]] manager Dr. [[Richard Beeching]] tasked by the government with reorganising the railways. Many branch lines (and a number of main lines) were closed because they were deemed uneconomic ("the [[Beeching Axe]]" of 1963), removing much feeder traffic from main line passenger services. In the second Beeching report of 1965, only the "major trunk routes" were selected for large-scale investment, leading many to speculate that the rest of the network would eventually be closed. This was never implemented by BR.
+
+Passenger services experienced a renaissance with the introduction of [[high-speed rail|high-speed]] inter-city trains in the 1970s. Passenger levels have fluctuated since then, increasing during periods of economic growth and falling during recessions. The 1980s saw severe cuts in government funding and above-[[inflation]] increases in fares, and the service became more cost-effective{{Citation needed|date=April 2011}}. In the early 1990s, the five geographical Regions were replaced by a Sector organisation, in which passenger services were organised into Inter City, Network SouthEast and Other Provincial Services sectors. This new organisation showed promise of being a more efficient organisation, but within a couple of years of its implementation the structure was fragmented by the [[privatisation]] process.
+
+===Privatisation===
+[[Privatisation of British Rail|Railway operations were privatised]] during 1994–1997. Ownership of the track and infrastructure passed to [[Railtrack]], whilst passenger operations were franchised to individual private sector operators (originally there were 25 franchises) and the goods services sold outright (six companies were set up, but five of these were sold to the same buyer). The government claimed that privatisation would see an improvement in passenger services. Since privatisation, passenger levels have more than doubled, and have surpassed their level in the late 1940s. Train fares cost 2.7% more than under British Rail in real terms on average.<ref name="bbc.co.uk">{{cite news |title= Have train fares gone up or down since British Rail? |url= http://www.bbc.co.uk/news/magazine-21056703 |accessdate=2 August 2015 |date=22 January 2013 |work=BBC News}}</ref> However, while the price of anytime and off-peak tickets has increased, the price of Advance tickets has dramatically decreased in real terms: the average Advance ticket in 1995 cost £9.14 (in 2014 prices) compared to £5.17 in 2014.<ref>http://www.stagecoach.com/media/insight-features/the-facts-about-rail-fares.aspx</ref>
+
+Subsidies to the rail industry have slightly decreased from £4bn in 1992-93 to £3.8bn in 2013-14 (in 2014 prices) but have more than halved in terms of subsidy per journey from £5.40 to £2.40.<ref name="bbc.co.uk"/><ref name="orr.gov.uk">http://orr.gov.uk/news-and-media/press-releases/2015/rail-regulator-publishes-industry-financials-report-for-2013-14</ref><ref>http://dataportal.orr.gov.uk/displayreport/report/html/0913a84d-b740-4111-b6f8-bf6470e2d7b7</ref> However, this masks great regional variation, as in 2013-14 "funding varied from £1.88 per passenger journey in England, to £7.77 per journey in Scotland, and £9.18 per journey in Wales".<ref name="orr.gov.uk"/>
+
+The public image of rail travel was severely damaged by a series of significant accidents after privatisation. These included the [[Hatfield rail crash|Hatfield accident]], caused by a rail fragmenting due to the development of microscopic cracks. Following this, the rail infrastructure company Railtrack imposed over 1,200 emergency speed restrictions across its network and instigated an extremely costly nationwide track replacement programme. The consequent severe operational disruption to the national network and the company's spiralling costs set in motion a series of events which resulted in the collapse of the company and its replacement with [[Network Rail]], a state-owned,<ref>{{cite web|url=http://www.networkrail.co.uk/aspx/717.aspx|title=Our Legal and Financial Structure: How are we regulated|publisher=Network Rail|accessdate=25 January 2011}}</ref> not-for-profit company. According to the [[European Railway Agency]], in 2013 Britain had the safest railways in Europe based on the number of train safety incidents.<ref>{{cite news |url= http://www.guardian.co.uk/news/datablog/2013/jul/25/how-safe-are-europe-railways |title= How safe are Europe's railways? |newspaper=The Guardian |location= London |date=25 July 2013 |author= Sedghi, Ami}}</ref>
+
+At the end of September 2003, the first part of [[High Speed 1]], a high-speed link to the [[Channel Tunnel]] and onward to [[France]] and [[Belgium]], was completed, significantly adding to the rail infrastructure of the country. The rest of the link, from north Kent to [[St Pancras railway station]] in London, opened in 2007. A major programme of remedial work on the [[West Coast Main Line]] started in 1997 and finished in 2009, and was criticised {{who|date=April 2015}} for being over budget and behind schedule and reducing the specification from that originally proposed by Railtrack.{{Citation needed|date=April 2015}}
+
+In the 2010s, many upgrades are under way, such as [[Thameslink]], [[Crossrail]], the [[Northern Hub]] and electrification of the [[Great Western Main Line]] and the [[Midland Main Line]]. Planning for [[HS2]] is currently underway, with a projected completion date of 2026 for Phase 1 and 2033 for Phase 2.
+{{GB-rail-history}}
+{{See also|List of railway lines in Great Britain}}
+
+==Passenger services==
+{{See also|List of companies operating trains in the United Kingdom}}
+[[File:222010 Attenborough (1).jpg|thumb|An [[East Midlands Trains]] [[British Rail Class 222|Class 222 Meridian]] on a London to Nottingham service. These trains are used for InterCity services from London to the [[East Midlands]] and [[South Yorkshire]].]] [[File:CrossCountry 170113 in Snow.JPG|thumb|A [[CrossCountry]] [[British Rail Class 170|Class 170]] numbered 170113 with a service from [[London Stansted Airport]] to [[Birmingham New Street railway station|Birmingham New Street]]]] [[File:365538 at Cambridge Rail Station.JPG|thumb|[[First Capital Connect]] [[British Rail Class 365|Class 365]] 'Networker' numbered 365538 at [[Cambridge railway station|Cambridge Rail Station]]]]
+Passenger services in Great Britain are divided into regional franchises and run by private (that is, non-state owned) [[train operating company|train operating companies]]. These companies bid for seven- to eight-year contracts to run individual franchises. Most contracts are awarded by the [[Department for Transport]] (DfT), with the exception of [[Merseyrail]], where the franchise is awarded by [[Merseyside Passenger Transport Executive]], and [[ScotRail (brand)|ScotRail]], where the DfT awards on the advice of the [[Scottish Government]]. Initially, there were 25 franchises, but the number of different operating companies is smaller as some firms, including [[FirstGroup]] and [[Stagecoach Group]], run more than one franchise. In addition, some franchises have since been combined. There are also a number of local or specialised rail services operated on an 'open access' basis outside the franchise arrangements. Examples include [[Heathrow Express]] and [[Hull Trains]].
+
+In the 2014&ndash;15 operating year, franchised services provided 1,654 million journeys totalling 39.1 billion passenger miles (62.9 billion km) of travel, an increase over 1994&ndash;5 of 117% in journeys (from 761 million) and just over doubling the passenger miles.<ref>{{cite web |url=http://orr.gov.uk/__data/assets/pdf_file/0005/18095/passenger-rail-usage-2014-15-q4.pdf |title=Passenger Rail Usage 2014-15 Quarter 4 Statistical Release}}</ref> The passenger-miles figure, after being flat from 1965 to 1995, surpassed the 1947 figure for the first time in 1998 and continues to rise steeply. 
+
+The key index used to assess passenger train performance is the [[Public Performance Measure]], which combines figures for punctuality and reliability. From a base of 90% of trains arriving on time in 1998, the measure dipped to 75% in mid-2001 due to stringent safety restrictions put in place after the [[Hatfield rail crash|Hatfield crash]] in October 2000. However, in June 2015 the PPM stood at 91.2% after a period of steady increases in the annual moving average since 2003 until around 2012 when the improvements levelled off.<ref>http://www.networkrail.co.uk/about/performance/</ref>
+
+TTrain fares cost 2.7% more than under British Rail in real terms on average.<ref name="bbc.co.uk"/> For some years, Britain has been said to have the highest rail fares in Europe.<ref name=fullfact16082011>{{cite web|url=https://fullfact.org/blog/UK_Europe_rail_fares_prices_comparisons-2927 |title=Do UK commuters pay the highest rail fares in Europe?}}</ref> For example, the (discounted) annual season ticket from London to Brighton (standard 2nd class) in July 2013 cost £3,532 for {{convert|54|mi|km}},<ref>{{cite web |url= http://www.southernrailway.com/download/300.3/season-ticket-fares-to-london-victoria/ |title=Season ticket fares to London Victoria |publisher =Southern}}</ref> while an annual DB (German) 100 BahnCard, which allows one year's travel on the entire German rail network, costs almost exactly the same (4,090 Euros).<ref>{{cite web |url= http://www.bahn.com/i/view/GBR/en/prices/germany/bahncard.shtml |title=BahnCard |publisher=Deutsche Bahn}}</ref> However, they are also able to obtain some of the cheapest fares in Europe if they book in advance or travel at off-peak times.<ref name=fullfact16082011 />
+
+UK rail operators point out that rail fare increases have been at a substantially lower rate than petrol prices for private motoring.<ref name="rail20110810p22"/> The difference in price has also been blamed on the fact that Britain has the most restrictive [[loading gauge]] (maximum width and height of trains that can fit through tunnels, bridges etc.) in the world which means that any trains must be significantly thinner and shorter than those used elsewhere. This means that British trains cannot be bought "off-the-shelf" and must be specially built to fit British standards.
+
+Average rolling-stock age &mdash; a rough indicator of passenger comfort &mdash; fell slightly from the third quarter of 2001&ndash;2 to the fourth quarter of 2013&ndash;4, from 20.7 years old to 19.4 years old.<ref>http://dataportal.orr.gov.uk/displayreport/html/html/eb76bd71-3fe0-4f1c-8f2a-977de6e833c0</ref>
+
+Although passengers rarely have cause to refer to either document, all travel is subject to the [[National Rail Conditions of Carriage]] and all tickets are valid subject to the rules set out in a number of so-called [[UK railway technical manuals|technical manuals]], which are centrally produced for the network.
+{{British railway ticket machines (computerised)|style=width:auto;clear:none}}
+
+===Annual Passenger Numbers===
+[[File:Stevenage Rail Station.JPG|thumb|[[Stevenage railway station|Stevenage Rail Station]] along the [[East Coast Main Line]]]]
+Below are the total number of passengers using heavy rail transport in Britain. The numbers are calculated from September to August.
+
+{|class="toccolours sortable" style="padding:0.5em;"
+|+ '''Annual Passenger Numbers<ref>{{cite web |url=http://orr.gov.uk/statistics/published-stats/station-usage-estimates |title=Station usage estimates |publisher=[[Office of Rail Regulation]] |accessdate=7 April 2014}}</ref>
+|-
+! | <center>Year</center>
+! | <center>Passengers<ref group=nb>Does not include Eurostar or Heathrow Express or Heathrow Connect or "[[open access operator]]s" such as [[Grand Central Railway|Grand Central]] and [[Hull Trains]]</ref></center>
+! | <center>Passenger<br>% Change</center>
+! | <center>Journeys<ref group =nb>Passenger numbers plus interchanges</ref></center>
+! | <center>Journeys<br>% Change</center>
+
+|- style="background:#eee;"
+|2004–2005||781,343,720||||902,695,324||
+|- style="background:#eee;"
+|2005–2006||800,669,217||{{increase}}{{sort|8|2.47}}||920,849,661||{{increase}}{{sort|8|2.01}}
+|- style="background:#eee;"
+|2006–2007||958,095,205||{{increase}}{{sort|1|19.66<ref group=nb>The large increase was due to including journeys on the National Rail network that were purchased through TfL</ref>}}||1,091,288,285||{{increase}}{{sort|1|18.51}}
+|- style="background:#eee;"
+|2007–2008||1,024,602,056||{{increase}}{{sort|3|6.94}}||1,167,233,872||{{increase}}{{sort|4|6.96}}
+|- style="background:#eee;"
+|2008–2009||1,073,753,933||{{increase}}{{sort|6|4.80}}||1,220,145,654||{{increase}}{{sort|6|4.53}}
+|- style="background:#eee;"
+|2009–2010||1,065,386,249||{{decrease}}{{sort|9|0.78}}||1,218,715,041||{{decrease}}{{sort|9|0.12}}
+|- style="background:#eee;"
+|2010–2011||1,156,896,521||{{increase}}{{sort|2|8.59}}||1,322,426,386||{{increase}}{{sort|2|8.51}}
+|- style="background:#eee;"
+|2011–2012||1,227,960,111||{{increase}}{{sort|4|6.14}}||1,428,575,382||{{increase}}{{sort|3|8.03}}
+|- style="background:#eee;"
+|2012–2013||1,268,979,546||{{increase}}{{sort|7|3.34}}||1,480,120,447||{{increase}}{{sort|7|3.61}}
+|- style="background:#eee;"
+|2013-2014||1,332,561,756||{{increase}}{{sort|5|5.00}}||1,558,753,504||{{increase}}{{sort|5|5.31}}
+|}
+The following table is according to the Office of Rail Regulation and includes "[[open access operator]]s" such as [[Grand Central Railway|Grand Central]] and [[Hull Trains]].
+[[File:Shepreth railway station from level crossing.jpg|thumb|[[Shepreth railway station|Shepreth Rail Station]] along the Great Northern line]]
+
+{|class="toccolours sortable" style="padding:0.5em;"
+|+ '''Annual Passenger Numbers (millions)<ref>{{cite web |url=http://dataportal.orr.gov.uk/displayreport/report/html/02136399-b0c5-4d91-a85e-c01f8a48e07e|accessdate=7 August 2015}}</ref><ref group=nb>Only includes franchised operators</ref>
+|-
+! | <center>Year</center>
+! | <center>Long distance</center>
+! | <center>London and<br />South East</center>
+! | <center>Regional</center>
+! | <center>Total</center>
+! | <center>Total % Change</center>
+|- style="background:#eee;"
+|2002–2003||77.2||679.1||219.2||975.5||
+|- style="background:#eee;"
+|2003–2004||81.5||690.0||240.2||1,011.7||{{increase}}3.71
+|- style="background:#eee;"
+|2004–2005||83.7||704.5||251.3||1,039.5||{{increase}}2.75
+|- style="background:#eee;"
+|2005–2006||89.5||719.7||267.3||1,076.5||{{increase}}3.56
+|- style="background:#eee;"
+|2006–2007||99.0||769.5||276.5||1,145.0||{{increase}}6.36
+|- style="background:#eee;"
+|2007–2008||103.9||828.4||285.8||1,218.1||{{increase}}6.38
+|- style="background:#eee;"
+|2008–2009||109.4||854.3||302.8||1,266.5||{{increase}}3.97
+|- style="background:#eee;"
+|2009–2010||111.6||842.2||304.0||1,257.9||{{decrease}}0.68
+|- style="background:#eee;"
+|2010–2011||117.9||917.6||318.2||1,353.8||{{increase}}7.62
+|- style="background:#eee;"
+|2011–2012||125.3||993.8||340.9||1,460.0||{{increase}}7.84
+|- style="background:#eee;"
+|2012–2013||127.7||1,032.9||341.1||1,501.7||{{increase}}2.86
+|- style="background:#eee;"
+|2013–2014||129.2||1,107.8||350.8||1,587.8||{{increase}}5.73
+|- style="background:#eee;"
+|2014–2015||134||1,155||365||1,654 <ref>{{cite web |url=http://orr.gov.uk/__data/assets/pdf_file/0005/18095/passenger-rail-usage-2014-15-q4.pdf |title=Passenger Rail Usage 2014-15 Quarter 4 Statistical Release}}</ref>||{{increase}}4.17
+|}
+{{reflist|group=nb}}
+
+===Railway stations===
+{{further|:Category:Railway stations in the United Kingdom}}
+[[File:London Victoria Station frontage.jpg|thumb|right| Façade of [[London Victoria station|London Victoria]]]]
+There are 2,550 passenger [[railway station]]s on the Network Rail network.<ref name="ORR-data-portal" /> This does not include the [[London Underground]], nor other systems which are not part of the national network. Most date from the [[Victorian era]] and a number are located either in or on the edge of [[town centre|town]] and [[city centre]]s. Major stations lie for the most part in large cities, with the largest conurbations (e.g. Liverpool, Birmingham, Bristol, Cardiff, Edinburgh, Glasgow and Manchester) typically having more than one main station. London is a major hub of the network, with 12 main-line termini forming a "ring" around [[central London]]. Birmingham, Leeds, Manchester, Glasgow, Bristol and [[Reading, Berkshire|Reading]] are major interchanges for many cross-country journeys that do not involve London. However, some important railway junction stations lie in smaller cities and towns, for example [[York railway station|York]], [[Crewe railway station|Crewe]] and [[Ely railway station|Ely]]. Some other places expanded into towns and cities because of the railway network. [[Swindon]], for example, was little more than a village before the [[Great Western Railway]] chose to site its locomotive works there. In many instances geography, politics or military considerations{{citation needed|date=December 2014}} originally caused stations to be sited further from the towns they served until, with time, these issues could be overcome (for example, [[Portsmouth]] had its original station at [[Gosport]]).
+
+{{Major UK railway stations}}
+
+===High-speed rail===
+[[File:British main lines railway diagram.png|thumb|right|Overview map of the North-South main lines in the UK.]]
+[[File:St Pancras railway station MMB 31 395018.jpg|thumb|A [[Southeastern (train operating company)|Southeastern]] [[British Rail Class 395|Class 395]] at London [[St Pancras railway station]]]]
+{{Main|High-speed rail in the United Kingdom}}
+
+High-speed rail (above 124&nbsp;mph) was first introduced in Great Britain in the 1970s by British Rail. BR had pursued two development projects in parallel, the development of a [[tilting train]] technology, the '[[Advanced Passenger Train]]' (APT), and development of a conventional high-speed diesel train, the 'High Speed Train' (HST). The APT project was abandoned, but the HST design entered service as the [[British Rail Classes 253, 254 and 255]] trains. The prototype HST, the [[British Rail Class 252]], reached a world speed record for diesel trains of 143.2&nbsp;mph, while the main fleet entered service limited to a service speed of 125&nbsp;mph, and were introduced progressively on main lines across the country, with a rebranding of their services as the ''[[InterCity 125]]''. With electrification of the [[East Coast Main Line]], high-speed rail in Great Britain was augmented with the introduction of the [[British Rail Class 91]], intended for passenger service at up to 140&nbsp;mph (225&nbsp;km/h), and thus branded as the ''[[InterCity 225]]''. The Class 91 units were designed for a maximum service speed of 140&nbsp;mph, and running at this speed was trialled with a 'flashing green' signal aspect under the [[UK railway signalling|British signalling system]]. The trains were eventually limited to the same speed as the HST, to 125&nbsp;mph, with higher speeds deemed to require [[cab signalling]], which as of 2010 was not in place on the normal British railway network (but was used on the Channel Tunnel Rail Link). A final attempt by the nationalised British Rail at High Speed Rail was the cancelled [[InterCity 250]] project in the 1990s for the West Coast Main Line.
+
+Post privatisation, a plan to upgrade the [[West Coast Main Line]] to speeds of up to 140&nbsp;mph with infrastructure improvements were finally abandoned, although the tilting train [[British Rail Class 390|Class 390]] ''Pendolino'' fleet designed for this maximum speed of service were still built and entered service in 2002, and operates limited to 125&nbsp;mph. Other routes in the UK were upgraded with trains capable of top speeds of up to 125&nbsp;mph running with the introduction between 2000 and 2005 of [[British Rail Class 180|Class 180]] ''Adelante'' DMUs and the [[Bombardier Voyager family]] of DEMUs (Classes 220, 221 and 222).
+
+====High Speed 1====
+The first implementation of high-speed rail up to 186&nbsp;mph in regular passenger service in Great Britain was the Channel Tunnel Rail Link (now known as [[High Speed 1]]), when its first phase opened in 2003 linking the British end of the [[Channel Tunnel]] at Folkestone with [[Fawkham Junction]] in Kent. This is used by international only passenger trains for the [[Eurostar]] service, using [[British Rail Class 373]] trains. The line was later extended all the way into [[London St Pancras]] in 2007.
+
+After the building of the first of a new [[British Rail Class 395]] train fleet for use partly on High Speed 1 and parts of the rest of the UK rail network, the first domestic high-speed running over 125&nbsp;mph (to about 141.37&nbsp;mph) began in December 2009, including a special Olympic Javelin shuttle for the [[2012 Olympics]]. These services are operated by the [[Southeastern (train operating company)|Southeastern]] franchise.
+
+====Intercity Express Programme====
+For replacement of the domestic fleet of Intercity 125 and 225 trains on the existing national network, the [[Intercity Express Programme]] was announced. In February 2009 it was announced the preferred rolling stock option for this project was the [[Hitachi Super Express]] family of multiple units, expected to enter service in 2013. It was stated by [[Agility Trains]], the consortium building the trains, that they would be capable of a maximum speed of 140&nbsp;mph with "minor modifications", with the necessary signalling modifications required of the [[Network Rail]] infrastructure in Britain likely to come from the phased roll out of the Europe wide [[European Rail Traffic Management System]] (ERTMS).
+
+====High Speed 2====
+Following several studies and consultations on high-speed rail, in 2009 the UK Government formally announced the [[High Speed 2]] project, establishing a company to produce a feasibility study to examine route options and financing for a new high-speed railway in the UK. This study began on the assumption that the route would be a new purpose-built high-speed line, from London to the [[West Midlands (region)|West Midlands]], via [[London Heathrow]], relieving traffic on the [[West Coast Main Line]], and would use conventional high-speed rail technology as opposed to [[Maglev (transport)|Maglev]]. The rolling stock would be capable of travelling on the existing [[Network Rail]] infrastructure if required, and the route will intersect with the existing West Coast Main Line (WCML). A second phase of the project is planned to reach further north to Manchester, Sheffield and Leeds, as well as linking into the WCML, the [[Midland Main Line]] and the [[East Coast Main Line]].
+
+====High Speed 3====
+In June 2014, [[Chancellor of the Exchequer]], [[George Osborne]] proposed a high speed rail link [[High Speed 3]] (HS3) between Liverpool and Newcastle/Sheffield/Hull. The line would utilise the existing route between Liverpool and Newcastle/Hull and a new route from to Sheffield will follow the same route to Manchester Victoria and then a new line from Victoria to Sheffield, with additional tunnels and other infrastructure.
+
+In August 2009 the speeds of the fastest trains operating in Great Britain capable of a top speed of over 125&nbsp;mph were as follows:
+{| class="wikitable sortable" cellpadding="5"
+|-
+!|Name
+!|Locomotive Class
+!|Type
+!|Max. Recorded Speed (mph (km/h))
+!|Max. Design Speed (mph (km/h))
+!|Max. Speed in service (mph (km/h))
+|-
+||[[Eurostar]]
+||[[British Rail Class 373|Class 373]]
+||EMU
+||209 (334.7)
+||186 (300)
+||186 (300)
+|-
+||[[Javelin (train)|Javelin]]
+||[[British Rail Class 395|Class 395]]
+||EMU
+||157 (252)<ref>{{cite news|url=http://www.railnews.co.uk/news/2008/06/10-hitatchi-hs-milestone.html|title=Bullet train in milestone run on HS1|date=10 June 2008|quote=earlier successful 'overspeed' test to check train stability and ride on 18th April, when the train achieved a maximum speed of 252 km/h|accessdate=14 March 2015}}</ref>
+||140 (225)
+||140 (225)
+|-
+||[[InterCity 225]]
+||[[British Rail Class 91|Class 91]]
+||Electric Loco
+||162 (261)
+||140 (225)
+||125 (200)
+|-
+||[[Pendolino#United Kingdom|Pendolino]]
+||[[British Rail Class 390|Class 390]]
+||EMU
+||162 (261)<ref>{{cite news |work =Rail |location =Peterborough |date= 25 February 2009 |issue= 612}}</ref><!---INADEQUATE REFERENCE: needs page number and title of article---->
+||140 (225)
+||125 (200)
+|-
+||[[InterCity 125]]
+||[[British Rail Class 43 (HST)|Class 43 (HST)]]
+||Diesel Loco
+||148 (~240)
+||125 (200)
+||125 (200)
+|-
+||Adelante
+||[[British Rail Class 180|Class 180]]
+||DMU
+||125 (200)
+||125 (200)
+||125 (200)
+|-
+||Voyager
+||[[British Rail Class 220|Class 220]]
+||DEMU
+||125 (200)
+||125 (200)
+||125 (200)
+|-
+||Super Voyager
+||[[British Rail Class 221|Class 221]]
+||DEMU
+||125 (200)
+||125 (200)
+||125 (200)
+|-
+||Meridian/Pioneer
+||[[British Rail Class 222|Class 222]]
+||DEMU
+||125 (200)
+||125 (200)
+||125 (200)
+|-
+||Class 67
+||[[British Rail Class 67|Class 67]]
+||Diesel Loco
+||125 (200)
+||125 (200)
+||125 (200)
+|}
+In 2011 the fastest timetabled start-to-stop run by a UK domestic train service is the Hull Trains' 07.30 King's Cross to Hull, which covers the 125.4&nbsp;km (78 miles) from Stevenage to Grantham in 42 minutes at an average speed of 179.1&nbsp;km/h (111.4&nbsp;mph). This is operated by a [[British Rail Class 180|Class 180]] diesel unit running "under the wires" on this east-coast route. However, this is actually matched by several Leeds - London [[British Rail Class 91|Class 91]]-operated [[East Coast (train operating company)|East Coast]] trains if their 2-minute recovery allowance for this section is excluded from the public timetable.<ref>{{cite journal|last=Taylor|first=Dr Colin|author2=John Heaton |title=World Speed Survey 2011|journal=Railway Gazette International|date=September 2011|volume= 167| issue =  9|pages=pp61–70}}</ref>
+
+===Local metro and other rail systems===
+[[File:Urban rail in the UK.svg|200px|right]]
+[[File:LUL-S-Stock-arrives-Croxley.jpg|thumb||[[London Underground]]]]
+{{Main|Rapid transit in the United Kingdom|Commuter rail in the United Kingdom}}
+A number of towns and cities have [[rapid transit]] systems. Heavy rail underground technology is used in the [[London Underground|London]] and [[Glasgow subway|Glasgow]] Underground systems. Light and heavy rail with underground sections in the city centre exist in [[Newcastle upon Tyne]] on the [[Tyne and Wear Metro]], [[Liverpool]] on the [[Merseyrail]] system, and in the [[Docklands Light Railway|London Docklands]]. The light rail systems in [[Nottingham Express Transit|Nottingham]], [[Sheffield Supertram|Sheffield]], [[Manchester Metrolink|Manchester]], [[Tramlink|Croydon]], [[Midland Metro|Birmingham/Black Country]] and [[Edinburgh Trams|Edinburgh]] use a combination of street running in the city centres and, where available, reserved right of way or former conventional rail lines in some suburbs. [[Blackpool tramway|Blackpool]] has the one remaining traditional tram system. Monorails, heritage tramways, miniature railways and funiculars also exist in several places. In addition, there are a number of heritage (mainly steam) standard and narrow gauge railways, and a few industrial railways and tramways. Some lines which appear to be heritage operations sometimes claim to be part of the public transport network; the [[Romney, Hythe and Dymchurch Railway]] in Kent regularly transports schoolchildren.
+
+Most major cities have some form of [[Commuter rail in the United Kingdom|commuter rail network]]. These include [[Belfast]], [[Birmingham]], [[Bristol]], [[Cardiff]], [[Edinburgh]], [[Glasgow]], [[Leeds]], Liverpool, London, [[Manchester]] and [[Sheffield]].
+
+:
+{{Britishmetros}}
+
+==Goods services==
+{{main|Rail freight transport in Great Britain}}
+[[File:66583 Chesterfield.jpg|thumb|right|A [[Freightliner Group|Freightliner]] [[British Rail Class 66|Class 66]] pulling coal at [[Chesterfield]], [[Derbyshire]].]]
+There are four main [[Freight rail transport|goods]] operating companies in the UK, the largest of which is [[DB Schenker]] (formerly the [[English, Welsh and Scottish Railway]] (EWS)). There are also several smaller independent operators including [[Mendip Rail]]. Types of freight carried include ''[[intermodal freight transport|intermodal]]'' &mdash; in essence containerised freight &mdash; and coal, metals, oil, and construction material. The Beeching Cuts, in contrast to passenger services, greatly modernised the goods sector, replacing inefficient wagons with containerised regional hubs.<ref>{{Cite web|title = Rail freight in Britain: shaped by Beeching, despite his reputation|url = http://www.theguardian.com/uk/2013/mar/17/rail-freight-britain-beeching-reputation|website = the Guardian|accessdate = 21 July 2015 |first = Gwyn|last = Topham|date = 17 March 2013}}</ref> Freight services had been in steady decline since the 1930s, initially because of the loss of manufacturing and then road haulage's cost advantage in combination with higher wages.<ref name="amazonaws92119643">{{Cite web|url = http://s3.amazonaws.com/zanran_storage/www.europa-nu.nl/ContentPages/92119643.pdf#page=65|title = Annexes to the Communication on the implementation of the railway infrastructure package Directives (‘First Railway Package’)|date = 11 May 2006|accessdate = 21 July 2015|website = |publisher = Council of the European Union|last = Ayet Puigarnau|first = Jordi}}</ref><ref>{{Cite book|title = Private and Public Enterprise in Europe: Energy, Telecommunications and Transport, 1830-1990|url = https://books.google.co.uk/books?id=mQ-f1IFo4IsC&dq=Private+and+Public+Enterprise+in+Europe&q=freight#v=snippet&q=freight&f=false|publisher = Cambridge University Press|date = 1 January 2005 |isbn = 9780521835244 }}</ref> Since 1995, however, the amount of [[freight]] carried on the railways has increased sharply due to increased reliability and competition, as well as international services.<ref name="amazonaws92119643" /><ref name="unece">{{Cite web|url = http://www.unece.org/fileadmin/DAM/trans/doc/2008/wp5/GE1_Piraeus_Background_Woodburn.pdf#page=17|title = Container Train Operations Between Ports and Their Hinterlands: a UK Case Study|date = 2008|accessdate = 21 July 2015|website = |publisher = UN Economic Commission for Europe|last = Woodburn|first = Allan}}</ref> The [[Department for Transport]]'s ''Transport Ten Year Plan'' calls for an 80% increase in rail freight measured from a 2000&ndash;1 base.<ref>{{Cite web|title = http://www.devon.gov.uk/cr_thegovernmentstenyeartransportplan.pdf|url = http://www.devon.gov.uk/cr_thegovernmentstenyeartransportplan.pdf|website = www.devon.gov.uk|accessdate = 17 May 2015 }}</ref>
+
+Statistics on freight are specified in terms of the weight of freight lifted, and the ''net tonne kilometre'', being freight weight multiplied by distance carried. 116.6 million tonnes of freight was lifted in the 2013&ndash;4 period, against 138 million tonnes in 1986&ndash;7, a decrease of 16%.<ref name="gov12189">{{Cite web|title = 2013-14 Quarter 4 Statistical Release - Freight Rail Usage |website= Office of Rail and Road|url = http://orr.gov.uk/__data/assets/pdf_file/0003/12189/freight-rail-usage-2013-14-q4.pdf |accessdate = 21 July 2015 |date = 22 May 2014}}</ref> However, a record 22.7 billion net tonne kilometres (14 billion net ton miles) of freight movement were recorded in 2013-4, against 16.6 billion (10.1 billion) in 1986&ndash;7, an increase of 38%.<ref name="gov12189" /> Coal makes up 36% of the total ''net tonne kilometre'', though its share is declining.<ref>{{Cite web|title = Rail trends factsheet, Great Britain: 2014 - Publications - GOV.UK|url = https://www.gov.uk/government/statistics/rail-trends-factsheet-great-britain-2014|website = www.gov.uk|accessdate = 21 July 2015 |date = 15 October 2014}}</ref> Rail freight has increased its market share since privatisation (by net tonne kilometres) from 7.4% in 1998 to 11.1% in 2013.<ref>{{Cite web|title = Display Report |website= Office of Rail Regulation - National Rail Trends Portal|url = http://dataportal.orr.gov.uk/displayreport/report/html/a2935b59-142f-4037-bf58-92b5d9388932 |accessdate = 21 July 2015 }}</ref> Recent growth is partly due to more international services including the Channel Tunnel and [[Port of Felixstowe]], which is containerised.<ref>{{Cite web|url = http://orr.gov.uk/__data/assets/pdf_file/0008/17972/freight-rail-usage-2014-15-q4.pdf|title = Freight Rail Usage 2014-15 Quarter 4 Statistical Release|date = 21 May 2015|accessdate = 21 July 2015|website = |publisher = Office of Rail and Roal|last = Amusan|first = Folusho}}</ref> Nevertheless, network bottlenecks and insufficient investment in catering for 9' 6" high shipping containers currently restrict growth.<ref name="unece" />
+
+A symbolic loss to the rail freight industry in Great Britain was the custom of the [[Royal Mail]], which from 2004 discontinued use of its 49-train fleet, and switching to road haulage after a near 170-year-preference for trains. [[Mail train]]s had long been part of the tradition of the railways in Great Britain, famously celebrated in the film ''[[Night Mail]]'', for which [[W. H. Auden]] wrote the poem of the same name. Although Royal Mail suspended the [[Mail train]] in January 2004, this decision was reversed in December of the same year, and [[British Rail Class 325|Class 325s]] are now used on some routes including between London, Warrington and Scotland.
+
+==Leasing services==
+[[File:Class 47 railway locomotive - Fragonset Black livery - Virginia Water railway station - 280404.jpg|thumb|Fragonset Railways class 47 railway locomotive, Virginia Water railway station, April 2004]]
+At the time of privatisation, the rolling stock of [[British Rail]] was sold either directly to the new operators, as in the case of the freight companies, or to the three ROSCOs ([[rolling stock operating company|rolling stock operating companies]]) which lease or hire stock to passenger and freight train operators. Leasing is relatively commonplace in transport, since it enables operating companies to avoid the complication associated with raising sufficient capital to purchase assets; instead, assets are leased and paid for from ongoing revenue. Since 1994 there has been a growth in smaller spot-hire companies that provide rolling stock on short-term contracts. Many of these have grown thanks to the major selling-off of locomotives by the large freight operators, especially EWS.
+
+Unlike other major players in the privatised railway system of Great Britain, the ROSCOs are not subject to close regulation by the economic regulatory authority. They were expected to compete with one another, and they do, although not in all respects.
+
+===Controversy===
+Since privatisation in 1995, the ROSCOs have faced criticism from a number of quarters - including passenger train operating companies such as GNER, Arriva and FirstGroup - on the basis that they are acting as an [[oligopoly]] to keep lease prices higher than would be the case in a more competitive market. In 1998, [[Deputy Prime Minister]] [[John Prescott]] asked [[Rail Regulator]] [[John Swift QC]] to investigate the operation of the market and make recommendations. It was believed by many at the time that Prescott favoured much closer regulation of the ROSCOs, perhaps bringing them into the net of contract-specific regulation, i.e. requiring every rolling stock lease to be individually approved by the Rail Regulator before it could be valid. Swift's report did not find major problems with the operation of what was then an infant market, and instead recommended that the ROSCOs sign up to voluntary, non-binding codes of practice in relation to their future behaviour. Prescott did not like this, but he did not have the legislative time allocation to do much about it. Swift's successor as Rail Regulator, [[Tom Winsor]], agreed with Swift and the ROSCOs were happy to go along with codes of practice, coupled with the Rail Regulator's new powers to deal with abuse of dominance and anti-competitive behaviour under the [[Competition Act 1998]]. In establishing these codes, the Rail Regulator made it clear that he expected the ROSCOs to adhere to their spirit as well as their letter. The codes of practice were duly put in place and for the next five years the Rail Regulator received no complaints about ROSCO behaviour.
+
+===White Paper 2004===
+[[File:Virgin Pendolino at Euston.jpg|thumb|right|A Virgin Pendolino Train]]
+In July 2004, the Department for Transport's White Paper on the future of the railways contained a statement that it was dissatisfied with the operation of the rolling stock leasing market and believed that there may have been excessive pricing on the part of the ROSCOs.
+
+In June 2006, [[Gwyneth Dunwoody]], the [[British House of Commons|House of Commons]] [[Transport Committee]] chair, called for an investigation into the companies.<ref>{{cite news |title= Review of train leasing urged |url= http://news.bbc.co.uk/1/hi/programmes/real_story/3434369.stm |date =6 June 2006 |work=BBC News}}</ref> Transport commentator [[Christian Wolmar]] has asserted that the high cost of leasing is due to the way the franchises are distributed to the train operating companies. While the TOCs are negotiating for a franchise they have some freedom to propose different rolling stock options. It is only once they have won the franchise, however, that they start negotiating with the ROSCOs. The ROSCO will know the TOC's requirements and also knows that the TOC has to obtain a fixed mix of rolling stock which puts the train operating company at a disadvantage in its negotiations with the ROSCO. However, Wolmar considers it a mistake to blame the ROSCOs who are simply behaving as commercial companies always behave. Ultimately the problem for Wolmar is the system – and that is down to the government, who he believes are not prepared to seek a more workable solution.<ref>{{cite book |last=Wolmar |first=Christian  |title=IOn the Wrong Line |page=289 }}</ref>
+
+===Competition Commission===
+
+On 29 November 2006, following a June 2006 complaint by the [[Department for Transport]] alleging excessive pricing by the ROSCOs, the [[Office of Rail Regulation]] announced that it was minded to refer the operation of the market for passenger rolling stock to the [[Competition Commission]], citing, amongst other factors, problems in the DfT's own franchising policy as responsible for what may be regarded as a dysfunctional market. ORR said it will consult the industry and the public on what to do, and will publish its decision in April 2007. If the ORR does refer the market to the Competition Commission, there may well be a hiatus in investment in new rolling stock whilst the ROSCOs and their parent companies wait to hear what return they will be allowed to make on their train fleets. This could have the [[unintended consequence]] of intensifying the problem of overcrowding on some routes because TOCs will be unable to lengthen their trains or acquire new ones if they need the ROSCOs to co-operate in their acquisition or financing. Some commentators have suggested that such an outcome would be detrimental to the public interest. This is especially striking since the [[National Audit Office (United Kingdom)|National Audit Office]], in its November 2006 report on the renewal and upgrade of the [[West Coast main line]], said that the capacity of the trains and the network will be full in the next few years and advocated train lengthening as an important measure to cope with sharply higher passenger numbers.
+
+The Competition Commission conducted an investigation and published provisional findings<ref>{{cite press release |url= http://www.competition-commission.org.uk/press_rel/2008/aug/pdf/22-08.pdf |publisher=Competition Commission |title=Rolling stock leasing market investigation: Provisional findings |date =7 August 2008}}</ref> on 7 August 2008. The report was published on 7 April 2009.<ref>http://www.competition-commission.org.uk/assets/competitioncommission/docs/pdf/non-inquiry/rep_pub/reports/2009/fulltext/546</ref> A press release
+<ref>http://www.competition-commission.org.uk/assets/competitioncommission/docs/pdf/non-inquiry/press_rel/2009/apr/pdf/16-09</ref> summarised the recommendations as follows:
+
+* introduce longer franchise terms (in the region of 12 to 15 years or longer), which would allow TOCs to realize the benefits and recover the costs of switching to alternative new or used rolling stock over a longer period, which should increase the incentives and ability for TOCs to exercise choice
+
+* assess the benefits of alternative new or used rolling stock proposals beyond the franchise term and across other franchises when evaluating franchise bids. This will encourage a wider choice of rolling stock to be considered in franchise proposals, irrespective of franchise length
+
+* ensure that franchise invitations to tender (ITTs) are specified in such a way that franchise bidders are allowed a choice of rolling stock
+
+* requiring the ROSCOs to remove non-discrimination requirements from the Codes of Practice, which would provide greater incentives for the TOCs to seek improved terms from the ROSCOs
+
+* requiring rolling stock lessors to provide TOCs with a set list of information when making a lease rental offer for used rolling stock, which would give TOCs the ability to negotiate more effectively
+
+===Leasing companies (ROSCO)===
+:''See also [[Rolling stock operating company]]''
+
+Three companies took over [[British Rail]]'s rolling stock on privatisation:
+* '''[[Angel Trains]]''' - owned by a consortium of private equity investors, mainly comprising pension funds and insurance companies, and has 4,400 vehicles in the UK.
+* '''[[Eversholt Rail Group]]''' - owns a fleet of over 4,000 vehicles and is owned by a consortium including [[3i Infrastructure]] and [[Morgan Stanley]].
+* '''[[Porterbrook]]''' - leases some 3,500 locomotives, trains and freight wagons; owned by a consortium including [[Deutsche Bank]], [[Lloyds TSB]] (who withdrew in October 2010) and [[BNP Paribas]].
+
+A number of other companies have since entered the leasing market:
+* '''[[Sovereign Trains]]''' - a company that forms part of the same group as the open-access operators [[Grand Central Railway|Grand Central]] and [[Grand Union Railway|Grand Union]]. Sovereign Trains owns the rolling stock currently operated by Grand Central.
+* '''[[QW Rail Leasing]]''' - a joint venture between the [[National Australia Bank]] and [[Sumitomo Mitsui Banking Corporation|SMBC Leasing and Finance]] to provide the EMU rolling stock to [[London Overground]].
+* '''[[Diesel Trains Ltd|Diesel Trains]]''' - in March 2009, the [[Department for Transport]] also launched its own ROSCO to order 202 new diesel train carriages for the Thames Valley area, around Bristol and on longer distances in northern England. The trains were due to enter service by 2012 for train operators [[Great Western Railway (train operating company)|First Great Western]], [[First TransPennine Express]] and [[Northern Rail]]. However, in August 2009 the order was cancelled due to the planned electrification of the [[Great Western Main Line]] and Diesel Trains was later dissovled in July 2012.
+* '''[[Lloyds TSB General Leasing]]''' - in April 2009, [[Lloyds TSB]] directly entered the rolling stock market by funding the purchase of 30 new EMU trains for [[National Express East Anglia]].
+* '''Beacon Rail Leasing''',<ref>{{cite web|url=http://www.beaconrail.com/ |title=BRL Home |publisher=Beaconrail.com |accessdate=20 May 2014}}</ref> owns [[British Rail Class 68|Class 68]] and [[British Rail Class 88|Class 88]] locomotives
+* [[UK Rail Leasing]], owns some [[British Rail Class 56|Class 56]] locomotives
+
+{{British ROSCOs}}
+
+===Spot-hire companies===
+Spot-hire companies provide short-term leasing of rolling stock.
+* '''[[MiddlePeak Railways]]''', a locomotive hire & lease company with a stock of locomotives similar to [[British Rail Class 08|Class 08]] & [[Nederlandse Spoorwegen|NS]] 0-6-0 [[NS 600 Class|600 Class]] shunting locomotives, other locomotives, rolling stock & parts.<ref>{{cite web|url=http://www.middlepeak.co.uk/locomotives.htm |title=MiddlePeak Railways Ltd - Shunter Lok/Loco/Loc hire - Locomotive & Rolling Stock; hire & Leasing!! Railshunters - rangeerlocomotieven |publisher=Middlepeak.co.uk |accessdate=20 May 2014}}</ref>
+* '''[[GL Railease]]''' owned by GATX Capital, and Lombard, a subsidiary of the Royal Bank of Scotland.
+* '''[[Harry Needle Railroad Company]] Ltd''', an industrial and main line locomotive hire and overhaul company. Operates [[British Rail Class 08|Class 08]] shunting locomotives, and [[British Rail Class 20|Class 20]] locomotives.<ref>http://www.hnrc.co.uk/{{Dead link|date=March 2012}}</ref>
+*'''[[Riviera Trains]]''', a spot-hire company with a fleet of [[British Rail Class 47|Class 47]] locomotives. This company works closely with [[DB Schenker]].<ref>{{cite web |url= http://www.riviera-trains.co.uk/ |title= Welcome to Riviera Trains |accessdate=13 March 2012}}</ref>
+*'''[[West Coast Railway Company]]''', a spot-hire and railtour-operator with a stock of [[British Rail Class 37|Class 37]] and [[British Rail Class 47|Class 47]] locomotives, as well as the rebuild [[British Rail Class 57|Class 57]] locomotive.
+
+{{British Rail Spot_Hire Companies}}
+
+==Statutory framework==
+{{See also|Structure of the rail industry in the United Kingdom}}
+
+Railways in Great Britain are in the private sector, but they are subject to control by central government, and to economic and safety regulation by arms of government.
+
+In 2006, using powers in the [[Railways Act 2005]], the [[Department for Transport]] took over most of the functions of the now wound up [[Strategic Rail Authority]]. The DfT now itself runs competitions for the award of passenger rail franchises, and, once awarded, monitors and enforces the contracts with the private sector franchisees. Franchises specify the passenger rail services which are to be run and the quality and other conditions (for example, the cleanliness of trains, station facilities and opening hours, the punctuality and reliability of trains) which the operators have to meet. Some franchises receive subsidy from the DfT for doing so, and some are cash-positive, which means that the franchisee pays the DfT for the contract. Some franchises start life as subsidised and, over their life, move to being cash-positive.
+
+The other regulatory authority for the privatised railway is the [[Office of Rail Regulation]], which, following the Railways Act 2005, is the combined economic and safety regulator. It replaced the [[Rail Regulator]] on 5 July 2004. The [[Rail Safety and Standards Board]] still exists, however; established in 2003 on the recommendations of a public inquiry, it leads the industry's progress in health and safety matters.
+
+The principal modern railway statutes are:
+
+* [[Railways Act 1993]]'''
+* [[Competition Act 1998]] (insofar as it confers competition powers on the Office of Rail Regulation)
+* [[Transport Act 2000]]
+* [[Railways and Transport Safety Act 2003]]
+* [[Railways Act 2005]]
+
+==Railway industry==
+
+===Statutory authorities===
+*[[Office of Rail and Road]] – [http://orr.gov.uk/ Website]
+*[[Department for Transport]] – [https://www.gov.uk/government/organisations/department-for-transport Website]
+*[[UK Notified Bodies]] – [http://www.riagb.org.uk/nobos.htm/ Website]{{dead link |date=April 2014}}
+
+===Rail network and signalling operations===
+*[[Railtrack]] (1996&ndash;2002)
+*[[Network Rail]] (2002–) – [http://www.networkrail.co.uk/ Website] – (A "not for dividend" company limited by guarantee)
+
+===Other national entities===
+*[[Association of Train Operating Companies]] – ATOC – [http://www.atoc.org/ Website]
+* Institution of Railway Operators – [http://www.railwayoperators.org/ Website]
+* Rail Freight Group – [http://www.rfg.org.uk/ Website]
+* Rail Passengers Council and Committees – [http://www.railpassengers.org.uk/ Website]
+* Rail Safety and Standards Board – RSSB – [http://www.rssb.co.uk/ Website]
+* The Railway Forum – [http://www.railwayforum.com/ Website]
+* Railway Mission – [http://www.railwaymission.org/ Website]
+* Railway Study Association – [http://www.railwaystudyassociation.org/ Website]
+
+====Trade unions====
+The railways are one of the most heavily unionised industrial sectors in the UK.
+*[[Associated Society of Locomotive Engineers and Firemen]] – ASLEF – [http://www.aslef.org.uk/ Website]
+*[[National Union of Rail, Maritime and Transport Workers]] – RMT – [http://www.rmt.org.uk/ Website]
+*[[Transport Salaried Staffs' Association]] – TSSA – [http://www.tssa.org.uk/ Website]
+
+===Regional entities===
+''See [[Passenger transport executive]]''
+* Centro ([[West Midlands Passenger Transport Executive]]) – [http://www.centro.org.uk/wwwroot/HomePage.asp Website]
+* TfGM([[Transport for Greater Manchester]]) – [http://www.gmpte.com/ Website]
+* Merseytravel ([[Merseyside Passenger Transport Executive]]) – [http://www.merseytravel.gov.uk/ Website]
+* Metro ([[West Yorkshire Passenger Transport Executive]]) – [http://www.wymetro.com/ Website]
+* Nexus ([[Tyne and Wear Passenger Transport Executive]]) – [http://www.nexus.org.uk/ Website]
+* Travel South Yorkshire ([[Travel South Yorkshire|South Yorkshire Passenger Transport Executive]]) – [http://www.sypte.co.uk/index.htm Website]
+* SPT ([[Strathclyde Partnership for Transport]]) – [http://www.spt.co.uk/ Website]
+* TfL [[Transport for London]] – [http://www.tfl.gov.uk/tfl/ Website]
+
+See [[List of companies operating trains in the United Kingdom]].
+
+===Freight railway companies===
+*[[GB Railfreight]] – [http://www.gbrailfreight.com/ Website]
+*[[DB Schenker]] – [http://www.dbschenker.co.uk/ Website]
+*[[Freightliner (rail)|Freightliner]] – [http://www.freightliner.co.uk/ Website]
+*[[Direct Rail Services]] – [http://www.directrailservices.com/ Website]
+* [[Colas Rail]] – [http://www.colasrail.com/ Website]
+* [[Devon and Cornwall Railways]] – [http://rmslocotec.com/#/dcr/4539306317 Website]
+* [[Mendip Rail]] – [http://www.aggregate.com/ Website]
+
+===Open access operators and other non-franchised passenger operators===
+*[[Eurostar]] – [http://www.eurostar.com/ Website]
+*[[Heathrow Express]] – [http://www.heathrowexpress.co.uk/ Website]
+*[[First Hull Trains]] – [http://www.hulltrains.co.uk/ Website]
+*[[Grand Central Railway|Grand Central]] – [http://www.grandcentralrail.co.uk/ Website]
+*[[Venice Simplon Orient Express]] (VSOE)
+
+==Early railway companies (1820s-1840s)==
+This is only the earliest of the main line openings: for a more comprehensive list of the hundreds of early railways see [[List of early British railway companies]]
+*[[Stockton and Darlington Railway]] (1825) - First steam-hauled passenger railway in the world.  
+*[[Canterbury and Whitstable Railway]] (1830) - First steam-hauled passenger railway to issue season tickets.  
+*[[Liverpool and Manchester Railway]] (1830) - First InterCity passenger railway.  
+*[[Grand Junction Railway]] (1833) - The line built by the company was the first trunk railway to be completed in England, and arguably the world's first long-distance railway with steam traction.  
+*[[London and Greenwich Railway]] (1836) - First steam railway in the capital, the first to be built specifically for passengers, and the first elevated railway.
+*[[London and Birmingham Railway]] (1837) -  First Intercity line to be built into London.  
+*[[Midland Counties Railway]] (1839)
+*[[Birmingham and Derby Junction Railway]] (BDJR) (1839)
+*[[North Midland Railway]] (1840)
+*[[Taff Vale Railway]] (1840)
+
+==Heritage and private railways==
+[[File:Locomotive70013OliverCromwellNNR11March2010.jpg|thumb|Heritage railways are popular tourist attractions. The photo shows a preserved [[Steam locomotive|locomotive]] ([[British Railways|BR]] Standard [[BR standard class 7 70013 Oliver Cromwell|7MT 70013 ''Oliver Cromwell'']])
+on the [[North Norfolk Railway]] on 11 March 2010.]]
+
+Many lines closed by British Railways, including many closed during the [[Beeching cuts]], have been restored and reopened as [[heritage railway]]s. A few have been relaid as narrow-gauge but the majority are standard-gauge. Most use both steam and diesel locomotives for haulage. Most heritage railways are operated as tourist attractions and do not provide regular year-round train services. See also this [[list of British heritage and private railways]].
+
+==Railway re-opening==
+Several pressure groups are campaigning for the re-opening of closed railway lines in Great Britain. These include:
+
+* Ashington–Bedlington–[[Newcastle railway station|Newcastle]]<ref>[http://www.senrug.co.uk/campaign_abt.php SENRUG : South East Northumberland Rail User Group] {{wayback|url=http://www.senrug.co.uk/campaign_abt.php |date=20080602152753 }}</ref>
+* [[Marlow Branch Line|Marlow Branch]] ([[Bourne End railway station|Bourne End]]–[[High Wycombe railway station|High Wycombe]])<ref>[http://www.yourwycombe.co.uk/NewsPub/News/Stories/2006/09/15/11583109671.shtml YourHighWycombe - the open forum for everyone who lives and works in High Wycombe] {{wayback|url=http://www.yourwycombe.co.uk/NewsPub/News/Stories/2006/09/15/11583109671.shtml |date=20080723130206 }}</ref>
+* [[Cambridge railway station|Cambridge]]–[[Oxford railway station|Oxford]], [[East West Rail Link]]<ref>{{cite web|url=http://www.eastwestrail.org.uk/route/ |title=The route |publisher=EastWestRail |date=22 April 2014 |accessdate=20 May 2014}}</ref> This project was approved by the Government in November 2011.
+* Cambridge–St Ives<ref>{{cite web|url=http://www.castiron.org.uk/ |title=The Cambridge and St. Ives Railway Organisation |publisher=Cast.Iron |date=7 August 2011 |accessdate=20 May 2014}}</ref>
+* [[Colne railway station|Colne]]–[[Skipton railway station|Skipton]], [[Skipton-East Lancashire Rail Action Partnership]]<ref>{{cite web|author=Selrap |url=http://www.selrap.org.uk/ |title=Skipton East Lancashire Railway Action Partnership |publisher=Selrap |accessdate=20 May 2014}}</ref>
+*[[South Staffordshire Line]] ([[Stourbridge Junction railway station|Stourbridge]]–[[Walsall railway station|Walsall]])
+*[[Wealden Line]] ([[Uckfield railway station|Uckfield]]–[[Lewes railway station|Lewes]])<ref>[http://www.wealdenline.co.uk/ Wealden Line Campaign]</ref>
+*[[Woodhead Line]] ([[Hadfield railway station|Hadfield]]–[[Penistone railway station|Penistone]])
+*[[York to Beverley Line]] ([[York railway station|York]]–[[Beverley railway station|Beverley]])
+*[[Peak Rail]]: ([[Matlock railway station|Matlock]]–[[Bakewell railway station|Bakewell]]). Under-funded line.
+*[[Great Central Main Line|Great Central Railway]] Notts–Leicester
+*[[Portishead Railway]] from [[Portishead, Somerset|Portishead]] to [[Bristol Temple Meads railway station|Bristol Temple Meads]]
+
+From 1995 until 2009, 27 new lines (totalling 199 track miles) and 68 stations were opened, with 65 further new station sites identified by [[Network Rail]] or government for possible construction.{{ATOCConnectingCommunitiesReportS10|page=6}}
+On 15 June 2009 the [[Association of Train Operating Companies]] (ATOC) published the report ''[[Connecting Communities: Expanding Access to the Rail Network]]'', detailing schemes around England where it believed there was a commercial business case for passenger network expansion. The published proposals involved the re-opening or new construction of 40 stations, serving communities with populations of over 15,000, including 14 schemes involving the re-opening or reconstruction of rail lines for passenger services. These would be short-lead-time local projects, to be completed in timescales ranging from 2 years 9 months to 6 years, once approved by [[Local government in England|local]] and [[Regions of England|regional]] governments, Network Rail and the [[Department for Transport]], complementing existing long-term national projects.{{ATOCConnectingCommunitiesReportS10}}<ref name=BBC8099912>{{Cite news
+|url=http://news.bbc.co.uk/1/hi/england/8099912.stm
+|title=Move to reinstate lost rail lines
+|date=15 June 2009
+|accessdate=15 June 2009
+|work=BBC News
+}}</ref>
+
+==Rail link(s) with adjacent countries==
+* Great Britain (standard-gauge)
+** {{Flag icon|France}} [[Rail transport in France|France]] ([[Eurostar]]) via the [[Channel Tunnel]]<br> formerly by [[Train ferry|Train ferries]]. <!-- Any train ferry to the Netherlands?? -->
+** {{Flag icon|Belgium}} [[Rail transport in Belgium|Belgium]] ([[Eurostar]]) via France using the [[Channel Tunnel]].
+** {{Flag icon|Germany}} '''''TBD 2013/2014''''' [[Rail transport in Germany|Germany]] ([[Deutsche Bahn]]<ref name="rg-ice3-chunnel">{{cite news |url= http://www.railwaygazette.com/news/single-view/view/10/deutsche-bahn-to-run-ice3-to-britain-this-year.html |title=Deutsche Bahn to run ICE3 to Britain this year |work=[[Railway Gazette International]] |location =London |date=29 July 2010}}</ref>) via France using the Channel Tunnel.
+* [[Northern Ireland Railways|Northern Ireland]] ([[Irish gauge]])
+** {{Flag icon|Ireland}} [[Rail transport in Ireland|Ireland]] ([[Enterprise (train)|Enterprise]]) between [[Belfast]] and [[Dublin]]; see [[Rail transport in Ireland#International Routes]] for more information.
+
+===Rail-ferry-rail services===
+** {{Flag icon|Netherlands}} [[Rail transport in the Netherlands|Netherlands]] - [[Dutchflyer]]  rail/sea/rail service
+** {{Flag icon|Ireland}} [[Rail transport in Ireland|Ireland]] - Sail Rail service<ref>{{cite web |url= http://www.arrivatrainswales.co.uk/SailRail/ |title=Travel from any UK Station to Ireland by train and ferry from only £31 single |publisher= Arriva Trains Wales |accessdate=20 May 2014}}</ref>
+
+==See also==
+{{multicol}}
+*[[British narrow gauge railways]]
+*[[Concessionary fares on the British railway network]]
+*[[History of rail transport in Great Britain]]
+*[[Irish Sea tunnel]]
+*[[Metrication of British Transport]]
+{{multicol-break}}
+*[[List of funicular railways#United Kingdom|List of funicular railways]]
+*[[Railway electrification in Great Britain]]
+*[[Rail transport by country]]
+*[[Royal Train]]
+*[[Transport in the United Kingdom#Railways|Transport in the United Kingdom]]
+{{multicol-end}}
+
+==References==
+{{reflist|colwidth=30em}}
+*[http://www.nao.org.uk/report/network-rail-making-a-fresh-start/ Network Rail – Making a Fresh Start] – [[National Audit Office (United Kingdom)|National Audit Office]] report, 14 May 2004
+*[http://www.imeche.org.uk/railway/events/list_of_past_events.asp Railway industry topic guides from the Institution of Mechanical Engineers]{{dead link |date=April 2014}}
+*''On The Wrong Line: How Ideology and Incompetence Wrecked Britain's Railways'', [[Christian Wolmar]], Aurum Press Ltd, ISBN 1-85410-998-7
+
+==External links==
+{{sisterlinks|d=Q1505124|commons=category:Rail transport in the United Kingdom|voy=Rail travel in the United Kingdom|n=no|b=no|wikt=no|s=no|v=no|mw=no|q=no|m=no}}
+* [http://www.nationalrail.co.uk National Rail] Official UK Rail timetable site
+*{{DMOZ|Regional/Europe/United_Kingdom/Transport/Rail/}}
+* [http://www.nationalrail.co.uk/tocs_maps/maps/ National Rail maps page] UK railway maps
+* [http://transportreview.co.uk/rail/map Interactive map of every Rail Station in the UK]
+* [http://www.britrail.com BritRail] ATOC site with timetables, maps and cross-network passes for foreign travellers in UK
+* [http://www.britainontrack.com BritRail Passes Canada] Canadian source for British Rail Passes And tickets
+* [http://www.ScotlandRailways.com ScotlandRailways] Scottish Rail site with timetables, maps and cross-network passes for foreign travellers in Scotland
+* [http://www.northumbrian-railways.co.uk/index.html Northumbrian Railways]
+* [http://www.carfreedaysout.com Great Scenic Railways of Devon and Cornwall]
+* [http://bbs.keyhole.com/ubb/showthreaded.php/Cat/0/Number/116073 Collection of Google Earth locations of National Rail stations] (Requires [http://earth.google.com Google Earth software]) from the Google Earth Community forum.
+
+{{Rail transport in Europe}}
+{{Proposed rail infrastructure projects in the United Kingdom}}
+
+[[Category:Rail transport in Great Britain| ]]

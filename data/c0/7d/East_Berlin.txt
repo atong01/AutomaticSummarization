@@ -1,0 +1,160 @@
+{{other uses}}
+{{Use dmy dates|date=April 2013}}
+{{Expand German|Ost-Berlin|date=July 2010}}
+{{Infobox former subdivision
+|native_name = ''Ost-Berlin''<br/>''Berlin (Ost)''
+|conventional_long_name = East Berlin
+|common_name = East Berlin
+|nation = Berlin
+|status_text = [[Allied-occupied Germany|Soviet-occupied sector]] of Berlin. (''de jure''), capital of [[East Germany]]. (''de facto'')
+|era = Cold War
+|event_start = |date_start = 
+|year_start = 1949
+|event_end = [[German reunification|Reunification]]
+|date_end = 3 October
+|year_end = 1990
+|p1 = Allied-occupied Germany
+|s1 = Germany
+|s2 = Berlin
+|flag_p1 = Flag of Germany (1946-1949).svg
+|flag_s1 = Flag of Germany.svg
+|flag_s2 = Flag of Berlin.svg
+|image_flag = Flag of East Berlin (1956-1990).svg
+|image_coat = Coat of arms of Berlin (1935).svg
+|image_map = Occupied Berlin.svg
+|image_map_caption = The four occupation zones of Berlin.<br/>East Berlin is shown in red.
+|stat_area1 = 409
+|stat_year1 = 1989
+|stat_pop1 = 1279212
+|footnotes = 
+}}
+
+'''East Berlin''' existed between 1949 and 1990. It comprised the eastern regions of [[Berlin]] and consisted of the [[Soviet Union|Soviet]] [[Allied Occupation Zones in Germany|sector]] of Berlin that was established in 1945. The American, British, and French sectors became [[West Berlin]], a part strongly associated with [[West Germany]]. East Berlin was the ''de facto'' [[Capital of Germany|capital]] of [[East Germany]]. From 13 August 1961 until 9 November 1989, East Berlin was separated from [[West Berlin]] by the [[Berlin Wall]]. 
+The official name that was used by the East German government changed over the course of years from "Greater Berlin" to "Democratic Berlin" to "Berlin, Capital of the GDR" or simply "Berlin." Within official usage, it had become more widespread since the 1970s to refer only to the Western part of the city with a different name ("Westberlin"), whilst calling the Eastern part simply "Berlin". (See also [[West Berlin#Naming conventions|Naming conventions]]).
+
+==Overview==
+
+With the [[London_Protocol#1944|London Protocol]] from 1944, the United States, the United Kingdom and the Soviet Union decided to divide Germany into three occupation zones and to establish a special area of Berlin, which was occupied by the three Allied Forces together. In May 1944, the Soviet Union installed a city government for the whole city that was called "Magistrate of Greater Berlin", which existed until 1947. After the war, the Allied Forces initially administrated the city together within the [[Allied Kommandatura]], which served as the governing body of the city. However, in 1948 the Soviet representative left the Kommandatura and the common administration broke apart during the following months. In the Soviet sector, a separate city government was established, which continued to call itself "Magistrate of Greater Berlin". 
+
+When the German Democratic Republic was formed in 1949, it immediately claimed East Berlin as its capital - a claim that was recognized by all Communist countries. Nevertheless, its representatives to the [[People's Chamber]] did not have full voting rights until 1968.{{huh|date=September 2015}}  
+
+The [[Western Allies]] (the US, Britain, and France) never formally acknowledged the authority of the East German government to govern East Berlin; the official Allied protocol recognized only the authority of the Soviet Union in East Berlin in accordance with the occupation status of Berlin as a whole.  The United States Command Berlin, for example, published detailed instructions for U.S. military and civilian personnel wishing to visit East Berlin.<ref>{{cite journal | title = Helpful Hints for US Visitors to East Berlin | publisher = Headquarters, U.S. Command Berlin | date = 1981-11-09 | url = http://upload.wikimedia.org/wikipedia/commons/7/7d/USCOB_Hints_on_Visiting_East_Berlin_-_19811109.pdf | format = PDF }}</ref> In fact, the three Western commandants regularly protested the presence of the East German [[National People's Army]] (NVA) in East Berlin, particularly on the occasion of military parades.  Nevertheless, the three Western Allies eventually established embassies in East Berlin in the 1970s, although they never recognized it as the capital of East Germany. Treaties instead used terms such as "seat of government."
+
+On 3 October 1990, West and East Germany and West and East Berlin [[German reunification|were reunited]], thus formally ending the existence of East Berlin.
+
+==East Berlin today==
+
+Since reunification, the German government has spent vast amounts of money on reintegrating the two halves of the city and bringing services and infrastructure in the former East Berlin up to the standard established in West Berlin. Despite this, there are still obvious differences between eastern and western Berlin. Eastern Berlin has a distinctly different visual aspect, partly because of the greater survival of prewar façades and streetscapes, some still showing signs of wartime damage, and partly because of the distinctive style of urban [[Stalinist architecture]] used in the GDR. As in other former East German cities, a small number of GDR-era names commemorating socialist heroes have been preserved, such as [[Karl-Marx-Allee]], [[Rosa-Luxemburg-Platz]], and [[Karl-Liebknecht-Straße]]; this followed a long process of review in which many such street names were deemed inappropriate and were changed. Still visible throughout former East Berlin are the characteristic "[[Ampelmännchen]]" on some pedestrian traffic lights. These days they are also visible in parts of the former West Berlin following a civic debate about whether the "Ampelmännchen" should be abolished or disseminated more widely. While both sides have now unified as Berlin, there is still a noticeable difference between East and West Berliners.
+
+==Soviet and East German Commandants of East Berlin==
+[[File:Marx-engels-platz.jpg|thumb|200px|right|Marx-Engels-Platz and the [[Palast der Republik]] in East Berlin in the summer of 1989. The [[Fernsehturm Berlin|Fernsehturm]] (TV Tower) is visible in the background]]
+[[File:EastBerlinBoroughs.png|thumb|200px|right|Boroughs of East Berlin (as of 1987)]]
+{|  style="text-align: left;  border-collaps:collapse; line-height: 1.3em; font-size: 95%;"
+|+
+! Name <ref>{{cite web |url=http://www.worldstatesmen.org/German_States1918.htm#Soviet |title=Commandants of Berlin Soviet Zone |work=World Statesmen.org}}</ref>
+! Term
+|-
+| [[Nikolay Berzarin]] || 2 May 1945 – 16 June 1945
+|-
+| [[Aleksandr Gorbatov]] || 17 June 1945 – 19 November 1945
+|-
+| [[Dimitry Smirnov]] || 19 November 1945 –  1 April 1946
+|-
+| [[Aleksandr Kotikov]] || 1 April 1946 –  7 June 1950
+|-
+| [[Sergey Dienghin]] || 7 June 1950 – April 1953
+|-
+| [[Pavel Dibrov]] || April 1953 – 23 June 1956
+|-
+| [[Andrey Chamov]] || 28 June 1956 – 26 February 1958
+|-
+| [[Nikolay Zakharov]] || 26 February 1958 –  9 May 1961
+|-
+| [[Andrey Soloviev]] || 9 May 1961 – 22 August 1962
+|-
+| [[Helmut Poppe]] || 22 August 1962 – 31 May 1971
+|-
+| [[Artur Kunath]] || 1 June 1971 – 31 August 1978
+|-
+| [[Karl-Heinz Drews]] || 1 September 1978 – 31 December 1988
+|-
+| [[Wolfgang Dombrowski]] || 1 January 1989 – 30 September 1990
+|-
+| [[Detlef Wendorf]] ||1 October 1990 –  2 October 1990
+|}
+
+==Boroughs of East Berlin==
+At the time of [[German reunification]], East Berlin comprised the [[Boroughs of Berlin|boroughs]] of
+* [[Friedrichshain]]
+* [[Hellersdorf]] (since 1986)
+* [[Hohenschönhausen]] (since 1985)
+* [[Köpenick]]
+* [[Lichtenberg]]
+* [[Marzahn]] (since 1979)
+* [[Mitte]]
+* [[Pankow]]
+* [[Prenzlauer Berg]]
+* [[Treptow]]
+* [[Weißensee (Berlin)|Weißensee]]
+
+==Images of East Berlin==
+<gallery>
+<!-- Unsourced image removed: File:Berlin_east_ddr_1970s.jpg|East Berlin borough of [[Mitte]] in the 1970s -->
+File:Fehrnsehturm Palast.jpg|Easter Sunday 1988 Fernsehturm and Palast der Republik
+File:Karl-Marx-Allee Block C Nord Berlin April 2006 060.jpg|Karl Marx Allee apartments
+File:Lenindecoration.JPG|Wall plaque of Lenin, off [[Wilhelmstraße]]
+File:Veggdekorasjon.JPG|GDR-era mural of Meissen porcelain on former Council of Ministers building, facing Leipziger Straße 
+File:Soviet War Memorial Park.JPG|The Soviet War Memorial in Treptower Park
+File:Cafe Moskau.JPG|Cafe Moskau in Karl Marx Allee
+File:Dismantling of the Palace of the Republic.JPG|The Palace of the Republic, being dismantled
+File:New Synagogue, East Berlin.JPG|[[New Synagogue (Berlin)|New Synagogue]], [[Oranienburger Straße]]
+File:Weberwiese Berlin April 2006 147.jpg|"Hochhaus" in Weberwiese- the first high rise apartment that was built after the war
+File:VolksbühBerlJan08.JPG|People's Theatre, Rosa-Luxemburg-Platz
+File:Berlin_Wilhelmstrasse.jpg|Late-1980s GDR apartment blocks on the Wilhelmstraße 
+File:Strausberger Platz Berlin April 2006 117.jpg|Strausberger Platz with constructivism style building
+File:Proletarian hero, Alexanderplatz june 2006.JPG|Proletarian hero, Alexanderplatz
+File:Bundesarchiv Bild 183-U1109-022, Berlin, Sandmännchen.jpg|Gerhard Behrendt with Sandmännchen. The Show is taped there.
+File:Bundesarchiv Bild 183-41736-0005, Berlin, Bodemuseum, Monbijoubrücke.jpg|The [[Bode Museum]] at the northern end of the [[Museum Island]], 1956
+</gallery>
+
+==See also==
+[[File:Statues of Karl Marx and Friedrich Engels.JPG|thumb|Statues of Marx and Engels, [[Marx-Engels-Forum]]]]
+* [[History of Berlin]]
+* [[Berlin Wall]]
+* [[Bonn]]
+* [[Cold War]]
+* [[Checkpoint Charlie]]
+* [[East Germany]]
+* [[Ghost station]]
+* [[History of Germany since 1945]]
+* [[West Berlin]]
+* [[West Germany]]
+
+==References==
+
+*Durie, W. (2012). The British Garrison Berlin 1945–1994 "No where to go" Berlin: Vergangenheits/Berlin. ISBN 978-3-86408-068-5.
+{{History of Berlin}}
+{{Reflist}}
+
+==External links==
+*[http://www.berlinphotos.co.uk Berlin Photos 1989–1999]
+*[http://www.ostberlin.de/en/ East Berlin Past and Present]
+*[http://www.ddr-fotos.de/gdr_photos.htm Pictures of the GDR and East Berlin 1949–1973]
+*[http://www.npr.org/templates/story/story.php?storyId=6389848 Old East Berlin Fades Away Amid Renovations]
+
+{{EastBerlinMayors}}
+{{Former Boroughs of Berlin}}
+{{Bezirke DDR}}
+{{Bezirke DDR Seats}}
+{{Allied-administered Germany}}
+{{Berlin Wall}}
+
+{{Coord|52|31|7|N|13|24|16|E|display=title}}
+
+{{Authority control}}
+[[Category:Former polities of the Cold War]]
+[[Category:Divided cities|Berlin, East]]
+[[Category:Geography of East Germany]]
+[[Category:Subdivisions of East Germany]]
+[[Category:States and territories established in 1949]]
+[[Category:East Berlin| ]]

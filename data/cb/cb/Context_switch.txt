@@ -1,0 +1,63 @@
+{{more footnotes|date=November 2009}}
+
+In computing, a '''context switch''' is the process of storing and restoring the [[State (computer science)|state]] (more specifically, the execution [[Context (computing)|context]]) of a [[Process (computing)|process]] or [[Thread (computing)|thread]] so that execution can be resumed from the same point at a later time. This enables multiple processes to share a single [[Central processing unit|CPU]] and is an essential feature of a [[computer multitasking|multitasking]] [[operating system]].
+
+The precise meaning of "context switch" varies significantly in usage, most often to mean "thread switch or process switch" or "process switch only",<ref>{{cite web
+ | url = http://www.eecs.harvard.edu/~margo/cs161/notes/context-switching.pdf
+ | title = Switching and Crossing
+ | date = February 11, 2014 | accessdate = November 6, 2014
+ | author = Margo Seltzer | website = eecs.harvard.edu
+ | format = PDF
+}}</ref> either of which may be referred to as a "[[Task (computing)|task]] switch". More finely, one can distinguish ''[[thread (computing)|thread]] switch'' (switching between two threads within a given process), ''process switch'' (switching between two processes), ''mode switch'' (''domain crossing'': switching between user mode and kernel mode within a given thread), ''[[Processor register|register]] switch'', a ''[[stack frame]] switch'', and ''address space switch'' (''memory map switch'': changing virtual memory to physical memory map). The computational cost of context switches varies significantly depending on what precisely it entails, from little more than a [[subroutine]] call for light-weight user processes, to very expensive, though typically much less than that of saving or restoring a [[process image]].
+
+== Cost ==
+Context switches are usually computationally intensive, and much of the design of operating systems is to optimize the use of context switches. Switching from one process to another requires a certain amount of time for doing the administration{{snd}} saving and loading registers and memory maps, updating various tables and lists etc. What is actually involved in a context switch varies between these senses and between processors and operating systems. For example, in the [[Linux kernel]] context switching involves switching registers, stack pointer, and [[program counter]], but is independent of address space switching, though in a process switch an address space switch also happens.<ref>''IA-64 Linux Kernel: Design and Implementation'', [http://www.informit.com/articles/article.aspx?p=29961&seqNum=7 4.7 Switching Address Spaces]</ref><ref>''Operating Systems'', 5.6 The Context Switch, [https://books.google.com/books?id=orZ0CLxEMXEC&pg=PA118 p. 118]</ref> Further still, analogous context switching happens between [[user thread]]s, notably [[green thread]]s, and is often very light-weight, saving and restoring minimal context. In extreme cases, such as switching between goroutines in [[Go (programming language)|Go]], a context switch is equivalent to a [[coroutine]] yield, which is only marginally more expensive than a [[subroutine]] call.
+
+== When to switch? ==
+There are three potential triggers for a context switch:
+
+=== Multitasking ===
+Most commonly, within some [[Scheduling (computing)|scheduling]] scheme, one process must be switched out of the CPU so another process can run.
+This context switch can be triggered by the process making itself unrunnable, such as by waiting for an [[Input/output|I/O]] or [[Synchronization (computer science)|synchronization]] operation to complete. On a [[pre-emptive multitasking]] system, the scheduler may also switch out processes which are still runnable. To prevent other processes from being starved of CPU time, preemptive schedulers often configure a timer interrupt to fire when a process exceeds its [[time slice]]. This interrupt ensures that the scheduler will gain control to perform a context switch.
+
+=== Interrupt handling ===
+Modern architectures are [[interrupt]] driven. This means that if the CPU requests data from a disk, for example, it does not need to [[busy-wait]] until the read is over; it can issue the request and continue with some other execution. When the read is over, the CPU can be ''interrupted'' and presented with the read. For interrupts, a program called an ''[[interrupt handler]]'' is installed, and it is the interrupt handler that handles the interrupt from the disk.
+
+When an interrupt occurs, the hardware automatically switches a part of the context (at least enough to allow the handler to return to the interrupted code).  The handler may save additional context, depending on details of the particular hardware and software designs.  Often only a minimal part of the context is changed in order to minimize the amount of time spent handling the interrupt.
+The [[kernel (computing)|kernel]] does not spawn or schedule a special process to handle interrupts, but instead the handler executes in the (often partial) context established at the beginning of interrupt handling. Once interrupt servicing is complete, the context in effect before the interrupt occurred is restored so that the interrupted process can resume execution in its proper state.
+
+=== User and kernel mode switching ===
+When a transition between [[user mode]] and [[kernel mode]] is required in an operating system, a context switch is not necessary; a mode transition is ''not'' by itself a context switch.  However, depending on the operating system, a context switch may also take place at this time.
+
+== Steps ==
+In a switch, the state of the first process (assuming that the first process is the process in execution and is to be switched) must be saved somehow, so that, when the scheduler gets back to the execution of the first process, it can restore this state and continue.
+
+The state of the process includes all the registers that the process may be using, especially the [[program counter]], plus any other operating system specific data that may be necessary. This data is usually stored in a data structure called a [[process control block]] (PCB), or switchframe. 
+
+In order to switch processes, the PCB for the first process must be created and saved. The PCBs are sometimes stored upon a per-process [[Stack (data structure)|stack]] in kernel memory (as opposed to the user-mode [[call stack]]), or there may be some specific operating system defined data structure for this information.
+
+Since the operating system has effectively suspended the execution of the first process, it can now load the PCB and context of the second process. In doing so, the program counter from the PCB is loaded, and thus execution can continue in the new process. New processes are chosen from a queue or queues (often referred as ready queue). Process and thread priority can influence which process continues execution, with processes of the highest priority checked first for ready threads to execute.
+
+== {{Anchor|LATENCY}}Performance ==
+Context switching itself has a cost in performance, due to running the [[scheduling (computing)|task scheduler]],  [[Translation lookaside buffer|TLB]] flushes, and indirectly due to sharing the [[CPU cache]] between multiple tasks.<ref>{{cite paper |author=Chuanpeng Li, Chen Ding, Kai Shen |title=Quantifying The Cost of Context Switch |url=http://www.cs.rochester.edu/u/cli/research/switch.pdf }}</ref> Switching between threads of a single process can be faster than between two separate processes, because threads share the same [[virtual memory]] maps, so a TLB flush is not necessary.<ref>{{cite news |author=Ulrich Drepper |date={{date|2014-10-09}} |title=Memory part 3: Virtual Memory |publisher=[[LWN.net]] |url=https://lwn.net/Articles/253361/ }}</ref>
+
+=== Hardware vs. software ===
+Context switching can be performed primarily by software or hardware. Some processors, like the [[Intel 80386]] and its successors,<ref>{{cite web|url=http://www.linfo.org/context_switch.html |title=Context Switch definition |publisher=Linfo.org |date= |accessdate=2013-09-08}}</ref> have hardware support for context switches, by making use of a special data segment designated the [[task state segment]] or TSS.  A task switch can be explicitly triggered with a CALL or JMP instruction targeted at a TSS descriptor in the [[global descriptor table]].  It can occur implicitly when an interrupt or exception is triggered if there's a [[task gate]] in the [[interrupt descriptor table]].  When a task switch occurs the [[Central processing unit|CPU]] can automatically load the new state from the TSS.
+
+As with other tasks performed in hardware, one would expect this to be rather fast; however, mainstream operating systems, including [[Microsoft Windows|Windows]] and [[Linux]],<ref>{{cite book|url=http://books.google.com/?id=h0lltXyJ8aIC&lpg=PA104&dq=Linux%20hardware%20TSS&pg=PA104#v=onepage&q=Linux%20hardware%20TSS|title=Understanding the Linux Kernel, Third Edition|last1=Bovet|first1=Daniel Pierre|last2=Cesati|first2=Marco|publisher=[[O'Reilly Media]]|year=2006|page=104|accessdate=2009-11-23|isbn=978-0-596-00565-8}}</ref> do not use this feature.  This is mainly due to two reasons:
+
+* Hardware context switching does not save all the registers (only general purpose registers, not [[floating point]] registers — although the TS bit is automatically turned on in the CR0 [[control register]], resulting in a fault when executing floating point instructions and giving the OS the opportunity to save and restore the floating point state as needed).
+* Associated performance issues, e.g., software context switching can be selective and store only those registers that need storing, whereas hardware context switching stores nearly all registers whether they are required or not.
+
+== References ==
+{{reflist}}
+
+== External links ==
+*[http://wiki.osdev.org/Context_Switching  Context Switching] - at OSDev.org
+*[http://www.linfo.org/context_switch.html  Context Switch Definition] - by The Linux Information Project (LINFO)
+*[http://msdn.microsoft.com/en-us/library/ms682105(VS.85).aspx Context Switches] - from the Microsoft Developer Network (MSDN)
+*[http://www.freebsd.org/doc/en/books/arch-handbook/smp-design.html General Architecture and Design -Interrupt Handling] at FreeBSD.org
+
+{{Operating System}}
+{{DEFAULTSORT:Context Switch}}
+[[Category:Process (computing)]]

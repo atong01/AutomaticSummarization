@@ -1,0 +1,3 @@
+#REDIRECT [[Philosophy]]
+
+{{R from CamelCase}}

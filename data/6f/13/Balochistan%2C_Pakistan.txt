@@ -1,0 +1,294 @@
+{{Use British English|date=May 2012}}
+{{Use dmy dates|date=May 2012}}
+{{Infobox settlement
+| name= Balochistan
+| official_name=<!-- If different from name -->
+| native_name=بلوچستان
+| native_name_lang=<!-- ISO 639-2 code e.g. "fr" for French. If more than one, use {{lang}} instead -->
+| type=[[Administrative units of Pakistan|Province]]
+| image_skyline = 
+| image_alt =
+| image_caption = Clockwise from top: Natural sphinx like rock formation near [[Makran Coastal Highway]], [[Hanna Lake]], Mud volcano in [[Hingol National Park]], [[Urak Valley]], [[Gawadar]] city, [[Quetta]] city
+| image_flag=Flag of Balochistan.svg
+| flag_alt=
+| image_seal= Coat of arms of Balochistan.svg
+| nickname=
+| image_map=Balochistan in Pakistan (claims hatched).svg
+| map_alt=
+| map_caption=Location of Balochistan
+|latd=30.12
+|longd=67.01
+|coor_pinpoint=
+|coordinates_type=
+|coordinates_display=inline,title
+|coordinates_footnotes=
+|coordinates_region=PK
+|subdivision_type=Country
+|subdivision_name={{flag|Pakistan}}
+|subdivision_type1=
+|subdivision_name1=
+|parts_style=para
+|parts_type=Largest city
+|p1=Quetta
+|established_title=Established
+|established_date=14 August 1947
+|seat_type=Provincial Capital
+|seat=[[Quetta]]
+|blank_name_sec1=[[Languages of Pakistan|Main Language(s)]]
+|blank_info_sec1= [[Urdu]] {{small|(National)}}, [[Balochi language|Balochi]], [[Pashto language|Pashto]], [[Sindhi language|Sindhi]], [[Brahui language|Brahui]]
+|blank_name_sec2=Provincial Assembly seats
+|blank_info_sec2=65
+|blank1_name_sec2=[[Districts of Pakistan|Districts]]
+|blank1_info_sec2=32
+|blank2_name_sec2=Towns
+|blank2_info_sec2=
+|blank3_name_sec2=[[Union Councils of Pakistan|Union Councils]]
+|blank3_info_sec2=86
+|government_footnotes=
+|government_type=Province
+|governing_body=Provincial Assembly
+|leader_party=
+|leader_title=[[List of Governors of Pakistan|Governor]]
+|leader_name= [[Muhammad Khan Achakzai|Muhammad Achakzai]] {{small|[[Pakhtunkhwa Milli Awami Party|(PkMAP)]]}}
+|leader_title1=[[List of Chief Ministers in Pakistan|Chief Minister]]
+|leader_name1=[[Abdul Malik Baloch]] ([[National Party (Pakistan)|NP]])
+|leader_title2=[[Provincial Assembly of Balochistan|Legislature]]
+|leader_name2=[[Unicameral]] (124 seats)
+|leader_title4           = [[High Courts of Pakistan|High Court]]
+| leader_name4            = [[Balochistan High Court]]
+|unit_pref=Metric
+|area_footnotes=
+|area_total_km2=347190
+|area_note=
+|elevation_footnotes=
+|elevation_m=
+|population_footnotes=
+|population_total=13,162,222
+|population_as_of=2012
+|populaon_density_km2=auto
+|population_demonym= Balochistani
+|population_note=
+|timezone1=[[Time in Pakistan|PKT]]
+|utc_offset1=+5
+|postal_code_type=
+|postal_code=
+|area_code_type=
+|area_code=
+|website={{URL|http://www.balochistan.gov.pk}}
+|footnotes=
+|iso_code=PK-BA
+}}
+
+'''Balochistan'''  ([[Balochi language|Balochi]], [[Pashto language|Pashto]], {{lang-ur|{{Nastaliq|'''بلوچِستان'''}}}}, {{transl|ur|''Balōčistān''}}, {{IPA-hns|bəloːt͡ʃɪst̪ɑːn|pron}}), is one of the [[Four Provinces (Pakistan)|four provinces of Pakistan]], located in the [[Geography of Pakistan|southwestern]] region of the country. Its provincial capital and largest city is [[Quetta]]. It shares borders with [[Punjab, Pakistan|Punjab]] and the [[Federally Administered Tribal Areas]] to the northeast, [[Sindh]] to the southeast,   the [[Arabian Sea]] to the south,  [[Iran]] to the west, and [[Afghanistan]] to the north.
+
+Most of the province's inhabitants are [[Baloch people|Baloch]]s, [[Pashtun people|Pashtuns]] and [[Brahui people|Brahuis]] though there are smaller communities of [[Baloch people|Iranian Baloch]]s, [[Hazara people|Hazara]]s, [[Sindhis]], [[Punjabis]], and other settlers such as the [[Uzbeks]], and [[Turkmens]]. The name [[Balochistan]] means "''the land of the Baloch''" in many regional languages. Although largely underdeveloped, the [[Economy of Balochistan, Pakistan|provincial economy]] is dominated by natural resources, especially its [[Oil and Gas Development Company|natural gas fields]], which supply the entire country. [[Gwadar Port]] also plays a significant role in the economic development of the province.
+
+Balochistan is noted for its unique culture, extremely dry [[List of deserts of Pakistan|desert climate]], and the [[Sulaiman Mountains]].<ref>Weiss, Anita M. and Mughal, Muhammad Aurang Zeb. 2012. Pakistan. Louis Kotzé and Stephen Morse (eds), Berkshire Encyclopedia of Sustainability, Vol. 9. Great Barrington, MA: Berkshire, pp. 236-240</ref>
+
+==History==
+{{Main|History of Balochistan, Pakistan}}
+[[File:Picbaloochi.jpg|thumb|230px|A Baloch [[shepherd]], from a 1900 photo]]
+[[File:Quetta4m.jpg|thumb|right|Quetta cantonment in 1889]]
+[[File:Bolan Pass 1842.jpg|thumb|A historical sketch of Bolan Pass, Balochistan, Pakistan]]
+===Early history===
+{{refimprove section|date=September 2012}}
+[[File:IVC-major-sites-2.jpg|thumb|right|250px|Map showing the sites and extent of the [[Indus Valley Civilisation]]. [[Mohenjo-Daro]] and [[Mehrgarh]] were one of the centers of the Indus Valley Civilisation, both located in modern-day Pakistani Balochistan. Pakistani Balochistan marked the westernmost territory of the civilisation, and the latter was one of the most developed in the old [[Bronze Age]] in the world.]]
+Pakistani Balochistan occupies the very southeastern-most portion of the [[Iranian Plateau]], the site of the earliest known farming settlements in the pre-[[Indus Valley Civilization]] era, the earliest of which was [[Mehrgarh]], dated at 7000 BC, located in modern-day Pakistani Balochistan. Pakistani Balochistan marked the westernmost extent of the Indus Valley Civilisation. Centuries before the arrival of [[Islam]] in the 7th Century, parts of Pakistani Balochistan was ruled by the [[Paratarajas]], an [[Indo-Scythians|Indo-Scythian]] dynasty. At certain times, the [[Kushan Empire|Kushans]] also held political sway on parts of Pakistani Balochistan.{{citation needed|date=June 2015}}
+
+A theory of the origin of the [[Baloch people]], the largest ethnic group in the region, is that they are of [[Medes|Median]] descent,<ref>M. Longworth Dames, Balochi Folklore, ''Folklore'', Vol. 13, No. 3 (29 Sep. 1902), pp. 252–274</ref> and are a Kurdish group that has absorbed [[Ancient Dravidian culture|Dravidian]] genes and cultural traits, primarily from [[Brahui people]].{{Citation needed|date=August 2011}} With time, Baloch tribes linguistically absorbed all the local people in [[Makran]], southern Sistan and the Brahui country, becoming rival in size to the other [[Iranian languages|Iranian-speaking]] groups in the region.{{citation needed|date=September 2012}}
+
+In 654, Abdulrehman ibn Samrah, governor of Sistan and the newly emerged [[Rashidun caliphate]] at the expense of Sassanid Persia and the Byzantine Empire, sent an Islamic army to crush a revolt in [[Zaranj]], which is now in southern Afghanistan. After conquering Zaranj, a column of the army pushed north, conquering [[Kabul]] and [[Ghazni]], in the [[Hindu Kush]] mountain range, while another column moved through [[Quetta District]] in north-western Balochistan and conquered the area up to the ancient cities of ''Dawar'' and ''Qandabil'' ([[Bolan District|Bolan]]).<ref>Tabqat ibn Saad, Vol. 8, p. 471</ref> By 654, the whole of what is now Balochistan was controlled by the [[Rashidun Caliphate]], except for the well-defended mountain town of ''QaiQan'' which is now [[Kalat, Pakistan|Kalat]]. However, this town was later conquered during the reign of Caliph Ali.<ref>[[Futuh al-Buldan]], p. 386 incomplete citation, needs edition statement to identify the page</ref>{{citation needed|date=March 2015}} Abdulrehman ibn Samrah made Zaranj his provincial capital and remained governor of these conquered areas from 654 to 656, until Uthman was murdered.{{citation needed|date=June 2015}}
+
+During the Caliphate of Ali, revolt broke out in southern Balochistan's Makran region.{{citation needed|date=June 2015}} Due to civil war in the Rashidun Caliphate, Ali was unable to deal with these areas until 660, when he sent a large force, under the command of Haris ibn Marah Abdi, towards Makran and Sindh.{{citation needed|date=March 2015}} Haris ibn Marah Abdi arrived in Makran and conquered it by force, and then moved northward to north-eastern Balochistan and reconquered ''Qandabil'' (Bolan). Finally, he moved south and conquered Kalat after a fierce battle.<ref>Rashidun Caliphate and Hind, by Qazi Azher Mubarek Puri, published by Takhliqat, [[Lahore]] [[Pakistan]]</ref> In 663, during the reign of [[Umayyad]] Caliph [[Muawiyah I]], Muslims lost control of north-eastern Balochistan and Kalat when Haris ibn Marah and large part of his army died in battle against a revolt in Kalat.<ref>Tarikh al Khulfa, Vol. 1, pp. 214–215, 229</ref> Muslim forces later regained control of the area during the Umayyad reign. It also remained a part of the [[Abbasid]] Caliphate.
+
+In the 15th century, [[Mir Chakar Khan Rind]] became the first king of Afghan and Pakistani Balochistan, after which the region was dominated by the [[Timurid dynasty|Timurids]], who controlled most of [[Central Asia|Central]] and [[Western Asia]]. The [[Mughal Empire]] also controlled some parts of the area. When [[Nadir Shah]] won the allegiance of the rulers of eastern Balochistan, he ceded [[Kalhora]], one of the [[Sindh]] territories of [[Sibi]]-Kachi to the Khan of Kalat.<ref>[http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/letters-to-the-editor/baloch-national-identity-in-karachi Dawn.com] {{wayback|url=http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/letters-to-the-editor/baloch-national-identity-in-karachi |date=20121008054413 }}</ref><ref>[http://www.iranica.com/newsite/index.isc?Article=http://www.iranica.com/newsite/articles/unicode/v3f6/v3f6a030.html Iranica.com] {{wayback|url=http://www.iranica.com/newsite/index.isc?Article=http://www.iranica.com/newsite/articles/unicode/v3f6/v3f6a030.html |date=20120604103740 }}</ref><ref>{{cite web|url=http://panhwar.org/Article26.htm|title=Ghulam Shah Kalhora and Relations With Kutch|publisher=|accessdate=30 December 2014}}</ref> [[Ahmad Shah Durrani]], founder of the Afghan Empire, also won the allegiance of that area's rulers. Most of the area would eventually revert to local Baloch control, after Afghan rule.
+
+===British rule===
+During the period of the [[British Raj]], there were four [[Princely State]]s in Balochistan: [[Makran (princely state)|Makran]], [[Kharan (princely state)|Kharan]], [[Las Bela (princely state)|Las Bela]] and [[Kalat (princely state)|Kalat]]. In 1876, Sir [[Robert Groves Sandeman|Robert Sandeman]] negotiated the [[Treaty of Kalat]], which brought the Khan's territories, including Kharan, Makran, and Las Bela, under British suzerainty.<ref>{{cite book|first1=Naseer|last1=Dashti|title=The Baloch and Balochistan: A Historical Account from the Beginning to the Fall of the Baloch State|url=http://books.google.com/books?id=xIjyLNpusbAC|year= 2012|publisher=Trafford Publishing|isbn=978-1-4669-5896-8|p=247}}</ref> After the [[Second Afghan War]] was ended by the [[Treaty of Gandamak]] in May 1879, the [[Mohammad Yaqub Khan|Afghan Emir]] ceded the districts of Quetta, [[Pishin District|Pishin]], [[Harnai District|Harnai]], Sibi and [[Thal Chotiali]] to the British. In 1883, the British took control of the [[Bolan Pass]], south-east of Quetta, from the [[Khan of Kalat]]. In 1887, some areas of Balochistan were declared British territory. In 1893, Sir [[Mortimer Durand]] negotiated an agreement with the [[Amir]] of Afghanistan, [[Abdur Rahman Khan]], to fix the [[Durand Line]] running from [[Chitral]] to Balochistan as the boundary between the [[Emirate of Afghanistan]] and British-controlled areas. Two devastating earthquakes occurred in Balochistan during British colonial rule: the [[1935 Balochistan earthquake]], which devastated [[Quetta]], and the [[1945 Balochistan earthquake]] with its epicentre in the Makran region.{{citation needed|date=September 2012}}
+
+===After independence===
+In August 1947 the [[Chief Commissioner's Province of Balochistan]] immediately became part of Pakistan, followed by the princely states of [[Makran]], [[Kharan (princely state)|Kharan]], [[Las Bela (princely state)|Las Bela]], and the [[Khanate of Kalat]], who decided to accede to Pakistan in March 1948. The Khan of Kalat agreed to join Pakistan under the condition that defence, currency, foreign relations, and finance would be controlled by the federal government, but that the province would remain otherwise autonomous. The four princely states together formed the [[Balochistan States Union]] in October 1952. The enclave of [[Gwadar]] was excluded from this as it was still part of the Sultanate of Oman.{{citation needed|date=March 2015}}
+
+In October 1955, formation of one unit resulted in the Balochistan States Union and the Chief Commissioner's Province of Balochistan being merged with all the remaining provinces and princely states in other parts of Pakistan to form the province of [[West Pakistan]]. The enclave of Gwadar was purchased from Oman in October 1958 and was also merged with West Pakistan. The province was officially dissolved in 1970 and the former Balochistan States Union, former Chief Commissioner's Province of Balochistan were combined to form the new province of Balochistan. The government of Pakistan later decided to incorporate Gwadar in to Balochistan in 1977, thus expanding Balochistan province to its current form.{{citation needed|date=March 2015}}[[Balochistan conflict|Insurgencies]] by Baloch nationalists took place in 1948, 1958–59, 1962–63 and 1973-77<ref name=Hussain-4-25-13/> — with a new and reportedly stronger ongoing insurgency by autonomy-seeking Baloch groups beginning in 2003.<ref name=Hussain-4-25-13>{{cite news|last1=Hussain|first1=Zahid|title=The battle for Balochistan|url=http://www.dawn.com/news/794058/the-battle-for-balochistan|accessdate=22 June 2015|agency=Dawn|date=Apr 25, 2013|quote=Since Balochistan became part of Pakistan some 65 years ago, Baloch nationalists have led four insurgencies — in 1948, 1958-59, 1962-63 and 1973-77 — which were brutally suppressed by the state. Now a fifth is under way and this time the insurgents are much stronger. Unlike the past, the educated middle-class youth, rather than tribal leaders, are leading the separatist movement.}}</ref><ref name=bbc-22-2-14>{{cite news|last1=Rashid|first1=Ahmed|title=Balochistan: The untold story of Pakistan's other war|url=http://www.bbc.com/news/world-asia-26272897|accessdate=22 June 2015|agency=BBC News|date=22 February 2014|quote=The fifth Baloch insurgency against the Pakistan state began in 2003, with small guerrilla attacks by autonomy-seeking Baloch groups who over the years have became increasingly militant and separatist in ideology.}}</ref> The Pakistan government is considering bringing Indian involvement to the United Nations.<ref>{{cite web|url=http://tribune.com.pk/story/878332/pakistan-to-seek-extradition-of-top-baloch-insurgents/|title=Pakistan to seek extradition of top Baloch insurgents|work=The Express Tribune|accessdate=31 July 2015}}</ref><ref>{{cite web|url=http://www.dawn.com/news/1180243|title=RAW instigating terrorism, says army|author=Baqir Sajjad Syed|work=dawn.com|accessdate=31 July 2015}}</ref><ref>{{cite web|url=http://www.outlookindia.com/article/raw-is-training-600-balochis-in-afghanistan/231032|title='RAW Is Training 600 Balochis In Afghanistan' - Mariana Baabar - Apr 24,2006|work=outlookindia.com|accessdate=31 July 2015}}</ref><ref>{{cite web|url=http://www.terminalx.org/2012/02/indian-raws-kao-plan-unleashed-in.html|title=Indian RAW's 'Kao Plan' unleashed in Balochistan - Terminal X|work=terminalx.org|accessdate=31 July 2015}}</ref>
+
+At a press conference on 8 June 2015 in Quetta, Home Minister Sarfraz Bugti accused India's prime minister of openly supporting terrorism. Bugti implicated India's Research and Analysis Wing (RAW) of being responsible for recent attacks at military bases in Smangli and Khalid, and for subverting the China-Pakistan Economic Corridor (CPEC) agreement.<ref>{{cite web|url=http://dunyanews.tv/index.php/en/Pakistan/283360-RAW-conspiring-against-CPEC-agreement-Sarfraz-Bug|title=RAW conspiring against CPEC agreement: Sarfraz Bugti - Pakistan - Dunya News|work=dunyanews.tv|accessdate=31 July 2015}}</ref><ref>{{cite web|url=http://www.thenews.com.pk/Todays-News-13-37771-RAW-behind-Mastung-killings-Sarfraz-Bugti|title=RAW behind Mastung killings: Sarfraz Bugti|date=31 May 2015|work=The News International, Pakistan|accessdate=31 July 2015}}</ref><ref>{{cite web|url=http://www.pakistantimes.com/2015/06/08/raw-more-active-after-cpec-agreement-sarfraz-bugti-371022.html|title=RAW more active after CPEC agreement: Sarfraz Bugti|work=Pakistan Times|accessdate=31 July 2015}}</ref>
+
+==Geography==
+[[File:Astola Island.jpg|thumb|left|[[Astola Island]]]]
+Balochistan is situated in the southwest of Pakistan and covers an area of {{convert|347,190|km2|mi2}}. It is Pakistan's largest province by area, constituting 44% of Pakistan's total land mass. The province is bordered by [[Afghanistan]] to the north and north-west, Iran to the south-west, [[Punjab, Pakistan|Punjab]] and Sindh, and [[Khyber Pakhtunkhwa]] and the [[Federally Administered Tribal Areas]] to the north-east. To the south lies the [[Arabian Sea]]. Balochistan is located on the south-eastern part of the Iranian plateau. It borders the geopolitical regions of the Middle East and Southwest Asia, Central Asia and South Asia. Balochistan lies at the mouth of the [[Strait of Hormuz]] and provides the shortest route from seaports to Central Asia. Its geographical location has placed the otherwise desolate region in the scope of competing global interests for all of recorded history.
+
+The capital city Quetta is located in a densely populated portion of the [[Sulaiman Mountains]] in the north-east of the province. It is situated in a river valley near the Bolan Pass, which has been used as the route of choice from the coast to Central Asia, entering through Afghanistan's [[Kandahar]] region. The British and other historic empires have crossed the region to invade Afghanistan by this route.<ref>Bolan Pass – Encyclopædia Britannica Eleventh Edition</ref>
+
+Balochistan is rich in exhaustible and renewable resources; it is the second major supplier of natural gas in Pakistan. The province's renewable and human resource potential has not been systematically measured or exploited due to pressures from within and without Pakistan. Local inhabitants have chosen to live in towns and have relied on sustainable water sources for thousands of years.
+
+===Climate===
+The climate of the upper highlands is characterised by very cold winters and hot summers.<ref>Weiss, Anita M. and Mughal, Muhammad Aurang Zeb. 2012. [http://dro.dur.ac.uk/10909/2/10909P.pdf Pakistan]. Louis Kotzé and Stephen Morse (eds), Berkshire Encyclopedia of Sustainability, Vol. 9. Great Barrington, MA: Berkshire, pp. 236-240.</ref> In the lower highlands, winters vary from extremely cold in northern districts [[Ziarat]], Quetta, Kalat, Muslim Baagh and Khanozai to milder conditions closer to the Makran coast. Winters are mild on the plains, with temperature never falling below freezing point. Summers are hot and dry, especially in the arid zones of Chagai and Kharan districts. The plains are also very hot in summer, with temperatures reaching {{convert|50|C|F}}.The record highest temperature, {{convert|53|C|F}}, was recorded in Sibi on 26 May 2010,<ref>[http://www.pakmet.com.pk/latest%20news/Latest%20News.html Pakmet.com.pk]</ref> exceeding the previous record, {{convert|52|C|F}}. Other hot areas includes, [[Turbat]], and [[Dalbandin]]. The desert climate is characterised by hot and very arid conditions. Occasionally strong windstorms make these areas very inhospitable.
+
+==Economy==
+{{main|Economy of Balochistan, Pakistan}}
+The economy of Balochistan is largely based upon the production of natural gas, coal and other minerals.<ref name="Ethnic Subnationalist Insurgencies in South Asia: Identities, Interests and Challenges to State Authority">{{cite book|last1=Chima|first1=Jugdep S.|title=Ethnic Subnationalist Insurgencies in South Asia: Identities, Interests and Challenges to State Authority|date=2015|publisher=Routledge|isbn=978-1138839922|page=126|url=https://books.google.co.uk/books?id=x8sqBwAAQBAJ&lpg=PA126&dq=Balochistan%2C%20Pakistan%20gas%2C%20coal&pg=PA126#v=onepage&q=Balochistan,%20Pakistan%20gas,%20coal&f=false}}</ref> Other important economic sectors include fisheries, mining, manufacturing industries, trade and other services being rendered by public and private sector organisations. Tourism remains limited but has increased due to the exotic appeal of the province. Limited farming in the east and fishing along the Arabian Sea coastline provide income and sustenance for the local population. Due to the tribal lifestyle of many Baloch and Brahui people, animal husbandry and trading bazaars found throughout the province are important.{{citation needed|date=June 2015}}
+
+Balochistan has been called a "neglected province where a majority of population lacks amenities".<ref name=dawn-22-3-12>{{cite web|url=http://www.dawn.com/news/704521/balochistan-ruling-elites-lifestyle-outshines-that-of-arab-royals|title=Baloch ruling elite's lifestyle outshines that of Arab royals|work=Dawn|date=22 March 2012|accessdate=6 July 2015}}</ref><ref name=kupecz/> Since the mid-1970s the province's share of Pakistan's GDP has dropped from 4.9 to 3.7%,<ref>Jetly, Rajsree. "Resurgence of the Baluch Movement in Pakistan: Emerging Perspectives and Challenges," in Jetly, Rajshree. ed. ''Pakistan in Regional and Global Politics'' (New York: Routledge, 2009): 215.</ref> and as of 2007 it had the highest poverty rate and infant and maternal mortality rate, and the lowest literacy rate in the country,<ref>Baloch, Sanaullah. "The Baloch Conflict: Towards a Lasting Peace," ''Pakistan Security Research Unit'', No. 7 (March 2007): 5-6.</ref> factors some allege have contributed to the insurgency.<ref name=kupecz>{{cite journal|last1=Kupecz|first1=Mickey|title=Pakistan's Baloch Insurgency: History, Conflict Drivers, and Regional Implications|journal=International Affairs Review |volume=20|issue=3|pages=96–7|url=http://www.iar-gwu.org/sites/default/files/articlepdfs/Pakistan%27s%20Baloch%20Insurgency.pdf|accessdate=24 June 2015}}</ref> However, in 7th NFC awards Punjab province and Fedral contributed to increase Baluchistan share more than its entitled population based share.<ref>{{cite web|url=http://www.dawn.com/news/856981/7th-nfc-award-signed-in-gwadar|title=7th NFC Award signed in Gwadar|work=dawn.com|accessdate=31 July 2015}}</ref>
+
+Though the province remains largely underdeveloped, several major development projects, including the construction of a new deep sea port at the strategically important town of [[Gwadar]],<ref name="pakboi">{{cite web|url=http://www.pakboi.gov.pk/News_Event/Gawadar.html|title=Gawader|accessdate=2006-11-19|work=Pakistan Board of Investment |archiveurl = http://web.archive.org/web/20061002105003/http://www.pakboi.gov.pk/News_Event/Gawadar.html |archivedate = 2006-10-02}}</ref> are in progress in Balochistan. The port is projected to be the hub of an energy and trade corridor to and from China and the Central Asian republics. The [[Mirani Dam]] on the [[Dasht River]], {{convert|50|km}} west of Turbat in the [[Makran Division]], is being built to provide water to expand agricultural land use by {{convert|35000|km2|sqmi|abbr=on}} where it would otherwise be unsustainable.<ref name="mirani">{{cite web|url=http://www.nespak.com.pk/services/viewpic.asp?sector=2&id=4|title=Mirani Dam Project|accessdate=19 November 2006|work=National Engineering Services Pakistan}}</ref> In the south east is an oil refinery owned by Byco International Incorporated (BII), which is capable of processing 120,000 barrels of oil per day. A power station is located adjacent to the refinery.<ref>{{cite web|url=http://tribune.com.pk/story/731335/a-matter-of-weeks-byco-ready-to-utilise-its-hub-refinery/|title=A matter of weeks: Byco ready to utilise its Hub refinery|publisher=|accessdate=30 December 2014}}</ref> Several cement plants and a marble factory are also located there.<ref>{{cite web|url=http://www.cemnet.com/News/story/153731/attock-cement-first-half-profit-declines-pakistan.html|title=Attock Cement first-half profit declines, Pakistan|author=International Cement Review|publisher=|accessdate=30 December 2014}}</ref><ref>{{cite web|url=http://www.aaj.tv/2007/08/international-conference-on-marble-industry-held-at-expo-centre/|title=International Conference on Marble Industry held at Expo Centre - AAJ News|publisher=|accessdate=30 December 2014}}</ref><ref>{{cite web|url=http://tribune.com.pk/story/8023/southern-cement-companies-win-freight-subsidy/|title=Southern cement companies win freight subsidy|publisher=|accessdate=30 December 2014}}</ref> One of the world's largest [[ship breaking]] yards is located on the coast.<ref>{{cite web|url=http://www.dawn.com/news/668410/ship-breaking-at-gadani|title=Ship-breaking at Gadani|publisher=|accessdate=30 December 2014}}</ref>
+
+===Natural resource extraction===
+Balochistan's share of Pakistan's national income has historically ranged between 3.7% to 4.9%.<ref>{{cite web|url=http://www.spdc.org.pk/pubs/nps/nps5.pdf|title=Provincial Accounts of Pakistan: Methodology and Estimates 1973–2000}}{{dead link|date=June 2015}}</ref> Since 1972, Balochistan's gross income has grown in size by 2.7 times.<ref>[http://siteresources.worldbank.org/PAKISTANEXTN/Resources/293051-1241610364594/6097548-1257441952102/balochistaneconomicreportvol2.pdf Siterresources.worldbank.org]</ref> Outside Quetta, the resource extraction infrastructure of the province is gradually developing but still lags far behind other parts of Pakistan.
+
+There is Chinese involvement in the nearby [[Saindak]] gold and copper mining project where deposits exist in the [[Chagai District]] in [[Reko Diq]] area. The main license is held jointly by the Government of Balochistan (25%), the rest by foreign interests [[Antofagasta Minerals]] (37.5%) and [[Barrick Gold]] (37.5%). These deposits are comparable in size to those located in [[Sarcheshmeh]], Iran and [[Escondida]], Chile, which are the second and the third largest known deposits of copper in the world.{{Citation needed|date=September 2010}} The multinational mining companies [[BHP Billiton]] and Tethyan entered into a joint venture with the Balochistan government to extract these deposits. The potential annual copper production has been estimated to be 900,000 to 2.2 million tons.{{Citation needed|date=March 2009}} The deposits seem to be largely of [[Porphyry (geology)|porphyry]] rock nature.{{Citation needed|date=February 2009}} The agreements for royalty rights and ownership of these resources were reached during a period of unprecedented natural disasters, economic, social, political, and cultural unrest in Pakistan. The negotiations were widely considered to be insufficiently transparent.<ref>{{cite web|url=http://www.thenews.com.pk/TodaysPrintDetail.aspx?ID=1771&Cat=13&dt=11/3/2010 |title=$260 billion gold mines going for a song, behind closed doors |publisher=Thenews.com.pk |date= |accessdate=2012-08-14}}</ref>
+
+==Government and politics==
+
+{{Main|Government of Balochistan, Pakistan|List of cities in Balochistan}}
+In common with the other provinces of Pakistan, Balochistan has a parliamentary form of government. The ceremonial head of the province is the [[Governor of Balochistan (Pakistan)|Governor]], who is appointed by the [[President of Pakistan]] on the advice of the provincial [[Chief Minister of Balochistan|Chief Minister]]. The Chief Minister, the province's chief executive, is normally the leader of the largest political party or alliance of parties in the provincial assembly.
+
+The [[unicameral]] [[Provincial Assembly of Balochistan]] comprises 65 seats of which 4% are reserved for non-Muslims and 16% exclusively for women. The judicial branch of government is carried out by the [[Balochistan High Court]], which is based in Quetta and headed by a Chief Justice.
+
+Besides dominant Pakistan-wide political parties (such as the [[Pakistan Muslim League (N)]] and the [[Pakistan Peoples Party]]), Balochistan nationalist parties (such as the [[National Party (Pakistan)|National Party]] and the [[Balochistan National Party]]) have been prominent in the province.<ref name=Hussain-4-25-13>{{cite news|last1=Hussain|first1=Zahid|title=The battle for Balochistan|url=http://www.dawn.com/news/794058/the-battle-for-balochistan|accessdate=22 June 2015|agency=Dawn|date=Apr 25, 2013}}</ref>
+
+===Districts===
+For administrative purposes, the province is subdivided into 32 districts:<ref>{{cite web| url=http://www.balochistan.gov.pk/index.php?option=com_content&task=view&id=32&Itemid=49| title=Districts| publisher=Government of Balochistan| accessdate=13 August 2010| archiveurl= http://web.archive.org/web/20100807000609/http://www.balochistan.gov.pk/index.php?option=com_content&task=view&id=32&Itemid=49| archivedate= 7 August 2010 <!--DASHBot-->| deadurl= no}}</ref>
+[[File:Balochistan Districts.svg|400px|left]]
+
+{{columns-list|3|
+# [[Awaran District|Awaran]]
+# [[Barkhan District|Barkhan]]
+# [[Kachhi District|Kachhi]]  (Bolan)
+# [[Chagai District|Chagai]]
+# [[Dera Bugti District|Dera Bugti]]
+# [[Gwadar District|Gwadar]]
+# [[Harnai District|Harnai]]
+# [[Jafarabad District|Jafarabad]]
+# [[Jhal Magsi District|Jhal Magsi]]
+# [[Kalat District|Kalat]]
+# [[Kech District|Kech]]  (Turbat)
+# [[Kharan District|Kharan]]
+# [[Kohlu District|Kohlu]]
+# [[Khuzdar District|Khuzdar]]
+# [[Killa Abdullah District|Killa Abdullah]]
+# [[Killa Saifullah District|Killa Saifullah]]
+# [[Lasbela District|Lasbela]]
+# [[Loralai District|Loralai]]
+# [[Mastung District|Mastung]]
+# [[Musakhel District, Pakistan|Musakhel]]
+# [[Nasirabad District|Nasirabad]]
+# [[Nushki District|Nushki]]
+# [[Panjgur District|Panjgur]]
+# [[Pishin District|Pishin]]
+# [[Quetta District|Quetta]]
+# [[Sherani District|Sherani]]
+# [[Sibi District|Sibi]]
+# [[Washuk District|Washuk]]
+# [[Zhob District|Zhob]]
+# [[Ziarat District|Ziarat]]
+#  Lehri District
+#  Sohbatpur District
+}}
+
+==Demographics==
+
+{| class="toccolours" cellpadding="4" cellspacing="0" style="float:right; margin:0 0 1em 1em; font-size:95%;"
+|-
+! colspan="3" style="background:#ccf; text-align:center;"|Historical populations
+|-
+!align="right"|Census||Population||Urban
+|-
+|colspan=3|
+----
+|-
+| style="text-align:center;"|1951||align="right"|1,167,167||12.38%
+|-
+| style="text-align:center;"|1961||align="right"|1,353,484||16.87%
+|-
+| style="text-align:center;"|1972||align="right"|2,428,678||16.45%
+|-
+| style="text-align:center;"|1981||align="right"|4,332,376||15.62%
+|-
+| style="text-align:center;"|1998||align="right"|6,565,885||23.89%
+|}
+
+Balochistan's population density is very low due to the mountainous terrain and scarcity of water. In March 2012, preliminary census figures showed that the population of Balochistan had reached 13,162,222, not including the districts of Khuzdar, Kech and Panjgur, compared to 5,501,164 in 1998,<ref name="2012Census1">{{cite web|url=http://www.thenews.com.pk/Todays-News-13-13514-Population-shoots-up-by-47-percent-since-1998 |title=Population shoots up by 47 percent since 1998 |publisher=Thenews.com.pk |date= 29 March 2012 |accessdate=14 August 2012}}</ref> representing approximately 5% of Pakistan's total population.<ref name=census1998>{{cite web|url=http://www.statpak.gov.pk/depts/fbs/publications/yearbook2008/Population/16-5.pdf |title=Population, Area and Density by Region/Province |year=1998 |publisher=Federal Bureau of Statistics, Government of Pakistan |format=PDF |accessdate=20 July 2009 |deadurl=yes |archiveurl=https://web.archive.org/20081118145343/http://www.statpak.gov.pk/depts/fbs/publications/yearbook2008/Population/16-5.pdf |archivedate=18 November 2008 }}</ref> Official estimates of Balochistan's population grew from approximately 7.45 million in 2003 to 7.8 million in 2005.<ref name=worldbankpop>[http://siteresources.worldbank.org/PAKISTANEXTN/Resources/293051-1241610364594/6097548-1257441952102/balochistaneconomicreportvol2.pdf Pakistan Balochistan Economic Report: From Periphery to Core (In Two Volumes) – Volume II: Full Report.] The World Bank. May 2008. "The Balochistan population totalled 4.5 million in 1981/82 and 7.8 million in 2004/05..." "NIPS estimates that Balochistan's population growth will slow down to 1.3 percent by 2025..."</ref>
+
+===Ethnolinguistic groups===
+
+According to the Ethnologue, households whose primary language is Makrani constitutes 13%, Rukhshani 10%, and Sulemani 7% of the population. Pashto is also spoken by around 39% of the population and 13% of households speak Brahui. The remaining 18% of the population speaks various languages, including Lasi, Urdu, Punjabi, Hazargi, Sindhi, Saraiki, Dehvari, Dari, Tajik, Hindko, Uzbik, and Hindki.<ref name=yb2008>{{cite web|url=http://www.statpak.gov.pk/depts/fbs/publications/yearbook2008/Population/16-20.pdf |title=Percentage Distribution of Households by Language Usually Spoken and Region/Province, 1998 Census |work=Pakistan Statistical Year Book 2008 |publisher=Federal Bureau of Statistics – Government of Pakistan |accessdate=19 December 2009 |deadurl=yes |archiveurl=https://web.archive.org/20091113145935/http://www.statpak.gov.pk/depts/fbs/publications/yearbook2008/Population/16-20.pdf |archivedate=13 November 2009 }}</ref>
+
+Rukhshani is spoken in the sparsely populated west, Sulemani is spoken by the tribal east mainly by Murree Bughtis, and Makrani is mostly spoken in south coastal areas. In addition, the coastal region of Makran is home to communities such as the [[Siddi]] and [[Med people|Med]], who speak distinct ethnic dialects. [[Brahui language|Brahui]] is spoken in the central Baluchistan and [[Pashto language|Pashto]] is mainly spoken in the north and north-west including Quetta. In Barkhan and Musakhel districts bordering Punjab, Saraiki (Khetrani and Jafri dialects) is the local language. There are also a number of speakers of [[Hazaragi language|Hazaragi]], Urdu, and Punjabi in the capital Quetta and other areas of Baluchistan.{{citation needed|date=March 2015}} [[Sindhi language|Sindhi]] is spoken in the south-east. The [[Jamot]] tribes of Sibi Naseerabad and Kachhi region mainly speak Jadgali (Sindhi). The Kalat and [[Mastung, Pakistan|Mastung]] areas speak Brahui. In the [[Lasbela District]], the majority of the population speaks [[Lasi]].<ref name=brit>{{cite web |url=http://www.britannica.com/EBchecked/topic/50834/Balochistan |title=Balochistān |work=Encyclopædia Britannica |year=2009 |accessdate=15 December 2009}}</ref>
+
+The 2005 census concerning [[Afghans in Pakistan]] showed that a total of 769,268<ref>Afghanistan Research and Evaluation Unit (AREU), Afghans in Quetta. Settlements, Livelihoods, Support Networks and Cross-Border Linkages, January 2006, available at: http://www.unhcr.org/refworld/docid/47c3f3c412.html [accessed 7 January 2013]</ref> Afghan refugees were temporarily staying in Balochistan. However, this number is likely to be reduced in 2013 after the repatriation of the refugees to Afghanistan.
+As of 2015, there are only 327,778 registered Afghan refugees according to the UNHCR.<ref>{{cite web|url=http://tribune.com.pk/story/822571/law-and-order-issues-afghan-refugees-do-not-want-to-go-back-home/|title=Law and order issues: Afghan refugees 'do not want to go back home'|work=The Express Tribune|accessdate=31 July 2015}}</ref>
+{| class="infobox borderless"
+|+ Provincial symbols of Balochistan (unofficial)
+|-
+! '''Provincial animal'''
+| [[Dromedary|Camel]]
+| [[Image:Camel-Desert animal.jpg|50px]]
+|-
+! '''Provincial bird'''
+| [[MacQueen's bustard]]
+| [[Image:MacQueens Bustard in Greater Rann of Kutch, Gujarat, India.jpg|50px]]
+|-
+! '''Provincial tree'''
+| [[Date Palm]]
+| [[Image:Phoenix dactylifera1.jpg|50px]]
+|-
+! '''Provincial flower'''
+| [[Perovskia atriplicifolia]] 
+| [[Image:Perovskia atriplicifolia 3.jpg|50px]]
+|}
+
+==Gallery==
+<center>
+<gallery>
+File:Buzi Pass.jpg|Princess of Hope along the [[Makran Coastal Highway|N10]]
+File:Quetta Railway Station - 40311.jpg|[[Quetta Railway Station]]
+
+</gallery>
+</center>
+
+==See also==
+{{portal|Geography|<!-- Eurasia -->|Asia|South Asia|Pakistan|Balochistan, Pakistan}}
+* [[Apraca|Aprāca Dynasty]] 
+* [[Baloch nationalism]]
+* [[Balochistan]]
+* [[Balochistan conflict]]
+* [[Human rights violations in Balochistan]]
+* [[Paratarajas|Pārata Dynasty]] 
+* [[Tejaban]]
+* [[Tourism in Balochistan, Pakistan]]
+
+{{clear}}
+
+==References==
+{{reflist|30em}}
+
+==Further reading==
+* {{cite book| author=Johnson, E.A.| title=Lithofacies, depositional environments, and regional stratigraphy of the lower Eocene Ghazij Formation, Balochistan, Pakistan| year=1999| series=U.S. Geological Survey Professional Paper 1599| publisher=U.S. Geological Survey| location=Washington, D.C.}}
+
+== External links ==
+{{Contains Balochi text}}
+{{Sister project links|voy=Balochistan, Pakistan}}
+* {{Official website|http://www.balochistan.gov.pk}}
+* Guide to [http://dmoz.pk/Provinces/Balochistan/ Balochistan]
+* [http://balochistanarchives.gob.pk/ Balochistan Archives- Preserving our Past]
+* {{dmoz|Regional/Asia/Pakistan/Provinces/Baluchistan|Balochistan}}
+
+{{Geographic location
+|Centre = Balochistan
+|North = [[Kandahar Province]], {{flag|Afghanistan}}
+|Northeast = [[Zabul Province]], {{flag|Afghanistan}}<br>[[Paktika Province]], {{flag|Afghanistan}}
+|East = [[Federally Administered Tribal Areas]]<br>[[Khyber Pakhtunkhwa]]<br>[[Punjab (Pakistan)|Punjab]]
+|Southeast = [[Sindh]]
+|South = ''[[Arabian Sea]]''
+|Southwest =
+|West = [[Sistan and Baluchestan Province]], {{flag|Iran}}
+|Northwest = [[Helmand Province]], {{flag|Afghanistan}}<br>[[Nimruz Province]], {{flag|Afghanistan}}
+}}
+
+{{Balochistan, Pakistan topics}}
+{{Administrative units of Pakistan}}
+{{Districts of Balochistan (Pakistan)}}
+
+[[Category:Provinces of Pakistan]]
+[[Category:Balochistan, Pakistan| ]]
+[[Category:Economy of Pakistan]]

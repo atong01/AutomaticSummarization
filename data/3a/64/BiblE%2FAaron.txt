@@ -1,0 +1,3 @@
+#REDIRECT [[Aaron]]
+
+{{This is a redirect|from CamelCase|from subpage}}

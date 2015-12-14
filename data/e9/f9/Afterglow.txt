@@ -1,0 +1,38 @@
+{{other uses}}
+{{unreferenced|date=July 2012}}
+An '''afterglow''' is a broad high arch of whitish or rosy light appearing in the [[sky]] due to very fine particles of [[dust]] suspended in the high regions of the [[earth's atmosphere|atmosphere]]. An afterglow may appear above the highest [[cloud]]s in the hour of deepening [[twilight]], or [[reflection (optics)|reflected]] from the high [[snow]]fields in [[mountain]] regions long after [[sunset]]. The particles produce a [[scattering]] effect upon the component parts of [[white]] [[light]]. The true [[alpenglow]], which occurs long after sunset or long before sunrise, is caused by the [[backscattering]] of red sunlight by [[aerosols]] and fine dust particles low in the atmosphere. It is an afterglow caused by [[Illumination|direct illumination]] of atmospheric particles by sunlight as it [[Refraction|refracts]] and gets [[Rayleigh scattering|scattered]] through the earth's atmosphere. The [[Energy of light|high-energy]] and [[high-frequency]] light is [[Scattering of electromagnetic radiation|scattered]] out the most and the remaining low-energy, low-frequency reaches the observer in the [[horizon]] at [[twilight]]. The [[backscattering]] of this light further turns it pinkish-red. This period of time is referred to as the [[blue hour]] and is widely treasured by [[photographers]] and [[painters]] as it offers breathtaking imagery.
+The afterglow persists till the [[earth's shadow]] (terminator line) takes over the [[sky]] of the observer as nightfall and the stars appear, with planet [[Venus]] being the brightest star visible in the [[night sky]] just opposite to the [[Belt of Venus]] at the [[Antisolar point|anti-solar point]].
+
+After the [[1883 eruption of Krakatoa|eruption]] of the [[volcano]] [[Krakatoa]] in 1883, a remarkable series of red [[sunset]]s appeared worldwide. These were due to an enormous amount of exceedingly fine dust blown to a great height by the volcano's explosion, and then globally diffused by the high atmospheric currents. [[Edvard Munch]]'s painting ''[[The Scream]]'' possibly depicts an afterglow during this period.
+
+<center>
+<gallery>
+Image:Lamma evening4.jpg|Sunset in Hong Kong after the 1991 eruption of [[Mount Pinatubo]]
+Image:dresden.afterglow.700px.jpg|An afterglow in [[Dresden]], [[Free State of Saxony|Saxony]], [[Germany]]
+Image:Afterglow.jpg|An afterglow in [[Slovenia]]n mountains, near [[Triglav Lakes Valley]]
+Image:Full_Image_Sunset_Bates College_Lewiston_Maine_July_3_2008_8.30PM.JPG|Sunset over the [[Bates College]] [[Track and field|track]] in [[Lewiston, Maine]].
+Image:Noarlunga Pier, Adelaide.jpg|An afterglow at a pier in [[Australia]]
+Image:Afterglow Kraków.JPG|An afterglow on [[Kraków]]'s housing estate
+</gallery>
+</center>
+
+==See also==
+* [[Belt of Venus]]
+* [[Earth's shadow]]
+* [[Gegenschein]]
+* [[Sunset]]
+* [[Red sky at morning]]
+
+==External links==
+{{Commons category|Afterglow}}
+{{Wikisource1911Enc}}
+{{wiktionary}}
+
+
+[[Category:Atmospheric and ocean optics]]
+[[Category:Atmospheric optical phenomena]]
+
+{{climate-stub}}
+
+[[es:Arrebol]]
+[[fi:Purppuravalo]]

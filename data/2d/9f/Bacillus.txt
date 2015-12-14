@@ -1,0 +1,423 @@
+{{about|the bacterial genus|the bacterial class|Bacilli|rod-shaped bacteria in general|Bacillus (shape)|the insect genus|Bacillus (insect)}}
+{{italic title}}
+{{Taxobox
+| color = lightgrey
+| name = ''Bacillus''
+| image = Bacillus subtilis Gram.jpg
+| image_width = 220px
+| image_caption = ''[[Bacillus subtilis]]'', Gram stained
+| domain = [[Bacteria]]
+| kingdom = [[Eubacteria]]
+| divisio = [[Firmicutes]]
+| classis = [[Bacilli]]
+| ordo = [[Bacillales]]
+| familia = [[Bacillaceae]]
+| genus = '''''Bacillus'''''
+| genus_authority = [[Ferdinand Cohn|Cohn]], 1872<ref name="Cohn 1872"/>
+| subdivision_ranks = [[Species]]
+| subdivision =
+''[[Bacillus acidiceler|B. acidiceler]]<br />	
+''[[Bacillus acidicola|B. acidicola]]<br />	
+''[[Bacillus acidiproducens|B. acidiproducens]]<br />	
+''[[Bacillus acidocaldarius|B. acidocaldarius]]<br />	
+''[[Bacillus acidoterrestris|B. acidoterrestris]]<br />	
+''[[Bacillus aeolius|B. aeolius]]<br />	
+''[[Bacillus aerius|B. aerius]]<br />	
+''[[Bacillus aerophilus|B. aerophilus]]<br />	
+''[[Bacillus agaradhaerens|B. agaradhaerens]]<br />	
+''[[Bacillus agri|B. agri]]<br />	
+''[[Bacillus aidingensis|B. aidingensis]]<br />	
+''[[Bacillus akibai|B. akibai]]<br />	
+''[[Bacillus alcalophilus|B. alcalophilus]]<br />	
+''[[Bacillus algicola|B. algicola]]<br />
+''[[Bacillus alginolyticus|B. alginolyticus]]<br />
+''[[Bacillus alkalidiazotrophicus|B. alkalidiazotrophicus]]<br />
+''[[Bacillus alkalinitrilicus|B. alkalinitrilicus]]<br />
+''[[Bacillus alkalisediminis|B. alkalisediminis]]<br />
+''[[Bacillus alkalitelluris|B. alkalitelluris]]<br />
+''[[Bacillus altitudinis|B. altitudinis]]<br />
+''[[Bacillus alveayuensis|B. alveayuensis]]<br />
+''[[Bacillus alvei|B. alvei]]<br />
+''[[Bacillus amyloliquefaciens|B. amyloliquefaciens]]<br />
+* ''B. a. ''subsp.'' amyloliquefaciens''
+* ''B. a. ''subsp.'' plantarum''
+''[[Bacillus amylolyticus|B. amylolyticus]]<br />
+''[[Bacillus andreesenii|B. andreesenii]]<br />
+''[[Bacillus aneurinilyticus|B. aneurinilyticus]]<br />
+''[[Bacillus anthracis|B. anthracis]]<br />
+''[[Bacillus aquimaris|B. aquimaris]]<br />
+''[[Bacillus arenosi|B. arenosi]]<br />
+''[[Bacillus arseniciselenatis|B. arseniciselenatis]]<br />
+''[[Bacillus arsenicus|B. arsenicus]]<br />
+''[[Bacillus aurantiacus|B. aurantiacus]]<br />
+''[[Bacillus arvi|B. arvi]]<br />
+''[[Bacillus aryabhattai|B. aryabhattai]]<br />
+''[[Bacillus asahii|B. asahii]]<br />
+''[[Bacillus atrophaeus|B. atrophaeus]]<br />
+''[[Bacillus axarquiensis|B. axarquiensis]]<br />
+''[[Bacillus azotofixans|B. azotofixans]]<br />
+''[[Bacillus azotoformans|B. azotoformans]]<br />
+''[[Bacillus badius|B. badius]]<br />
+''[[Bacillus barbaricus|B. barbaricus]]<br />
+''[[Bacillus bataviensis|B. bataviensis]]<br />
+''[[Bacillus beijingensis|B. beijingensis]]<br />
+''[[Bacillus benzoevorans|B. benzoevorans]]<br />
+''[[Bacillus beringensis|B. beringensis]]<br />
+''[[Bacillus berkeleyi|B. berkeleyi]]<br />
+''[[Bacillus beveridgei|B. beveridgei]]<br />
+''[[Bacillus bogoriensis|B. bogoriensis]]<br />
+''[[Bacillus boroniphilus|B. boroniphilus]]<br />
+''[[Bacillus borstelensis|B. borstelensis]]<br />
+''[[Bacillus brevis Migula|B. brevis Migula]]<br />
+''[[Bacillus butanolivorans|B. butanolivorans]]<br />
+''[[Bacillus canaveralius|B. canaveralius]]<br />
+''[[Bacillus carboniphilus|B. carboniphilus]]<br />
+''[[Bacillus cecembensis|B. cecembensis]]<br />
+''[[Bacillus cellulosilyticus|B. cellulosilyticus]]<br />
+''[[Bacillus centrosporus|B. centrosporus]]<br />
+''[[Bacillus cereus|B. cereus]]<br />
+''[[Bacillus chagannorensis|B. chagannorensis]]<br />
+''[[Bacillus chitinolyticus|B. chitinolyticus]]<br />
+''[[Bacillus chondroitinus|B. chondroitinus]]<br />
+''[[Bacillus choshinensis|B. choshinensis]]<br />
+''[[Bacillus chungangensis|B. chungangensis]]<br />
+''[[Bacillus cibi|B. cibi]]<br />
+''[[Bacillus circulans|B. circulans]]<br />
+''[[Bacillus clarkii|B. clarkii]]<br />
+''[[Bacillus clausii|B. clausii]]<br />
+''[[Bacillus coagulans|B. coagulans]]<br />
+''[[Bacillus coahuilensis|B. coahuilensis]]<br />
+''[[Bacillus cohnii|B. cohnii]]<br />
+''[[Bacillus composti|B. composti]]<br />
+''[[Bacillus curdlanolyticus|B. curdlanolyticus]]<br />
+''[[Bacillus cycloheptanicus|B. cycloheptanicus]]<br />
+''[[Bacillus cytotoxicus|B. cytotoxicus]]<br />
+''[[Bacillus daliensis|B. daliensis]]<br />
+''[[Bacillus decisifrondis|B. decisifrondis]]<br />
+''[[Bacillus decolorationis|B. decolorationis]]<br />
+''[[Bacillus deserti|B. deserti]]<br />
+''[[Bacillus dipsosauri|B. dipsosauri]]<br />
+''[[Bacillus drentensis|B. drentensis]]<br />
+''[[Bacillus edaphicus|B. edaphicus]]<br />
+''[[Bacillus ehimensis|B. ehimensis]]<br />
+''[[Bacillus eiseniae|B. eiseniae]]<br />
+''[[Bacillus enclensis|B. enclensis]]<br />
+''[[Bacillus endophyticus|B. endophyticus]]<br />
+''[[Bacillus endoradicis|B. endoradicis]]<br />
+''[[Bacillus farraginis|B. farraginis]]<br />
+''[[Bacillus fastidiosus|B. fastidiosus]]<br />
+''[[Bacillus fengqiuensis|B. fengqiuensis]]<br />
+''[[Bacillus firmus|B. firmus]]<br />
+''[[Bacillus flexus|B. flexus]]<br />
+''[[Bacillus foraminis|B. foraminis]]<br />
+''[[Bacillus fordii|B. fordii]]<br />
+''[[Bacillus formosus|B. formosus]]<br />
+''[[Bacillus fortis|B. fortis]]<br />
+''[[Bacillus fumarioli|B. fumarioli]]<br />
+''[[Bacillus funiculus|B. funiculus]]<br />
+''[[Bacillus fusiformis|B. fusiformis]]<br />
+''[[Bacillus galactophilus|B. galactophilus]]<br />
+''[[Bacillus galactosidilyticus|B. galactosidilyticus]]<br />
+''[[Bacillus galliciensis|B. galliciensis]]<br />
+''[[Bacillus gelatini|B. gelatini]]<br />
+''[[Bacillus gibsonii|B. gibsonii]]<br />
+''[[Bacillus ginsengi|B. ginsengi]]<br />
+''[[Bacillus ginsengihumi|B. ginsengihumi]]<br />
+''[[Bacillus ginsengisoli|B. ginsengisoli]]<br />
+''[[Bacillus globisporus|B. globisporus]]<br />
+* ''B. g. ''subsp.'' globisporus''
+* ''B. g. ''subsp.'' marinus''
+''[[Bacillus glucanolyticus|B. glucanolyticus]]<br />
+''[[Bacillus gordonae|B. gordonae]]<br />
+''[[Bacillus gottheilii|B. gottheilii]]<br />
+''[[Bacillus graminis|B. graminis]]<br />
+''[[Bacillus halmapalus|B. halmapalus]]<br />
+''[[Bacillus haloalkaliphilus|B. haloalkaliphilus]]<br />
+''[[Bacillus halochares|B. halochares]]<br />
+''[[Bacillus halodenitrificans|B. halodenitrificans]]<br />
+''[[Bacillus halodurans|B. halodurans]]<br />
+''[[Bacillus halophilus|B. halophilus]]<br />
+''[[Bacillus halosaccharovorans|B. halosaccharovorans]]<br />
+''[[Bacillus hemicellulosilyticus|B. hemicellulosilyticus]]<br />
+''[[Bacillus hemicentroti|B. hemicentroti]]<br />
+''[[Bacillus herbersteinensis|B. herbersteinensis]]<br />
+''[[Bacillus horikoshii|B. horikoshii]]<br />
+''[[Bacillus horneckiae|B. horneckiae]]<br />
+''[[Bacillus horti|B. horti]]<br />
+''[[Bacillus huizhouensis|B. huizhouensis]]<br />
+''[[Bacillus humi|B. humi]]<br />
+''[[Bacillus hwajinpoensis|B. hwajinpoensis]]<br />
+''[[Bacillus idriensis|B. idriensis]]<br />
+''[[Bacillus indicus|B. indicus]]<br />
+''[[Bacillus infantis|B. infantis]]<br />
+''[[Bacillus infernus|B. infernus]]<br />
+''[[Bacillus insolitus|B. insolitus]]<br />
+''[[Bacillus invictae|B. invictae]]<br />
+''[[Bacillus iranensis|B. iranensis]]<br />
+''[[Bacillus isabeliae|B. isabeliae]]<br />
+''[[Bacillus isronensis|B. isronensis]]<br />
+''[[Bacillus jeotgali|B. jeotgali]]<br />
+''[[Bacillus kaustophilus|B. kaustophilus]]<br />
+''[[Bacillus kobensis|B. kobensis]]<br />
+''[[Bacillus kochii|B. kochii]]<br />
+''[[Bacillus kokeshiiformis|B. kokeshiiformis]]<br />
+''[[Bacillus koreensis|B. koreensis]]<br />
+''[[Bacillus korlensis|B. korlensis]]<br />
+''[[Bacillus kribbensis|B. kribbensis]]<br />
+''[[Bacillus krulwichiae|B. krulwichiae]]<br />
+''[[Bacillus laevolacticus|B. laevolacticus]]<br />
+''[[Bacillus larvae|B. larvae]]<br />
+''[[Bacillus laterosporus|B. laterosporus]]<br />
+''[[Bacillus lautus|B. lautus]]<br />
+''[[Bacillus lehensis|B. lehensis]]<br />
+''[[Bacillus lentimorbus|B. lentimorbus]]<br />
+''[[Bacillus lentus|B. lentus]]<br />
+''[[Bacillus licheniformis|B. licheniformis]]<br />
+''[[Bacillus ligniniphilus|B. ligniniphilus]]<br />
+''[[Bacillus litoralis|B. litoralis]]<br />
+''[[Bacillus locisalis|B. locisalis]]<br />
+''[[Bacillus luciferensis|B. luciferensis]]<br />
+''[[Bacillus luteolus|B. luteolus]]<br />
+''[[Bacillus luteus|B. luteus]]<br />
+''[[Bacillus macauensis|B. macauensis]]<br />
+''[[Bacillus macerans|B. macerans]]<br />
+''[[Bacillus macquariensis|B. macquariensis]]<br />
+''[[Bacillus macyae|B. macyae]]<br />
+''[[Bacillus malacitensis|B. malacitensis]]<br />
+''[[Bacillus mannanilyticus|B. mannanilyticus]]<br />
+''[[Bacillus marinus|B. marinus]]<br />
+''[[Bacillus marisflavi|B. marisflavi]]<br />
+''[[Bacillus marismortui|B. marismortui]]<br />
+''[[Bacillus marmarensis|B. marmarensis]]<br />
+''[[Bacillus massiliensis|B. massiliensis]]<br />
+''[[Bacillus megaterium|B. megaterium]]<br />
+''[[Bacillus mesonae|B. mesonae]]<br />
+''[[Bacillus methanolicus|B. methanolicus]]<br />
+''[[Bacillus methylotrophicus|B. methylotrophicus]]<br />
+''[[Bacillus migulanus|B. migulanus]]<br />
+''[[Bacillus mojavensis|B. mojavensis]]<br />
+''[[Bacillus mucilaginosus|B. mucilaginosus]]<br />
+''[[Bacillus muralis|B. muralis]]<br />
+''[[Bacillus murimartini|B. murimartini]]<br />
+''[[Bacillus mycoides|B. mycoides]]<br />
+''[[Bacillus naganoensis|B. naganoensis]]<br />
+''[[Bacillus nanhaiensis|B. nanhaiensis]]<br />
+''[[Bacillus nanhaiisediminis|B. nanhaiisediminis]]<br />
+''[[Bacillus nealsonii|B. nealsonii]]<br />
+''[[Bacillus neidei|B. neidei]]<br />
+''[[Bacillus neizhouensis|B. neizhouensis]]<br />
+''[[Bacillus niabensis|B. niabensis]]<br />
+''[[Bacillus niacini|B. niacini]]<br />
+''[[Bacillus novalis|B. novalis]]<br />
+''[[Bacillus oceanisediminis|B. oceanisediminis]]<br />
+''[[Bacillus odysseyi|B. odysseyi]]<br />
+''[[Bacillus okhensis|B. okhensis]]<br />
+''[[Bacillus okuhidensis|B. okuhidensis]]<br />
+''[[Bacillus oleronius|B. oleronius]]<br />
+''[[Bacillus oryzaecorticis|B. oryzaecorticis]]<br />
+''[[Bacillus oshimensis|B. oshimensis]]<br />
+''[[Bacillus pabuli|B. pabuli]]<br />
+''[[Bacillus pakistanensis|B. pakistanensis]]<br />
+''[[Bacillus pallidus|B. pallidus]]<br />
+''[[Bacillus pallidus|B. pallidus]]<br />
+''[[Bacillus panacisoli|B. panacisoli]]<br />
+''[[Bacillus panaciterrae|B. panaciterrae]]<br />
+''[[Bacillus pantothenticus|B. pantothenticus]]<br />
+''[[Bacillus parabrevis|B. parabrevis]]<br />
+''[[Bacillus paraflexus|B. paraflexus]]<br />
+''[[Bacillus pasteurii|B. pasteurii]]<br />
+''[[Bacillus patagoniensis|B. patagoniensis]]<br />
+''[[Bacillus peoriae|B. peoriae]]<br />
+''[[Bacillus persepolensis|B. persepolensis]]<br />
+''[[Bacillus persicus|B. persicus]]<br />
+''[[Bacillus pervagus|B. pervagus]]<br />
+''[[Bacillus plakortidis|B. plakortidis]]<br />
+''[[Bacillus pocheonensis|B. pocheonensis]]<br />
+''[[Bacillus polygoni|B. polygoni]]<br />
+''[[Bacillus polymyxa|B. polymyxa]]<br />
+''[[Bacillus popilliae|B. popilliae]]<br />
+''[[Bacillus pseudalcaliphilus|B. pseudalcaliphilus]]<br />
+''[[Bacillus pseudofirmus|B. pseudofirmus]]<br />
+''[[Bacillus pseudomycoides|B. pseudomycoides]]<br />
+''[[Bacillus psychrodurans|B. psychrodurans]]<br />
+''[[Bacillus psychrophilus|B. psychrophilus]]<br />
+''[[Bacillus psychrosaccharolyticus|B. psychrosaccharolyticus]]<br />
+''[[Bacillus psychrotolerans|B. psychrotolerans]]<br />
+''[[Bacillus pulvifaciens|B. pulvifaciens]]<br />
+''[[Bacillus pumilus|B. pumilus]]<br />
+''[[Bacillus purgationiresistens|B. purgationiresistens]]<br />
+''[[Bacillus pycnus|B. pycnus]]<br />
+''[[Bacillus qingdaonensis|B. qingdaonensis]]<br />
+''[[Bacillus qingshengii|B. qingshengii]]<br />
+''[[Bacillus reuszeri|B. reuszeri]]<br />
+''[[Bacillus rhizosphaerae|B. rhizosphaerae]]<br />
+''[[Bacillus rigui|B. rigui]]<br />
+''[[Bacillus ruris|B. ruris]]<br />
+''[[Bacillus safensis|B. safensis]]<br />
+''[[Bacillus salarius|B. salarius]]<br />
+''[[Bacillus salexigens|B. salexigens]]<br />
+''[[Bacillus saliphilus|B. saliphilus]]<br />
+''[[Bacillus schlegelii|B. schlegelii]]<br />
+''[[Bacillus sediminis|B. sediminis]]<br />
+''[[Bacillus selenatarsenatis|B. selenatarsenatis]]<br />
+''[[Bacillus selenitireducens|B. selenitireducens]]<br />
+''[[Bacillus seohaeanensis|B. seohaeanensis]]<br />
+''[[Bacillus shacheensis|B. shacheensis]]<br />
+''[[Bacillus shackletonii|B. shackletonii]]<br />
+''[[Bacillus siamensis|B. siamensis]]<br />
+''[[Bacillus silvestris|B. silvestris]]<br />
+''[[Bacillus simplex|B. simplex]]<br />
+''[[Bacillus siralis|B. siralis]]<br />
+''[[Bacillus smithii|B. smithii]]<br />
+''[[Bacillus soli|B. soli]]<br />
+''[[Bacillus solimangrovi|B. solimangrovi]]<br />
+''[[Bacillus solisalsi|B. solisalsi]]<br />
+''[[Bacillus songklensis|B. songklensis]]<br />
+''[[Bacillus sonorensis|B. sonorensis]]<br />
+''[[Bacillus sphaericus|B. sphaericus]]<br />
+''[[Bacillus sporothermodurans|B. sporothermodurans]]<br />
+''[[Bacillus stearothermophilus|B. stearothermophilus]]<br />
+''[[Bacillus stratosphericus|B. stratosphericus]]<br />
+''[[Bacillus subterraneus|B. subterraneus]]<br />
+''[[Bacillus subtilis|B. subtilis]]<br />
+* ''B. s. ''subsp.'' inaquosorum''
+* ''B. s. ''subsp.'' spizizenii''
+* ''B. s. ''subsp.'' subtilis''
+''[[Bacillus taeanensis|B. taeanensis]]<br />
+''[[Bacillus tequilensis|B. tequilensis]]<br />
+''[[Bacillus thermantarcticus|B. thermantarcticus]]<br />
+''[[Bacillus thermoaerophilus|B. thermoaerophilus]]<br />
+''[[Bacillus thermoamylovorans|B. thermoamylovorans]]<br />
+''[[Bacillus thermocatenulatus|B. thermocatenulatus]]<br />
+''[[Bacillus thermocloacae|B. thermocloacae]]<br />
+''[[Bacillus thermocopriae|B. thermocopriae]]<br />
+''[[Bacillus thermodenitrificans|B. thermodenitrificans]]<br />
+''[[Bacillus thermoglucosidasius|B. thermoglucosidasius]]<br />
+''[[Bacillus thermolactis|B. thermolactis]]<br />
+''[[Bacillus thermoleovorans|B. thermoleovorans]]<br />
+''[[Bacillus thermophilus|B. thermophilus]]<br />
+''[[Bacillus thermoruber|B. thermoruber]]<br />
+''[[Bacillus thermosphaericus|B. thermosphaericus]]<br />
+''[[Bacillus thiaminolyticus|B. thiaminolyticus]]<br />
+''[[Bacillus thioparans|B. thioparans]]<br />
+''[[Bacillus thuringiensis|B. thuringiensis]]<br />
+''[[Bacillus tianshenii|B. tianshenii]]<br />
+''[[Bacillus trypoxylicola|B. trypoxylicola]]<br />
+''[[Bacillus tusciae|B. tusciae]]<br />
+''[[Bacillus validus|B. validus]]<br />
+''[[Bacillus vallismortis|B. vallismortis]]<br />
+''[[Bacillus vedderi|B. vedderi]]<br />
+''[[Bacillus velezensis|B. velezensis]]<br />
+''[[Bacillus vietnamensis|B. vietnamensis]]<br />
+''[[Bacillus vireti|B. vireti]]<br />
+''[[Bacillus vulcani|B. vulcani]]<br />
+''[[Bacillus wakoensis|B. wakoensis]]<br />
+''[[Bacillus weihenstephanensis|B. weihenstephanensis]]<br />
+''[[Bacillus xiamenensis|B. xiamenensis]]<br />
+''[[Bacillus xiaoxiensis|B. xiaoxiensis]]<br />
+''[[Bacillus zhanjiangensis|B. zhanjiangensis]]}}
+[[File:Bacillus species.jpg|thumb|Gram stain of a ''Bacillus'' species]]
+'''''Bacillus''''' is a [[genus]] of [[Gram-positive]], rod-shaped ([[bacillus (shape)|bacillus]]) [[bacteria]] and a member of the phylum [[Firmicutes]]. ''Bacillus'' species can be [[obligate aerobe]]s (oxygen reliant), or [[facultative anaerobes]] (having the ability to be aerobic or anaerobic). They will test positive for the [[enzyme]] [[catalase]] when there has been oxygen used or present.<ref name=Baron>{{cite book | author = Turnbull PCB | title = Bacillus. ''In:'' Barron's Medical Microbiology ''(Baron S ''et al.'', eds.)| edition = 4th | publisher = Univ of Texas Medical Branch | year = 1996 | url = http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mmed.section.925 | isbn = 978-0-9631172-1-2 }}</ref> Ubiquitous in nature, ''Bacillus'' includes both free-living (nonparasitic) and [[parasitic]] [[pathogen]]ic species. Under stressful environmental conditions, the bacteria can produce oval [[endospore]]s that are not true 'spores', but to which the bacteria can reduce themselves  and remain in a dormant state for very long periods. These characteristics originally defined the genus, but not all such species are closely related, and many have been moved to other genera of the Firmicutes.<ref name=Brock>{{cite book | author = Madigan M; Martinko J (editors). | title = Brock Biology of Microorganisms | edition = 11th | publisher = Prentice Hall | year = 2005 | isbn = 0-13-144329-1 }}</ref>
+
+Many species of ''Bacillus'' can produce copious amounts of enzymes which are made use of in different industries. Some species can form intracellular inclusions of [[polyhydroxyalkanoates]] under certain adverse environmental conditions, as in a lack of elements such as phosphorus, nitrogen, or oxygen combined with an excessive supply of carbon sources.
+
+''[[B.subtilis]]''  has proved a valuable model for research. Other species of ''Bacillus'' are important pathogens, causing [[anthrax]] and [[food poisoning]].
+
+==Industrial significance==
+Many ''Bacillus'' species are able to [[secretion|secrete]] large quantities of enzymes. ''[[Bacillus amyloliquefaciens]]'' is the source of a natural antibiotic protein [[barnase]] (a [[ribonuclease]]), [[alpha amylase]] used in starch hydrolysis, the [[protease]] [[subtilisin]] used with detergents, and the [[BamH1]] [[restriction enzyme]] used in DNA research.
+
+A portion of the ''[[Bacillus thuringiensis]]'' genome was incorporated into corn (and cotton) crops. The resulting [[GMO]]s are therefore resistant to some insect pests.
+
+==Use as model organism==
+''[[Bacillus subtilis]]'' is one of the best understood prokaryotes, in terms of molecular  and cellular biology. Its superb genetic amenability and relatively large size have provided the powerful tools required to investigate a bacterium from all possible aspects. Recent improvements in fluorescence microscopy techniques have provided novel and amazing insight into the dynamic structure of a single cell organism. Research on ''B. subtilis'' has been at the forefront of bacterial molecular biology and cytology, and the organism is a model for differentiation, gene/protein regulation, and cell cycle events in bacteria.<ref name=Graumann>{{cite book | author = Graumann P (editor). | title = Bacillus: Cellular and Molecular Biology | edition = 2nd | publisher = Caister Academic Press | year = 2012 | url=http://www.horizonpress.com/bacillus | id = [http://www.horizonpress.com/bacillus ] | isbn = 978-1-904455-97-4}}</ref>
+
+== Ecological signficance ==
+''Bacillus'' species are almost ubiquitous in nature, e.g. in soil, but also occur in extreme environments such as high pH (''[[Bacillus alcalophilus|B. alcalophilus]]''), high temperature (''[[Bacillus thermophilus|B. thermophilus]]''), or high salt (''[[Bacillus halodurans|B. halodurans]]''). ''[[Bacillus thuringiensis|B. thuringiensis]]'' produces a toxin that can kill insects and thus has been used as insecticide.<ref>
+Joan L. Slonczewski & John W. Foster (2011), Microbiology: An Evolving Science (2nd Edition), Norton</ref>
+
+==Clinical significance==
+Two ''Bacillus'' species are considered medically significant: ''[[Bacillus anthracis|B. anthracis]]'', which causes [[anthrax]], and ''[[Bacillus cereus|B. cereus]]'', which causes [[foodborne illness|food poisoning]] similar to that caused by ''[[Staphylococcus]]''.<ref name=Sherris>{{cite book | author = Ryan KJ; Ray CG (editors) | title = Sherris Medical Microbiology | edition = 4th | publisher = McGraw Hill | year = 2004 | isbn = 0-8385-8529-9 }}</ref> A third species, ''[[B. thuringiensis]]'', is an important [[insect]] pathogen, and is sometimes used to control insect pests. The [[type species]] is ''B. subtilis'', an important [[model organism]]. It is also a notable food spoiler, causing ropiness in bread and related food. Some environmental and commercial strains of ''[[Bacillus coagulans|B. coagulans]]'' may play a role in food spoilage of highly acidic, tomato-based products.
+
+An easy way to isolate ''Bacillus'' species is by placing nonsterile soil in a [[test tube]] with water, shaking, placing in melted [[mannitol salt agar]], and incubating at room temperature for at least a day. Colonies are usually large, spreading, and irregularly shaped. Under the microscope, the ''Bacillus'' cells appear as rods, and a substantial portion of the cells usually contain oval [[endospore]]s at one end, making it bulge.
+
+== Cell wall ==
+The cell wall of ''Bacillus'' is a structure on the outside of the cell that forms the second barrier between the bacterium and the environment, and at the same time maintains the rod shape and withstands the pressure generated by the cell's [[turgor]]. The cell wall is composed of [[teichoic acid|teichoic]] and teichuronic acids. ''B. subtilis'' is the first bacterium for which the role of an [[actin]]-like [[cytoskeleton]] in cell shape determination and [[peptidoglycan]] synthesis was identified, and for which the entire set of peptidoglycan-synthesizing enzymes was localised. The role of the cytoskeleton in shape generation and maintenance is important
+
+==Phylogeny==
+The genus ''Bacillus'' was named in 1835 by [[Christian Gottfried Ehrenberg]], to contain rod-shaped (bacillus) bacteria. He had seven years earlier named the genus ''[[Bacterium]]''. ''Bacillus'' was later amended by [[Ferdinand Cohn]] to further describe them as spore-forming, Gram-positive, aerobic or facultatively anaerobic bacteria.<ref name="Cohn 1872">{{de icon}} Cohn F.: Untersuchungen über Bakterien. Beitrage zur Biologie der Pflanzen Heft 2, 1872, 1, 127-224.</ref> Like other genera associated with the early history of microbiology, such as ''[[Pseudomonas]]'' and ''[[Vibrio]]'', the 266 species of ''Bacillus'' are ubiquitous.<ref>{{lpsn|b/bacillus.html|Bacillus}}</ref> The genus has a very large [[ribosomal]] [[16S ribosomal RNA|16S]] diversity and is environmentally diverse.
+ 
+Several studies have tried to reconstruct the phylogeny of the genus. The ''Bacillus''-specific study with the most diversity covered is by Xu and Cote using 16S and the ITS regions, where they divide the genus into 10 groups, which includes the nested genera ''Paenibacillus, Brevibacillus, Geobacillus, Marinibacillus'' and ''[[Virgibacillus]]''.<ref>{{Cite journal | doi = 10.1099/Ijs.0.02346-0| pmc = | pmid =   | last1 = Xu | first1 = D. | last2 = Cote | first2 = J. -C. | title = Phylogenetic relationships between Bacillus species and related genera inferred from comparison of 3' end 16S rDNA and 5' end 16S-23S ITS nucleotide sequences | journal = International Journal of Systematic and Evolutionary Microbiology | volume = 53 | issue = 3 | pages = 695–704 | year = 2003 }}</ref> However, the tree [http://www.arb-silva.de/fileadmin/silva_databases/living_tree/LTP_release_104/LTPs104_SSU_tree.pdf] constructed by [['The All-Species Living Tree' Project|the living tree project]], a collaboration between ARB-Silva and [[LPSN]] where a 16S (and 23S if available) tree of all validated species was constructed,<ref>{{Cite journal | last1 = Yarza | first1 = P. | last2 = Richter | first2 = M. | last3 = Peplies | first3 = J. R. | last4 = Euzeby | first4 = J. | last5 = Amann | first5 = R. | last6 = Schleifer | first6 = K. H. | last7 = Ludwig | first7 = W. | last8 = Glöckner | first8 = F. O. | last9 = Rosselló-Móra | first9 = R. | doi = 10.1016/j.syapm.2008.07.001 | title = The All-Species Living Tree project: A 16S rRNA-based phylogenetic tree of all sequenced type strains | journal = Systematic and Applied Microbiology | volume = 31 | issue = 4 | pages = 241–250 | year = 2008 | pmid =  18692976| pmc = }}</ref><ref>{{Cite journal | last1 = Yarza | first1 = P. | last2 = Ludwig | first2 = W. | last3 = Euzéby | first3 = J. | last4 = Amann | first4 = R. | last5 = Schleifer | first5 = K. H. | last6 = Glöckner | first6 = F. O. | last7 = Rosselló-Móra | first7 = R. | title = Update of the All-Species Living Tree Project based on 16S and 23S rRNA sequence analyses | journal = Systematic and Applied Microbiology | volume = 33 | issue = 6 | pages = 291–299 | year = 2010 | pmid = 20817437 | doi = 10.1016/j.syapm.2010.08.001}}</ref> the genus ''Bacillus'' contains a very large number of nested taxa and majorly in both 16S and 23S it is paraphyletic to the Lactobacillales (''Lactobacillus, Streptococcus, Staphylococcus, Listeria'', etc.), due to ''[[Bacillus coahuilensis]]'' and others. A gene concatenation study found similar results to Xu and Cote, but with a much more limited number of species in terms of groups,<ref name="Alcaraz2010">{{Cite journal | doi = 10.1186/1471-2164-11-332 | last1 = Alcaraz | first1 = L. | last2 = Moreno-Hagelsieb | first2 = G. | last3 = Eguiarte | first3 = L. E. | last4 = Souza | first4 = V. | last5 = Herrera-Estrella | first5 = L. | last6 = Olmedo | first6 = G. | title = Understanding the evolutionary relationships and major traits of Bacillus through comparative genomics | journal = BMC Genomics | volume = 11 | pages = 332 | year = 2010 | id= 1471216411332 | pmid = 20504335 | pmc = 2890564}}</ref> but used ''Listeria'' as an outgroup, so in light of the ARB tree, it may be "inside-out".
+
+One clade, formed by ''B. anthracis'', ''B. cereus'', ''B. mycoides'', ''B. pseudomycoides'', ''B. thuringiensis'', and ''B. weihenstephanensis'' under current classification standards, should be a single species (within 97% 16S identity), but due to medical reasons, they are considered separate species,<ref>Ole Andreas Økstad and Anne-Brit Kolstø [http://link.springer.com/chapter/10.1007%2F978-1-4419-7686-4_2#page-1 Chapter 2: Genomics of Bacillus Species] in M. Wiedmann, W. Zhang (eds.), Genomics of Foodborne Bacterial Pathogens, 29 Food Microbiology and Food Safety. Springer Science+Business Media, LLC 2011 DOI 10.1007/978-1-4419-7686-4_2</ref>{{rp|34–35}} an issue also present for four species of ''[[Shigella]]'' and ''[[Escherichia coli]]''.<ref>BRENNER (D.J.): Family I. Enterobacteriaceae Rahn 1937, Nom. fam. cons. Opin. 15, Jud. Com. 1958, 73; Ewing, Farmer, and Brenner 1980, 674; Judicial Commission 1981, 104. In: N.R. KRIEG and J.G. HOLT (eds), Bergey's Manual of Systematic Bacteriology, first edition, vol. 1, The Williams & Wilkins Co, Baltimore, 1984, pp. 408-420</ref>
+
+{{cladogram
+|title=''Bacillus'' phylogenetics
+|align=none
+|caption=Phylogeny of the genus ''Bacillus'' according to <ref name="Alcaraz2010" />
+|cladogram={{clade
+|label1=Root
+|1={{clade
+	|label1="pathogenic"
+	|1={{clade
+		|1=''[[Bacillus weihenstephanensis]]''
+		|2=''[[Bacillus cereus]]''/''[[Bacillus thuringiensis|thuringiensis]]''/''[[Bacillus anthracis|anthracis]]''
+ 		}}
+	|2={{clade
+		|label1="soil"
+		|1={{clade
+			|1=''[[Bacillus pumilus]]''
+			|2={{clade
+			|1=''[[Bacillus subtilis]]''
+			|2=''[[Bacillus licheniformis]]''
+ 			}}
+ 			}}
+		|2={{clade
+			|label1="benthic"
+			|1=''[[Geobacillus kaustophilus]]''
+			|2={{clade
+				|label1="aquatic"
+				|1={{clade
+					|1={{clade
+						|1=''[[Bacillus coahuilensis]]''
+						|2=''Bacillus'' sp. m3-13
+						}}
+					|2=''Bacillus'' sp. NRRLB-14911
+ 					}}
+				|2={{clade
+|label1="benthic"
+						|1=''[[Oceanobacillus iheyensis]]''
+|label2="halophiles"
+						|2={{clade
+						|1=''[[Bacillus halodurans]]''
+						|2=''[[Bacillus clausii]]''
+						}}
+						}}
+ 				}}
+ 			}}
+ 		}}
+       }}
+  }}
+}}
+
+==See also==
+* ''[[Paenibacillus]]'' and ''[[Virgibacillus]]'' are genera of bacteria that were formerly included in ''Bacillus''
+<!---* "Von bacillus", a genus of bacillus associated with ''Mariquiita mariconae'', widely resistant to machomycin--->
+
+==References==
+<!-- ---------------------------------------------------------------
+See http://en.wikipedia.org/wiki/Wikipedia:Footnotes for a
+discussion of different citation methods and how to generate
+footnotes using the <ref> & </ref> tags and the {{Reflist}} template
+-------------------------------------------------------------------- -->
+{{Reflist|2}}
+
+==External links==
+{{Commons category|Bacillus}}
+* [http://patricbrc.org/portal/portal/patric/Taxon?cType=taxon&cId=1386 Bacillus] genomes and related information at [http://patricbrc.org/ PATRIC], a Bioinformatics Resource Center funded by [http://www.niaid.nih.gov/ NIAID]
+
+{{Gram-positive bacterial diseases}}
+
+[[Category:Bacteria genera]]
+[[Category:Bacillus| ]]
+[[Category:Firmicutes]]
+[[Category:Gram-positive bacteria]]

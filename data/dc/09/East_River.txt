@@ -1,0 +1,323 @@
+{{about|the East River in New York City|other uses|East River (disambiguation)}}
+{{Geobox|River
+| geobox_width = 250
+<!-- *** Heading *** -->
+| name = East River
+| native_name =
+| other_name =
+| category = Tidal strait
+<!-- *** Names **** -->
+| etymology =
+| nickname =
+<!-- *** Image *** -->
+| image = East River and UN.jpg
+| image_caption = East River and the [[headquarters of the United Nations]] in [[Manhattan]], as seen from [[Roosevelt Island]].
+| image_size = 325px
+<!-- *** Country *** -->
+| country = United States
+| state = New York
+| region =
+| district =
+| municipality = New York City
+<!-- *** Family *** -->
+| parent =
+| tributary_left = [[Newtown Creek]], [[Flushing River]]
+| tributary_right = [[Westchester Creek]], [[Bronx River]],<br />[[Bronx Kill]], [[Harlem River]]
+| city =
+| landmark =
+| river =
+<!-- *** River locations *** -->
+| source = Long Island Sound
+| source_location = | source_region = | source_country =
+| source_elevation_imperial =
+| source_lat_d = 40.800172 | source_lat_m = | source_lat_s = | source_lat_NS =
+| source_long_d = -73.791995 | source_long_m = | source_long_s = | source_long_EW =
+| source1 =
+| source1_location = | source1_region = | source1_country =
+| source1_elevation_imperial =
+| source1_lat_d = | source1_lat_m = | source1_lat_s = | source1_lat_NS =
+| source1_long_d = | source1_long_m = | source1_long_s = | source1_long_EW =
+| source_confluence =
+| source_confluence_location = | source_confluence_region = | source_confluence_country =
+| source_confluence_elevation_imperial =
+| source_confluence_lat_d = | source_confluence_lat_m = | source_confluence_lat_s = | source_confluence_lat_NS =
+| source_confluence_long_d = | source_confluence_long_m = | source_confluence_long_s = | source_confluence_long_EW =
+| mouth = Upper New York Bay
+| mouth_location = | mouth_region = | mouth_country =
+| mouth_elevation_imperial =
+| mouth_lat_d = 40.700357  | mouth_lat_m = | mouth_lat_s = | mouth_lat_NS =
+| mouth_long_d = -74.003842 | mouth_long_m = | mouth_long_s = | mouth_long_EW =
+<!-- *** Dimensions *** -->
+| length_imperial = 16 | length_orientation =
+| width_imperial = | width_orientation =
+| depth_imperial =
+| volume_imperial =
+| watershed_imperial =
+| discharge_imperial =
+| discharge_max_imperial =
+| discharge_min_imperial =
+<!-- *** Free fields *** -->
+| free = | free_type =
+<!-- *** Maps *** -->
+| map = Wpdms terra east river.jpg
+| map_caption = The East River is shown in red on this satellite photo of New York City.
+| map_background =
+| map_locator =
+| map_locator_x =
+| map_locator_y =
+<!-- *** Website *** -->
+| website =
+| commons = East River
+<!-- *** Footnotes *** -->
+| footnotes =
+}}
+
+The '''East River''' is a salt water tidal [[strait]] in [[New York City]]. The waterway, which is actually not a [[river]] despite its name, connects [[Upper New York Bay]] on its south end to [[Long Island Sound]] on its north end. It separates [[Long Island]] &ndash; including the boroughs of [[Queens]] and [[Brooklyn]] &ndash;  from [[the Bronx]] on the [[North America]]n mainland, and the island of [[Manhattan]].  Because of its connection to [[Long Island Sound]], it was once also known as the ''Sound River''.<ref>[[John Montresor|Montrésor, John]] (1766). ''[http://memory.loc.gov/cgi-bin/query/r?ammem/gmd:@field(NUMBER+@band(g3804n+ar110401)) A plan of the city of New-York & its environs]''. London.</ref> The tidal strait changes its flow direction frequently.
+
+==Formation==
+[[File:Manhattan1781.jpg|thumb|left|200px|A map from 1781]]
+
+The strait was formed approximately 11,000 years ago at the end of the [[Last glacial period#Wisconsinan glaciation.2C in North America|Wisconsin glaciation]].<ref>{{cite news|title=The East River Flows From Prehistoric Times To Today |url=http://www.qgazette.com/news/2005-07-20/features/049.html |newspaper=The Queens Gazette |date=July 20, 2005 |accessdate=2010-07-31}}</ref> The distinct change in the shape of the strait between the lower and upper portions is evidence of this glacial activity.  The upper portion (from [[Long Island Sound]] to [[Hell Gate]]), running largely perpendicular to the glacial motion, is wide, meandering, and has deep narrow bays on both banks, scoured out by the glacier's movement.  The lower portion (from Hell Gate to [[New York Bay]]) runs north-south, parallel to the glacial motion.  It is much narrower, with straight banks.  The bays that exist (or existed before being filled in by human activity), are largely wide and shallow.
+
+==The channel==
+Historically, the lower portion of the strait (separating Manhattan from Brooklyn) was one of the busiest and most important channels in the world, particularly during the first three centuries of New York City's history. The [[Brooklyn Bridge]], opened in 1883, was the first bridge to span the strait, replacing frequent ferry service. Some passenger ferry service remains between Manhattan, and Queens and Brooklyn.
+
+<!--The following information, right up to the 8/30/07 NY Times footnote, is covered by the source in that footnote. Please do NOT add "citation needed" tags as was done in the past because ... the citation is adequate.-->Due to heavy [[water pollution|pollution]], the East River is dangerous to people who fall in or attempt to swim in it, although as of mid-2007 the water was cleaner than it had been in decades.<ref name=times2007 /> As of 2010, the New York City Department of Environmental Protection categorizes the East River as Use Classification I, meaning it is safe for secondary contact activities such as boating and fishing.<ref>[http://www.nyc.gov/html/dep/pdf/green_infrastructure/11x17map_eastriver_openwaters.pdf "Green Infrastructure Plan: East River and Open Waters"] (September 2010)</ref> According to the marine sciences section of the city [[New York City Department of Environmental Protection|Department of Environmental Protection]], the channel is swift, with water moving as fast as four knots (just as it does in the [[Hudson River]] on the other side of Manhattan). That speed can push casual swimmers out to sea. A few people drown in the waters around New York City each year.<ref name=times2007>{{cite news |title=Welcome, Students. Now Watch It. |url=http://www.nytimes.com/2007/08/30/nyregion/30students.html |newspaper=[[The New York Times]] |date=August 30, 2007 |accessdate=2007-08-30}}</ref> The strength of the current foiled an effort in 2007 to tap it for [[tidal power]].<ref>{{cite news |title=East River Turbines Face Upstream Battle |first=Dave |last=Hogarty |url=http://gothamist.com/2007/08/13/east_river_turb.php |newspaper=[[Gothamist]] |date=August 13, 2007 |accessdate=2010-07-31}}</ref> However, in February 2012 the federal government announced an agreement with [[Verdant Power]] to install 30 tidal turbines in the channel, projected to begin operations in 2015 and produce 1.05 MW of power.<ref>{{cite web|title=Turbines Off NYC East River Will Create Enough Energy to Power 9,500 Homes|url=http://energy.gov/articles/turbines-nyc-east-river-will-create-enough-energy-power-9500-homes|publisher=U.S. Department of Energy|accessdate=13 February 2012}}</ref>{{clear left}}
+
+===Tributaries===
+[[File:Eastriverandbrooklynbridge1903-snd.ogg|thumb|right|325px|Historical film of the East River, leading up to a final shot of the Brooklyn Bridge (1903)]]
+The [[Bronx River]] drains into the East River in the northern section of the strait.
+
+North of [[Randalls and Wards Islands|Randalls Island]], it is joined by the [[Bronx Kill]]. Along the east of Wards Island, at approximately the strait's midpoint, it narrows into a channel called [[Hell Gate]], which is spanned by both the [[Robert F. Kennedy Bridge]] (formerly the Triborough), and the [[Hell Gate Bridge]]. On the south side of Wards Island, it is joined by the [[Harlem River]].
+
+[[Newtown Creek]] on Long Island drains into the East River, forming part of the boundary between Queens and Brooklyn.
+The East River contains a number of [[island]]s, including:
+*Upper section
+**[[Rikers Island]]
+**[[North and South Brother Islands, East River|North and South Brother Islands]]
+**[[Mill Rock]]
+*Lower section
+**[[Randalls and Wards Islands|Randalls Island and Wards Island]] (joined by [[land reclamation|landfill]])
+**[[Roosevelt Island]]
+**[[U Thant Island]] (Belmont Island)
+
+==Crossings==
+{{see also|List of ferries across the East River}}
+{{col-begin}}{{col-break}}
+{| class=wikitable
+! Crossing
+! Carries
+! Location
+! Coordinates
+!Year<br>opened
+|-
+!colspan=5|{{anchor|Manhattan&nbsp;— Manhattan ([[Roosevelt Island]])}}Manhattan&nbsp;— Manhattan ([[Roosevelt Island]])
+|-
+|[[Roosevelt Island Tramway]]
+|pedestrians and bicycles
+|
+|
+|1976
+|-
+!colspan=5|{{anchor|Manhattan&nbsp;— Brooklyn}}Manhattan&nbsp;— Brooklyn
+|-
+|[[Brooklyn-Battery Tunnel]]
+|{{jct|state=NY|I|478}}
+|
+|
+|1950
+|-
+|[[Joralemon Street Tunnel]]
+|{{NYCS Lexington south|time=bullets}}
+|
+|
+|1908
+|-
+|[[Montague Street Tunnel]]
+|{{NYCS Montague|time=bullets}}
+|
+|
+|1920
+|-
+|[[Clark Street Tunnel]]
+|{{NYCS Broadway-Seventh Brooklyn|time=bullets}}
+|
+|
+|1919
+|-
+|[[Cranberry Street Tunnel]]
+|{{NYCS Eighth far south express|time=bullets}}
+|
+|
+|1932
+|-
+|[[Brooklyn Bridge]]
+|
+|
+|
+|1883
+|-
+|[[Manhattan Bridge]]
+|{{NYCS Manhattan Bridge|time=bullets}}
+|
+|
+|1909
+|-
+|[[Rutgers Street Tunnel]]
+|{{NYCS Sixth Rutgers|time=bullets}}
+|
+|
+|1936
+|-
+|[[Williamsburg Bridge]]
+|{{NYCS Williamsburg|time=bullets}}
+|
+|
+|1903
+|-
+|[[14th Street Tunnel]]
+|{{NYCS Canarsie|time=bullets}}
+|
+|
+|1924
+|-
+!colspan=5|{{anchor|Manhattan&nbsp;— Queens}}Manhattan&nbsp;— Queens
+|-
+|[[East River Tunnels]]
+|[[Amtrak]] [[Northeast Corridor]]<br>[[File:MTA NYC logo.svg|15px]] [[Long Island Rail Road]]
+|
+|
+|1910
+|-
+|[[Queens Midtown Tunnel]]
+|{{jct|state=NY|I|495}}
+|
+|
+|1940
+|-
+|[[Steinway Tunnel]]
+|{{NYCS Flushing|time=bullets}}
+|
+|
+|1915
+|-
+|[[53rd Street Tunnel]]
+|{{NYCS Queens 53rd|time=bullets}}
+|
+|
+|1933
+|-
+|[[Ed Koch Queensboro Bridge]] (59th Street Bridge)
+|{{jct|state=NY|SR|25}}
+|
+|
+|1909
+|-
+|[[60th Street Tunnel]]
+|{{NYCS Broadway 60th|time=bullets}}
+|
+|
+|1920
+|-
+|[[63rd Street Tunnel]]
+|{{NYCS 63rd IND|time=bullets}}
+|
+|
+|1989
+|-
+|[[Roosevelt Island Bridge]]
+|
+|
+|
+|1955
+|-
+|[[Robert F. Kennedy Bridge|RFK-Triborough Bridge]] (East River Suspension Span)
+|{{jct|state=NY|I|278}}
+|
+|
+|1936
+|-
+|[[Hell Gate Bridge]]
+|[[Amtrak]] [[Northeast Corridor]]<br>[[CSX Transportation]] Fremont Secondary<br>[[Providence & Worcester Railroad]]
+
+|
+|
+|1916
+|-
+!colspan=5|{{anchor|The Bronx&nbsp;— Queens}}The Bronx&nbsp;— Queens
+|-
+|[[Rikers Island Bridge]]
+|
+|
+|
+|1966
+|-
+|[[Bronx Whitestone Bridge]]
+|{{jct|state=NY|I|678}}
+|
+|
+|1939
+|-
+|[[Throgs Neck Bridge]]
+|{{jct|state=NY|I|295}}
+|
+|
+|1961
+|}
+{{col-break}}
+[[File:PostcardJamestownPennaRailroadSystemAtJamestownExpo1907.jpg|thumb|right|300px|Exposition display showing cross-section of East River railroad tunnel to Pennsylvania Station]]
+[[File:East River Park painting IMG 3773.JPG|300px|right|thumb|[[William Glackens]] 1902 painting of East River Park in the [[Brooklyn Museum]]]]
+{{col-end}}
+
+==In popular culture==
+'''Music'''
+* [[Edward Harrigan]]'s 1874 comic song "Muldoon, the Solid Man" mentions "the enchanting East River air"
+* [[The Brecker Brothers]] performed a song named after the river that is featured on their album ''Heavy Metal Be-Bop'' (1978)
+* According to its author, [[Yasushi Akimoto]], one of the best known Japanese songs "[[Kawa no Nagare no Yō ni]]" &ndash; the "swan song" of the noted singer [[Hibari Misora]] &ndash; was inspired by the East River.<ref>[http://www.musicman-net.com/relay/86-3.html 第86回　秋元 康 氏] {{ja icon}}</ref>
+
+'''Television'''
+* [[Cosmo Kramer|Kramer]] decided to swim in the East River for exercise in the ''[[Seinfeld]]'' episode "[[The Nap]]"
+* In ''[[The Simpsons]]'' episode, "[[The City of New York vs. Homer Simpson]]", Homer receives a letter stating that his vehicle is illegally parked between the [[World Trade Center (1973–2001)|World Trade Center Towers]] and that if he doesn't fix the issue his car will be "crushed into a cube and thrown into the East River at your expense."
+
+'''Games'''
+* In the video game ''[[Call of Duty: Modern Warfare 3]]'', the [[Russian Navy]] had taken control of the river as part of their invasion of the [[East Coast of the United States]] in the fictitious Russo-American War.
+
+==Views of the river==
+<div align=center><gallery widths="225px" heights="187px" perrow=4>
+Powells Cove BWB jeh.jpg|Powell's Cove, in [[Whitestone, Queens]], 2009
+East River 59 jeh.JPG|East River flows past the [[Upper East Side]] of Manhattan, 2009
+Blackwells Island East River 1862.jpeg|''[[Blackwells Island]], East River, From [[86th Street (Manhattan)|Eighty Sixth Street]]'', [[Currier & Ives]], 1862
+East River Park in Fall 2008 number 3.jpg|East River passes children playing [[American football|football]] in [[East River Park]], 2008
+Manhattan and Brooklyn bridges on the East River, New York City, 1981.jpg|[[Manhattan Bridge|Manhattan]] and [[Brooklyn Bridge|Brooklyn]] bridges on the East River, 1981
+USA-NYC-East River.jpg|East River and [[Brooklyn Heights]], 2013
+USA-NYC-Lower Manhattan from East River.jpg|East River and [[Lower Manhattan]], 2013
+</gallery></div>
+
+==See also==
+*[[List of New York rivers]]
+*[[Lists of crossings of the East River]]
+*[[Geography and environment of New York City]]
+*[[Geography of New York Harbor]]
+
+<!--spacing-->
+
+[[File:Astoria Park Panorama of Triborough and Hell's Gate Bridges.jpg|thumb|center|750px|A panorama of the [[Hell Gate Bridge]] and [[Robert F. Kennedy Bridge]] from [[Astoria Park]]]]
+
+==References==
+'''Notes'''
+{{reflist}}
+
+==External links==
+{{Commons category|East River}}
+*[http://www.eastrivernyc.org East River NYC] from the [[Greater Astoria Historical Society]]
+*[http://www.licboathouse.org LIC Community Boathouse site for free paddling on the East River]
+*[http://gothamist.com/2007/08/13/east_river_turb.php Hydropower turbines destroyed by East River current]
+*[http://www.astoriawaterfront.org Western Queens waterfront information page]
+
+{{Authority control}}
+[[Category:Transportation in New York]]
+[[Category:Lists of river crossings in the United States|East River]]
+[[Category:East River| ]]
+[[Category:Landforms of New York County, New York]]
+[[Category:Straits of New York]]
+[[Category:Articles containing video clips]]

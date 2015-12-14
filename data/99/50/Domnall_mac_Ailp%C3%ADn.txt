@@ -1,0 +1,79 @@
+{{Infobox royalty
+| succession = King of the Picts
+| reign = 858&ndash;862
+| predecessor = [[Kenneth MacAlpin|Kenneth I]]
+| successor = [[Constantine I of Scotland|Constantine I]]
+| issue = [[Giric of Scotland|Giric]]?
+| house = [[House of Alpin]]
+| father = [[Alpín mac Echdach]]
+| birth_date  = 812
+| death_date = 13 April 862
+| death_place = Cinnbelachoir?, Rathinveralmond?
+| place of burial = [[Iona]]
+|}}
+'''Domnall mac Ailpín''' ([[Scottish Gaelic language|Modern Gaelic]]: ''Dòmhnall mac Ailpein'',<ref>''Domnall mac Ailpín'' is the Mediaeval Gaelic form.</ref> anglicised sometimes as '''Donald MacAlpin''', and known in most modern regnal lists as '''Donald I'''); (812 &ndash; 13 April 862) was [[king of the Picts]] from 858 to 862. He followed his brother [[Kenneth I of Scotland|Kenneth I]] to the [[Picts|Pictish]] throne.
+
+==Reign==
+The [[Chronicle of the Kings of Alba]] says that Domnall reigned for four years, matching the notices in the [[Annals of Ulster]] of his brother's death in February 858 and his own in April 862.<ref>Annals of Ulster, s.a. 858 & 862.</ref> The Chronicle notes:
+{{quote|In his time the Gaels with their king made the rights and laws of the kingdom, [that are called the laws] of [[Áed Find|Áed, Eochaid's son]] in [[Forteviot]].<ref>Anderson, ''ESSH'', p. 291, citing [[William Forbes Skene|Skene]].</ref>}}
+
+The laws of Áed Find are entirely lost, but it has been assumed that, like the laws attributed to [[Giric of Scotland|Giric]] and [[Constantine II of Scotland|Constantine II]] (Causantín mac Áeda), these related to the church and in particular to granting the privileges and immunities common elsewhere.<ref>Smyth, p. 188.</ref> The significance of Forteviot as the site of this law-making, along with Kenneth's death there and Constantine's later gathering at nearby [[Scone, Perth and Kinross|Scone]], may point to this as being the heartland of the sons of Alpín's support.
+
+The [[Chronicle of Melrose]] says of Domnall, "in war he was a vigorous soldier ... he is said to have been assassinated at Scone."<ref>Anderson, ''ESSH'', p. 291.</ref> No other source reports Domnall's death by violence.
+
+The [[Prophecy of Berchán]] may refer to Domnall in stanzas 123&ndash;124:
+
+{{quote|Evil will be Scotland's lot because of [the death of Kenneth MacAlpin]; long will it be until his like will come. Long until the king takes [sovereignty], the wanton son of the foreign wife. He will be three years in the kingdom and three months (although thou countest them). His tombstone will be above [[Loch Awe]]. He dies of disease.<ref>Anderson, ''ESSH'', p. 292, citing Skene.</ref>}}
+
+Although Domnall is generally been supposed to have been childless, it has been suggested that [[Giric of Scotland|Giric]] was a son of Domnall, reading his patronym as ''mac Domnaill'' rather than the commonly supposed ''mac Dúngail''.<ref>Smyth, p. 187.</ref> This, however, is not widely accepted.<ref>Compare Duncan, p. 11ff.</ref>
+
+Domnall died, either at the palace of Cinnbelachoir (location unknown), or at ''Rathinveralmond'' (also unknown, and may be the same place, presumed to be near the junction of the [[River Almond, Perthshire|Almond]] and the [[River Tay|Tay]], near Scone).<ref>Anderson, ''ESSH'', p. 291; Duncan, pp. 10&ndash;11.</ref> He was buried on [[Iona]].
+
+==Notes==
+{{reflist}}
+
+== See also ==
+*[[Kingdom of Alba]]
+*[[Origins of the Kingdom of Alba]]
+
+==References==
+{{refbegin}}
+* [[Alan Orr Anderson|Anderson, Alan Orr]], ''Early Sources of Scottish History A.D 500&ndash;1286'', volume 1. Reprinted with corrections. Paul Watkins, Stamford, 1990. ISBN 1-871615-03-8
+* [[A. A. M. Duncan|Duncan, A. A. M.]], ''The Kingship of the Scots 842&ndash;1292: Succession and Independence.'' Edinburgh: Edinburgh University Press, 2002. ISBN 0-7486-1626-8
+* Smyth, Alfred P., ''Warlords and Holy Men: Scotland AD 80&ndash;1000.'' Edinburgh UP, Edinburgh, 1984. ISBN 0-7486-0100-7
+{{refend}}
+
+==External links==
+* [http://www.ucc.ie/celt/published/G100001A/index.html Annals of Ulster, part 1, at CELT]
+* [http://www.arts.ed.ac.uk/scothist/booklets/sh1/documents-alba.html The Chronicle of the Kings of Alba]
+
+{{s-start}}
+{{s-hou|[[House of Alpin]]|||13 April|862}}
+{{s-reg|}}
+{{s-bef|before=[[Kenneth I of Scotland|Kenneth I]]}}
+{{s-ttl|title=[[King of the Picts]]'''<br />''(traditionally [[King of Scots]])''|years=858&ndash;862}}
+{{s-aft|after=[[Constantine I of Scotland|Constantine I]]}}
+{{s-end}}
+
+{{Pictish and Scottish monarchs}}
+{{English, Scottish and British monarchs}}
+{{Authority control}}
+{{Use dmy dates|date=December 2010}}
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Domnall Mac Ailpin
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = King of the Picts
+| DATE OF BIRTH     = 812
+| PLACE OF BIRTH    =
+| DATE OF DEATH     = 13 April 862
+| PLACE OF DEATH    = Cinnbelachoir?, Rathinveralmond?
+}}
+{{DEFAULTSORT:Domnall Mac Ailpin}}
+[[Category:862 deaths]]
+[[Category:Scottish monarchs]]
+[[Category:Medieval Gaels]]
+[[Category:House of Alpin]]
+[[Category:9th-century Scottish people]]
+[[Category:9th-century monarchs in Europe]]
+[[Category:Burials in Iona]]
+[[Category:812 births]]

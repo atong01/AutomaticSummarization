@@ -1,0 +1,30 @@
+{{Infobox UK feature
+|official_name = Churnsike Lodge
+|shire_county/state = Northumberland
+|country = England
+|nation = UK
+|map_name = United Kingdom Northumberland
+|static_image_name =Churnsike Lodge - geograph.org.uk - 528422.jpg
+|static_image_caption =Churnsike Lodge
+|static_image_2 =
+|static_image_caption_2 =
+|os_grid_reference = NY664771
+|latitude = 55.087
+|longitude = -2.528
+}}
+
+'''Churnsike Lodge''' ({{gbmapping|NY664771}}) was an early [[Victorian era|Victorian]] [[hunting lodge]] situated in the parish of Greystead,  West [[Northumberland]], [[England]]. It was built in 1850 as a shooting lodge and was part of the Hesleyside estate (Hesleyside house is situated in the North Tyne valley near Bellingham).<ref>{{cite web|url=http://discovery.nationalarchives.gov.uk/details/rd/55998f21-89e3-48b1-ad83-53a011f5c8f1|title=Hesleyside|publisher=National Archives|accessdate=7 August 2015}}</ref> When the estate was sold in 1889, Churnsike Lodge was purchased by the Chesters Estate (near Hexham, Northumberland).<ref>http://discovery.nationalarchives.gov.uk/details/rd/fd9409d0-ae3d-4bd7-8c65-65d76020f2a3</ref> The "cairnsyke" estate comprised several thousand acres of grouse moor and is referred to in the sale catalogue of 1889 as the "Finest grouse moor in the Kingdom". The property included stables for 6 horses, a gamekeepers bothy and well-appointed dog kennels which housed the Irthing head and Kielder hounds<ref>http://woolshed1.blogspot.co.uk/2008_12_01_archive.html</ref> (headed by famous fox hunter William Dodd, as referred to in "Wanny Blossoms").<ref>{{cite book|url=http://www.forgottenbooks.com/download_pdf/Wanny_Blossoms_1400046091.pdf|title=Wanny Blossoms: a book of song|first=James|last=Armstrong|year=1879|publisher=Forgotton Books|page=136}}</ref> Situated 10 miles north of Gilsland and 13 miles west of Bellingham, the former grouse moor is now part of the Wark forest.<ref>{{cite web|url=http://www.northumberlandscapes.co.uk/galleries/Irthing/section2.php|title=River Irthing 2: Around Paddaburn|publisher=Northumberland Scapes|accessdate=7 August 2015}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category inline|Churnsike Lodge}}
+
+[[Category:Country houses in Northumberland]]
+[[Category:Villages in Northumberland]]
+[[Category:Hunting lodges in England]]
+[[Category:Buildings and structures completed in 1850]]
+
+
+{{Northumberland-struct-stub}}

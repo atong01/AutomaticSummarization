@@ -1,0 +1,108 @@
+{{Infobox artist
+| name          = Emanuel Leutze
+| image         = Emanuel Leutze.jpg
+| imagesize     = 
+| caption       = 
+| birth_name    = 
+| birth_date    = {{birth date |1816|5|24|}}
+| birth_place   = [[Schwäbisch Gmünd]], [[Kingdom of Württemberg|Württemberg]], [[German Confederation]]
+| death_date    = {{Death date and age |1868|7|18|1816|5|24|}}
+| death_place   = Washington, D.C., U.S.
+| nationality   = German American
+| field         = [[History painting|History painter]]
+| training      = [[John Rubens Smith]]<br />[[Karl Friedrich Lessing]]
+| movement      = 
+| works         = 
+| patrons       = 
+| influenced by =
+| influenced    =
+| awards        = 
+| resting_place = [[Glenwood Cemetery (Washington, D.C.)|Glenwood Cemetery]]
+}}
+
+'''Emanuel Gottlieb Leutze''' (May 24, 1816{{spaced ndash}}July 18, 1868) was a [[German American]] [[History painting|history painter]] best known for his painting ''[[Washington Crossing the Delaware]]''. He is associated with the [[Düsseldorf school of painting]].
+
+==Biography==
+
+===Philadelphia===
+Leutze was born in Schwäbisch Gmünd, [[Württemberg]], [[German Confederation|Germany]], and was brought to the United States as a child. His parents settled first in [[Fredericksburg, Virginia]], and then at [[Philadelphia]].  His early education was good, though not especially in the direction of art. The first development of his artistic talent occurred while he was attending the sickbed of his father, when he attempted drawing to occupy the long hours of waiting.<ref name="appletons">{{Cite Appletons'|wstitle=Leutze, Emanuel|year=1892}}</ref> His father died in 1831.<ref name="danforth">{{Cite book|title=American Artists in Düsseldorf: 1840–1865|author=Brucia Witthoft and others|location=[[Framingham, Massachusetts]]|publisher=Danforth Museum|year=1982|pages=14, 32|url=http://openlibrary.org/books/OL3512328M/American_artists_in_Du%CC%88sseldorf_1840-1865}}</ref> At 14, he was painting portraits for $5 apiece.  Through such work, he supported himself after the death of his father.<ref name="adb">{{Cite ADB|18|500|502|Leutze, Emanuel|[[Moritz Blanckarts]]|ADB:Leutze, Emanuel}}</ref> In 1834, he received his first instruction in art in classes of [[John Rubens Smith]],<ref name="anb">{{Cite ANB|title=Leutze, Emanuel Gottlieb|author=Barbara Groseclose}}</ref> a portrait painter in Philadelphia.  He soon became skilled, and promoted a plan for publishing, in Washington, portraits of eminent American statesmen; however, he met with but slight encouragement.<ref name="appletons"/>
+
+===Europe===
+In 1840, one of his paintings attracted attention and procured him several orders, which enabled him to go to the [[Kunstakademie Düsseldorf]], where he studied with [[Karl Friedrich Lessing|Lessing]].  In 1842 he went to [[Munich]], studying the works of [[Peter von Cornelius|Cornelius]] and Kaulbach, and, while there, finished his ''Columbus before the Queen''. The following year he visited [[Venice]] and Rome, making studies from [[Titian]] and [[Michelangelo]]. His first work, ''Columbus before the Council of Salamanca'' was purchased by the Düsseldorf Art Union. A companion picture, ''Columbus in Chains'', procured him the gold medal of the Brussels Art Exhibition, and was subsequently purchased by the Art Union in New York; it was the basis of the 1893 $2 Columbian stamp. In 1845, after a tour in Italy, he returned to Düsseldorf, marrying Juliane Lottner<ref name="danforth"/> and making his home there for 14 years.<ref name="appletons"/>
+
+During his years in Düsseldorf, he was a resource for visiting Americans:  he found them places to live and work, provided introductions, and emotional and even financial support.<ref name="danforth"/> For many years, he was the president of the Düsseldorf Artists' Association; in 1848, he was an early promoter of the “Malkasten” art association; and in 1857, he led the call for a gathering of artists which led to the founding of the Allgemeine deutsche Kunstgenossenschaft.<ref name="adb"/>
+
+A strong supporter of Europe's [[Revolutions of 1848]], Leutze decided to paint an image that would encourage Europe's liberal reformers with the example of the American Revolution. Using American tourists and art students as models and assistants, Leutze finished ''Washington Crossing the Delaware'' in 1850.  It is owned by the [[Metropolitan Museum of Art]] in New York.  In 1854, Leutze finished his depiction of the [[Battle of Monmouth]], "Washington rallying the troops at Monmouth," commissioned by an important Leutze patron, banker [[David Leavitt (banker)|David Leavitt]] of New York City and [[Great Barrington, Massachusetts]].<ref>[http://www.americanheritage.com/articles/magazine/ah/1965/4/1965_4_14_print.shtml "Washington at Monmouth," American Heritage Magazine, June 1965, AmericanHeritage.com]</ref>
+[[Image:Washington Crossing the Delaware by Emanuel Leutze, MMA-NYC, 1851.jpg|thumb|300px|left|''[[Washington Crossing the Delaware]]'' (1851)]]
+===New York City and Washington, D.C.===
+[[File:Emanuel Leutze grave - Glenwood Cemetery - 2014-09-14.jpg|thumb|Grave of Emanuel Leutze at Glenwood Cemetery.]]
+In 1859, Leutze returned to the United States and opened a studio in New York City.<ref name="appletons"/> He divided his time between New York City and Washington, D.C.<ref name="dab">{{Cite DAB|title=Leutze, Emanuel|year=1933|author=William Howe Downes}}</ref> In 1859, he painted a portrait of Chief Justice [[Roger Brooke Taney]] which hangs in the [[Harvard Law School]].  In a 1992 opinion, Justice [[Antonin Scalia]] described the portrait of Taney, made two years after Taney's infamous decision in [[Dred Scott v. Sandford]], as showing Taney "in black, sitting in a shadowed red armchair, left hand resting upon a pad of paper in his lap, right hand hanging limply, almost lifelessly, beside the inner arm of the chair. He sits facing the viewer and staring straight out. There seems to be on his face, and in his deep-set eyes, an expression of profound sadness and disillusionment."
+
+Leutze also executed other portraits, including one of fellow painter [[William Morris Hunt]]. That portrait was owned by Hunt's brother [[Leavitt Hunt]], a New York attorney and sometime Vermont resident, and was shown at an exhibition devoted to William Morris Hunt's work at the [[Museum of Fine Arts, Boston]] in 1878.<ref>[http://books.google.com/books?id=dYkVAAAAYAAJ&pg=PA60&lpg=PA60&dq=%22william+morris+hunt%22+richard+leavitt+paris&source=web&ots=I8J6FcEbNu&sig=d7qFDpr8SwJIUn8I851W8Tym3hQ&hl=en&sa=X&oi=book_result&resnum=7&ct=result#PPA60,M1 Exhibition of the Works of William Morris Hunt, Museum of Fine Arts, Boston, John C. Dalton, Alfred Mudge & Son, Boston, 1879]</ref>
+
+In 1860 Leutze was commissioned by the [[Congress of the United States|U.S. Congress]] to decorate a stairway in the [[United States Capitol|Capitol]] Building in Washington, DC, for which he painted a large composition, ''[[Westward the Course of Empire Takes Its Way]]'', which is also commonly known as ''Westward Ho!''.
+
+Late in life, he became a member of the [[National Academy of Design]]. He was also a member of the [[Union League Club of New York]], which has a number of his paintings.  He died in Washington, D.C., in his 52nd year, of heatstroke. He was interred at [[Glenwood Cemetery (Washington, D.C.)|Glenwood Cemetery]].<ref>{{cite book|last=Heiderstadt|first=Dorothy|title=Painters of America|location=New York|publisher=D. McKay Co.|date=1970|page=88}}</ref> At the time of his death, a painting, ''The Emancipation of the Slaves'', was in preparation.<ref name="anb"/>
+
+Leutze's portraits are known less for their artistic quality than for their patriotic emotionalism.  ''Washington Crossing the Delaware'' firmly ranks among the American national [[iconography]], and is thus often caricatured.
+{{clear}}
+
+==Gallery of works==
+<gallery widths="185px" heights="185px" perrow="3">
+
+File:Emanuel Leutze (American, 1816-1868). Columbus before the Queen, 1843.jpg|''Columbus before the Queen'' (1843)
+File:Emanuel Leutze - Westward the Course of Empire Takes Its Way - Capitol.jpg|''[[Westward the Course of Empire Takes Its Way]]'' (1860)
+File:Mrs. Schuyler Burning Her Wheat Fields on the Approach of the British.jpg|''Mrs. Schuyler Burning Her Wheat Fields on the Approach of the British''
+Image:BattleofMonmouth.jpg|''Washington Rallying the Troops at [[Battle of Monmouth|Monmouth]]''
+File:Alaska purchase.jpg|''[[William H. Seward]] and [[Eduard de Stoeckl]] Negotiating the [[Alaska Purchase]]''<ref>{{cite book|editor1-first=Peter M.|editor1-last=Metcalfe|title=Alaska Blue Book|edition=Tenth|year=1991|publisher=[[Alaska Department of Education & Early Development|Alaska Department of Education]], [[Alaska State Library|Division of State Libraries, Archives and Museums]]|location=[[Juneau]]|page=227|chapter=History, State Designations and Superlatives}}</ref>
+File:Storming of the Teocalli by Cortez and His Troops.jpeg|''Storming of the [[Teocalli]] by [[Hernan Cortez|Cortez]] and his troops'' (1848)
+File:Worthington Whittredge in His Tenth Street Studio.jpeg|''Worthington Whittredge in His Tenth Street Studio'' (1865)
+File:Emanuel Leutze William Morris Hunt.jpeg|''Portrait of [[William Morris Hunt]]'' (ca. 1845)
+File:General Ambrose Burnside at Antietam by Leutze.jpg|General [[Ambrose Burnside]] at Antietam (1863)<ref>{{cite web|last1=Harrington|first1=Peter|title=Emanuel Leutze's Portrait of General Ambrose Burnside at Antietam|url=http://blogs.brown.edu/bulspecialcollections/2011/02/21/emanuel-leutze%E2%80%99s-portrait-of-general-ambrose-burnside-at-antietam/|website=Brown University Library|accessdate=8 May 2015}}</ref>
+</gallery>
+
+==References==
+{{reflist}}
+
+==Further reading==
+* Wierich, Jochen. ''Grand Themes: Emanuel Leutze, "Washington Crossing the Delaware," and American History Painting'' (Penn State University Press; 2012) 240 pages; Argues that the painting was a touchstone for debates over history painting at a time of intense sectionalism.
+*{{cite book|author=Hutton, Anne Hawkes|title=Portrait of Patriotism: Washington Crossing the Delaware|publisher=Chilton Book Company|location=Radnor, Pennsylvania|year=1975|isbn=0-8019-6418-0}}
+* [[New International Encyclopedia]]
+
+==External links==
+{{Wikisource1911Enc|Leutze, Emanuel}}
+{{Commons category}}
+* [http://www.museumsyndicate.com/artist.php?artist=514 Leutze Gallery at MuseumSyndicate]
+* [http://wwar.com/masters/l/leutze-emanuel_gottlieb.html Emanuel Leutze]
+* {{worldcat id|lccn-n82-96322}}
+* [http://blog.oup.com/oupblog/2006/02/washingtons_cro.html Introduction to ''Washington's Crossing''] by David Hackett Fischer at the Oxford University Press blog, discusses Leutze's most famous painting.
+* {{Cite NIE|wstitle=Leutze, Emanuel|year=1905 |short=x }}
+* {{Cite Collier's|wstitle=Leutze, Emanuel |short=x}}
+* [http://www.reynoldahouse.org/index.php Reynolda House Museum of American Art]
+*[http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/56268/rec/16 Art and the empire city: New York, 1825-1861], an exhibition catalog from The Metropolitan Museum of Art (fully available online as PDF), which contains material on Leutze (see index)
+
+{{Romanticism}}
+{{Authority control}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Leutze, Emanuel
+| ALTERNATIVE NAMES = 
+| SHORT DESCRIPTION = American artist 
+| DATE OF BIRTH     = May 24, 1816
+| PLACE OF BIRTH    = Schwäbisch Gmünd, Württemberg, Germany
+| DATE OF DEATH     = July 18, 1868
+| PLACE OF DEATH    = Washington DC
+}}
+{{DEFAULTSORT:Leutze, Emanuel}}
+[[Category:1816 births]]
+[[Category:1868 deaths]]
+[[Category:People from Schwäbisch Gmünd]]
+[[Category:19th-century American painters]]
+[[Category:19th-century German painters]]
+[[Category:People of the Revolutions of 1848]]
+[[Category:German emigrants to the United States]]
+[[Category:Burials at Glenwood Cemetery (Washington, D.C.)]]
+[[Category:American people of German descent]]
+[[Category:American artists]]
+[[Category:19th-century painters of historical subjects]]
+[[Category:National Academy of Design members]]

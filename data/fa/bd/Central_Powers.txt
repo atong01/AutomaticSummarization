@@ -1,0 +1,332 @@
+{{Infobox former country
+| conventional_long_name = Central Powers
+| native_name = ''Mittelmächte<br>Központi hatalmak<br>İttifak Devletleri''<br>Централни сили
+| common_name = Central Powers
+| status = [[Military alliance]]
+| continent = Europe
+| year_start = 1914
+| year_end = 1918
+| flag = | image_flag =
+| image_map = WWI-re.png
+| image_map_caption = {{plainlist | style = padding-left: 0.6em; text-align: left; |
+*{{color box|#4EB763}} [[Allies of World War I|Allied Powers]] (and their colonies)
+*{{color box|#F6AC2A}} '''Central Powers''' (and their colonies)
+*{{color box|#AAAAAA}} Neutral Powers}}
+| capital = {{ublist|class=nowrap |''none'' {{smaller|(''[[de jure]]'')}} |[[Berlin]] {{smaller|(''[[de facto]]'')}}}}
+| era = World War I
+| date_pre = 7 October 1879
+| event_pre = [[Dual Alliance (1879)|Dual Alliance]]<br/>{{smaller|(Germany{{\}}Austria-Hungary)}}
+| event_start =
+| date_start = 28 June
+| event1 = {{nowrap|[[Ottoman–German Alliance]]}}
+| date_event1 = 2 August 1914
+| event2 = [[Bulgaria–Germany treaty (1915)|Bulgaria–Germany treaty]]
+| date_event2 = {{ublist|class=nowrap |6 September 1915 {{smaller|(secret)}} |14 October 1915 {{smaller|(public)}}}}
+| event_end = [[Dissolution (law)|Dissolved]]
+| date_end = 11 November
+| footnotes =
+}}
+[[File:Vierbund05h.jpg|thumb|285px|{{ublist|class=nowrap |Leaders of the Central Powers (left to right): |Kaiser [[Wilhelm II]] of Germany; |Kaiser and King [[Franz Joseph I of Austria|Franz Joseph]] of Austria-Hungary; |Sultan [[Mehmed V]] of the Ottoman Empire; |Tsar [[Ferdinand of Bulgaria]].}}]]
+
+The '''Central Powers''' ({{lang-de|Mittelmächte}}; {{lang-hu|Központi hatalmak}}{{px1}}; {{lang-tr|İttifak Devletleri'' or ''Bağlaşma Devletleri}}; {{lang-bg|Централни сили ''Tsentralni sili''}}), consisting of [[German Empire|Germany]], {{nowrap|[[Austria-Hungary]]}}, the [[Ottoman Empire]] and [[Kingdom of Bulgaria|Bulgaria]]&nbsp;&ndash; hence also known as the '''Quadruple Alliance'''<ref>[https://archive.org/details/outofmylife00hinduoft Hindenburg, Paul von: Out of my life. P. 113.]</ref> ({{lang-de|Vierbund}})&nbsp;&ndash;  was one of the two main factions during [[World War&nbsp;I]] (1914–18). It faced and was defeated by the [[Allies of World War I|Allied Powers]] that had formed around the [[Triple Entente]], after which it was dissolved.
+
+The Powers' origin was the [[Dual Alliance (1879)|alliance of Germany and Austria-Hungary in 1879]]. The Ottoman Empire and Bulgaria did not join until after World War I had begun.
+
+== Member states ==
+
+The Central Powers consisted of the [[German Empire]] and the [[Austria-Hungary|Austro-Hungarian Empire]] at the beginning of the war. The [[Ottoman Empire]] joined the Central Powers later in 1914. In 1915, the [[Kingdom of Bulgaria]] joined the alliance. The name "Central Powers" is derived from the location of these countries; all four (including the other groups that supported them except for [[Finland]] and [[Lithuania]]) were located between the [[Russian Empire]] in the east and [[French Third Republic|France]] and the [[United Kingdom of Great Britain and Ireland|United Kingdom]] in the west. [[Finland]], [[Azerbaijan]], and [[Lithuania]] joined them in 1918 before the war ended and after the Russian Empire collapsed.
+
+[[File:World War 1.gif|thumb|285px|{{ublist|class=nowrap|item_style=padding-bottom:0.2em; |'''Allied and Central Powers during World War I''' |{{color box|#088A08}} Allied Powers |{{color box|#01DF01}} Allied colonies, dominions, territories or occupations |{{color box|#FE9A2E}} Central Powers |{{color box|#F7BE81}} Central Powers' colonies or occupations |{{color box|#BDBDBD}} Neutral countries}}]]
+[[File:FR-WW1-1914.png|thumb|Europe in 1914.]]
+
+The Central Powers were composed of the following nations:<ref name="meyer">{{cite book |title=A World Undone: The Story of the Great War, 1914 to 1918 |last=Meyer |first=G.J. |year=2007 |publisher=Delta Trade Paperback |isbn=0-553-38240-3}}</ref>
+{| class="wikitable nowrap"
+! Nation                       !! Entered WWI 
+|-
+| {{flag|Austria-Hungary}}     || 28 July 1914 
+|-
+| {{flag|German Empire}}       || 1 August 1914 
+|-
+| {{flag|Ottoman Empire}}      || 2 August 1914 {{smaller|(secret)}}<br/>29 October 1914 {{smaller|(public)}} 
+|-
+| {{flag|Kingdom of Bulgaria}} || 14 October 1915 
+|-
+|}
+
+{| class="wikitable sortable" style="text-align:right;"
+|+ Economic statistics of the Central Powers&nbsp;<ref>[https://books.google.com/books?id=Y9GP9gtGlkgC&printsec=frontcover&source=gbs_v2_summary_r&cad=0 S.N. Broadberry, Mark Harrison. The Economics of World War I]. illustrated ed. Cambridge University Press, 2005, pp. 9-10.</ref>
+!class="unsortable"|
+! Population<br/><span style="font-size:95%;font-weight:normal;">(millions)</span>
+! Land area<br/><span style="font-size:95%;font-weight:normal;">(million [[Square kilometre|km{{ssup|2}}]])</span>
+! [[GDP]]<br/><span style="font-size:95%;font-weight:normal;">(billion [[United States dollar|$]])</span>
+|- style="white-space:nowrap;"
+|align="left"| {{flag|German Empire}}{{\}}plus [[German colonial empire|colonies]] (1914) || 67.0{{\}}77.7 || 0.5{{\}}3.5 || 244.3{{\}}250.7 
+|-
+|align="left"| {{flag|Austria–Hungary}} (1914)     ||  50.6 || 0.6 || 100.5 
+|-
+|align="left"| {{flag|Ottoman Empire}} (1914)      ||  23.0 || 1.8 ||  25.3 
+|-
+|align="left"| {{flag|Kingdom of Bulgaria}} (1915) ||   4.8 || 0.1 ||   7.4 
+|-
+|align="left"| '''Total (1914)'''                  || 151.3 || 6.0 || 376.6 
+|-
+|}
+
+{| class="wikitable sortable" style="text-align:right;"
+|+ Military statistics of the Central Powers&nbsp;<ref>[https://books.google.com/books?id=EHI3PCjDtsUC&pg=PA172&dq=Direct+and+Indirect+Costs+of+the+Great+World+War&hl=bg&cd=5#v=onepage&q=Direct%20and%20Indirect%20Costs%20of%20the%20Great%20World%20War&f=false Spencer Tucker. The European powers in the First World War: an encyclopedia. Taylor & Francis, 1996, pg. 173.]</ref>
+!class="unsortable"|
+!style="width:13.3%;"| Mobilized
+!style="width:13.3%;"| Killed in action
+!style="width:13.3%;"| Wounded
+!style="width:13.3%;"| Missing in action
+!style="width:13.3%;"| Total casualties
+! Percentage<!--of [whose?] casualties-->{{clarify|date=September 2014}}
+|-
+|align="left"| {{flag|German Empire}}       || 13,250,000 || 1,808,546 || 4,247,143 || 1,152,800 ||  7,208,489 || 66% 
+|-
+|align="left"| {{flag|Austria–Hungary}}     ||  7,800,000 ||   922,500 || 3,620,000 || 2,200,000 ||  6,742,500 || 86% 
+|-
+|align="left"| {{flag|Ottoman Empire}}      ||  2,998,321 ||   325,000 ||   400,000 ||   250,000 ||    975,000 || 34% 
+|-
+|align="left"| {{flag|Kingdom of Bulgaria}} ||  1,200,000 ||    75,844 ||   153,390 ||    27,029 ||    255,263 || 21% 
+|-
+|align="left"| '''Total'''                  || 25,257,321 || 3,131,890 || 8,419,533 || 3,629,829 || 15,181,252 || 66% 
+|-
+|}
+
+== Combatants ==
+
+===Germany===
+{{main|German Empire}}
+
+====War justifications====
+[[File:German infantry 1914 HD-SN-99-02296.JPEG|thumb|right|German soldiers in the battlefield in August 1914 on the Western Front shortly after the outbreak of war.]]
+[[File:Bundesarchiv Bild 183-R42025, Warschau, Einmarsch deutscher Kavallerie.jpg|thumb|right|German cavalry entering [[Warsaw]] in 1915.]]
+[[File:SMS Seydlitz damage.jpg|thumb|right|German cruiser ''[[SMS Seydlitz]]'' heavily damaged after the [[Battle of Jutland]].]]
+[[File:Fordi-2.jpg|thumb|right|German [[Fokker Dr.I]] fighter aircraft of ''[[Jasta]]'' 26 at [[Erchin]] in German-occupied territory of France.]]
+In early July 1914, in the aftermath of the assassination of Austro-Hungarian Archduke [[Franz Ferdinand]] and the immediate likelihood of war between Austria-Hungary and Serbia, [[Kaiser]] [[Wilhelm II]] and the German government informed the Austro-Hungarian government that Germany would uphold its alliance with Austria-Hungary and defend it from possible Russia intervention if a war between Austria-Hungary and Serbia took place.<ref name="Cashman, Greg 2007. P57">Cashman, Greg; Robinson, Leonard C. An Introduction to the Causes of War: Patterns of Interstate Conflict from World War I to Iraq. Rowman & Littlefield. 2007. P57</ref> When Russia enacted a [[general mobilization]], Germany viewed the act as provocative.<ref name="Meyer, G.J 1918. P39">Meyer, G.J. A World Undone: The Story of the Great War, 1914 to 1918. Delta Book. 2006. P39.</ref>  The Russian government promised Germany that its general mobilization did not mean preparation for war with Germany but was a reaction to the events between Austria-Hungary and Serbia.<ref name="Meyer, G.J 1918. P39"/> The German government regarded the Russian promise of no war with Germany to be nonsense in light of its general mobilization, and Germany in turn mobilized for war.<ref name="Meyer, G.J 1918. P39"/> On August 1, Germany sent an ultimatum to Russia stating that since both Germany and Russia were in a state of military mobilization, an effective state of war existed between the two countries.<ref name="Meyer, G.J 1918. P95">Meyer, G.J. A World Undone: The Story of the Great War, 1914 to 1918. Delta Book. 2006. P95.</ref> Later that day, France, an ally of Russia, declared a state of general mobilization,<ref name="Meyer, G.J 1918. P95"/>
+
+In August 1914, Germany waged war on Russia, the German government justified military action against Russia as necessary because of Russian aggression as demonstrated by the mobilization of the Russian army that had resulted in Germany mobilizing in response.<ref>Hagen, William W. German History in Modern Times: Four Lives of the Nation. P228.</ref>
+
+After Germany declared war on Russia, France with its alliance with Russia prepared a general mobilization in expectation of war. On 3 August 1914, Germany responded to this action by declaring war on France.<ref>Tucker, Spencer C. A Global Chronology of Conflict: From the Ancient World to the Modern Middle East: From the Ancient World to the Modern Middle East. ABC-CLIO. 2009. P1556.</ref> Germany facing a two-front war enacted what was known as the [[Schlieffen Plan]], that involved German armed forces needing to move through Belgium and swing south into France and towards the French capital of Paris. This plan was hoped to quickly gain victory against the French and allow German forces to concentrate on the Eastern Front. Belgium was a neutral country and would not accept German forces crossing its territory. Germany disregarded Belgian neutrality and invaded the country to launch an offensive towards Paris. This caused [[United Kingdom|Great Britain]] to declare war against the German Empire, as the action violated the [[Treaty of London (1839)|Treaty of London]] that both nations signed in 1839 guaranteeing Belgian neutrality and defense of the kingdom if a nation reneged.
+
+Subsequently several states declared war on Germany,  in late August 1914; [[Kingdom of Italy|Italy]] declaring war on Austria-Hungary in 1915 and Germany on August 27, 1916; the [[United States]] declaring war on Germany on April 6, 1917 and [[Kingdom of Greece|Greece]] declaring war on Germany in July 1917.
+
+====Colonies and dependencies====
+{{main|German colonial empire}}
+; Europe
+Upon its founding in 1871, the German Empire controlled [[Alsace-Lorraine]] as an "imperial territory" incorporated from France after the [[Franco-Prussian War]]. It was held as part of Germany's sovereign territory.
+
+; Africa
+Germany held multiple African colonies at the time of World War I. All of Germany's African colonies were invaded and occupied by Allied forces during the war.
+
+[[Kamerun|Cameroon]], [[German East Africa]], and [[German Southwest Africa]] were German colonies in Africa. [[Togoland]] was a German protectorate in Africa.
+
+; Asia
+[[German New Guinea]] was a German protectorate in the Pacific. It was occupied by Australian forces in 1914.
+
+The [[Kiautschou Bay concession]] was a German dependency in East Asia leased from China in 1898. It was occupied by Japanese forces following the [[Siege of Tsingtao]].
+
+===Austria-Hungary===
+{{main|Austria-Hungary}}
+[[File:KuK Stosstruppen.jpg|thumb|right|Austro-Hungarian soldiers in trench on the Italian front during World War I.]]
+[[File:Austrian troops marching up Mt. Zion, 1916.JPG|thumb|right|Austro-Hungarian soldiers marching up [[Mount Zion]] in [[Jerusalem]] in the Ottoman Empire, during the Middle Eastern campaign.]]
+
+====War justifications====
+Austria-Hungary regarded the assassination of Archduke Franz Ferdinand as being orchestrated with the assistance of [[Kingdom of Serbia|Serbia]].<ref name="Cashman, Greg 2007. P57"/> The country viewed the assassination as setting a dangerous precedent of encouraging the country's [[South Slavs|South Slav]] population to rebel and threaten to tear apart the multinational country.<ref name="Meyer, G.J 1918. P39"/> Austria-Hungary formally sent an ultimatum to Serbia demanding a full-scale investigation of Serbian government complicity in the assassination, and complete compliance by Serbia in agreeing to the terms demanded by Austria-Hungary.<ref name="Cashman, Greg 2007. P57"/> Serbia submitted to accept most of the demands, however Austria-Hungary viewed this as insufficient and used this lack of full compliance to justify military intervention.<ref name="Cashman, Greg 2007. P61">Cashman, Greg; Robinson, Leonard C. An Introduction to the Causes of War: Patterns of Interstate Conflict from World War I to Iraq. Rowman & Littlefield. 2007. P61</ref> These demands have been viewed as a diplomatic cover for what was going to be an inevitable Austro-Hungarian declaration of war on Serbia.<ref name="Cashman, Greg 2007. P61"/>
+
+Austria-Hungary had been warned by Russia that the Russian government would not tolerate Austria-Hungary crushing Serbia.<ref name="Cashman, Greg 2007. P61"/> However, with Germany supporting Austria-Hungary's actions, the Austro-Hungarian government hoped that Russia would not intervene and that the conflict with Serbia would be a regional conflict.<ref name="Cashman, Greg 2007. P57"/>
+
+Austria-Hungary's invasion of Serbia resulted in Russia declaring war on the country and Germany in turn declared war on Russia, setting off the beginning of the clash of alliances that resulted in the World War.
+
+; Territory
+Austria-Hungary was internally divided into two states with their own governments, joined in communion through the Habsburg throne. Austrian [[Cisleithania]] contained various duchies and principalities but also the [[Kingdom of Bohemia]], the [[Kingdom of Dalmatia]], the [[Kingdom of Galicia and Lodomeria]]. Hungarian [[Transleithania]] comprised the [[Kingdom of Hungary]] and the [[Kingdom of Croatia-Slavonia]]. In [[Bosnia and Herzegovina in Austria-Hungary|Bosnia and Herzegovina]] sovereign authority was shared by both Austria and Hungary.
+
+===Ottoman Empire===
+{{main|Ottoman Empire}}
+[[File:Muster on the Plain of Esdraelon 1914.jpg|thumb|right|Ottoman soldiers in military preparations for an assault on the [[Suez Canal]] in 1914.]]
+[[File:Bundesarchiv Bild 146-1981-137-08A, Konstantinopel, Besuch Kaiser Wilhelm II..jpg|thumb|Kaiser Wilhelm II visiting the Turkish cruiser ''Yavuz Sultan Selim'' during his stay in [[Istanbul]] in October 1917 as a guest of Sultan [[Mehmed V]].]]
+
+====War justifications====
+The Ottoman Empire joined the war on the side of the Central Powers in November 1914. The Ottoman Empire had gained strong economic connections with Germany through the Berlin-to-Baghdad railway project that was still incomplete at the time.<ref>Hickey, Michael. The First World War: Volume 4 The Mediterranean Front 1914-1923. P31.</ref> The Ottoman Empire made a formal alliance with Germany signed on 2 August 1914.<ref name="Afflerbach, Holger 2012. P. 292">Afflerbach, Holger; David Stevenson, David. An Improbable War: The Outbreak of World War 1 and European Political Culture. Berghan Books. 2012. P. 292.</ref> The alliance treaty expected that the Ottoman Empire would become involved in the conflict in a short amount of time.<ref name="Afflerbach, Holger 2012. P. 292"/> However, for the first several months of the war the Ottoman Empire maintained neutrality though it allowed a German naval squadron to enter and stay near the strait of [[Bosphorus]].<ref name="Kent, Mary 1998. P119">Kent, Mary. The Great Powers and the End of the Ottoman Empire. end ed. Frank Cass. 1998. P119</ref> Ottoman officials informed the German government that the country needed time to prepare for conflict.<ref name="Kent, Mary 1998. P119"/> Germany provided financial aid and weapons shipments to the Ottoman Empire.<ref name="Afflerbach, Holger 2012. P. 292"/>
+
+After pressure escalated from the German government demanding that the Ottoman Empire fulfill its treaty obligations, or else Germany would expel the country from the alliance and terminate economic and military assistance, the Ottoman government entered the war with the recently acquired cruisers from Germany, the ''[[SMS Goeben|Yavuz Sultan Selim]]'' (formerly ''SMS Goeben'') and the ''[[SMS Breslau|Midilli]]'' (formerly ''SMS Breslau'') launching a naval raid on the Russian port of [[Odessa]], thus engaging in a military action in accordance with its alliance obligations with Germany. [[Russian Empire|Russia]] and the Triple Entente declared war on the Ottoman Empire.<ref>Afflerbach, Holger; David Stevenson, David. An Improbable War: The Outbreak of World War I and European Political Culture. Berghan Books. 2012. P. 293.</ref>
+
+===Bulgaria===
+{{main|Kingdom of Bulgaria}}
+{{see also|Bulgaria during World War I|}}
+
+====War justifications====
+[[File:Bulgaria southern front.jpg|thumb|right|Bulgarian soldiers firing at an incoming aircraft.]]
+Bulgaria was still resentful after its [[Second Balkan War|defeat]] in July 1913 at the hands of Serbia, [[Kingdom of Greece|Greece]] and [[Kingdom of Romania|Romania]]. It signed [[Ottoman–Bulgarian alliance|a treaty of defensive alliance]] with the Ottoman Empire on 19 August 1914. It was the last country to join the Central Powers, which Bulgaria did in October 1915 by declaring war on Serbia. It invaded Serbia in conjunction with [[German Army (German Empire)|German]] and [[Austro-Hungarian Army|Austro-Hungarian forces]]. Bulgaria held irredentist aims on the region of [[Vardar Macedonia]] held by Serbia.
+
+== Declarations of war ==
+{| class="wikitable nowrap"
+! Date !! Declared by !! Declared against
+|-
+!colspan="3"| 1915 
+|-
+| October 14 || {{flagicon|Kingdom of Bulgaria}} Bulgaria || {{flagicon|Kingdom of Serbia}} Serbia 
+|-
+| October 15 || {{flagicon|United Kingdom of Great Britain and Ireland}} United Kingdom<br/>{{flagicon|Kingdom of Montenegro}} Montenegro || {{flagicon|Kingdom of Bulgaria}} Bulgaria 
+|-
+| October 16 || {{flagicon|France}} France || {{flagicon|Kingdom of Bulgaria}} Bulgaria 
+|-
+| October 19 || {{flagicon|Kingdom of Italy}} Italy<br/>{{flagicon|Russian Empire}} Russia || {{flagicon|Kingdom of Bulgaria}} Bulgaria 
+|-
+|-
+!colspan="3"| 1916 
+|-
+| September 1 || {{flagicon|Kingdom of Bulgaria}} Bulgaria || {{flagicon|Kingdom of Romania}} Romania 
+|-
+|-
+!colspan="3"| 1917 
+|-
+| July 2 || {{flagicon|Kingdom of Greece}} Greece || {{flagicon|Kingdom of Bulgaria}} Bulgaria 
+|-
+|}
+
+== Co-belligerents ==
+
+===Dervish State===
+The [[Dervish State]] was a rebel Somali state seeking independence of Somali territories. Dervish forces fought against Italian and British forces in [[Italian Somaliland]] and [[British Somaliland]] during [[World War I]] in the [[Somaliland Campaign]]. The Dervish State received support from Germany and the Ottoman Empire.
+
+===South African Republic===
+In opposition to the [[Union of South Africa]], which had joined the war, [[Boer]] rebels founded the [[South African Republic (1914–15)|South African Republic]] in 1914 and engaged in the [[Maritz Rebellion]]. Germany assisted the rebels, and the rebels operated in and out of the German colony of [[German South-West Africa]]. The rebels were defeated by British imperial forces.
+
+===Sultanate of Darfur===
+The [[Sultanate of Darfur]] forces fought against British forces in [[Anglo-Egyptian Sudan]] during [[World War I]] in the [[Anglo-Egyptian Darfur Expedition]].
+
+== Client states ==
+
+During 1917 and 1918, the [[Grand Duchy of Finland|Finns]] under [[Carl Gustaf Emil Mannerheim]] and [[Lithuania]]n nationalists fought Russia for a [[Co-belligerence|common cause]]. With the Bolshevik [[Ukrainian–Soviet War|attack]] of late 1917, the [[General Secretariat of Ukraine]] sought military protection first from the Central Powers and later from the [[Allied intervention in the Russian Civil War|armed forces of the Entente]].
+
+The Ottoman Empire also had its own allies in [[Azerbaijan Democratic Republic|Azerbaijan]] and the [[Mountainous Republic of the Northern Caucasus|Northern Caucasus]]. The three nations fought alongside each other under the [[Ottoman Army of Islam|Army of Islam]] in the [[Battle of Baku]].
+
+===German client states===
+; Belarus {{nobold|(Belarusian People's Republic)}}
+: The [[Belarusian People's Republic]] was a client state of Germany created in 1918.
+
+; Courland and Semigallia
+: The [[Duchy of Courland and Semigallia (1918)|Duchy of Courland and Semigallia]] was a client state of Germany created in 1918.
+
+; Don {{nobold|(Don Republic)}}
+: The [[Don Republic]] was closely associated with the German Empire and fought against the [[Bolshevik]]s.
+
+; Finland {{nobold|(Kingdom of Finland)}}
+: The [[Kingdom of Finland (1918)|Kingdom of Finland]] was a client state of Germany created in 1918
+
+; Georgia {{nobold|(Democratic Republic of Georgia)}}
+: In 1918, the [[Democratic Republic of Georgia]], facing [[Bolshevik]] revolution and opposition from the Georgian [[Menshevik]]s and nationalists, was occupied by the German Empire, which expelled the Bolsheviks and supported the Mensheviks.
+
+; Lithuania {{nobold|(Kingdom of Lithuania)}}
+: The [[Kingdom of Lithuania (1918)|Kingdom of Lithuania]] was a client state of Germany created in 1918.
+
+; Northern Caucasus {{nobold|(Mountainous Republic of the Northern Caucasus)}}
+: The [[Mountainous Republic of the Northern Caucasus]] was associated with the Central Powers.
+
+; Poland {{nobold|(Kingdom of Poland)}}
+: The [[Kingdom of Poland (1916-1918)|Kingdom of Poland]] was a client state of Germany created in 1916.<ref>The Regency Kingdom has been referred to as a [[puppet state]] by Norman Davies in ''Europe: A history'' ([https://books.google.com/books?id=jrVW9W9eiYMC&pg=PA910&dq=%22Kingdom+of+Poland%22+1916+puppet&as_brr=3&sig=ACfU3U36q9omC0a0E-_kH_82ad24_4tZzQ Google Print, p. 910]); by Jerzy Lukowski and Hubert Zawadzki in ''A Concise History of Poland'' ([https://books.google.com/books?id=HMylRh-wHWEC&pg=PA218 Google Print, p. 218]); by Piotr J. Wroblel in ''Chronology of Polish History'' and ''Nation and History'' ([https://books.google.com/books?id=lzWHDEE6OqkC&pg=PA454 Google Print, p. 454]); and by Raymond Leslie Buell in ''Poland: Key to Europe'' ([https://books.google.com/books?id=-KcfGbrKptoC&dq=Poland+Key+to+Europe&printsec=frontcover&source=bl&ots=FD__x2FPA9&sig=q5DV-zsbYtatQg6k-2pBp5Z4ddA&hl=en&ei=dIraSa2kIqrrlQfOq4H6Bw&sa=X&oi=book_result&ct=result&resnum=2#PPA68,M1 Google Print, p. 68]: "The Polish Kingdom... was merely a pawn [of Germany]").</ref> This government was recognized by the emperors of Germany and [[Austria-Hungary]] in November 1916, and it adopted a constitution in 1917.<ref>J. M. Roberts. Europe 1880-1945. P. 232.</ref> The decision to create a state of Poland was taken by Germany in order to attempt to legitimize its military occupation amongst the Polish inhabitants, following upon German propaganda sent to Polish inhabitants in 1915 that German soldiers were arriving as liberators to free Poland from subjugation by [[Russian Empire|Russia]].<ref>Aviel Roshwald. Ethnic Nationalism and the Fall of Empires: Central Europe, the Middle East and Russia, 1914-23. Routledge, 2002. P. 117.</ref>
+: The state was utilized by the German government alongside punitive threats to induce Polish landowners living in the German-occupied Baltic territories to move to the state and sell their Baltic property to Germans in exchange for moving to Poland, and efforts were made to induce similar emigration of Poles from Prussia to the state.<ref>Annemarie Sammartino. The Impossible Border: Germany and the East, 1914-1922. Cornell University, 2010. P. 36-37.</ref>
+
+; Ukraine {{nobold|(Ukrainian State)}}
+: The [[Ukrainian State]] was a client state of Germany led by [[Pavlo Skoropadskyi]], who overthrew the government of the [[Ukrainian People's Republic]].<ref>Kataryna Wolczuk. The Moulding of Ukraine: The Constitutional Politics of State Formation. P37.</ref>
+
+; United Baltic Duchy
+: The [[United Baltic Duchy]] was a proposed client state of Germany created in 1918
+
+===Ottoman client states===
+; Azerbaijan {{nobold|(Azerbaijan Democratic Republic)}}
+: In 1918, the [[Azerbaijan Democratic Republic]], facing Bolshevik revolution and opposition from the Muslim [[Musavat Party]], was then occupied by the Ottoman Empire, which expelled the Bolsheviks while supporting the Musavat Party.<ref name="ReferenceA">Zvi Lerman, David Sedik. Rural Transition in Azerbaijan. P12.</ref> The Ottoman Empire maintained a presence in Azerbaijan until the end of the war in November 1918.<ref name="ReferenceA"/>
+
+; Jabal Shammar
+: [[Emirate of Jabal Shammar|Jabal Shammar]] was an Arab state in the Middle East that was closely associated with the Ottoman Empire.<ref>Hala Mundhir Fattah. The Politics of Regional Trade in Iraq, Arabia, and the Gulf, 1745-1900. P121.</ref>
+
+== Non-state combatants ==
+{{see also|Zimmermann Telegram}}
+Other movements supported the efforts of the Central Powers for their own reasons, such as the [[Irish Republican Brotherhood|Irish Nationalists]] who launched the [[Easter Rising]] in [[Dublin]] in April 1916; they referred to their "gallant allies in Europe". In 1914, [[Józef Piłsudski]] was permitted by Germany and Austria-Hungary to form independent [[Polish Legions in World War I|Polish legions]]. Piłsudski wanted his legions to help the Central Powers defeat Russia and then side with France and the UK and win the war with them.
+
+{{Columns |colwidth=<!--17.0em-->auto
+| col1 =
+* [[Kaocen Revolt]]
+* [[Zaian War]]
+* [[Irish Republican Brotherhood]]
+* [[Hindu–German Conspiracy]]
+| col2 =
+* [[Niedermayer-Hentig Expedition]]
+* [[Senussi Campaign]]
+* [[Polish Legions in World War I|Polish Legions]]
+* [[Volta-Bani War]]
+}}
+
+[[File:WorldWarI-MilitaryDeaths-CentralPowers-Piechart.svg|thumb|Central Powers' military deaths.]]
+
+== Armistice and treaties ==
+[[File:Collapse of the Central Powers.jpg|thumb|The collapse of the Central Powers in 1918.]]
+
+Bulgaria signed an [[armistice]] with the Allies on 29 September 1918, following a successful [[Vardar Offensive|Allied advance]] in [[Macedonia (region)|Macedonia]]. The Ottoman Empire followed suit on 30 October 1918 in the face of British and [[Arab]] gains in [[Ottoman Palestine|Palestine]] and [[Syria]]. [[German Austria|Austria]] and [[Hungarian Democratic Republic|Hungary]] concluded ceasefires separately during the first week of November following the disintegration of the [[Habsburg Monarchy|Habsburg Empire]] and the [[Battle of Vittorio Veneto|Italian offensive at Vittorio Veneto]]; Germany signed the armistice ending the war on the morning of 11 November 1918 after the [[Hundred Days Offensive]], and a succession of advances by [[New Zealand]], [[Australia]]n, [[Canada|Canadian]], [[Belgium|Belgian]], [[United Kingdom of Great Britain and Ireland|British]], [[France|French]] and [[United States|US]] forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties.<ref>{{cite book |editor1-last=Davis |editor1-first=Robert T. |title=U.S. Foreign Policy and National Security: Chronology and Index for the 20th Century |publisher=Praeger Security International |location=Santa Barbara, California |volume=1 |year=2010 |page=[https://books.google.com/books?id=gsM1JiXAMJEC&pg=PA49 49] |isbn=978-0-313-38385-4}}</ref>
+{| 
+|- valign="top"
+|
+{| class="wikitable sortable"
+|+ Central Powers by date of [[armistice]]
+!class="unsortable"| Flag
+! Name !! Date
+|-
+| {{flagicon|Bulgaria|1878}}   || [[Kingdom of Bulgaria|Bulgaria]] || {{dts|1918|09|29|format=dmy}} 
+|-
+| {{flagicon|Ottoman Empire}}  || [[Ottoman Empire]]  || {{dts|1918|10|30|format=dmy}} 
+|-
+| {{flagicon|Austria-Hungary}} || [[Austria-Hungary]] || {{dts|1918|11|4|format=dmy}}  
+|-
+| {{flagicon|German Empire}}   || [[German Empire]]   || {{dts|1918|11|11|format=dmy}} 
+|-
+|}
+|style="padding-left:2.0em;"|
+{| class="wikitable sortable"
+|+ Central Powers treaties
+!class="unsortable"| Flag
+! Name !! Treaty of
+|-
+| {{flagicon|Austria}}             || [[German Austria|Austria]]       || [[Treaty of Saint-Germain-en-Laye (1919)|Saint-Germain]] 
+|-
+| {{flagicon|Kingdom of Bulgaria}} || [[Kingdom of Bulgaria|Bulgaria]] || [[Treaty of Neuilly-sur-Seine|Neuilly]] 
+|-
+| {{flagicon|Weimar Republic}}     || [[Weimar Republic|Germany]]      || [[Treaty of Versailles|Versailles]]     
+|-
+| {{flagicon|Hungary|civil}}       || [[Hungarian Democratic Republic|Hungary]] || [[Treaty of Trianon|Trianon]]  
+|-
+| {{flagicon|Ottoman Empire}}<br/>{{flagicon|Turkey}} || [[Ottoman Empire]]<br/>[[Turkey]] || [[Treaty of Sèvres|Sèvres]]<br/>[[Treaty of Lausanne|Lausanne]]
+|}
+|}
+
+== Leaders ==
+[[File:CentralPowersPoster3.jpg|thumb|right|A postcard depicting the flags of the Central Powers' countries.]]
+
+{{Main|Leaders of the Central Powers of World War I}}
+
+== See also ==
+* [[Axis powers]], Germany's allies during [[World War II]]
+* [[Participants in World War I]]
+* [[Treaty of Versailles]]
+* [[Triple Entente]]
+
+== References ==
+{{reflist}}
+
+{{World War I}}
+{{WWI history by nation}}
+{{Portal bar|World War I}}
+
+[[Category:Austria-Hungary in World War I]]
+[[Category:Military alliances involving Austria-Hungary]]
+[[Category:German Empire in World War I]]
+[[Category:Military alliances involving Bulgaria]]
+[[Category:Military alliances involving the Ottoman Empire]]
+[[Category:World War I]]
+[[Category:20th-century military alliances]]
+[[Category:Former countries in Asia]]
+[[Category:Former countries in Africa]]
+[[Category:Ottoman Empire in World War I]]
+[[Category:Bulgaria in World War I]]
+[[Category:Military alliances involving the German Empire]]

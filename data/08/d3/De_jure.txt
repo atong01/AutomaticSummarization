@@ -1,0 +1,28 @@
+{{Distinguish2|[[Du jour]]}}
+{{refimprove|date=April 2014}}
+{{wiktionary}}
+'''''De jure''''' ({{IPAc-en|d|i-|_|ˈ|dʒ|ʊər|iː|}}, {{IPAc-en|d|eɪ|-}};<ref>{{cite web|url=http://dictionary.reference.com/browse/de+jure|title=De jure - Define De Jure at Dictionary.com|work=Dictionary.com|accessdate=21 September 2014}}</ref><ref>{{cite web|url=http://www.oxfordlearnersdictionaries.com/definition/english/de-jure|title=de jure - Definition and pronunciation - Oxford Advanced Learner's Dictionary at OxfordLearnersDictionaries.com|publisher=|accessdate=21 September 2014}}</ref> [[Classical Latin]]: '''''de iúre''''' {{IPA-la|dɛ ˈjuːrɛ|}}) is an expression that means "of right, by right, according to law" (literally "from law"),<ref>See I. 5. {{cite OED2|de}}</ref> as contrasted with ''[[de facto]]'', which means "in fact, in reality" (literally "from fact"). The terms ''de jure'' and ''de facto'' are used instead of "in law" and "in practice", respectively, when one is describing [[politics|political]] or legal situations.
+
+In a legal context, ''de jure'' is contrasted to ''de facto'' practices, where, for example, the people obey a contract as though there were a law enforcing it, yet there is no such law.  A process known as "[[desuetude]]" may allow (de facto) practices to replace (de jure) laws that have fallen out of favor, locally.
+
+==Examples==
+It is possible to have multiple simultaneous conflicting (''de jure'') legalities, possibly none of which is in force (''de facto''). After seizing power in 1526, [[Ahmad ibn Ibrahim al-Ghazi]] made his brother, [[Umar Din]], the lawful (''de jure'') [[Sultan]] of [[Adal Sultanate|Adal]]. Ahmad, however, was in practice (''de facto'') the actual Sultan, and his brother was a figurehead.<ref name="bvhlgfi">{{cite web|title=Aḥmad Grāñ |url=http://www.britannica.com/EBchecked/topic/10110/Ahmad-Gran |publisher=Encyclopædia Britannica, Inc. |accessdate=2014-05-04}}</ref> Between 1805 and 1914, the [[Muhammad Ali dynasty|ruling dynasty]] of [[Khedivate of Egypt|Egypt]] ruled as ''de jure'' [[viceroy]]s of the [[Ottoman Empire]], but acted as ''de facto'' independent rulers who maintained a [[polite fiction]] of Ottoman [[suzerainty]]. However, from about 1882, the rulers had only ''de jure'' rule over Egypt, as it had by then become a British [[puppet state]]. Thus, Egypt was by Ottoman law ''de jure'' a province of the Ottoman Empire, but ''de facto'' was part of the [[British Empire]].
+
+In American law, particularly after ''[[Brown v. Board of Education]]'' (1954), the difference between ''de facto'' segregation (segregation that existed because of the voluntary associations and neighborhoods) and ''de jure'' segregation (segregation that existed because of local laws that mandated the segregation), became important distinctions for court-mandated remedial purposes.
+
+In Canada, [[cannabis (drug)|cannabis]] is illegal in law, but there is widespread use in practice, especially in British Columbia. It is strikingly similar to the existence of speakeasies during [[prohibition]], wherein enforcement of laws departed from the letter, because of widespread and popular practice.
+
+==See also==
+* [[List of Latin phrases]]
+
+==References==
+{{Reflist|2}}
+
+<!-- interwiki kept as it links to a section -->
+
+[[Category:Latin legal terms]]
+
+
+{{Latin-legal-phrase-stub}}
+
+[[fr:Liste de locutions latines#D]]

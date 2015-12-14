@@ -1,0 +1,46 @@
+{{other uses}}
+The '''dyne''' (symbol "dyn", from Greek δύναμις, ''dynamis'', meaning power, force) is a [[Units of measurement|unit]] of [[Force (physics)|force]] specified in the [[centimetre–gram–second system of units]] (CGS), a predecessor of the modern [[International System of Units|SI]]. One dyne is equal to 10 [[micro-|µ]][[newton (unit)|N]] (micronewtons), or to 10 nsn (nano[[sthene]]s) in the old [[metre–tonne–second system of units]]. Equivalently, the dyne is defined as "the force required to accelerate a [[mass]] of one [[gram]] at a rate of one [[centimetre]] per [[second]] squared": 
+
+: 1 dyn = 1 g⋅cm/s<sup>2</sup> = 10<sup>−5</sup> kg⋅m/s<sup>2</sup> = 10<sup>−5</sup> N
+
+: 1 N = 1&nbsp;kg⋅m/s<sup>2</sup> = 10<sup>5</sup> g⋅cm/s<sup>2</sup> = 10<sup>5</sup> dyn
+
+The '''dyne per centimetre''' is the unit traditionally used to measure [[surface tension]]. For example, the surface tension of distilled water is 72 dyn/cm at 25&nbsp;°C (77&nbsp;°F);<ref>[http://www.dow.com/PublishedLiterature/dh_00e5/09002f13800e5fdb.pdf?filepath=/PublishToInternet/InternetDOWCOM/surfactants/pdfs/noreg/119-01514.pdf&fromPage=BasicSearch ]{{dead link|date=April 2012}}</ref> in SI units this is {{val|72|e=-3|u=N/m}} or {{val|72|u=mN/m}}.  
+
+{{Units of force}}
+
+== History ==
+The names '''dyne''' and [[erg]] were first proposed as units of force and energy in 1861 by [[Joseph David Everett]].<ref name=Rossiter>{{cite book|last=Rossiter|first=William|title=Dictionary of Scientific Terms|year=1879|publisher=William Collins, Sons, and Coy|location=London and Glasgow|page=109}}</ref> The natural units listed in the same text (see Farad in this reference), are those of the metre-gram-second amu.{{Clarify|date=February 2012}}
+
+The names were reused in 1873 by a Committee of the British Association<ref>{{cite conference 
+|url= http://www.biodiversitylibrary.org/item/94452#page/7/mode/1up
+|title=First Report of the Committee for the Selection and Nomenclature of Dynamical and Electrical Units 
+|date=September 1873
+|conference= Forty-third Meeting of the British Association for the Advancement of Science
+|editor-first= Professor 
+|editor-last = Everett
+|first1=Sir W
+|last1 = Thomson
+|first2 = Foster
+|last2 = Professor GC
+|first3 = Professor JC
+|last3 = Maxwell
+|first4 = Mr GJ
+|last4 = Stoney
+|first5 = Jenkin
+|last5 = Professor Flemming
+|first6 = Dr
+|last6 = Siemens
+|first7 = Mr FJ 
+|last7 = Bramwell  
+|publisher= Johna Murray
+|location= Bradford
+|page = 223
+|accessdate= 8 April 2012}}</ref> (of which Everett was reporter) that proposed using the centimetre-gram-second system for electrical and dynamical systems.
+
+== References ==
+{{reflist}}
+
+{{Wikisource1914NSRW|Dyne}}
+
+[[Category:Centimetre–gram–second system of units]]

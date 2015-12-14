@@ -1,0 +1,4039 @@
+{{Historical populations
+|type =
+|source = [[Statistics Canada]], 1851&ndash;1941<ref>{{cite web | title=Estimated population of Canada, 1605 to present | url=http://www.statcan.gc.ca/pub/98-187-x/4151287-eng.htm | publisher=[[Statistics Canada]] | date=March 20, 2013 | accessdate=February 8, 2014}}</ref> and 1951&ndash;2011<ref>{{cite web | title=CANSIM Table 051-0005, Estimates of population, Canada, provinces and territories, quarterly (persons) | url=http://www5.statcan.gc.ca/cansim/a26?lang=eng&retrLang=eng&id=0510005&paSer=&pattern=&stByVal=1&p1=1&p2=-1&tabMode=dataTable&csid= | publisher=Statistics Canada | date=December 18, 2013 | accessdate=February 8, 2014}}</ref>
+|footnote = <small>Starting in 1951, figures represent third quarter populations (July 1).</small>
+|[[Population of Canada by year|1851]] | 2414519
+|[[Population of Canada by year|1861]] | 3174442
+|[[Population of Canada by year|1871]] | 3689000
+|[[Population of Canada by year|1881]] | 4325000
+|[[Population of Canada by year|1891]] | 4833000
+|[[Population of Canada by year|1901]] | 5371000
+|[[Population of Canada by year|1911]] | 7207000
+|[[Population of Canada by year|1921]] | 8788000
+|[[Population of Canada by year|1931]] | 10377000
+|[[Population of Canada by year|1941]] | 11507000
+|[[Population of Canada by year|1951]] | 14050000
+|[[Population of Canada by year|1961]] | 18271000
+|[[Population of Canada by year|1971]] | 21962032
+|[[Population of Canada by year|1981]] | 24819915
+|[[Population of Canada by year|1991]] | 28037420
+|[[Population of Canada by year|2001]] | 31020596
+|[[Population of Canada by year|2011]] | 34342780
+}}
+This article is about the [[demographics|demographic]] features of the [[population of Canada]], including [[population density]], [[Ethnic group|ethnicity]], religious affiliations and other aspects of the population, the [[Canadians|People of Canada]].
+
+== Population ==
+{{Main|Population of Canada}}
+The [[Canada 2011 Census]] had a total population count of 33,476,688 individuals, making up approximately 0.5% of the world's total population.<ref>{{cite web|title=2011 Census Profile|url=http://www12.statcan.gc.ca/census-recensement/index-eng.cfm|publisher=Statistics Canada|accessdate=2012-03-08| archiveurl = http://www.webcitation.org/65jT2Icwm | archivedate = 2012-02-25| deadurl=no}}</ref><ref>{{cite web|title=Environment — Greenhouse Gases (Greenhouse Gas Emissions per Person) |url=http://www4.hrsdc.gc.ca/.3ndic.1t.4r@-eng.jsp?iid=64|publisher=Human Resources and Skills Development Canada|year=2010|accessdate=23 June 2010}}</ref> Estimates have the population around 35 million as of December 2012.<ref name="Estimate">{{cite news |author= Green, Jeff |newspaper=The Toronto Star |url=http://www.thestar.com/news/canada/2012/12/06/canadas_population_hits_35_million.html |title=Canada’s population hits 35 million|date=December 6, 2012|accessdate= 16 September 2013}}</ref>
+
+=== Provinces and territories ===
+{{Main|List of Canadian provinces and territories by population}}
+{| class="wikitable sortable"
+|- style="background:pink;"
+! Province or territory
+! Population
+! Percentage
+! Total land<br>area (km<sup>2</sup>)
+! Density<br>(people/km<sup>2</sup>)
+! [[Canadian House of Commons|House of<br>Commons]] seats
+! People per<br>seat
+|- style="text-align:center;"
+| style="text-align:left;"| Ontario
+| style="text-align:right;"|{{Number table sorting|12851821}}
+| 38.39%
+| style="text-align:right;"|{{Number table sorting|1076395}}
+| 12.19
+| 121
+| {{nts|{{#expr:12851821/121 round 0}}}}
+|- style="text-align:center;"
+| style="text-align:left;"| Quebec
+| style="text-align:right;"|{{Number table sorting|7903001}}
+| 23.61%
+| style="text-align:right;"|{{Number table sorting|1365128}}
+| 5.76
+| 78
+| {{nts|{{#expr:7903001/78 round 0}}}}
+|- style="text-align:center;"
+| style="text-align:left;"| British Columbia
+| style="text-align:right;"|{{Number table sorting|4400057}}
+| 13.14%
+| style="text-align:right;"|{{Number table sorting|925186}}
+| 4.84
+| 42
+| {{nts|{{#expr:4400057/42 round 0}}}}
+|- style="text-align:center;"
+| style="text-align:left;"| Alberta
+| style="text-align:right;"|{{Number table sorting|3645257}}
+| 10.89%
+| style="text-align:right;"|{{Number table sorting|642317}}
+| 5.77
+| 34
+| {{nts|{{#expr:3645257/34 round 0}}}}
+|- style="text-align:center;"
+| style="text-align:left;"| Manitoba
+| style="text-align:right;"|{{Number table sorting|1208268}}
+| 3.61%
+| style="text-align:right;"|{{Number table sorting|553556}}
+| 2.22
+| 14
+| {{nts|{{#expr:1208268/14 round 0}}}}
+|- style="text-align:center;"
+| style="text-align:left;"| Saskatchewan
+| style="text-align:right;"|{{Number table sorting|1033381}}
+| 3.09%
+| style="text-align:right;"|{{Number table sorting|591670}}
+| 1.75
+| 14
+| {{nts|{{#expr:1033381/14 round 0}}}}
+|- style="text-align:center;"
+| style="text-align:left;"| Nova Scotia
+| style="text-align:right;"|{{Number table sorting|921727}}
+| 2.75%
+| style="text-align:right;"|{{Number table sorting|53338}}
+| 17.63
+| 11
+| {{nts|{{#expr:921727/11 round 0}}}}
+|- style="text-align:center;"
+| style="text-align:left;"| New Brunswick
+| style="text-align:right;"|{{Number table sorting|751171}}
+| 2.24%
+| style="text-align:right;"|{{Number table sorting|71450}}
+| 10.50
+| 10
+| {{nts|{{#expr:751171/10 round 0}}}}
+|- style="text-align:center;"
+| align="left" nowrap| Newfoundland and Labrador
+| style="text-align:right;"|{{Number table sorting|514536}}
+| 1.54%
+| style="text-align:right;"|{{Number table sorting|373872}}
+| 1.36
+| 7
+| {{nts|{{#expr:514536/7 round 0}}}}
+|- style="text-align:center;"
+| style="text-align:left;"| Prince Edward Island
+| style="text-align:right;"|{{Number table sorting|140204}}
+| 0.42%
+| style="text-align:right;"|{{Number table sorting|5660}}
+| 24.98
+| 4
+| {{nts|{{#expr:140204/4 round 0}}}}
+|- style="text-align:center;"
+| style="text-align:left;"| Northwest Territories
+| style="text-align:right;"|{{Number table sorting|41462}}
+| 0.12%
+| style="text-align:right;"|{{Number table sorting|1183085}}
+| 0.04
+| 1
+| {{nts|{{#expr:41462/1 round 0}}}}
+|- style="text-align:center;"
+| style="text-align:left;"| Yukon
+| style="text-align:right;"|{{Number table sorting|33897}}
+| 0.10%
+| style="text-align:right;"|{{Number table sorting|474391}}
+| 0.07
+| 1
+| {{nts|{{#expr:33897/1 round 0}}}}
+|- style="text-align:center;"
+| style="text-align:left;"| Nunavut
+| style="text-align:right;"|{{Number table sorting|31906}}
+| 0.09%
+| style="text-align:right;"|{{Number table sorting|1936113}}
+| 0.02
+| 1
+| {{nts|{{#expr:31906/1 round 0}}}}
+|-  text-align:center;" class="sortbottom"
+! style="text-align:left;"| Canada
+!  style="text-align:right;"| {{Number table sorting|33476688}}
+! 100%
+! style="text-align:right;"| {{Number table sorting|9,252,161}}
+! 3.73
+! 338
+! {{nts|{{#expr:33476688/338 round 0}}}}
+|}
+
+:<small>Sources: Statistics Canada</small><ref>{{cite web| url=http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/hlt-fst/pd-pl/Table-Tableau.cfm?LANG=Eng&T=101&SR=1&S=3&O=D | title= Population data 2011 Census| author= Statistics Canada | authorlink= Statistics Canada| year= 2011| accessdate= 2012-05-16}}</ref><ref>{{cite web| url= http://www40.statcan.ca/l01/cst01/phys01.htm?sdi=area | title=  Land and freshwater area, by province and territory (2005) | author= Statistics Canada | authorlink= Statistics Canada| year= 2005 | accessdate= 2007-07-22}}</ref>
+
+=== Cities ===
+{{main| List of the 100 largest population centres in Canada}}
+{{Largest cities of Canada}}{{-}}
+
+=== Census metropolitan areas ===
+{{main|List of largest Canadian cities by census|List of the 100 largest municipalities in Canada by population}}
+{{Largest Metropolitan Areas of Canada}}{{-}}
+
+===Population growth rates===
+According to OECD/World Bank, the population in Canada increased from 1990 to 2008 with 5.6 million and 20.4% growth in population, compared to 21.7% growth in the [[United States]] and 31.2% growth in [[Mexico]]. According to the OECD/World Bank population statistics, between 1990–2008 the [[world population]] growth was 27%, a total of 1,423 million people.<ref name=IEApop2011>[http://www.iea.org/co2highlights/co2Highlights.XLS CO2 Emissions from Fuel Combustion] Population 1971–2008 ([http://iea.org/co2highlights/co2highlights.pdf pdf] pages 83–85) IEA (OECD/ World Bank) original population ref e.g. in IEA Key World Energy Statistics 2010 page 57 {{wayback|url=http://www.iea.org/co2highlights/co2Highlights.XLS |date=20150713155711 }}</ref>
+
+{| class="wikitable sortable"
+|-
+! Rank
+! Province or territory
+! Population<br>(2011)
+! Population<br>(2006)
+! Difference
+! Change<br>(%)
+|- style="text-align:center;"
+| 1
+| style="text-align:left;"| Ontario
+| style="text-align:right;"|{{Number table sorting|12851821}}
+| style="text-align:right;"|{{Number table sorting|12160282}}
+| style="text-align:right;"|'''{{Number table sorting|691539}}'''
+| 5.7
+|- style="text-align:center;"
+| 2
+| style="text-align:left;"| Quebec
+| style="text-align:right;"|{{Number table sorting|7903001}}
+| style="text-align:right;"|{{Number table sorting|7546131}}
+| style="text-align:right;"|'''{{Number table sorting|356870}}'''
+| 4.7
+|- style="text-align:center;"
+| 3
+| style="text-align:left;"| British Columbia
+| style="text-align:right;"|{{Number table sorting|4400057}}
+| style="text-align:right;"|{{Number table sorting|4113487}}
+| style="text-align:right;"|'''{{Number table sorting|286570}}'''
+| 7.0
+|- style="text-align:center;"
+| 4
+| style="text-align:left;"| Alberta
+| style="text-align:right;"|{{Number table sorting|3645257}}
+| style="text-align:right;"|{{Number table sorting|3290350}}
+| style="text-align:right;"|'''{{Number table sorting|354907}}'''
+| 10.8
+|- style="text-align:center;"
+| 5
+| style="text-align:left;"| Manitoba
+| style="text-align:right;"|{{Number table sorting|1208268}}
+| style="text-align:right;"|{{Number table sorting|1148401}}
+| style="text-align:right;"|'''{{Number table sorting|59867}}'''
+| 5.2
+|- style="text-align:center;"
+| 6
+| style="text-align:left;"| Saskatchewan
+| style="text-align:right;"|{{Number table sorting|1033381}}
+| style="text-align:right;"|{{Number table sorting|968157}}
+| style="text-align:right;"|'''{{Number table sorting|65224}}'''
+| 6.7
+|- style="text-align:center;"
+| 7
+| style="text-align:left;"| Nova Scotia
+| style="text-align:right;"|{{Number table sorting|921727}}
+| style="text-align:right;"|{{Number table sorting|913462}}
+| style="text-align:right;"|'''{{Number table sorting|8265}}'''
+| 0.9
+|- style="text-align:center;"
+| 8
+| style="text-align:left;"| New Brunswick
+| style="text-align:right;"|{{Number table sorting|751171}}
+| style="text-align:right;"|{{Number table sorting|729997}}
+| style="text-align:right;"|'''{{Number table sorting|21174}}'''
+| 2.9
+|- style="text-align:center;"
+| 9
+| align="left" nowrap| Newfoundland and Labrador
+| style="text-align:right;"|{{Number table sorting|514536}}
+| style="text-align:right;"|{{Number table sorting|505469}}
+| style="text-align:right;"|'''{{Number table sorting|9067}}'''
+| 1.8
+|- style="text-align:center;"
+| 10
+| style="text-align:left;"| Prince Edward Island
+| style="text-align:right;"|{{Number table sorting|140204}}
+| style="text-align:right;"|{{Number table sorting|135851}}
+| style="text-align:right;"|'''{{Number table sorting|4353}}'''
+| 3.2
+|- style="text-align:center;"
+| 11
+| style="text-align:left;"| Northwest Territories
+| style="text-align:right;"|{{Number table sorting|41462}}
+| style="text-align:right;"|{{Number table sorting|41464}}
+| style="text-align:right;"|'''{{Number table sorting|-2}}'''
+| 0.0
+|- style="text-align:center;"
+| 12
+| style="text-align:left;"| Yukon
+| style="text-align:right;"|{{Number table sorting|33897}}
+| style="text-align:right;"|{{Number table sorting|30372}}
+| style="text-align:right;"|'''{{Number table sorting|3525}}'''
+| 11.6
+|- style="text-align:center;"
+| 13
+| style="text-align:left;"| Nunavut
+| style="text-align:right;"|{{Number table sorting|31906}}
+| style="text-align:right;"|{{Number table sorting|29474}}
+| style="text-align:right;"|'''{{Number table sorting|2432}}'''
+| 8.3
+|-  text-align:center;" class="sortbottom"
+! Total
+! style="text-align:left;"| Canada
+! style="text-align:right;"|{{Number table sorting|33476688}}
+! style="text-align:right;"|{{Number table sorting|31612897}}
+! style="text-align:right;"|{{Number table sorting|1863791}}
+! 5.9
+|}
+
+'''Derived from:''' [[Statistics Canada]] – (table) [http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/hlt-fst/pd-pl/Table-Tableau.cfm?LANG=Eng&T=101&SR=1&S=3&O=D Population and Dwelling Counts, for Canada, Provinces and Territories, 2011 and 2006 Censuses – 100% Data]
+
+===Population projection===
+{{Col-begin}}
+{{Col-break}}
+{{Historical populations
+|title=Population projections - High-growth scenario (Statistics Canada) 
+|align=centre
+|footnote=<ref>{{cite web|url=http://www.statcan.gc.ca/pub/91-520-x/2010001/t303-eng.pdf|title=Population Projections for Canada -  Components of population growth, high-growth scenario -  2009/2010 to 2060/2061|publisher=Statistics Canada.  Catalogue no. 91-520|date=2006|accessdate=September 8, 2013}}</ref> 
+|2011|33470000
+|2021|39110000
+|2031|44430000
+|2041|49900000
+|2051|56070000
+|2061|63000000
+}}
+{{Col-break}}
+{{Historical populations
+|title=Canada population<br>projection, 2010 est.<br>([[United States Census Bureau|US Census Bureau]])
+|align=centre
+|footnote=<ref>{{cite web|url=http://www.census.gov/ipc/www/idb/informationGateway.php |title=International Programs – U.S. Census Bureau |publisher=Census.gov |accessdate=2012-01-22}}</ref>
+|2020|36387000
+|2030|38565000
+|2040|40070000
+|2050|41136000
+}}
+{{Col-end}}
+
+==Vital statistics==
+
+{| class="wikitable" style="text-align: right;"
+|-
+!<ref>B.R. Mitchell. International historical statistics: the Americas, 1750-2000.</ref><ref>[http://unstats.un.org/unsd/demographic/products/dyb/dyb2.htm#2001] United nations. Demographic Yearbooks</ref><ref>[http://www.statcan.gc.ca/start-debut-eng.html Statistics Canada]</ref>
+! style="width:70pt;"| Average population (x 1,000)
+! style="width:70pt;"| Live births
+! style="width:70pt;"| Deaths
+! style="width:70pt;"| Natural change
+! style="width:70pt;"| Birth rate (per 1,000)
+! style="width:70pt;"| Death rate (per 1,000)
+! style="width:70pt;"| Natural change (per 1,000)
+|-
+| 1900
+|5,500
+|150,000||89,000||61,000
+|27.2||16.2||11.0
+|-
+| 1901
+|5,600
+|175,000||79,000||96,000
+|31.2||14.1||17.1
+|-
+| 1902
+|5,760
+|180,000||77,000||103,000
+|31.3||13.4||17.9
+|-
+| 1903
+|5,930
+|186,000||78,000||108,000
+|31.3||13.2||18.1
+|-
+| 1904
+|6,100
+|192,000||82,000||110,000
+|31.4||13.5||17.9
+|-
+| 1905
+|6,280
+|195,000||82,000||113,000
+|31.0||13.0||18.0
+|-
+| 1906
+|6,460
+|193,000||85,000||108,000
+|29.9||13.2||16.7
+|-
+| 1907
+|6,650
+|196,000||85,000||111,000
+|29.5||12.8||16.7
+|-
+| 1908
+|6,850
+|208,000||86,000||122,000
+|30.3||12.6||17.7
+|-
+| 1909
+|7,040
+|213,000||90,000||123,000
+|30.2||12.8||17.4
+|-
+| 1910
+|7,250
+|220,000||95,000||125,000
+|30.4||13.1||17.3
+|-
+| 1911
+|7,460
+|225,000||100,000||125,000
+|30.1||13.4||16.7
+|-
+| 1912
+|7,610
+|238,000||99,000||139,000
+|31.3||13.0||19.3
+|-
+| 1913
+|7,760
+|246,000||102,000||144,000
+|31.7||13.1||19.6
+|-
+| 1914
+|7,910
+|252,000||100,000||152,000
+|31.9||12.6||19.3
+|-
+| 1915
+|8,060
+|257,000||101,000||156,000
+|31.9||12.5||19.4
+|-
+| 1916
+|8,220
+|252,000||107,000||145,000
+|30.7||13.0||17.7
+|-
+| 1917
+|8,380
+|244,000||106,000||138,000
+|29.1||12.7||16.4
+|-
+| 1918
+|8,450
+|243,000||134,000||109,000
+|28.8||15.9||12.9
+|-
+| 1919
+|8,710
+|241,000||119,000||122,000
+|27.7||13.7||14.0
+|-
+| 1920
+|8,880
+|259,000||118,000||141,000
+|29.2||13.3||15.9
+|-
+| 1921
+|9,060
+|265,000||105,000||160,000
+|29.3||11.6||17.7
+|-
+| 1922
+|9,230
+|261,000||107,000||154,000
+|28.3||11.6||16.7
+|-
+| 1923
+|9,400
+|251,000||111,000||140,000
+|26.7||11.8||14.9
+|-
+| 1924
+|9,560
+|255,000||104,000||151,000
+|26.7||10.9||15.8
+|-
+| 1925
+|9,730
+|254,000||104,000||150,000
+|26.1||10.7||15.4
+|-
+| 1926
+|9,890
+|244,000||113,000||131,000
+|24.7||11.4||13.3
+|-
+| 1927
+|10,040
+|244,000||110,000||134,000
+|24.3||11.0||13.3
+|-
+| 1928
+|10,190
+|246,000||114,000||132,000
+|24.1||11.2||12.9
+|-
+| 1929
+|10,350
+|243,000||118,000||125,000
+|23.5||11.4||12.1
+|-
+| 1930
+|10,498
+|251,000||113,000||138,000
+|23.9||10.8||13.1
+|-
+| 1931
+|10,630
+|247,000||108,000||139,000
+|23.2||10.2||13.0
+|-
+| 1932
+|10,794
+|243,000||108,000||135,000
+|22.5||10.0||12.5
+|-
+| 1933
+|10,919
+|229,000||106,000||123,000
+|21.0||9.7||11.3
+|-
+| 1934
+|11,029
+|228,296||105,277||123,019
+|20.7||9.5||11.2
+|-
+| 1935
+|11,135
+|228,396||109,724||118,672
+|20.5||9.9||10.6
+|-
+| 1936
+|11,242
+|227,980||111,111||116,869
+|20.3||9.9||10.4
+|-
+| 1937
+|11,339
+|227,878||118,019||109,859
+|20.1||10.4||9.7
+|-
+| 1938
+|11,448
+|237,091||110,647||126,444
+|20.7||9.7||11.0
+|-
+| 1939
+|11,565
+|237,991||112,729||125,262
+|20.6||9.7||10.9
+|-
+| 1940
+|11,682
+|252,577||114,717||137,860
+|21.6||9.8||11.8
+|-
+| 1941
+|11,810
+|263,993||118,797||145,196
+|22.4||10.1||12.3
+|-
+| 1942
+|11,962
+|281,569||117,110||164,459
+|23.5||9.8||13.7
+|-
+| 1943
+|12,125
+|292,943||122,640||170,303
+|24.2||10.1||14.1
+|-
+| 1944
+|12,291
+|283,967||120,393||163,574
+|24.0||9.8||14.2
+|-
+| 1945
+|12,441
+|300,570||117,319||183,251
+|24.3||9.5||14.8
+|-
+| 1946
+|12,637
+|343,504||118,785||224,719
+|27.2||9.4||17.8
+|-
+| 1947
+|12,919
+|372,443||121,478||250,965
+|28.9||9.4||19.5
+|-
+| 1948
+|13,167
+|359,860||122,974||236,886
+|27.3||9.3||18.0
+|-
+| 1949
+|13,475
+|367,092||124,567||242,525
+|27.2||9.2||18.0
+|-
+| 1950
+|13,737
+|372,009||124,220||247,789
+|27.1||9.0||18.0
+|-
+| 1951
+|14,050
+|381,092||125,823||255,269
+|27.1||9.0||18.2
+|-
+| 1952
+|14,496
+|403,559||126,385||277,174
+|27.8||8.7||19.1
+|-
+| 1953
+|14,886
+|417,884||127,791||290,093
+|28.1||8.6||19.5
+|-
+| 1954
+|15,330
+|436,198||124,855||311,343
+|28.5||8.1||20.3
+|-
+| 1955
+|15,736
+|442,937||128,476||314,461
+|28.1||8.2||20.0
+|-
+| 1956
+|16,123
+|450,739||131,961||318,778
+|28.0||8.2||19.8
+|-
+| 1957
+|16,677
+|469,093||136,579||332,514
+|28.1||8.2||19.9
+|-
+| 1958
+|17,120
+|470,118||135,201||334,917
+|27.5||7.9||19.6
+|-
+| 1959
+|17,522
+|479,275||139,913||339,362
+|27.4||8.0||19.4
+|-
+| 1960
+|17,909
+|478,551||139,693||338,858
+|26.7||7.8||18.9
+|-
+| 1961
+|18,271
+|475,700||140,985||334,715
+|26.0||7.7||18.3
+|-
+| 1962
+|18,614
+|469,693||143,699||325,994
+|25.2||7.7||17.5
+|-
+| 1963
+|18,964
+|465,767||147,367||318,400
+|24.6||7.8||16.8
+|-
+| 1964
+|19,325
+|452,915||145,850||307,065
+|23.4||7.5||15.9
+|-
+| 1965
+|19,678
+|418,595||148,939||269,656
+|21.3||7.6||13.7
+|-
+| 1966
+|20,048
+|387,710||149,863||237,847
+|19.3||7.5||11.9
+|-
+| 1967
+|20,412
+|370,894||150,283||220,611
+|18.2||7.4||10.8
+|-
+| 1968
+|20,744
+|364,310||153,196||211,114
+|17.6||7.4||10.2
+|-
+| 1969
+|21,028
+|369,647||154,477||215,170
+|17.6||7.3||10.2
+|-
+| 1970
+|21,324
+|371,988||155,961||216,027
+|17.4||7.3||10.1
+|-
+| 1971
+|21,962
+|362,187||157,272||204,915
+|16.7||7.3||9.5
+|-
+| 1972
+|22,218
+|347,319||162,413||184,906
+|15.8||7.4||8.4
+|-
+| 1973
+|22,492
+|343,373||164,039||179,334
+|15.4||7.4||8.1
+|-
+| 1974
+|22,808
+|350,650||166,794||178,851
+|15.3||7.4||7.9
+|-
+| 1975
+|23,143
+|359,323||167,176||191,919
+|15.6||7.3||8.3
+|-
+| 1976
+|23,450
+|359,987||167,009||192,978
+|15.4||7.2||8.3
+|-
+| 1977
+|23,726
+|361,400||167,498||193,902
+|15.3||7.1||8.2
+|-
+| 1978
+|23,963
+|358,852||168,179||190,673
+|15.0||7.0||8.0
+|-
+| 1979
+|24,202
+|366,064||168,183||197,881
+|15.1||6.9||8.2
+|-
+| 1980
+|24,516
+|370,709||171,473||199,236
+|15.1||7.0||8.1
+|-
+| 1981
+|24,820
+|371,346||171,029||200,317
+|14.9||6.8||8.0
+|-
+| 1982
+|25,117
+|373,082||174,413||198,669
+|14.8||6.9||7.9
+|-
+| 1983
+|25,367
+|373,689||174,484||199,205
+|14.6||6.8||7.8
+|-
+| 1984
+|25,608
+|377,031||175,727||201,304
+|14.6||6.8||7.8
+|-
+| 1985
+|25,843
+|375,727||181,323||194,404
+|14.4||7.0||7.5
+|-
+| 1986
+|26,101
+|372,913||184,224||188,689
+|14.3||7.1||7.2
+|-
+| 1987
+|26,449
+|369,742||184,953||184,789
+|14.0||7.0||7.0
+|-
+| 1988
+|26,795
+|376,795||190,011||186,784
+|14.1||7.1||7.0
+|-
+| 1989
+|27,282
+|392,661||190,965||201,696
+|14.4||7.0||7.4
+|-
+| 1990
+|27,698
+|405,486||191,973||213,513
+|14.6||6.9||7.7
+|-
+| 1991
+|28,031
+|402,533||195,569||206,964
+|14.4||7.0||7.4
+|-
+| 1992
+|28,367
+|398,643||196,535||202,108
+|14.1||6.9||7.1
+|-
+| 1993
+|28,682
+|388,394||204,912||183,482
+|13.5||7.1||6.4
+|-
+| 1994
+|28,999
+|385,114||207,077||178,037
+|13.3||7.1||6.1
+|-
+| 1995
+|29,302
+|378,016||210,733||167,283
+|12.9||7.2||5.7
+|-
+| 1996
+|29,611
+|366,200||212,880||153,320
+|12.4||7.2||5.2
+|-
+| 1997
+|29,907
+|348,598||215,669||132,929
+|11.7||7.2||4.4
+|-
+| 1998
+|30,157
+|342,418||218,091||124,327
+|11.4||7.2||4.1
+|-
+| 1999
+|30,404
+|337,249||219,530||117,719
+|11.1||7.2||3.9
+|-
+| 2000
+|30,689
+|327,882||218,062||109,820
+|10.7||7.1||3.6
+|-
+| 2001
+|31,021
+|333,744||219,538||114,206
+|10.8||7.1||3.7
+|-
+| 2002
+|31,373
+|328,802||223,603||105,199
+|10.5||7.1||3.4
+|-
+| 2003
+|31,676
+|335,202||226,169||109,033
+|10.6||7.1||3.4
+|-
+| 2004
+|31,941
+|337,072||226,584||110,488
+|10.6||7.1||3.5
+|-
+| 2005
+|32,245
+|342,176||230,132||112,044
+|10.6||7.1||3.5
+|-
+| 2006
+|32,576
+|354,617||228,079||126,538
+|10.9||7.0||3.9
+|-
+| 2007
+|32,930
+|367,864||235,217||132,647
+|11.2||7.1||4.0
+|-
+| 2008
+|33,318
+|377,886||238,617||139,269
+|11.3||7.2||4.2
+|-
+| 2009
+|33,727
+|380,863||242,277||138,586
+|11.3||7.2||4.1
+|-
+| 2010
+|34,127
+|377,213||247,926||129,287
+|11.1||7.3||3.8
+|-
+| 2011
+|34,484
+|377,636||254,731||122,905
+|11.0||7.4||3.6
+|-
+| 2012
+|34,880
+|381,429 ||256,965||124,464
+|10.9||7.4||3.6
+|-
+| 2013
+|
+|385,179 ||||
+|||||
+|}
+
+'''Age characteristics:'''
+{|class="wikitable sortable"
+!colspan=5 class=unsortable| Population by age and gender, 2011<ref name=Canadaprofile>{{cite web | url=http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=01&Geo2=PR&Code2=01&Data=Count&SearchText=Canada&SearchType=Begins&SearchPR=01&B1=All&Custom=&TABID=1 | title=Census Profile: Canada (Country) | publisher=[[Statistics Canada]] | date=February 9, 2015 | accessdate=August 30, 2015}}</ref>
+|-
+!Age group
+!Male
+!Female
+!Total
+!Percent
+|-
+|| 0 to 4 years ||align=center| {{nts|961150}} ||align=center| {{nts|915945}} ||align=center| {{nts|1877095}} ||align=center| {{percentage|1877095|33476685|1}}
+|-
+|| 5 to 9 years ||align=center| {{nts|925965}} ||align=center| {{nts|883935}} ||align=center| {{nts|1809895}} ||align=center| {{percentage|1809895|33476685|1}}
+|-
+|| 10 to 14 years ||align=center| {{nts|983995}} ||align=center| {{nts|936360}} ||align=center| {{nts|1920355}} ||align=center| {{percentage|1920355|33476685|1}}
+|-
+|| 15 to 19 years ||align=center| {{nts|1115845}} ||align=center| {{nts|1062295}} ||align=center| {{nts|2178135}} ||align=center| {{percentage|2178135|33476685|1}}
+|-
+|| 20 to 24 years ||align=center| {{nts|1108775}} ||align=center| {{nts|1078670}} ||align=center| {{nts|2187450}} ||align=center| {{percentage|2187450|33476685|1}}
+|-
+|| 25 to 29 years ||align=center| {{nts|1077275}} ||align=center| {{nts|1092315}} ||align=center| {{nts|2169590}} ||align=center| {{percentage|2169590|33476685|1}}
+|-
+|| 30 to 34 years ||align=center| {{nts|1058810}} ||align=center| {{nts|1104095}} ||align=center| {{nts|2162905}} ||align=center| {{percentage|2162905|33476685|1}}
+|-
+|| 35 to 39 years ||align=center| {{nts|1064200}} ||align=center| {{nts|1109735}} ||align=center| {{nts|2173930}} ||align=center| {{percentage|2173930|33476685|1}}
+|-
+|| 40 to 44 years ||align=center| {{nts|1141720}} ||align=center| {{nts|1183155}} ||align=center| {{nts|2324875}} ||align=center| {{percentage|2324875|33476685|1}}
+|-
+|| 45 to 49 years ||align=center| {{nts|1318715}} ||align=center| {{nts|1356420}} ||align=center| {{nts|2675130}} ||align=center| {{percentage|2675130|33476685|1}}
+|-
+|| 50 to 54 years ||align=center| {{nts|1309030}} ||align=center| {{nts|1349940}} ||align=center| {{nts|2658965}} ||align=center| {{percentage|2658965|33476685|1}}
+|-
+|| 55 to 59 years ||align=center| {{nts|1147300}} ||align=center| {{nts|1193335}} ||align=center| {{nts|2340635}} ||align=center| {{percentage|2340635|33476685|1}}
+|-
+|| 60 to 64 years ||align=center| {{nts|1002690}} ||align=center| {{nts|1049985}} ||align=center| {{nts|2052670}} ||align=center| {{percentage|2052670|33476685|1}}
+|-
+|| 65 to 69 years ||align=center| {{nts|738010}} ||align=center| {{nts|783705}} ||align=center| {{nts|1521715}} ||align=center| {{percentage|1521715|33476685|1}}
+|-
+|| 70 to 74 years ||align=center| {{nts|543435}} ||align=center| {{nts|609630}} ||align=center| {{nts|1153065}} ||align=center| {{percentage|1153065|33476685|1}}
+|-
+|| 75 to 79 years ||align=center| {{nts|417945}} ||align=center| {{nts|504755}} ||align=center| {{nts|922700}} ||align=center| {{percentage|922700|33476685|1}}
+|-
+|| 80 to 84 years ||align=center| {{nts|291085}} ||align=center| {{nts|410985}} ||align=center| {{nts|702070}} ||align=center| {{percentage|702070|33476685|1}}
+|-
+|| 85 years and over ||align=center| {{nts|208300}} ||align=center| {{nts|437215}} ||align=center| {{nts|645515}} ||align=center| {{percentage|645515|33476685|1}}
+|- class="sortbottom" 
+!Total 
+!align=center| {{nts|16414225}}
+!align=center| {{nts|17062460}}
+!align=center| {{nts|33476685}} 
+!align=center| {{percentage|33476685|33476685|1}}
+|- class="sortbottom" 
+|| 0 to 14 years ||align=center| {{nts|2871110}} ||align=center| {{nts|2736240}} ||align=center| {{nts|5607345}} ||align=center| {{percentage|5607345|33476685|1}}
+|- class="sortbottom" 
+|| 15 to 64 years ||align=center| {{nts|11344360}} ||align=center| {{nts|11579945}} ||align=center| {{nts|22924285}} ||align=center| {{percentage|22924285|33476685|1}}
+|- class="sortbottom" 
+|| 65 years and over ||align=center| {{nts|2198775}} ||align=center| {{nts|2746290}} ||align=center| {{nts|4945065}} ||align=center| {{percentage|4945065|33476685|1}}
+|-
+|}
+
+'''Net migration rate:''' 5.65 migrant(s)/1,000 population (2013 est.)
+
+'''Urbanization:'''
+* ''urban population:'' 81% of total population (2010)
+* ''rate of urbanization:'' 1.1% annual rate of change (2010-2015 est.)
+
+[[File:Pyramideca2010.jpg|300px|thumb|right|Population pyramid in 2010]]
+'''Sex ratio:'''
+* ''at birth:'' 1.06 male(s)/female
+* ''under 15 years:'' 1.05 male(s)/female
+* ''15 – 24 years:'' 1.06 male(s)/female
+* ''25 - 54 years:'' 1.03 male(s)/female
+* ''55 - 64 years:'' 0.98 male(s)/female
+* ''65 years and over:'' 0.79 male(s)/female
+* ''total population:'' 0.99 male(s)/female (2013 est.)
+
+'''Maternal mortality rate:''' 12 deaths/100,000 live births (2010 est.)
+
+'''Life expectancy:'''
+* ''total population'': 81.57 years
+* ''male'': 78.98 years
+* ''female'': 84.31 years (2013 est.)
+
+===Median age===
+* ''total:'' 40.6 years
+** ''male:'' 39.6 years
+** ''female:'' 41.5 years (2011)
+
+'''Median age by province and territory, 2011'''
+# [[Newfoundland and Labrador]]: 44.0
+# [[Nova Scotia]]: 43.7
+# [[New Brunswick]]:43.7
+# [[Prince Edward Island]]: 42.8
+# [[Quebec]]: 41.9
+# [[British Columbia]]: 41.9
+# [[Ontario]]: 40.4
+# [[Yukon]]: 39.1
+# [[Manitoba]]: 38.4
+# [[Saskatchewan]]: 38.2
+# [[Alberta]]: 36.5
+# [[Northwest Territories]]: 32.3
+# [[Nunavut]]: 24.1
+
+'''Total''': 40.6
+:<small>Sources: Statistics Canada</small><ref>{{cite web| url= http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/hlt-fst/as-sa/Pages/highlight.cfm?TabID=1&Lang=E&PRCode=13&Asc=0&OrderBy=1&Sex=1&View=1&tableID=22 | title= Population by broad age groups and sex, including median age, 1921 to 2011 for both sex (2011 Census) | author= Statistics Canada | authorlink= Statistics Canada| year= 2011| accessdate= 2012-05-29}}</ref>
+
+==Ethnicity==
+
+===Ethnic origin===
+{{Main|Ethnic origins of people in Canada}}
+In the [[Canada 2006 Census|2006 census]], Canadians could identify as being of one or more ethnicities. Percentages therefore add up to more than 100%. The most common response was 'Canadian'. As data is completely self-reported, and reporting individuals may have varying definitions of "Ethnic origin" (or may not know their ethnic origin), these figures should not be considered an exact record of the relative prevalence of different ethno-cultural ancestries but rather how Canadians self-identify.
+
+Statistics Canada projects that, by 2031, approximately 28% of the population will be foreign-born. The number of people belonging to [[visible minority]] groups will double,<ref>
+{{cite web
+|url=http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20100314/Minority_Report_100314/20100314?hub=Canada
+|title=Parties prepare to battle for Immigrant votes|publisher=[[CTV.ca]]|accessdate=2010-03-15|date=2010-03-14}}
+</ref> and make up the majority of the population in Toronto and Vancouver.
+
+Counting both single and multiple responses, the most commonly identified ethnic origins were (2011):
+{| class="wikitable sortable" style="margin:left"
+|-
+! [[Ethnic origins of people in Canada|Ethnic origin]]<ref group="Note" name="Selfdata">Data for ethnic origin was collected by self-declaration, labels may not necessarily describe the true ancestry of respondents. Many respondents also acknowledged multiple ancestries. '''Source:''' {{cite web |url=http://www12.statcan.ca/census-recensement/2006/dp-pd/hlt/97-562/pages/page.cfm?Lang=E&Geo=PR&Code=01&Data=Count&Table=2&StartRec=1&Sort=3&Display=All&CSDFilter=5000|title=Ethnocultural Portrait of Canada – Data table|publisher=Statistics Canada}} '''Additional data:''' {{cite web|url=http://www12.statcan.gc.ca/census-recensement/2006/rt-td/index-eng.cfm |title=2006 Census release topics}}</ref>
+! %
+! [[population of Canada|Population]]
+! Area of largest proportion
+|-
+| [[Canadians|Canadian]]
+| 32.16%
+| style="text-align:right;"|{{Number table sorting|10563805}}
+| style="text-align:left;"| [[Quebec]] (59.1%)
+|-
+| [[English Canadian|English]]
+| 19.81%
+| style="text-align:right;"|{{Number table sorting|6509500}}
+| style="text-align:left;"| [[Newfoundland and Labrador]] (43.4%)
+|-
+| [[French Canadian|French]]
+| 15.42%
+| style="text-align:right;"|{{Number table sorting|5065690}}
+| style="text-align:left;"| Quebec (29.1%)
+|-
+| [[Scottish Canadian|Scottish]]
+| 14.35%
+| style="text-align:right;"|{{Number table sorting|4714965}}
+| style="text-align:left;"| [[Prince Edward Island]] (39.3%)
+|-
+| [[Irish Canadian|Irish]]
+| 13.83%
+| style="text-align:right;"|{{Number table sorting|4544865}}
+| style="text-align:left;"| Prince Edward Island (30.4%)
+|-
+| [[Canadians of German ethnicity|German]]
+| 9.75%
+| style="text-align:right;"|{{Number table sorting|3203325}}
+| style="text-align:left;"| [[Saskatchewan]] (28.6%)
+|-
+| [[Italian Canadians|Italian]]
+| 4.53%
+| style="text-align:right;"|{{Number table sorting|1488420}}
+| style="text-align:left;"| [[Ontario]] (7.0%)
+|-
+| [[Chinese Canadian|Chinese]]
+| 4.53%
+| style="text-align:right;"|{{Number table sorting|1487580}}
+| style="text-align:left;"| [[British Columbia]] (10.7%)
+|-
+| [[First Nations|North American Indian]]
+| 4.17%
+| style="text-align:right;"|{{Number table sorting|1369115}}
+| style="text-align:left;"| [[Northwest Territories]] (37.0%)
+|-
+| [[Ukrainian Canadian|Ukrainian]]
+| 3.81%
+| style="text-align:right;"|{{Number table sorting|1251170}}
+| style="text-align:left;"| [[Manitoba]] (14.9%)
+|-
+| [[Indo-Canadians|East Indian]]
+| 3.55%
+| style="text-align:right;"|{{Number table sorting|1165145}}
+| style="text-align:left;"| British Columbia (6.3%)
+|-
+| [[Canadians of Dutch descent|Dutch (Netherlands)]]
+| 3.25%
+| style="text-align:right;"|{{Number table sorting|1067245}}
+| style="text-align:left;"| [[Alberta]] (5.1%)
+|-
+| [[Polish Canadians|Polish]]
+| 3.08%
+| style="text-align:right;"|{{Number table sorting|1010700}}
+| style="text-align:left;"| Manitoba (7.3%)
+|-
+| [[Filipino Canadian|Filipino]]
+| 2.02%
+| style="text-align:right;"|{{Number table sorting|662605}}
+| style="text-align:left;"| Manitoba (5.2%)
+|-
+| [[British Canadian (disambiguation)|British, not included elsewhere]]
+| 1.75%
+| style="text-align:right;"|{{Number table sorting|576030}}
+| style="text-align:left;"| [[Yukon]] (2.4%)
+|-
+| [[Russians in Canada|Russian]]
+| 1.68%
+| style="text-align:right;"|{{Number table sorting|550515}}
+| style="text-align:left;"| Manitoba (4.3%)
+|-
+| [[Canadians of Welsh descent|Welsh]]
+| 1.40%
+| style="text-align:right;"|{{Number table sorting|458705}}
+| style="text-align:left;"| Yukon (2.8%)
+|-
+| [[Norwegian Canadian|Norwegian]]
+| 1.38%
+| style="text-align:right;"|{{Number table sorting|452710}}
+| style="text-align:left;"| Saskatchewan (6.9%)
+|-
+| [[Métis people (Canada)|Métis]]
+| 1.36%
+| style="text-align:right;"|{{Number table sorting|447655}}
+| style="text-align:left;"| Northwest Territories (6.7%)
+|-
+| [[Portuguese Canadians|Portuguese]]
+| 1.31%
+| style="text-align:right;"|{{Number table sorting|429850}}
+| style="text-align:left;"| Ontario (2.3%)
+|-
+| [[Canadians of American origin|American]]
+| 1.13%
+|align="right"|{{Number table sorting|372575}}
+| style="text-align:left;"| Yukon (2.2%)
+|-
+| [[Canadians of Spanish descent|Spanish]]
+| 1.12%
+|align="right"|{{Number table sorting|368305}}
+| style="text-align:left;"| British Columbia (1.4%)
+|-
+| [[Swedish Canadian|Swedish]]
+| 1.04%
+| style="text-align:right;"|{{Number table sorting|341845}}
+| style="text-align:left;"| Saskatchewan (3.2%)
+|-
+| [[Hungarian Canadians|Hungarian]]
+| 0.96%
+| style="text-align:right;"|{{Number table sorting|316760}}
+| style="text-align:left;"| Saskatchewan (2.8%)
+|-
+| [[History of the Jews in Canada|Jewish]]
+| 0.94%
+| style="text-align:right;"|{{Number table sorting|309650}}
+| style="text-align:left;"| Ontario (1.4%)
+|}
+
+Data from the same subject matter, though from 2001, is also grouped more geographically by Statistics Canada as follows:<ref>{{cite web|url=http://www12.statcan.ca/english/census06/data/highlights/ethnic/pages/Page.cfm?Lang=E&Geo=PR&Code=01&Data=Count&Table=2&StartRec=1&Sort=3&Display=All&CSDFilter=5000 |title=Ethnocultural Portrait of Canada Highlight Tables, 2006 Census |publisher=2.statcan.ca |date=2010-10-06 |accessdate=2011-01-01}}</ref>
+
+{| class="wikitable" style="float:left;"
+|- "
+!
+!2001
+|-
+|North American (non-aboriginal)
+|40.21%
+|-
+|British Isles
+|33.64%
+|-
+|French
+|15.89%
+|-
+|Western European
+|12.78%
+|-
+|Eastern European
+|8.50%
+|-
+|Southern European
+|7.87%
+|}
+{| class="wikitable" style="float:left;"
+|- "
+!
+!2001
+|-
+|East and Southeast Asian
+|6.03%
+|-
+|Aboriginal
+|4.45%
+|-
+|South Asian
+|3.25%
+|-
+|Northern European
+|3.22%
+|-
+|Caribbean
+|1.70%
+|-
+|Other European
+|1.28%
+|}
+{| class="wikitable" style="float:left;"
+|- "
+!
+!2001
+|-
+|Arab
+|1.17%
+|-
+|African
+|0.99%
+|-
+|[[Latino Canadian|Latin]], Central and<br />South American
+|0.82%
+|-
+|West Asian
+|0.69%
+|-
+|Oceania
+|0.16%
+|}
+{{clear left}}
+<small>''Percentages are calculated as a proportion of the total number of respondents (32,852,325 in 2011) and total more than 100% due to dual responses. <br />All ethnocultural ancestries with responses totalling to more than 1% of the total number of responses are listed in the table above according to the exact terminology used by [[Statistics Canada]].</small><ref>{{cite web|url=http://www12.statcan.ca/english/census01/products/standard/themes/RetrieveProductTable.cfm?Temporal=2001&PID=62911&APATH=3&METH=1&PTYPE=55440&THEME=44&FOCUS=0&AID=0&PLACENAME=0&PROVINCE=0&SEARCH=0&GC=99&GK=NA&VID=0&VNAMEE=&VNAMEF=&FL=0&RL=0&FREE=0&GID=431515 |title=Ethnic Origin (232), Sex (3) and Single and Multiple Responses (3) (2001 Census) |publisher=2.statcan.ca |date=2010-03-09 |accessdate=2011-01-01}}</ref><ref>{{cite web|url=http://www12.statcan.ca/census-recensement/2006/dp-pd/hlt/97-562/pages/page.cfm?Lang=E&Geo=PR&Code=01&Table=2&Data=Count&StartRec=1&Sort=3&Display=All |title=Ethnocultural Portrait of Canada – Data table |publisher=2.statcan.ca |date=2010-10-06 |accessdate=2011-01-01}}</ref>
+
+The most common ethnic origins per province are as follows<ref name="www12.statcan.ca">[http://www12.statcan.ca/census-recensement/2006/dp-pd/hlt/97-562/sel_geo.cfm?Lang=E&Geo=PR&Table=2 Ethnocultural Portrait of Canada – Select a geography]</ref> (total responses; only percentages 10% or higher shown; ordered by percentage of "Canadian"):
+* '''''Quebec''' (7,723,525)'': '''Canadian''' (59.1%), '''French''' (29.1%)
+* '''''New Brunswick''' (735,835)'': '''Canadian''' (50.3%), French (27.2%), English (25.9%), Irish (21.6%), Scottish (19.9%)
+* '''''Newfoundland and Labrador''' (507,265)'': '''Canadian''' (49.0%), '''English''' (43.4%), Irish (21.8%)
+* '''''Nova Scotia''' (906,170)'': '''Canadian''' (39.1%), Scottish (31.2%), English (30.8%), Irish (22.3%), French (17.0%), German (10.8%)
+* '''''Prince Edward Island''' (137,375)'': '''Scottish''' (39.3%), Canadian (36.8%), English (31.1%), '''Irish''' (30.4%), French (21.1%)
+* '''''Ontario''' (12,651,795)'': '''Canadian''' (23.3%), English (23.1%), Scottish (16.4%), Irish (16.4%), French (10.8%)
+* '''''Alberta''' (3,567,980)'': '''English''' (24.9%), Canadian (21.8%), German (19.2%), Scottish (18.8%), Irish (15.8%), French (11.1%)
+* '''''Manitoba''' (1,174,345)'': '''English''' (21.8%), German (18.6%), Canadian (18.5%), Scottish (18.0%), '''Ukrainian''' (14.9%), Irish (13.2%), French (12.6%), North American Indian (10.6%)
+* '''''Saskatchewan''' (1,008,760)'': '''German''' (28.6%), English (24.9%), Scottish (18.9%), Canadian (18.8%), Irish (15.5%), Ukrainian (13.5%), French (12.2%), '''North American Indian''' (12.1%)
+* '''''British Columbia''' (4,324,455)'': '''English''' (27.7%), Scottish (19.3%), Canadian (19.1%), German (13.1%), '''Chinese''' (10.7%)
+* '''''Yukon''' (33,320)'': '''English''' (28.5%), Scottish (25.0%), Irish (22.0%), North American Indian (21.8%), Canadian (21.8%), German (15.6%), French (13.1%)
+* '''''Northwest Territories''' (40,800)'': '''North American Indian''' (37.0%), Scottish (13.9%), English (13.7%), Canadian (12.8%), Irish (11.9%), Inuit (11.7%)
+* '''''Nunavut''' (31,700)'': '''Inuit''' (85.4%)
+
+=== Visible minority population ===
+Statistics Canada identifies visible minorities in accordance with the ''[[Employment equity (Canada)|Employment Equity Act]]''. Statistics Canada states the "''Employment Equity Act'' defines visible minorities as 'persons, other than Aboriginal peoples, who are non-Caucasian in race or non-white in colour.'"<ref name="2011NHSprofile"/>
+
+{|class="wikitable sortable"
+!colspan=9 class=unsortable| Visible and non-visible minority populations by group, 1996&ndash;2011
+|-
+! rowspan="2"| Group
+! colspan="2" | [[Canada 1996 Census|1996]]<ref name="1996censusAboriginal"/><ref name=1996censusVisibles>[http://www.statcan.gc.ca/c1996-r1996/feb17-17fev/vm-mv-can-eng.pdf Statistics Canada], Total Population by Visible Minority Population, for Canada, 1996 Census (20% Sample Data)</ref>
+! colspan="2" | [[Canada 2001 Census|2001]]<ref name="2001censusprofile"/>
+! colspan="2" | [[Canada 2006 Census|2006]]<ref name="2006 Canada Census Profile"/> 
+! colspan="2" | [[Canada 2011 National Household Survey|2011]]<ref name="2011NHSprofile"/>
+|- style="background:#e0e0e0;"
+! Total
+! {{abbr|Pct.|Percent}} 
+! Total
+! {{abbr|Pct.|Percent}} 
+! Total
+! {{abbr|Pct.|Percent}} 
+! Total
+! {{abbr|Pct.|Percent}} 
+|- class="sortbottom"
+! Total visible minority population ||align=center| {{nts|3197480}} ||align=center| {{percentage|3197480|28528125|1}} ||align=center| {{nts|3983845}} ||align=center| {{percentage|3983845|29639030|1}} ||align=center| {{nts|5068095}} ||align=center| {{percentage|5068095|31241030|1}} ||align=center| {{nts|6264750}} ||align=center| {{percentage|6264750|32852320|1}}
+|-
+|| [[South Asian Canadian|South Asian]] ||align=center| {{nts|670590}} ||align=center| {{percentage|670590|28528125|1}} ||align=center| {{nts|917075}} ||align=center| {{percentage|917075|29639030|1}} ||align=center| {{nts|1262865}} ||align=center| {{percentage|1262865|31241030|1}} ||align=center| {{nts|1567400}} ||align=center| {{percentage|1567400|32852320|1}}
+|-
+|| [[Chinese Canadian|Chinese]] ||align=center| {{nts|860150}} ||align=center| {{percentage|860150|28528125|1}} ||align=center| {{nts|1029395}} ||align=center| {{percentage|1029395|29639030|1}} ||align=center| {{nts|1216565}} ||align=center| {{percentage|1216565|31241030|1}} ||align=center| {{nts|1324750}} ||align=center| {{percentage|1324750|32852320|1}}
+|-
+|| [[Black Canadians|Black]] ||align=center| {{nts|573860}} ||align=center| {{percentage|573860|28528125|1}} ||align=center| {{nts|662215}} ||align=center| {{percentage|662215|29639030|1}} ||align=center| {{nts|783795}} ||align=center| {{percentage|783795|31241030|1}} ||align=center| {{nts|945665}} ||align=center| {{percentage|945665|32852320|1}}
+|-
+|| [[Filipino Canadian|Filipino]] ||align=center| {{nts|234195}} ||align=center| {{percentage|234195|28528125|1}} ||align=center| {{nts|308575}} ||align=center| {{percentage|308575|29639030|1}} ||align=center| {{nts|410695}} ||align=center| {{percentage|410695|31241030|1}} ||align=center| {{nts|619310}} ||align=center| {{percentage|619310|32852320|1}}
+|-
+|| [[Latin American Canadians|Latin American]] ||align=center| {{nts|176970}} ||align=center| {{percentage|176970|28528125|1}} ||align=center| {{nts|216980}} ||align=center| {{percentage|216980|29639030|1}} ||align=center| {{nts|304245}} ||align=center| {{percentage|304245|31241030|1}} ||align=center| {{nts|381280}} ||align=center| {{percentage|381280|32852320|1}}
+|-
+|| [[Arab Canadians|Arab]]/[[West Asia|West Asian]] ||align=center| {{nts|244665}} ||align=center| {{percentage|244665|28528125|1}} ||align=center| {{nts|}} ||align=center| {{nts|}} ||align=center| {{nts|}} ||align=center| {{nts|}} ||align=center| {{nts|}} ||align=center| {{nts|}}
+|-
+|| [[Arab Canadians|Arab]] ||align=center| {{nts|}} ||align=center| {{nts|}} ||align=center| {{nts|194685}} ||align=center| {{percentage|194685|29639030|1}} ||align=center| {{nts|265550}} ||align=center| {{percentage|265550|31241030|1}} ||align=center| {{nts|380620}} ||align=center| {{percentage|380620|32852320|1}}
+|-
+|| [[Southeast Asia|Southeast Asian]] ||align=center| {{nts|172765}} ||align=center| {{percentage|172765|28528125|1}} ||align=center| {{nts|198880}} ||align=center| {{percentage|198880|29639030|1}} ||align=center| {{nts|239935}} ||align=center| {{percentage|239935|31241030|1}} ||align=center| {{nts|312075}} ||align=center| {{percentage|312075|32852320|1}}
+|-
+|| [[West Asia|West Asian]] ||align=center| {{nts|}} ||align=center| {{nts|}} ||align=center| {{nts|109285}} ||align=center| {{percentage|109285|29639030|1}} ||align=center| {{nts|156700}} ||align=center| {{percentage|156700|31241030|1}} ||align=center| {{nts|206840}} ||align=center| {{percentage|206840|32852320|1}}
+|-
+|| [[Korean Canadians|Korean]] ||align=center| {{nts|64835}} ||align=center| {{percentage|64835|28528125|1}} ||align=center| {{nts|100660}} ||align=center| {{percentage|100660|29639030|1}} ||align=center| {{nts|141890}} ||align=center| {{percentage|141890|31241030|1}} ||align=center| {{nts|161130}} ||align=center| {{percentage|161130|32852320|1}}
+|-
+|| [[Japanese Canadians|Japanese]] ||align=center| {{nts|68135}} ||align=center| {{percentage|68135|28528125|1}} ||align=center| {{nts|73315}} ||align=center| {{percentage|73315|29639030|1}} ||align=center| {{nts|81300}} ||align=center| {{percentage|81300|31241030|1}} ||align=center| {{nts|87270}} ||align=center| {{percentage|87270|32852320|1}}
+|- class="sortbottom"
+|| Visible minority, {{abbr|n.i.e.|Not included elsewhere. (According to Statistics Canada, this "includes respondents who reported a write-in response such as 'Guyanese,' 'West Indian,' 'Tibetan,' 'Polynesian,' 'Pacific Islander,' etc.")|1}} ||align=center| {{nts|69745}} ||align=center| {{percentage|69745|28528125|1}} ||align=center| {{nts|98915}} ||align=center| {{percentage|98915|29639030|1}} ||align=center| {{nts|71420}} ||align=center| {{percentage|71420|31241030|1}} ||align=center| {{nts|106475}} ||align=center| {{percentage|106475|32852320|1}}
+|- class="sortbottom"
+|| [[Multiracial|Multiple visible minorities]] ||align=center| {{nts|61575}} ||align=center| {{percentage|61575|28528125|1}} ||align=center| {{nts|73875}} ||align=center| {{percentage|73875|29639030|1}} ||align=center| {{nts|133120}} ||align=center| {{percentage|133120|31241030|1}} ||align=center| {{nts|171935}} ||align=center| {{percentage|171935|32852320|1}}
+|- class="sortbottom"
+! Not a visible minority ||align=center| {{nts|25330645}} ||align=center| {{percentage|25330645|28528125|1}} ||align=center| {{nts|25655185}} ||align=center| {{percentage|25655185|29639030|1}} ||align=center| {{nts|26172935}} ||align=center| {{percentage|26172935|31241030|1}} ||align=center| {{nts|26587575}} ||align=center| {{percentage|26587575|32852320|1}}
+|- class="sortbottom"
+|| [[Aboriginal peoples in Canada|Aboriginal identity]] (see [[#Aboriginal population|breakdown]] below) ||align=center| {{nts|799005}} ||align=center| {{percentage|799005|28528125|1}} ||align=center| {{nts|976305}} ||align=center| {{percentage|976305|29639030|1}} ||align=center| {{nts|1172785}} ||align=center| {{percentage|1172785|31241030|1}} ||align=center| {{nts|1400685}} ||align=center| {{percentage|1400685|32852320|1}}
+|- class="sortbottom"
+|| Others ([[Caucasian race|Caucasian]] or [[White people|White]]) ||align=center| {{nts|24531640}} ||align=center| {{percentage|24531640|28528125|1}} ||align=center| {{nts|24678880}} ||align=center| {{percentage|24678880|29639030|1}} ||align=center| {{nts|25000150}} ||align=center| {{percentage|25000150|31241030|1}} ||align=center| {{nts|25186890}} ||align=center| {{percentage|25186890|32852320|1}}
+|- class="sortbottom" 
+! Total population in private households ||align=center| {{nts|28528125}} ||align=center| {{percentage|28528125|28528125|1}} ||align=center| {{nts|29639030}} ||align=center| {{percentage|29639030|29639030|1}} ||align=center| {{nts|31241030}} ||align=center| {{percentage|31241030|31241030|1}} ||align=center| {{nts|32852320}} ||align=center| {{percentage|32852320|32852320|1}}
+|-
+|}
+
+==== By province and territory ====
+{| class="wikitable sortable"
+|-
+! colspan="22" | Visible minority population by province and territory, 2011<ref name="NHS Profiles"/>
+|-
+! Province/territory
+! '''Not a visible minority'''
+! [[South Asia]]n
+! [[Chinese Canadian|Chinese]]
+! [[Black Canadians|Black]]
+! [[Filipino Canadian|Filipino]]
+! [[Latin American Canadian|Latin American]]
+! [[Arab Canadians|Arab]]
+! [[Southeast Asia]]n
+! [[Western Asia|West Asian]]
+! [[Korean Canadian|Korean]]
+! [[Japanese Canadians|Japanese]]
+! [[Visible minority]], n.i.e.
+! [[Multiracial|Multiple]] visible minorities
+! '''Total visible minority population'''
+! '''''Total population'''''
+|-
+| [[Alberta]]<ref name="Statistics Canada"/>
+| '''2,690,960'''
+| 156,665
+| 133,390
+| 74,435
+| 106,035
+| 41,305
+| 34,920
+| 41,025
+| 16,030
+| 15,000
+| 12,415
+| 6,270
+| 18,840
+| '''656,325'''
+| '''''3,567,980'''''
+|-
+| [[British Columbia]]<ref name="www12.statcan.gc.ca"/>
+| '''2,911,295'''
+| 313,440
+| 438,140
+| 33,260
+| 126,040
+| 35,465
+| 14,090
+| 51,970
+| 38,960
+| 53,770
+| 38,120
+| 6,465
+| 31,160
+| '''1,180,870'''
+| '''''4,324,455'''''
+|-
+| [[Manitoba]]<ref name="ReferenceA"/>
+| '''824,830'''
+| 25,265
+| 17,025
+| 19,610
+| 59,220
+| 9,140
+| 3,235
+| 7,565
+| 2,040
+| 3,045
+| 1,745
+| 1,765
+| 3,975
+| '''153,625'''
+| '''''1,174,350'''''
+|-
+| [[New Brunswick]]<ref name="ReferenceB"/>
+| '''696,080'''
+| 2,445
+| 2,540
+| 4,870
+| 1,100
+| 1,160
+| 1,380
+| 730
+| 305
+| 1,855
+| 305
+| 85
+| 360
+| '''17,135'''
+| '''''735,835'''''
+|-
+| [[Newfoundland and Labrador]]<ref name="ReferenceC"/>
+| '''464,540'''
+| 1,855
+| 1,645
+| 1,455
+| 350
+| 185
+| 370
+| 320
+| 155
+| 80
+| 60
+| 205
+| 250
+| '''6,930'''
+| '''''507,270'''''
+|-
+| [[Northwest Territories]]<ref name="statcan1"/>
+| '''16,920'''
+| 185
+| 380
+| 555
+| 895
+| 105
+| 115
+| 230
+| 60
+| 50
+| 45
+| 75
+| 30
+| '''2,720'''
+| '''''40,800'''''
+|-
+| [[Nova Scotia]]<ref name="statcan2"/>
+| '''825,055'''
+| 4,965
+| 6,050
+| 20,790
+| 1,890
+| 1,360
+| 6,290
+| 1,155
+| 1,365
+| 960
+| 445
+| 720
+| 1,290
+| '''47,270'''
+| '''''906,175'''''
+|-
+| [[Nunavut]]<ref name="statcan3"/>
+| '''3,825'''
+| 95
+| 65
+| 120
+| 130
+| 25
+| 15
+| 30
+| 0
+| 10
+| 0
+| 10
+| 0
+| '''510'''
+| '''''31,700'''''
+|-
+| [[Ontario]]<ref name="statcan4"/>
+| '''9,070,800'''
+| 965,990
+| 629,140
+| 539,205
+| 275,380
+| 172,560
+| 151,645
+| 137,875
+| 122,530
+| 78,290
+| 29,085
+| 81,130
+| 96,735
+| '''3,279,565'''
+
+| '''''12,651,795'''''
+|-
+| [[Prince Edward Island]]<ref name="statcan5"/>
+| '''130,890'''
+| 485
+| 1,830
+| 390
+| 85
+| 235
+| 200
+| 205
+| 345
+| 140
+| 210
+| 75
+| 70
+| '''4,260'''
+
+| '''''137,380'''''
+|-
+| [[Quebec]]<ref name="statcan6"/>
+| '''6,740,375'''
+| 83,320
+| 82,845
+| 243,625
+| 31,495
+| 116,380
+| 166,260
+| 65,855
+| 23,445
+| 6,665
+| 4,025
+| 8,895
+| 17,420
+| '''850,235'''
+| '''''7,732,525'''''
+|-
+| [[Saskatchewan]]<ref name="statcan7"/>
+| '''787,745'''
+| 12,325
+| 11,300
+| 7,255
+| 16,025
+| 3,250
+| 2,095
+| 4,910
+| 1,600
+| 1,270
+| 720
+| 745
+| 1,775
+| '''63,275'''
+| '''''1,008,760'''''
+|-
+| [[Yukon]]<ref name="statcan8"/>
+| '''23,590'''
+| 365
+| 400
+| 100
+| 675
+| 110
+| 0
+| 210
+| 0
+| 0
+| 80
+| 35
+| 35
+| '''2,025'''
+| '''''33,320'''''
+|-
+! [[Canada]]<ref name="statcan9"/>
+! '''25,186,890'''
+! 1,567,400
+! 1,324,750
+! 945,665
+! 619,310
+! 381,280
+! 380,620
+! 312,075
+! 206,840
+! 161,130
+! 87,270
+! 106,475
+! 171,935
+! '''6,264,750'''
+! '''''32,852,325'''''
+|}
+'n.i.e.' means 'not included elsewhere'<ref name="statcan10"/><br>All statistics are from the [[Canada 2011 Census]].
+
+==== By city over 100,000 ====
+{| class="wikitable sortable"
+|-
+! colspan="15" | Visible minority in Canadian cities over 100,000 people, 2011<ref name="NHS Profiles"/>
+|-
+!City
+!Population
+![[European Canadian|European]]
+!Visible minority
+![[Black Canadian|Black]]
+![[East Asia]]n
+![[Latin American Canadian|Latin American]]
+![[South Asian Canadian|South Asian]]
+![[Southeast Asia]]n
+![[West Asia]]n and [[Arab Canadian|Arab]]
+![[Multiracial]]
+!Other
+|-
+|[[Toronto]]
+|2,576,025 
+|50.2%
+|'''49.1%'''
+|8.5%
+|12.7%
+|2.8%
+|12.3% 
+|7.0%
+|3.1%
+|1.5%
+|1.3%
+|-
+|[[Montreal]]
+|1,612,640
+|67.7%
+|'''31.7%'''
+|9.1%
+|3.2%
+|4.2%
+|3.3%
+|3.8%
+|7.2%
+|0.6%
+|0.3%
+|-
+|[[Calgary]]
+|1,082,235
+|67.3%
+|'''30.1%'''
+|2.9%
+|8.1%
+|1.8%
+|7.5%
+|6.3%
+|2.3%
+|0.8%
+|0.3%
+|-
+|[[Ottawa]]
+|867,090
+|74.2%
+|'''23.7%'''
+|5.7%
+|4.5%
+|1.2%
+|3.9%
+|2.8%
+|4.6%
+|0.7%
+|0.2%
+|-
+|[[Edmonton]]
+|795,675
+|64.7%
+|'''30.0%'''
+|3.8%
+|7.1%
+|1.7%
+|7.2%
+|6.5%
+|2.6%
+|0.8%
+|0.3%
+|-
+|[[Mississauga]]
+|708,725
+|45.8%
+|'''53.7%'''
+|6.3%
+|8.3%
+|2.2%
+|21.8%
+|7.8%
+|4.6%
+|1.5%
+|1.3%
+|-
+|[[Winnipeg]]
+|649,995
+|66.9%
+|'''21.4%'''
+|2.7%
+|2.9%
+|1.0%
+|3.5%
+|9.8%
+|0.7%
+|0.6%
+|0.2%
+|-
+|[[Vancouver]]
+|590,210
+|46.2%
+|'''51.8%'''
+|1.0%
+|30.9%
+|1.6%
+|6.0%
+|9.0%
+|1.7%
+|1.5%
+|0.2%
+|-
+|[[Brampton]]
+|521,315
+|32.9%
+|'''66.4%'''
+|13.5%
+|1.8%
+|2.2%
+|38.4%
+|5.1%
+|1.5%
+|1.4%
+|2.6%
+|-
+|[[Hamilton, Ontario|Hamilton]]
+|509,640
+|82.3%
+|'''15.7%'''
+|3.2%
+|2.2%
+|1.4%
+|3.4%
+|2.6%
+|2.2%
+|0.4%
+|0.3%
+|-
+|[[Quebec City]]
+|502,595
+|95.0%
+|'''4.0%'''
+|1.1%
+|0.4%
+|1.0%
+|0.2%
+|0.4%
+|0.8%
+|0.1%
+|0.1%
+|-
+|[[Surrey, British Columbia|Surrey]]
+|463,340
+|44.5%
+|'''52.6%'''
+|1.3%
+|8.5%
+|1.2%
+|30.7%
+|8.5%
+|1.2%
+|0.9%
+|0.2%
+|-
+|[[Laval, Quebec|Laval]]
+|392,725
+|78.7%
+|'''20.7%'''
+|6.2%
+|0.9%
+|2.5%
+|1.7%
+|2.2%
+|6.7%
+|0.3%
+|0.1%
+|-
+|[[Halifax Regional Municipality|Halifax]]
+|384,330
+|88.4%
+|'''9.1%'''
+|3.6%
+|1.5%
+|0.3%
+|1.0%
+|0.6%
+|1.8%
+|0.3%
+|0.1%
+|-
+|[[London, Ontario|London]]
+|360,715
+|82.0%
+|'''16.1%'''
+|2.4%
+|2.9%
+|2.7%
+|2.2%
+|1.7%
+|3.4%
+|0.5%
+|0.2%
+|-
+|[[Markham, Ontario|Markham]]
+|300,135
+|27.5%
+|'''72.3%'''
+|3.2%
+|39.7%
+|0.5%
+|19.1%
+|3.9%
+|3.2%
+|1.9%
+|0.7%
+|-
+|[[Vaughan]]
+|286,305
+|68.4%
+|'''31.4%'''
+|2.7%
+|6.3%
+|2.1%
+|9.7%
+|5.7%
+|3.1%
+|1.0%
+|0.8%
+|-
+|[[Gatineau]]
+|261,665
+|86.2%
+|'''10.3%'''
+|3.9%
+|1.0%
+|1.5%
+|0.3%
+|0.7%
+|2.7%
+|0.2%
+|0.1%
+|-
+|[[Longueuil]]
+|227,970
+|84.8%
+|'''14.2%'''
+|4.6%
+|1.4%
+|2.5%
+|0.9%
+|1.4%
+|2.4%
+|0.2%
+|0.2%
+|-
+|[[Burnaby]]
+|220,255
+|39.1%
+|'''59.5%'''
+|1.6%
+|36.0%
+|1.7%
+|7.9%
+|7.7%
+|2.7%
+|1.8%
+|0.2%
+|-
+|[[Saskatoon]]
+|218,315
+|77.4%
+|'''12.8%'''
+|1.1%
+|2.7%
+|0.6%
+|2.7%
+|3.9%
+|1.1%
+|0.4%
+|0.2%
+|-
+|[[Kitchener, Ontario|Kitchener]]
+|215,950
+|80.1%
+|'''18.4%'''
+|3.1%
+|2.2%
+|2.7%
+|4.1%
+|3.0%
+|2.3%
+|0.6%
+|0.4%
+|-
+|[[Windsor, Ontario|Windsor]]
+|208,015
+|74.8%
+|'''22.9%'''
+|4.6%
+|3.2%
+|1.1%
+|3.9%
+|3.1%
+|6.3%
+|0.5%
+|0.4%
+|-
+|[[Regina, Saskatchewan|Regina]]
+|189,740
+|78.6%
+|'''11.5%'''
+|1.6%
+|2.2%
+|0.7%
+|2.6%
+|3.5%
+|0.6%
+|0.3%
+|0.0%
+|-
+|[[Richmond, British Columbia|Richmond]]
+|189,305
+|28.6%
+|'''70.4%'''
+|0.7%
+|49.8%
+|0.9%
+|7.7%
+|7.8%
+|1.2%
+|2.3%
+|0.2%
+|-
+|[[Richmond Hill, Ontario|Richmond Hill]]
+|184,370
+|46.9%
+|'''52.9%'''
+|2.0%
+|26.9%
+|0.9%
+|8.1%
+|3.0%
+|10.3%
+|1.3%
+|0.4%
+|-
+|[[Oakville, Ontario|Oakville]]
+|180,430
+|77.2%
+|'''22.8%'''
+|2.7%
+|5.3%
+|1.5%
+|7.2%
+|2.7%
+|2.3%
+|0.8%
+|0.4%
+|-
+|[[Burlington, Ontario|Burlington]]
+|173,495
+|87.1%
+|'''12.0%'''
+|1.6%
+|2.4%
+|1.0%
+|3.6%
+|1.3%
+|1.4%
+|0.5%
+|0.2%
+|-
+|[[Greater Sudbury]]
+|157,765
+|89.1%
+|'''2.7%'''
+|0.6%
+|0.6%
+|0.2%
+|0.4%
+|0.3%
+|0.3%
+|0.1%
+|0.0%
+|-
+|[[Sherbrooke]]
+|150,255
+|93.6%
+|'''5.5%'''
+|1.7%
+|0.3%
+|1.4%
+|0.3%
+|0.4%
+|1.2%
+|0.1%
+|0.0%
+|-
+|[[Oshawa]]
+|147,680
+|88.7%
+|'''9.3%'''
+|3.2%
+|1.1%
+|0.7%
+|1.9%
+|1.2%
+|0.5%
+|0.4%
+|0.4%
+|-
+|[[Saguenay, Quebec|Saguenay]]
+|141,335
+|96.6%
+|'''0.9%'''
+|0.3%
+|0.2%
+|0.1%
+|0.0%
+|0.1%
+|0.2%
+|0.0%
+|0.0%
+|-
+|[[Lévis, Quebec|Lévis]]
+|135,835
+|98.0%
+|'''1.4%'''
+|0.4%
+|0.3%
+|0.2%
+|0.0%
+|0.2%
+|0.2%
+|0.1%
+|0.0%
+|-
+|[[Barrie]]
+|133,240
+|89.8%
+|'''7.6%'''
+|1.9%
+|1.3%
+|0.8%
+|1.3%
+|1.0%
+|0.3%
+|0.4%
+|0.4%
+|-
+|[[Abbotsford, British Columbia|Abbotsford]]
+|130,950
+|66.5%
+|'''29.6%'''
+|0.9%
+|2.9%
+|0.6%
+|22.4%
+|1.5%
+|0.3
+|0.4%
+|0.3%
+|-
+|[[St. Catharines]]
+|128,770
+|88.3%
+|'''9.9%'''
+|2.1%
+|1.9%
+|1.5%
+|1.1%
+|1.3%
+|1.3%
+|0.3%
+|0.3%
+|-
+|[[Trois-Rivières]]
+|126,980
+|96.3%
+|'''2.5%'''
+|0.9%
+|0.2%
+|0.6%
+|0.0%
+|0.1%
+|0.5%
+|0.0%
+|0.0%
+|-
+|[[Cambridge, Ontario|Cambridge]]
+|125,060
+|85.4%
+|'''12.6%'''
+|1.9%
+|1.2%
+|1.0%
+|5.2%
+|1.7%
+|0.9%
+|0.3%
+|0.4%
+|-
+|[[Coquitlam]]
+|125,015
+|54.1%
+|'''43.8%'''
+|1.0%
+|24.1%
+|1.5%
+|4.2%
+|5.1%
+|5.9%
+|1.3%
+|0.2%
+|-
+|[[Kingston, Ontario|Kingston]]
+|118,930
+|89.7%
+|'''7.4%'''
+|0.9%
+|2.1%
+|0.7%
+|1.7%
+|0.9%
+|0.9%
+|0.1%
+|0.1%
+|-
+|[[Whitby, Ontario|Whitby]]
+|120,285
+|79.5%
+|'''19.2%'''
+|6.2%
+|2.5%
+|0.8%
+|4.7%
+|2.2%
+|1.2%
+|1.0%
+|0.7%
+|-
+|[[Guelph]]
+|120,550
+|82.7%
+|'''15.7%'''
+|1.4%
+|3.1%
+|1.0%
+|4.1%
+|4.0%
+|1.3%
+|0.5%
+|0.2%
+|-
+|[[Kelowna]]
+|114,570
+|87.9%
+|'''7.6%'''
+|0.6%
+|2.6%
+|0.5%
+|2.3%
+|1.0%
+|0.3%
+|0.2%
+|0.2%
+|-
+|[[Saanich, British Columbia|Saanich]]
+|107,855
+|79.3%
+|'''18.0%'''
+|1.1%
+|8.6%
+|0.7%
+|3.8%
+|2.4%
+|0.7%
+|0.4%
+|0.2%
+|-
+|[[Ajax, Ontario|Ajax]]
+|109,220
+|53.2%
+|'''45.8%'''
+|16.0%
+|2.8%
+|1.0%
+|13.8%
+|5.0%
+|2.7%
+|2.0%
+|2.6%
+|-
+|[[Thunder Bay]]
+|105,950
+|87.1%
+|'''3.4%'''
+|0.5%
+|1.0%
+|0.2%
+|0.5%
+|0.7%
+|0.2%
+|0.2%
+|0.1%
+|-
+|[[Terrebonne, Quebec|Terrebonne]]
+|105,610
+|91.7%
+|'''7.6%'''
+|4.5%
+|0.2%
+|1.3%
+|0.1%
+|0.2%
+|1.1%
+|0.1%
+|0.1%
+|-
+|[[St. John's, Newfoundland and Labrador|St. John's]]
+|103,905
+|93.3%
+|'''4.4%'''
+|0.9%
+|1.1%
+|0.1%
+|1.2%
+|0.3%
+|0.3%
+|0.1%
+|0.1%
+|-
+|[[Langley, British Columbia (district municipality)|Langley]]
+|103,145
+|83.2%
+|'''13.4%'''
+|0.5%
+|6.3%
+|0.6%
+|2.7%
+|2.4%
+|0.4%
+|0.5%
+|0.1%
+|-
+|[[Chatham-Kent]]
+|101,680
+|93.2%
+|'''3.9%'''
+|1.9%
+|0.5%
+|0.3%
+|0.5%
+|0.5%
+|0.1%
+|0.1%
+|0.0%
+|}
+
+=== Aboriginal population ===
+
+{| class="wikitable" style="text-align:right;"
+|-
+! colspan="9" | Aboriginal population in Canada, 1996–2011 censuses
+|-
+! rowspan="2"| Group
+! colspan="2" | 1996<ref name=1996censusAboriginal>[http://www.statcan.gc.ca/c1996-r1996/jan13-13jan/c1996-r1996-eng.pdf Statistics Canada], Population by Aboriginal Groups and Sex, Showing Age Groups, for Canada, 1996 Census (20% Sample Data)</ref>
+! colspan="2" | 2001<ref name="2001censusprofile">[http://www12.statcan.ca/english/profil01/CP01/Details/Page.cfm?Lang=E&Geo1=PR&Code1=01&Geo2=PR&Code2=01&Data=Count&SearchText=Canada&SearchType=Begins&SearchPR=01&B1=All&Custom= Statistics Canada], Community Highlights for Canada</ref>
+! colspan="2" | 2006<ref name="2006 Canada Census Profile">[http://www12.statcan.ca/census-recensement/2006/dp-pd/prof/92-591/details/page.cfm?Lang=E&Geo1=PR&Code1=01&Geo2=PR&Code2=01&Data=Count&SearchText=Canada&SearchType=Begins&SearchPR=01&B1=All&Custom= Statistics Canada], 2006 Community Profiles: Canada (Country)</ref> 
+! colspan="2" | 2011<ref name="2011NHSprofile">[http://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=01&Data=Count&SearchText=Canada&SearchType=Begins&SearchPR=01&A1=All&B1=All&Custom=&TABID=1 Statistics Canada], NHS Profile, Canada, 2011</ref>
+|- style="background:#e0e0e0;"
+! %
+! Total
+! %
+! Total
+! %
+! Total
+! %
+! Total
+|-
+|align="left"|'''Total Aboriginal'''
+|'''2.8%'''
+|'''799,005'''
+|'''3.3%''' 
+|'''976,305'''
+|'''3.8%''' 
+|'''1,172,785'''
+|'''4.3%'''
+|'''1,400,685'''
+|-
+|align="left"|[[First Nations]]
+|1.8% 
+|529,040
+|2.1%
+|608,850
+|2.2%
+|698,025
+|2.6% 
+|851,560
+|-
+|align="left"|[[Métis people (Canada)|Métis]]
+|0.7%
+|204,115
+|1.0%
+|292,305
+|1.2%
+|389,780
+|1.4% 
+|451,795
+|-
+|align="left"|[[Inuit people|Inuit]]
+|0.14%
+|40,220 
+|
+| 
+|0.16%
+|50,485
+|0.2%
+|59,445
+|}
+
+''Note: Inuit, other Aboriginal and mixed Aboriginal groups are not listed as their own, but they are all accounted for in total Aboriginal''
+
+==== By province and territory ====
+
+{| class="wikitable sortable"
+! colspan="22" | Aboriginal population by province and territory, 2011<ref name="NHS Profiles">[http://www12.statcan.gc.ca/nhs-enm/index-eng.cfm Statistics Canada], NHS Profiles</ref>
+|-
+! Province/territory
+! Not Aboriginal
+! [[First Nations]]
+! [[Métis people (Canada)|Métis]]
+! [[Inuit]]
+! [[Aboriginal peoples in Canada|Aboriginal]], n.i.e.
+! Multiple Aboriginal identities
+! '''Total Aboriginal population'''
+! '''''Total population'''''
+|-
+| [[Alberta]]<ref name="Statistics Canada">[http://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=48&Data=Count&SearchText=Alberta&SearchType=Begins&SearchPR=01&A1=All&B1=All&Custom=&TABID=1 Statistics Canada], National Household Survey (NHS) Profile, 2011</ref>
+| '''2,690,960'''
+| 116,670
+| 96,870
+| 1,985
+| 3,300
+| 1,870
+| '''220,695'''
+| '''''3,567,980'''''
+|-
+| [[British Columbia]]<ref name="www12.statcan.gc.ca">[http://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=59&Data=Count&SearchText=British%20Columbia&SearchType=Begins&SearchPR=01&A1=All&B1=All&Custom=&TABID=1 Statistics Canada], National Household Survey (NHS) Profile, 2011</ref>
+| '''2,911,295'''
+| 155,020
+| 69,475
+| 1,570
+| 3,745
+| 2,480
+| '''232,290'''
+| '''''4,324,455'''''
+|-
+| [[Manitoba]]<ref name="ReferenceA">[http://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=46&Data=Count&SearchText=Manitoba&SearchType=Begins&SearchPR=01&A1=All&B1=All&Custom=&TABID=1 Statistics Canada], National Household Survey (NHS) Profile, 2011</ref>
+| '''824,830'''
+| 114,225
+| 78,830
+| 580
+| 1,055
+| 1,200
+| '''195,895'''
+| '''''1,174,350'''''
+|-
+| [[New Brunswick]]<ref name="ReferenceB">[http://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=13&Data=Count&SearchText=New%20Brunswick&SearchType=Begins&SearchPR=01&A1=All&B1=All&Custom=&TABID=1 Statistics Canada], National Household Survey (NHS) Profile, 2011</ref>
+| '''696,080'''
+| 16,120
+| 4,850
+| 485
+| 1,020
+| 150
+| '''22,620'''
+| '''''735,835'''''
+|-
+| [[Newfoundland and Labrador]]<ref name="ReferenceC">[http://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=10&Data=Count&SearchText=Newfoundland%20and%20Labrador&SearchType=Begins&SearchPR=01&A1=All&B1=All&Custom=&TABID=1 Statistics Canada], National Household Survey (NHS) Profile, 2011</ref>
+| '''464,540'''
+| 19,315
+| 7,660
+| 6,265
+| 2,300
+| 260
+| '''35,800'''
+| '''''507,270'''''
+|-
+| [[Northwest Territories]]<ref name="statcan1">[http://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=61&Data=Count&SearchText=Northwest%20Territories&SearchType=Begins&SearchPR=01&A1=All&B1=All&Custom=&TABID=1 Statistics Canada], National Household Survey (NHS) Profile, 2011</ref>
+| '''16,920'''
+| 13,350
+| 3,250
+| 4,335
+| 185
+| 45
+| '''21,160'''
+| '''''40,800'''''
+|-
+| [[Nova Scotia]]<ref name="statcan2">[http://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=12&Data=Count&SearchText=Nova%20Scotia&SearchType=Begins&SearchPR=01&A1=All&B1=All&Custom=&TABID=1 Statistics Canada], National Household Survey (NHS) Profile, 2011</ref>
+| '''825,055'''
+| 21,895
+| 10,050
+| 695
+| 980
+| 225
+| '''33,850'''
+| '''''906,175'''''
+|-
+| [[Nunavut]]<ref name="statcan3">[http://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=62&Data=Count&SearchText=Nunavut&SearchType=Begins&SearchPR=01&A1=All&B1=All&Custom=&TABID=1 Statistics Canada], National Household Survey (NHS) Profile, 2011</ref>
+| '''3,825'''
+| 125
+| 130
+| 27,070
+| 15
+| 20
+| '''27,365'''
+| '''''31,700'''''
+|-
+| [[Ontario]]<ref name="statcan4">[http://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=35&Data=Count&SearchText=Ontario&SearchType=Begins&SearchPR=01&A1=All&B1=All&Custom=&TABID=1 Statistics Canada], National Household Survey (NHS) Profile, 2011</ref>
+| '''9,070,800'''
+
+| 201,100
+| 86,020
+| 3,355
+| 8,040
+| 2,910
+| '''301,430'''
+| '''''12,651,795'''''
+|-
+| [[Prince Edward Island]]<ref name="statcan5">[http://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=11&Data=Count&SearchText=Prince%20Edward%20Island&SearchType=Begins&SearchPR=01&A1=All&B1=All&Custom=&TABID=1 Statistics Canada], National Household Survey (NHS) Profile, 2011</ref>
+| '''130,890'''
+
+| 1,520
+| 410
+| 55
+| 235
+| 0
+| '''2,230'''
+| '''''137,380'''''
+|-
+| [[Quebec]]<ref name="statcan6">[http://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=24&Data=Count&SearchText=Quebec&SearchType=Begins&SearchPR=01&A1=All&B1=All&Custom=&TABID=1 Statistics Canada], National Household Survey (NHS) Profile, 2011</ref>
+| '''6,740,375'''
+
+| 82,425
+| 40,960
+| 12,570
+| 4,415
+| 1,545
+| '''141,915'''
+| '''''7,732,525'''''
+|-
+| [[Saskatchewan]]<ref name="statcan7">[http://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=47&Data=Count&SearchText=Saskatchewan&SearchType=Begins&SearchPR=01&A1=All&B1=All&Custom=&TABID=1 Statistics Canada], National Household Survey (NHS) Profile, 2011</ref>
+| '''787,745'''
+
+| 103,205
+| 52,450
+| 290
+| 1,120
+| 675
+| '''157,740'''
+| '''''1,008,760'''''
+|-
+| [[Yukon]]<ref name="statcan8">[http://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=60&Data=Count&SearchText=Yukon&SearchType=Begins&SearchPR=01&A1=All&B1=All&Custom=&TABID=1 Statistics Canada], National Household Survey (NHS) Profile, 2011</ref>
+| '''23,590'''
+
+| 6,585
+| 845
+| 175
+| 70
+| 25
+| '''7,705'''
+| '''''33,320'''''
+|-
+! [[Canada]]<ref name="statcan9">[http://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=01&Data=Count&SearchText=Canada&SearchType=Begins&SearchPR=01&A1=All&B1=All&Custom=&TABID=1 Statistics Canada], National Household Survey (NHS) Profile, 2011</ref>
+! '''25,186,890'''
+! 851,560
+! 451,795
+! 59,440
+! 26,475
+! 11,415
+! '''1,400,685'''
+! '''''32,852,325'''''
+|}
+'n.i.e.' means 'not included elsewhere'<ref name="statcan10">[http://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=01&Data=Count&SearchText=Canada&SearchType=Begins&SearchPR=01&A1=Visible%20minority&B1=All&Custom=&amp;TABID=1 Statistics Canada], National Household Survey (NHS) Profile, 2011</ref><br>All statistics are from the [[Canada 2011 Census]].
+
+==== By city over 100,000 ====
+{| class="wikitable sortable"
+|-
+! colspan="15" | Aboriginal population in Canadian cities over 100,000 people, 2011<ref name="NHS Profiles"/>
+|-
+!City
+!Population
+![[European Canadian|European]]
+!Total Aboriginal
+![[First Nations]]
+![[Métis people (Canada)|Métis]]
+|-
+|[[Toronto]]
+|2,576,025 
+|50.2%
+|'''0.7%'''
+|0.5%
+|0.2%
+|-
+|[[Montreal]]
+|1,612,640
+|67.7%
+|'''0.6%'''
+|0.3%
+|0.2%
+|-
+|[[Calgary]]
+|1,082,235
+|67.3%
+|'''2.7%'''
+|1.2%
+|1.4%
+|-
+|[[Ottawa]]
+|867,090
+|74.2%
+|'''2.1%'''
+|1.2%
+|0.7%
+|-
+|[[Edmonton]]
+|795,675
+|64.7%
+|'''5.3%'''
+|2.4%
+|2.7%
+|-
+|[[Mississauga]]
+|708,725
+|45.8%
+|'''0.5%'''
+|0.3%
+|0.1%
+|-
+|[[Winnipeg]]
+|649,995
+|66.9%
+|'''11.7%'''
+|5.9%
+|6.3%
+|-
+|[[Vancouver]]
+|590,210
+|46.2%
+|'''2.0%'''
+|1.3%
+|0.6%
+|-
+|[[Brampton]]
+|521,315
+|32.9%
+|'''0.7%'''
+|0.4%
+|0.2%
+|-
+|[[Hamilton, Ontario|Hamilton]]
+|509,640
+|82.3%
+|'''2.0%'''
+|1.6%
+|0.3%
+|-
+|[[Quebec City]]
+|502,595
+|95.0%
+|'''0.9%'''
+|0.5%
+|0.4%
+|-
+|[[Surrey, British Columbia|Surrey]]
+|463,340
+|44.5%
+|'''2.9%'''
+|1.9%
+|1.0%
+|-
+|[[Laval, Quebec|Laval]]
+|392,725
+|78.7%
+|'''0.6%'''
+|0.3%
+|0.2%
+|-
+|[[Halifax Regional Municipality|Halifax]]
+|384,330
+|88.4%
+|'''2.5%'''
+|1.5%
+|0.8%
+|-
+|[[London, Ontario|London]]
+|360,715
+|82.0%
+|'''1.9%'''
+|1.4%
+|0.4%
+|-
+|[[Markham, Ontario|Markham]]
+|300,135
+|27.5%
+|'''0.2%'''
+|0.1%
+|0.1%
+|-
+|[[Vaughan]]
+|286,305
+|68.4%
+|'''0.2%'''
+|0.1%
+||0.0%
+|-
+|[[Gatineau]]
+|261,665
+|86.2%
+|'''3.5%'''
+|1.8%
+|1.5%
+|-
+|[[Longueuil]]
+|227,970
+|84.8%
+|'''1.0%'''
+|0.6%
+|0.0%
+|-
+|[[Burnaby]]
+|220,255
+|39.1%
+|'''1.5%'''
+|0.9%
+|0.5%
+|-
+|[[Saskatoon]]
+|218,315
+|77.4%
+|'''10.2%'''
+|4.9%
+|4.6%
+|-
+|[[Kitchener, Ontario|Kitchener]]
+|215,950
+|80.1%
+|'''1.5%'''
+|0.9%
+|0.5%
+|-
+|[[Windsor, Ontario|Windsor]]
+|208,015
+|74.8%
+|'''2.3%'''
+|1.3%
+|0.9%
+|-
+|[[Regina, Saskatchewan|Regina]]
+|189,740
+|78.6%
+|'''9.9%'''
+|5.8%
+|3.9%
+|-
+|[[Richmond, British Columbia|Richmond]]
+|189,305
+|28.6%
+|'''1.0%'''
+|0.7%
+|0.3%
+|-
+|[[Richmond Hill, Ontario|Richmond Hill]]
+|184,370
+|46.9%
+|'''0.2%'''
+|0.1%
+|0.0%
+|-
+|[[Oakville, Ontario|Oakville]]
+|180,430
+|77.2%
+|'''0.6%'''
+|0.4%
+|0.2%
+|-
+|[[Burlington, Ontario|Burlington]]
+|173,495
+|87.1%
+|'''0.9%'''
+|0.5%
+|0.3%
+|-
+|[[Greater Sudbury]]
+|157,765
+|89.1%
+
+|'''8.2%'''
+|3.8%
+|4.1%
+|-
+|[[Sherbrooke]]
+|150,255
+|93.6%
+|'''0.9%'''
+|0.5%
+|0.3%
+|-
+|[[Oshawa]]
+|147,680
+|88.7%
+|'''2.0%'''
+|1.2%
+|0.8%
+|-
+|[[Saguenay, Quebec|Saguenay]]
+|141,335
+|96.6%
+|'''2.5%'''
+|0.8%
+|1.6%
+|-
+|[[Lévis, Quebec|Lévis]]
+|135,835
+|98.0%
+|'''0.5%'''
+|0.2%
+|0.2%
+|-
+|[[Barrie]]
+|133,240
+|89.8%
+|'''2.6%'''
+|1.4%
+|1.2%
+|-
+|[[Abbotsford, British Columbia|Abbotsford]]
+|130,950
+|66.5%
+|'''4.0%'''
+|2.5%
+|1.6%
+|-
+|[[St. Catharines]]
+|128,770
+|88.3%
+|'''1.9%'''
+|1.2%
+|0.6%
+|-
+|[[Trois-Rivières]]
+|126,980
+|96.3%
+|'''1.1%'''
+|0.6%
+|0.4%
+|-
+|[[Cambridge, Ontario|Cambridge]]
+|125,060
+|85.4%
+|'''2.0%'''
+|1.2%
+|0.6%
+|-
+|[[Coquitlam]]
+|125,015
+|54.1%
+|'''2.1%'''
+|1.1%
+|0.9%
+|-
+|[[Kingston, Ontario|Kingston]]
+|118,930
+|89.7%
+|'''2.9%'''
+|2.0%
+|0.8%
+|-
+|[[Whitby, Ontario|Whitby]]
+|120,285
+|79.5%
+|'''1.2%'''
+|0.7%
+|0.4%
+|-
+|[[Guelph]]
+|120,550
+|82.7%
+|'''1.6%'''
+|1.0%
+|0.6%
+|-
+|[[Kelowna]]
+|114,570
+|87.9%
+|'''4.5%'''
+|2.1%
+|2.3%
+|-
+|[[Saanich, British Columbia|Saanich]]
+|107,855
+|79.3%
+|'''2.7%'''
+|1.5%
+|1.1%
+|-
+|[[Ajax, Ontario|Ajax]]
+|109,220
+|53.2%
+|'''1.0%'''
+|0.7%
+|0.3%
+|-
+|[[Thunder Bay]]
+|105,950
+|87.1%
+|'''9.5%'''
+|7.3%
+|2.0%
+|-
+|[[Terrebonne, Quebec|Terrebonne]]
+|105,610
+|91.7%
+|'''0.7%'''
+|0.5%
+|0.1%
+|-
+|[[St. John's, Newfoundland and Labrador|St. John's]]
+|103,905
+|93.3%
+|'''2.6%'''
+|1.2%
+|0.8%
+|-
+|[[Langley, British Columbia (district municipality)|Langley]]
+|103,145
+|83.2%
+|'''3.4%'''
+|1.6%
+|1.7%
+|-
+|[[Chatham-Kent]]
+|101,680
+|93.2%
+|'''2.9%'''
+|1.7%
+|0.9%
+|}
+
+==Languages==
+{{Main|Languages of Canada}}
+{{bar box
+|title=Languages in Canada
+|titlebar=#ddd
+|left1=Language
+|right1=Percent
+|float=right
+|bars=
+{{bar percent|[[English language|English]]|red|58}}
+{{bar percent|[[French language|French]]|blue|22}}
+{{bar percent|English and French|purple|11}}
+{{bar percent|others|gray|9}}
+}}
+
+'''[[Language]] used most often at work:'''<ref name=languagesatwork2006>[http://www12.statcan.gc.ca/census-recensement/2006/dp-pd/tbt/Rp-eng.cfm?LANG=E&APATH=3&DETAIL=0&DIM=0&FL=A&FREE=0&GC=0&GID=0&GK=0&GRP=1&PID=92002&PRID=0&PTYPE=88971,97154&S=0&SHOWALL=0&SUB=0&Temporal=2006&THEME=70&VID=0&VNAMEE=&VNAMEF= Statistics Canada – Language used at work1 by frequency of language used at work and mother tongue, 2006 counts]</ref>
+* [[English language|English]]: 78.3%
+* [[French language|French]]: 21.7%
+* Non-official languages: 2%
+
+'''Languages by [[home language|language used most often at home]]:'''<ref>The percentage figures cited are the top languages spoken as a [[home language]] in Canada, shown as a percentage of total single responses. Source: Statistics Canada, ''2006 Census Profile of Federal Electoral Districts (2003 Representation Order): Language, Mobility and Migration and Immigration and Citizenship.'' Ottawa, 2007, pp. 6–10. Data available online at: {{cite web
+| url = http://www12.statcan.gc.ca/census-recensement/2006/dp-pd/tbt/Rp-eng.cfm?TABID=0&LANG=E&A=R&APATH=3&DETAIL=0&DIM=0&FL=A&FREE=0&GC=01&GID=837928&GK=1&GRP=1&O=D&PID=94817&PRID=0&PTYPE=88971,97154&S=0&SHOWALL=0&SUB=702&Temporal=2006&THEME=70&VID=0&VNAMEE=&VNAMEF=&D1=0&D2=0&D3=0&D4=0&D5=0&D6=0
+| title = Detailed Language Spoken Most Often at Home
+| date = April 8, 2008
+| work = 2006 Census of Canada: Topic-based tabulations
+| publisher = Statistics Canada
+| accessdate = January 15, 2010
+}}</ref>
+* [[English language|English]]: 67.1%
+* [[French language|French]]: 21.5%
+* Non-official languages: 11.4%
+
+'''Languages by mother tongue:'''
+{| class="wikitable sortable"
+|-
+![[First language]]
+![[Population]] ([[Canada 2011 Census|2011]])
+!% of total population ([[Canada 2011 Census|2011]])
+![[Population]] ([[Canada 2006 Census|2006]])
+!% of total population ([[Canada 2006 Census|2006]])
+!Increase (2006–2011)
+!Notes
+|-
+| '''''[[Monolingualism|Single language]] responses'''''
+| '''''32,481,635'''''
+| '''''{{Percentage | 32481635 | 33121175 | 1 }}'''''
+| '''''30,848,270'''''
+| '''''98.7%'''''
+| '''''{{percentage|{{#expr: 32481635 - 30848270 }}| 30848270 | 1 }}'''''
+|
+|-
+| ''[[Official language]]s''
+| ''25,913,955''
+| ''{{Percentage | 25913955 | 33121175 | 1 }}''
+| ''24,700,425''
+| ''79.1%''
+| ''{{percentage|{{#expr: 25913955 - 24700425 }}| 24700425 | 1 }}''
+|
+|-
+| [[English language|English]]
+| 18,858,980
+| {{Percentage | 18858980 | 33121175 | 1 }}
+| 17,882,775
+| 57.2%
+| {{percentage|{{#expr: 18858980 - 17882775 }}| 17882775 | 1 }}
+|
+|-
+| [[French language|French]]
+| 7,054,975
+| {{Percentage | 7054975 | 33121175 | 1 }}
+| 6,817,650
+| 21.8%
+| {{percentage|{{#expr: 7054975 - 6817650 }}| 6817650 | 1 }}
+|
+|-
+| ''Non-official languages''
+| ''6,567,680''
+| ''{{Percentage | 6567680 | 33121175 | 1 }}''
+| ''6,147,840''
+| ''19.7%''
+| ''{{percentage|{{#expr: 6567680 - 6147840 }}| 6147840 | 1 }}''
+|
+|-
+| [[Punjabi language|Punjabi]]
+| 430,705
+| {{Percentage | 430705 | 33121175 | 1 }}
+| 367,505
+| 1.2%
+| {{percentage|{{#expr: 430705 - 367505 }}| 367505 | 1 }}
+|
+|-
+| [[Chinese language|Chinese]], n.o.s.
+| 425,210
+| {{Percentage | 425210 | 33121175 | 1 }}
+| 456,705
+| 1.5%
+| {{percentage|{{#expr: 425210 - 456705 }}| 456705 | 1 }}
+|
+|-
+| [[Spanish language|Spanish]]
+| 410,670
+| {{Percentage | 410670 | 33121175 | 1 }}
+| 345,345
+| 1.1%
+| {{percentage|{{#expr: 410670 - 345345 }}| 345345 | 1 }}
+|
+|-
+| [[German language|German]]
+| 409,200
+| {{Percentage | 409200 | 33121175 | 1 }}
+| 450,570
+| 1.4%
+| {{percentage|{{#expr: 409200 - 450570 }}| 450570 | 1 }}
+|
+|-
+| [[Italian language|Italian]]
+| 407,485
+| {{Percentage | 407485 | 33121175 | 1 }}
+| 455,040
+| 1.5%
+| {{percentage|{{#expr: 407485 - 455040 }}| 455040 | 1 }}
+|
+|-
+| [[Cantonese]]
+| 372,460
+| {{Percentage | 372460 | 33121175 | 1 }}
+| 361,450
+| 1.2%
+| {{percentage|{{#expr: 372460 - 361450 }}| 361450 | 1 }}
+|
+|-
+| [[Arabic language|Arabic]]
+| 327,870
+| {{Percentage | 327870 | 33121175 | 1 }}
+| 261,640
+| 0.8%
+| {{percentage|{{#expr: 327870 - 261640 }}| 261640 | 1 }}
+|
+|-
+| [[Tagalog language|Tagalog]] (Pilipino, Filipino)
+| 327,445
+| {{Percentage | 327445 | 33121175 | 1 }}
+| 235,615
+| 0.8%
+| {{percentage|{{#expr: 327445 - 235615 }}| 235615 | 1 }}
+|
+|-
+| [[Mandarin Chinese|Mandarin]]
+| 248,705
+| {{Percentage | 248705 | 33121175 | 1 }}
+| 170,950
+| 0.5%
+| {{percentage|{{#expr: 248705 - 170950 }}| 170950 | 1 }}
+|
+|-
+| [[Portuguese language|Portuguese]]
+| 211,335
+| {{Percentage | 211335 | 33121175 | 1 }}
+| 219,275
+| 0.7%
+| {{percentage|{{#expr: 211335 - 219275 }}| 219275 | 1 }}
+|
+|-
+| [[Polish language|Polish]]
+| 191,645
+| {{Percentage | 191645 | 33121175 | 1 }}
+| 211,175
+| 0.7%
+| {{percentage|{{#expr: 191645 - 211175 }}| 211175 | 1 }}
+|
+|-
+| [[Urdu language|Urdu]]
+| 172,800
+| {{Percentage | 172800 | 33121175 | 1 }}
+| 145,805
+| 0.5%
+| {{percentage|{{#expr: 172800 - 145805 }}| 145805 | 1 }}
+|
+|-
+| [[Persian language|Persian]]
+| 170,045
+| {{Percentage | 170045 | 33121175 | 1 }}
+| 134,080
+| 0.4%
+| {{percentage|{{#expr: 170045 - 134080 }}| 134080 | 1 }}
+|
+|-
+| [[Russian language|Russian]]
+| 164,330
+| {{Percentage | 164330 | 33121175 | 1 }}
+| 133,580
+| 0.4%
+| {{percentage|{{#expr: 164330 - 133580 }}| 133580 | 1 }}
+|
+|-
+| [[Vietnamese language|Vietnamese]]
+| 144,880
+| {{Percentage | 144880 | 33121175 | 1 }}
+| 141,625
+| 0.5%
+| {{percentage|{{#expr: 144880 - 141625 }}| 141625 | 1 }}
+|
+|-
+| [[Korean language|Korean]]
+| 137,925
+| {{Percentage | 137925 | 33121175 | 1 }}
+| 125,570
+| 0.4%
+| {{percentage|{{#expr: 137925 - 125570 }}| 125570 | 1 }}
+|
+|-
+| [[Tamil language|Tamil]]
+| 131,265
+| {{Percentage | 131265 | 33121175 | 1 }}
+| 115,880
+| 0.4%
+| {{percentage|{{#expr: 131265 - 115880 }}| 115880 | 1 }}
+|
+|-
+| [[Ukrainian language|Ukrainian]]
+| 111,540
+| {{Percentage | 111540 | 33121175 | 1 }}
+| 134,500
+| 0.4%
+| {{percentage|{{#expr: 111540 - 134500 }}| 134500 | 1 }}
+|
+|-
+| [[Dutch language|Dutch]]
+| 110,490
+| {{Percentage | 110490 | 33121175 | 1 }}
+| 128,900
+| 0.4%
+| {{percentage|{{#expr: 110490 - 128900 }}| 128900 | 1 }}
+|
+|-
+| [[Greek language|Greek]]
+| 108,925
+| {{Percentage | 108925 | 33121175 | 1 }}
+| 117,285
+| 0.4%
+| {{percentage|{{#expr: 108925 - 117285 }}| 117285 | 1 }}
+|
+|-
+| [[Gujarati language|Gujarati]]
+| 91,450
+| {{Percentage | 91450 | 33121175 | 1 }}
+| 81,465
+| 0.3%
+| {{percentage|{{#expr: 91450 - 81465 }}| 81465 | 1 }}
+|
+|-
+| [[Hindustani language|Hindustani]] ([[Hindi]])
+| 90,545
+| {{Percentage | 90545 | 33121175 | 1 }}
+| 78,240
+| 0.3%
+| {{percentage|{{#expr: 90545 - 78240 }}| 78240 | 1 }}
+|
+|-
+| [[Romanian language|Romanian]]
+| 90,300
+| {{Percentage | 90300 | 33121175 | 1 }}
+| 78,495
+| 0.3%
+| {{percentage|{{#expr: 90300 - 78495 }}| 78495 | 1 }}
+|
+|-
+| [[Cree language|Cree]], n.o.s.
+| 77,900
+| {{Percentage | 77900 | 33121175 | 1 }}
+| 78,855
+| 0.3%
+| {{percentage|{{#expr: 77900 - 78855 }}| 78855 | 1 }}
+| In the 2006 Census, this language was referred to simply as 'Cree'.
+|-
+| [[Hungarian language|Hungarian]]
+| 67,920
+| {{Percentage | 67920 | 33121175 | 1 }}
+| 73,335
+| 0.2%
+| {{percentage|{{#expr: 67920 - 73335 }}| 73335 | 1 }}
+|
+|-
+| [[Creole language|Creoles]]
+| 61,725
+| {{Percentage | 61725 | 33121175 | 1 }}
+| 53,515
+| 0.2%
+| {{percentage|{{#expr: 61725 - 53515 }}| 53515 | 1 }}
+|
+|-
+| [[Bengali language|Bengali]]
+| 59,370
+| {{Percentage | 59370 | 33121175 | 1 }}
+| 45,685
+| 0.1%
+| {{percentage|{{#expr: 59370 - 45685 }}| 45685 | 1 }}
+|
+|-
+| [[Serbian language|Serbian]]
+| 56,420
+| {{Percentage | 56420 | 33121175 | 1 }}
+| 51,665
+| 0.2%
+| {{percentage|{{#expr: 56420 - 51665 }}| 51665 | 1 }}
+|
+|-
+| [[Croatian language|Croatian]]
+| 49,730
+| {{Percentage | 49730 | 33121175 | 1 }}
+| 55,330
+| 0.2%
+| {{percentage|{{#expr: 49730 - 55330 }}| 55330 | 1 }}
+|
+|-
+| [[Japanese language|Japanese]]
+| 39,985
+| {{Percentage | 39985 | 33121175 | 1 }}
+| 40,200
+| 0.1%
+| {{percentage|{{#expr: 39985 - 40200 }}| 40200 | 1 }}
+|
+|-
+| [[Inuktitut]]
+| 33,500
+| {{Percentage | 33500 | 33121175 | 1 }}
+| 32,015
+| 0.1%
+| {{percentage|{{#expr: 33500 - 32015 }}| 32015 | 1 }}
+| In the 2006 Census, this language was referred to as 'Inuktitut, n.i.e.'.
+|-
+| [[Somali language|Somali]]
+| 31,380
+| {{Percentage | 31380 | 33121175 | 2 }}
+| 27,320
+| 0.09%
+| {{percentage|{{#expr: 31380 - 27320 }}| 27320 | 1 }}
+|
+|-
+| [[Armenian language|Armenian]]
+| 29,795
+| {{Percentage | 29795 | 33121175 | 2 }}
+| 30,130
+| 0.1%
+| {{percentage|{{#expr: 29795 - 30130 }}| 30130 | 1 }}
+|
+|-
+| [[Turkish language|Turkish]]
+| 29,640
+| {{Percentage | 29640 | 33121175 | 2 }}
+| 24,745
+| 0.08%
+| {{percentage|{{#expr: 29640 - 24745 }}| 24745 | 1 }}
+|
+|-
+| [[Albanian language|Albanian]]
+| 23,820
+| {{Percentage | 23820 | 33121175 | 2 }}
+| N/A
+| N/A
+| N/A
+|
+|-
+| [[Czech language|Czech]]
+| 23,585
+| {{Percentage | 23585 | 33121175 | 2 }}
+| 24,450
+| 0.08%
+| {{percentage|{{#expr: 23585 - 24450 }}| 24450 | 1 }}
+|
+|-
+| [[Khmer language|Khmer]] (Cambodian)
+| 19,440
+| {{Percentage | 19440 | 33121175 | 2 }}
+| 19,105
+| 0.06%
+| {{percentage|{{#expr: 19440 - 19105 }}| 19105 | 1 }}
+|
+|-
+| [[Bulgarian language|Bulgarian]]
+| 19,050
+| {{Percentage | 19050 | 33121175 | 2 }}
+| 16,790
+| 0.05%
+| {{percentage|{{#expr: 19050 - 16790 }}| 16790 | 1 }}
+|
+|-
+| [[Hebrew language|Hebrew]]
+| 18,450
+| {{Percentage | 18450 | 33121175 | 2 }}
+| 17,635
+| 0.06%
+| {{percentage|{{#expr: 18450 - 17635 }}| 17635 | 1 }}
+|
+|-
+| [[Amharic language|Amharic]]
+| 18,020
+| {{Percentage | 18020 | 33121175 | 2 }}
+| 14,555
+| 0.05%
+| {{percentage|{{#expr: 18020 - 14555 }}| 14555 | 1 }}
+|
+|-
+| [[Ilokano language|Ilocano]]
+| 17,915
+| {{Percentage | 17915 | 33121175 | 2 }}
+| 13,450
+| 0.04%
+| {{percentage|{{#expr: 17915 - 13450 }}| 13450 | 1 }}
+|
+|-
+| [[Ojibwe language|Ojibway]]
+| 17,625
+| {{Percentage | 17625 | 33121175 | 2 }}
+| 24,190
+| 0.08%
+| {{percentage|{{#expr: 17625 - 24190 }}| 24190 | 1 }}
+|
+|-
+| [[Slovak language|Slovak]]
+| 17,580
+| {{Percentage | 17580 | 33121175 | 2 }}
+| 18,820
+| 0.06%
+| {{percentage|{{#expr: 17580 - 18820 }}| 18820 | 1 }}
+|
+|-
+| [[Finnish language|Finnish]]
+| 17,415
+| {{Percentage | 17415 | 33121175 | 2 }}
+| 21,030
+| 0.07%
+| {{percentage|{{#expr: 17415 - 21030 }}| 21030 | 1 }}
+|
+|-
+| [[Macedonian language|Macedonian]]
+| 17,245
+| {{Percentage | 17245 | 33121175 | 2 }}
+| 18,435
+| 0.06%
+| {{percentage|{{#expr: 17245 - 18435 }}| 18435 | 1 }}
+|
+|-
+| [[Semitic languages]], n.i.e.
+| 16,970
+| {{Percentage | 16970 | 33121175 | 2 }}
+| N/A
+| N/A
+| N/A
+|
+|-
+| [[Visayan languages|Bisayan languages]]
+| 16,240
+| {{Percentage | 16240 | 33121175 | 2 }}
+| 11,240
+| 0.04%
+| {{percentage|{{#expr: 16240 - 11240 }}| 11240 | 1 }}
+|
+|-
+| [[Malayalam]]
+| 16,080
+| {{Percentage | 16080 | 33121175 | 2 }}
+| 11,925
+| 0.04%
+| {{percentage|{{#expr: 16080 - 11925 }}| 11925 | 1 }}
+|
+|-
+| [[Yiddish language|Yiddish]]
+| 15,205
+| {{Percentage | 15205 | 33121175 | 2 }}
+| 16,295
+| 0.05%
+| {{percentage|{{#expr: 15205 - 16295 }}| 16295 | 1 }}
+|
+|-
+| [[Sinhala language|Sinhala]] (Sinhalese)
+| 14,185
+| {{Percentage | 14185 | 33121175 | 2 }}
+| 10,180
+| 0.03%
+| {{percentage|{{#expr: 14185 - 10180 }}| 10180 | 1 }}
+|
+|-
+| [[Danish language|Danish]]
+| 14,145
+| {{Percentage | 14145 | 33121175 | 2 }}
+| 18,735
+| 0.06%
+| {{percentage|{{#expr: 14145 - 18735 }}| 18735 | 1 }}
+|
+|-
+| [[Niger–Congo languages]], n.i.e.
+| 14,075
+| {{Percentage | 14075 | 33121175 | 2 }}
+| N/A
+| N/A
+| N/A
+|
+|-
+| [[Lao language|Lao]]
+| 12,970
+| {{Percentage | 12970 | 33121175 | 2 }}
+| 13,940
+| 0.04%
+| {{percentage|{{#expr: 12970 - 13940 }}| 13940 | 1 }}
+|
+|-
+| [[Akan language|Akan]] (Twi)
+| 12,680
+| {{Percentage | 12680 | 33121175 | 2 }}
+| 12,780
+| 0.04%
+| {{percentage|{{#expr: 12680 - 12780 }}| 12780 | 1 }}
+|
+|-
+| [[Pashto language|Pashto]]
+| 12,465
+| {{Percentage | 12465 | 33121175 | 2 }}
+| 9,025
+| 0.03%
+| {{percentage|{{#expr: 12465 - 9025 }}| 9025 | 1 }}
+|
+|-
+| [[Bosnian language|Bosnian]]
+| 11,685
+| {{Percentage | 11685 | 33121175 | 2 }}
+| 12,790
+| 0.04%
+| {{percentage|{{#expr: 11685 - 12790 }}| 12790 | 1 }}
+|
+|-
+| [[Sindhi language|Sindhi]]
+| 11,330
+| {{Percentage | 11330 | 33121175 | 2 }}
+| 10,355
+| 0.03%
+| {{percentage|{{#expr: 11330 - 10355 }}| 10355 | 1 }}
+|
+|-
+| [[Chipewyan language|Dene]]
+| 11,215
+| {{Percentage | 11215 | 33121175 | 2 }}
+| 9,745
+| 0.03%
+| {{percentage|{{#expr: 11215 - 9745 }}| 9745 | 1 }}
+|
+|-
+| [[Oromo language|Oromo]]
+| 11,140
+| {{Percentage | 11140 | 33121175 | 2 }}
+| N/A
+| N/A
+| N/A
+|
+|-
+| [[Malay language|Malay]]
+| 10,910
+| {{Percentage | 10910 | 33121175 | 2 }}
+| 9,490
+| 0.03%
+| {{percentage|{{#expr: 10910 - 9490 }}| 9490 | 1 }}
+|
+|-
+| [[Innu language|Innu]]/Montagnais
+| 10,785
+| {{Percentage | 10785 | 33121175 | 2 }}
+| 10,975
+| 0.04%
+| {{percentage|{{#expr: 10785 - 10975 }}| 10975 | 1 }}
+| In the 2006 Census, this language was referred to as 'Montagnais-[[Naskapi language|Naskapi]]'.
+|-
+| [[Slovene language|Slovenian]]
+| 10,775
+| {{Percentage | 10775 | 33121175 | 2 }}
+| 13,135
+| 0.04%
+| {{percentage|{{#expr: 10775 - 13135 }}| 13135 | 1 }}
+|
+|-
+| [[Tigrinya language|Tigrigna]]
+| 10,220
+| {{Percentage | 10220 | 33121175 | 2 }}
+| 7,105
+| 0.02%
+| {{percentage|{{#expr: 10220 - 7105 }}| 7105 | 1 }}
+|
+|-
+| [[Serbo-Croatian]]
+| 10,155
+| {{Percentage | 10155 | 33121175 | 2 }}
+| 12,510
+| 0.04%
+| {{percentage|{{#expr: 10155 - 12510 }}| 12510 | 1 }}
+|
+|-
+| [[Swahili language|Swahili]]
+| 10,090
+| {{Percentage | 10090 | 33121175 | 2 }}
+| 7,935
+| 0.03%
+| {{percentage|{{#expr: 10090 - 7935 }}| 7935 | 1 }}
+|
+|-
+| [[Oji-Cree language|Oji-Cree]]
+| 9,835
+| {{Percentage | 9835 | 33121175 | 2 }}
+| 11,690
+| 0.04%
+| {{percentage|{{#expr: 9835 - 11690 }}| 11690 | 1 }}
+|
+|-
+| [[Kurdish language|Kurdish]]
+| 9,805
+| {{Percentage | 9805 | 33121175 | 2 }}
+| 7,660
+| 0.02%
+| {{percentage|{{#expr: 9805 - 7660 }}| 7660 | 1 }}
+|
+|-
+| [[Taiwanese Hokkien|Taiwanese]]
+| 9,635
+| {{Percentage | 9635 | 33121175 | 2 }}
+| 9,620
+| 0.03%
+| {{percentage|{{#expr: 9635 - 9620 }}| 9620 | 1 }}
+|
+|-
+| [[Telugu language|Telugu]]
+| 9,315
+| {{Percentage | 9315 | 33121175 | 2 }}
+| 6,625
+| 0.02%
+| {{percentage|{{#expr: 9315 - 6625 }}| 6625 | 1 }}
+|
+|-
+| [[Languages of Africa|African languages]], n.i.e.
+| 9,125
+| {{Percentage | 9125 | 33121175 | 2 }}
+| N/A
+| N/A
+| N/A
+|
+|-
+| [[Afrikaans]]
+| 8,770
+| {{Percentage | 8770 | 33121175 | 2 }}
+| N/A
+| N/A
+| N/A
+|
+|-
+| [[Nepali language|Nepali]]
+| 8,480
+| {{Percentage | 8480 | 33121175 | 2 }}
+| N/A
+| N/A
+| N/A
+|
+|-
+| [[Thai language|Thai]]
+| 7,935
+| {{Percentage | 7935 | 33121175 | 2 }}
+| N/A
+| N/A
+| N/A
+|
+|-
+| [[Mi'kmaq language|Mi'kmaq]]
+| 7,635
+| {{Percentage | 7635 | 33121175 | 2 }}
+| 7,365
+| 0.02%
+| {{percentage|{{#expr: 7635 - 7365 }}| 7365 | 1 }}
+|
+|-
+| [[Swedish language|Swedish]]
+| 7,350
+| {{Percentage | 7350 | 33121175 | 2 }}
+| 8,220
+| 0.03%
+| {{percentage|{{#expr: 7350 - 8220 }}| 8220 | 1 }}
+|
+|-
+| [[Lithuanian language|Lithuanian]]
+| 7,245
+| {{Percentage | 7245 | 33121175 | 2 }}
+| 8,335
+| 0.03%
+| {{percentage|{{#expr: 7245 - 8335 }}| 8335 | 1 }}
+|
+|-
+| [[Bantu languages]], n.i.e.
+| 7,150
+| {{Percentage | 7150 | 33121175 | 2 }}
+| N/A
+| N/A
+| N/A
+|
+|-
+| [[Estonian language|Estonian]]
+| 6,385
+| {{Percentage | 6385 | 33121175 | 2 }}
+| 8,240
+| 0.03%
+| {{percentage|{{#expr: 6385 - 8240 }}| 8240 | 1 }}
+|
+|-
+| [[Maltese language|Maltese]]
+| 6,220
+| {{Percentage | 6220 | 33121175 | 2 }}
+| 6,405
+| 0.02%
+| {{percentage|{{#expr: 6220 - 6405 }}| 6405 | 1 }}
+|
+|-
+| [[Latvian language|Latvian]]
+| 6,200
+| {{Percentage | 6200 | 33121175 | 2 }}
+| 7,000
+| 0.02%
+| {{percentage|{{#expr: 6200 - 7000 }}| 7000 | 1 }}
+|
+|-
+| [[Fujian|Fukien]]
+| 5,925
+| {{Percentage | 5925 | 33121175 | 2 }}
+| N/A
+| N/A
+| N/A
+|
+|-
+| [[Berber languages]] ([[Kabyle language|Kabyle]])
+| 5,855
+| {{Percentage | 5855 | 33121175 | 2 }}
+| N/A
+| N/A
+| N/A
+|
+|-
+| [[Marathi language|Marathi]]
+| 5,830
+| {{Percentage | 5830 | 33121175 | 2 }}
+| N/A
+| N/A
+| N/A
+|
+|-
+| [[Atikamekw language|Atikamekw]]
+| 5,820
+| {{Percentage | 5820 | 33121175 | 2 }}
+| 5,250
+| 0.02%
+| {{percentage|{{#expr: 5820 - 5250 }}| 5250 | 1 }}
+|
+|-
+| [[Norwegian language|Norwegian]]
+| 5,800
+| {{Percentage | 5800 | 33121175 | 2 }}
+| 7,225
+| 0.02%
+| {{percentage|{{#expr: 5800 - 7225 }}| 7225 | 1 }}
+|
+|-
+| [[Indo-Iranian languages]], n.i.e.
+| 5,255
+| {{Percentage | 5255 | 33121175 | 2 }}
+| N/A
+| N/A
+| N/A
+|
+|-
+| [[Hakka Chinese|Hakka]]
+| 5,115
+| {{Percentage | 5115 | 33121175 | 2 }}
+| N/A
+| N/A
+| N/A
+|
+|-
+| [[Flemish]]
+| 4,690
+| {{Percentage | 4690 | 33121175 | 2 }}
+| 5,660
+| 0.02%
+| {{percentage|{{#expr: 4690 - 5660 }}| 5660 | 1 }}
+|
+|-
+| [[Tibetic languages|Tibetan languages]]
+| 4,640
+| {{Percentage | 4640 | 33121175 | 2 }}
+| N/A
+| N/A
+| N/A
+|
+|-
+| [[Sino-Tibetan languages]], n.i.e.
+| 4,360
+| {{Percentage | 4360 | 33121175 | 2 }}
+| N/A
+| N/A
+| N/A
+|
+|-
+| Rundi ([[Kirundi]])
+| 3,975
+| {{Percentage | 3975 | 33121175 | 2 }}
+| N/A
+| N/A
+| N/A
+|
+|-
+| Rwanda ([[Kinyarwanda]])
+| 3,895
+| {{Percentage | 3895 | 33121175 | 2 }}
+| N/A
+| N/A
+| N/A
+|
+|-
+| [[Sign language]]s, n.i.e.
+| 3,815
+| {{Percentage | 3815 | 33121175 | 2 }}
+| N/A
+| N/A
+| N/A
+|
+|-
+| [[Slavic languages]], n.i.e.
+| 3,630
+| {{Percentage | 3630 | 33121175 | 2 }}
+| N/A
+| N/A
+| N/A
+|
+|-
+| [[Lingala language|Lingala]]
+| 3,085
+| {{Percentage | 3085 | 33121175 | 3 }}
+| N/A
+| N/A
+| N/A
+|
+|-
+| [[Stoney language|Stoney]]
+| 3,050
+| {{Percentage | 3050 | 33121175 | 3 }}
+| N/A
+| N/A
+| N/A
+|
+|-
+| [[Burmese language|Burmese]]
+| 2,985
+| {{Percentage | 2985 | 33121175 | 3 }}
+| N/A
+| N/A
+| N/A
+|
+|-
+| [[Shanghainese]]
+| 2,920
+| {{Percentage | 2920 | 33121175 | 3 }}
+| N/A
+| N/A
+| N/A
+|
+|-
+| [[Siouan languages]] ([[Dakota language|Dakota]]/[[Sioux language|Sioux]])
+| N/A
+| N/A
+| 5,585
+| 0.02%
+| N/A
+|
+|-
+| [[Blackfoot language|Blackfoot]]
+| N/A
+| N/A
+| 3,085
+| 0.01%
+| N/A
+|
+|-
+| [[Frisian languages|Frisian]]
+| N/A
+| N/A
+| 2,890
+| 0.009%
+| N/A
+|
+|-
+| [[Dogrib language|Dogrib]]
+| N/A
+| N/A
+| 2,020
+| 0.006%
+| N/A
+|
+|-
+| [[Algonquin language|Algonquin]]
+| N/A
+| N/A
+| 1,920
+| 0.006%
+| N/A
+|
+|-
+| [[Slavey language|South Slave]]
+| N/A
+| N/A
+| 1,605
+| 0.005%
+| N/A
+|
+|-
+| [[Carrier language|Carrier]]
+| N/A
+| N/A
+| 1,560
+| 0.005%
+| N/A
+|
+|-
+| [[Gitxsan language|Gitksan]]
+| N/A
+| N/A
+| 1,180
+| 0.004%
+| N/A
+|
+|-
+| [[Chilcotin language|Chilcotin]]
+| N/A
+| N/A
+| 1,070
+| 0.003%
+| N/A
+|
+|-
+| [[Slavey language|North Slave]] (Hare)
+| N/A
+| N/A
+| 1,065
+| 0.003%
+| N/A
+|
+|-
+| [[Shuswap language|Shuswap]]
+| N/A
+| N/A
+| 935
+| 0.003%
+| N/A
+|
+|-
+| [[Nisga’a language|Nisga’a]]
+| N/A
+| N/A
+| 680
+| 0.002%
+| N/A
+|
+|-
+| [[Malecite-Passamaquoddy language|Malecite]]
+| N/A
+| N/A
+| 535
+| 0.002%
+| N/A
+|
+|-
+| [[Chipewyan language|Chipewyan]]
+| N/A
+| N/A
+| 525
+| 0.002%
+| N/A
+|
+|-
+| [[Inuinnaq dialect|Inuinnaqtun]]
+| N/A
+| N/A
+| 365
+| 0.001%
+| N/A
+|
+|-
+| [[Gwich’in language|Kutchin-Gwich’in]] (Loucheux)
+| N/A
+| N/A
+| 360
+| 0.001%
+| N/A
+|
+|-
+| [[Mohawk language|Mohawk]]
+| N/A
+| N/A
+| 290
+| 0.0009%
+| N/A
+|
+|-
+| [[Tlingit language|Tlingit]]
+| N/A
+| N/A
+| 80
+| 0.0003%
+| N/A
+|
+|-
+| [[Languages of Canada|Other languages]]
+| 77,890
+| {{Percentage | 77890 | 33121175 | 1 }}
+| 172,650
+| 0.6%
+| {{percentage|{{#expr: 77890 - 172650 }}| 172650 | 1 }}
+|
+|-
+| '''''[[Multilingualism|Multiple language]] responses'''''
+| '''''639,540'''''
+| '''''{{Percentage | 639540 | 33121175 | 1 }}'''''
+| '''''392,760'''''
+| '''''1.3%'''''
+| '''''{{percentage|{{#expr: 639540 - 392760 }}| 392760 | 1 }}'''''
+|
+|-
+| English and French
+| 144,685
+| {{Percentage | 144685 | 33121175 | 1 }}
+| 98,630
+| 0.3%
+| {{percentage|{{#expr: 144685 - 98630 }}| 98630 | 1 }}
+|
+|-
+| English and a non-official language
+| 396,330
+| {{Percentage | 396330 | 33121175 | 1 }}
+| 240,005
+| 0.8%
+| {{percentage|{{#expr: 396330 - 240005 }}| 240005 | 1 }}
+|
+|-
+| French and a non-official language
+| 74,430
+| {{Percentage | 74430 | 33121175 | 1 }}
+| 43,335
+| 0.1%
+| {{percentage|{{#expr: 74430 - 43335 }}| 43335 | 1 }}
+|
+|-
+| English, French, and a non-official language
+| 24,095
+| {{Percentage | 24095 | 33121175 | 2 }}
+| 10,790
+| 0.03%
+| {{percentage|{{#expr: 24095 - 10790 }}| 10790 | 1 }}
+|
+|-
+| '''Total'''
+| '''33,121,175'''
+| '''{{Percentage | 33121175 | 33121175 | 1 }}'''
+| '''31,241,030'''
+| '''100%'''
+| '''{{percentage|{{#expr: 33121175 - 31241030 }}| 31241030 | 1 }}'''
+|
+|-
+|<ref>[http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=01&Geo2=PR&Code2=01&Data=Count&SearchText=Canada&SearchType=Begins&SearchPR=01&B1=All&Custom=&TABID=1#Note20 Census Profile – Province/Territory], Census Profile – Province/Territory</ref><ref>[http://www12.statcan.ca/census-recensement/2006/dp-pd/tbt/Rp-eng.cfm?TABID=1&LANG=E&APATH=3&DETAIL=0&DIM=0&FL=A&FREE=0&GC=0&GK=0&GRP=1&PID=89202&PRID=0&PTYPE=88971,97154&S=0&SHOWALL=0&SUB=0&Temporal=2006&THEME=70&VID=0&VNAMEE=&VNAMEF= Statistics Canada], [[Canada 2006 Census|2006 Census of Canada]]: Topic-based tabulations|Detailed Mother Tongue (103), Knowledge of Official Languages</ref><br>n.i.e. = not included elsewhere<br>n.o.s. = not otherwise specified
+|
+|
+|
+|
+|
+|
+|}
+
+==Religion==
+{{See also|Religion in Canada}}
+{| class="wikitable sortable"  style="text-align:right"
+|+ Top Self-Identified Religious Affiliations in Canada<ref>{{cite web| url= http://www12.statcan.ca/english/census01/Products/Analytic/companion/rel/contents.cfm | title= Religions in Canada| author= Statistics Canada | authorlink= Statistics Canada| year= 2001| accessdate= 2007-02-16}}</ref><ref>{{cite web| url= http://www12.statcan.ca/english/census01/products/standard/themes/RetrieveProductTable.cfm?Temporal=2001&PID=55822&GID=431515&METH=1&APATH=3&PTYPE=55440&THEME=56&AID=0&FREE=0&FOCUS=0&VID=0&GC=0&GK=0&SC=1&SR=1&RL=0&CPP=99&RPP=9999&D1=1&D2=1&D3=0&D4=0&D5=0&D6=0&d1=1&d2=0 | title=  Religion, Age Groups and Sex for Population of Canada | author= Statistics Canada | authorlink= Statistics Canada| year= 1991 | accessdate= 2007-02-16}}</ref><ref>{{cite web| url= http://www40.statcan.ca/l01/cst01/demo30c.htm | title= Population by religion, by province and territory (2001 Census) | author= Statistics Canada | authorlink= Statistics Canada| year= 2001| accessdate= 2007-02-16}}</ref><ref>http://www12.statcan.gc.ca/nhs-enm/2011/as-sa/99-010-x/99-010-x2011001-eng.pdf</ref>
+!
+! <big>1991</big><br>number
+! <big>1991</big><br>%
+! |<big>2001</big><br>number
+! |<big>2001</big><br>%
+! style="text-align:center; font-size:70%;"|% change<br />(in numbers)
+! |<big>2011</big><br>number
+! |<big>2011</big><br>%
+|-
+!align=left |Christian || 22,468,260 ||83|| 22,799,645 ||77|| +1.5 || 22,102,700 || 67.3
+|-
+|align=left | – [[Catholic]] ||12,335,255 ||45.7 || 12,936,905||43.6||+4.8||12,728,900||38.7
+|-
+|align=left| – [[Protestant]] || 9,427,675 || 34.9 || 8,654,850 || 29.2 || −8.2
+|-
+|  style="text-align:left; text-indent:30px;"| – [[United Church of Canada]]||3,093,120||11.3||2,839,125||9.5||−8.2||2,007,600||6.1
+|-
+|  style="text-align:left; text-indent:30px;"| – [[Anglican Church of Canada]]||2,188,110||8.0||2,035,495||6.8||−7.0||1,631,800||5.0
+|-
+| style="text-align:left; text-indent:30px;"|– [[Baptist]]||663,360||2.4||729,475||2.4||+10.0||635 840||1.9
+|-
+|  style="text-align:left; text-indent:30px;"| – [[Lutheranism|Lutheran]]||636,205||2.3||606,590||2.0||−4.7||478 185||1.4
+|-
+|  style="text-align:left; text-indent:30px;"| – [[Presbyterianism|Presbyterian]]||636,295||2.3||409,830||1.4||−35.6||472 385||1.4
+|-
+|  style="text-align:left; text-indent:30px;"| – [[Pentecostal]]||436,435||1.6 ||369,475||1.2 ||−15.3||478 705||1.4
+|-
+|  style="text-align:left; text-indent:30px;"| – [[Mennonite]]||207,970||0.8 ||191,465||0.6 ||−7.9
+|-
+|  style="text-align:left; text-indent:30px;"| – [[Jehovah's Witnesses]]||168,375||0.6 ||154,745||0.5 ||−8.1
+|-
+|  style="text-align:left; text-indent:30px;"| – [[Methodist]]||83,910||0.3 ||106,545||0.4 ||+27.0
+|-
+|  style="text-align:left; text-indent:30px;"| – [[Mormon]]||100,770||0.4 ||104,750||0.3||+3.9
+|-
+|  style="text-align:left; text-indent:30px;"| – [[Salvation Army]]||112,345||0.4 ||87,785||0.3||−21.9
+|-
+|  style="text-align:left; text-indent:30px;"| – [[Christian Reformed Church in North America]]||84,685||0.3 ||76,665||0.3||−9.5
+|-
+|  style="text-align:left; text-indent:30px;"| – [[Christian and Missionary Alliance]]||59,365||0.2 ||66,280||0.2 ||+11.9
+|-
+|  style="text-align:left; text-indent:30px;"| – [[Adventists]]||52,365||0.2 ||62,875||0.2 ||+20.1
+|-
+|align=left | – [[Orthodox Christianity|Christian Orthodox]] ||387,395||1.4||479,620||1.6||+23.8 ||550,700||1.7
+|-
+|  style="text-align:left; text-indent:30px;"| – [[Greek Orthodox]]||231,965|| 0.9||215,200 ||0.7 || −7.1 ||220,300|| 
+|-
+|align=left |  – Christian, not included elsewhere¹||353,040||1.3||780,450||2.6||+121.1||  ||4.5
+|-
+!align=left|Other religion|| 1,148,060 || 4.3 || 1,988,635 || 6.7 || +73.2||2,373,700||7.2
+|-
+|align=left| – [[Islam|Muslim]]||253,265||0.9||579,640||2.0||+128.9||1,053,945||3.2
+|-
+|align=left| – [[Hinduism|Hindu]]||157,015||0.6||297,200||1.0||+89.3||498,000||1.5
+|-
+|align=left| – [[Sikhism|Sikh]]||147,440||0.5||278,410||0.9||+88.8||455,000||1.4
+|-
+|align=left| – [[Buddhism|Buddhist]]||163,415||0.6||300,345||1.0||+83.8||366,800||1.1
+|-
+|align=left| – [[Judaism|Jewish]]||318,185||1.2||329,995||1.1||+3.7||329,500||1.0
+|-
+!align=left|No religion||3,397,000||12.6||4,900,095||16.5||+44.2||7,850,600||23.9
+|-
+| colspan="8" style="text-align:left; font-size:75%;"|¹ Includes persons who report only "Christian", only "Protestant", and those in denominations less than 60,000<br />* For comparability purposes, 1991 data are presented according to 2001 boundaries.
+|}
+
+'''Note(s):'''
+* '''[[Catholic]]''' includes [[Roman Catholic]], [[Eastern Catholic]], [[Polish National Catholic Church]], and [[Old Catholic]]
+* '''Other religions''' also includes [[Bahá'í Faith]], [[Eckankar]], [[Jainism]], [[Shinto]], [[Taoism]], [[Zoroastrianism]], [[Native American mythology|Aboriginal belief systems]], [[Neo-Paganism]], [[Wicca]], Unity – New Thought – Pantheist, [[Scientology]], [[Rastafari movement]], [[New Age]], [[Gnostic]], [[Satanism]], et cetera
+* '''No religion''' includes [[Atheism]], [[Agnosticism]], [[Humanism]], et cetera
+
+==See also==
+{{Canada provinces map|align=right|width=240px |prefix =Demographics of|caption=Demographics of Canada's provinces and territories}}
+{{stack|
+{{Wikipedia books|Canada}}
+{{Portal|Canada|History of Canada}}
+}}
+* [[1666 census of New France]]
+* [[Canada 1906 Census]]
+* [[Canada 1911 Census]]
+* [[Canada 1996 Census]]
+* [[Canada 2001 Census]]
+* [[Canada 2006 Census]]
+* [[Canada 2011 Census]]
+* [[List of Canadian census areas demographic extremes]]
+* ''[[Cahiers québécois de démographie]]'' academic journal
+* ''[[Canadian Studies in Population]]'' academic journal
+*{{Wikipedia books link|Canada}}{{clear right}}
+
+== Notes ==
+<references group="Note" />
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==Further reading==
+{{main|Bibliography of Canada}}
+{{refbegin}}
+* {{cite book
+|first =J. M  | last =Bumsted
+|authorlink =
+|title =Canada's diverse peoples: a reference sourcebook
+|edition =
+|publisher =Library of Congress ( ABC-CLIO)
+|location =
+|year =2003
+|isbn =978-1-57607-672-9
+|url =http://books.google.ca/books?id=Pb5AvfpCZZkC&lpg=PA42&dq=The%20people%20of%20Canada&pg=PP1#v=onepage&q&f=true
+}}
+* {{cite book
+|first = Paul R| last = Magocsi
+|authorlink =
+|title =Encyclopedia of Canada's peoples
+|edition =
+|publisher =Society of Ontario, University of Toronto Press
+|location =
+|year =1999
+|isbn =978-0-8020-2938-6
+|url =http://books.google.ca/books?id=dbUuX0mnvQMC&lpg=PA582&dq=Territorial%20evolution%20of%20Canada&pg=PP1#v=onepage&q&f=true
+}}
+* {{cite book
+|first =Madeline | last =Richard
+|authorlink =
+|title =Ethnic history and marital assimilation in Canada, 1871 and 1971
+|edition =
+|publisher = University of British Columbia Press
+|location =
+|year =1992
+|isbn =978-0-7748-0431-8
+|url =http://books.google.ca/books?id=y00ho38YLGMC&lpg=PA164&dq=Ethnic%20origins%20of%20people%20in%20Canada&pg=PP1#v=onepage&q&f=true
+}}
+* {{cite book|last=Thornton|first=Russell|title=A population history of North America|editor=Michael R. Haines, Richard Hall Steckel|publisher=Cambridge University Press|location=Cambridge|year=2000|url=http://books.google.ca/books?id=BPdgiysIVcgC&lpg=PP1&dq=A%20population%20history%20of%20North%20America&pg=PA13#v=onepage&q&f=true|isbn=0-521-49666-7}}
+* {{cite book|last=Wilson|first=Donna M|author2=Northcott, Herbert C|url=http://books.google.com/books?id=p_pMVs53mzQC&lpg=PA25&pg=PP1#v=onepage&q&f=true|title=Dying and Death in Canada|publisher=University of Toronto Press|location=Toronto|year=2008|isbn=978-1-55111-873-4}}
+* Roderic Beaujot and Don Kerr, (2007) ''[http://books.google.ca/books?id=CofPBh5BRhwC&lpg=PP1&dq=The%20Changing%20Face%20of%20Canada%3A%20Essential%20Readings%20in%20Population&pg=PP1#v=onepage&q&f=true The Changing Face of Canada: Essential Readings in Population]'', Canadian Scholars' Press, ISBN 978-1-55130-322-2.
+{{refend}}
+
+==External links==
+{{Commons category|Demographics of Canada}}
+* [http://www.statcan.gc.ca/pub/11-402-x/11-402-x2010000-eng.htm Canada Year Book (2010)] – Statistics Canada
+* [http://www40.statcan.ca/l01/cst01/demo23a-eng.htm Population estimates and projections, 2010 – 2036] – Statistics Canada
+
+{{Navboxes
+| title = <span style="vertical-align: 1px;">[[File:Maple Leaf (from roundel).svg|20x20px|link=|alt=]]</span> <span style="color:#00006e;">Links related to Demographics of Canada</span>
+| titlestyle = color:black; background-color:white;
+| list1  ={{People of Canada}}
+{{Canada topic|Census divisions of}}
+{{Canada topics}}
+{{North America topic|Demographics of}}
+{{Canadian identity}}}}
+
+{{DEFAULTSORT:Demographics Of Canada}}
+[[Category:Demographics of Canada| ]]
+[[Category:Demographics by country|Canada]]

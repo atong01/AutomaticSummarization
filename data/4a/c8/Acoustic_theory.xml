@@ -1,0 +1,158 @@
+<article title='Acoustic_theory'><paragraph><bold>Acoustic theory</bold><space/>is the field relating to mathematical description of<space/><link><target>Sound#Longitudinal_and_transverse_waves</target><part>sound waves</part></link>. It is derived from<space/><link><target>fluid dynamics</target></link>. See<space/><link><target>acoustics</target></link><space/>for the<space/><link><target>engineering</target></link><space/>approach.</paragraph><paragraph>The propagation of sound waves in a fluid (such as water) can be modeled by an equation of continuity (conservation of<space/><link><target>mass</target></link>) and an equation of motion (conservation of<space/><link><target>momentum</target></link>) . With some simplifications, in particular constant density, they can be given as follows:</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \begin{align}
+ \frac{\partial p}{\partial t} + \kappa~\nabla \cdot \mathbf{u} &amp; = 0 \qquad \text{(Mass balance)} \\
+ \rho_0 \frac{\partial \mathbf{u}}{\partial t} + \nabla p &amp; = 0 \qquad \text{(Momentum balance)}
+ \end{align}
+</extension></listitem></list><paragraph>where<space/><extension extension_name='math'>p(\mathbf{x}, t)</extension><space/>is the acoustic pressure and<space/><extension extension_name='math'>\mathbf{u}(\mathbf{x}, t)</extension><space/>is the<space/><link><target>flow velocity</target></link><space/>vector,<space/><extension extension_name='math'>\mathbf{x}</extension><space/>is the vector of spatial coordinates<space/><extension extension_name='math'>x, y, z</extension>,<space/><extension extension_name='math'>t</extension><space/>is the time,<space/><extension extension_name='math'>\rho_0</extension><space/>is the static mass density of the medium and<space/><extension extension_name='math'>\kappa</extension><space/>is the<space/><link><target>bulk modulus</target></link><space/>of the medium. The bulk modulus can be expressed in terms of the density and the speed of sound in the medium (<extension extension_name='math'>c_0</extension>) as</paragraph><list type='ident'><listitem><extension extension_name='math'>\kappa = \rho_0 c_0^2 ~.</extension></listitem></list><paragraph>If the flow velocity field is<space/><link><target>irrotational</target></link>,<space/><extension extension_name='math'><space/>\nabla \times \mathbf{u}=\mathbf{0}</extension>, then the<space/><link><target>acoustic wave equation</target></link><space/>is a combination of these two sets of balance equations and can be expressed as<space/><extension extension_name='ref'>Douglas D. Reynolds. (1981).<space/><italics>Engineering Principles in Acoustics</italics>, Allyn and Bacon Inc., Boston.</extension></paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \cfrac{\partial^2 \mathbf{u}}{\partial t^2} - c_0^2~\nabla^2\mathbf{u} = 0
+ \qquad \text{or} \qquad
+ \cfrac{\partial^2 p}{\partial t^2} - c_0^2~\nabla^2 p = 0,
+<space/></extension></listitem></list><paragraph>where we have used the<space/><link><target>vector Laplacian</target></link>,<space/><extension extension_name='math'><space/>\nabla^2 \mathbf{u} = \nabla(\nabla \cdot \mathbf{u}) - \nabla \times (\nabla \times \mathbf{u})<space/></extension>.The acoustic wave equation (and the mass and momentum balance equations) are often expressed in terms of a<space/><link><target>scalar potential</target></link><space/><extension extension_name='math'>\varphi</extension><space/>where<space/><extension extension_name='math'>\mathbf{u} = \nabla\varphi</extension>. In that case the acoustic wave equation is written as</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \cfrac{\partial^2 \varphi}{\partial t^2} - c_0^2~\nabla^2 \varphi = 0
+<space/></extension></listitem></list><paragraph>and the momentum balance and mass balance are expressed as</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ p + \rho_0~\cfrac{\partial\varphi}{\partial t} = 0 ~;~~
+ \rho + \cfrac{\rho_0}{c_0^2}~\cfrac{\partial\varphi}{\partial t} = 0 ~.
+<space/></extension></listitem></list><heading level='2'>Derivation of the governing equations</heading><paragraph>The derivations of the above equations for waves in an acoustic medium are given below.</paragraph><heading level='3'>Conservation of momentum</heading><paragraph>The equations for the<space/><link><target>Derivation_of_the_Navier%E2%80%93Stokes_equations#General_form_of_the_Navier.E2.80.93Stokes_equations</target><part>conservation of linear momentum</part></link><space/>for a fluid medium are</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \rho \left(\frac{\partial \mathbf{u}}{\partial t} + \mathbf{u} \cdot \nabla \mathbf{u}\right) = -\nabla p + \nabla \cdot\boldsymbol{\tau} + \rho\mathbf{g}
+<space/></extension></listitem></list><paragraph>where<space/><extension extension_name='math'>\mathbf{g}</extension><space/>is the body force per unit mass,<space/><extension extension_name='math'>p</extension><space/>is the pressure, and<space/><extension extension_name='math'>\boldsymbol{\tau}</extension><space/>is the deviatoric stress. If<space/><extension extension_name='math'>\boldsymbol{\tau}</extension><space/>is the Cauchy stress, then</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ p := -\tfrac{1}{3}~\text{tr}(\boldsymbol{\tau}) ~;~~
+ \boldsymbol{\tau} := \boldsymbol{\tau} + p~\boldsymbol{\mathit{1}}
+</extension></listitem></list><paragraph>where<space/><extension extension_name='math'><space/>\boldsymbol{\mathit{1}}</extension><space/>is the rank-2 identity tensor.</paragraph><paragraph>We make several assumptions to derive the momentum balance equation for an acoustic medium. These assumptions and the resulting forms of the momentum equations are outlined below.</paragraph><heading level='4'>Assumption 1: Newtonian fluid</heading><paragraph>In acoustics, the fluid medium is assumed to be<space/><link><target>Newtonian fluid</target><part>Newtonian</part></link>. For a Newtonian fluid, the deviatoric stress tensor is related to the flow velocity by</paragraph><list type='ident'><listitem><extension extension_name='math'>\boldsymbol{\tau} = \mu~\left[\nabla\mathbf{u} + (\nabla\mathbf{u})^T\right] +
+ \lambda~(\nabla \cdot \mathbf{u})~\boldsymbol{\mathit{1}}
+<space/></extension></listitem></list><paragraph>where<space/><extension extension_name='math'>\mu</extension><space/>is the shear<space/><link><target>viscosity</target></link><space/>and<space/><extension extension_name='math'>\lambda</extension><space/>is the<space/><link><target>bulk viscosity</target></link>.</paragraph><paragraph>Therefore, the divergence of<space/><extension extension_name='math'>\boldsymbol{\tau}</extension><space/>is given by</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \begin{align}
+ \nabla\cdot\boldsymbol{\tau} \equiv \cfrac{\partial s_{ij}}{\partial x_i} &amp; = 
+ \mu \left[\cfrac{\partial}{\partial x_i}\left(\cfrac{\partial u_i}{\partial x_j}+\cfrac{\partial u_j}{\partial x_i}\right)\right] + \lambda~\left[\cfrac{\partial}{\partial x_i}\left(\cfrac{\partial u_k}{\partial x_k}\right)\right]\delta_{ij} \\
+ &amp; = \mu~\cfrac{\partial^2 u_i}{\partial x_i \partial x_j} + \mu~\cfrac{\partial^2 u_j}{\partial x_i\partial x_i} + \lambda~\cfrac{\partial^2 u_k}{\partial x_k\partial x_j} \\
+ &amp; = (\mu + \lambda)~\cfrac{\partial^2 u_i}{\partial x_i \partial x_j} + \mu~\cfrac{\partial^2 u_j}{\partial x_i^2} \\
+ &amp; \equiv (\mu + \lambda)~\nabla(\nabla\cdot\mathbf{u}) + \mu~\nabla^2\mathbf{u} ~.
+ \end{align}
+<space/></extension></listitem></list><paragraph>Using the identity<space/><extension extension_name='math'>\nabla^2\mathbf{u} = \nabla(\nabla\cdot\mathbf{u}) - \nabla\times\nabla\times\mathbf{u}</extension>, we have</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \nabla\cdot\boldsymbol{\tau} = (2\mu + \lambda)~\nabla(\nabla\cdot\mathbf{u}) -
+ \mu~\nabla\times\nabla\times\mathbf{u}~.
+<space/></extension></listitem></list><paragraph>The equations for the conservation of momentum may then be written as</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \rho \left(\frac{\partial \mathbf{u}}{\partial t} + \mathbf{u} \cdot \nabla \mathbf{u}\right) = -\nabla p + (2\mu + \lambda)~\nabla(\nabla\cdot\mathbf{u}) -
+ \mu~\nabla\times\nabla\times\mathbf{u} + \rho\mathbf{g}
+<space/></extension></listitem></list><heading level='4'>Assumption 2: Irrotational flow</heading><paragraph>For most acoustics problems we assume that the flow is irrotational, that is, the<space/><link><target>vorticity</target></link><space/>is zero. In that case</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \nabla\times\mathbf{u} = 0
+<space/></extension></listitem></list><paragraph>and the momentum equation reduces to</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \rho \left(\frac{\partial \mathbf{u}}{\partial t} + \mathbf{u} \cdot \nabla \mathbf{u}\right) = -\nabla p + (2\mu + \lambda)~\nabla(\nabla\cdot\mathbf{u}) + \rho\mathbf{g}
+<space/></extension></listitem></list><heading level='4'>Assumption 3: No body forces</heading><paragraph>Another frequently made assumption is that effect of body forces on the fluid medium is negligible. The momentum equation then further simplifies to</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \rho \left(\frac{\partial \mathbf{u}}{\partial t} + \mathbf{u} \cdot \nabla \mathbf{u}\right) = -\nabla p + (2\mu + \lambda)~\nabla(\nabla\cdot\mathbf{u})
+<space/></extension></listitem></list><heading level='4'>Assumption 4: No viscous forces</heading><paragraph>Additionally, if we assume that there are no viscous forces in the medium (the bulk and shear viscosities are zero), the momentum equation takes the form</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \rho \left(\frac{\partial \mathbf{u}}{\partial t} + \mathbf{u} \cdot \nabla \mathbf{u}\right) = -\nabla p
+<space/></extension></listitem></list><heading level='4'>Assumption 5: Small disturbances</heading><paragraph>An important simplifying assumption for acoustic waves is that the amplitude of the disturbance of the field quantities is small. This assumption leads to the linear or small signal acoustic wave equation. Then we can express the variables as the sum of the (time averaged) mean field (<extension extension_name='math'>\langle\cdot\rangle</extension>) that varies in space and a small fluctuating field (<extension extension_name='math'>\tilde{\cdot}</extension>) that varies in space and time. That is</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ p = \langle p\rangle + \tilde{p} ~;~~
+ \rho = \langle\rho\rangle + \tilde{\rho} ~;~~
+ \mathbf{u} = \langle\mathbf{u}\rangle + \tilde{\mathbf{u}}
+<space/></extension></listitem></list><paragraph>and</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \cfrac{\partial\langle p \rangle}{\partial t} = 0 ~;~~ \cfrac{\partial\langle \rho \rangle}{\partial t} = 0 ~;~~
+ \cfrac{\partial\langle \mathbf{u} \rangle}{\partial t} = \mathbf{0} ~.
+<space/></extension></listitem></list><paragraph>Then the momentum equation can be expressed as</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \left[\langle\rho\rangle+\tilde{\rho}\right] \left[\frac{\partial\tilde{\mathbf{u}}}{\partial t} + \left[\langle\mathbf{u}\rangle+\tilde{\mathbf{u}}\right] \cdot \nabla \left[\langle\mathbf{u}\rangle+\tilde{\mathbf{u}}\right]\right] = -\nabla \left[\langle p\rangle+\tilde{p}\right]
+<space/></extension></listitem></list><paragraph>Since the fluctuations are assumed to be small, products of the fluctuation terms can be neglected (to first order) and we have</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \begin{align}
+ \langle\rho\rangle~\frac{\partial\tilde{\mathbf{u}}}{\partial t} &amp; +
+ \left[\langle\rho\rangle+\tilde{\rho}\right]\left[\langle\mathbf{u}\rangle\cdot\nabla \langle\mathbf{u}\rangle\right]+
+ \langle\rho\rangle\left[\langle\mathbf{u}\rangle\cdot\nabla\tilde{\mathbf{u}} +
+ \tilde{\mathbf{u}}\cdot\nabla\langle\mathbf{u}\rangle\right] \\
+ &amp; = -\nabla \left[\langle p\rangle+\tilde{p}\right]
+ \end{align}
+<space/></extension></listitem></list><heading level='4'>Assumption 6: Homogeneous medium</heading><paragraph>Next we assume that the medium is homogeneous; in the sense that the time averaged variables<extension extension_name='math'>\langle p \rangle</extension><space/>and<space/><extension extension_name='math'>\langle \rho \rangle</extension><space/>have zero gradients, i.e.,</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \nabla\langle p \rangle = 0 ~;~~ \nabla\langle \rho \rangle = 0 ~.
+<space/></extension></listitem></list><paragraph>The momentum equation then becomes</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \langle\rho\rangle~\frac{\partial\tilde{\mathbf{u}}}{\partial t} +
+ \left[\langle\rho\rangle+\tilde{\rho}\right]\left[\langle\mathbf{u}\rangle\cdot\nabla \langle\mathbf{u}\rangle\right]+
+ \langle\rho\rangle\left[\langle\mathbf{u}\rangle\cdot\nabla\tilde{\mathbf{u}} +
+ \tilde{\mathbf{u}}\cdot\nabla\langle\mathbf{u}\rangle\right]
+ = -\nabla\tilde{p}
+<space/></extension></listitem></list><heading level='4'>Assumption 7: Medium at rest</heading><paragraph>At this stage we assume that the medium is at rest which implies that the mean flow velocity is zero, i.e.<space/><extension extension_name='math'>\langle\mathbf{u}\rangle = 0<space/></extension>. Then the balance of momentum reduces to</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \langle\rho\rangle~\frac{\partial\tilde{\mathbf{u}}}{\partial t} = -\nabla\tilde{p}
+<space/></extension></listitem></list><paragraph>Dropping the tildes and using<space/><extension extension_name='math'>\rho_0 := \langle\rho\rangle</extension>, we get the commonly used form of the acoustic momentum equation</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \rho_0~\frac{\partial\mathbf{u}}{\partial t} + \nabla p = 0 ~.
+<space/></extension></listitem></list><heading level='3'>Conservation of mass</heading><paragraph>The equation for the<space/><link><target>Derivation_of_the_Navier%E2%80%93Stokes_equations#Conservation_of_mass</target><part>conservation of mass</part></link><space/>in a fluid volume (without any mass sources or sinks) is given by</paragraph><list type='ident'><listitem><extension extension_name='math'>\frac{\partial \rho}{\partial t} + \nabla \cdot (\rho \mathbf{u}) = 0</extension></listitem></list><paragraph>where<space/><extension extension_name='math'>\rho(\mathbf{x},t)</extension><space/>is the mass density of the fluid and<space/><extension extension_name='math'>\mathbf{u}(\mathbf{x},t)</extension><space/>is the flow velocity.</paragraph><paragraph>The equation for the conservation of mass for an acoustic medium can also be derived in a manner similar to that used for the conservation of momentum.</paragraph><heading level='4'>Assumption 1: Small disturbances</heading><paragraph>From the assumption of small disturbances we have</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ p = \langle p\rangle + \tilde{p} ~;~~
+ \rho = \langle\rho\rangle + \tilde{\rho} ~;~~
+ \mathbf{u} = \langle\mathbf{u}\rangle + \tilde{\mathbf{u}}
+<space/></extension></listitem></list><paragraph>and</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \cfrac{\partial\langle p \rangle}{\partial t} = 0 ~;~~ \cfrac{\partial\langle \rho \rangle}{\partial t} = 0 ~;~~
+ \cfrac{\partial\langle \mathbf{u} \rangle}{\partial t} = \mathbf{0} ~.
+<space/></extension></listitem></list><paragraph>Then the mass balance equation can be written as</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \frac{\partial\tilde{\rho}}{\partial t} +
+ \left[\langle\rho\rangle+\tilde{\rho}\right]\nabla \cdot\left[\langle\mathbf{u}\rangle+\tilde{\mathbf{u}}\right] +
+ \nabla\left[\langle\rho\rangle+\tilde{\rho}\right]\cdot \left[\langle\mathbf{u}\rangle+\tilde{\mathbf{u}}\right]= 0
+<space/></extension></listitem></list><paragraph>If we neglect higher than first order terms in the fluctuations, the mass balance equation becomes</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \frac{\partial\tilde{\rho}}{\partial t} +
+ \left[\langle\rho\rangle+\tilde{\rho}\right]\nabla \cdot\langle\mathbf{u}\rangle+
+ \langle\rho\rangle\nabla\cdot\tilde{\mathbf{u}} +
+ \nabla\left[\langle\rho\rangle+\tilde{\rho}\right]\cdot\langle\mathbf{u}\rangle+
+ \nabla\langle\rho\rangle\cdot\tilde{\mathbf{u}}= 0
+<space/></extension></listitem></list><heading level='4'>Assumption 2: Homogeneous medium</heading><paragraph>Next we assume that the medium is homogeneous, i.e.,</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \nabla\langle \rho \rangle = 0 ~.
+<space/></extension></listitem></list><paragraph>Then the mass balance equation takes the form</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \frac{\partial\tilde{\rho}}{\partial t} +
+ \left[\langle\rho\rangle+\tilde{\rho}\right]\nabla \cdot\langle\mathbf{u}\rangle+
+ \langle\rho\rangle\nabla\cdot\tilde{\mathbf{u}} +
+ \nabla\tilde{\rho}\cdot\langle\mathbf{u}\rangle
+ = 0
+<space/></extension></listitem></list><heading level='4'>Assumption 3: Medium at rest</heading><paragraph>At this stage we assume that the medium is at rest, i.e.,<space/><extension extension_name='math'>\langle\mathbf{u}\rangle = 0<space/></extension>. Then the mass balance equation can be expressed as</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \frac{\partial\tilde{\rho}}{\partial t} +
+ \langle\rho\rangle\nabla\cdot\tilde{\mathbf{u}} = 0
+<space/></extension></listitem></list><heading level='4'>Assumption 4: Ideal gas, adiabatic, reversible</heading><paragraph>In order to close the system of equations we need an<space/><link><target>equation of state</target></link><space/>for the pressure. To do that we assume that the medium is an<space/><link><target>ideal gas</target></link><space/>and all acoustic waves compress the medium in an<space/><link><target>adiabatic</target></link><space/>and<space/><link><target>Reversible process (thermodynamics)</target><part>reversible</part></link><space/>manner. The equation of state can then be expressed in the form of the differential equation:</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \cfrac{dp}{d\rho} = \cfrac{\gamma~p}{\rho} ~;~~ \gamma := \cfrac{c_p}{c_v} ~;~~ c^2 = \cfrac{\gamma~p}{\rho} ~.
+<space/></extension></listitem></list><paragraph>where<space/><extension extension_name='math'>c_p</extension><space/>is the<space/><link><target>specific heat</target></link><space/>at constant pressure,<space/><extension extension_name='math'>c_v</extension><space/>is the<space/><link><target>specific heat</target></link><space/>at constant volume, and<space/><extension extension_name='math'>c</extension><space/>is the wave speed. The value of<space/><extension extension_name='math'>\gamma</extension><space/>is 1.4 if the acoustic medium is air.</paragraph><paragraph>For small disturbances</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \cfrac{dp}{d\rho} \approx \cfrac{\tilde{p}}{\tilde{\rho}} ~;~~
+ \cfrac{p}{\rho} \approx \cfrac{\langle p \rangle}{\langle \rho \rangle} ~;~~
+ c^2 \approx c_0^2 = \cfrac{\gamma~\langle p\rangle}{\langle \rho \rangle} ~.
+<space/></extension></listitem></list><paragraph>where<space/><extension extension_name='math'>c_0</extension><space/>is the<space/><link><target>speed of sound</target></link><space/>in the medium.</paragraph><paragraph>Therefore,</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \cfrac{\tilde{p}}{\tilde{\rho}} = \gamma~\cfrac{\langle p \rangle}{\langle \rho \rangle}
+ = c_0^2 \qquad \implies \qquad
+ \cfrac{\partial\tilde{p}}{\partial t} = c_0^2 \cfrac{\partial\tilde{\rho}}{\partial t}
+<space/></extension></listitem></list><paragraph>The balance of mass can then be written as</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \cfrac{1}{c_0^2}\frac{\partial\tilde{p}}{\partial t} +
+ \langle\rho\rangle\nabla\cdot\tilde{\mathbf{u}} = 0
+<space/></extension></listitem></list><paragraph>Dropping the tildes and defining<space/><extension extension_name='math'>\rho_0 := \langle\rho\rangle</extension><space/>gives us the commonly used expression for the balance of mass in an acoustic medium:</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \frac{\partial p}{\partial t} + \rho_0~c_0^2~\nabla\cdot\mathbf{u} = 0 ~.
+<space/></extension></listitem></list><heading level='2'>Governing equations in cylindrical coordinates</heading><paragraph>If we use a<space/><link><target>cylindrical coordinate system</target></link><space/><extension extension_name='math'>(r,\theta,z)</extension><space/>with<space/><link><target>basis vectors</target></link><space/><extension extension_name='math'>\mathbf{e}_r, \mathbf{e}_\theta, \mathbf{e}_z</extension>, then the<space/><link><target>gradient</target></link><space/>of<space/><extension extension_name='math'>p</extension><space/>and the<space/><link><target>divergence</target></link><space/>of<space/><extension extension_name='math'>\mathbf{u}</extension><space/>are given by</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \begin{align}
+ \nabla p &amp; = \cfrac{\partial p}{\partial r}~\mathbf{e}_r + \cfrac{1}{r}~\cfrac{\partial p}{\partial \theta}~\mathbf{e}_\theta + \cfrac{\partial p}{\partial z}~\mathbf{e}_z \\
+ \nabla\cdot\mathbf{u} &amp; = \cfrac{\partial u_r}{\partial r} + \cfrac{1}{r}\left(\cfrac{\partial u_\theta}{\partial \theta} + u_r\right) + \cfrac{\partial u_z}{\partial z}
+ \end{align}
+<space/></extension></listitem></list><paragraph>where the<space/><link><target>flow velocity</target></link><space/>has been expressed as<space/><extension extension_name='math'>\mathbf{u} = u_r~\mathbf{e}_r+u_\theta~\mathbf{e}_\theta+u_z~\mathbf{e}_z</extension>.</paragraph><paragraph>The equations for the<space/><link><target>conservation of momentum</target></link><space/>may then be written as</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \rho_0~\left[\cfrac{\partial u_r}{\partial t}~\mathbf{e}_r+\cfrac{\partial u_\theta}{\partial t}~\mathbf{e}_\theta+\cfrac{\partial u_z}{\partial t}~\mathbf{e}_z\right] +
+\cfrac{\partial p}{\partial r}~\mathbf{e}_r + \cfrac{1}{r}~\cfrac{\partial p}{\partial \theta}~\mathbf{e}_\theta + \cfrac{\partial p}{\partial z}~\mathbf{e}_z = 0
+<space/></extension></listitem></list><paragraph>In terms of components, these three equations for the<space/><link><target>conservation of momentum</target></link><space/>in<space/><link><target>cylindrical coordinates</target></link><space/>are</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \rho_0~\cfrac{\partial u_r}{\partial t} + \cfrac{\partial p}{\partial r} = 0 ~;~~
+ \rho_0~\cfrac{\partial u_\theta}{\partial t} + \cfrac{1}{r}~\cfrac{\partial p}{\partial \theta} = 0 ~;~~
+ \rho_0~\cfrac{\partial u_z}{\partial t} + \cfrac{\partial p}{\partial z} = 0 ~.
+<space/></extension></listitem></list><paragraph>The equation for the<space/><link><target>conservation of mass</target></link><space/>can similarly be written in<space/><link><target>cylindrical coordinates</target></link><space/>as</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \cfrac{\partial p}{\partial t} + \kappa\left[\cfrac{\partial u_r}{\partial r} + \cfrac{1}{r}\left(\cfrac{\partial u_\theta}{\partial \theta} + u_r\right) + \cfrac{\partial u_z}{\partial z}\right] = 0 ~.
+<space/></extension></listitem></list><heading level='3'>Time harmonic acoustic equations in cylindrical coordinates</heading><paragraph>The acoustic equations for the<space/><link><target>conservation of momentum</target></link><space/>and the<space/><link><target>conservation of mass</target></link><space/>are often expressed in time<space/><link><target>harmonic</target></link><space/>form (at fixed<space/><link><target>frequency</target></link>). In that case, the pressures and the flow velocity are assumed to be time harmonic functions of the form</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ p(\mathbf{x}, t) = \hat{p}(\mathbf{x})~e^{-i\omega t} ~;~~
+ \mathbf{u}(\mathbf{x}, t) = \hat{\mathbf{u}}(\mathbf{x})~e^{-i\omega t} ~;~~ i := \sqrt{-1}
+<space/></extension></listitem></list><paragraph>where<space/><extension extension_name='math'>\omega</extension><space/>is the frequency. Substitution of these expressions into the governing equations in<space/><link><target>cylindrical coordinates</target></link><space/>gives us the fixed frequency form of the<space/><link><target>conservation of momentum</target></link></paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \cfrac{\partial\hat{p}}{\partial r} = i\omega~\rho_0~\hat{u}_r ~;~~
+ \cfrac{1}{r}~\cfrac{\partial\hat{p}}{\partial \theta} = i\omega~\rho_0~\hat{u}_\theta ~;~~
+ \cfrac{\partial\hat{p}}{\partial z} = i\omega~\rho_0~\hat{u}_z
+<space/></extension></listitem></list><paragraph>and the fixed frequency form of the<space/><link><target>conservation of mass</target></link></paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \cfrac{i\omega \hat{p}}{\kappa} = \cfrac{\partial \hat{u}_r}{\partial r} + \cfrac{1}{r}\left(\cfrac{\partial \hat{u}_\theta}{\partial \theta} + \hat{u}_r\right) + \cfrac{\partial \hat{u}_z}{\partial z} ~.
+<space/></extension></listitem></list><heading level='4'>Special case: No z-dependence</heading><paragraph>In the special case where the field quantities are independent of the z-coordinate we can eliminate<space/><extension extension_name='math'>u_r, u_\theta</extension><space/>to get</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \frac{\partial^2 p}{\partial r^2} + \frac{1}{r}\frac{\partial p}{\partial r} +
+ \frac{1}{r^2}~\frac{\partial^2 p}{\partial\theta^2} + \frac{\omega^2\rho_0}{\kappa}~p = 0
+<space/></extension></listitem></list><paragraph>Assuming that the solution of this equation can be written as</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ p(r,\theta) = R(r)~Q(\theta)
+<space/></extension></listitem></list><paragraph>we can write the partial differential equation as</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \cfrac{r^2}{R}~\cfrac{d^2R}{dr^2} + \cfrac{r}{R}~\cfrac{dR}{dr} + \cfrac{r^2\omega^2\rho_0}{\kappa} = -\cfrac{1}{Q}~\cfrac{d^2Q}{d\theta^2}
+<space/></extension></listitem></list><paragraph>The left hand side is not a function of<space/><extension extension_name='math'>\theta</extension><space/>while the right hand side is not a function of<space/><extension extension_name='math'>r</extension>. Hence,</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ r^2~\cfrac{d^2R}{dr^2} + r~\cfrac{dR}{dr} + \cfrac{r^2\omega^2\rho_0}{\kappa}~R = \alpha^2~R ~;~~ \cfrac{d^2Q}{d\theta^2} = -\alpha^2~Q
+<space/></extension></listitem></list><paragraph>where<space/><extension extension_name='math'>\alpha^2</extension><space/>is a constant. Using the substitution</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \tilde{r} \leftarrow \left(\omega\sqrt{\cfrac{\rho_0}{\kappa}}\right) r = k~r
+<space/></extension></listitem></list><paragraph>we have</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ \tilde{r}^2~\cfrac{d^2R}{d\tilde{r}^2} + \tilde{r}~\cfrac{dR}{d\tilde{r}} + (\tilde{r}^2-\alpha^2)~R = 0 ~;~~ \cfrac{d^2Q}{d\theta^2} = -\alpha^2~Q
+<space/></extension></listitem></list><paragraph>The equation on the left is the<space/><link><target>Bessel equation</target></link><space/>which has the general solution</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ R(r) = A_\alpha~J_\alpha(k~r) + B_\alpha~J_{-\alpha}(k~r)
+<space/></extension></listitem></list><paragraph>where<space/><extension extension_name='math'>J_\alpha</extension><space/>is the cylindrical<space/><link><target>Bessel function</target></link><space/>of the first kind and<space/><extension extension_name='math'>A_\alpha, B_\alpha</extension><space/>are undetermined constants. The equation on the right has the general solution</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ Q(\theta) = C_\alpha~e^{i\alpha\theta} + D_\alpha~e^{-i\alpha\theta}
+<space/></extension></listitem></list><paragraph>where<space/><extension extension_name='math'>C_\alpha,D_\alpha</extension><space/>are undetermined constants. Then the solution of the acoustic wave equation is</paragraph><list type='ident'><listitem><extension extension_name='math'>
+ p(r,\theta) = \left[A_\alpha~J_\alpha(k~r) + B_\alpha~J_{-\alpha}(k~r)\right]\left(C_\alpha~e^{i\alpha\theta} + D_\alpha~e^{-i\alpha\theta}\right)
+<space/></extension></listitem></list><paragraph>Boundary conditions are needed at this stage to determine<space/><extension extension_name='math'>\alpha</extension><space/>and the other undetermined constants.</paragraph><heading level='2'>References</heading><paragraph><template><target>Reflist</target></template></paragraph><heading level='2'>See also</heading><list type='bullet'><listitem><link><target>Acoustic attenuation</target></link></listitem><listitem><link><target>Aeroacoustics</target></link></listitem><listitem><link><target>Transfer function</target></link></listitem><listitem><link><target>Sound</target></link></listitem><listitem><link><target>Acoustic impedance</target></link></listitem><listitem><link><target>Acoustic resistance</target></link></listitem><listitem><link><target>Gas Laws</target><part>law of gases</part></link></listitem><listitem><link><target>Frequency</target></link></listitem><listitem><link><target>Fourier analysis</target></link></listitem><listitem><link><target>Music theory</target></link></listitem><listitem><link><target>Voice production</target></link></listitem><listitem><link><target>Formant</target></link></listitem><listitem><link><target>Speech synthesis</target></link></listitem><listitem><link><target>Loudspeaker acoustics</target></link></listitem><listitem><link><target>Lumped component</target></link><space/>model</listitem></list><paragraph><template><target>DEFAULTSORT:Acoustic Theory</target></template><link><target>Category:Fluid dynamics</target></link><link><target>Category:Acoustics</target></link></paragraph></article>

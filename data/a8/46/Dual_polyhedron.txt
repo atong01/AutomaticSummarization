@@ -1,0 +1,186 @@
+[[Image:Dual Cube-Octahedron.svg|thumb|The dual of a [[cube]] is an [[octahedron]], shown here with vertices at the cube face centers.]]
+[[Image:Birectified cube sequence.png|thumb|[[Truncation (geometry)|Truncation]] sequence from a [[cube]] to its dual [[octahedron]]. A polyhedral dual is called a ''face-rectification'' or a ''[[Rectification (geometry)|birectification]]''.]]
+
+In [[geometry]], '''[[polyhedron|polyhedra]]''' are associated into pairs called '''''duals''''', where the [[wikt:vertex|vertices]] of one correspond to the [[face (geometry)|face]]s of the other. Starting with any given polyhedron, the dual of its dual is the original polyhedron. The dual of an isogonal polyhedron, having equivalent vertices, is one which is isohedral, having equivalent faces, and of one which is isotoxal, having equivalent edges, is also isotoxal. The regular polyhedra &mdash; the [[Platonic solid]]s and [[Kepler-Poinsot polyhedra]] &mdash; form dual pairs, with the exception of the regular [[tetrahedron]] which is [[#Self-dual polyhedra|self-dual]].
+
+Duality is closely related to ''reciprocity'' or ''polarity''.
+
+==Kinds of duality==
+There are many kinds of duality. The kinds most relevant to elementary polyhedra are:
+*Polar reciprocity
+*Topological or abstract duality
+
+===Polar reciprocation===
+{{see also|Polar reciprocation}}
+
+The duality of polyhedra is most commonly defined in terms of [[polar reciprocation]] about a concentric sphere. Here, each vertex (pole) is associated with a face plane (polar plane or just polar) so that the ray from the center to the vertex is perpendicular to the plane, and the product of the distances from the center to each is equal to the square of the radius. In coordinates, for reciprocation about the sphere
+
+:<math>x^2 + y^2 + z^2 = r^2,</math>
+
+the vertex
+
+:<math>(x_0, y_0, z_0)</math>
+
+is associated with the plane
+
+:<math>x_0x + y_0y + z_0z = r^2</math>.
+
+The vertices of the dual are the poles reciprocal to the face planes of the original, and the faces of the dual lie in the polars reciprocal to the vertices of the original. Also, any two adjacent vertices define an edge, and these will reciprocate to two adjacent faces which intersect to define an edge of the dual. This dual pair of edges are always orthogonal (at right angles) to each other.
+
+If <math>r_0</math> is the radius of the sphere, and <math>r_1</math> and <math>r_2</math> respectively the distances from its centre to the pole and its polar, then:
+
+:<math>r_1 . r_2 = r_0^2</math>
+
+For the more symmetrical polyhedra having an obvious centroid, it is common to make the polyhedron and sphere concentric, as in the Dorman Luke construction described below.
+
+However it is possible to reciprocate a polyhedron about any sphere, and the resulting form of the dual will depend on the sphere chosen; as we move the sphere around, the dual form distorts. The choice of center (of the sphere) is sufficient to define the dual up to similarity. If multiple symmetry axes are present, they will necessarily intersect at a single point, and this is usually taken to be the centroid.  Failing that a circumscribed sphere, inscribed sphere, or midsphere (one with all edges as tangents) can be used.
+
+If a polyhedron has an element passing through the center of the sphere, the corresponding element of its dual will go to infinity. Since traditional "Euclidean" space never reaches infinity, the projective equivalent, called extended Euclidean space, must be formed by adding the required 'plane at infinity'. Some theorists prefer to stick to Euclidean space and say that there is no dual. Meanwhile, Wenninger (1983) found a way to represent these infinite duals, in a manner suitable for making  models (of some finite portion!).
+
+The concept of ''duality'' here is closely related to the [[duality (projective geometry)|duality]] in [[projective geometry]], where lines and edges are interchanged; in fact it is often mistakenly taken to be a particular version of the same. Projective polarity works well enough for convex polyhedra. But for non-convex figures such as star polyhedra, when we seek to rigorously define this form of polyhedral duality in terms of projective polarity, various problems appear. See for example Grünbaum & Shepherd (1988), and Gailiunas & Sharp (2005). Wenninger (1983) also discusses some issues on the way to deriving his infinite duals.
+
+====Canonical duals====
+Any convex polyhedron can be distorted into a canonical form, in which a [[midsphere]] (or intersphere) exists tangent to every edge, such that the average position of these points is the center of the sphere, and this form is unique up to congruences.
+
+If we reciprocate such a polyhedron about its intersphere, the dual polyhedron will share the same edge-tangency points and so must also be canonical; it is the canonical dual, and the two together form a canonical dual pair.
+
+===Topological duality===
+
+We can distort a dual polyhedron such that it can no longer be obtained by reciprocating the original in any sphere; in this case we can say that the two polyhedra are still topologically or abstractly dual.
+
+The vertices and edges of a convex polyhedron can be projected to form a [[graph theory|graph]] (sometimes called a [[Schlegel diagram]]) on the sphere or on a flat plane, and the corresponding graph formed by the dual of this polyhedron is its [[dual graph]].
+
+An [[Abstract polytope|abstract polyhedron]] is a certain kind of [[partially ordered set]] (poset) of elements, such that adjacencies, or connections, between elements of the set correspond to adjacencies between elements (faces, edges, etc.) of a polyhedron. Such a poset may be "realised" as a geometrical polyhedron having the same topological structure. The poset may be represented in a [[Hasse diagram]]. Any such poset has a dual poset. The Hasse diagram of the dual polyhedron is obtained very simply, by reading the original diagram upside-down.
+
+==Dorman Luke construction==
+
+For a [[uniform polyhedron]], the face of the dual polyhedron may be found from the original polyhedron's [[vertex figure]] using the '''Dorman Luke''' construction. This construction was originally described by Cundy & Rollett (1961) and later generalised by Wenninger (1983).
+
+As an example, here is the vertex figure (red) of the [[cuboctahedron]] being used to derive a face (blue) of the [[rhombic dodecahedron]].
+
+[[Image:DormanLuke.svg]]
+
+Before beginning the construction, the [[vertex figure]] ''ABCD'' is obtained by cutting each connected edge at (in this case) its midpoint.
+
+Dorman Luke's construction then proceeds:
+
+:#Draw the vertex figure ''ABCD''
+:#Draw the circumcircle (tangent to every corner ''A'', ''B'', ''C'' and ''D'').
+:#Draw lines tangent to the circumcircle at each corner ''A'', ''B'', ''C'', ''D''.
+:#Mark the points ''E'', ''F'', ''G'', ''H'', where each tangent line meets the adjacent tangent.
+:#The polygon ''EFGH'' is a face of the dual polyhedron.
+
+In this example the size of the vertex figure was chosen so that its circumcircle lies on the [[intersphere]] of the cuboctahedron, which also becomes the intersphere of the dual rhombic dodecahedron.
+
+Dorman Luke's construction can only be used where a polyhedron has such an intersphere and the vertex figure is cyclic, i.e. for [[uniform polyhedron|uniform polyhedra]].
+
+== Self-dual polyhedra ==
+Topologically, a self-dual polyhedron is one whose dual has exactly the same connectivity between vertices, edges and faces. Abstractly, their Hasse diagrams are identical.
+ 
+A geometrically '''self-dual polyhedron''' is not only topologically self-dual, but its polar reciprocal about some given point, typically its centroid, is a congruent figure. For example, the dual of a regular tetrahedron is another regular tetrahedron, ([[reflection through the origin|reflected through the origin]]).
+
+Every polygon is topologically self-dual (it has the same number of vertices as edges, and these are switched by duality), but will not in general be geometrically self-dual (up to rigid motion, for instance). Regular polygons are geometrically self-dual: all angles are congruent, as are all edges, so under duality these congruences swap).
+
+The most common geometric arrangement is where some convex polyhedron is in its canonical form, which is to say that all its edges must be tangent to a certain sphere whose centre coincides with the centre of gravity (average position) of the tangent points. If the figure is self-dual, then the polar reciprocal is congruent to it.
+
+There are infinitely many geometrically self-dual polyhedra. The simplest infinite family are the [[Pyramid (geometry)|pyramids]] of ''n'' sides and of canonical form. Another infinite family, [[elongated pyramid]]s, consists of polyhedra that can be roughly described as a pyramid sitting on top of a [[prism (geometry)|prism]] (with the same number of sides). Add a frustum (pyramid with the top cut off) below the prism and you get another infinite family, and so on.
+
+There are many other convex, self-dual polyhedra. For example, there are 6 different ones with 7 vertices, and 16 with 8 vertices.<ref>3D [[Java (programming language)|Java]] models at [http://dmccooey.com/polyhedra/SymmetricSelfDuals.html Symmetries of Canonical Self-Dual Polyhedra], based on paper by Gunnar Brinkmann, Brendan D. McKay, ''Fast generation of planar graphs'' [[PDF]] [http://cs.anu.edu.au/~bdm/papers/plantri-full.pdf]</ref>
+
+Non-convex self-dual polyhedra can also be found, such as the [[excavated dodecahedron]].
+
+{| class=wikitable
+|+ [[Pyramid (geometry)|Family of pyramids]]
+|- align=center
+|[[Image:Tetrahedron.jpg|100px]]<BR>[[Tetrahedron|3]]
+|[[Image:Square pyramid.png|100px]]<BR>[[Square pyramid|4]]
+|[[Image:Pentagonal pyramid.png|100px]]<BR>[[Pentagonal pyramid|5]]
+|[[Image:Hexagonal pyramid.png|100px]]<BR>[[Hexagonal pyramid|6]]
+|}
+
+{| class=wikitable
+|+ Family of [[elongated pyramid]]s
+|- align=center
+|[[Image:Elongated triangular pyramid.png|100px]]<BR>[[Elongated triangular pyramid|3]]
+|[[Image:Elongated square pyramid.png|100px]]<BR>[[Elongated square pyramid|4]]
+|[[Image:Elongated pentagonal pyramid.png|100px]]<BR>[[Elongated pentagonal pyramid|5]]
+|}
+
+{| class="wikitable"
+|+ Family of [[diminished trapezohedron|diminished trapezohedra]]
+|- align=center
+| [[Image:Diminished trigonal trapezohedron.png|80px]]<BR>3
+| [[Image:Diminished square trapezohedron.png|80px]]<BR>4
+| [[Image:Diminished pentagonal trapezohedron.png|80px]]<BR>5
+| [[Image:Diminished hexagonal trapezohedron.png|80px]]<BR>6
+| [[Image:Diminished heptagonal trapezohedron.png|80px]]<BR>7
+|}
+
+=== Self-dual compound polyhedra ===
+
+Trivially, the compound of any polyhedron and its dual is a self-dual figure.
+
+If a polyhedron is self-dual, then the compound of the polyhedron with its dual will comprise congruent polyhedra. The regular compound of two [[tetrahedron|tetrahedra]], known as the [[Stella octangula]], is the only regular compound with this property.
+
+== Dual polytopes and tessellations ==
+
+Duality can be generalized to ''n''-dimensional space and '''dual [[polytope]]s;''' in two dimension these are called [[dual polygon]]s.
+
+The vertices of one polytope correspond to the (''n'' &minus; 1)-dimensional elements, or facets, of the other, and the ''j'' points that define a (''j'' &minus; 1)-dimensional element will correspond to ''j'' hyperplanes that intersect to give a (''n'' &minus; ''j'')-dimensional element. The dual of an ''n''-dimensional tessellation or [[Honeycomb (geometry)|honeycomb]] can be defined similarly.
+
+In general, the facets of a polytope's dual will be the topological duals of the polytope's vertex figures. For [[regular polytope|regular]] and [[Uniform polytope|uniform]] polytopes, the dual facets will be the polar reciprocals of the original's vertex figure. For example, in four dimensions, the vertex figure of the [[600-cell]] is the [[Regular icosahedron|icosahedron]];  the dual of the 600-cell is the [[120-cell]], whose facets are [[dodecahedron|dodecahedra]], which are the dual of the icosahedron.
+
+=== Self-dual polytopes and tessellations ===
+[[File:Kah 4 4.png|thumb|The [[square tiling]], {4,4}, is self-dual, as shown by these red and blue tilings]]
+[[File:Infinite-order apeirogonal tiling and dual.png|thumb|The [[Infinite-order apeirogonal tiling]], {&infin;,&infin;} in red, and its dual position in blue]]
+The primary class of self-dual polytopes are [[regular polytope]]s with [[palindromic]] [[Schläfli symbol]]s. All regular polygons, {a} are self-dual, [[polyhedron|polyhedra]] of the form {a,a}, [[4-polytope]]s of the form {a,b,a}, [[5-polytope]]s of the form {a,b,b,a}, etc.
+
+The self-dual regular polytopes are:
+* All [[regular polygon]]s, {a}.
+* Regular [[tetrahedron]]: {3,3}
+* In general, all regular ''n''-[[simplex]]es, {3,3,...,3}
+* The regular [[24-cell]] in 4&nbsp;dimensions, {3,4,3}.
+* The [[great 120-cell]] {5/2,5,5/2} and the [[grand stellated 120-cell]] {5/2,5,5/2}
+The self-dual (infinite) regular Euclidean [[Honeycomb (geometry)|honeycombs]] are:
+* [[Apeirogon]]: {&infin;}
+* [[Square tiling]]: {4,4}
+* [[Cubic honeycomb]]: {4,3,4}
+* In general, all regular ''n''-dimensional Euclidean [[hypercubic honeycomb]]s: {4,3,...,3,4}.
+The self-dual (infinite) regular [[Coxeter diagram#Hyperbolic Coxeter groups|hyperbolic]] honeycombs are:
+* Compact hyperbolic tilings: [[Order-5 pentagonal tiling|{5,5}]], [[Order-6 hexagonal tiling|{6,6}]], ... {p,p}.
+* Paracompact hyperbolic tiling: [[Infinite-order apeirogonal tiling|{&infin;,&infin;}]]
+* Compact hyperbolic honeycombs: [[Icosahedral honeycomb|{3,5,3}]], [[Order-5 dodecahedral honeycomb|{5,3,5}]], and [[Order-5 120-cell honeycomb|{5,3,3,5}]]
+* Paracompact hyperbolic honeycombs: [[Triangular tiling honeycomb|{3,6,3}]], [[Order-6 hexagonal tiling honeycomb|{6,3,6}]], [[Order-4 square tiling honeycomb|{4,4,4}]], and {3,3,4,3,3}
+
+==See also==
+*[[Conway polyhedron notation]]
+*[[Dual polygon]]
+*[[Self-dual graph]]
+*[[Self-dual polygon]]
+
+==References==
+
+===Notes===
+{{reflist}}
+
+===Bibliography===
+* H.M. Cundy & A.P. Rollett, ''Mathematical models'', Oxford University Press (1961).
+* {{cite book | first=Magnus | last=Wenninger | authorlink=Magnus Wenninger  | title=Dual Models | publisher=Cambridge University Press | year=1983 | isbn=0-521-54325-8 }}
+* B. Grünbaum & G. Shephard, Duality of polyhedra, ''Shaping space – a polyhedral approach'', ed. Senechal and Fleck, Birkhäuser (1988), pp.&nbsp;205–211.
+* P. Gailiunas & J. Sharp, Duality of polyhedra, ''Internat. journ. of math. ed. in science and technology'', Vol. '''36''', No. 6 (2005), pp.&nbsp;617–642.
+
+==External links==
+{{commons category}}
+* {{mathworld | urlname = DualPolyhedron | title = Dual polyhedron}}
+* {{MathWorld|urlname=DualTessellation|title=Dual tessellation}}
+* {{mathworld | urlname = Self-DualPolyhedron | title = Self-dual polyhedron}}
+* {{GlossaryForHyperspace | anchor=Duality | title=Duality }}
+*[http://www.software3d.com/Stella.html Software for displaying duals]
+*[http://www.mathconsult.ch/showroom/unipoly/ The Uniform Polyhedra]
+*[http://www.georgehart.com/virtual-polyhedra/vp.html Virtual Reality Polyhedra] The Encyclopedia of Polyhedra
+
+{{DEFAULTSORT:Dual Polyhedron}}
+[[Category:Polyhedra]]
+[[Category:Duality theories|Polyhedron]]
+[[Category:Self-dual polyhedra| ]]
+[[Category:Polytopes]]

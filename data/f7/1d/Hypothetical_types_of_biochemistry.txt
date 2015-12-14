@@ -1,0 +1,342 @@
+[[File:PIA10008 Seas and Lakes on Titan.jpg|thumb|right|400px|<div style="text-align: left">False-color ''[[Cassini–Huygens|Cassini]]'' radar mosaic of Titan's north polar region, blue areas are lakes of liquid hydrocarbons</div><br>"The existence of lakes of liquid hydrocarbons on Titan opens up the possibility for solvents and energy sources that are alternatives to those in our biosphere and that might support novel life forms altogether different from those on Earth."—NASA Astrobiology Roadmap 2008<ref>{{cite journal
+|author=David J. Des Marais
+|display-authors=etal
+|title=The NASA Astrobiology Roadmap
+|date=2008
+|journal=Astrobiology
+|volume= 8|issue= 4|page=718
+|doi= 10.1089/2008.0819
+|url= https://astrobiology.nasa.gov/media/medialibrary/2013/09/AB_roadmap_2008.pdf}}</ref>
+]]
+
+'''Hypothetical types of biochemistry''' are forms of [[biochemistry]] speculated to be scientifically viable but not proven to exist at this time.<ref name="McKay 2014">{{cite journal |title=Chance and Necessity in Biochemistry: Implications for the Search for Extraterrestrial Biomarkers in Earth-like Environments |journal=Astrobiology |date=May 27, 2014 |last=Davila |first=Alfonso F. |last2=McKay |first2=Christopher P. |volume=14 |issue=6 |pages=534–540 |doi=10.1089/ast.2014.1150 |url=http://online.liebertpub.com/doi/full/10.1089/ast.2014.1150 |accessdate=2015-03-29 |bibcode=2014AsBio..14..534D}}</ref> The kinds of [[life on Earth|living beings currently known on Earth]] all use [[carbon]] compounds for basic structural and [[metabolism|metabolic]] functions, [[water]] as a [[solvent]] and [[DNA]] or [[RNA]] to define and control their form. If [[life]] exists on other [[planet]]s or [[natural satellite|moons]], it may be chemically similar; it is also possible that there are organisms with quite different chemistries<ref name="WRD-201719">{{cite web |last=Singer |first=Emily |title=Chemists Invent New Letters for Nature’s Genetic Alphabet |url=http://www.wired.com/2015/07/chemists-invent-new-letters-natures-genetic-alphabet/ |date=July 19, 2015 |work=[[Wired (magazine)]] |accessdate=July 20, 2015 }}</ref>—for instance involving other classes of carbon compounds, compounds of another element, or another solvent in place of water.
+
+The possibility of life-forms being based on "alternative" biochemistries is the topic of an ongoing scientific discussion, informed by what is known about extraterrestrial environments and about the chemical behaviour of various elements and compounds. It is also a [[science fiction theme|common subject in science fiction]].
+
+The element [[silicon]] has been much discussed as a hypothetical alternative to carbon. Silicon is in the same group as carbon in the [[periodic table]], and like carbon is [[tetravalent]], although the silicon analogs of [[organic compound]]s are generally less stable. Hypothetical alternatives to water include [[ammonia]], which, like water, is a [[chemical polarity|polar]] molecule, and cosmically abundant; and non-polar [[hydrocarbon]] solvents such as [[methane]] and [[ethane]], which are known to exist in liquid form on the surface of [[Titan (moon)|Titan]].
+
+==Shadow biosphere==
+[[Image:Arecibo message.svg|175px|right|thumb|The [[Arecibo message]] (1974) sent information into space about basic chemistry of Earth life.]]
+{{main|Shadow biosphere}}
+Apart from the prospect of finding different forms of life on other [[planet]]s or [[natural satellite|moons]], [[Earth]] itself has been suggested as a place where a shadow biosphere of biochemically unfamiliar micro-organisms might have lived in the past, or may still exist today.<ref>{{cite journal | last1 = Davies | first1 = P. C. W. | last2 = Benner | first2 = S.A. | last3 = Cleland | first3 = C.E. | last4 = Lineweaver | first4 = C.H. | last5 = McKay | first5 = C.P. | last6 = Wolfe-Simon | first6 = F. | year = 2009 | title = Signatures of a Shadow Biosphere | url = http://www.liebertonline.com/doi/pdf/10.1089/ast.2008.0251 | journal = Astrobiology | volume = 9 | issue = 2| pages = 241–249 | doi = 10.1089/ast.2008.0251 | bibcode=2009AsBio...9..241D}}</ref><ref>{{cite journal|last1=Cleland|first1=Carol E.|last2=Copley|first2=Shelley D.|title=The possibility of alternative microbial life on Earth|journal=International Journal of Astrobiology|date=16 January 2006|volume=4|issue=3-4|pages=165|doi=10.1017/S147355040500279X}} archived at [http://web.archive.org/web/20090320001019/http://spot.colorado.edu/~cleland/articles/Cleland_Copley.pdf] (2009-03-20) from original [http://spot.colorado.edu/~cleland/articles/Cleland_Copley.pdf]</ref>
+
+==Alternative-chirality biomolecules==
+
+Perhaps the least unusual alternative biochemistry would be one with differing [[Left-handed protein|chirality]] of its biomolecules. In known Earth-based life, [[amino acid]]s are almost universally of the {{small|L}} form and [[sugar]]s are of the {{small|D}} form. Molecules of opposite chirality have identical chemical properties to their mirrored forms, so life that used {{small|D}} amino acids or {{small|L}} sugars may be possible; molecules of such a chirality, however, would be incompatible with organisms using the opposing chirality molecules. Amino acids whose chirality is opposite to the norm are found on Earth, and these substances are generally thought to result from decay of organisms of normal chirality.  However, physicist [[Paul Davies]] speculates that some of them might be products of "anti-chiral" life.<ref>{{cite journal
+|author=P.C.W. Davies and Charles H. Lineweaver
+|title=Hypothesis Paper: Finding a Second Sample of Life on Earth
+|date=2005
+|journal=Astrobiology
+|volume= 5|issue= 2|page=159
+|url= http://www.mso.anu.edu.au/~charley/papers/DaviesLineweaverOnline05.pdf
+|doi=10.1089/ast.2005.5.154
+|bibcode=2005AsBio...5..154D
+}}</ref>
+
+It is questionable, however, whether such a biochemistry would be truly alien. Although it would certainly be an alternative [[stereochemistry]], molecules that are overwhelmingly found in one [[enantiomer]] throughout the vast majority of organisms can nonetheless often be found in another enantiomer in different (often [[Basal (phylogenetics)|basal]]) organisms such as in comparisons between members of [[Archea]] and other [[Domain (biology)|domains]],{{Citation needed|date=January 2012}} making it an open topic whether an alternative stereochemistry is truly novel.
+
+==Non-carbon-based biochemistries==
+On Earth, all known living things have a carbon-based structure and system. Scientists have speculated about the pros and cons of using [[atom]]s other than carbon to form the molecular structures necessary for life, but no one has proposed a theory employing such atoms to form all the necessary structures. However, as [[Carl Sagan]] argued, it is very difficult to be certain whether a statement that applies to all life on Earth will turn out to apply to all life throughout the universe.<ref>{{cite book| title=Carl Sagan's Cosmic Connection: an Extraterrestrial Perspective| first=Carl| last= Sagan|first2=Jerome|last2=Agel|edition=2nd|publisher=Cambridge U.P.| date=2000|isbn=<!--0521783038, -->9780521783033|page=41}}</ref> Sagan used the term "[[carbon chauvinism]]" for such an assumption.<ref name="Sagan 2000page=46 46">{{cite book| title=Carl Sagan's Cosmic Connection: an Extraterrestrial Perspective| first=Carl| last= Sagan|edition=2nd|publisher=Cambridge U.P.| date=2000 |page=46}}</ref> Carl Sagan regarded [[silicon]] and [[germanium]] as conceivable alternatives to carbon;<ref name="Sagan 2000page=46 46"/> but, on the other hand, he noted that carbon does seem more chemically versatile and is more abundant in the cosmos.<ref>{{cite book| title=Carl Sagan's Cosmic Connection: an Extraterrestrial Perspective| first=Carl| last= Sagan|edition=2nd|publisher=Cambridge U.P.| date=2000|page=47}}</ref>
+
+===Silicon biochemistry===
+[[File:Silane.png|thumb|right|120px|Structure of [[silane]], analog of [[methane]].]]
+[[File:PDMS.svg|thumb|right|Structure of the silicone polydimethylsiloxane (PDMS).]]
+[[File:Diatom2.jpg|thumb|right|250px|Marine [[diatoms]]—carbon-based organisms that extract silicon from sea water and incorporate it into their cell walls]]
+{{see also|Organosilicon}}
+The silicon atom has been much discussed as the basis for an alternative biochemical system, because silicon has many [[chemical property|chemical properties]] similar to those of carbon and is in the same [[group (periodic table)|group of the periodic table]], the [[carbon group]]. Like carbon, silicon can create molecules that are sufficiently large to carry biological information.<ref name="Pace">{{cite journal|last1 = Pace|first1 = NR|title = The universal nature of biochemistry|url = http://www.pnas.org/content/98/3/805.full.pdf| journal = Proceedings of the National Academy of Sciences of the United States of America|volume = 98|issue = 3|pages = 805–8|date = 2001 |pmid = 11158550|pmc = 33372|doi = 10.1073/pnas.98.3.805|bibcode=2001PNAS...98..805P}}</ref>
+
+However, silicon has several drawbacks as an alternative to carbon. Silicon, unlike carbon, lacks the ability to form chemical bonds with diverse types of atoms as is necessary for the chemical versatility required for metabolism. Elements creating organic functional groups with carbon include hydrogen, oxygen, nitrogen, phosphorus, sulfur, and metals such as iron, magnesium, and zinc. Silicon, on the other hand, interacts with very few other types of atoms.<ref name="Pace"/> Moreover, where it does interact with other atoms, silicon creates molecules that have been described as "monotonous compared with the combinatorial universe of organic macromolecules".<ref name="Pace"/> This is because silicon atoms are much bigger, having a larger [[mass]] and [[atomic radius]], and so have difficulty forming double bonds (the double bonded carbon is part of the [[carbonyl]] group, a fundamental motif of bio-organic chemistry).
+
+[[Silanes]], which are [[chemical compound]]s of [[hydrogen]] and silicon that are analogous to the [[alkane]] [[hydrocarbon]]s, are highly reactive with [[water (molecule)|water]], and long-chain silanes spontaneously decompose. Molecules incorporating [[polymer]]s of alternating silicon and [[oxygen]] atoms instead of direct bonds between silicon, known collectively as [[silicone]]s, are much more stable. It has been suggested that silicone-based chemicals would be more stable than equivalent hydrocarbons in a sulfuric-acid-rich environment, as is found in some extraterrestrial locations.<ref name="world-building">{{cite book|first=Stephen|last=Gillette| title=World-Building|publisher=Writer's Digest Books|isbn=0-89879-707-1}}</ref>
+
+Of the varieties of molecules identified in the [[interstellar medium]] {{As of|1998|lc=on}}, 84 are based on carbon while only 8 are based on silicon.<ref>{{cite web| url=http://www.faqs.org/faqs/astronomy/faq/part6/section-16.html| title= F.10 Why do we assume that other beings must be based on carbon? Why couldn't organisms be based on other substances?| work=[sci.astro] ET Life (Astronomy Frequently Asked Questions)| accessdate=2006-07-21| first=Joseph| last=Lazio}}</ref> Moreover, of those 8 compounds, four also include carbon within them. The [[Abundance of the chemical elements|cosmic abundance]] of carbon to silicon is roughly 10 to 1. This may suggest a greater variety of complex carbon compounds throughout the cosmos, providing less of a foundation upon which to build silicon-based biologies, at least under the conditions prevalent on the surface of planets. Also, even though [[Earth]] and other [[terrestrial planet]]s are exceptionally silicon-rich and carbon-poor (the relative abundance of silicon to carbon in the Earth's crust is roughly 925:1), terrestrial life is carbon-based. The fact that carbon is used instead of silicon, may be evidence that silicon is poorly suited for biochemistry on Earth-like planets. For example: silicon is less versatile than carbon in forming compounds; the compounds formed by silicon are unstable and it blocks the flow of heat.<ref name=BC>{{cite web | url = http://biocab.org/Astrobiology.html | title = Astrobiology | accessdate = 2011-01-17 | date = September 26, 2006 | publisher = Biology Cabinet}}</ref>
+
+Even so, [[biogenic silica]] is used by some Earth life, such as the [[silicate]] skeletal structure of [[diatom]]s. According to the [[Abiogenesis#Clay hypothesis|clay hypothesis]] of [[Graham Cairns-Smith|A. G. Cairns-Smith]], silicate minerals in water played a crucial role in abiogenesis: they replicated their crystal structures, interacted with carbon compounds, and were the precursors of carbon-based life.<ref>{{Cite book| last=Cairns-Smith| first=A. Graham| title= Seven Clues to the Origin of Life| location= Cambridge| publisher=Cambridge University Press| date=1985| isbn=0-521-27522-9}}</ref><ref>{{cite book | first=Richard | last=Dawkins | authorlink=Richard Dawkins | title=The Blind Watchmaker | publisher=W. W. Norton & Company, Inc | location=New York | origyear=1986 | year=1996 | isbn=0-393-31570-3 | pages=148–161 }}</ref>
+
+Silicon compounds may possibly be biologically useful under temperatures or pressures different from the surface of a terrestrial planet, either in conjunction with or in a role less directly analogous to carbon. Polysilanols, the silicon compounds corresponding to [[sugar]]s, are soluble in liquid nitrogen, suggesting that they could play in role in very low temperature biochemistry.<ref>{{cite web|title=Astrobiology—the nature of life
+|publisher=WilliamBains.co.uk
+|author=William Bains |accessdate=2015-03-20|url=http://www.williambains.co.uk/astrobiology/life2.html }}</ref><ref>
+{{cite journal
+|author=William Bains
+|title=Many Chemistries Could Be Used to Build Living Systems
+|date=June 2004
+|journal=[[Astrobiology (journal)|Astrobiology]]
+|volume=4 |issue=2 |pages=137–167
+|doi=10.1089/153110704323175124
+|url= http://online.liebertpub.com/doi/abs/10.1089/153110704323175124
+ |pmid=15253836
+}}</ref>
+
+In cinematic and literary science fiction, at a moment when man-made machines cross from nonliving to living, it is often posited, this new form would be the first example of non-carbon-based life. Since the advent of the [[microprocessor]] in the late 1960s, these machines are often classed as [[computer]]s (or computer-guided [[robot]]s) and filed under "silicon-based life", even though the silicon backing matrix of these processors is not nearly as fundamental to their operation as carbon is for "wet life".
+
+===Other exotic element-based biochemistries===
+*[[Boranes]] are dangerously explosive in Earth's atmosphere, but would be more stable in a reducing environment. However, boron's low cosmic abundance makes it less likely as a base for life than carbon.
+{{see also|Organoboron chemistry}}
+* Various metals, together with oxygen, can form very complex and thermally stable structures rivaling those of organic compounds;{{Citation needed|date=February 2014}} the [[heteropoly acid]]s are one such family. Some metal oxides are also similar to carbon in their ability to form both nanotube structures and diamond-like crystals (such as [[cubic zirconia]]). [[Titanium]], [[aluminium]], [[magnesium]], and [[iron]] are all more abundant in the Earth's crust than carbon. Metal-oxide-based life could therefore be a possibility under certain conditions, including those (such as high temperatures) at which carbon-based life would be unlikely. The Cronin group at Glasgow University reported self-assembly of tungsten polyoxometalates into cell-like spheres.<ref name='Cronin'>{{cite web | url = http://www.newscientist.com/article/dn20906-lifelike-cells-are-made-of-metal.html | title = Life-like cells are made of metal | accessdate = 2014-05-25 | date = September 14, 2011 | publisher = New Scientist}}</ref> By modifying their metal oxide content, he can give the spheres a hole as part of its structure and become a porous membrane, selectively allowing chemicals in and out of the sphere according to size.<ref name='Cronin'/>
+* [[Sulfur]] is also able to form long-chain molecules, but suffers from the same high-reactivity problems as phosphorus and silanes. The biological use of sulfur as an alternative to carbon is purely hypothetical, especially because sulfur usually forms only linear chains rather than branched ones. (The biological use of sulfur as an electron acceptor is widespread and can be traced back 3.5&nbsp;billion years on Earth, thus predating the use of molecular oxygen.<ref>[http://www.sciencemag.org/cgi/content/abstract/317/5844/1534 Early Archaean Microorganisms Preferred Elemental Sulfur, Not Sulfate] Science AAAS, by Philippot, et al., (14 September 2007)</ref> [[Sulfur-reducing bacteria]] can utilize elemental sulfur instead of oxygen, reducing sulfur to [[hydrogen sulfide]].)
+
+==Arsenic as an alternative to phosphorus==
+{{see also|GFAJ-1}}
+[[Arsenic]], which is chemically similar to [[phosphorus]], while poisonous for most [[organism|life forms]] on Earth, is incorporated into the biochemistry of some organisms.<ref>{{cite web|url=http://umbbd.ethz.ch/periodic/elements/as.html |title=Biochemical Periodic Table – Arsenic |publisher=UMBBD |date=2007-06-08 |accessdate=2010-05-29}}</ref> Some [[marine algae]] incorporate arsenic into complex organic molecules such as [[arsenosugar]]s and [[arsenobetaine]]s. [[Fungi]] and [[bacteria]] can produce volatile methylated arsenic compounds. Arsenate reduction and arsenite oxidation have been observed in [[microbes]] (''[[Chrysiogenes arsenatis]]'').<ref>{{cite journal| journal= Appl Environ Microbiol|date=December 2001| volume=67| issue=12| pages=5568–80| title= Isolation and characterization of a novel As(V)-reducing bacterium: implications for arsenic mobilization and the genus Desulfitobacterium| last= Niggemyer| first= A|author2=Spring S |author3=Stackebrandt E |author4=Rosenzweig RF | doi=10.1128/AEM.67.12.5568-5580.2001| pmid= 11722908| pmc= 93345}}</ref> Additionally, some [[prokaryote]]s can use arsenate as a terminal electron acceptor during anaerobic growth and some can utilize arsenite as an electron donor to generate energy.
+
+It has been speculated that the earliest life forms on Earth may have used [[Arsenic biochemistry|arsenic]] in place of phosphorus in the structure of their DNA.<ref>{{cite journal|url=http://www.newscientist.com/channel/life/mg19826533.600-early-life-could-have-relied-on-arsenic-dna.html| journal=New Scientist| title= Early life could have relied on 'arsenic DNA'| date= 26 April 2008| first= Michael| last= Reilly| issue= 2653| doi= 10.1016/S0262-4079(08)61007-6| volume= 198| page= 10}}</ref> A common objection to this scenario is that arsenate esters are so much less stable to [[hydrolysis]] than corresponding [[Organophosphate|phosphate esters]] that arsenic would not be suitable for this function.<ref name = "Westheimer">{{Cite journal
+  | last = Westheimer | first = F. H. | authorlink = Frank Westheimer
+  | title = Why nature chose phosphates | journal = [[Science (journal)|Science]]
+  | volume = 235 | issue = 4793| pages = 1173–1178 (see pp. 1175–1176)
+  | publisher = | date = 1987-03-06
+  | url = http://academic.evergreen.edu/curricular/m2o2006/seminar/westheimer.pdf| doi = 10.1126/science.2434996 | accessdate = 2010-12-03|bibcode = 1987Sci...235.1173W }}</ref>
+
+The authors of a 2010 [[geomicrobiology]] study, supported in part by NASA, have postulated that a bacterium, named [[GFAJ-1]], collected in the sediments of [[Mono Lake]] in eastern [[California]], can employ such 'arsenic DNA' when cultured without phosphorus.<ref name="nasafund">{{cite web |title=NASA-Funded Research Discovers Life Built With Toxic Chemical |publisher=NASA.gov |date=2 December 2010 |accessdate=2010-12-02 |url=http://www.nasa.gov/topics/universe/features/astrobiology_toxic_chemical.html}}</ref><ref name="Wolfe-Simon">{{cite journal |last=Wolfe-Simon |first=Felisa |last2=Blum |first2=Jodi Switzer |last3=Kulp |first3=Thomas R. |last4=Gordon |first4=Shelley E. |last5=Hoeft |last6=Pett-Ridge |first6=Jennifer |last7=Stolz |first7=John F. |last8=Webb |first8=Samuel M. |last9=Weber |first9=Peter K. |last10=Davies |first10=Paul C. W. |last11=Anbar |first11=Ariel D. |last12=Oremland |first12=Ronald S. |title=A Bacterium That Can Grow by Using Arsenic Instead of Phosphorus |journal=Science |date=2 December 2010 |doi=10.1126/science.1197258 |pmid=21127214 |url=http://www.ironlisa.com/WolfeSimon_etal_Science2010.pdf |format=PDF |accessdate=2010-12-09 |first5=S. E. |volume=332 |issue=6034 |pages=1163–6|bibcode = 2011Sci...332.1163W }}</ref> They proposed that the bacterium may employ high levels of [[Polyhydroxybutyrate|poly-β-hydroxybutyrate]] or other means to reduce the [[Activity (chemistry)|effective concentration]] of water and stabilize its arsenate esters.<ref name = "Wolfe-Simon"/> This claim was heavily criticized almost immediately after publication for the perceived lack of appropriate controls.<ref name="Redfield">{{cite web
+ | last=Redfield | first=Rosemary
+ | title=Arsenic-associated bacteria (NASA's claims)
+ | work=[http://rrresearch.blogspot.com/ RR Research blog]
+ | date=4 December 2010
+ | url=http://rrresearch.blogspot.com/2010/12/arsenic-associated-bacteria-nasas.html
+ | accessdate=4 December 2010
+}}</ref><ref name="Beasties">{{cite web
+ | last=Bradley | first=Alex
+ | title=Arsenate-based DNA: a big idea with big holes
+ | work= [http://scienceblogs.com/webeasties/ We, Beasties blog]
+ | date=5 December 2010
+ | url=http://scienceblogs.com/webeasties/2010/12/guest_post_arsenate-based_dna.php
+ | accessdate=9 December 2010
+}}</ref> Science writer [[Carl Zimmer]] contacted several scientists for an assessment: "I reached out to a dozen experts ... Almost unanimously, they think the NASA scientists have failed to make their case".<ref name=Zimmer>{{cite news
+ | last=Zimmer | first=Carl
+ | authorlink=Carl Zimmer
+ | title=Scientists see fatal flaws in the NASA study of arsenic-based life
+ | date=7 December 2010
+ | url=http://www.slate.com/id/2276919/
+ | work=[[Slate (magazine)|Slate]]
+ | accessdate=7 December 2010
+}}</ref>
+Other authors were unable to reproduce their results and showed that the NASA scientists had issues with phosphate contamination (3 μM), which could sustain extremophile lifeforms.<ref>{{cite web | url = http://www.biotechniques.com/news/Arsenic-Life-Claim-Refuted/biotechniques-332691.html#.UQBYhx3O3zk | title = "Arsenic Life" Claim Refuted | accessdate = 23 January 2013 | last = Williams | first = Sarah | date = 7 November 2012 | work = BioTechniques}}</ref>
+<!-- ==Selenium or tellurium as an alternative to protein sulfur==
+{{unreferenced section|date=August 2012}}
+[[Selenoproteins]], in which sulfur is replaced by selenium, are found in all major forms of life, and are essential to many of them. All [[methionine]]s in bacterial cells can be replaced by selenomethionines – this technique is commonly used when analyzing protein structures via [[X-ray crystallography]]. Some fungi can substitute [[tellurium#Biological role|tellurium]] for sulfur and selenium in their amino acids.-->
+
+==Non-water solvents==
+[[File:Carl Sagan Viking.JPG|175px|thumb|Carl Sagan speculated alien life might use ammonia, hydrocarbons or hydrogen fluoride instead of water.]]
+In addition to carbon compounds, all currently known terrestrial life also requires water as a solvent. This has led to discussions about whether water is the only liquid capable of filling that role. The idea that an extraterrestrial life-form might be based on a solvent other than water has been taken seriously in recent scientific literature by the biochemist [[Steven Benner]],<ref>
+{{cite journal
+ |last=Benner |first=Steven A.
+ |last2=Ricardo | first2=Alonso
+ |last3=Carrigan |first3=Matthew A
+ |title=Is there a common chemical model for life in the universe?
+ |date=2004
+ |journal=[[Current Opinion in Chemical Biology]]
+ |volume=8|pages=676–680
+ |doi=10.1016/j.cbpa.2004.10.003
+ |issue=6
+ |pmid=15556414
+}}[http://www.ffame.org/sbenner/cochembiol8.672-689.pdf Text as pdf from www.sciencedirect.com] (accessed 13 July 2011)</ref> and by the astrobiological committee chaired by John A. Baross.<ref name="books.nap.edu">Committee on the Limits of Organic Life in Planetary Systems, Committee on the Origins and Evolution of Life, National Research Council; [http://books.nap.edu/openbook.php?record_id=11919&page=69 The Limits of Organic Life in Planetary Systems]; The National Academies Press, 2007; pages 69–79</ref> Solvents discussed by the Baross committee include [[ammonia]],<ref name="barossammonia">Committee on the Limits of Organic Life in Planetary Systems, Committee on the Origins and Evolution of Life, National Research Council; [http://books.nap.edu/openbook.php?record_id=11919&page=72 The Limits of Organic Life in Planetary Systems]; The National Academies Press, 2007; p 72</ref> [[sulfuric acid]],<ref name="barosssulfuric">Committee on the Limits of Organic Life in Planetary Systems, Committee on the Origins and Evolution of Life, National Research Council; [http://books.nap.edu/openbook.php?record_id=11919&page=73 The Limits of Organic Life in Planetary Systems]; The National Academies Press, 2007; p 73</ref> [[formamide]],<ref name="Planetary Systems p 74">Committee on the Limits of Organic Life in Planetary Systems, Committee on the Origins and Evolution of Life, National Research Council; [http://books.nap.edu/openbook.php?record_id=11919&page=74 The Limits of Organic Life in Planetary Systems]; The National Academies Press, 2007; p 74</ref> hydrocarbons,<ref name="Planetary Systems p 74"/>
+and (at temperatures much lower than Earth's) liquid [[nitrogen]], or hydrogen in the form of a [[supercritical fluid]].<ref name="barosscryo">Committee on the Limits of Organic Life in Planetary Systems, Committee on the Origins and Evolution of Life, National Research Council; [http://books.nap.edu/openbook.php?record_id=11919&page=75 The Limits of Organic Life in Planetary Systems]; The National Academies Press, 2007; p 75</ref>
+
+Carl Sagan once described himself as both a [[carbon chauvinist]] and a water chauvinist;<ref>{{cite book
+|author=Sagan, Carl
+|title=Cosmos
+|date=2002
+|isbn=0-375-50832-5
+|publisher=Random House
+|pages=126–127}}</ref>
+however on another occasion he said he was a carbon chauvinist but "not that much of a water chauvinist".<ref name="conversations">{{cite book
+ |author=Sagan, Carl; Head, Tom
+ |title=Conversations with Carl Sagan
+ |date=2006
+ |publisher=University Press of Mississippi
+ |isbn=1-57806-736-7
+ |page=10
+}}</ref> He speculated on hydrocarbons,<ref name="conversations">{{cite book
+ |author=Sagan, Carl; Head, Tom
+ |title=Conversations with Carl Sagan
+ |date=2006
+ |publisher=University Press of Mississippi
+ |isbn=1-57806-736-7
+ |page=11
+}}</ref> [[hydrofluoric acid]],<ref name="Sagan, Carl 2002 128">{{cite book
+|author=Sagan, Carl
+|title=Cosmos
+|date=2002
+|isbn=0-375-50832-5
+|publisher=Random House
+|page=128}}</ref> and ammonia<ref name="conversations"/><ref name="Sagan, Carl 2002 128"/>  as possible alternatives to water.
+
+Some of the properties of water that are important for life processes include a large temperature range over which it is [[liquid phase|liquid]], a high [[heat capacity]] (useful for temperature regulation), a large [[heat of vaporization]], and the ability to dissolve a wide variety of compounds. Water is also [[amphoteric]], meaning it can donate and accept an [[hydrogen ion|H<sup>+</sup> ion]], allowing it to act as an acid or a base. This property is crucial in many organic and biochemical reactions, where water serves as a solvent, a reactant, or a product. There are other chemicals with similar properties that have sometimes been proposed as alternatives. Additionally, water has the unusual property of being less dense as a solid (ice) than as a liquid. This is why bodies of water freeze over but do not freeze solid (from the bottom up). If ice were denser than liquid water (as is true for nearly all other compounds), then large bodies of liquid would slowly freeze solid, which would not be conducive to the formation of life. Water as a compound is cosmically abundant, although much of it is in the form of vapour or ice. Subsurface liquid water is considered likely or possible on several of the outer moons: [[Enceladus]] (where geysers have been observed), [[Europa (moon)|Europa]], [[Titan (moon)|Titan]] and [[Ganymede (moon)|Ganymede]]. Earth is the only world currently known to have stable bodies of liquid water on its surface.
+
+Not all properties of water are necessarily advantageous for life, however.<ref name="barosswater">Committee on the Limits of Organic Life in Planetary Systems, Committee on the Origins and Evolution of Life, National Research Council; [http://books.nap.edu/openbook.php?record_id=11919&page=70 The Limits of Organic Life in Planetary Systems]; The National Academies Press, 2007; page 70</ref> For instance, water ice has a high [[albedo]],<ref name="barosswater"/> meaning that it reflects a significant quantity of light and heat from the Sun. During [[ice age]]s, as reflective ice builds up over the surface of the water, the effects of global cooling are increased.<ref name="barosswater"/>
+
+There are some properties that make certain compounds and elements much more favorable than others as solvents in a successful biosphere. The solvent must be able to exist in liquid equilibrium over a range of temperatures the planetary object would normally encounter. Because boiling points vary with the pressure, the question tends not to be ''does'' the prospective solvent remain liquid, but ''at what pressure''. For example, [[hydrogen cyanide]] has a narrow liquid phase temperature range at 1 atmosphere, but in an atmosphere with the pressure of [[Venus]], with {{convert|92|bar|MPa}} of pressure, it can indeed exist in liquid form over a wide temperature range.
+
+===Ammonia===
+[[File:Ammonia World.jpg|320px|thumb|right|Artist's conception of how a planet with ammonia-based life may look.]]
+The [[ammonia]] molecule (NH<sub>3</sub>), like the water molecule, is abundant in the universe, being a compound of hydrogen (the simplest and most common element) with another very common element, nitrogen.<ref name="asimov"/> The possible role of liquid ammonia as an alternative solvent for life is an idea that goes back at least to 1954, when [[J.B.S. Haldane]] raised the topic at a symposium about life's origin.<ref name="haldane"/>
+
+Numerous chemical reactions are possible in an ammonia solution, and liquid ammonia has chemical similarities with water.<ref name="asimov"/><ref name="ddammonia">{{cite web | url = http://www.daviddarling.info/encyclopedia/A/ammonialife.html | title = ammonia-based life | accessdate = 2012-10-01 | last = Darling | first = David}}</ref> Ammonia can dissolve most organic molecules at least as well as water does and, in addition, it is capable of dissolving many elemental metals. Haldane made the point that various common water-related organic compounds have ammonia-related analogs; for instance the ammonia-related [[amine]] group (-NH<sub>2</sub>) is analogous to the water-related [[alcohol]] group (-OH).<ref name="ddammonia"/>
+
+Ammonia, like water, can either accept or donate an H<sup>+</sup> ion. When ammonia accepts an H<sup>+</sup>, it forms the [[ammonium]] cation (NH<sub>4</sub><sup>+</sup>), analogous to [[hydronium]] (H<sub>3</sub>O<sup>+</sup>). When it donates an H<sup>+</sup> ion, it forms the [[metal amides|amide]] anion (NH<sub>2</sub><sup>−</sup>), analogous to the [[hydroxide]] anion (OH<sup>−</sup>).<ref name="barossammonia"/> Compared to water, however, ammonia is more inclined to accept an H<sup>+</sup> ion, and less inclined to donate one; it is a stronger [[nucleophile]].<ref name="barossammonia"/> Ammonia added to water functions as [[Arrhenius base]]: it increases the concentration of the anion hydroxide. Conversely, using a [[Acid-base reaction#Solvent system definition|solvent system definition]] of acidity and basicity, water added to liquid ammonia functions as an acid, because it increases the concentration of the cation ammonium.<ref name="ddammonia"/> The carbonyl group (C=O), which is much used in terrestrial biochemistry, would not be stable in ammonia solution, but the analogous [[imine]] group (C=NH) could be used instead.<ref name="barossammonia"/>
+
+However, ammonia has some problems as a basis for life. The [[hydrogen bonds]] between ammonia molecules are weaker than those in water, causing ammonia's [[heat of vaporization]] to be half that of water, its [[surface tension]] to be a third, and reducing its ability to concentrate non-polar molecules through a [[hydrophobic]] effect. Gerald Feinberg and [[Robert Shapiro (chemist)|Robert Shapiro]] have questioned whether ammonia could hold prebiotic molecules together well enough to allow the emergence of a self-reproducing system.<ref>{{cite book| title=Life Beyond Earth| first=Gerald| last= Feinberg|author2=Robert Shapiro|publisher=Morrow| date=1980|isbn=0688036422 |id=ISBN 9780688036423}} cited in {{cite web | url = http://www.daviddarling.info/encyclopedia/A/ammonialife.html/ | title = ammonia-based life | accessdate = 2012-10-01 | last = Darling | first = David}}</ref> Ammonia is also flammable in oxygen, and could not exist sustainably in an environment suitable for [[aerobic metabolism]].<ref name="dsmammonia">{{cite book| title=Life in the Universe: Expectations and Constraints| first=Dirk | last= Schulze-Makuch|first2=Louis Neal|last2=Irwin|publisher=Springer| edition=2| date=2008|isbn=<!--3540768165, -->9783540768166|page=119}}</ref>
+
+[[File:Layers of titan.jpg|thumb|right|upright=1.5|Titan's theorized internal structure, subsurface ocean shown blue.]]
+A [[biosphere]] based on ammonia would likely exist at temperatures or air pressures that are extremely unusual in relation to life on Earth. Life on Earth usually exists within the melting point and [[boiling point]] of water at [[normal pressure]], between 0&nbsp;°C (273&nbsp;[[Kelvin|K]]) and 100&nbsp;°C (373&nbsp;K); at normal pressure ammonia's melting and boiling points are between −78&nbsp;°C (195&nbsp;K) and −33&nbsp;°C (240&nbsp;K). Chemical reactions generally proceed more slowly at a lower temperature. Therefore, ammonia-based life, if it exists, might metabolize more slowly and evolve more slowly than life on Earth.<ref name="dsmammonia">{{cite book| title=Life in the Universe: Expectations and Constraints| first=Dirk | last= Schulze-Makuch|first2=Louis Neal|last2=Irwin|publisher=Springer| edition=2| date=2008|isbn=<!--3540768165, -->9783540768166|page=119}}</ref> On the other hand, lower temperatures could also enable living systems to use chemical species which at Earth temperatures would be too unstable to be useful.<ref name="asimov"/>
+
+Ammonia could be a liquid at Earth-like temperatures, but at much higher pressures; for example, at 60 [[Atmosphere (unit)|atm]], ammonia melts at −77&nbsp;°C (196&nbsp;K) and boils at 98&nbsp;°C (371&nbsp;K).<ref name="barossammonia"/>
+
+Ammonia and ammonia–water mixtures remain liquid at temperatures far below the freezing point of pure water, so such biochemistries might be well suited to planets and moons orbiting outside the water-based [[habitability zone]]. Such conditions could exist, for example, under the surface of [[Saturn]]'s largest moon [[Titan (moon)|Titan]].<ref>{{cite web|url=http://www.es.ucl.ac.uk/research/planetary/undergraduate/dom/titan/titan.htm|title=Exobiological Implications of a Possible Ammonia-Water Ocean Inside Titan|last=Fortes|first=A. D.|date=1999|accessdate=7 June 2010}}</ref>
+
+===Methane and other hydrocarbons===
+Methane (CH<sub>4</sub>) is a simple hydrocarbon: that is, a compound of two of the most common elements in the cosmos, hydrogen and carbon. It has a cosmic abundance comparable with ammonia.<ref name="asimov"/> Hydrocarbons could act as a solvent over a wide range of temperatures, but would lack [[chemical polarity|polarity]]. Isaac Asimov, the [[biochemist]] and science fiction writer, suggested in 1981 that poly-[[lipids]] could form a substitute for proteins in a non-polar solvent such as methane.<ref name="asimov"/> Lakes composed of a mixture of hydrocarbons, including methane and [[ethane]], have been detected on the surface of Titan by the [[Cassini–Huygens|''Cassini'' spacecraft]].
+
+There is debate about the effectiveness of methane and other hydrocarbons as a solvent for life compared to water or ammonia.<ref name="methanesolvent">Committee on the Limits of Organic Life in Planetary Systems, Committee on the Origins and Evolution of Life, National Research Council; [http://books.nap.edu/openbook.php?record_id=11919&page=74 The Limits of Organic Life in Planetary Systems]; The National Academies Press, 2007; page 74.</ref><ref name="Polyesters">{{cite journal |title=Solubility of Polyethers in Hydrocarbons at Low Temperatures. A Model for Potential Genetic Backbones on Warm Titans |journal=Astrobiology |date=March 2015 |last=McLendon |first=Christopher |last2=Opalko |first2=F. Jeffrey |volume=15 |issue=3 |pages= 200–206 |doi=10.1089/ast.2014.1212 |url=http://online.liebertpub.com/doi/abs/10.1089/ast.2014.1212 |accessdate=2015-03-25 |bibcode=2015AsBio..15..200M}}</ref><ref>{{cite news |last=Hadhazy |first=Adam |url=http://www.space.com/29389-alien-life-hydrocarbon-exoplanets-ether-dna.html?adbid=10152808883996466&adbpl=fb&adbpr=17610706465&cmpid=514630_20150513_45710706&short_code=2ze6t |title=Alien Life on Oily Exoplanets Could Have Ether-based 'DNA' |work=Astrobiology Magazine |publisher=Space.com |date=13 May 2015 |accessdate=2015-05-21 }}</ref> Water is a stronger solvent than the hydrocarbons, enabling easier transport of substances in a cell.<ref name=methlife>{{cite web|title= What is Consuming Hydrogen and Acetylene on Titan?|publisher=NASA/JPL|date=2010 |accessdate=2010-06-06|url=http://www.jpl.nasa.gov/news/news.cfm?release=2010-190}}</ref> However, water is also more chemically reactive, and can break down large organic molecules through hydrolysis.<ref name=methanesolvent/> A life-form whose solvent was a hydrocarbon would not face the threat of its biomolecules being destroyed in this way.<ref name=methanesolvent/> Also, the water molecule's tendency to form strong hydrogen bonds can interfere with internal hydrogen bonding in complex organic molecules.<ref name="barosswater"/> Life with a hydrocarbon solvent could make more use of hydrogen bonds within its biomolecules.<ref name="methanesolvent"/> Moreover, the strength of hydrogen bonds within biomolecules would be appropriate to a low-temperature biochemistry.<ref name="methanesolvent"/>
+
+Astrobiologist [[Christopher McKay (planetary scientist)|Chris McKay]] has argued, on thermodynamic grounds, that if life does exist on Titan's surface, using hydrocarbons as a solvent, it is likely also to use the more complex hydrocarbons as an energy source by reacting them with hydrogen, [[redox|reducing]] ethane and [[acetylene]] to methane.<ref name="mckay">{{cite journal| journal = Icarus|volume= 178| issue = 1|pages = 274–276|date= 2005|doi = 10.1016/j.icarus.2005.05.018| title = Possibilities for methanogenic life in liquid methane on the surface of Titan|author = McKay, C. P.; Smith, H. D.|bibcode=2005Icar..178..274M}}</ref> Possible evidence for this form of [[life on Titan]] was identified in 2010 by Darrell Strobel of [[Johns Hopkins University]]; a greater abundance of molecular hydrogen in the upper atmospheric layers of Titan compared to the lower layers, arguing for a downward diffusion at a rate of roughly 10<sup>25</sup> molecules per second and disappearance of hydrogen near Titan's surface. As Strobel noted, his findings were in line with the effects Chris McKay had predicted if [[methanogenic]] life-forms were present.<ref name="methlife"/><ref name="mckay"/><ref name="strobel">{{cite journal| title=Molecular hydrogen in Titan's atmosphere: Implications of the measured tropospheric and thermospheric mole fractions|author=Strobel, Darrell F.| journal=Icarus |volume=208| issue=2| pages=878–886| date=2010| doi=10.1016/j.icarus.2010.03.003| url=http://astrobiology.jhu.edu/wp-content/uploads/2010/06/Icarus-2010-Strobel.pdf |bibcode=2010Icar..208..878S}}</ref> The same year, another study showed low levels of acetylene on Titan's surface, which were interpreted by Chris McKay as consistent with the hypothesis of organisms reducing acetylene to methane.<ref name="methlife"/> While restating the biological hypothesis, McKay cautioned that other explanations for the hydrogen and acetylene findings are to be considered more likely: the possibilities of yet unidentified physical or chemical processes (e.g. a non-living surface [[catalyst]] enabling acetylene to react with hydrogen), or flaws in the current models of material flow.<ref name="life?">{{cite web|title= Have We Discovered Evidence For Life On Titan|author=Mckay, Chris|date=2010|url=http://astronomy.nmsu.edu/tharriso/ast105/making_sense.php.html| publisher=[[New Mexico State University]], [http://artsci.nmsu.edu/ College of Arts and Sciences], [http://astronomy.nmsu.edu/ Department of Astronomy]| accessdate=2014-05-15}}</ref> He noted that even a non-biological catalyst effective at 95 K would in itself be a startling discovery.<ref name="life?"/>
+
+A hypothetical [[cell membrane]] capable of functioning in liquid [[methane]] in Titan conditions was computer-modeled in February 2015. Composed of small molecules that contain carbon, hydrogen, and nitrogen, it would have the same stability and flexibility as cell membranes on Earth, which are composed of [[phospholipid]]s, compounds of carbon, hydrogen, oxygen, and [[phosphorus]]. This hypothetical cell membrane was termed an "[[azotosome]]", a [[classical compound]] made of "azote", French for nitrogen, and "[[soma (biology)|soma]]", Greek for body, by analogy with "[[liposome]]".<ref name=azotosomemodel>[http://phys.org/news/2015-02-life-saturn-moon-titan.html Life 'not as we know it' possible on Saturn's moon Titan]</ref>
+
+===Hydrogen fluoride===
+[[Hydrogen fluoride]] (HF), like water, is a polar molecule, and due to its polarity it can dissolve many ionic compounds. Its melting point is −84&nbsp;°C and its boiling point is 19.54&nbsp;°C (at [[atmospheric pressure]]); the difference between the two is a little more than 100 K. HF also makes hydrogen bonds with its neighbor molecules, as do water and ammonia. It has been considered as a possible solvent for life by scientists such as Peter Sneath<ref name="sneath"/> and Carl Sagan.<ref name="Sagan, Carl 2002 128"/>
+
+HF is dangerous to the systems of molecules that Earth-life is made of, but certain other organic compounds, such as [[paraffin wax]]es, are stable with it.<ref name="Sagan, Carl 2002 128"/> Like water and ammonia, liquid hydrogen fluoride supports an acid-base chemistry. Using a solvent system definition of acidity and basicity, [[nitric acid]] functions as a base when it is added to liquid HF.<ref>{{cite book| title=Chemistry in Nonaqueous Ionizing solvents: Inorganic Chemistry in Liquid Hydrogen Cyanide and Liquid hydrogen Fluoride| first=Gerhart| last= Jander| first2=Hans| last2= Spandau| first3=C.C.|last3=Addison|publisher=Pergamon Press| location=N.Y.| date=1971|volume=II}} cited in {{cite book| title=Xenology: An Introduction to the Scientific Study of Extraterrestrial Life, Intelligence, and Civilization| first=Robert A.| last= Freitas| publisher=Xenology Research Institute| location=Sacramento, CA| date=1979|chapter=8.2.2|url=http://www.xenology.info/Xeno/8.2.2.htm}}</ref>
+
+However, hydrogen fluoride, unlike water, ammonia and methane, is cosmically rare.<ref>{{cite book| title=Xenology: An Introduction to the Scientific Study of Extraterrestrial Life, Intelligence, and Civilization| first=Robert A.| last= Freitas| publisher=Xenology Research Institute| location=Sacramento, CA| date=1979|chapter=8.2.2|url=http://www.xenology.info/Xeno/8.2.2.htm}}</ref>
+
+===Hydrogen sulfide===
+[[Hydrogen sulfide]] is the closest chemical analog to water,<ref>{{cite web | url=http://www.daviddarling.info/encyclopedia/S/solvent.html | title = solvent | accessdate = 2012-10-12 | last = Darling | first = David}}</ref> but is less polar and a weaker inorganic solvent.<ref>{{cite book| title=Ionizing Solvents| first=J.| last= Jander| first2=C.| last2=Lafrenz | publisher=John Wiley & Sons Ltd., Verlag Chemie| location=Weinheim/Bergstr.| date=1970|volume=I}} cited in {{cite book| title=Xenology: An Introduction to the Scientific Study of Extraterrestrial Life, Intelligence, and Civilization| first=Robert A.| last= Freitas| publisher=Xenology Research Institute| location=Sacramento, CA| date=1979|chapter=8.2.2|url=http://www.xenology.info/Xeno/8.2.2.htm}}</ref> Hydrogen sulfide is quite plentiful on Jupiter's moon [[Io (moon)|Io]], and may be in liquid form a short distance below the surface; and astrobiologist [[Dirk Schulze-Makuch]] has suggested it as a possible solvent for life there.<ref>{{cite web|url=http://www.astrobio.net/exclusive/3518/the-chance-for-life-on-io | title = The Chance for Life on Io | accessdate = 2013-05-25 | last = Choi | first = Charles Q.}}</ref> On a planet with hydrogen-sulfide oceans the source of the hydrogen sulfide could come from volcanos, in which case it could be mixed in with a bit of [[hydrogen fluoride]], which could help dissolve minerals. Hydrogen sulfide life might use a mixture of carbon monoxide and carbon dioxide as their carbon source. They might produce and live off of [[sulfur monoxide]], which is analogous to oxygen (O<sub>2</sub>). Hydrogen sulfide, like hydrogen cyanide and ammonia, suffers from the small temperature range where it is liquid, though that, like that of hydrogen cyanide and ammonia, increases with increasing pressure.
+
+===Silicon dioxide and silicates===
+[[Silicon dioxide]], also known as glass, silica, or quartz, is very abundant in the universe and has a large temperature range where it is liquid. However, its melting point is {{convert|1,600|to|1,725|C|F}}, so it would be impossible to make organic compounds in that temperature, because all of them would decompose. Moreover, if the pressure increases, the melting point goes down.{{Citation needed|date=December 2014}} Silicates are similar to silicon dioxide and some could have lower boiling points than silica. [[Gerald Feinberg]] and [[Robert Shapiro (chemist)|Robert Shapiro]] have suggested that molten silicate rock could serve as a liquid medium for organisms with a chemistry based on silicon, oxygen, and other elements such as [[aluminum]].<ref>
+{{cite book
+|author=David W. Koerner and Simon LeVay
+|title=Here Be Dragons : The Scientific Quest for Extraterrestrial Life:
+|date=2000
+|isbn=9780198033370
+|publisher=Oxford U.P.
+|pages=202}}</ref>
+
+===Other solvents or cosolvents===
+[[File:Sulfuric-acid-Givan-et-al-1999-3D-balls.png|thumb|Sulfuric acid (H<sub>2</sub>SO<sub>4</sub>).]]
+Other solvents sometimes proposed:
+* [[Supercritical fluid]]s: [[supercritical carbon dioxide]] and supercritical hydrogen<ref name="Supercritical Carbon Dioxide">{{cite journal|last1=Budisa|first1=Nediljko|last2=Schulze-Makuch|first2=Dirk|title=Supercritical Carbon Dioxide and Its Potential as a Life-Sustaining Solvent in a Planetary Environment|journal=Life|date=8 August 2014|volume=4|issue=3|pages=331–340|url=http://www.mdpi.com/2075-1729/4/3/331|doi=10.3390/life4030331}}</ref>
+* Simple hydrogen compounds: [[hydrogen chloride]]<ref name="wardsolvents">{{Cite book
+ | last = Ward
+ | first = Peter D.
+ | last2 = Benner
+ | first2 = Steven A.
+ | contribution = Alien biochemistries
+ | date = 2007
+ | title = Planets and Life
+ | editor-last = Sullivan
+ | editor-first = Woodruff T.
+ | editor2-last = Baross
+ | editor2-first = John A.
+ | page = 540
+ | place = Cambridge
+ | publisher = Cambridge
+ | isbn = <!--0521531020, -->978-0521531023}}</ref>
+* More complex compounds: [[sulfuric acid]],<ref name="barosssulfuric"/> [[formamide]],<ref name="Planetary Systems p 74"/> [[methanol]]<ref name="wardsolvents"/>
+* Very-low-temperature fluids: [[liquid nitrogen]],<ref name="barosscryo"/> and [[liquid hydrogen|hydrogen]]<ref name="barosscryo"/>
+* High-temperature liquids: [[sodium chloride]]<ref>[http://www.astrobio.net/news-exclusive/the-methane-habitable-zone/ The methane habitable zone]</ref>
+
+Sulfuric acid in liquid form is strongly polar. It remains liquid at higher temperatures than water, its liquid range being 10&nbsp;°C to 337&nbsp;°C at a pressure of 1 atm, although above 300&nbsp;°C it will slowly decompose. Sulfuric acid is known to be abundant in the [[atmosphere of Venus|clouds of Venus]], in the form of [[aerosol]] droplets. In a biochemistry that used sulfuric acid as a solvent, the [[alkene]] group (C=C), with two carbon atoms joined by a double bond, could function analogously to the carbonyl group (C=O) in water-based biochemistry.<ref name="barosssulfuric"/>
+
+A proposal has been made that life on Mars may exist and be using a mixture of water and [[hydrogen peroxide]] as its solvent.<ref>{{cite journal
+ | title = A Possible Biogenic Origin for Hydrogen Peroxide on Mars
+ | journal = International Journal of Astrobiology
+ | volume = 6
+ | issue = 2
+ | pages = 147
+ | date = 2007-05-22
+ | first = Joop M.
+ | last = Houtkooper
+ |author2=Dirk Schulze-Makuch
+ | doi = 10.1017/S1473550407003746
+ | arxiv = physics/0610093
+|bibcode = 2007IJAsB...6..147H }}</ref> A 61.2% (by weight) mix of water and hydrogen peroxide has a freezing point of −56.5&nbsp;°C, and also tends to [[super-cool]] rather than crystallize. It is also [[hygroscopic]], an advantage in a water-scarce environment.<ref>{{cite journal| url=http://www.cosis.net/abstracts/EPSC2007/00439/EPSC2007-J-00439.pdf|format=PDF| journal=EPSC Abstracts| volume= 2| id= EPSC2007-A-00439| date=2007| publisher=European Planetary Science Congress 2007| title=The H2O2-H2O Hypothesis: Extremophiles Adapted to Conditions on Mars?| first=Joop M.| last= Houtkooper|author2=Dirk Schulze-Makuch| bibcode=2007epsc.conf..558H|  pages=558}}</ref><ref>{{cite web| url=http://www.planetary.org/blog/article/00001109/| title=Europlanet : Life's a bleach| date=2007-08-24| first=Doug| last= Ellison| publisher=Planetary.org}}</ref>
+
+Supercritical carbon dioxide has been proposed as a candidate for alternative biochemistry due to its ability to selectively dissolve organic compounds and assist the functioning of enzymes and because "super-Earth"- or "super-Venus"-type planets with dense high-pressure atmospheres may be common.<ref name="Supercritical Carbon Dioxide"/>
+
+==Other types of speculations==
+
+===Non-green photosynthesizers===
+Physicists have noted that, although photosynthesis on Earth generally involves green plants, a variety of other-colored plants could also support photosynthesis, essential for most life on Earth, and that other colors might be preferred in places that receive a different mix of stellar radiation than Earth.<ref>{{cite web|url=http://www.nasa.gov/centers/goddard/news/topstory/2007/spectrum_plants.html |title=NASA – NASA Predicts Non-Green Plants on Other Planets |publisher=Nasa.gov |date=2008-02-23 |accessdate=2010-05-29}}</ref><ref name = "Kiang">{{Cite journal
+  | last = Kiang | first = Nancy Y. |author2=Segura, Antígona |author3=Tinetti, Giovanna |author4=Jee, Govind |author5=Blankenship, Robert E. |author6=Cohen, Martin |author7=Siefert, Janet |author8=Crisp, David |author9= Meadows, Victoria S. 
+  | title = Spectral signatures of photosynthesis. II. Coevolution with other stars and the atmosphere on extrasolar worlds
+  | journal = [[Astrobiology (journal)|Astrobiology]] | volume = 7 | issue = 1 | pages = 252–274
+  | publisher = [[Mary Ann Liebert, Inc.]] | date = 2007-04-03
+  | url = http://www.liebertonline.com/doi/abs/10.1089/ast.2006.0108| doi = 10.1089/ast.2006.0108 | accessdate = 2010-12-03 | bibcode=2007AsBio...7..252K | pmid=17407410|arxiv = astro-ph/0701391 }}</ref> These studies indicate that, although blue photosynthetic plants would be less likely, yellow or red plants are plausible.<ref name = "Kiang"/>
+
+===Variable environments===
+
+Many Earth plants and animals undergo major biochemical changes during their life cycles as a response to changing environmental conditions, for example, by having a [[spore]] or [[hibernation]] state that can be sustained for years or even millennia between more active life stages.<ref name="Christmas in Yellowstone">{{cite web|url=http://www.pbs.org/wnet/nature/yellowstone/hibernate.html |title=Christmas in Yellowstone |publisher=Pbs.org |accessdate=2010-05-29}}</ref>  Thus, it would be biochemically possible to sustain life in environments that are only periodically consistent with life as we know it.
+
+For example, frogs in cold climates can survive for extended periods of time with most of their body water in a frozen state,<ref name="Christmas in Yellowstone"/> whereas desert frogs in Australia can become inactive and dehydrate in dry periods, losing up to 75% of their fluids, yet return to life by rapidly rehydrating in wet periods.<ref>[http://www.jstor.org/pss/1933854 Main and Bentley, Ecology, "Water Relations of Australian Burrowing Frogs and Tree Frogs" (1964)]</ref> Either type of frog would appear biochemically inactive (i.e. not living) during dormant periods to anyone lacking a sensitive means of detecting low levels of metabolism.
+
+==Nonplanetary life==
+
+===Dust and plasma-based===
+In 2007, [[Vadim N. Tsytovich]] and colleagues proposed that lifelike behaviors could be exhibited by dust particles suspended in a [[Plasma (physics)|plasma]], under conditions that might exist in space.<ref name="dust1">{{cite news| url=http://www.sciencedaily.com/releases/2007/08/070814150630.htm| date=2007-08-15| publisher=Science Daily| title=Physicists Discover Inorganic Dust With Lifelike Qualities}}</ref><ref name="dust2">{{cite journal| url=http://www.iop.org/EJ/abstract/1367-2630/9/8/263| title=From plasma crystals and helical structures towards inorganic living matter| journal= New J. Phys.| volume= 9| issue= 263| doi=10.1088/1367-2630/9/8/263|first=V N| last= Tsytovich| author2= G E Morfill, V E Fortov, N G Gusein-Zade, B A Klumov and S V Vladimirov| date=14 August 2007| page=263|bibcode = 2007NJPh....9..263T | last3=Fortov| first3=V E| last4=Gusein-Zade| first4=N G| last5=Klumov| first5=B A| last6=Vladimirov| first6=S V}}</ref> Computer models showed that, when the dust became charged, the particles could self-organize into microscopic helical structures capable of replicating themselves, interacting with other neighboring structures,
+and evolving into more stable forms. Similar forms of life were described in [[Fred Hoyle]]'s classic novel ''[[The Black Cloud]]''.
+
+==Scientists who have published on this topic==
+Scientists who have considered possible alternatives to carbon-water biochemistry include:
+* '''[[Isaac Asimov]]''' (1920–1992), biochemist and science fiction writer.<ref name="asimov">{{Cite journal| journal=Cosmic Search|title=Not as We Know it – the Chemistry of Life|date=Winter 1981|issue= 9 (Vol 3 No 1)|author=Isaac Asimov|publisher=North American AstroPhysical Observatory|url=http://www.bigear.org/CSMO/HTML/CS09/cs09all.htm}}</ref>
+* '''[[William Bains]]''', Cambridge biologist, a contributor to the journal [[Astrobiology (journal)|Astrobiology]].<ref name="bains">{{Cite journal|journal=Astrobiology|title=Many Chemistries Could Be Used to Build Living Systems|date=2004|volume=4|pages= 137–167| author=W. Bains|doi = 10.1089/153110704323175124|pmid=15253836|issue=2 |bibcode = 2004AsBio...4..137B }}</ref>
+* '''[[John Baross]]''', oceanographer and astrobiologist, who chaired a committee of scientists under the [[United States National Research Council]] which in 2007 published a report on life's limiting conditions.<ref name="baross">Committee on the Limits of Organic Life in Planetary Systems, Committee on the Origins and Evolution of Life, National Research Council; [http://books.nap.edu/openbook.php?record_id=11919 The Limits of Organic Life in Planetary Systems]; The National Academies Press, 2007.</ref> The report addresses the concern that a space agency might conduct a well-resourced search for life on other worlds "and then fail to recognize it if it is encountered".<ref>Committee on the Limits of Organic Life in Planetary Systems, Committee on the Origins and Evolution of Life, National Research Council; [http://books.nap.edu/openbook.php?record_id=11919&page=R10 The Limits of Organic Life in Planetary Systems]; The National Academies Press, 2007; page 5</ref>
+* '''[[Gerald Feinberg]]''' (1933–1992), physicist and [[Robert Shapiro (chemist)|Robert Shapiro]] (1935–2011), chemist, co-authors of the book ''Life Beyond Earth''.<ref>{{cite book|title=Life Beyond Earth|first=Gerald|last= Feinberg|author2=Robert Shapiro|publisher=Morrow| date=1980|isbn=0688036422 }}</ref><ref>A detailed review of this book is: {{Cite journal|journal=New Scientist |title=Life beyond Earth|date=2 Oct 1980|page= xvii|author=John Gribbin}}</ref>
+* '''[[Axel Firsoff|V.Axel Firsoff]]''' (1910–1981), British astronomer.<ref>{{Cite journal|journal=Discovery|title=An Ammonia-Based Life|date=January 1962|volume=23|pages= 36–42|author=V. Axel Firsoff}} cited in {{cite web|url = http://www.daviddarling.info/encyclopedia/A/ammonialife.html/|title = ammonia-based life|accessdate=2012-10-01|last = Darling|first = David}}</ref>
+* '''[[Robert Freitas|Robert A. Freitas Jr.]]''' (1952–Present), specialist in nano-technology and nano-medicine; author of the book ''Xenology''.<ref>{{cite book| title=Xenology: An Introduction to the Scientific Study of Extraterrestrial Life, Intelligence, and Civilization| first=Robert A.| last= Freitas| publisher=Xenology Research Institute| location=Sacramento, CA| date=1979|url=http://www.xenology.info/Xeno.htm}}</ref><ref>This work is acknowledged the partial basis of the article {{cite web|url = http://www.daviddarling.info/encyclopedia/A/ammonialife.html/|title = ammonia-based life|accessdate = 2012-10-01|last = Darling|first = David}}</ref>
+* '''[[J. B. S. Haldane]]''' (1892–1964), a geneticist noted for his work on [[abiogenesis]].<ref name="haldane">{{Cite journal| journal=New Biology |title=The Origins of Life | date=1954 |volume=16 |pages= 12–27 | author=J.B.S. Haldane}} cited in {{cite web | url = http://www.daviddarling.info/encyclopedia/A/ammonialife.html/ | title = ammonia-based life | accessdate = 2012-10-01 | last = Darling | first = David}}</ref>
+* '''[[George Pimentel]]''' (1922–1989), American chemist, University of California, Berkeley.<ref name="Shklovskii 1977 229">{{cite book| title=Intelligent Life in the Universe|first=I.S.|last= Shklovskii|author2=Carl Sagan|publisher=Picador|date=1977|page=229}}</ref>
+* '''[[Carl Sagan]]''' (1934–1996), astronomer,<ref name="Shklovskii 1977 229"/> science popularizer, and [[SETI]] proponent.
+* '''[[Peter Sneath]]''' (1923–2011), microbiologist, author of the book ''Planets and Life''.<ref name="sneath">{{cite book|title=Planets and Life|first=P.H.A.|last= Sneath|publisher=Thames and Hudson|date=1970}} cited in {{cite book|title=Extraterrestrial Encounter|first=Chris| last= Boyce|publisher=New English Library|date=1981|pages=125, 182}}</ref>
+
+==In fiction==
+{{see also|List of fictional extraterrestrials by form}}
+
+*Alternate chirality: In [[Arthur C. Clarke]]'s short story "[[Technical Error]]", there is an example of differing [[Chirality (chemistry)|chirality]].
+
+*The concept of reversed chirality also figured prominently in the plot of [[James Blish]]'s ''Star Trek'' novel ''[[Spock Must Die!]]'', where a transporter experiment gone awry ends up creating a duplicate Spock who turns out to be a perfect mirror-image of the original all the way down to the atomic level.
+
+* The eponymous organism in [[Michael Crichton]]'s ''[[The Andromeda Strain]]'' is described as reproducing via the direct conversion of energy into matter.
+
+*Silicoids: [[John Drury Clark|John Clark]], in the introduction to the 1952 shared-world anthology [[The Petrified Planet]], outlined the biologies of the planet Uller, with a mixture of siloxane and silicone life, and of Niflheim, where metabolism is based on hydrofluoric acid and carbon tetrafluoride. 
+
+[[File:STDevil inTheDark.jpg|thumb|right|180px|A [[The Devil in the Dark|Horta]], a fictional silicon-based life-form in the [[Star Trek]] universe.]]
+
+* A well-known example of a non–carbon-based life-form in science fiction is the Horta in the original ''[[Star Trek: The Original Series|Star Trek]]'' episode "[[The Devil in the Dark]]". A highly intelligent silicon-based creature made almost entirely of pure rock, it tunnels through rock as easily as humans move through air. The entire species dies out every 50,000&nbsp;years except for one who tends the eggs, which take the form of silicon nodules scattered throughout the caverns and tunnels of its home planet, [[List of Star Trek planets: G-L#J|Janus VI]].
+
+* In ''[[Star Trek: The Next Generation]]'', the [[Crystalline Entity]] appeared in two episodes, "[[Datalore]]" and "[[Silicon Avatar]]". This was an enormous spacefaring [[crystal structure|crystal lattice]] that had taken thousands of lives in its quest for energy. It may have been unaware of this, however, but it was destroyed before communications could be established at a level sufficient to ascertain it.
+{{clear}}
+
+==See also==
+{{Portal|Astrobiology}}
+{{colbegin||20em}}
+* [[Astrobiology]]
+* [[Carbon chauvinism]]
+* [[Carbon-based life]]
+* [[Extraterrestrial life]]
+* [[Iron–sulfur world hypothesis]]
+* [[Non-cellular life]]
+* [[Non-proteinogenic amino acids]]
+* [[Nucleic acid analogues]]
+* [[Planetary habitability]]
+* [[Shadow biosphere]]
+{{colend}}
+
+==References==
+{{reflist|30em}}
+
+==Further reading==
+* {{Cite journal| journal=Astrobiology |title=Many Chemistries Could Be Used to Build Living Systems | date=2004 |volume=4 |pages= 137–167 | author=W. Bains| doi = 10.1089/153110704323175124| pmid=15253836| issue=2 |bibcode = 2004AsBio...4..137B }}
+
+==External links==
+* [http://www.faqs.org/faqs/astronomy/faq/part6/section-16.html Astronomy FAQ]
+* [http://www.daviddarling.info/encyclopedia/A/ammonialife.html Ammonia-based life]
+* [http://www.daviddarling.info/encyclopedia/S/siliconlife.html Silicon-based life]
+{{Astrobiology}}
+{{Extraterrestrial life}}
+
+{{DEFAULTSORT:Hypothetical Types Of Biochemistry}}
+[[Category:Astrobiology]]
+[[Category:Extraterrestrial life]]
+[[Category:Science fiction themes]]
+[[Category:Astronomical hypotheses]]

@@ -1,0 +1,210 @@
+{{other uses}}
+{{Use mdy dates|date=August 2014}}
+{{Multiple issues |{{refimprove|date=November 2012}}{{cleanup-rewrite|date=November 2012}} }}
+{{Numismatics}}
+
+A '''currency''' (from {{lang-enm|curraunt}}, "in circulation", from {{lang-la|currens, -entis}}) in the most specific use of the word refers to [[money]] in any form when in actual use or circulation as a [[medium of exchange]], especially circulating [[banknote]]s and [[coin]]s.<ref>{{Cite web | url = http://www.thefreedictionary.com/currency | title = currency | publisher = The Free Dictionary}}</ref><ref name=Bernstein>{{cite book |last =Bernstein |first =Peter |authorlink =Peter L. Bernstein |title=A Primer on Money, Banking and Gold | edition = 3rd |year=2008 |origyear=1965 |publisher=Wiley |location=Hoboken, NJ  |isbn=978-0-470-28758-3 |oclc = 233484849 |chapter= 4–5}}</ref> A more general definition is that a currency is a ''system of money'' (monetary units) in common use, especially in a nation.<ref>{{Cite web | url = http://www.investopedia.com/terms/c/currency.asp#axzz2CqfsX9BD | title = Currency | publisher = Investopedia}}</ref> Under this definition, British pounds, U.S. dollars, and European euros are examples of currency. These various currencies are stores of value, and are traded between nations in [[foreign exchange market]]s, which determine the relative values of the different currencies.<ref>{{Cite news | url = https://docs.google.com/fileview?id=0B_Qxj5U7eaJTZTJkODYzN2ItZjE3Yy00Y2M0LTk2ZmUtZGU0NzA3NGI4Y2Y5&hl=en&pli=1 | newspaper = The Economist | title = Guide to the Financial Markets | format = PDF}}</ref> Currencies in this sense are defined by governments, and each type has limited boundaries of acceptance.
+
+Other definitions of the term "currency" are discussed in their respective synonymous articles [[banknote]], [[coin]], and [[money]]. The latter definition, pertaining to the currency systems of nations, is the topic of this article.  Currencies can be classified into two [[monetary system]]s: [[fiat money]] and [[commodity money]], depending on what guarantees the value (the economy at large vs. the government's physical metal reserves).  Some currencies are [[legal tender]] in certain jurisdictions, which means they cannot be refused as payment for debt.  Others are simply traded for their economic value. [[Digital currency]] arose with the popularity of computers and the [[Internet]].
+
+== History ==
+<!--Linked from [[Shekel]]-->
+
+===Early currency===
+{{Unreferenced section|date=October 2011}}
+[[File:A print from 1845 shows cowry shells being used as money by an Arab trader.jpg|thumb|Cowry shells being used as money by an Arab trader.]]
+Currency evolved from two basic innovations, both of which had occurred by 2000 BC. Originally money was a form of receipt, representing grain stored in temple granaries in [[Sumer]] in ancient [[Mesopotamia]], then [[Ancient Egypt]].
+
+In this first stage of currency, metals were used as symbols to represent value stored in the form of commodities. This formed the basis of trade in the [[Fertile Crescent]] for over 1500 years. However, the [[Bronze Age collapse|collapse of the Near Eastern trading system]] pointed to a flaw: in an era where there was no place that was safe to store value, the value of a circulating medium could only be as sound as the forces that defended that store. Trade could only reach as far as the credibility of that military. By the late [[Bronze Age]], however, a series of [[Treaty|treaties]] had established safe passage for merchants around the Eastern Mediterranean, spreading from [[Minoan civilization|Minoan]] [[Crete]] and [[Mycenae]] in the northwest to [[Elam]] and [[Bahrain]] in the southeast. It is not known what was used as a currency for these exchanges, but it is thought that [[oxhide ingot|ox-hide shaped ingots]] of copper, produced in [[Cyprus]], may have functioned as a currency.
+
+It is thought that the increase in piracy and raiding associated with the [[Bronze Age collapse]], possibly produced by the [[Peoples of the Sea]], brought the trading system of oxhide ingots to an end. It was only with the recovery of Phoenician trade in the 10th and 9th centuries BC that saw a return to prosperity, and the appearance of real coinage, possibly first in Anatolia with [[Croesus]] of [[Lydia]] and subsequently with the Greeks and Persians. In Africa many forms of value store have been used, including beads, ingots, [[ivory]], various forms of weapons, livestock, the [[manilla currency]], and ochre and other earth oxides. The manilla rings of [[West Africa]] were one of the currencies used from the 15th century onwards to sell slaves. [[African currency]] is still notable for its variety, and in many places various forms of [[barter]] still apply.
+
+===Coinage===
+{{main|Coin}}
+These factors led to the metal itself being the store of value: first silver, then both silver and gold, and at one point also bronze. Now we have copper coins and other non-precious metals as coins. Metals were mined, weighed, and stamped into coins. This was to assure the individual taking the coin that he was getting a certain known weight of precious metal. Coins could be counterfeited, but they also created a new [[unit of account]], which helped lead to [[banking]]. [[Archimedes' principle]] provided the next link: coins could now be easily tested for their [[Fineness|fine]] weight of metal, and thus the value of a coin could be determined, even if it had been shaved, debased or otherwise tampered with (see [[Numismatics]]).
+
+Most major economies using coinage had three tiers of coins: copper, silver and gold. Gold coins were used for large purchases, payment of the military and backing of state activities. Silver coins were used for midsized transactions, and as a unit of account for taxes, dues, contracts and fealty, while copper coins were used for everyday transactions. This system had been used in ancient [[Indian coinage|India]] since the time of the [[Mahajanapadas]]. In Europe, this system worked through the [[medieval]] period because there was virtually no new gold, silver or copper introduced through mining or conquest.{{Citation needed|date=March 2010}} Thus the overall ratios of the three coinages remained roughly equivalent.
+
+=== Paper money ===
+{{main|Banknote}}
+In [[History of China|premodern]] [[China]], the need for credit and for a medium of exchange that was less physically cumbersome than large numbers of [[copper]] coins led to the introduction of [[paper money]], i.e. [[banknote]]s. Their introduction was a gradual process which lasted from the late [[Tang dynasty]] (618–907) into the [[Song dynasty]] (960–1279). It began as a means for merchants to exchange heavy coinage for [[receipt]]s of deposit issued as [[promissory note]]s by [[wholesaler]]s' shops. These notes were valid for temporary use in a small regional territory. In the 10th century, the [[Song dynasty]] government began to circulate these notes amongst the traders in its [[monopoly|monopolized]] salt industry. The Song government granted several shops the right to issue banknotes, and in the early 12th century the government finally took over these shops to produce state-issued currency. Yet the banknotes issued were still only locally and temporarily valid: it was not until the mid 13th century that a standard and uniform government issue of paper money became an acceptable nationwide currency. The already widespread methods of [[woodblock printing]] and then [[Pi Sheng]]'s [[movable type]] [[printing]] by the 11th century were the impetus for the mass production of paper money in premodern China.
+
+[[File:Jiao zi.jpg|thumb|right|Song dynasty ''Jiaozi,'' the world's earliest paper money.]]
+
+At around the same time in the [[Islamic Golden Age|medieval Islamic world]], a vigorous [[monetary economy]] was created during the 7th–12th centuries on the basis of the expanding levels of circulation of a stable high-value currency (the [[dinar]]). Innovations introduced by Muslim economists, traders and merchants include the earliest uses of [[Credit (finance)|credit]],<ref name=Banaji>{{cite journal |last=Banaji  |first=Jairus |year=2007 |title=Islam, the Mediterranean and the Rise of Capitalism |journal=Historical Materialism |volume=15 |issue=1 |pages=47–74 |publisher=[[Brill Publishers]] |issn=1465-4466 |doi=10.1163/156920607X171591 |bibcode= |oclc=440360743 |url=http://www.scribd.com/doc/14246569/Banaji-Jairus-Islam-The-Mediterranean-and-the-Rise-of-Capitalism |accessdate=August 28, 2010 }}</ref> [[cheque]]s, [[promissory note]]s,<ref name="Medieval Trade in the Mediterranean World: Illustrative Documents">{{cite book |last1=Lopez |first1=Robert Sabatino |authorlink1=Roberto Sabatino Lopez |last2=Raymond |first2=Irving Woodworth |last3=Constable |first3=Olivia Remie |title=Medieval trade in the Mediterranean world: Illustrative documents |series=Records of Western civilization.; Records of civilization, sources and studies, no. 52 |year=2001  |origyear=1955 |publisher=[[Columbia University Press]] |location=New York |url=http://cup.columbia.edu/bookpreview/978-0-231-12356-3/ |isbn=0-231-12357-4 |oclc=466877309 }}</ref> [[savings account]]s, [[transactional account]]s, [[loan]]ing, [[trusts]], [[exchange rate]]s, the transfer of credit and [[debt]],<ref name=Labib>{{cite journal |last=Labib |first=Subhi Y. |date=March 1969 |title=Capitalism in Medieval Islam |journal=The Journal of Economic History |volume=29 |issue=1 |pages=79–86 |publisher=Economic History Association |location=Wilmington, DE |issn=0022-0507 |oclc=478662641 |jstor=2115499 }}</ref> and [[banking institution]]s for loans and [[deposit account|deposit]]s.<ref name=Labib />
+
+In Europe, paper money was first introduced on a regular basis in [[Sweden]] in 1661 (although [[Washington Irving]] records an earlier emergency use of it, by the Spanish in a siege during the [[Conquest of Granada]]). As Sweden was rich in copper, its low value necessitated extraordinarily big coins, often weighing several kilograms. 
+
+The advantages of paper currency were numerous: it reduced the need to transport gold and silver, which was risky; it facilitated loans of gold or silver at interest, since the underlying [[Hard money (policy)|specie]] (gold or silver) never left the possession of the lender until someone else redeemed the note; and it allowed a division of currency into credit and specie backed forms. It enabled the sale of [[stock]] in [[joint stock company|joint stock companies]], and the redemption of those [[Share (finance)|shares]] in paper.
+
+But there were also disadvantages. First, since a note has no intrinsic value, there was nothing to stop issuing authorities from printing more notes than they had specie to back them with. Second, because it increased the money supply, it increased inflationary pressures, a fact observed by [[David Hume]] in the 18th century. Thus paper money would often lead to an inflationary bubble, which could collapse if people began demanding hard money, causing the demand for paper notes to fall to zero. The printing of paper money was also associated with wars, and financing of wars, and therefore regarded as part of maintaining a [[standing army]]. For these reasons, paper currency was held in suspicion and hostility in Europe and America. It was also addictive, since the speculative profits of trade and capital creation were quite large. Major nations established [[mint (coin)|mints]] to print money and mint coins, and branches of their treasury to collect taxes and hold gold and silver stock.
+
+At that time, both silver and gold were considered [[legal tender]], and accepted by governments for taxes. However, the [[Gresham's law|instability in the ratio]] between the two grew over the course of the 19th century, with the increases both in supply of these metals, particularly silver, and in trade. The parallel use of both metals is called [[bimetallism]], and the attempt to create a [[Bimetallism|bimetallic]] standard where both gold and silver backed currency remained in circulation occupied the efforts of [[inflation]]ists. Governments at this point could use currency as an instrument of policy, printing paper currency such as the United States [[United States Note|Greenback]], to pay for military expenditures. They could also set the terms at which they would redeem notes for specie, by limiting the amount of purchase, or the minimum amount that could be redeemed.
+
+By 1900, most of the industrializing nations were on some form of [[gold standard]], with paper notes and silver coins constituting the circulating medium. Private [[bank]]s and governments across the world followed [[Gresham's Law]]: keeping the gold and silver they received, but paying out in notes. This did not happen all around the world at the same time, but occurred sporadically, generally in times of war or financial crisis, beginning in the early part of the 20th century and continuing across the world until the late 20th century, when the regime of floating fiat currencies came into force. One of the last countries to break away from the gold standard was the United States in 1971.
+
+No country anywhere in the world today has an enforceable gold standard or [[silver standard]] currency system.
+
+===Banknote era===
+{{main|Banknote|Fiat currency}}
+A [[banknote]] (more commonly known as a bill in the United States and Canada) is a type of currency, and commonly used as legal tender in many jurisdictions. With [[coin]]s, banknotes make up the [[cash]] form of all [[money]]. Banknotes are mostly paper, but Australia's [[Commonwealth Scientific and Industrial Research Organisation]] developed the world's first [[Polymer banknote|polymer currency]] in the 1980s that went into circulation on the nation's bicentenary in 1988. Now used in some 22 countries (over 40 if counting commemorative issues), [[Polymer banknote|polymer currency]] dramatically improves the life span of banknotes and prevents counterfeiting.
+
+== Modern currencies ==
+[[File:2002 currency exchange AIGA euro money.png|thumb|130px|left|Currencies exchange logo]]
+{{Most traded currencies}}
+{{main|Tables of historical exchange rates to the United States dollar}}
+{{for|a list of which currency or currencies are used by present-day countries or regions|List of circulating currencies}}
+
+Currency use is based on the concept of [[lex monetae]]; that a sovereign state decides which currency it shall use. Currently, the [[International Organization for Standardization]] has introduced a three-letter system of codes ([[ISO 4217]]) to define currency (as opposed to simple names or [[currency sign]]s), in order to remove the confusion that there are dozens of currencies called the [[dollar]] and many called the [[franc]]. Even the [[List of countries using pound currency|pound]] is used in nearly a dozen different countries; most of these are tied to the [[Pound Sterling]], while the remainder have varying values. In general, the three-letter code uses the [[ISO 3166-1]] country code for the first two letters and the first letter of the name of the currency (D for dollar, for instance) as the third letter. United States currency, for instance is globally referred to as [[United States dollar|USD]].
+
+The [[International Monetary Fund]] uses a variant system when referring to national currencies.
+
+== Alternative currencies ==
+{{main|Alternative currency}}
+
+Distinct from centrally controlled government-issued currencies, private decentralized trust networks support alternative currencies such as [[Bitcoin]], [[Litecoin]], [[Peercoin]] or [[Dogecoin]], as well as [[brand]]ed currencies, for example 'obligation' based stores of value, such as quasi-regulated BarterCard, Loyalty Points (Credit Cards, Airlines) or Game-Credits (MMO games) that are based on reputation of commercial products, or highly regulated 'asset backed' 'alternative currencies' such as mobile-money schemes like MPESA (called E-Money Issuance).<ref name=TEDbrandedCurrency>● ''TED Video:'' {{cite web |url=http://www.ted.com/talks/paul_kemp_robertson_bitcoin_sweat_tide_meet_the_future_of_branded_currency.html |title=Bitcoin. Sweat. Tide. Meet the future of branded currency |last=Kemp-Robertson |first=Paul |date=June 2013 |publisher=[[TED (conference)]] |archiveurl= |archivedate= }} ● ''Corresponding written article:'' {{cite web |url=http://blog.ted.com/2013/07/25/10-alternative-currencies-from-bitcoin-to-berkshares-to-sweat-to-laundry-detergent/ |title=10 alternative currencies, from Bitcoin to BerkShares to sweat to laundry detergent |last= |first=|date=July 25, 2013 |publisher=[[TED (conference)]] |archiveurl=http://www.webcitation.org/6INbHkJat |archivedate=July 25, 2013 }}</ref>
+
+Currency may be Internet-based and digital, for instance, [[Bitcoin]]<ref>{{cite web|last=Hough|first=Jack|title=The Currency That's Up 200,000 Percent|url=http://finance.yahoo.com/news/pf_article_112854.html|work=SmartMoney (The Wall Street Journal)|accessdate=December 14, 2012}}</ref> and not tied to any specific country, or the IMF's SDR that is based on a basket of currencies (and assets held).
+
+== Control and production ==
+
+In most cases, a [[central bank]] has a [[monopoly]] right to issue of coins and banknotes ([[fiat money]]) for its own area of circulation (a country or group of countries); it regulates the production of currency by banks ([[credit (finance)|credit]]) through [[monetary policy]].
+
+An [[exchange rate]] is the price at which two currencies can be exchanged against each other. This is used for [[international trade|trade]] between the two currency zones. Exchange rates can be classified as either [[floating exchange rate|floating]] or [[fixed exchange-rate system|fixed]]. In the former, day-to-day movements in exchange rates are determined by the market; in the latter, governments intervene in the market to buy or sell their currency to balance supply and demand at a fixed exchange rate.
+
+In cases where a country has control of its own currency, that control is exercised either by a [[central bank]] or by a [[Finance minister|Ministry of Finance]]. The institution that has control of monetary policy is referred to as the monetary authority. Monetary authorities have varying degrees of autonomy from the governments that create them. In the [[United States]], the [[Federal Reserve System]] operates without direct oversight by the legislative or executive branches. A monetary authority is created and supported by its sponsoring government, so independence can be reduced by the legislative or executive authority that creates it.
+
+Several countries can use the same name for their own separate currencies (for example, ''dollar'' in [[Australian dollar|Australia]], [[Canadian dollar|Canada]] and the [[United States dollar|United States]]). By contrast, several countries can also use the same currency (for example, the [[euro]] or the [[CFA franc]]), or one country can declare the currency of another country to be [[legal tender]]. For example, [[Panama]] and [[El Salvador]] have declared U.S. currency to be legal tender, and from 1791 to 1857, [[Spanish silver coins]] were legal tender in the United States. At various times countries have either re-stamped foreign coins, or used [[currency board]] issuing one note of currency for each note of a foreign government held, as [[Ecuador]] currently does.
+
+Each currency typically has a main currency unit (the [[dollar]], for example, or the [[euro]]) and a fractional unit, often defined as {{Frac|1|100}} of the main unit: 100 [[Cent (currency)|cent]]s&nbsp;= 1&nbsp;[[dollar]], 100 [[centime]]s&nbsp;= 1&nbsp;[[franc]], 100 [[Penny sterling|pence]]&nbsp;= 1&nbsp;[[Pound sterling|pound]], although units of {{Frac|1|10}} or {{Frac|1|1000}} occasionally also occur. Some currencies do not have any smaller units at all, such as the [[Icelandic króna]].
+
+[[Mauritania]] and [[Madagascar]] are the only remaining countries that do not use the decimal system; instead, the [[Mauritanian ouguiya]] is in theory divided into 5 [[khoums]], while the [[Malagasy ariary]] is theoretically divided into 5 [[iraimbilanja]]. In these countries, words like ''dollar'' or ''pound'' "were simply names for given weights of gold."<ref name="The Collapse of the Dollar">{{cite book |last1=Turk |first1=James |last2=Rubino |first2=John |title=The collapse of the dollar and how to profit from it: Make a fortune by investing in gold and other hard assets |edition=Paperback |year=2007 |origyear=2004 |publisher=Doubleday |location=New York |isbn=978-0-385-51224-4 |oclc=192055959 |pages=43 of 252}}</ref> Due to [[inflation]] khoums and iraimbilanja have in practice fallen into disuse. (See [[non-decimal currencies]] for other historic currencies with non-decimal divisions.)
+
+== Currency convertibility ==
+
+Convertibility of a currency determines the ability of an individual, corporate or government to convert its local currency to another currency or vice versa with or without central bank/government intervention. Based on the above restrictions or free and readily conversion features, currencies are classified as:
+; Fully convertible : When there are no restrictions or limitations on the amount of currency that can be traded on the international market, and the government does not artificially impose a fixed value or minimum value on the currency in international trade. The US dollar is an example of a fully convertible currency and, for this reason, US dollars are one of the major currencies traded in the [[foreign exchange market]].
+; Partially convertible : Central banks control international investments flowing in and out of the country, while most domestic trade transactions are handled without any special requirements, there are significant restrictions on international investing and special approval is often required in order to convert into other currencies. The Indian rupee is an example of a partially convertible currency.
+; Nonconvertible : Neither participate in the international FOREX market nor allow conversion of these currencies by individuals or companies. As a result, these currencies are known as blocked currencies. e.g.: [[North Korean won]] and the [[Cuban peso]].
+
+== Local currencies ==
+{{main|Local currency}}
+
+In economics, a local currency is a currency not backed by a national government, and intended to trade only in a small area. Advocates such as [[Jane Jacobs]] argue that this enables an economically depressed region to pull itself up, by giving the people living there a medium of exchange that they can use to exchange services and locally produced goods (in a broader sense, this is the original purpose of all money). Opponents of this concept argue that local currency creates a barrier which can interfere with economies of scale and comparative advantage, and that in some cases they can serve as a means of [[tax evasion]].
+
+Local currencies can also come into being when there is economic turmoil involving the national currency. An example of this is the Argentinian economic crisis of 2002 in which [[IOU (debt)|IOU]]s issued by local governments quickly took on some of the characteristics of local currencies.
+
+One of the best examples of a local currency is the original [[LETS]] currency, founded on Vancouver Island in the early 1980s.  In 1982, the Canadian Central Bank’s lending rates ran up to 14% which drove chartered bank lending rates as high as 19%.  The resulting currency and credit scarcity left island residents with few options other than to create a local currency.<ref>{{cite podcast| format = [[MP3]] | url= http://media.blubrry.com/extraenvironmentalist/p/extraenvironmentalist.com/audio/low/Ep45_final_lowbitrate.mp3 |title=Opening Money |website = http://www.extraenvironmentalist.com/2012/07/11/episode-45-opening-money/ |host=The Extraenvironmentalist |date = November 7, 2012}}</ref>
+
+== List of Major World Payments Currencies ==
+
+The following table are estimates for 15 most frequently used currencies in World Payments from 2012 to 2015 by [[SWIFT]].<ref>http://www.swift.com/about_swift/shownews?param_dcr=news.data/en/swift_com/2014/PR_RMB_Nov_Dec.xml RMB breaks into the top ten most-used currencies for payments</ref><ref>http://www.swift.com/about_swift/shownews?param_dcr=news.data/en/swift_com/2014/PR_RMB_Jan.xml Chinese Renminbi Overtakes the Swiss Franc as a World Payments Currency</ref><ref>http://www.swift.com/about_swift/shownews?param_dcr=news.data/en/swift_com/2014/PR_RMB_records_offshores.xml RMB reaches record levels of payments activity between offshore centres</ref><ref>http://www.swift.com/about_swift/shownews?param_dcr=news.data/en/swift_com/2015/PR_RMB.xml</ref>
+
+{| class="wikitable sortable" style="text-align: right"
+|+ 15 Major Currencies in World Payments (in % of World)
+! Rank !! Currency !! January<br>2012!! Currency !! January<br>2013 !! Currency !! January<br>2014 !! Currency !! January<br>2015 !! Currency !! September<br>2015
+|-
+|  || align=left|'''''[[World]]''''' || 100.00% || align=left|'''''[[World]]''''' || 100.00% || align=left|'''''[[World]]''''' || 100.00% || align=left|'''''[[World]]''''' || 100.00% || align=left|'''''[[World]]''''' || 100.00%
+|-
+| 1 || align=left|{{Flagicon|European Union}} [[Euro]] || 44.04% || align=left|{{Flagicon|European Union}} [[Euro]] || 40.17% || align=left|{{Flagicon|United States}} [[United States dollar]] || 38.75% || align=left|{{Flagicon|United States}} [[United States dollar]] || 43.41% || align=left|{{Flagicon|United States}} [[United States dollar]] || 43.27%
+|-
+| 2 || align=left|{{Flagicon|United States}} [[United States dollar]] || 29.73% || align=left|{{Flagicon|United States}} [[United States dollar]] || 33.48% || align=left|{{Flagicon|European Union}} [[Euro]] || 33.52% || align=left|{{Flagicon|European Union}} [[Euro]] || 28.75% || align=left|{{Flagicon|European Union}} [[Euro]] || 28.63%
+|-
+| 3 || align=left|{{Flagicon|United Kingdom}} [[Pound sterling]] || 9.00% || align=left|{{Flagicon|United Kingdom}} [[Pound sterling]] || 8.55% || align=left|{{Flagicon|United Kingdom}} [[Pound sterling]] || 9.37% || align=left|{{Flagicon|United Kingdom}} [[Pound sterling]] || 8.24% || align=left|{{Flagicon|United Kingdom}} [[Pound sterling]] || 9.02%
+|-
+| 4 || align=left|{{Flagicon|Japan}} [[Japanese yen]] || 2.48% || align=left|{{Flagicon|Japan}} [[Japanese yen]] || 2.56% || align=left|{{Flagicon|Japan}} [[Japanese yen]] || 2.50% || align=left|{{Flagicon|Japan}} [[Japanese yen]] || 2.79% || align=left|{{Flagicon|Japan}} [[Japanese yen]] || 2.88%
+|-
+| 5 || align=left|{{Flagicon|Australia}} [[Australian dollar]] || 2.08% || align=left|{{Flagicon|Australia}} [[Australian dollar]] || 1.85% || align=left|{{Flagicon|Canada}} [[Canadian dollar]] || 1.80% || align=left|{{Flagicon|China}} [[Renminbi]] || 2.06% || align=left|{{Flagicon|China}} [[Renminbi]] || 2.45%
+|-
+| 6 || align=left|{{Flagicon|Canada}} [[Canadian dollar]] || 1.81% || align=left|{{Flagicon|Switzerland}} [[Swiss franc]] || 1.83% || align=left|{{Flagicon|Australia}} [[Australian dollar]] || 1.75% || align=left|{{Flagicon|Canada}} [[Canadian dollar]] || 1.91% || align=left|{{Flagicon|Canada}} [[Canadian dollar]] || 1.81%
+|-
+| 7 || align=left|{{Flagicon|Switzerland}} [[Swiss franc]] || 1.36% || align=left|{{Flagicon|Canada}} [[Canadian dollar]] || 1.80% || align=left|{{Flagicon|China}} [[Renminbi]] || 1.39% || align=left|{{Flagicon|Switzerland}} [[Swiss franc]] || 1.91% || align=left|{{Flagicon|Switzerland}} [[Swiss franc]] || 1.62%
+|-
+| 8 || align=left|{{Flagicon|Sweden}} [[Swedish krona]] || 1.05% || align=left|{{Flagicon|Singapore}} [[Singapore dollar]] || 1.05% || align=left|{{Flagicon|Switzerland}} [[Swiss franc]] || 1.38% || align=left|{{Flagicon|Australia}} [[Australian dollar]] || 1.74% || align=left|{{Flagicon|Australia}} [[Australian dollar]] || 1.54%
+|-
+| 9 || align=left|{{Flagicon|Singapore}} [[Singapore dollar]] || 1.03% || align=left|{{Flagicon|Hong Kong}} [[Hong Kong dollar]] || 1.02% || align=left|{{Flagicon|Hong Kong}} [[Hong Kong dollar]] || 1.09% || align=left|{{Flagicon|Hong Kong}} [[Hong Kong dollar]] || 1.28% || align=left|{{Flagicon|Hong Kong}} [[Hong Kong dollar]] || 1.12%
+|-
+| 10 || align=left|{{Flagicon|Hong Kong}} [[Hong Kong dollar]] || 0.95% || align=left|{{Flagicon|Thailand}} [[Thai baht]] || 0.97% || align=left|{{Flagicon|Thailand}} [[Thai baht]] || 0.98% || align=left|{{Flagicon|Thailand}} [[Thai baht]] || 0.98% || align=left|{{Flagicon|Thailand}} [[Thai baht]] || 0.94%
+|-
+| 11 || align=left|{{Flagicon|Norway}} [[Norwegian krone]] || 0.93% || align=left|{{Flagicon|Sweden}} [[Swedish krona]] || 0.96% || align=left|{{Flagicon|Sweden}} [[Swedish krona]] || 0.97% || align=left|{{Flagicon|Singapore}} [[Singapore dollar]] || 0.89% || align=left|{{Flagicon|Sweden}} [[Swedish krona]] || 0.93%
+|-
+| 12 || align=left|{{Flagicon|Thailand}} [[Thai baht]] || 0.82% || align=left|{{Flagicon|Norway}} [[Norwegian krone]] || 0.80% || align=left|{{Flagicon|Singapore}} [[Singapore dollar]] || 0.88% || align=left|{{Flagicon|Sweden}} [[Swedish krona]] || 0.80% || align=left|{{Flagicon|Singapore}} [[Singapore dollar]] || 0.90%
+|-
+| 13 || align=left|{{Flagicon|Denmark}} [[Danish krone]] || 0.54% || align=left|{{Flagicon|China}} [[Renminbi]] || 0.63% || align=left|{{Flagicon|Norway}} [[Norwegian krone]] || 0.80% || align=left|{{Flagicon|Norway}} [[Norwegian krone]] || 0.68% || align=left|{{Flagicon|Norway}} [[Norwegian krone]] || 0.69%
+|-
+| 14 || align=left|{{Flagicon|Russia}} [[Russian ruble]] || 0.52% || align=left|{{Flagicon|Denmark}} [[Danish krone]] || 0.58% || align=left|{{Flagicon|Denmark}} [[Danish krone]] || 0.60% || align=left|{{Flagicon|Denmark}} [[Danish krone]] || 0.56% || align=left|{{Flagicon|Poland}} [[Polish złoty]] || 0.53%
+|-
+| 15 || align=left|{{Flagicon|South Africa}} [[South African rand]] || 0.48% || align=left|{{Flagicon|Russia}} [[Russian ruble]] || 0.56% || align=left|{{Flagicon|Poland}} [[Polish złoty]] || 0.58% || align=left|{{Flagicon|Poland}} [[Polish złoty]] || 0.55% || align=left|{{Flagicon|South Africa}} [[South African rand]] || 0.45%
+|}
+
+== Proposed currencies ==
+<!--Alphabetical by currency name:-->
+* [[Afro (currency)|Afro]]
+* [[North American monetary union|Amero]], in an [[American currency union]].
+* [[Asian Currency Unit]], proposed for the [[ASEAN +3]] or the [[East Asian Community]].
+* [[Bancor]], an international currency proposed by [[John Maynard Keynes]] in the negotiations that established the [[Bretton Woods system]].
+* [[CARICOM]] currency,<ref name=JamaicaGleaner>{{cite news |title=CARICOM Single Market (CSM) ratified! – Caribbean leaders sign formal document |url=http://www.jamaica-gleaner.com/gleaner/20060131/lead/lead1.html |newspaper=[[Jamaica Gleaner]] |publisher=The Gleaner Company Limited |location=Kingston, Jamaica |oclc=50239830 |date=January 31, 2006 |accessdate=August 30, 2010 }}</ref> for Caribbean states (except the [[Bahamas]]).
+* [[Caribbean guilder]], to replace the [[Netherlands Antillean guilder]] in [[Curaçao]] and [[Sint Maarten]].{{update inline|date=February 2014}}
+* [[East African shilling]], for the [[East African Community]] {{small|([[Burundi]], [[Kenya]], [[Rwanda]], [[Tanzania]], [[Uganda]])}}.
+* [[Eco (currency)|Eco]], for the [[West African Monetary Zone]] {{small|([[Gambia]], [[Ghana]], [[Guinea]], [[Nigeria]], [[Sierra Leone]], possibly [[Liberia]])}}.
+* [[Gaucho (currency)|Gaucho]], between [[Argentina]] and [[Brazil]].
+* [[Khaleeji (currency)|Khaleeji]], for the [[Cooperation Council for the Arab States of the Gulf|Gulf Cooperation Council]] {{small|([[Bahrain]], [[Kuwait]], [[Oman]], [[Qatar]], [[Saudi Arabia]], [[United Arab Emirates]])}}.
+* [[Mozambican metica|Metica]], in [[Mozambique]].
+* [[Montenegrin perun|Perun]], in [[Montenegro]].
+* [[Spesmilo]], pre-[[World War I]] international decimal currency.
+* [[Iranian toman|Toman]], a replacement for the [[Iranian rial]] proposed by the [[Central Bank of Iran]].
+
+== See also ==
+{{portal|Numismatics}}
+{{col-begin}}{{col-break}}
+'''Related concepts'''
+* [[Counterfeit money]]
+* [[Currency transaction tax]]
+* [[Debasement]]
+* [[Fiscal localism]]
+* [[Foreign exchange market]]
+* [[Foreign exchange reserves]]{{spaces|10}}
+* [[History of banking]]
+* [[History of money]]
+* [[Mutilated currency]]
+* [[Optimum currency area]]
+* [[Slang terms for money]]
+* [[Virtual currency]]
+* [[World currency]]
+{{col-break}}
+'''Accounting units'''
+* [[Currency pair]]
+* [[Currency symbol]]
+* [[Currency strength]]
+* [[European Currency Unit]]{{spaces|10}}
+* [[Fictional currency]]
+* [[Franc Poincaré]]
+* [[Local currencies]]
+* [[Petrocurrency]]
+* [[Special drawing rights]]
+{{col-break}}
+'''Lists'''
+* [[ISO 4217]]
+* [[List of alternative names for currency]]
+* [[List of currencies]]
+* [[List of circulating currencies]]
+* [[List of fictional currencies]]
+* [[List of historical currencies]]
+* [[List of historical exchange rates]]
+* [[List of international trade topics]]
+* [[List of motifs on banknotes]]
+{{col-end}}
+
+== References ==
+{{reflist|colwidth=30em}}
+
+== External links ==
+* {{Commonscat-inline|Currency}}
+* {{Wikiquote-inline|Currency}}
+
+{{Means of Exchange}}
+{{Economics}}
+
+{{Authority control}}
+[[Category:Currency| ]]
+[[Category:Foreign exchange market]]

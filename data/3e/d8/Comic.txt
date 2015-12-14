@@ -1,0 +1,3 @@
+#Redirect [[Comics]]
+
+{{Redr|to plural}}

@@ -1,0 +1,283 @@
+{{Infobox economy
+|country        = Afghanistandia
+|currency       = [[Afghan afghani|Afghani]] (AFN)
+|year           = 21 March - 20 March
+|organs         = [[South Asian Association for Regional Cooperation|SAARC]], [[Economic Cooperation Organization|ECO]], negotiating [[Shanghai Cooperation Organization|SCO]] and [[WTO]] accession
+|gdp rank       = [[List of countries by GDP (nominal)|108th]] (nominal) / [[List of countries by GDP (PPP)|96th]] (PPP)
+|image          = Rebuilt ministry finance.jpg
+|caption        = [[Ministry of Finance (Afghanistan)|Afghan Ministry of Finance]] in [[Kabul]] in 2002
+|width          = 280
+|gdp (PPP) = $69 billion (2014 est.)  
+|gdp            = $33.55 billion (2012 est.) $69 billion (PPP) (2014 est.)
+|growth         = 3.2% (2014 est.)
+|per capita     = $2,000 (2014)<ref name=CIA-GDP-PPP/>
+|gae            = $22.49 billion
+|per working capita     = $1,499
+|sectors        = [[agriculture]]: 20% [[industry]]: 25.6% [[Tertiary sector of economic activity|services]]: 54.4% (2011 est.)
+|inflation      = 7.4% (2013 est.)
+|poverty        = 36% (2009)
+|labor          = 7.512 million (2012 est.)
+|occupations    = agriculture 78.6%, industry 5.7%, services 15.7% (2009)
+|unemployment   = 38% (2008)
+|edbr           = 160th<ref name="World Bank and International Financial Corporation">{{cite web|url= http://www.doingbusiness.org/data/exploreeconomies/afghanistan/|title= Doing Business in Afghanistan 2012|publisher=[[World Bank]]|accessdate=2011-11-18}}</ref>
+|industries      = small-scale production of [[textile]]s, [[soap]], [[furniture]], [[shoe]]s, [[fertilizer]], [[apparel]], [[food|food-product]]s, [[non-alcoholic beverage]]s, [[mineral water]], [[cement]]; [[Afghan carpet|handwoven carpets]]; [[natural gas]], [[coal]], [[copper]]
+|exports         = $ 2.76 billion (2013 est.)
+|export-goods    = [[opium]], [[fruit]]s and [[nut (fruit)|nuts]], [[Afghan rugs]], [[wool]], [[cotton]], [[hides]] and pelts, and [[gemstone]]
+|export-partners = {{flag|India}} 31.9% <br> {{flag|Pakistan}} 28.5% <br> {{flag|Tajikistan}} 7.5% <br> {{flag|United States}} 6.2% (2013 est.) <ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/fields/2050.html#af|title=Export Partners of Afghanistan|publisher=[[CIA World Factbook]]|year=2012|accessdate=2013-07-23}}</ref>
+|imports         = $6.39 billion (2012 est.)
+|import-goods    = [[machinery]] and other [[capital goods]], [[food]], [[textiles]] and [[petroleum]] products
+|import-partners = {{flag|Pakistan}} 28% <br> {{flag|United States}} 18.6% <br> {{flag|Russia}} 7.6% <br> {{flag|India}} 6.3% <br> {{flag|Kazakhstan}} 4.5% <br> {{flag|China}} 4.3% 4.3% (2013 est.)<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/fields/2061.html#af|title=Import Partners of Afghanistan|publisher=[[CIA World Factbook]]|year=2012|accessdate=2013-07-23}}</ref>
+|debt            = $1.28 billion (FY10/11)
+|revenue         = $1.58 billion
+|expenses        = $50.000 billion
+|cianame         = af
+|spelling        = US
+}}
+
+The '''economy of Afghanistan''' has improved significantly since 2002 due to the infusion of billions of dollars in international assistance and investments,<ref name="PAN6">[http://www.pajhwok.com/en/2010/06/09/central-bank-claims-hike-cash-reserves Central bank claims hike in cash reserves], [[Pajhwok Afghan News]] (PAN). 2010-06-09.</ref> as well as remittances from [[Afghan diaspora|Afghan expatriates]].The help that came from expatriates and outside investments saw this significant increase when there was more political reliability after the fall of the many terrorist groups in the early 2000s such as the Taliban.<ref name=PAN5>{{cite news |publisher=Pajhwok Afghan News (PAN) |url=http://www.pajhwok.com/en/2007/10/19/afghanistan-receives-33b-remittances-expats |title=Afghanistan receives $3.3b remittances from expats |date=October 19, 2007 |accessdate=2012-11-23}}</ref> The recent improvement is also due to dramatic improvements in agricultural production and the end of a four-year drought<ref>{{cite web|url=http://articles.latimes.com/2002/oct/14/world/fg-drought14|publisher=[[Los Angeles Times]]|accessdate=2013-08-14|title=Drought in Afghanistan Killing Off Cattle, Sheep}}</ref> in most of the country.
+
+The government of [[Afghanistan]] claims that the country holds up to $3 trillion in proven untapped mineral deposits, which could make it one of the richest mining regions on earth. However, due to the conflicts, it remains one of the least developed countries in the world, ranking 175th on the United Nations' Human Development Index. The nation's [[Gross domestic product|GDP]] stands at about $34 billion<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/af.html|publisher="C. I. A."|work="World Factbook"|accessdate=2013-08-14|title=Afghanistan}}</ref> with an exchange rate of $19.85 billion, and the [[List of countries by GDP (PPP) per capita|GDP per capita]] is about $1,150.<ref name=CIA-GDP-PPP>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/fields/2004.html#af |title=GDP - per capita (PPP): $1,000 (2011 est.) |work=[[The World Factbook]]|publisher=[[Central Intelligence Agency]]|accessdate=2012-11-23}}</ref>
+
+About 35% of its [[Demography of Afghanistan|population]] is unemployed<ref>[https://www.cia.gov/library/publications/the-world-factbook/fields/2129.html C.I.A. World Factbook: Unemployment]. 2008 estimate. Retrieved 2013-8-14.</ref> and 36% live below the national [[Poverty threshold|poverty line]],<ref>[http://data.worldbank.org/country/afghanistan World Bank Data: Afghanistan]. Retrieved 2013-8-14.</ref> suffering from shortages of housing, clean drinking water, and electricity. The [[Presidency of Hamid Karzai|Karzai administration]] along with international donors have remained committed to improving access to these basic necessities by prioritizing infrastructure development, education, housing development, jobs programs, medical care, and economic reform.
+
+==Economic history==
+Historically, there has been a lack of information and reliable statistics about Afghanistan's economy. In the early modern period under the rule of kings [[Abdur Rahman Khan]] (1880–1901) and [[Habibullah Khan]] (1901–1919), a great deal of Afghan commerce was centrally controlled by the Afghan government. The Afghan monarchs were eager to develop the stature of government and the country's military capability, and so attempted to raise money by the imposition of state monopolies on the sale of commodities and high taxes. This slowed the long-term development of Afghanistan during that period. Western technologies and manufacturing methods were slowly introduced during these eras at the command of the Afghan ruler, but in general only according to the logistical requirements of the growing army. An emphasis was placed on the manufacture of weapons and other military materiel. This process was in the hands of a small number of western experts invited to Kabul by the Afghan kings. Otherwise, it was not possible for outsiders, particularly westerners, to set up large-scale enterprises in Afghanistan during that period.<ref>Asian Affairs Journal, [http://www.bijanomrani.com/?p=Making_money_%20in_%20Afghanistan Making Money in Afghanistan: The First Western Entrepreneurs 1880-1919], Vol 3, 2012.</ref>
+
+The first prominent plan to develop Afghanistan's economy in modern times was the [[Helmand and Arghandab Valley Authority|Helmand Valley Authority]] project, modelled on the [[Tennessee Valley Authority]] in the [[United States]], which was expected to be of primary economic importance.<ref name=tudor>[http://184.73.243.18:8080/xmlui/handle/123456789/1803?show=full Report on Development of Helmand Valley, Afghanistan, 1956], Tudor Engineering Company</ref> The country began facing severe economic hardships during the 1970s when neighboring Pakistan, under [[Zulfikar Ali Bhutto]], began closing the Pakistan-Afghanistan [[border crossing]]s. This move resulted in Afghanistan increasing political and economic ties with its northern neighbor, the powerful [[Soviet Union]] of that time.
+
+The 1979 [[Soviet war in Afghanistan|Soviet invasion]] and ensuing [[War in Afghanistan (1978–present)|civil war]] destroyed much of the country's limited infrastructure, and disrupted normal patterns of economic activity (See ''[[Democratic Republic of Afghanistan#Economy]]''). Eventually, Afghanistan went from a [[traditional economy]] to a centrally [[planned economy]] up until 2002 when it was replaced by a free market economy.<ref>http://www.unodc.org/pdf/publications/afg_opium_economy_www.pdf.</ref> Gross domestic product has fallen substantially since the 1980s due to disruption of trade and transport as well as loss of labor and capital. Continuing internal strife severely hampered domestic efforts to rebuild the nation or provide ways for the international community to help.
+
+According to the [[International Monetary Fund]], the Afghan economy grew 20% in the [[fiscal year]] ending in March 2004, after expanding 30% in the previous 12 months. The growth is attributed to international aid and to the end of [[drought]]s. An estimated $4.4 billion of aid entered the nation from 2002 to 2004. A GDP of $4 billion in fiscal year 2003 was recalculated by the IMF to $6.1 billion, after adding proceeds from [[opium]] products. Mean graduate pay was $0.56 per manhour in 2010.
+
+==Agriculture and livestock==
+{{See also|Pomegranate production in Afghanistan|Opium production in Afghanistan}}
+[[File:A fruit vendor at the Kabul International AgFair-2009.jpg|left|thumb|200px|A fruit vendor at the [[Kabul]] International AgFair in 2009.]]
+[[File:Afghan pomegranate processing.jpg|thumb|left|200px|Workers processing [[pomegranate]]s (''anaar''), which [[Afghanistan]] is famous for in Asia.]]
+The Afghan economy has always been agricultural, despite the fact that only 12% of its total land is arable and about 6% is currently cultivated. [[Agriculture]] production is constrained by an almost total dependence on erratic winter snows and spring rains for water. As of 2007, the country's [[fruit]] and [[Nut (fruit)|nut]] exports were at $113 million per year, but according to an estimate could grow to more than $800 million per year in 10 years given sufficient investment. Afghanistan is known for producing some of the finest fruits and vegetables, especially [[pomegranate]]s, [[apricot]]s, [[grape]]s, [[melon]]s, and [[mulberries]]. Several provinces in the north of the country (i.e. [[Badghis Province|Badghis]] and [[Samangan Province|Samangan]]) are famous for [[pistachio]] cultivation but the area currently lacks proper marketing and processing plants. It is claimed that some Indian companies buy Afghan pistachios for a very low price, process them in [[India]] and sell to western countries as Indian products. However, the Afghan government is planning to build storage facilities for pistachios since receiving bumper crops in 2010.<ref>{{cite news|url=http://www.pajhwok.com/en/2010/08/07/bumper-pistachio-crops-year-samangan |title=Bumper pistachio crops this year in Samangan |publisher=Pajhwok Afghan News (PAN) |date=August 7, 2010 |accessdate=2012-05-15}}</ref> The [[Bamyan Province]] in central Afghanistan is known for growing superior [[potato]]es, which on an average produces 140,000 to 170,000 tonnes.<ref>{{cite news |url=http://www.pajhwok.com/en/2012/07/30/bamyan-farmers-eyeing-bumper-potato-yield |title=Bamyan farmers eyeing bumper potato yield |date=July 30, 2012 |accessdate=2012-11-23}}</ref>
+
+[[Wheat]] and [[cereal]] production is Afghanistan's traditional agricultural mainstay. National wheat production in 2010 was 4,532 MT.<ref>eAfghanAg, [http://eafghanag.ucdavis.edu/b_field-crops/wheat-1/wheat], April 13, 2012.</ref> The overall agricultural production dramatically declined following four years of drought as well as the sustained fighting and instability in rural areas. Soviet efforts to disrupt production in resistance-dominated areas also contributed to this decline. Furthermore, since 2002 more than 4 million refugees returned to Afghanistan. Many of these former refugees are now involved in the farming industry. Some studies indicate that agricultural production and livestock numbers may only be sufficient to feed about half of the country's population. Shortages are exacerbated by the country's limited transportation network, which is currently being rebuilt. A report by the [[Food and Agriculture Organization]] (FAO) states that Afghanistan was nearing self-sufficiency in grain production.<ref>{{cite news |publisher=Pajhwok Afghan News (PAN) |url=http://www.pajhwok.com/en/2007/08/22/wheat-production-hits-record-high-takhar |title=Wheat production hits record high in Takhar |date=August 22, 2007 |accessdate=2012-11-23}}</ref>
+[[File:People of Bamyan-6.jpg|thumb|200px|Shrikant Jagtap (center), the senior agriculture adviser for the [[Bamyan, Afghanistan|Bamyan]] [[Provincial Reconstruction Team]], and his interpreter, Hamidullah, discuss agricultural programs with Sayed Khadin, a potato farmer, in front of one of his fields. [[Potato]]es have become the main cash crop for the province, contributing millions of dollars to its economy every year.]]
+
+The availability of land suitable for grazing has traditionally made [[animal husbandry]] an important part of the economy. There are two main types of animal husbandry: sedentary, practiced by farmers who raise both animals and crops; and nomadic, practiced by animal herders known as [[Kuchi people|Kuchis]]. Natural pastures cover some {{convert|7500000|acre|km2}} but are being overgrazed. The northern regions around [[Mazar-i-Sharif]] and [[Maymanah]] were the home range for about six million [[Karakul (sheep)|karakul sheep]] in the late 1990s. Most flocks move to the highlands in the summer to pastures in the north. [[Oxen]] are the primary draft power and farmers often share animals for [[plowing]]. [[Poultry]] are traditionally kept in many houses, mostly in rural households.
+
+Much of Afghanistan's livestock was removed from the country by early waves of refugees who fled to neighboring Pakistan and Iran. In 2001, the livestock population in Afghanistan had declined by about 40% since 1998. In 2002, this figure was estimated to have declined further to 60%. An FAO survey done in the northern regions in spring 2002 showed that in four provinces ([[Balkh Province|Balkh]], [[Jowzjan Province|Jowzjan]], [[Sar-e Pol Province|Sar-e Pol]], and [[Faryab Province|Faryab]]), there was a loss of about 84% of [[cattle]] from 1997 to 2002 and around 80% of [[sheep]] and [[goat]]. The majority of Afghans traditionally raise sheep instead of goats because goat meat is not popular in Afghanistan. After 2002, the [[Ministry of Agriculture, Irrigation & Livestock (Afghanistan)|Afghan ministry of agriculture and livestock]] with assistance from [[USAID]] have been helping to regrow livestock numbers throughout the country. This was done by providing Afghan villagers training and animals to start with.<ref>[http://afghanistan.usaid.gov/en/Article.1131.aspx Chickens Improve Livelihoods]</ref> The [[Council of Ministers (Afghanistan)|Agriculture Minister]] [[Mohammad Asef Rahimi]] stated that over the past decade arable land had increased from 2.1 million hectares to 8.1 million hectares, wheat production from 5.1 million tonnes to 2.3 million tonnes, nurseries from 75,000 hectares to 119,000 hectares and grape production from 364,000 tonnes to 615,000 tonnes. Almond production jumped from 19,000 to 56,000 tonnes and cotton from 20,000 to 45,000 tonnes, with the [[saffron]] yield reaching 2,000 kilograms.<ref>{{cite news |url=http://www.pajhwok.com/en/2012/04/03/water-energy-sector-critical-situation |title=Water & energy sector in critical situation &#124; Pajhwok Afghan News |publisher=Pajhwok.com |date=April 3, 2012 |accessdate=2012-05-15}}</ref>
+
+===Fishing===
+The country has plenty of water reserves and suitable climate for [[fish farming]]. [[Fishing]] takes place in the lakes and rivers, particularly in the [[Kabul River]] around the [[Jalalabad]] area. [[Fish]] constitute a smaller part of the [[Afghan cuisine|Afghan diet]] today because fish farmers are unable to produce enough fish to keep up with the demands of customers. Using explosives for fishing, called [[dynamite fishing]], became popular in the 1980s and is still practiced by some even though it is illegal today.<ref name="AZ">{{cite news |url=http://www.pajhwok.com/en/2010/07/15/fish-farms-struggle-meet-afghanistans-appetite-fish |title=Fish farms struggle to meet Afghanistans appetite for fish |editor=Abasin Zahir |date=Juley 10, 2010 |accessdate=2012-11-23}}</ref> The annual catch was about 900 tons in 2003. Most fish and [[seafood]] is imported from neighboring Pakistan, Iran, the [[United Arab Emirates]] and other countries. In recent years, USAID has helped many Afghans in establishing fish farms across the country.<ref>[http://afghanistan.usaid.gov/en/Article.948.aspx Fish Farms Improve Income and Nutrition Levels]</ref> There are about 300 fish farms throughout the country and the largest one is at the [[Qargha Reservoir|Qargha]], which supplies fish eggs to the other fish farms.<ref name="AZ"/>
+
+===Forestry===
+[[File:The Lumber Yards of Asadabad-2.jpg|thumb|200px|Lumber yard in [[Asadabad, Afghanistan|Asadabad]], [[Kunar Province]].]]
+Afghanistan's [[timber]] has been greatly depleted, and since the mid-1980s, only about 3% of the land area has been forested, mainly in the east. Significant stands of trees have been destroyed by the ravages of the war. Exploitation has been hampered by lack of power and access roads. Moreover, the distribution of the forest is uneven, and most of the remaining woodland is only found in the [[Kunar Province|Kunar]], [[Nuristan Province|Nuristan]] and the [[Paktia Province|Paktia]] regions in the east of the country.
+
+The natural forests in Afghanistan are mainly of two types: dense forests of [[oak]] trees, [[walnut]] trees, and many other species of nuts that grow in the southeast, and on the northern and northeastern slopes of the [[Sulaiman range]]s; and sparsely distributed short trees and shrubs on all other slopes of the [[Hindu Kush]]. The dense forests of the southeast cover only 2.7% of the country. [[Roundwood]] production in 2003 was 3,148,000 cubic metres, with 44% used for [[fuel]].
+
+The destruction of the forests to create agricultural land, [[logging]], [[forest fire]]s, plant diseases, and [[insect]] pests are all causes of the reduction in forest coverage. Illegal logging and clear-cutting by timber smugglers have exacerbated this destructive process. There is currently a ban on cutting new timber in Afghanistan. Prior to 2001 and under Taliban rule, massive deforestation of the country side was permitted and Afghans moved large quantities of logs into storage centers for profit, where the trees wait for processing on an individual tree by tree request.
+
+==Trade and industry==
+{{Further|Transport in Afghanistan|Mining in Afghanistan}}
+[[File:2006Afghan exports.PNG|thumb|350px|Afghan export destinations, 2006.]]
+[[File:Tree map export afghanistan all show 2009.jpeg|350px|thumb|A proportional representation of Afghan exports, 2009.]]
+[[File:Trucks on the road in northern Afghanistan-2012.jpg|thumb|200px|Trucks on the road in Afghanistan]]
+[[File:Doost Marble Factory in Herat.jpg|thumb|200px|Marble factory in [[Herat]]. Current marble exports are estimated at $15 million per year, with a potential to grow into a $450 million per year business.]]
+The current trade between Afghanistan and other countries is at US$5 billion a year. In 1996, legal exports (excluding opium) were estimated at $80 million and imports estimated at $150 million per year. Since the collapse of the Taliban government in 2001, new trade relations are emerging with the United States, Pakistan, Iran, Turkmenistan, the EU, Japan, Uzbekistan, India and other countries. Trade between Afghanistan and the U.S. is beginning to grow at a fast pace, reaching up to approximately $500 million per year.<ref>Pajhwok Afghan News, [http://www.pajhwok.com/en/2007/11/14/afghan-us-trade-34pc-eight-months Afghan-US trade up by 34pc in eight months], November 14, 2007.</ref> [[Afghan rug|Afghan handwooven rugs]] are one of the most popular products exported from the country. Other products include hand crafted antique replicas as well as leather and furs.
+
+Afghanistan is endowed with a wealth of natural resources, including extensive deposits of [[natural gas]], [[petroleum]], [[coal]], [[marble]], [[gold]], [[copper]], [[chromite]], [[talc]], [[barites]], [[sulfur]], [[lead]], [[zinc]], [[iron ore]], [[salt]], precious and semi-precious stones, and many [[rare earth element]]s.<ref name=e-Ariana/> In 2006, a U.S. Geological Survey estimated that Afghanistan has as much as {{convert|36|Tcuft}} of natural gas, {{convert|3.6|Goilbbl}} of oil and condensate reserves.<ref name=Eurasianet>Eurasianet.org - Eurasia Insight, [http://www.eurasianet.org/departments/insight/articles/eav090306.shtml ''Afghanistan’s Energy Future and its Potential Implications'']</ref> According to a 2007 assessment, Afghanistan has significant amounts of undiscovered non-fuel mineral resources. Geologists also found indications of abundant deposits of colored stones and gemstones, including [[emerald]], [[ruby]], [[sapphire]], [[garnet]], [[lapis]], [[kunzite]], [[spinel]], [[tourmaline]] and [[peridot]].<ref>{{cite news |publisher=Pajhwok Afghan News (PAN) |url=http://www.pajhwok.com/en/2011/09/15/huge-rare-earth-material-helmand-usgs |title=Afghanistan has huge mineral resources: survey |date=November 14, 2007 |accessdate=2012-11-23}}</ref> 
+
+In 2010, U.S. [[The Pentagon|Pentagon]] officials along with American geologists have revealed the discovery of nearly $1 trillion in untapped mineral deposits in Afghanistan.<ref name="NYT">[http://www.nytimes.com/2010/06/14/world/asia/14minerals.html?no_interstitial U.S. Identifies Vast Riches of Minerals in Afghanistan], [[New York Times]] by [[James Risen]]. June 13, 2010.</ref><ref>{{cite news |url=http://www.pajhwok.com/en/2010/06/15/turning-afghan-minerals-wealth-could-take-years-us |title=Turning Afghan minerals into wealth could take years; US |publisher=Pajhwok.com |date=2010-06-15 |accessdate=2012-05-15}}</ref> A memo from the Pentagon stated that Afghanistan could become the "Saudi Arabia of [[lithium]]".<ref>{{cite web|url=http://news.discovery.com/earth/afghanistan-minerals-lithium.html |title=Afghanistan: The Saudi Arabia of Lithium? |publisher=News.discovery.com |date=2010-06-14 |accessdate=2012-05-15}}</ref> Some believe, including Afghan President [[Hamid Karzai]], that the untapped minerals are worth at least $3 trillion.<ref>{{cite web|url=http://www.chicagotribune.com/business/sns-ap-as-afghanistan-mineral-treasures,0,4231660.story |title=Afghanistan says its untapped mineral wealth is at least $3 trillion _ triple US estimate |publisher=Chicagotribune.com |date= |accessdate=2012-05-15}}</ref><ref>{{cite web|url=http://www.ksdk.com/news/local/story.aspx?storyid=204154 |title=Afghanistan is suddenly wealthy: US finds $1 trillion in mineral deposits |publisher=Ksdk.com |date=2010-06-14 |accessdate=2012-05-15}}</ref><ref>{{cite web|last=Sengupta |first=Kim |url=http://www.independent.co.uk/news/world/asia/afghanistans-resources-could-make-it-the-richest-mining-region-on-earth-2000507.html |title=Afghanistan's resources could make it the richest mining region on earth |publisher=Independent.co.uk |date=2010-06-15 |accessdate=2012-05-15}}</ref> 
+
+Another US Geological Survey estimate from September 2011 showed that the Khanashin carbonatites in the [[Helmand Province]] of the country have an estimated 1 million metric tonnes of [[rare earth element]]s. Regina Dubey, Acting Director for the Department of Defence ''Task Force for Business and Stability Operations (TFBSO)'' stated that "this is just one more piece of evidence that Afghanistan's mineral sector has a bright future."<ref name=e-Ariana>[http://www.e-ariana.com/ariana/eariana.nsf/allDocs/2D47E02F2DCAC2A88725790C006E238C?OpenDocument Huge rare-earth material in Helmand: USGS]. By Lalit K Jha for [[Pajhwok Afghan News]]. September 15, 2011.</ref>
+
+[[File:Afghan border crossing at Sher Khan in Kunduz Province-4.jpg|thumb|150px|The [[Port of entry]] at [[Shir Khan Bandar]] in [[Kunduz Province]], near the border with [[Tajikistan]].]]
+Afghanistan signed a copper deal with [[China]] (Metallurgical Corp. of China Ltd.) in 2008, which is to a large-scale project that involves the investment of $2.8 billion by China and an annual income of about $400 million to the Afghan government. The country's Ainak copper mine, located in [[Lowgar Province|Logar province]], is one of the biggest in the world and is expected to provide jobs to 20,000 Afghans. It is estimated to hold at least 11 million tonnes or US$33 billion worth of copper.<ref>Pak Tribune, [http://www.paktribune.com/news/print.php?id=125710 NASA Confirms Gas, Mineral Reserves In Afghanistan], November 18, 2005.</ref><ref>AISK.org, [http://www.aisk.org/misc/woik2007issue73.pdf (1.8 MB pdf file)]</ref> 
+
+Experts believe that the production of copper could begin within two to three years and the iron ore in five to seven years as of 2010. The country's other recently announced treasure is the Hajigak iron ore mine, located 130 miles west of Kabul and is believed to hold an estimated 1.8 billion to 2 billion metric tons of the mineral used to make steel. AFISCO, an Indian consortium of seven companies, led by the [[Steel Authority of India Limited]] (SAIL), and Canada's Kilo Goldmines Ltd are expected to jointly invest $14.6 billion in developing the Hajigak iron mine.<ref>{{cite news |url=http://www.pajhwok.com/en/2012/03/31/indian-canadian-firms-invest-146b-hajigak-iron-mine |title=Indian, Canadian firms to invest $ 14.6b in Hajigak iron mine |publisher=Pajhwok Afghan News |editor=Abdul Qadir Siddiqui |date=March 31, 2012|accessdate=2012-03-31}}</ref> The country has several [[coal]] mines but need to be modernized.<ref name="mcclatchydc.com">http://www.mcclatchydc.com/2010/11/14/103393/afghan-business-model-connections.html, McClatchy News, Factory, coal mine show connections matter most in Afghan business, November 10, 2010</ref>
+
+Afghanistan's important resource in the past has been natural gas, which was first tapped in 1967. During the 1980s, gas sales accounted for $300 million a year in export revenues (56% of the total). 90% of these exports went to the [[Soviet Union]] to pay for imports and debts. However, during the withdrawal of Soviet troops in 1989, Afghanistan's natural gas fields were capped to prevent sabotage by the [[Mujahideen]]. Gas production has dropped from a high of 8.2 million cubic metres {{nowrap|(2.9 × 10<sup>8</sup> cu ft)}} per day in the 1980s to a low of about 600,000 cubic meters {{nowrap|(2.2 × 10<sup>7</sup> cu ft)}} in 2001. After the formation of the new [[Karzai administration]], production of natural gas has been restored again.<ref>{{cite news |url=http://www.pajhwok.com/en/2010/11/08/gas-well-inaugurated-shiberghan |title=Gas well inaugurated in Shiberghan |publisher=Pajhwok Afghan News (PAN) |date=November 8, 2010 |accessdate=2011-02-09}}</ref> 
+
+A locally owned company, Azizi Hotak General Trading Group, is currently the main supplier of [[diesel fuel]], [[gasoline]], [[jet fuel]] and [[Liquefied petroleum gas|LPG]] in Afghanistan.<ref>[http://www.azizihotak.com/web/component/option,com_frontpage/Itemid,1/lang,en/ Azizi Hotak General Trading Group]</ref> In December 2011, Afghanistan signed an oil exploration contract with [[China National Petroleum Corporation]] (CNPC) for the development of three oil fields along the Amu Darya river.<ref>[http://news.yahoo.com/afghanistan-signs-7-bn-oil-deal-china-102107384.html Afghanistan signs '$7 bn' oil deal with China]{{dead link|date=May 2012}}</ref> The state will have its first oil refineries within the next three years, after which it will receive very little of the profits from the sale of the oil and natural gas.<ref>{{cite web|author=Associated Press&nbsp;&ndash;&nbsp;Wed, Dec 28, 2011 |url=http://news.yahoo.com/afghanistan-china-sign-first-oil-contract-073748776.html |title=Afghanistan, China sign first oil contract |publisher=News.yahoo.com |date=2011-12-28 |accessdate=2012-05-15}}</ref> CNPC began Afghan oil production in late October 2012, with extracting 1.5 million barrels of oil annually.<ref name=Shalizi>[http://uk.news.yahoo.com/chinas-cnpc-begins-oil-production-afghanistan-131607723--finance.html China's CNPC begins oil production in Afghanistan], by Hamid Shalizi. October 21, 2012.</ref>
+
+Trade in goods smuggled into Pakistan once constituted a major source of revenue for Afghanistan. Many of the goods that were smuggled into Pakistan have originally entered Afghanistan from Pakistan, where they fell under the ''Afghan Trade and Transit Agreement'' (ATTA). This permitted goods bound for Afghanistan to transit through Pakistan free of [[duty (economics)|duty]]. This resulted in considerable problems for the Pakistani government, particularly its customs bureau who realized that many of the items being resold on the [[black market]] in Pakistan were the very same items being allowed duty-free exemption from Pakistani ports (mainly [[Karachi]]) on their way to Afghanistan.<ref>{{cite news |url=http://www.pajhwok.com/en/2010/11/29/afghan-pakistan-chamber-commerce-set |title=Afghan-Pakistan chamber of commerce set up |first=Abdul Qadir |last=Siddiqui |publisher=Pajhwok Afghan News |date=November 29, 2010|accessdate=2010-12-10}}</ref><ref>{{cite news |url=http://www.pajhwok.com/en/2010/12/05/pakistan-resolve-afghan-traders-problems|title=Pakistan to resolve Afghan traders' problems |first=Abdul Qadir |last=Siddiqui |publisher=Pajhwok Afghan News |date=December 5, 2010|accessdate=2010-12-10}}</ref>
+
+When Pakistan clamped down in 2003 on the types of goods permitted duty-free transit, and introducing stringent measures and labels to prevent such practices, re-routing of goods through Iran from the [[Persian Gulf]] increased significantly. The pre-2003 smuggling trade provided undocumented jobs to tens of thousands of Afghans and Pakistanis, but also helped fuel the ''black'' economy, often intertwined with the drug cartels, of both countries. Afghanistan and Pakistan recently signed into law a new ''Afghan-Pak Trade and Transit Agreement'' (APTTA), which allows their shipping [[truck]]s to transit goods within both nations. This revised US-sponsored APTTA agreement also allows Afghan trucks to transport exports to India via Pakistan through the [[Wagah]] crossing point.<ref>{{cite news |url=http://www.pajhwok.com/en/2010/11/29/afghan-pakistan-chamber-commerce-set |title=Afghan-Pakistan chamber of commerce set up |first=Abdul Qadir |last=Siddiqui |publisher=Pajhwok Afghan News |date=November 29, 2010|accessdate=2010-12-10}}</ref><ref>{{cite news |url=http://www.pajhwok.com/en/2010/12/05/pakistan-resolve-afghan-traders-problems|title=Pakistan to resolve Afghan traders' problems |first=Abdul Qadir |last=Siddiqui |publisher=Pajhwok Afghan News |date=December 5, 2010|accessdate=2010-12-10}}</ref> According to Afghanistan's Chamber of Commerce and Industries deputy head, Khan Jan Alokozai, about 500 [[intermodal container|shipping container]]s of trade goods enter Afghanistan via the [[Torkham]] and [[Wesh-Chaman border crossing]]s on a daily basis.<ref>{{cite news |url=http://www.pajhwok.com/en/2011/02/16/pakistan-waives-tax-afghan-trucks |title=Pakistan waives off tax on Afghan trucks |first=Abdul Qadir |last=Siddiqui |publisher=Pajhwok Afghan News (PAN)|date=February 16, 2011|accessdate=2010-12-10}}</ref> Other major trade routes in Afghanistan are via the crossing borders in [[Zaranj]], [[Islam Qala]], [[Hairatan]], [[Shir Khan Bandar]], and [[Towraghondi]].
+
+==Economic development and recovery==
+{{Further|Communications in Afghanistan}}
+[[File:New Building Blocks in Kabul.jpg|thumb|150px|New commercial building]]
+[[File:Khair Khana in 2012.jpg|thumb|150px|Shopping district in the [[Khair Khāna|Khair Khana]] neighborhood of Kabul.]]
+Afghanistan embarked on a modest economic development program in the 1930s. The government founded banks; introduced paper money; established a university; expanded primary, secondary, and technical schools; and sent students abroad for education. In 1952 it created the [[Helmand and Arghandab Valley Authority|Helmand Valley Authority]] to manage the economic development of the Helmand and Arghandab valleys through irrigation and land development,<ref name="tudor"/> a scheme which remains one of the country's most important capital resources.<ref>[http://www.tandfonline.com/doi/abs/10.1080/10106049809354643 Remote sensing change detection of irrigated agriculture in Afghanistan], Barry Haacka, James Wolfb & Richard Englishb; Geocarto International; Volume 13, Issue 2, 1998; pages 65-75; DOI: 10.1080/10106049809354643</ref>
+
+In 1956, the government promulgated the first in a long series of ambitious development plans. By the late 1970s, these had achieved only mixed results due to flaws in the planning process as well as inadequate funding and a shortage of the skilled managers and technicians needed for implementation.<ref>[http://www.strategicoutlook.org/asia---pasific/news-socio-economic-overview-of-afghanistan.html], Socio-Economic Overview of Afghanistan, Strategic Outlook</ref>
+
+[[Da Afghanistan Bank]] serves as the central bank of the nation and the [[Afghan afghani|"Afghani"]] (AFN) is the national currency, with an exchange rate of about 53 Afghanis to [[United States dollar|1 US dollar]]. There are over 16 different banks operating in the country, including [[Afghanistan International Bank]], [[Kabul Bank]], [[Azizi Bank]], [[Pashtany Bank]], [[Standard Chartered Bank]], [[First Micro Finance Bank]], and others. A new law on private investment provides three to seven-year [[tax holiday]]s to eligible companies and a four-year exemption from exports [[tariff]]s and duties. According to a UN report in 2007, Afghanistan has received over $3.3 billion from its expatriate community in 2006. UN officials familiar with the issue said remittances to Afghanistan could have been more if the banking regulations are more convenient.<ref name=PAN5/> Additionally, improvements to the business-enabling environment have resulted in more than $1.5 billion in [[Telecommunication|telecom]] investment and created more than 100,000 jobs since 2003.<ref>{{cite web|url=http://afghanistan.usaid.gov/en/programs/economic_growth#Tab=Description |title=Economic Growth |publisher=USAID|accessdate=25 September 2011}}</ref>
+
+[[File:Kabul New City.jpg|400px|thumb|left|The $35 billion ''New Kabul'' master plan, in which the city is expected to expand north towards [[Bagram Air Base]].]]
+
+Afghanistan is a member of [[South Asian Association for Regional Cooperation|SAARC]], [[Economic Cooperation Organization|ECO]], [[Economy of the OIC|OIC]], and has an observer status in the [[Shanghai Cooperation Organisation]] (SCO). It seeks to complete the so-called ''[[Silk Road|New Silk Road]]'' trade project, which is aimed to connecting South Asia with Central Asia and the Middle East. This way Afghanistan will be able to collect large fees from trade passing through the country, including from the [[Trans-Afghanistan Pipeline]]. Foreign Minister [[Zalmai Rassoul]] stated that his nation's "goal is to achieve an Afghan economy whose growth is based on trade, private enterprise and investment". Experts believe that this will revolutionize the economy of the region.
+
+The capital of Kabul symbolizes the spirits of all Afghans and international cooperation, sets at the heart of this highly resourceful region, with great potential to turn into a business hub. After 2002, the new geo-political dynamics and its subsequent business opportunities, rapid urban population growth and emergence of high unemployment, triggered the planning of urban extension towards the immediate north of Kabul, in the form of a new city.
+
+In 2006, President [[Hamid Karzai]] established an independent board for the development of Kabul New City. The board brought together key stakeholders, including relevant government agencies, representation from private sector, urban specialists and economists, with cooperation from the government of [[Japan]] and French private sector, to prepare a master plan for the city in the context of Greater Kabul. The master plan and its implementation strategy for 2025 were endorsed by the Afghan Cabinet in early 2009. The initiative turned into one of the biggest commercially viable national development project of the country, expected to be led by the private sector.<ref>{{cite web|url=http://www.dcda.gov.af/ |title=the Kabul New City Official Website |publisher=DCDA |date= |accessdate=2012-05-15}}</ref>
+
+As part of an attempt to modernize the city and boost the economy, a number of new high rise buildings are under construction by various developers.<ref>{{cite web|url=http://onyx.af/developmenteam.htm |title=Onyx Construction Company |publisher=Onyx.af |date= |accessdate=2012-05-15}}</ref> An initial concept design called the [[City of Light Development]], envisioned by [[Hisham N. Ashkouri]], for the development and the implementation of a privately based investment enterprise was proposed for a multi-function commercial, historic and cultural development within the limits of the Old City of Kabul, along the southern side of the [[Kabul River]] and along Jade Meywand Avenue. Some of the national development projects include the {{nowrap|$35 bn}} ''New Kabul City'' next to the capital, the ''Ghazi Amanullah Khan City'' east of [[Jalalabad]], and the ''Aino Mena'' in Kandahar.<ref>{{cite web |url=http://www.najeebzarab.af/town_main.php |title=Ghazi Amanullah Khan City |year=2009 |publisher=najeebzarab.af |accessdate=2011-08-15}}</ref><ref>{{cite web|author=|url=http://www.designmena.com/portfolio/aino-mina |title=Case study: Aino Mina |publisher=Designmena.com |date=2012-03-23 |accessdate=2012-05-15}}</ref> Similar development projects are also taking place in [[Herat]] in the west, [[Mazar-e-Sharif]] in the north and in other cities.<ref>[http://www.forbes.com/2009/09/02/mazar-i-sharif-khaled-amiri-opinions-21-century-cities-09-ann-marlowe.html A Humane Afghan City?] by Ann Marlowe in [[Forbes]] September 2, 2009.</ref>
+
+In the last decade, companies such as [[The Coca-Cola Company]] and [[PepsiCo]] launched or re-launched operations in Kabul.<ref>{{cite web|url=http://www.pepsico.com/PressRelease/PepsiCo-Signs-with-Alokozay-as-Exclusive-Bottling-Partner-for-Afghanistan04202011.html |title=PepsiCo Signs with Alokozay as Exclusive Bottling Partner for Afghanistan |publisher=Pepsico.com |date=2011-04-20 |accessdate=2012-05-15}}</ref> In addition, a number of local [[mineral water]] and juice plants, including factories of other products, were built. This not only promotes foreign investment but also makes the country less dependent on imports from neighboring countries and helps provide employment opportunity to many Afghans.<ref>[[Nestlé]], [http://www.nestle.pk/aboutus/afghoperations/Pages/afghoperations.aspx Afghanistan Operations]</ref><ref>[http://pdf.usaid.gov/pdf_docs/PDACG926.pdf Dairy Industry Revitalization Project for Afghanistan], implemented by [[Land O'Lakes]]</ref> [[Watan Group]] is a company based in Afghanistan that provides telecommunications, logistics and security services.
+
+==Tourism==
+{{Unreferenced section|date=January 2015}}
+Tourism in Afghanistan was at its peak in 1977. Many tourists from around the world came to visit Afghanistan, including from neighboring Iran, Turkey and Pakistan, the [[Soviet Union]], [[Europe]], [[North America]] and other places. All this ended with the start of the April 1978 [[Saur Revolution]]. It is expected that once the security situation is normal, Afghanistan will become a major tourist destination. Most westerners feel that Afghanistan is too dangerous for them to tour but the Afghan expatriates and those particularly from the [[Muslim world]] do not see it that dangerous.
+
+The country has three international airports, including the [[Kabul International Airport]], [[Kandahar International Airport]] and [[Herat International Airport]]. [[Mazar-i-Sharif Airport]] and [[Ghazni Airport]] are also being upgraded to become international in the coming years. The city of Kabul has many [[guest house]]s and hotels, including the [[Hotel Inter-Continental Kabul]], [[Safi Landmark Hotel]], and at least one 5-star [[Serena Hotel]]. A [[Marriott Hotels & Resorts|Marriott]] is under construction next to the [[Embassy of the United States, Kabul|U.S. Embassy]].
+[[File:Afghanistan collage.jpg|thumb|Natural landscapes of Afghanistan]]
+
+Tourist sites within the country include:
+*The [[ancient history|ancient]] city of [[Kabul]]
+**[[Gardens of Babur]]
+**[[National Museum of Afghanistan]]
+**[[Paghman Gardens]]
+**[[Qargha Reservoir|Qargha]] and many other places
+*[[Band-e Amir]] National Park in [[Bamyan, Afghanistan|Bamyan]]
+*The ancient city of [[Herat]]
+**[[Herat Citadel]]
+*[[Minaret of Jam]] in the [[Shahrak District]] of [[Ghor Province]]
+*[[Shrine of Hazrat Ali]] in [[Mazar-i-Sharif]]
+*[[Shrine of the Cloak]] in [[Kandahar]]
+*Mausoleums of [[Ghaznavids|Ghaznavid rulers]] in [[Ghazni]]
+*Mausoleum of [[Amanullah Khan]], [[Khan Abdul Ghaffar Khan|Bacha Khan]], and other sites in [[Jalalabad]]
+*Sightseeing at [[Parwan Province]], (i.e. ancient town of [[Bagram]]), [[Panjshir Province]] (mausoleum of [[Ahmad Shah Massoud]] in [[Bazarak, Panjshir|Bazarak]]), [[Badakhshan Province]], and other places.
+
+==National accounts==
+''The majority of the following information is taken from, or adapted from [[The World Factbook]]''
+
+'''[[Gross domestic product|GDP]]''': purchasing power parity $33.55 billion, with an exchange rate at $19.85 billion (2011 est.)
+
+'''GDP - real growth rate''': 
+* 11% (2012 est.)
+
+'''GDP - per capita''': purchasing power parity - $1,000 (2011 est.)<ref name=CIA-GDP-PPP/>
+
+'''GDP - composition by sector''':
+*''agriculture'': 20%
+*''industry'': 25.6%
+*''services'': 54.4%
+'''note:''' data excludes opium production
+
+'''Population below poverty line''':
+* 36% (2009)
+
+'''Household income or consumption by percentage share''':
+*''lowest 10%'': 3.8%
+*''highest 10%'': 24%
+
+'''Inflation rate (consumer prices)''': 13.8% (2011 est.)
+<br>''country comparison to the world:'' 19
+
+'''Labor force''': 15 million (2004)
+<br>''country comparison to the world:'' 39
+
+'''Labor force - by occupation''': agriculture 78.6%, industry 5.7%, services 15.7% (2009)
+
+'''Unemployment rate''': 35% (2009)
+<br>''country comparison to the world:'' 180
+
+'''Budget''':
+*''revenues'': $1.58 billion
+*''expenditures'': $3.3 billion
+
+'''Industries''': small-scale production of [[textile]]s, [[soap]], [[furniture]], [[shoe]]s, [[fertilizer]], [[apparel]], [[food|food-product]]s, [[non-alcoholic beverage]]s, [[mineral water]], [[cement]]; [[Afghan carpet|handwoven carpets]]; [[natural gas]], [[coal]], [[copper]]
+
+'''[[Electricity]] - production''': 913.1 million kWh (2009 est.)
+<br>''country comparison to the world:'' 150
+
+'''Electricity - production by source''':
+*''fossil fuel'': 23.5% of total installed capacity (2009 est.)
+*''hydro'': 76.5% of total installed capacity (2009 est.)
+*''nuclear'': 0% of total installed capacity (2009 est.)
+*''other'': 0% (2001)
+
+'''Electricity - consumption''': 2.226 billion kWh (2009 est.)
+<br>''country comparison to the world:'' 137
+
+'''Electricity - exports''': 0 kWh (2010 est.)
+
+'''Electricity - imports''': 1.377 billion kWh (2009 est.)
+
+'''Oil - production:''' {{convert|1,950|oilbbl/d}} (2012 est.)
+<br>''country comparison to the world:'' 210
+
+'''Oil - consumption:''' {{convert|4229|oilbbl/d}} (2011 est.)
+<br>''country comparison to the world:'' 165
+
+'''Oil - proved reserves:''' {{convert|1600000000|oilbbl}} (2006)<ref name=Eurasianet/>
+
+'''Natural gas - production:''' 220 million m³ (2001)
+
+'''Natural gas - consumption:''' 220 million m³ (2001)
+
+'''Natural gas - proved reserves:''' 15.7 trillion cubic feet (2006 est.)<ref name=Eurasianet/>
+
+'''Agriculture - products''': opium poppies, wheat, fruits, [[nut (fruit)|nuts]], [[karakul (sheep)|karakul]] pelts
+
+'''Exports''': $376 million (2012 est.)
+<br>''country comparison to the world:'' 164
+
+'''Exports - commodities''': opium, fruits and nuts, [[Afghan rugs|handwoven carpets]], [[wool]], [[cotton]], [[hides]] and pelts, and [[gemstone]]
+
+'''Exports - partners''': Pakistan 48%, India 19%, Russia 9%, Iran 5% (FY11/12 est.)
+
+'''Imports''': $6.39 billion (2012 est.)
+
+'''Imports - commodities''': machinery and other capital goods, food, textiles, petroleum products
+
+'''Imports - partners''': Pakistan 13.7%, Russia 12.6%, Uzbekistan 11.5%, Iran 9.1% (FY11/12 est.)
+
+'''Debt - external''': $1.28 to $2.3 billion total (2011)<ref name=Tolo-Debt>{{cite news |url=http://www.tolonews.com/en/business/4257-afghanistan-owes-more-than-2bn- |title=Afghanistan Owes More Than $2bn, Finance Ministry Says |quote=The Afghan Ministry of Finance said Afghanistan owes about $2.3 billion to various countries and international organisations. |publisher=[[Tolo TV|Tolo News]]|date=October 24, 2011|accessdate=November 16, 2011}}</ref>
+*''Russia - $987 million''
+*''Asian Development Bank - $ 596 million''
+*''World Bank - $435 million''
+*''International Monetary Fund - $114 million''
+*''Germany - $18 million''
+*''Saudi Development Fund - $47 million''
+*''Islamic Development Bank - $11 million''
+*''Bulgaria - $51 million''
+*''Kuwait Development Fund - $22 million''
+*''Iran - $10 million''
+*''Opec - $1.8 million''
+
+'''Current account balance:''' -$743.9 million (2011 est.)
+<br>''country comparison to the world:'' 132
+
+'''Currency''': [[Afghan afghani|Afghani]] (AFN)
+
+'''Exchange rates''': afghanis (AFA) per US dollar - 62 = $1
+*''46.75 (2011)''
+*''46.45 (2010)''
+
+'''Fiscal year''': 21 March - 21 March
+
+==See also==
+*[[Energy in Afghanistan]]
+*[[List of exports of Afghanistan]]
+
+==References==
+{{reflist|colwidth=30em}}
+
+*{{CIA World Factbook}}
+
+==External links==
+{{Commons category|Economy of Afghanistan}}
+*[http://mof.gov.af/en Ministry of Finance, Afghanistan]
+*[http://moci.gov.af/en Ministry of Commerce & Industry, Afghanistan]
+*[http://mrrd.gov.af/en Ministry of Rural Rehabilitation & Development, Afghanistan]
+*[http://www.aisa.org.af/ Afghanistan Investment Support Agency (AISA)]
+*[http://numismondo.com/pm/afg Afghanistan's Paper Money]
+*[http://www.imf.org/external/pubs/ft/scr/2010/cr1022.pdf Afghanistan Sixth PRGF Review], [[International Monetary Fund]]
+*[http://afghanag.ucdavis.edu/ Afghan Agriculture] (information resource site maintained by [[UC Davis]] and [[USDA]])
+*{{Dmoz|Regional/Asia/Afghanistan/Business_and_Economy/Economic_Development|Afghanistan Economic Development}}
+;Trade
+*[http://wits.worldbank.org/CountryProfile/Country/AFG/Year/2012/Summary World Bank Trade Summary Statistics Afghanistan 2012]
+{{Afghanistan topics}}
+{{SAFTA}}
+{{Asia in topic|Economy of}}
+
+{{DEFAULTSORT:Economy Of Afghanistan}}
+[[Category:Economy of Afghanistan| ]]
