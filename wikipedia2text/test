@@ -1,4 +1,0 @@
-
-
-for i in range(15):
-    print "./files%d.sh &" %i
