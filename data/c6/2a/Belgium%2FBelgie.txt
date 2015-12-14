@@ -1,3 +1,0 @@
-#REDIRECT [[Belgium]]
-
-{{This is a redirect|from subpage|from alternative language|p2=nl}}

@@ -1,3 +1,0 @@
-#REDIRECT [[abstraction (computer science)#Abstraction in object oriented programming]]
-
-{{R to section}}

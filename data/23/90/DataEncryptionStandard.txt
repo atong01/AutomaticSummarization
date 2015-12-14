@@ -1,2 +1,0 @@
-#REDIRECT [[Data Encryption Standard]]
-{{R from CamelCase}}

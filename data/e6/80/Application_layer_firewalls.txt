@@ -1,3 +1,0 @@
-#REDIRECT [[Application firewall]]
-
-{{R from plural}}

@@ -1,3 +1,0 @@
-#Redirect [[ISO 4217]]
-
-{{Redr|merge|hatnote||nick|p}}

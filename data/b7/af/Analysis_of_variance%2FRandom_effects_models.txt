@@ -1,3 +1,0 @@
-#REDIRECT [[Analysis of variance]]
-
-{{R from subpage}}

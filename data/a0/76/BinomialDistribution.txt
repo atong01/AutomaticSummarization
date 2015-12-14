@@ -1,3 +1,0 @@
-#REDIRECT [[Binomial distribution]]
-
-{{R from CamelCase}}

@@ -1,1 +1,0 @@
-#REDIRECT [[Cryptography]] {{R from CamelCase}}{{R from other capitalisation}}

@@ -1,2 +1,0 @@
-#REDIRECT [[Computer hardware]]
-{{R from CamelCase}}

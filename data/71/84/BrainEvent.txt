@@ -1,3 +1,0 @@
-#REDIRECT [[Mental event]]
-
-{{R from CamelCase}}

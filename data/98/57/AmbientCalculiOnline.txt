@@ -1,1 +1,0 @@
-#REDIRECT [[Ambient calculus]]{{R from CamelCase}}

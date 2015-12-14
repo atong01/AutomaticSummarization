@@ -1,3 +1,0 @@
-#REDIRECT [[Hash function]]
-
-{{This is a redirect|from subpage|from modification}}

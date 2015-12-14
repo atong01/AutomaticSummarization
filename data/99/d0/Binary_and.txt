@@ -1,1 +1,0 @@
-#REDIRECT [[Bitwise operation#AND]] {{R from merge}} {{R to section}}

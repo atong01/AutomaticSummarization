@@ -1,2 +1,0 @@
-#REDIRECT [[ECHELON]]
-{{R from CamelCase}}
